@@ -9,8 +9,7 @@
 // ============================================================
 
 // Cloudflare Worker proxy URL — serves your API key to all users
-// Replace this after deploying the worker (see worker/ directory)
-const AI_PROXY_URL = localStorage.getItem('homeopathy_proxy_url') || '';
+const AI_PROXY_URL = 'https://homeopathy-ai-proxy.daniel-rennich.workers.dev';
 
 const Settings = {
     get apiKey() {

@@ -190,8 +190,13 @@ Given the patient intake data below, produce a JSON response with this exact str
       "repertory_section": "which Kent repertory chapter this belongs to"
     }
   ],
-  "suggested_remedies": ["Up to 10 remedy names you think are most likely based on the totality of symptoms — use Latin names"],
-  "reasoning": "Brief explanation of why you selected those remedies"
+  "suggested_remedies": [
+    {
+      "name": "Latin remedy name",
+      "reason": "1-2 sentence explanation of why this remedy fits this patient's specific symptom picture"
+    }
+  ],
+  "reasoning": "Brief overall explanation of the case analysis"
 }
 
 RULES:
@@ -202,7 +207,7 @@ RULES:
 5. Use proper homeopathic terminology in required_terms (e.g., "aggravation" not just "worse")
 6. For body locations, use both common and Latin terms
 7. Group related concepts: don't search "running" alone, search ["knee", "pain", "motion", "aggravation"] together
-8. Your suggested_remedies should be based on the TOTALITY, not individual symptoms
+8. Your suggested_remedies should be based on the TOTALITY, not individual symptoms. Include up to 10 remedies, each with a specific reason tied to this patient's symptoms.
 9. Return ONLY valid JSON, no markdown formatting`;
 
 
@@ -507,13 +512,16 @@ function keywordFallbackMatch(payload) {
 
     if (!Object.keys(scores).length) return { keywords_used: 0, results: [] };
 
-    const ranked = Object.entries(scores).sort((a, b) => b[1] - a[1]).slice(0, 50);
+    const ranked = Object.entries(scores).sort((a, b) => b[1] - a[1]).slice(0, 10);
+    const maxScore = ranked.length ? ranked[0][1] : 1;
     const results = ranked.map(([idx, score]) => {
         const e = searchIndex[parseInt(idx)];
         return {
             id: e.id, primary: e.primary, latin: e.latin, category: e.category,
             n_sources: e.n_sources, has_traditional: e.has_traditional,
             has_evidence: e.has_evidence, score: Math.round(score * 10) / 10,
+            pct: Math.round((score / maxScore) * 100),
+            ai_reason: '',
             matched_keywords: (matchedKw[idx] || []).slice(0, 20),
         };
     });
@@ -566,8 +574,13 @@ async function intakeMatch(payload) {
             }
         }
 
-        // Boost Claude's suggested remedies
-        for (const remedyName of (agentResult.suggested_remedies || [])) {
+        // Boost Claude's suggested remedies and capture per-remedy reasons
+        const aiReasons = {};  // remedy index -> reason string
+        const suggested = agentResult.suggested_remedies || [];
+        for (const entry of suggested) {
+            // Handle both old format (string) and new format ({name, reason})
+            const remedyName = typeof entry === 'string' ? entry : (entry.name || '');
+            const reason = typeof entry === 'object' ? (entry.reason || '') : '';
             const rnLower = remedyName.toLowerCase();
             for (let i = 0; i < searchIndex.length; i++) {
                 const e = searchIndex[i];
@@ -576,19 +589,24 @@ async function intakeMatch(payload) {
                 if (nameText.includes(rnLower) ||
                     rnLower.split(/\s+/).filter(w => w.length >= 4).some(w => nameText.includes(w))) {
                     award(i, 8.0, `AI suggested: ${remedyName}`);
+                    if (reason) aiReasons[i] = reason;
                     break;
                 }
             }
         }
 
         if (Object.keys(scores).length) {
-            const ranked = Object.entries(scores).sort((a, b) => b[1] - a[1]).slice(0, 50);
+            const ranked = Object.entries(scores).sort((a, b) => b[1] - a[1]).slice(0, 10);
+            const maxScore = ranked.length ? ranked[0][1] : 1;
             const results = ranked.map(([idx, score]) => {
                 const e = searchIndex[parseInt(idx)];
                 return {
                     id: e.id, primary: e.primary, latin: e.latin, category: e.category,
                     n_sources: e.n_sources, has_traditional: e.has_traditional,
-                    has_evidence: e.has_evidence, score: Math.round(score * 10) / 10,
+                    has_evidence: e.has_evidence,
+                    score: Math.round(score * 10) / 10,
+                    pct: Math.round((score / maxScore) * 100),
+                    ai_reason: aiReasons[parseInt(idx)] || '',
                     matched_keywords: (matchedKw[idx] || []).slice(0, 20),
                 };
             });

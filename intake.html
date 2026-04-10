@@ -794,17 +794,20 @@ function renderIntakeResults(data) {
     document.getElementById('resultsInfo').innerHTML = infoHtml;
 
     const list = document.getElementById('resultsList');
-    const maxScore = data.results.length ? data.results[0].score : 1;
-    list.innerHTML = data.results.map(r => {
-        const pct = Math.round((r.score / maxScore) * 100);
+    list.innerHTML = data.results.map((r, i) => {
+        const pct = r.pct || Math.round((r.score / (data.results[0]?.score || 1)) * 100);
+        const summary = r.ai_reason
+            ? r.ai_reason
+            : r.matched_keywords.slice(0, 5).join(', ');
         return `
         <div class="result-card" onclick="showDetail('${r.id}')">
             <div style="display:flex;justify-content:space-between;align-items:baseline">
                 <div>
+                    <span style="color:#71767b;font-size:0.85rem;font-weight:600;margin-right:6px">#${i + 1}</span>
                     <span class="result-name">${esc(r.primary)}</span>
                     ${r.latin !== r.primary ? `<span class="result-latin"> ${esc(r.latin)}</span>` : ''}
                 </div>
-                <span style="color:#7ec8a0;font-size:0.85rem;font-weight:600">${r.score} hits</span>
+                <span style="color:#7ec8a0;font-size:0.95rem;font-weight:700">${pct}% match</span>
             </div>
             <div style="margin-top:4px">
                 <span class="badge badge-cat">${r.category}</span>
@@ -813,8 +816,11 @@ function renderIntakeResults(data) {
                 ${r.has_evidence ? '<span class="badge" style="background:#2d1d3a;color:#b36bd9">Evidence</span>' : ''}
             </div>
             <div class="match-bar"><div class="match-fill" style="width:${pct}%"></div></div>
-            <div class="match-details">
-                ${r.matched_keywords.map(k => `<span class="match-tag hit">${esc(k)}</span>`).join('')}
+            <div style="margin-top:8px;color:#b0b3b8;font-size:0.84rem;line-height:1.5">
+                ${esc(summary)}
+            </div>
+            <div style="text-align:right;margin-top:8px">
+                <span style="color:#6bb3d9;font-size:0.82rem;cursor:pointer">View full remedy details &rarr;</span>
             </div>
         </div>`;
     }).join('');

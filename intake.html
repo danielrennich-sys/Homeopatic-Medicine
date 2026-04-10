@@ -807,7 +807,7 @@ function renderIntakeResults(data) {
                     <span class="result-name">${esc(r.primary)}</span>
                     ${r.latin !== r.primary ? `<span class="result-latin"> ${esc(r.latin)}</span>` : ''}
                 </div>
-                <span style="color:#7ec8a0;font-size:0.95rem;font-weight:700">${pct}% match</span>
+                <span style="color:#7ec8a0;font-size:0.95rem;font-weight:700">${r.score} hits</span>
             </div>
             <div style="margin-top:4px">
                 <span class="badge badge-cat">${r.category}</span>

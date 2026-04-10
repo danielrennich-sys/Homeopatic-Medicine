@@ -1,0 +1,365 @@
+{
+  "id": "natrum-arsenicosum",
+  "names": {
+    "primary": "Natrum Arsenicosum",
+    "latin": "Natrum Arsenicosum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Natrum Arsenicosum",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Modalities: The symptoms of this remedy appear in the daytime, in the MORNING, in the forenoon, evening, night and after MIDNIGHT.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The symptoms are worse in the cold air, but warm open air ameliorates; the mental symptoms are better in the open air; worse from cold in genera l; in cold air; becoming cold; in cold, wet weather; the patient takes cold easily.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The symptoms are worse ascending. Anemia and weakness and dropsy of the limbs. Complaints worse after eating. The body is losing flesh. The symptoms come on FROM EXERTION. Worse from butter, cold drinks, cold food, fats, fruits, milk, pork, vinegar.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Formication all over the body and in the limbs; induration of glands; inflammation in any part. Marked physical irritability and irritable weakness. Jarring aggravates many symptoms. Lassitude prevails throughout the provings.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Desire to lie down and not be disturbed; yet lying often makes the symptoms worse and aggravation is marked after lying. Still many symptoms are worse from motion; there is a strong aversion to motion.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Mucous secretions are copious. After exposure to cold he becomes rheumatic. Aching, burning and pressing pains; sore pains; stitching pains in all parts; darting pains in all parts; downward and upward. Perspiration does not ameliorate. Pressure aggravates. General pulsation.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pulse irregular. Rheumatic and malarial patients, oversensitive, internally and externally. Electric shocks in the body. Symptoms predominate on the right side. Wants to sit or lie and not be disturbed. There are symptoms before sleep, during sleep, and on waking; trembling is a strong symptom. Twitching of the muscles.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Walking in the open air increases the physical symptoms, but improves the mental symptoms; walking fast excites many symptoms. Weakness in the morning, during menses, on slight exertion, while walking. Wet weather brings out the symptoms. Worse from wine and in winter.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Mind: Anger at trifles; furious from contradiction; complaints are made worse from anger.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Anxiety in the evening in bed; at night in bed apprehensive anxiety; during fever; on waking.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Concentration of mind difficult in the house, better in the open air; confusion of mind in the evening. Conscientious about trifles. Discontented; discouraged and, at times, in despair. He is easily distracted. Dullness of mind, better in the open air. Easily excited, Mental exertion makes the symptoms worse. Fear in the evening on going to bed; in a crowd; of impending disease; of some evil; that something will happen; of people.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Easily frightened; forgetful; he feels constantly hurried. Hysterical and her mind is very active; ideas very active. Imbecility, irritability, impatience; indifferent to all joy. Aversion to mental work and to business; aversion to reading; indolence; memory weak.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Lamenting, laughing, loathing of life, loquacity. The mental symptoms are all mild. Mirthful, hilarious; prostration of mind. She becomes quarrelsome, Restlessness; nights, tossing, anxious restlessness. Sadness in the evening; during fever. Sensitive to noise; startled easily, by noise, on going to sleep, from sleep.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Suspicious. Indisposed to talk; disturbed by the conversation of people. Timidity with a vacant feeling of mind. Weeping. Vertigo while walking. When the above general symptoms are present in any considerable number the following particulars will yield to this remedy.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Head: Hyperoemia of the brain with heat and fullness; fullness in the forehead.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Subjective heat with objective coldness of forehead. Heaviness in the head, in the forehead. Empty feeling in the head. Numbness in forehead in the evening.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain in the head; morning; afternoon; evening; night, night on waking; better in the open air; catarrhal headache; with coryza; worse after eating; from becoming heated; worse from heat; from a jar; from light; before and during menses; from mental exertion; moving head; every motion jars head; FROM NOISE; paroxysmal pains; periodical headaches; from pressure; pulsating; worse in a room; after sleep; from stooping; tobacco smoke; from walking; in a warm room; from wine.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain in the forehead; in the morning on waking; during the whole day; above the eyes, extending to the temples. Pain in the occiput; pain in the sides of the head; pain in the temples; right side, from temple to temple; pain in the vertex.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Boring in the temples; right to left; with nausea; bursting in the head, in the forehead; drawing in the head, in the forehead; pressing pain in the head; in the forehead, in the occiput, in the temples; in the vertex; sharp pains above the right eye; shooting pains above the right eye.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sore and tender scalp; forehead. Stitching pains in the head; stunning pains in the head; tearing in the head; in the forehead; in the sides of the head.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Perspiration on the forehead. Pulsation in the head; forehead, temples, vertex; with fullness in the forehead.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Eyes: The eye symptoms are worse in the morning; lids are stuck together in the morning; congested eyes and blood vessels; discharge of mucus from the eyes.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Dryness. Sensation of enlargement of the eyes in the morning on waking. Granular lids. The eyes feel hot. Inflammation of the conjunctiva from cold or wind; worse in the morning, after night work; of the lids and margins. Injected veins. Lachrymation in the morning on waking, in the open air, on looking steadily, when reading, unable to open the lids.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain in the eyes, worse in sunlight, from motion; while reading; while reading by gas light; while writing; better by warmth. Aching in and over the eyes; in the morning on waking.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Burning in the eyes; in the evening, in the open air, while reading. Pressing pain in the eyes; smarting as from smoke; sore and tender when reading; stitching pains in the eyes. Paralysis of the upper lids; of the optic nerve. Photophobia in daylight. Pupils dilated: left eye larger than right.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Redness of THE VEINS. Staring eyes; stiffness of the lids; of the eyeballs. Strabismus. Swollen eyes; LIDS; oedematous lids; supra-orbital oedema. Ulceration of the cornea. Weak eyes and vision; vision blurred; tires out when reading.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Dark colors before the eyes. Vision dim, on looking long; wipes eyes for relief. Flickering, foggy vision. Hemiopia. Myopia. Sparks before the eyes.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ears: The ears are hot; itching in the ears.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Noises: morning, evening, with vertigo, humming, ringing, roaring, rushing in the right ear; singing. Pain in ears: morning, stitching, tearing, behind the ears. The ears feel stopped. Hearing acute; for noises; impaired.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Nose: Catarrh with pain in forehead and root of nose, post-nasal with viscid mucus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Coryza: worse in open air, with cough, fluent or dry, fluent alternating with dry; discharge copious, crusts, dry bloody crusts, hard bluish mucus, offensive, purulent, suppressed, thick, viscid, WATERY, yellow.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Dryness in nose. Epistaxis after removing crusts from nose; bright red blood. Obstruction of nose at night (right); morning on waking; mucous membrane thickened and it is difficult to breathe through the nose. Ozoena.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The nose is red. Pain in the nose, in the roof of nose; burning, pressing at root of nose; rawness in nose. Smell acute at first, later wanting. Frequent, violent sneezing.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Face: Corners of lips cracked and indurated.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Discoloration of the face; bluish, around eyes; earthy; PALE; red; yellow; liver spots. Face is drawn. Eruptions on the face; forehead and lips; AROUND THE MOUTH; on the nose; comedones; herpes on lips; moist eruptions; pimples; vesicles. The face is hot and itching.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain on moving the jaw. The face feels puffed. Stiffness of muscles of mastication. Swelling in the morning on waking; molar bones feel swollen; oedematous; swollen parotids. Twitching of face. Ulcer en the lips.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Aphthae in the mouth; bleeding gums; cracked and corrugated tongue. Discoloration: redness of mouth and tongue; white tongue; yellow tongue. Dryness of mouth; tongue; flabby tongue. Inflammation of mouth and tongue. Salivation and saliva is viscid.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Stammering speech. Taste bitter in the morning; metallic, saltish, SOUR, Sweetish. Ulceration in mouth. Vesicles in mouth and on tongue; burning. The teeth become loose. Pain in the teeth; night; pulsating; warmth ameliorates; jerking pains, tearing pains.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Throat: Choking; constriction of oesophagus; dryness in throat; worse in the morning; after a cold.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Throat red and glossy, purple red; hawks frequently to raise white mucus, worse in the open air. Inflammation; dark red, covered with yellow mucus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sensation of a lump in the throat; gray exudation in the throat. It is said to have cured diphtheria. Mucus in the throat; tough gelatinous, grayish, yellow, white, from posterior nares. Pain in throat on swallowing, on empty swallowing, but no pain on swallowing food or drink; burning, sore, stitching.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Roughness in the throat; scraping in the throat. Swallowing difficult. Swollen pharynx, uvula and tonsils; oedematous. uvula hangs down like a water bag. Constriction in the region of the thyroid gland. Stiffness in the sides of the neck.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Appetite: increased, ravenous, wanting; aversion to fats, to, meat, to his cigar; sensation of constriction in the stomach.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Desires beer, bread, cold drinks, sweet things. Disordered stomach; by milk. Stomach is distended; sensation of emptiness; eructations afternoon, after eating; empty, tasting of food, SOUR after, eating, waterbrash.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Fullness in the stomach after eating. Heartburn. Flushes of heat, heaviness after eating. Hiccough after eating, indigestion is very marked. Loathing of food. Nausea; after eating; constant; during cough; after cold drinks; with headache; during menses.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Stomach: Pain in the stomach: AFTER EATING; burning after warm things; cramping; CUTTING; gnawing; pressing after eating; soreness; stitching.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pulsation in the stomach. Retching when raising mucus from the throat. Sinking sensation. Sensation of a stone in the stomach. Tension in the stomach.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Thirst: morning; evening; night; burning thirst; extreme thirst; unquenchable thirst; drinks often but small drinks. Thirstlessness. Vomiting: on coughing; after eating; bile; bitter; blood; mucus; sour; watery.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Abdomen: Distension of abdomen after eating; flatulence; fullness, gurgling, hardness.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Heavy feeling in abdomen. Inflammation of liver; spleen. Liver affections. Pain in the abdomen; at night; after eating; from flatus; before a diarrhoea; before stool; better after stool and after passing flatus; in hypochondria; hypogastrium; in region of umbilicus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Cramping; before stool, better by passing flatus and stool. Cutting; before stool. Drawing in abdomen; in hypochondria. Sore, tender abdomen; in hypochondria. Stitching in abdomen; in hypochondria; in inguinal region; in spleen. Nervous feeling in abdomen. Rumbling in abdomen; as if a diarrhea would come on. Affections of the spleen. Swollen inguinal gIands. Tension in abdomen, in hypochondria.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Constipation, alternating with diarrhoea; stool hard. Diarrhoea: evening daytime; morning; drives him, out of bed; NIGHT; after midnight; frequent stool during daytime; from becoming cold; from cold drinks; from taking cold; worse after eating; during menses; AFTER MILK; after vegetable; stool: bloody, copious, frequent, mucous, painless, pasty, scanty, soft, thin, watery, yellow.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Excoriation of anus. Flatus copious and offensive. Itching of anus. Pain: BURNING during and after stool; cramping, better after stool; cutting, during stool and in the hypogastrium; before stool; soreness and stitching; tearing during stool; tenesmus during stool. Urging to stool; ineffectual; after stool.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Urinary: Sore pain in bladder relieved by urging; urging to urinate at night; constant; frequent.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Urination difficult; frequent; involuntary at night in sleep; unsatisfactory. Burning and aching in the kidneys.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Burning in the urethra when passing urine. Urine: ALBUMINOUS; burning; dark; pale; copious at night; clear as water; offensive, scanty; with mucus and phosphate, Specific gravity decreased; 1050.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Genitalia: Morning erections; incomplete.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Inflammation of glans penis, prepuce and testes. Stitching of the genitals, penis, scrotum. Sore ness left testis. Seminal emissions. Swollen penis and testes.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "In the female the desire is increased. Leucorrhea; copious; offensive; thick; yellow. Menses: copious; too soon; protracted; scanty. Metrorrhagia. Pain in the uterus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Larynx: Dryness and constriction in the larynx; scraping slate-colored mucus from the larynx; mucus is detached with difficulty; burning and soreness in the larynx; roughness in larynx.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The symptoms of the larynx are worse from dust, smoke or cold air. Voice: hoarse ness with coryza; lost; weak. Respiration is fast and deep; miner's asthma from coal dust; difficult on ascending, short.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Cough: morning; afternoon; evening; night; from deep breathing, dry at night; in the morning and from exertion; dry teasing cough all day; exhausting; hacking; from irritation in larynx and trachea loose; racking, short, spasmodic; from tickling in larynx and trachea violent; worse in a warm room. Expectoration: morning, evening, bloody, difficult, mucous, OFFENSIVE, PURULENT, tasting bitter, flat, putrid, viscid, yellow.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Chest: Anxiety and constriction of the chest. Eruptions, pimples. Sensation of fullness in the chest. Hemorrhage from the lungs. Pneumonia and phthisis in miners from dust of coal. Irritation in the bronchial tubes in the morning.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Oppression of chest on exertion and deep breathing; heart.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain in the chest, during cough; in the heart; burning, cutting below the seventh rib; pressing; rawness; sore from coughing; stitching. Palpitation of the heart; night; anxious; ascending steps; exertion; tumultuous. Sensation as if he had inhaled smoke.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Back: Coldness of the back at night.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Stitching of the cervical region. Pain in the back, evening; night; worse walking; in the scapulae; between the scapulae; on bending forward and on breathing; in the lumbar region when stooping and walking; in the sacrum both while walking and sitting; aching in the back; drawing pain in the back; sore pain in the back; sore pain in the sacrum when walking and stooping; sore pain in cervical region; sore pain under scapulae; sore pain in spine on pressure.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Stiffness in the cervical region, weakness in the back.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Limbs: Awkwardness of the limbs; cold hands and FEET; cramps in calf in soles.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Eruptions on limbs; thin white scales; vesicles. Excoriation between the thighs. Formication of the feet. Heaviness, a tired feeling in lower limbs, in feet. Itching of all the limbs. Jerking in the lower limbs. Lameness in the limbs.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Numbness in the feet. Pain in the limbs; in the joints, during chill; neuralgic pain in limbs; RHEUMATIC; gouty pains; upper limbs; right arm rheumatic; shoulder; rheumatic pain in shoulder and elbow; palms painful; pain in fingers.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain in lower limbs; sciatica worse walking; in the hip; thigh when walking; knee. Aching down front of legs; bruised pain in limbs from continued motion; burning feet and soles, crampy pain in calf; flying pains in fingers, palms and forearms; drawing pains in lower limbs, thigh, knees, calf; neuralgic pain from axilla to little finger; stitching pain in hip, thigh, hip to knee on motion; knee, leg; tearing pains in upper limbs, in lower limbs, in thigh, legs ankles, foot.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Perspiration of hands, of feet. Pulsation of limbs. Restlessness of the limbs, upper limbs, lower limbs, legs. Stiffness of limbs, joints, wrists. Swelling of limbs: dropsical; legs; feet. Trembling hands; lower limbs. Twitching upper limbs; thighs. Weakness of the limbs; upper limbs; hands; lower limbs; thighs; legs; ANKLES; feet.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sleep: The sleep is deep.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Dreams: amorous; anxious; frightful; of murder; nightmare; pleasant; vexatious; vivid. Late falling asleep; restless sleep. Sleepiness in the afternoon. Sleeplessness before midnight; after midnight; with sleepiness. Unrefreshing sleep. WAKING EARLY, frequently.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Chill morning; forenoon; evening in bed; in cold air; coldness comes on at night in bed; chilliness, internal chill, shaking chill in the morning; chill at -2 A.M.; 1 P.M.; 2 P.M.; the chill is relieved in a warm room.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Fever at night; dry heat, flushes of heat, perspiration absent.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Perspiration: morning; nights; from anxiety; in bed; cold; on coughing; on slight exertion; following the fever; on motion; profuse, at night; symptoms worse while perspiring; aversion to uncovering while perspiring.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Skin: Burning skin; cold skin desquamation.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Liver spots, red spots, yellow skin; dryness of the skin.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Eruptions: blisters; boils; burning; moist; herpes; itching in warmth; painful pimples; scaly thin white scales; stinging, suppurating tubercles; urticaria; nodules vesicular erysipelas, with swelling, worse after scratching; formication of skin; itching, crawling, worse after scratching. Swelling of skin with burning.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ulcers, burning; deep; yellow discharge; spreading; stinging.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "LECTURES ON HOMOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror Natrum Arsenicosum Modalities : The symptoms of this remedy appear in the daytime , in the MORNING , in the forenoon, evening, night and after MIDNIGHT . The symptoms are worse in the cold air, but warm open air ameliorates; the mental symptoms are better in the open air; worse from cold in genera l; in cold air; becoming cold ; in cold, wet weather; the patient takes cold easily. The symptoms are worse ascending. Anemia and weakness and dropsy of the limbs. Complaints worse after eating. The body is losing flesh. The symptoms come on FROM EXERTION . Worse from butter, cold drinks, cold food, fats, fruits, milk, pork , vinegar. Formication all over the body and in the limbs; induration of glands; inflammation in any part. Marked physical irritability and irritable weakness. Jarring aggravates many symptoms. Lassitude prevails throughout the provings. Desire to lie down and not be disturbed; yet lying often makes the symptoms worse and aggravation is marked after lying. Still many symptoms are worse from motion; there is a strong aversion to motion. Mucous secretions are copious. After exposure to cold he becomes rheumatic. Aching, burning and pressing pains; sore pains; stitching pains in all parts; darting pains in all parts; downward and upward. Perspiration does not ameliorate. Pressure aggravates. General pulsation. Pulse irregular. Rheumatic and malarial patients, oversensitive, internally and externally. Electric shocks in the body. Symptoms predominate on the right side. Wants to sit or lie and not be disturbed. There are symptoms before sleep, during sleep, and on waking; trembling is a strong symptom. Twitching of the muscles. Walking in the open air increases the physical symptoms, but improves the mental symptoms; walking fast excites many symptoms. Weakness in the morning , during menses, on slight exertion , while walking . Wet weather brings out the symptoms. Worse from wine and in winter. Mind : Anger at trifles; furious from contradiction; complaints are made worse from anger. Anxiety in the evening in bed; at night in bed apprehensive anxiety; during fever; on waking. Concentration of mind difficult in the house, better in the open air; confusion of mind in the evening. Conscientious about trifles. Discontented; discouraged and, at times, in despair. He is easily distracted. Dullness of mind, better in the open air. Easily excited, Mental exertion makes the symptoms worse. Fear in the evening on going to bed; in a crowd; of impending disease; of some evil; that something will happen; of people. Easily frightened ; forgetful; he feels constantly hurried. Hysterical and her mind is very active; ideas very active. Imbecility, irritability, impatience; indifferent to all joy. Aversion to mental work and to business; aversion to reading; indolence; memory weak . Lamenting, laughing, loathing of life, loquacity. The mental symptoms are all mild. Mirthful, hilarious; prostration of mind. She becomes quarrelsome, Restlessness; nights, tossing, anxious restlessness. Sadness in the evening; during fever. Sensitive to noise; startled easily, by noise, on going to sleep, from sleep. Suspicious. Indisposed to talk; disturbed by the conversation of people. Timidity with a vacant feeling of mind. Weeping. Vertigo while walking. When the above general symptoms are present in any considerable number the following particulars will yield to this remedy. Head : Hyperoemia of the brain with heat and fullness; fullness in the forehead. Subjective heat with objective coldness of forehead. Heaviness in the head, in the forehead. Empty feeling in the head. Numbness in forehead in the evening. Pain in the head ; morning; afternoon; evening ; night, night on waking; better in the open air; catarrhal headache; with coryza; worse after eating; from becoming heated; worse from heat; from a jar; from light; before and during menses; from mental exertion ; moving head; every motion jars head; FROM NOISE ; paroxysmal pains; periodical headaches ; from pressure; pulsating; worse in a room; after sleep; from stooping; tobacco smoke; from walking; in a warm room; from wine. Pain in the forehead; in the morning on waking; during the whole day; above the eyes, extending to the temples. Pain in the occiput; pain in the sides of the head; pain in the temples; right side, from temple to temple; pain in the vertex. Boring in the temples; right to left; with nausea; bursting in the head, in the forehead; drawing in the head, in the forehead; pressing pain in the head; in the forehead, in the occiput, in the temples ; in the vertex; sharp pains above the right eye; shooting pains above the right eye. Sore and tender scalp; forehead. Stitching pains in the head; stunning pains in the head; tearing in the head; in the forehead; in the sides of the head. Perspiration on the forehead . Pulsation in the head; forehead, temples, vertex; with fullness in the forehead. Eyes : The eye symptoms are worse in the morning; lids are stuck together in the morning; congested eyes and blood vessels; discharge of mucus from the eyes. Dryness. Sensation of enlargement of the eyes in the morning on waking. Granular lids. The eyes feel hot. Inflammation of the conjunctiva from cold or wind; worse in the morning, after night work; of the lids and margins. Injected veins. Lachrymation in the morning on waking, in the open air, on looking steadily, when reading, unable to open the lids. Pain in the eyes, worse in sunlight, from motion; while reading; while reading by gas light; while writing; better by warmth . Aching in and over the eyes; in the morning on waking. Burning in the eyes; in the evening, in the open air, while reading. Pressing pain in the eyes; smarting as from smoke; sore and tender when reading; stitching pains in the eyes. Paralysis of the upper lids; of the optic nerve. Photophobia in daylight. Pupils dilated: left eye larger than right. Redness of THE VEINS . Staring eyes; stiffness of the lids; of the eyeballs . Strabismus. Swollen eyes; LIDS ; oedematous lids; supra-orbital oedema . Ulceration of the cornea. Weak eyes and vision; vision blurred; tires out when reading. Dark colors before the eyes. Vision dim, on looking long; wipes eyes for relief. Flickering, foggy vision. Hemiopia. Myopia. Sparks before the eyes. Ears : The ears are hot; itching in the ears. Noises: morning, evening, with vertigo, humming, ringing, roaring, rushing in the right ear; singing. Pain in ears: morning, stitching , tearing, behind the ears. The ears feel stopped. Hearing acute ; for noises; impaired. Nose : Catarrh with pain in forehead and root of nose, post-nasal with viscid mucus. Coryza: worse in open air, with cough, fluent or dry, fluent alternating with dry; discharge copious , crusts, dry bloody crusts , hard bluish mucus, offensive, purulent, suppressed, thick, viscid, WATERY, yellow. Dryness in nose. Epistaxis after removing crusts from nose; bright red blood. Obstruction of nose at night (right); morning on waking; mucous membrane thickened and it is difficult to breathe through the nose. Ozoena. The nose is red. Pain in the nose, in the roof of nose; burning, pressing at root of nose; rawness in nose. Smell acute at first, later wanting. Frequent, violent sneezing. Face : Corners of lips cracked and indurated. Discoloration of the face; bluish, around eyes; earthy; PALE ; red; yellow; liver spots. Face is drawn. Eruptions on the face; forehead and lips; AROUND THE MOUTH ; on the nose ; comedones; herpes on lips; moist eruptions; pimples; vesicles. The face is hot and itching. Pain on moving the jaw. The face feels puffed. Stiffness of muscles of mastication. Swelling in the morning on waking; molar bones feel swollen; oedematous; swollen parotids. Twitching of face. Ulcer en the lips. Aphthae in the mouth; bleeding gums; cracked and corrugated tongue. Discoloration: redness of mouth and tongue; white tongue; yellow tongue. Dryness of mouth; tongue ; flabby tongue. Inflammation of mouth and tongue. Salivation and saliva is viscid. Stammering speech. Taste bitter in the morning; metallic , saltish, SOUR , Sweetish. Ulceration in mouth. Vesicles in mouth and on tongue; burning. The teeth become loose. Pain in the teeth; night; pulsating; warmth ameliorates; jerking pains, tearing pains. Throat : Choking; constriction of oesophagus; dryness in throat; worse in the morning; after a cold. Throat red and glossy, purple red; hawks frequently to raise white mucus, worse in the open air. Inflammation; dark red, covered with yellow mucus. Sensation of a lump in the throat; gray exudation in the throat. It is said to have cured diphtheria. Mucus in the throat; tough gelatinous, grayish, yellow, white, from posterior nares. Pain in throat on swallowing, on empty swallowing, but no pain on swallowing food or drink; burning, sore, stitching. Roughness in the throat; scraping in the throat. Swallowing difficult. Swollen pharynx, uvula and tonsils; oedematous. uvula hangs down like a water bag. Constriction in the region of the thyroid gland. Stiffness in the sides of the neck. Appetite : increased, ravenous, wanting ; aversion to fats, to, meat, to his cigar; sensation of constriction in the stomach. Desires beer, bread, cold drinks, sweet things. Disordered stomach; by milk. Stomach is distended; sensation of emptiness; eructations afternoon, after eating; empty , tasting of food, SOUR after, eating, waterbrash. Fullness in the stomach after eating. Heartburn. Flushes of heat, heaviness after eating. Hiccough after eating, indigestion is very marked. Loathing of food. Nausea; after eating; constant; during cough; after cold drinks; with headache; during menses. Stomach : Pain in the stomach: AFTER EATING ; burning after warm things; cramping; CUTTING ; gnawing; pressing after eating; soreness; stitching. Pulsation in the stomach. Retching when raising mucus from the throat. Sinking sensation. Sensation of a stone in the stomach. Tension in the stomach. Thirst: morning; evening; night; burning thirst; extreme thirst; unquenchable thirst; drinks often but small drinks. Thirstlessness. Vomiting: on coughing; after eating; bile; bitter; blood ; mucus; sour ; watery. Abdomen : Distension of abdomen after eating; flatulence; fullness, gurgling, hardness. Heavy feeling in abdomen. Inflammation of liver; spleen. Liver affections. Pain in the abdomen; at night; after eating; from flatus ; before a diarrhoea; before stool; better after stool and after passing flatus; in hypochondria; hypogastrium; in region of umbilicus. Cramping; before stool, better by passing flatus and stool. Cutting; before stool. Drawing in abdomen; in hypochondria. Sore, tender abdomen; in hypochondria. Stitching in abdomen; in hypochondria; in inguinal region; in spleen. Nervous feeling in abdomen. Rumbling in abdomen; as if a diarrhea would come on. Affections of the spleen. Swollen inguinal gIands. Tension in abdomen, in hypochondria. Constipation, alternating with diarrhoea; stool hard. Diarrhoea: evening daytime; morning; drives him, out of bed; NIGHT; after midnight; frequent stool during daytime; from becoming cold; from cold drinks; from taking cold; worse after eating ; during menses; AFTER MILK ; after vegetable; stool: bloody, copious, frequent, mucous, painless, pasty, scanty, soft, thin, watery, yellow . Excoriation of anus. Flatus copious and offensive. Itching of anus . Pain: BURNING during and after stool; cramping, better after stool; cutting, during stool and in the hypogastrium; before stool; soreness and stitching; tearing during stool; tenesmus during stool . Urging to stool; ineffectual; after stool. Urinary : Sore pain in bladder relieved by urging; urging to urinate at night; constant; frequent. Urination difficult; frequent; involuntary at night in sleep; unsatisfactory. Burning and aching in the kidneys. Burning in the urethra when passing urine. Urine: ALBUMINOUS ; burning; dark; pale; copious at night; clear as water; offensive , scanty; with mucus and phosphate, Specific gravity decreased; 1050. Genitalia : Morning erections; incomplete. Inflammation of glans penis, prepuce and testes. Stitching of the genitals, penis, scrotum. Sore ness left testis. Seminal emissions. Swollen penis and testes. In the female the desire is increased. Leucorrhea; copious; offensive; thick; yellow. Menses: copious; too soon; protracted; scanty . Metrorrhagia. Pain in the uterus. Larynx : Dryness and constriction in the larynx; scraping slate-colored mucus from the larynx; mucus is detached with difficulty; burning and soreness in the larynx; roughness in larynx. The symptoms of the larynx are worse from dust, smoke or cold air. Voice: hoarse ness with coryza; lost; weak. Respiration is fast and deep; miner's asthma from coal dust; difficult on ascending, short. Cough: morning; afternoon; evening; night ; from deep breathing, dry at night; in the morning and from exertion; dry teasing cough all day; exhausting; hacking; from irritation in larynx and trachea loose; racking, short, spasmodic; from tickling in larynx and trachea violent; worse in a warm room. Expectoration: morning, evening, bloody, difficult, mucous, OFFENSIVE, PURULENT , tasting bitter, flat, putrid, viscid, yellow. Chest : Anxiety and constriction of the chest. Eruptions, pimples. Sensation of fullness in the chest. Hemorrhage from the lungs. Pneumonia and phthisis in miners from dust of coal. Irritation in the bronchial tubes in the morning. Oppression of chest on exertion and deep breathing; heart. Pain in the chest, during cough; in the heart; burning , cutting below the seventh rib; pressing; rawness; sore from coughing; stitching . Palpitation of the heart; night; anxious; ascending steps; exertion; tumultuous. Sensation as if he had inhaled smoke. Back : Coldness of the back at night. Stitching of the cervical region. Pain in the back, evening; night; worse walking; in the scapulae; between the scapulae; on bending forward and on breathing; in the lumbar region when stooping and walking; in the sacrum both while walking and sitting; aching in the back; drawing pain in the back; sore pain in the back; sore pain in the sacrum when walking and stooping; sore pain in cervical region; sore pain under scapulae; sore pain in spine on pressure. Stiffness in the cervical region, weakness in the back. Limbs : Awkwardness of the limbs; cold hands and FEET ; cramps in calf in soles. Eruptions on limbs; thin white scales; vesicles. Excoriation between the thighs. Formication of the feet. Heaviness, a tired feeling in lower limbs, in feet. Itching of all the limbs. Jerking in the lower limbs. Lameness in the limbs. Numbness in the feet. Pain in the limbs; in the joints, during chill; neuralgic pain in limbs; RHEUMATIC ; gouty pains; upper limbs; right arm rheumatic ; shoulder; rheumatic pain in shoulder and elbow; palms painful; pain in fingers. Pain in lower limbs; sciatica worse walking; in the hip; thigh when walking; knee. Aching down front of legs; bruised pain in limbs from continued motion; burning feet and soles, crampy pain in calf; flying pains in fingers, palms and forearms; drawing pains in lower limbs, thigh, knees, calf; neuralgic pain from axilla to little finger; stitching pain in hip, thigh, hip to knee on motion; knee, leg; tearing pains in upper limbs, in lower limbs, in thigh, legs ankles, foot. Perspiration of hands, of feet. Pulsation of limbs. Restlessness of the limbs, upper limbs, lower limbs, legs. Stiffness of limbs, joints , wrists. Swelling of limbs: dropsical ; legs; feet. Trembling hands; lower limbs. Twitching upper limbs; thighs. Weakness of the limbs; upper limbs; hands; lower limbs ; t highs; legs; ANKLES ; feet. Sleep : The sleep is deep. Dreams: amorous; anxious; frightful ; of murder; nightmare; pleasant; vexatious; vivid. Late falling asleep; restless sleep. Sleepiness in the afternoon. Sleeplessness before midnight; after midnight ; with sleepiness. Unrefreshing sleep. WAKING EARLY , frequently. Chill morning; forenoon ; evening in bed; in cold air; coldness comes on at night in bed; chilliness, internal chill, shaking chill in the morning; chill at -2 A.M.; 1 P.M.; 2 P.M.; the chill is relieved in a warm room. Fever at night; dry heat, flushes of heat, perspiration absent. Perspiration: morning; nights ; from anxiety; in bed; cold; on coughing; on slight exertion; following the fever; on motion; profuse, at night; symptoms worse while perspiring; aversion to uncovering while perspiring. Skin : Burning skin; cold skin desquamation. Liver spots, red spots, yellow skin; dryness of the skin. Eruptions: blisters; boils; burning; moist; herpes; itching in warmth; painful pimples; scaly thin white scales; stinging, suppurating tubercles; urticaria; nodules vesicular erysipelas, with swelling, worse after scratching; formication of skin; itching, crawling, worse after scratching. Swelling of skin with burning. Ulcers, burning; deep; yellow discharge; spreading; stinging . Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-mm-1911"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "kent-lectures-1905",
+      "kent-mm-1911"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "oleum-cajeputi",
+  "names": {
+    "primary": "Oleum Cajeputi. (Cajeputi.)",
+    "latin": "Oleum Cajeputi. (Cajeputi.)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Nervous vertigo.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "head": [
+      {
+        "text": "Headache (a few drops rubbed on affected locality).",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Deafness (mixed with almond oil and applied on cotton).",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Toothache (applied to cavity of carious tooth). Tongue felt swollen, seemed to fill whole mouth, making her lisp. Persistent sensation of choking. Nervous dysphagia or spasmodic stricture of œsophagus.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Spasmodic hiccough after an attack of apoplexia nervosa. Nervous vomiting or vomiting of hysterical persons. Nervous distension of bowels, reflex from uterine disorder. Tympanitis in typhoids. Flatulent colic, particularly when produced by cold or by retrocession of inflammation, gouty or otherwise, of the skin or extremities.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Choleraic diarrhœa from sudden check of perspiration.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menses suspended or diminished and attended with pain, when caused by a cold or check of perspiration.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Nervous dyspnœa.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Epilepsy ; palsy ; paralysis ; hysteria. Tongue as if swollen. Aching : in head ; in teeth. Choking sensation : in throat. Chronic rheumatism. Dropsy. Miss B., æt. 21, suffering a week or more ; affection of tongue.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare : Plantago in earache and toothache ; Colchic. in gouty affections and rheumatism ; Acon. and Bellad. in effects of checked sweat",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "hering-guiding-1879"
+    ]
+  }
+}

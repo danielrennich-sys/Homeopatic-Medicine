@@ -1,0 +1,59 @@
+{
+  "id": "polygonum-hydropiperoides",
+  "names": {
+    "primary": "POLYGONUM HYDROPIPEROIDES",
+    "latin": "POLYGONUM HYDROPIPEROIDES",
+    "common": [
+      "Hydropiper - Smartweed (POLYGONUM PUNCTATUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "stomach_abdomen": [
+      {
+        "text": "Griping pain, with great rumbling, nausea, and liquid feces. Flatulent colic",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Interior of anus studded with itching eminence. Hæmorrhoids. Liquid feces",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Painful constriction at neck of bladder",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Aching pains in hips and loins. Sensation as if hips were being drawn together. Sensation of weight and tension within pelvis. Shooting pains through breasts. Amenorrhœa",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Superficial ulcers and sores on lower extremities, especially in females at climacteric",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">POLYGONUM HYDROPIPEROIDES Hydropiper - Smartweed (POLYGONUM PUNCTATUM) Metrorrhagia, also Amenorrhœa in young girls. Varicosis; hæmorrhoids and rectal pockets. Burning in stomach followed by feeling of coldness in the pit of the stomach.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

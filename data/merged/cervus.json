@@ -1,0 +1,74 @@
+{
+  "id": "cervus",
+  "names": {
+    "primary": "Cervus",
+    "latin": "Cervus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T CERVUS. Cervus campestris, Cuv. (called by Mure, Cervus Brasilicus). Brazilian name , Gouazoupita; the Brazilian deer. Preparation , Triturations of the fresh hide, covered with hair. Authority. Mure, Pathogénésie Brésilienne. MIND. ► Dejection during the day (third day). HEAD. ► Dizziness and heaviness of the head (first day). ► The dizziness continues (second day). ► Dizzy-headed; slight weight on the forehead (third day). ► At 5 in the morning, the head feels heavy and dull, especially the front part (first day). ► At noon, the head feels compressed, as by a band tied at the nape of the neck (first day). ► Weight in the forehead (second day). EYE. ► Vision very sensitive to light; he cannot open his eyes in the sunlight (second day). NOSE. ► Sensation like a neddle-prick on the right wing of the nose (first day). FACE. [10.] ► The face is mottled in various places (third day). MOUTH. ► At 9.30 o'clock, the left side of the tongue feels hurt (first day). ► Taste of doughy bread in the mouth (second and third days). ► Coppery taste in the mouth, and a sensation of heat in the throat, when taking the drug (first day). ABDOMEN. ► At 6 o'clock, slight pain around the navel, of short duration (first day). ► Pricking pain in the navel when lying down (second day). ► Intermitting pain in right groin after walking (second day). ► At 8 o'clock, pain like a needle-prick in the right groin in the direction of the joint, lasting a quarter of an hour (second day). STOOL. ► Slight diarrha (first day). URINARY ORGANS. ► Urine of the color of very strong tea (first day). SEXUAL ORGANS. [20.] ► Erection in the evening, with desire to lie down (third day). SUPERIOR EXTREMITIES. ► Numbness of the arm on which he lies at night (third day). ► Numbness of the hands and legs (fourth day). INFERIOR EXTREMITIES. ► Frequent pain, now in the left buttock, now in the thigh (first day). ► Induration of the left leg, with lancinating pain (third day). ► Weakness of the left leg (first day). ► Uneasiness in left leg (fourth day). ► Sensation as if lashed with a whip on the inner side of the right leg, with red spots (second day). ► Small callosity above the left internal malleolus (first day). ► Bruised sensation in the left toes (first day). GENERAL SYMPTOMS. [30.] ► (Languid feeling; he wants to lie down), (first day). ► Feeling as if tired and bruised all over (first day). ► (Unable to work), (first day). ► Uneasiness (first day). SKIN. ► Appearance like incipient erysipelas (second day). ► Dark-red spots, with inflammation of the right side of the face (first day). ► Red and moist spots on the left leg (third day). ► Feeling of gooseflesh, as if some one was cutting cork close to him (first day). SLEEP. ► Yawning (second day). ► Repeated yawning (first day). [40.] ► Drowsiness from 2.30 to 3 o'clock (first day). ► Quiet and short sleep; he wakes four times in the night (third day). ► Restless sleep, as on the first night (second day). ► Light or comatose sleep, with dreams of men dressed in black, pistol-shots, imprisonment (first day). ► Awakes several times in the night, always preoccupied with the idea of quarrelling with some one who frightened him (second day). FEVER. ► Chilliness. ► Shivering, with twitching (second day). ► Feels cold, although well wrapped up (first day). ► Heat. ► Constant heat in head (first day). ► 4 o'clock, the heat in the forehead and face increases (first day). ► Heat of the legs (first day). [50.] ► Heat in the right leg, where the red, sore place is (third day). CONDITIONS. ► Aggravation. ► ( Evening ), Erection, etc. ► ( When lying down ), Pain in navel. ► ( After walking ), Pain in groin. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Sciatica; Taste, altered; Tongue, painful",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Numbness of arm on which he lies; of hand and legs. Frequent pain, now in l. buttock now in thigh.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Mure proved this substance, and one symptom appears to be peculiar: \"Taste of doughy bread in the mouth.\"",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare:─Carb. an. (charred ox-hide)."
+      ]
+    },
+    "eyes": [
+      {
+        "text": "Sensitive to light, esp. sunlight.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Face mottled.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Taste of doughy bread. Coppery taste with heat in throat when taking the drug.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Pricking in navel when lying. Needle-like pain, intermitting in r. groin, in direction of joint, after walking.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Drowsiness and yawning. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

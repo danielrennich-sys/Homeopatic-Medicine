@@ -1,0 +1,41 @@
+{
+  "id": "licorice-root",
+  "names": {
+    "primary": "Licorice Root",
+    "latin": "Licorice Root",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Licorice is a perennial herb that is cultivated throughout Europe, Asia, and the Middle East. It is used as a flavoring in candy, other foods, and tobacco products. Many “licorice” products sold in the United States do not contain actual licorice. Anise oil, which smells and tastes like licorice, is often used instead. Licorice root has a long history of use, going back to ancient Assyrian, Egyptian, Greek, Arab, Chinese, Tibetan, and Indian cultures. It was used in traditional medicine practices for coughing, asthma, and wound healing, as well as for diseases of the lungs, liver, and arteries. Today, licorice root is promoted as a dietary supplement for digestive, respiratory, and energy support. Topical (applied to the skin) licorice has been promoted for certain skin conditions.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "Some studies of licorice in people have been completed, but there isn’t enough high-quality evidence to clearly support its use for any health condition.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "Licorice mouth rinse or gargle might reduce ulcer size and pain in people with recurrent canker sores, while topical licorice might reduce ulcer size only. In one study, using a licorice extract in combination with a medicine to treat canker sores was more effective than using the medicine alone. The use of a licorice gargle or licorice lozenges before surgery might help to prevent or lessen the severity of sore throat following intubation. Preliminary evidence has suggested that topical gels containing licorice root might be helpful for atopic dermatitis (eczema) symptoms or burn healing, but more research is needed to study effects and confirm safety. One preliminary study indicated that a mouthwash with licorice extract might improve halitosis (bad breath) and reduce halitosis-causing bacteria. It’s unclear whether products containing licorice alone (excluding herbal blends with licorice) have an effect on digestive symptoms. There’s no good evidence to support the use of licorice for COVID-19.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Licorice root is generally considered safe as a food ingredient. Licorice contains a component called glycyrrhizin, or glycyrrhizic acid, that can cause serious adverse effects, such as irregular heartbeat and cardiac arrest, especially when consumed in large amounts or in the long term. Even small amounts of glycyrrhizin from licorice root products have been linked to severe adverse effects in people who consume a lot of salt, in people with hypertension, and in people with heart or kidney conditions. Oral licorice products that do not contain glycyrrhizin (deglycyrrhizinated licorice) might be safe for up to 4 months. Topical licorice root may be safe to use in the short term, but it may cause skin irritation in some people. Interactions between licorice and corticosteroids have been reported. Consuming oral licorice extract in large amounts (about 250 grams of licorice per week) during pregnancy is unsafe and can increase the risk of delivery before gestational age of 38 weeks. Little is known about whether it is safe to use licorice while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "no_evidence"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

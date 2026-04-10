@@ -1,0 +1,63 @@
+{
+  "id": "epilobium-palustre",
+  "names": {
+    "primary": "Epilobium Palustre",
+    "latin": "Epilobium Palustre",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T EPILOBIUM PALUSTRE. Epilobium palustre, Linn., var . lineare, Gray; (Epilobium lineare, Muhl.; E. squamatum, Nutt.). Natural order , Onagraceæ. Common names , \"Willow\" herb (Dr. Wright), (name usually applied to Epilobium angustifolium). Preparation , Tincture of the root. Authority. J. S. Wright, M.D., proving with tincture of root, 1/2 ounce first day, 1 ounce second and third days, U. S. Med. Investigator, N. S., 1, 325. ► Headache (part of S. 11). ► Face red (ninth day). ► Ptyalism (seventh and eighth days). ► In morning, throat commenced filling up; at noon, could not swallow water; larynx sore to pressure, swollen on outside, with hard lumps on both sides of larynx (sixth day). ► On an attempt to swallow water it would fly out of my nose (ninth day). ► Can swallow liquids (tenth day). ► Three loose stools (eighth day); none (ninth day). ► Urine red (ninth day). ► Hard chill commenced at 11 A.M., lasted an hour; high fever came on, with aching all over and severe headache; this lasted all night; could not sleep (fourth day). [10.] ► Fever and headache passed off, but returned in the afternoon and evening more severe, lasted all night (fifth day). ► High fever and headache all the time (sixth day). ► Dull and sleepy, but could not sleep; the saliva would choke me (eighth day). Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Dysphagia; Fever; Larynx, affections of; Ptyalism; Throat, sore",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Three loose stools on eighth day; none the day after. Urine red.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Epil. p. was proved by Dr. J. S. Wright, a tincture of the root being used. Symptoms of filling up of throat, inability to swallow, fever and headache were produced. A boy poisoned with the flowers of Epil. hirsutum had strong epileptiform convulsions in rapid succession.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Headache with fever.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Face red.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Ptyalism. Dull and sleepy but could not sleep, the saliva would choke him. In morning throat began filling up; at noon could not swallow water; larynx sore to pressure with hard lumps on each side externally.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Hard chill began 11 a.m., lasted an hour; high fever came on with aching all over and severe headache; this lasted all night; could not sleep. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

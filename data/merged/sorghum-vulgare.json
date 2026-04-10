@@ -1,0 +1,38 @@
+{
+  "id": "sorghum-vulgare",
+  "names": {
+    "primary": "Sorghum vulgare (PERS.)",
+    "latin": "Sorghum vulgare (PERS.)",
+    "common": [
+      "Broom-Corn"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Spain. Italy and south of Europe. Cultivated in the United States of America.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Known as Millet or Guinea Corn. Is cultivated in the same way as oats or barley in northern Europe; the seeds are small, round and white, the plant is canelike and similar to Indian Corn, but producing large heads of the small grain. Sorghum is generally classified under two varieties, saccharine and non-saccharine. The saccharine sorghums are not used for producing sugar owing to the difficulty of crystallization.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "It yields a very white flour which is used for making bread, and the grain is used for feeding cattle, horses and poultry. The grain is diuretic and demulcent if taken as a decoction. The plant is extensively cultivated in America for the manufacture of brooms and brushes. The decoction of 2 oz. of seeds to 1 quart of water, boiled down to 1 pint, is used in urinary and kidney complaints. In the semi-arid districts of western America it is reported that cattle have been poisoned by eating the green sorghum of the second growth; possibly due to hydrocyanic acid in the leaves. Purchase from Richters West African Popping Sorghum (Sorghum bicolor 'West African Popping') Seeds",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

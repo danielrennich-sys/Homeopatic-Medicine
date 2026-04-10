@@ -1,0 +1,36 @@
+{
+  "id": "lilium",
+  "names": {
+    "primary": "Lilium",
+    "latin": "Lilium",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "The whole plant of Lilium tigrinum (Nat. Ord. Liliaceae). Native of Japan and China, but largely cultivated.Common Name: Tiger Lily.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Preparation.—Specific Medicine Tiger Lily. Dose, 1 to 10 drops.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—This remedy has been acquired from Homeopathy and is reputed slowly effective in controlling uterine irritation and congestion, being employed also to allay the nausea of pregnancy and of uterine irritability, in congestive dysmenorrhea, and chronic ovarian neuralgia with darting, burning pain in the ovaries. It is also said to be of service when pelvic weight and prolonged lochia accompany a tardy recovery from parturition and in the bearing-down discomfort incident to prolapsus uteri.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "felter-eclectic-1922"
+    ]
+  }
+}

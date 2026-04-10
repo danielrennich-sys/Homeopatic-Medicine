@@ -1,0 +1,72 @@
+{
+  "id": "trinitrotoluenum",
+  "names": {
+    "primary": "TRINITROTOLUENUM",
+    "latin": "TRINITROTOLUENUM",
+    "common": [
+      "T. N. T. (TRINITROTOLUENE)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Depression and headache (frontal). Aversion to company, apathetic and weeps easily. Faintness, dizziness, mental sluggishness; delirium, convulsions, coma. Face very dark",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Nose dry with stuffed sensation. Sneezing, coryza, burning of trachea, choking weight on chest; dry, convulsive cough, raising mucous plugs",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Gastro-Intestinal] Bitter taste, much thirst, sour regurgitation; dull burning behind the ensiform; nausea, vomiting, constipation followed by diarrhœa with cramps",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "[Cardio-Vascular] Palpitation, tachycardia, bradycardia, intermittent pulse",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "High colored urine, burning on urination, sudden desire, incontinence and retention",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Hands stained yellow. Dermatitis, nodular erythema, vesicles, itching and burning; puffiness. Tendency to hæmorrhage under the skin and from the nose. Tired pain in back of knees",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "alcohol (falls after one or two drinks of whisky). Tea (marked aversion)",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Thirtieth potency has been used with success"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">TRINITROTOLUENUM T. N. T. (TRINITROTOLUENE) Symptoms found in munition workers handling T. N. T who inhale and ingest it and also absorb some through the skin. They were compiled by Dr. Conrad Wesselhoeft and published in the December, 1926 number of the Journal of the American Institute of Homeopathy. The destructive action of T. N. T on the red blood corpuscles is responsible for the anæmia and the jaundice with their secondary symptoms. The hemoglobin is changed so it cannot act satisfactorily as an oxygen carrier and as a result we have breathlessness, dizziness, headache, faintness, palpitation, undue fatigue, muscle cramps and cyanosis; also drowsiness, depression and insomnia. Later stages of the poisoning produce toxic jaundice and aplastic anæmia. The jaundice is the result of cellular destruction in contrast to obstructive jaundice.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fucus",
+  "names": {
+    "primary": "Fucus",
+    "latin": "Fucus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "The marine plant Fucus vesiculosus, Linné (Nat. Ord. Moraceae). A perennial seaweed.Common Names: Bladder-wrack, Sea Wrack, Kelp-ware, Black-tang, etc.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Principal Constituents.—Sodium and potassium salts of iodine, bromine and chlorine.Preparation.—Specific Medicine Fucus. Dose, 5 to 30 drops.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—Fucus, once exploited as a remedy for obesity, is no longer relied upon for that purpose. It has, however, alterative properties, probably due to the haloid elements it contains, and deserves study for its influence upon waste and nutrition. It is somewhat diuretic, and is believed to give tone to lax muscular fibers. Fatty degeneration of the heart has been benefited by it, and it relieves irritation and chronic inflammation of the bladder. Its power of lessening irritation and congestion has led to its successful use in acute desquamative nephritis. From 5 to 20 drops should be taken every 3 or 4 hours.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "felter-eclectic-1922"
+    ]
+  }
+}

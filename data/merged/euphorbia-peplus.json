@@ -1,0 +1,53 @@
+{
+  "id": "euphorbia-peplus",
+  "names": {
+    "primary": "Euphorbia Peplus",
+    "latin": "Euphorbia Peplus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T EUPHORBIA PEPLUS. Authorities. 1 , Dr. Bernard, Journ. de Méd. de Toulouse and Report de Pharm., Paris (Pharm. Journ., 2d Ser., vol. ii, 1861, p. 436) a lady applied the juice of the stems to her already swollen gum; 2 , J. Murray Moore, M.D., Hom. World, vol. xii, p. 496, a boy applied a poultice of the leaves to a \"black eye.\" ► Instantly her mouth became so much inflamed that the doctor, when he saw his patient, thought that the inflammation was due to the action of mercurial medicines. For several days the pain was intolerable and wrung cries from the patient, who, deprived of sleep and unable to drink, was a prey to indescribable agitation, [1] . ► After a week his condition was as follows: Phlegmonous erysipelas had appeared under the left eye, spreading downwards and forwards over half the cheek. Five or six pustules also had risen on the face, one on the forehead, one on each ala nasi, one on the root of the nose, and others elsewhere, one also on the left elbow. They were characterized by a burning pain. The lower half of the nose was red, swelled, and inflamed, with a shiny surface. The lips were parched, swollen slightly, and the lower one covered with a crop of small pustules, another larger pustule appearing on the upper lip, half way between mouth and nostril. Prescribed Arnica 1, pil. i, 4tis horis. This remedy did not seem to change the symptoms for a week later. We found additional pustules on the side of the neck, and these , as well as two or three of those near the nose, had developed into hard boils, from which, doubtless, we could have extracted a pultaceous or cheesy matter. As he did not molest them, they slowly subsided, [2] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Ecthyma; Erysipelas; Sore throat",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The application of the juice and leaves sets up intense and painful inflammation, erysipelatous, phlegmonous, pustular, with intense burning pain. In one of the cases observed, a boy applied the juice of the stein to an inflamed gum. In another, a boy applied the leaves as a poultice to a black eye. Burnett produced a sore throat in himself by chewing the herb; and he cured with the 3x a case of simple sore throat with swelling and painful swallowing.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "After a week, phlegmonous erysipelas under l. eye, spreading downwards and forwards. Five or six pustules are on forehead, one on each ala nasi, one on root of nose, one on l. elbow, burning pain in all. Lower half of nose red, swollen, inflamed, shiny. Lips parched, slightly swollen, covered with a crop of small pustules; another large pustule appears on upper lip midway between mouth and nose.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Mouth so much inflamed the doctor thought it due to mercurial remedies. In several days pain intolerable, compelling cries and indescribable agitation, patient unable to sleep or drink. Sore throat; throat swollen with painful swallowing.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "More pustules developed l. side of neck, becoming hard boils, and slowly going away without breaking. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

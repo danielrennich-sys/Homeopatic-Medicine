@@ -1,0 +1,29 @@
+{
+  "id": "mel-cum",
+  "names": {
+    "primary": "MEL CUM SALE",
+    "latin": "MEL CUM SALE",
+    "common": [
+      "Honey with Salt"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Third to sixth potency. Honey for itching of anus and worms"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">MEL CUM SALE Honey with Salt Prolapsus uteri and chronic metritis, especially when associated with subinvolution and inflammation of the cervix. The special symptom leading to its selection is a feeling of soreness across the hypogastrium from ileum to ileum. Uterine displacements, and in the commencement of metritis Sensation as if bladder were too full. Pain from sacrum towards pubes. Pain as if in ureters.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

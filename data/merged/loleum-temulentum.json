@@ -1,0 +1,47 @@
+{
+  "id": "loleum-temulentum",
+  "names": {
+    "primary": "LOLEUM TEMULENTUM",
+    "latin": "LOLEUM TEMULENTUM",
+    "common": [
+      "Darnel (LOLIUM TUMULENTUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Anxious and depressed, confused. Vertigo; must close eyes. Head heavy. Noises in ears",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea, vomiting. Pain in pit of stomach and abdomen. Severe purging",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Gait unsteady. Trembling of all limbs. Loss of power in extremities. Violent pain in calves, as if bound with cords. Cold extremities. Spasmodic motions of arms and legs. Cannot write; cannot hold a glass of water. Trembling of hands in paralysis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Sixth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">LOLEUM TEMULENTUM Darnel (LOLIUM TUMULENTUM) Has been made use of in cephalalgia, sciatica, paralysis. Prostration and restlessness.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

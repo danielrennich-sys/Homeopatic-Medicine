@@ -1,0 +1,35 @@
+{
+  "id": "influenzinum",
+  "names": {
+    "primary": "Influenzinum",
+    "latin": "Influenzinum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "The nosode of influenza has with many practitioners taken the place of Baptisia as the routine remedy in epidemics. It may be given in the 12th or 30th potency, either in the form of tincture, pilules, or discs; or ten globules may be dissolved in six ounces of water, and of this a dessertspoonful may be given for a dose. It may be repeated every two hours. This will be found sufficient to control a large proportion of the cases. The general directions I give to my patients are these: When \"colds\" appear in a family let all those who are unaffected take Arsen. 3 thrice daily, and let the patients take Influ. 30 every hour or two. This generally prevents the spread of the trouble and clears up the \"colds,\" whether they are of the influenza type or not. Influenza has the property of developing old troubles, and thus it takes an infinite variety of forms in different persons, so that Influ. need not be expected to cure all cases unaided, or, indeed, to be appropriate to every case.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Catarrh; Colds; Influenza",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "I find Influ. compatible with Act. r., Ars., Bell., Bry., Hep., Merc., and many others. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

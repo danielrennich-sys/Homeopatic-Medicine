@@ -1,0 +1,90 @@
+{
+  "id": "sanicula-aqua",
+  "names": {
+    "primary": "SANICULA AQUA",
+    "latin": "SANICULA AQUA",
+    "common": [
+      "The Water of Sanicula Springs, Ottawa, I11 (SANICULA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Dread of downward motion (Borax). Profuse sweat on occiput and in nape of neck, during sleep (Calc; Sil). Photophobia. Lachrymation in cold air or from cold application. Profuse scaly dandruff. Soreness behind ears",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Thick, ropy, tenacious mucus",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Tongue large, flabby, burning; must protrude it to keep cool. Ringworm on tongue",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea and vomiting from car-riding. Thirst; drink little and often (Ars; Chin). Is vomited as soon as it reaches the stomach",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Stools large, heavy and painful. Pain in whole perineum. No desire until a large accumulation. After great straining only partially expelled; recedes, crumbles at verge of anus (Mag mur). Very offensive odor. Excoriation of skin about anus, perineum, and genitals. Diarrhœa; changeable in character and color; after eating",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Bearing-down, as if contents of pelvis would escape; better, rest. Desire to support parts. Soreness of uterus. Leucorrhœa with odor of fish-brine or cold cheese (Hepar). Vagina feels large",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Dislocated feeling in sacrum and better lying on right side",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Burning of soles of feet (Sulph; Lach). Offensive foot-sweat (Sil; Psor). Cold, clammy sweat of extremities",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Dirty, greasy, brownish, wrinkled. Eczema, fissured hands and fingers (Petrol; Graph)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "moving arms backward",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">SANICULA AQUA The Water of Sanicula Springs, Ottawa, I11 (SANICULA) Has been found a useful remedy in enuresis, seasickness, constipation, etc. Rickets.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

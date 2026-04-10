@@ -1,0 +1,32 @@
+{
+  "id": "coffee-cruda",
+  "names": {
+    "primary": "Coffee Cruda. Coffee (Rubiaceae)",
+    "latin": "Coffee Cruda. Coffee (Rubiaceae)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Tall, lean, stooping persons, dark complexion, sanguine choleric temperament. Oversensitiveness; all the senses more acute, sight, hearing, smell, taste, touch (Bell., Cham., Opium). Unusual activity of mind and body. Full of ideas; quick to act, no sleep on this account. Ailments: the bad effects of sudden emotions or pleasurable surprises (Caust. - exciting or bad news, Gels.); weeping from delight; alternate laughing and weeping. Pains are felt intensely; seem almost insupportable, driving patient to despair (Acon., Cham.); tossing about in anguish. Sleepless, wide-awake condition; impossible to close the eyes; physical excitement through mental exaltation. (Compare, Senecio, for sleeplessness form prolapsus, uterine irritation, during climacteric.). Headache: from over-mental exertion, thinking, talking; one-sided, as from a nail driven into the brain (Ign., Nux); as if brain were torn or dashed to pieces; worse in open air. Hasty eating and drinking (Bell., Hep.). Toothache: intermittent, jerking, relieved by holding ice-water in the mouth, but returns when water becomes warm (Bis., Bry., Puls., Caust., Sep., Nat. s.).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Compare: Acon., Cham., Ign., Sulph. Incompatible: Canth., Caust., Coc., Ign.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - Sudden mental emotion; excessive joy; cold, open air; narcotic medicines.",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

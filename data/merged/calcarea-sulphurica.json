@@ -1,0 +1,289 @@
+{
+  "id": "calcarea-sulphurica",
+  "names": {
+    "primary": "Cell Salt #3 - Calcarea Sulphurica",
+    "latin": "Calcarea Sulphurica",
+    "common": [
+      "Sulphate of Lime-Plaster of Paris",
+      "Calc Sulph",
+      "Calcium Sulphate",
+      "Plaster of Paris"
+    ],
+    "synonyms": [
+      "Calcarea Sulphurica",
+      "Cell Salt #3",
+      "Schuessler Salt #3",
+      "Tissue Salt #3"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Scald-head of children, if there be purulent discharge, or yellow, purulent crusts",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Sensation round head as if he had his hat on. Painful pimples; hard swellings at edge of hair, bleeding when scratched. Crusta lactea. Cranio-tabes.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pain in left forehead and head. Severe frontal headache, < after dinner and in evening. Ache across forehead and in vertex. Pain around head, several times before going to bed. Tearing around whole head, with nausea, when rising from lying, > while lying. Headache : from concussion ; with feeling as if eyes were sunken ; during catamenia ; with pain in chest. Sensation around head as if he had his hat on, 4 p. m. On region of anterior fontanelle two red pimples, and a burning sore feeling on a place as large as a dollar. Painful pimples on scalp leave a yellow scab. Hard tender swellings in scalp in edge of hair, bleeding when scratched. (OBS :) Crusta lactea or \"scald head\" of children. (OBS :) Cranio tabes.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Inflammation of the eyes, with discharge of thick, yellow matter. Sees only one-half an object. Cornea smoky. Ophthalmia neonatorum",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Sees only half an object. Ophthalmia with purulent discharge. Ulceration of cornea. Eyes protrude.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sees only half an object. Looking at a piece of paper pains right eye. Occasional blindness, with twitching of eyelids. (OBS :) Deep ulcers on cornea. (OBS :) Ophtalmia, pus thick and yellow. Cornea smoky, pus in anterior chamber, sensation as from a foreign body ; has to tie up eye ; after injury to eye from a splinter. Continued dull pain over right eye ; evening. Twitching of muscles on a supraorbital foramen, near outer corner of left eye. Pressing pains in left eyeball ; cutting in left eye with soreness in evening, as if eyes were sunken in head, with headache. Protrusion of eyes ; t. Inflammation of eyes, evening and night, with slow fever ; sensation of heat, eyes red. Conjunctiva yellow. (OBS :) Eyes bleared, red ; with colic. Tears from left eye, with left-sided coryza. Twitching of eyelids. Smarting in inner canthi. Severe inflammation in canthi. Boil over left eye.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Deafness, with discharge of matter from the middle ear, sometimes mixed with blood. Pimples around ear",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Singing in her ears Otitis after a slap on ear. Dark brown earwax from right ear ; A. M. Pimple on top of right ear. Soreness of right parotid gland ; > walking in open air.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Cold in the head, with thick, yellowish, purulent secretion, frequently tinged with blood. One-sided discharge from nose. Yellowish discharge from posterior nares. Edges of nostrils sore",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Coryza, with thick, yellow, lumpy, mattery discharge. Influenza and sneezing > in open air; coryza r. side after a bath, > out of doors. Edges of nostrils sore, excoriated.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "A quivering on root of nose, extending to cheek. (OBS :) Nosebleed. (OBS :) Coryza, with thick, yellow, lumpy, mattery discharge. Yellowish mucus from left nostril and tears from left eye. During day right nostril discharges watery mucus, left dry ; at night vice versa. Yellowish-green phlegm from posterior nares. Scanty phlegm, mostly from posterior nares, morning and evening. Posterior nares closed, watery coryza from anterior. Influenza and sneezing, > in open air ; coryza on right side after a bath, > out-doors. Blood-streaked mucus from left nostril after a bath. Excoriating watery coryza in open air, > in-doors and after washing with cold water. Edges of nostrils slightly sore, excoriated.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "face": [
+      {
+        "text": "Pimples and pustules on the face. Herpes",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Swollen cheek with toothache. Herpetic eruptions; pimples; pustules. Exceedingly pale, sickly appearance (gypsum workers). Blister-like sores on lower lip.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "(OBS :) Swollen cheek with toothache ; if suppuration threatens. A small swelling on left inferior maxilla, about lower and middle part of buccinator. Swollen hard pimple on left cheek. Darting pains in right side of face. Pain in right upper jaw. Flushes of heat. Exceedingly pale, sickly appearance (workers in plaster). Herpetic eruptions on face. Pimples and pustules on face. Blister-like sores on right lower lip, ulcerate, ooze bloody matter, and extend to right corner of chin. Many tender pimples under beard discharge blood or oily transparent matter. On outer lower lip a raw sore, forming a scab.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Inside of lips sore. Tongue flabby, resembling a layer of dried clay. Sour, soapy, acrid taste. Yellow coating at base",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Last stage of ulcerated sore throat, with discharge of yellow matter. Suppurating stage of tonsillitis, when abscess is discharging",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Rheumatic toothache; swollen, tender, easily-bleeding gums. Taste soapy. Tongue coated yellow at base. Glossitis. Diphtheria of soft palate; scarlatinal sore throat. Tonsillitis with suppuration.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "(OBS :) Rheumatic toothache. Pain in right upper jaw, with swollen and tender gums about a decayed molar. Toothache :. (OBS :) with swollen cheek ; after dark, and in sleep ; first < by cold water, soon >. Right lower molar decayed ; is tender and sensitive to cold air, water, etc. (OBS :) Inside of gums swollen and sore. Gums bleed while brushing his teeth. Taste : (OBS :) flabby ; soapy ; sour acrid ; bitter. At base of tongue slightly puckered sensation. Tongue coated yellow at base ; (OBS :) resembling a layer of half-dried clay. Tongue seamed with a deep red line. Glossitis ; (OBS :) when suppuration begins. Inside of upper lip sore. Dryness of mouth ; t. Soreness, left side of roof as if burned, while eating. Pharynx red and sore, tonsils affected. (OBS :) Diphtheritis of soft palate ; fauces are much swollen ; also in scarlatina. (OBS :) Tonsillitis if a discharge of pus is anticipated.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Pain in region of liver, in right side of pelvis, followed by weakness, nausea, and pain in stomach",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Calc. s.]. Excessive appetite and thirst. No appetite for meat. Great desire for tea, claret, green sour vegetables and fruit. While eating : roof of mouth sore. After maple sugar, diarrhœa. After eating : better ; lunch, loses memory ; dinner, headache. Nausea : with vertigo ; with headache ; with pain in pelvis. (OBS :) Pain in stomach ; motions and burnings ; pain extends into liver. Severe pain in region of liver. Sensation of weakness across stomach, as if from head. Colic : with rumbling ; with diarrhœa ; with bleared eyes. A feeling in lower part of abdomen as if skin was too tight, with pain. Pain in right side of pelvis, followed by weakness, nausea and pain at stomach. (OBS :) Intestinal ulcers, with typhus. (OBS :) Buboes : to prevent suppuration.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Purulent diarrhœa mixed with blood. Diarrhœa after maple sugar and from change of weather. Pus-like, slimy discharge from the bowels. Painful abscesses about the anus in cases of fistula",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Diarrhœa with discharge of pus or bloody pus. Dysentery with pus-like slime. Painful abscesses about anus in cases of fistula. Costiveness with hectic fever; with difficult breathing.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Diarrhœa, with pain in abdomen, from change of weather or after eating maple sugar. (OBS :) Diarrhœa : with discharge of pus, or bloody pus ; with typhus. (OBS :) Dysentery, if passages consist of pus-like slime. Painful abscesses about anus in cases of fistula. (OBS :) Prolapsus ani. (OBS :) Costiveness ; with hectic fever ; with difficult breathing.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menses late, long-lasting, with headache, twitching great weakness",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Menses came later and continued longer ; usual symptoms, headache, twitchings, great weakness, etc., were aggravated. PREGNANCY. PARTURITION. LACTATION. [24] [Calc. s.]. (OBS :) Mastitis, when pus begins to form or to prevent suppuration.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Cough, with purulent and sanious sputa and hectic fever. Empyæma, pus forming in the lungs or pleural cavities. Purulent, sanious expectoration. Catarrh, with thick, lumpy, white-yellow or pus-like secretion",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Calc. s.]. (OBS :) Croup. Catarrh, with thick, lumpy, white yellow or pus-like secretion. Short-breathed, costive and cachectic (workers in plaster of paris). (OBS :) Asthma, with hectic fever. After great dryness of mouth, suffocative attacks with protrusion of eyes, loss of consciousness, an death ; t. (OBS :) Cough, with hectic fever. Chronic cough of the tuberculous.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Burning-itching of soles of feet",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The third phalanx of index finger had been bruised ; had a misformed surface, suppurating, full of granulations, bone was bare, pains very violent. Fingers are stiff in a dream ; stiff and painfully rigid, puffy and stiff, mainly on right hand, A. M. Swelling of phalanges of fingers. Inflammation and swelling of little finger. (OBS :) Whitlow, when suppuration begins. (OBS :) Inflammation of hip joint ; in suppurative stage of hip disease. (OBS :) Ischias and podagra. Pain from heart to lower thigh. Painful rigidity of legs, A. M., especially right ; later, upper part < P. M. ; the worst in early evening. A weakness in her legs. Weariness in knees after walking. (OBS :) Pain in knees from a blow. (OBS :) Stitches in knee. Lameness in inner part of left knee when in bath, A. M., when stooping or walking fast, later in posterior part. Legs tender to touch ; feet slightly swollen and tender. A great burning and itching of soles of her feet. (OBS :) Burning on soles, with hectic fever. The basis of fourth left toe suddenly tender while walking. (OBS :) Pain in joints.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Hectic fever, caused by formation of pus. With cough and burning in soles",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "(OBS :) Quotidian or tertian fever. (OBS :) Intermittent fever ; back of tongue has a coating, resembling dry clay. (OBS :) Typhus : when diarrhœa sets in ; intestinal ulcers. (OBS :) Hectic fever : with costiveness and red urine ; with asthma, cough and burning in soles of feet.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Cuts, wounds, bruises, etc, unhealthy, discharging pus; they do not heal readily. Yellow, purulent crusts or discharge. Purulent exudations in or upon the skin. Skin affections with yellowish scabs. Many little matterless pimples under the hair, bleeding when scratched. Dry eczema in children",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Suppurating chilblains. Burns and scalds when suppuration takes place. Scarlet rash. Skin affections with greenish, brownish or yellowish scabs. Greyish lead-coloured skin. (Dry eczema in children.) Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Itching on soles. (OBS :) Scarlet rash ; scarlatina, with excessive swelling of soft palate. (OBS :) Suppurating pustules and nodules. (OBS :) Skin affections, with greenish, brownish or yellowish scabs. Yellow scab follows pimples on scalp. (OBS :) Boils and furuncles. (OBS :) Abscesses and carbuncles, to control the formation of pus. [Obs. Anthracin is much better. --C. Hg.]. (OBS :) Tetters. Many little matterless pimples under hair, bleeding when scratched. (OBS :) Ulcers discharging thick yellow matter. Greyish, lead-colored skin (workers in gypsum). (OBS :) Chilblains, when suppurating.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "dosing": {
+      "notes": "Second and third trituration. The twelfth potency has been found effective in Lupus"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CALCAREA SULPHURICA Sulphate of Lime-Plaster of Paris Eczema and torpid glandular swellings. Cystic tumors. Fibroids. Suppurative processes come within the range of this remedy, after pus has found a vent. Mucous discharges are yellow, thick and lumpy. Lupus vulgaris.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Calc. sulph. is closely related to Hepar sulph. calc., which is an impure sulphide of calcium, but has a wider sphere and deeper action in suppurative processes. It is Schüssler's \"Connective-tissue salt,\" and most of the indications for its use are derived from his clinical experience. In the last edition of his Biochemic Therapy Schüssler discards Calc. sul. because it is not an actual constituent of the tissues, and he distributes its functions between Silicea and Nat. Phos. Homœopaths, having no Biochemic theory to support, may continue its use without scruple, especially as it has been proved by Hering and others. It is indicated in all kinds of cases after pus has found a vent. Nash has cured a case of suppurating kidney with it. It differs from Hepar in sensitiveness to air: Hepar cannot bear the slightest exposure; Calc. sul. has > in open air; better walking in it; desire for it. Both have from change of weather. Calc. sul. has not the excessive sensitiveness to touch found in Hepar. Hansen recommends it in dry eczema in children. Cystic tumours, fibromata and polypi have been cured with Calc. sul.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "LECTURES ON HOMOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror Calcarea Sulphurica Many years ago Schüessler introduced this remedy, and it has been used extensively upon the biochemic theory. Many excellent cures have been made in this way that most of us are able to recognize as homoeopathic cures, though it is a sort of crude homoeopathy. By studying these cures many symptoms may be obtained not supposed to be of importance by these reporters. These symptoms often furnish a basis for further consideration or further clinical observation. Many fragmentary provings have also been made, furnishing many of the symptoms recorded in this article. The author frequently made use of Schusslers 12 th potency, later the 30 th and 200 th; at present much higher potencies. From all of these many valuable symptoms have been obtained. Some of these symptoms have come out upon the sick while under the influence of this remedy, and have been since confirmed, so that the following symptoms must now furnish the best basis that we have to prescribe on. The best consideration that this remedy has ever received will be found in Boericke and Dewey's Materia Medica of the Tissue Remedies. The tendency to the formation of abscesses in the body in any place is a strong feature of this remedy, and is quite similar to Pyrogen . An abscess that has ruptured and is slow to heal with a continuous discharge of yellow pus, is a strong indication for this remedy. The patient desires the open air; is sensitive to drafts; takes cold easily. It is very useful in the management of malignant growths after ulceration has set in. It is under such circumstances an excellent palliative. It is a deep acting constitutional remedy, and anti-psoric, and if given early enough will prevent a malignant growth terminating in its usual way. It is useful in the affections of bone, caries of bone. While the patient is cold in general, he often requires to be uncovered because of particular conditions. For instance, in croup and in headaches he feels the heat too much, but the pains of the body are often relieved by heat. He is sensitive to both cold and heat. After becoming cold, complaints come on. Tendency to take cold in drafts, or on slight occasions. He is sensitive to cold, wet weather. It cures the underlying basis of epilepsy, epileptiform and hysteric convulsions. The patient is aggravated from every motion. His muscles are flabby; he is disposed to hemorrhages. When well selected remedies act only a short time, and the symptoms agree, this remedy is one that should be thought of along with Sulphur, Psorinum and Tuberculinum . Complaints from straining muscles and tendons, from overlifting, etc. Lame back from such causes . Throughout the chest and head, and sometimes extending into the limbs, there is a violent orgasm of blood, flushes of heat and pulsations. Onanism. and sexual excesses reduce the economy to a state whereby they feel their constitutional, disturbance, and this is one of the remedies that elevate the body to better state of order in such conditions. Pain in the bones day and night. Pulsating all over the body. Standing aggravates many complaints, but especially the joints. Swollen and indurated glands. Twitching of the muscles all over the body. Many of the symptoms are aggravated on waking. Many symptoms are aggravated walking and especially walking fast and becoming heated, Aggravation from being overheated. Wants to uncover. Aggravation from the warmth of the bed. A warm room aggravates. Warm wraps aggravate. Great bodily weakness. Thick yellow discharges from the mucous membranes. Thick bloody discharges. Purulent exudations in serous sacs. Bloody pus from abscesses, ulcers and mucous membranes. Prolonged suppuration. Wants to keep still. Mind : Now, it will be found that the above general symptoms prevail throughout the particulars in many instances, and it will appear that the bodily state is more or less penetrated with these symptoms. The patient is absent minded; irritable; easily angered. He becomes weak after anger and vexation. Aversion to answering questions. He is easily made anxious, especially in the evening in bed, during the night and when lying. Anxiety with fear during fever. Anxiety about the future, Anxious about his heart and his health in general. His anxiety is ameliorated in the open air. He has anxiety about his salvation. He has anxiety in the morning on waking. Many changeable moods and capriciousness. Aversion to company. Confusion of mind in the morning on waking and Again in the evening. This is also ameliorated in the open air. Confusion of mind from, mental exertion. Contrary and contradictory moods. He has many little delusions, whims and strange fancies. Frightful images in the night when trying to sleep. Has visions. Great despair of recovery during heat. Craves stimulants to overcome his tremulous weakness. He is discontented at all times. Great sluggishness of mind. Continuously in a state of apprehension. Fear of death. Fear that some evil will befall him. Fear of insanity and fear of misfortune, and this comes on at night. Forgetful. Full of hatred of people who do not agree with him. Always in a hurry. Hysterical. Impatient. Feeble minded, even to imbecility. Indifferent as to his surroundings. Irresolution. Extreme irritability in the evening. Irritable after coition. Lamenting because he is not duly appreciated. Loathing of life. Malicious, This remedy is especially useful in broken-down constitutions from drunkenness . Weakness of mind, of memory and of body. Some of the mental states that are aggravated in the morning with sadness, on waking become mirthful in the evening, even to hilarity. He stumbles in speaking and misplaces words. Changeable moods. Morose. Obstinate. Easily offended or insulted. Prostration of mind. Quarrelsome. Restlessness. Mental depression in the morning, with mirthfulness in the evening. Sadness during perspiration. Dullness of the senses. Sits and meditates over imaginary misfortune. Does not want to be talked to. Easily startled. Stupefaction. Suspicion. Suspicious. Indisposed to talk. Tormenting, persistent thought. While busily engaged thinking, his thoughts vanish. Becomes timid, bashful and apprehensive, and in his conversation is extremely' wearisome. Weeping during perspiration. An aversion to mental and physical work. Real indolence. Vertigo : Vertigo is a common feature with this patient. In the morning on getting up, or again in the evening; but this is ameliorated in the open air. Vertigo With nausea. Vertigo with a tendency to fall. Epileptic vertigo. Vertigo on moving the head quickly, on stooping and on walking fast. Coldness of the head, especially of the vertex. Hyperoemia of the brain, aggravated in the evening and at night. Aggravated after stimulants; especially on coughing; during menses; with suppressed menses, and in a warm room. Ameliorated in the open air. Head : The head feels constricted, especially the forehead and occiput. Much dandruff forms upon the scalp. Eruptions upon the scalp with thick yellow - crusts. Eczema, also pimples. Coldness in the head, especially forehead. Formication of the scalp. The hair falls out. Heat of the head morning and evening. Flushes of heat. Heat in the forehead and in the vertex. Heaviness in the forehead and occiput. Itching, burning, of the scalp. Many inveterate chronic headaches and periodical headaches have been cured with this remedy. Headaches in the morning on waking. Headaches coming on in the afternoon, lasting through the evening and at night, ameliorated in the open air. Catarrhal headaches. Pain in the head on coughing, after eating or disordering the stomach. Headache from becoming heated, and the pain is aggravated from jarring. Compels him to lie down. Aggravated looking upwards. Headaches in women before and during menses. The headaches are aggravated from mental exertion, from moving the head, from motion, from noise. Periodical sick headaches with nausea and vomiting. Pressure ameliorates. Pulsating with nearly all the headaches. Reading aggravates. Rising from lying causes pulsating and increases the pain. Shaking the head aggravates. He wakes up out of sleep with the headache. The headache is aggravated from spirituous liquors, from standing from stooping, from the heat of the sun, from talking, from walking, from washing. Aggravated in cold weather. The headache comes on from becoming cold, and yet the headache when on is ameliorated in the cool air. Many of the headaches are in the forehead in the morning, on waking, or come on in the evening after dinner. These are aggravated on stooping and walking. Severe pain above the eyes. It. has occipital headaches; pain in the vertex and sides of the head. Many of these headaches are pressing and are aggravated from mental exertion. Stitching pains on coughing. Stitching pains in the forehead and temples. Tearing pain throughout the head. Tearing pain around the head, ameliorated from lying. Pulsation in the head and temples. Sensation as if he had his hat on at 4 PM. Eyes : There are numerous eye symptoms, catarrhal and psoric. The lids stick together in the morning. This remedy has partly cured several cases of cataract. It, has produced and cured double vision. Chronic inflammation of the eyes, with thick yellow pus. Ulceration of the cornea. Itching, and burning, aggravated in the morning. Pressing pain in the eyes in the evening. Soreness to touch. Photophobia. Redness of the eyes, like raw beef. Redness of the- canthi. Fissures of the canthi. Twitching of the lids. Dim, often foggy, vision. Flickering before the eyes. Ears : Discharge from the ears, offensive and purulent cases dating back to scarlet fever, with thick and bloody pus, soreness and enlargement of the right parotid. Eruptions behind the ear. Itching in -the ear and behind the ear. Buzzing, humming, ringing, roaring and singing in the ear. Aching pain in the car. Stitching, pulsating, stopped sensation. It cures, catarrh, of the Eustachian tube when the symptoms agree. Swollen parotid gland and swelling behind the ear. Nose : Most inveterate catarrh of the nose has been cured by this remedy. Coryza, with discharge, ameliorated in the open air. Dry coryza. The discharge from the nose is bloody, excoriating, offensive, purulent, thick, yellow and greenish yellow. Clinically it has cured the one-sided cases best. Crusts form in the nose. Crusts form upon the margins of the nose. A sensation of great dryness in the nose, Epistaxis in the morning. Offensive odors from the nose. Itching in the nose and of the end of the nose. Obstruction of the nose, so that it is impossible for him to breathe through it. Keeps the mouth open. Caries of the bones of the nose. Loss of smell. Sneezing, ameliorated in the open air. Swelling of the nose. Face : Cracked lips and flushes of heat of the face. Pale, sickly, face. Many eruptions upon the face, boils, eczema, herpes; itching; pimples; pustules; scurfy eruptions; vesicles. Itching of the face. Pain in the face from becoming cold. Cutting pain. Cold sweat on the face. Swelling of the glands. Swollen sub-Maxillary. Dryness of the mouth and tongue. Hot mouth. Inflammation of the mucous membranes of the mouth, inflammation of the tongue, with swelling. Much mucus in the mouth in the morning. Offensive odor in the mouth. Rawness and burning inside of the lips. Burning of the tongue. Flow of saliva from the mouth. The speech is difficult on account of the stiffness and swelling of the tongue. Swelling of the mucous membranes of the mouth. Gums swollen. Taste bad, bitter, metallic, sour, sweetish. Ulceration of the mouth, tongue and throat. Vesicles in the mouth. Thick yellow coating at the base of the tongue. Throat : Choking is a characteristic of this remedy as it is of Hepar . Redness and swelling of the throat. Dryness and inflammation of the mucous membranes of the throat and of the tonsils. A sensation of a plug in the throat. Mucus in the throat. Mucus drawn from the posterior nares, thick and yellow. Pain in the throat on swallowing. Pressing pain. Rawness in the throat. Soreness of the throat. Stitching pain in the throat. Scraping mucus from the throat. Swallowing is difficult. Swelling of the tonsils, with suppuration. Ulcers in the throat. The external throat is swollen; the glands are enlarged and painful. Stomach : Increased, appetite. Ravenous appetite. Or appetite entirely wanting. Aversion to coffee, to meat and to milk. Desires, fruit, cold drinks, acids, salt things; sweets. Thirst extreme. Distension after eating. Emptiness in the stomach. Eructations after eating. Empty eructations. Eructations acrid, bitter, foul, sour. Eructations of food. Waterbrash. Fullness of the stomach after eating. Heartburn. Heaviness in the stomach, as of a load. Subject to indigestion on the slightest provocation. Nausea in the evening. Nausea with headache and with vertigo. Pain the stomach in the evening. Pain in the stomach after eating. Burning pain, cramping, cutting, gnawing, pressing, after eating. Tenderness to pressure. Stitching pains. Throbbing in the stomach. Sensation of a stone in the stomach. Vomiting, at night after eating, with headache, Bile, bitter, blood, food, mucus sour vomiting. Abdomen : In the abdomen there is great coldness, with distension, after eating. Fullness after eating. Heaviness. Many of the pains in the abdomen are like colic and come on at night. Burning pain. Cramping, cutting, dragging, drawing. Soreness. Stitching. There is pain in the liver, pressing, soreness, stitching. There is pulsating, rumbling and distension of the abdomen. Inveterate constipation. Difficult stool. Insufficient stool. Fistula in ano. Painless abscesses of the anus. Like Sulphur , it has cured morning diarrhoea, but has also an evening diarrhea, and is very useful for diarrhoea in children. Aggravated after eating ever so little. It has a painless diarrhoea. In the rectum there is formication and intense itching. Hemorrhage from the rectum and anus. External piles. Inactivity of the rectum. Involuntary stool. Moisture about anus, causing smarting and itching. Pain during and after stool. Burning pain during stool. Pressing, stitching and soreness in the anus. Tenesmus at stool. Prolapsus of the rectum. Ineffectual urging to stool. The stool is bloody, dry, hard, knotting, large; lienteric, soft, white, yellow and purulent. Bladder : This is a valuable remedy for catarrh of the bladder, with copious yellow pus. It has cured chronic inflammation of the kidney. It is a valuable remedy in urethral discharges, when the discharge is yellow, bloody, and often gleety. Burning in the urethra during urination. It is an excellent remedy for impotency, when other symptoms agree. In women who have had several abortions, when the symptoms agree. Excoriation of the labia. Inflammation of the labia, with suppuration. Itching of the genitals from leucorrhoea. Thick, yellow, bloody, leucorrhoea. Itching of the labiae during menses. Itching after menses. Itching high up in the vagina. The leucorrhoea is excoriating, bloody, burning, copious, thick and yellow. Leucorrhea before and after menses. Absent menses. The menstrual flow is copious, dark, too frequent or too late. Irregular. Sometimes pale, protracted, scanty, suppressed. Delayed first menses in girls. Hemorrhage from the uterus. Pain in the uterus during menses. Dragging down in the pelvis during menses, as if there were prolapsus. Burning in the genitals. Prolapsus of the uterus. Swelling of the labia. Fibroid tumors of the uterus. Ulceration of the genitals and os uteri. Larynx and trachea : Catarrh of the larynx and trachea. Dryness and inflammation. Copious expectoration of mucus, which is yellow and sometimes bloody. Rawness and soreness. Patients threatening to go into Phthisis. Much scraping of the larynx. Obstinate hoarseness. It has now long been a valued croup remedy. Croupy cough, where there is much choking, when an experienced practitioner might well think of Hepar , but it will be remembered that in Hepar , uncovering a hand or throwing off the covers from the chest will increase the croupy tendency and aggravate the croupy cough, and that the patient in Hepar is very sensitive to a draft and to the air. In this patient uncovering is grateful. The patient throws off the covers and wants the air and seems to breathe better and croups less. It may seem strange that such a great difference should come between the sulphide and the Sulphate of lime . Respiration is difficult in the evening and night; aggravated on ascending, lying and walking. The respiration is rattling, is short. There is suffocation, and even wheezing. This is an excellent asthmatic remedy, when the symptoms agree. Cough and chest : The cough is aggravated in the evening and night. Ameliorated in the cool air - unlike Hepar , Asthmatic cough, croupy in morning on waking and after siesta. Dry cough at night. Hacking cough. Hoarse cough. Loose, rattling cough. - The cough racks the whole body. Short dry cough. Spasmodic cough and cough coming in paroxysms. The expectoration is copious in the morning. The expectoration is bloody, greenish, purulent, thick, viscid and yellow. Abscess in the axilla. Anxiety in the region of th heart. Catarrh of the trachea and bronchial tubes. Hemorrhage from the lungs. Badly treated pneumonia or results of pneumonia. Hepatization of the lungs. Oppression of the chest. Rawness in the chest. Soreness in the chest on coughing, or inspiration. Burning pain in the chest. Cutting in the chest. Palpitation at night; anxious; aggravated ascending, in persons going into phthisis. Suppuration in the chest. Weakness in the chest. Itching, burning of the external chest. Sensation of coldness in the back. This has been a valuable remedy in the treatment of curvature of the spine in the lumbar region, making it difficult for him to sit up. Extremities : The symptoms of the extremities make a gouty constitution. Gouty joints. Awkward, clumsy fingers, from gouty finger joints. Coldness of the extremities, of the hands, legs and feet. Cramps in the calves. Eruptions, pimples and vesicles. Heat of the hands. Heaviness of the lower limbs. This remedy has been of great service in many cases of hip joint disease. Itching of, the, skin of the extremities. Often itching and burning. Burning of hands and feet; burning palms and soles. Numbness of hands and also of the lower limbs and of the feet. Pain in the extremities during chill; rheumatic pain. Pain in the joints, gouty and rheumatic. Pain in upper limbs at night. Pain in the shoulder; elbow, wrist and fingers . Pain in the lower limbs; sciatica ; rheumatic pains. Pains in the hip, thigh and knee. Burning pains in the feet. Pains in the lower limbs; drawing, stitching and tearing. Paralysis of the limbs, upper and lower. Perspiration of the hands and feet. The perspiration of the feet is cold and offensive. Stiffness of the arms. Stretching out the lower limbs aggravates the pain. Rheumatic swelling of the knees and legs. Oedematous swelling of the feet and legs. Tingling in the fingers, as if asleep. Trembling of the hands and of the lower limbs. Ulcers on the legs. Burning, itching scales. Varicose veins. Weakness of the upper limbs. Weakness of the lower limbs, knees, legs and ankles. Sleep and dreams : Sleep restless. Dreams anxious and frightful. Sleepiness during the evening. Sleepless before midnight and after 3 P-m- Sleepless from thoughts. This remedy has cured many cases of chronic intermittent fever with evening chill. Chill beginning in the feet. Shaking chill. Fever evening and night. Evening fever intermingled with chilliness followed by fever, but no sweat follows fever, with pain in lower limbs, better by walking. Flushes of heat. Hectic fever. Perspiration at night. Cold. Slight exertion brings on the perspiration. The perspiration is profuse and sour. Skin : There are numerous skin symptoms, as might be expected from a study of Sulphur and Calcarea . Burning and itching. Desquamation. Cracked skin. The skin is cracked after washing in winter, especially of the hands, like we find in salt rheum. Liver spots; pale skin and yellow skin, even to marked cases of jaundice. Dryness of the skin. The eruptions are boils, burning moist or dry eczema, herpetic pustules, scabby scaly vesicles. Itching, burning eruptions. This remedy cures psoriasis when the symptoms agree. Rash. Suppurating eruptions. Tubercles. Urticaria. Excoriation and intertrigo. Formication. Itching in bed; itching, burning; itching, crawling. Itching, ameliorated by scratching. Sensitive skin. Ulceration of the skin. Wounds heal slowly. Unhealthy skin. Ulcers bleed, burn; are scaly, crusty and deep. Ulcers discharge bloody pus, offensive, thick, yellow. Fistulous ulcers. Foul indolent ulcers. Indurated ulcers. Pulsating ulcers. Painful ulcers. Warts. Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-mm-1911"
+      },
+      {
+        "text": "One of Schuessler's so-called tissue remedies, not well understood as yet, but acting much along the line of Hepar sulphur, so far as we do know. I once had a case in which there was great pain in the region of the kidneys for a day and night. Then there was a great discharge of pus in the urine, which continued several days and weakened the patient very fast. A Chicago specialist had examined the urine a short time before, and had pronounced the case Bright's disease. I finally prescribed Calcarea sulphurica l2th and under its action she immediately improved and made a very rapid and permanent recovery. Since then I have found it a good remedy in profuse suppurations in different kinds of cases. This is all I know about the remedy.",
+        "source_id": "nash-leaders-1899"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Abscess; Anus, abscess near; Boils; Buboes; Burns; Carbuncles; Chilblains; Cornea, ulceration of; Cough; Crusta lactea; Cysts; Dropsy; Dysentery; Eczema; Fistula; Glandular swellings; Gonorrhœa; Hæmorrhages; Injuries, effects of; Pneumonia; Polypi; Scarlatina; Spermatorrhœa; Syphilis; Tonsillitis; Tumours; Ulcers",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Croup. Catarrh with thick, lumpy, white-yellow or pus-like secretion. Asthma or cough with hectic fever. Pain in chest and headache. Pneumonia third stage. Emphysema. Whitlow, when suppuration begins. Itching and podagra. Pain in knee from a blow. Stitches in knee. Legs tender to touch, feet slightly swollen. Burning and itching in soles of feet.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Twitchings during catamenia. Great disposition to lie down and stretch out. Weakness and oppression from head down to stomach. Weakness during catamenia. Much exhausted after a dream. Great lassitude, 2 p. m. till evening. Weak, languid, no pluck ; intolerable lassitude after siesta. Weariness after pain in pelvis. Right : over eye dull pain ; in eye, pain ; soreness of parotid gland ; earwax dark ; pimple on top of ear ; watery mucus from nostril ; pain in upper jaw ; sores on lip ; toothache ; pain in pelvis ; fingers stiff ; rigid legs. Left : pain in forehead ; twitching of muscles about eye ; pressing pain in eyeball ; cutting in eye ; tears from eye ; boil over eye ; coryza from nostril ; swelling on infra maxilla ; pimple on cheek ; soreness roof of mouth ; knee lame ; toe tender. Direction of pain across : in head, stomach, liver, chest and neck. Above downward : heart to leg. As if he had his hat on ; as if eyes were sunken ; as of a foreign body in eye ; as if skin was too tight in lower abdomen. Cutting : in eye Darting : in right side of face. Stitches : in knee. Burning : sore feeling on anterior fontanelle ; in stomach ; of soles of feet. Rheumatic pain : in teeth. Pressing pain : in left eyeball. Tearing : around head. Smarting : in inner canthi. Soreness : of right parotid ; roof of mouth ; inside of upper lip. Aching : across forehead ; in vertex. Dull pain : over right eye. Undefined pain : in left forehead and head ; in right upper jaw ; in stomach ; in region of liver ; in lower abdomen ; in r. side of pelvis ; in anal abscess ; across chest ; in chest ; from heart to thigh ; across back of neck ; in lower part of back ; in joints ; in sternum. Puckered sensation : at base of tongue. Weakness : across stomach. Lameness : in knee. Itching : of soles of feet. Dryness : of mouth. (OBS :) Its sphere of action is in the connective tissue ; inflammation with suppuration. (OBS :) Arrests hemorrhage and blennorrhœa. (OBS :) Abscesses which have their seat in the connective tissue, if they are the result of stasis in the connective tissue tubuli. (OBS :) Serous swellings, post-scarlatinal dropsy, in rare cases. (OBS :) Hard or suppurating glands. (OBS :) In third stage of inflammation ; lumpy or bloody discharge. (OBS :) Acute and chronic rheumatism. (OBS :) Discharge in cough, leucorrhoea, gonorrhœa, etc., yellow, thick and lumpy, sometimes bloody. After mechanical injuries, when in neglected cases suppuration has set in. (OBS :) Greenish, brownish, yellow crusts. (OBS :) Cystic tumors ; fibroma ; fibrous polypi. TOUCH. PASSIVE MOTION. INJURIES. [45] [Calc. s.]. Legs tender to touch ; toe tender while walking. From a blow or concussion : headache ; pain in knee. After a slap on ear : otitis. After a bruise : suppuration of finger. After a hurt by a splinter : sore eye. Cuts and wounds, to control suppuration, thick yellow matter. Burns and scalds, if suppurating.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Calend., Hep., Kali mur., Nat. sul. (postscarlatinal dropsy); Sil. (hard, or suppurating glands, ulcers of cornea, tonsillitis, mastitis, frostbites). Follows well: Kali m., Nat. sul., Sil.",
+        "Compatible : after Kali mur., Natr. sulph., Silica",
+        "Compare : Calend., in suppurations ; Hepar, in suppurative processes, but has wider sphere and acts with more intensity ; Kali mur. in milk crust and other skin affections, swollen cheek, croup, dysentery ; Natr. sulph., in post-scarlatinal dropsy ; Silica, in hard or suppurating glands, ulcers of cornea, tonsillitis, mastitis, frostbites",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "urinary": [
+      {
+        "text": "Chronic nephritis. Red urine with hectic fever.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Chronic nephritis. (OBS :) Bright's disease, if symptoms correspond. (OBS :) Red urine, with hectic fever.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "male": [
+      {
+        "text": "Spermatorrhœa with impotency. Gonorrhœa in suppurative Stage. Chronic syphilis.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "(OBS :) Spermatorrhœa with impotency. (OBS :) Gonorrhœa ; in suppurative stage. (OBS :) Chronic syphilis.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Loss of consciousness ; t. Loses memory and power of thought suddenly, after lunch. Sometimes a desire to walk, to attend to something ; as soon as she sets out to do it the desire is gone. Awoke screaming. Great depression at times. Liveliness and good spirits change to grief and melancholy, afternoon and evening. While walking, dizzy in head and weakness and oppression from head and across stomach. Vertigo with deathly nausea.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pain in sternum became so much <, she was obliged to double up. At times a pain across chest. (OBS :) Pain in chest, and headache. (OBS :) Pneumonia, third stage. (OBS :) Empyema ; after thoracocentesis. Pain from anterior of heart down to lower part of thigh.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "Pain across back of her neck. Pain in lower part of back. Chronic pain in os coccygis was greatly aggravated.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "REST. POSITION. MOTION. [35] [Calc. s.]. Better while lying ; headache. Stooping : < lameness in eye. Obliged to double up to > pain in stomach. When rising from lying down : headache. Better walking in open air ; improves soreness in parotid gland ; desire to walk. While walking ; dizzy ; toe tender. After walking ; weariness in knees ; walking fast, lameness in knees. In morning : lameness of knee, in bath. At 2 p. m. till evening : lassitude. Afternoon and evening : liveliness alternates with melancholy. At 4 p. m. : external headache. Evening : toothache ; pain in legs. Late p. m. : half-sightedness. About 10 p. m. : pain in eye. Before going to bed : headache. At night : toothache. (OBS :) Burns and scalds ; when suppuration begins. (OBS :) Suppurating chilblains. Open air : < walking in it ; desire to be in it. Suffered unusually from cold, while taking his usual bath, A. M. Knee pains in bath. Sensitive to water, first < then >, toothache. From change of weather : diarrhœa. After washing with cold water : coryza.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "(OBS :) Sleepy during day, wakeful at night. Before going to bed, pain in head. She dreamed she had a convulsion from fright, awoke screaming and much exhausted. Internal lassitude after siesta.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "hering-guiding-1879",
+      "kent-mm-1911",
+      "nash-leaders-1899"
+    ]
+  },
+  "cell_salt_number": 3
+}

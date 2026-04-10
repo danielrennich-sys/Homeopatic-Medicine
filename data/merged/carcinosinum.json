@@ -1,0 +1,47 @@
+{
+  "id": "carcinosinum",
+  "names": {
+    "primary": "CARCINOSINUM",
+    "latin": "CARCINOSINUM",
+    "common": [
+      "A nosode from Carcinoma (CARCINOSIN)"
+    ],
+    "synonyms": [
+      "Carcinosinum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Thirtieth and 200th potency, a dose at night or less frequently"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CARCINOSINUM A nosode from Carcinoma (CARCINOSIN) It is claimed the Carcinosin acts favorably and modifies all cases in which either a history of carcinoma can be elicited, or symptoms of the disease itself exist (J. H. Clarke, M. D). Carcinoma of the mammary glands with great pain and induration of glands; of uterus, the offensive discharge, hæmorrhage and pain are greatly relieved. Indigestion, accumulation of gas in stomach and bowels; rheumatism-Cancerous cachexia.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "This is one of the principal nosodes of cancer, and is one of Dr. Burnett's preparations. I use it more frequently than any other as a diathesic remedy. Burnett had a number of different cancer preparations, and followed his instinct largely in their use and selection. In addition to Scirrhinum, of which I have given an account in the Dictionary, he had a preparation which he named Durum (a Latinised form of Scirrhinum, as I take it). This he used in treating depraved inherited conditions in children, such as infantile self-abuse, with good effects, which I have confirmed. I have met with a suicidal tendency in several cancer patients, so that the cancer nosodes may be appropriate in many mental cases, especially where the heredity points that way.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Cancer Melancholia; Worms",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Scirrhinum. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

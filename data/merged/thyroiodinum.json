@@ -1,0 +1,35 @@
+{
+  "id": "thyroiodinum",
+  "names": {
+    "primary": "Thyroiodinum",
+    "latin": "Thyroiodinum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Thyroiodine is now more generally named Iodothyrine, but I retain the former as more convenient. Hoenigschmied (Aerz. Cent. Zeit., No. 6, 1900, quoted A. H., xxvii. 211) says of it that it is present in only small quantities in the thyroid of the sheep. It is completely free from albuminous substances, stable, and directly assimilated. The iodine exists in organic combination, and Thyri. contains 0.003 parts of Iodine to every gramme. The general effects of the drug are─increased secretion of urine and corresponding loss of flesh. Hœnigschmied gives two cases: (1) Labourer, 42, for several years had enlargement and induration of all lobes of thyroid, the enlargement causing compression of the structures of the neck, dyspnœa, whistling respiration, hoarseness, short, dry cough, vertigo. Thyri., 5-grain tablets, one every evening; at the end of a week twice daily. After using twenty-five tablets the gland was smaller and softer; the previously hard and resistant nodules were elastic; after two more weeks only remnants of the goître remained. (2) Man, 60, thyroid enlarged in all its lobes with a glandular cystic swelling in the right one; dyspnœa, loud whistling breathing. Two, three, and at last four tablets were given daily for two months, by which time the goître had vanished, but the cyst was not changed. (3) Man, 45, medium height, sedentary, suffered from obesity, vertigo, dyspnœa, weariness. Pulse feeble, 76; functions normal; appetite and sleep good; weight 230 pounds. With increasing doses of Thyri., up to ten tablets daily, the weight steadily went down to 160 pounds, activity increasing in proportion. When the dose had reached four tablets daily the urine became very abundant, but was free from albumen. The daily dose was increased one tablet every four days. At one stage Fowler's solution of arsenic, four drops in wine, was given as well to prevent Thyroidism.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Goître; Obesity; Urine, increase of",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Antidoted by: Ars. Compare: Thyr. Urine, Urea. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

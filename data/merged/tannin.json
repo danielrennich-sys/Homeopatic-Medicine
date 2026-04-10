@@ -1,0 +1,74 @@
+{
+  "id": "tannin",
+  "names": {
+    "primary": "Tannin",
+    "latin": "Tannin",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T TANNIN. Digallic acid, C 14 H 10 O 9 . Preparation , Triturations. Authorities. 1 , M. Cavarra, Bul. Therap., March, 1837 (Boston Med. and Surg. Journ., vol. 17, 1837, p. 204), took three pills, each containing 2 1/2 grains, for three successive days; two other healthy persons took same with similar results; 2 , Wien. Med. Woch., 1865 (Monart. Blatt., 13, p. 16), effects of large doses; 3 , same, a woman, æt. twenty-seven years, took a large quantity for diarrha. MOUTH. ► Tongue white, dry, [3] . ► Leathery dryness of the mucous membrane of the mouth and intestinal canal, [2] . STOMACH. ► Loss of appetite, [3] . ► Thirst, [3] . ► Vomiting, [2] . ► Obstinate vomiting of bilious substances, [3] . ► Symptoms of ileus and vomiting, [3] . ► Indigestion, [2] . ► Painful sensation in the epigastric region and abdomen, [2] . [10.] ► Violent pressure in the stomach, [3] . ABDOMEN. ► The intestines could be felt like cylindrical enlargements through the walls of the abdomen; over these parts percussion was sometimes dull, [3] . ► Distension of the abdomen, [2] . ► Abdomen sensitive to pressure but not distended, [3] . ► Pains in the abdomen, [2] . ► Symptoms of ileus, [2] . ► Colic, [2] . STOOL. ► Purulent and bloody discharge from the bowels, [2] . ► Obstinate constipation, [2] . ► Obstinate constipation for eight days, [3] . [20.] ► An obstinate attack of constipation, which lasted for eight days, and was only dissipated on the ninth by 2 drops of Croton oil, [1] . URINARY ORGANS. ► Urine scanty, dark-colored, [3] . RESPIRATORY ORGANS. ► Respiration 36, [3] . HEART AND PULSE. ► Palpitation, [3] . ► Pulse 108, [3] . GENERALITIES. ► Weakness, [2] . FEVER. ► Fever, [3] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Constipation; Ileus",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Weakness. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Tannin or Tannic acid, of which Gallic acid (C7H6O5) is a derivative, has produced effects on healthy persons, and on several taking it for diarrhœa. The chief effects were the production of a state of leathery dryness of mouth and intestinal canal; a condition like ileus; and a very aggravated state of constipation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Querc., Gall. ac., Op., Pb."
+      ]
+    },
+    "mouth_throat": [
+      {
+        "text": "Tongue white, dry. Leathery dryness of mucous membrane of mouth and intestinal canal.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Loss of appetite. Thirst. Vomiting. Obstinate vomiting of bilious substances. Painful sensation in epigastric region and abdomen. Violent pains in stomach. The intestines could be felt like cylindrical enlargements through walls of abdomen. Ileus. Colic. Abdomen: distended; sensitive to pressure but not distended.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Painless and bloody discharge from bowels. Obstinate constipation; lasted eight days; only dissipated on the ninth day by two drops of Croton oil. Foul stools.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urine scanty, dark-coloured.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Palpitation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

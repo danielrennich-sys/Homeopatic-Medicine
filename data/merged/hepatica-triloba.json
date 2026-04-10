@@ -1,0 +1,29 @@
+{
+  "id": "hepatica-triloba",
+  "names": {
+    "primary": "HEPATICA TRILOBA",
+    "latin": "HEPATICA TRILOBA",
+    "common": [
+      "Liver-Wort (HEPATICA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Second potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">HEPATICA TRILOBA Liver-Wort (HEPATICA) Pharyngeal catarrh, with profuse, serous sputa and hoarseness. Tickling and irritation of the throat. Scraping and rough sensation. Induces free and easy expectoration. Viscid, thick, tenacious phlegm causes continued hawking. Soreness at the nostrils. Sensation about epiglottis as if particles of food remained. Sputa sweet, profuse, creamy.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

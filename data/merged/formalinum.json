@@ -1,0 +1,86 @@
+{
+  "id": "formalinum",
+  "names": {
+    "primary": "FORMALINUM",
+    "latin": "FORMALINUM",
+    "common": [
+      "Aqueous Solution (35 per cent) of Formaldehyde Gas (FORMALIN)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Forgetfulness. Anxiety. Unconscious",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Coryza; eyes water; vertigo",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Ptyalism, thick saliva; loss of taste",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Food feels as if it were a ball in stomach. Burning in mouth and stomach",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Intense urging to stool, watery stools",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Anuria; albuminous urine",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Dyspnœa. Laryngismus stridulus. Whooping-cough",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chills in forenoon, followed by long fever. Bones ache during whole paroxysm. During fever forgets where he was",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Puckers skin like leather; wrinkles; scales off. Eczema in neighborhood of wound. Damp sweat most marked on right upper extremity",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "relationships": {
+      "antidoted_by": [
+        "Ammonia water"
+      ]
+    },
+    "dosing": {
+      "notes": "As vapor in hot water in respiratory affections; 1 per cent spray, otherwise 3x potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">FORMALINUM Aqueous Solution (35 per cent) of Formaldehyde Gas (FORMALIN) Is a powerful disinfectant and deodorant; a potent poison. Prevents growth and kills almost any pathogenic micro-organism. It seems to have the peculiar property of eating into malignant tumors, leaving the surrounding healthy tissue uncharred and unchanged. A plug of cotton wool soaked in a 20 per cent solution of Formaldehyde, and applied for a few hours, will produce a necrotic slough, which must be scraped away before the next application, otherwise it hardens. Formalin in hot water as vapor most valuable therapeutic agent in pertussis, phthisis, in catarrhal affections of upper air-passages.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

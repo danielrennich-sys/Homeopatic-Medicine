@@ -1,0 +1,44 @@
+{
+  "id": "herniaria-glabra",
+  "names": {
+    "primary": "Herniaria glabra (LINN.)",
+    "latin": "Herniaria glabra (LINN.)",
+    "common": [
+      "Rupturewort"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Temperate and Southern Europe and Russian Asia, extending into Scandinavia, but not to high latitudes. A native of Britain, especially southern and central England.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The Herniaria were formerly included in the Illecebraceae . They are small annuals or undershrubs, with small green flowers crowding along the stems intermixed with leaves. There are very few species of the genus. H. hirsuta is a common Continental and west Asiatic species, and has been found near Christchurch, in Hampshire. The taste is insipid and the plant is odourless.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "A crystalline principle has been obtained, called Herniarine, which proved to be methylumbelliferone. An alkaloid, Paronychine, has also been found.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Very active diuretic properties have been attributed to Herniarine, which has been found successful in the treatment of dropsy, whether of cardiac or nephritic origin. It is recommended for catarrh of the bladder. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

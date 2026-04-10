@@ -1,0 +1,29 @@
+{
+  "id": "botulinum",
+  "names": {
+    "primary": "BOTULINUM",
+    "latin": "BOTULINUM",
+    "common": [
+      "Toxin of Bacillus Botulinum"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Higher potencies"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">BOTULINUM Toxin of Bacillus Botulinum Food poisoning from canned spinach produced a clinical picture suggested in a bulbar paresis. Eye symptoms, ptosis, double vision, blurred vision. Difficulty in swallowing and breathing, choking sensation; weakness and uncertainty in walking, \"blind staggers\", dizziness, thickening of speech. Cramping pain in stomach. Mask-like expression of face, due to weakness of facial muscles. Severe constipation.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

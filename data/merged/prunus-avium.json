@@ -1,0 +1,38 @@
+{
+  "id": "prunus-avium",
+  "names": {
+    "primary": "Prunus avium and Other Species (LINN.)",
+    "latin": "Prunus avium and Other Species (LINN.)",
+    "common": [
+      "Cherry Stalks"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Britain, Clermond Ferrand in France, and other parts of the Continent.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The fruit stalks of all species are used, their distinctive characteristics are stalks 1 3/4 inch long, very thin and enlarged at one end.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Astringent, tonic. Used in bronchial complaints anaemia, and for looseness of bowels, in the form of an infusion or decoction. 1/2 oz. of the stalks to a pint of water. Purchase from Richters Wild Cherry (Prunus virginiana) Dried Bark",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

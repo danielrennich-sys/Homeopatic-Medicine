@@ -1,0 +1,90 @@
+{
+  "id": "kaolin",
+  "names": {
+    "primary": "Kaolin",
+    "latin": "Kaolin",
+    "common": [],
+    "synonyms": [
+      "Kaolin. (Alumina Silicata.)"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "According to J. Landesmann (quoted in Raue's Record, 1870, 171) Ægidi was the first to use Kaolin in cases of croup. Landesmann confirmed its efficacy and relates a case as an example. After Aco., Hep., Spo., Bro., Pho., and Iod. had failed to relieve, Kao. 6, four or five globules every half-hour, rapidly removed the labouring, sawing respiration, and the child was out of danger. \"It seems to be especially indicated where the croupous inflammation has its seat in the lower portion of the larynx or upper part of the trachea, which may be recognised by the much more labouring and sawing respiration.\" According to Farrington a leading indication is: Internal soreness along trachea and upper part of the chest; the child will not be touched. The use appears to be from the clinical side entirely. Kao. 30 relieved symptoms of lead-poisoning in a case of mine. In old-school practice it is used \"as a completely inert (?) powder\" (Brunton) in the same way as fuller's earth, and also as a basis for making pills.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Chest, soreness of; Croup; Diphtheria; Lead-poisoning; Nose, soreness of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Husky voice; metallic, rasping breathing, and suffocative cough. Croup dipping down into trachea; heavy, laboured, sawing respiration. Excessive soreness along trachea and chest. Symptoms towards evening and in the night.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Right : tonsil and arch of velum covered with heavy, yellowish white membrane. Pain : in forehead. Soreness : of nostrils ; of throat. Dryness : of skin. Boy, æt. 16 months, strong and healthy parentage ; croup. Child, æt. 4 ; diphtheria. Boy, æt. 4 ; croup. Girl, æt. 4 ; croup. Boy, æt. 5 ; croup. Young woman, subject to repeated attacks ; diphtheria. Copyright © Médi-T ® 2002. Main.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Alum., Silic.; K. bi., Spo., Iod., Hep., Aco., Fuller's Earth."
+      ]
+    },
+    "head": [
+      {
+        "text": "Pain in forehead.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Nostrils feel sore; scabs form in nose; scanty and blood-streaked secretion.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Nostrils feel sore ; scabs form in nose ; scanty and blood streaked secretion.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Membranous covering of l. side of throat; of r. side.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Membrane covering both sides of throat. θ Diphtheria. Fever, headache in forehead, with flushed face and sore throat ; right tonsil and arch of velum covered with heavy, yellowish white membrane ; breath fetid ; great prostration. θ Diphtheria. (In alternation with Bellad.).",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Dryness of skin. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Kaol.]. Husky voice, metallic, rasping breathing and suffocative cough. Croupous inflammation in lower part of larynx or in upper part of trachea. Awoke from sleep with croupy cough ; voice husky, later sunk to whisper ; sawing sound during both expiration and inspiration ; high fever. θ Croup. Voice a little husky ; during night very feverish ; next day skin felt dry ; wanted to be carried about ; appetite diminished ; very little cough ; on auscultation, metallic, rasping sound increasing toward evening ; suffocating spells. θ Croup. Croup, with labored, sawing respiration, after failure of Acon., Hepar, Spongia, Bromium, Phosphor, and Iodium. Croup, after failure of Spongia.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "Towards evening : metallic, rasping sound increased. Night : very feverish.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900",
+      "hering-guiding-1879"
+    ]
+  }
+}

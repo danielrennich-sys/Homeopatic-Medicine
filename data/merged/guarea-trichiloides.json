@@ -1,0 +1,47 @@
+{
+  "id": "guarea-trichiloides",
+  "names": {
+    "primary": "GUAREA TRICHILOIDES",
+    "latin": "GUAREA TRICHILOIDES",
+    "common": [
+      "Ballwood (GUAREA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "eyes": [
+      {
+        "text": "Conjunctiva inflamed, swollen. Tearing pain in eyeballs; tension, forced-out feeling. Objects appear gray, upside down. Eye symptoms alternate with diminished hearing. Epiphora",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Sensation as if brain were falling forwards; as from a blow on head",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Cough with sweat, pain and tightness of chest; larynx irritated",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">GUAREA TRICHILOIDES Ballwood (GUAREA) Eye symptoms have been verified. Chemosis and pterygium have been cured with it. Lupus of an ochre-red color.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

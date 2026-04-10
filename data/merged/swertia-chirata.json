@@ -1,0 +1,56 @@
+{
+  "id": "swertia-chirata",
+  "names": {
+    "primary": "Swertia chirata (BUCH.-HAM.)",
+    "latin": "Swertia chirata (BUCH.-HAM.)",
+    "common": [
+      "Chiretta"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Northern India, Nepal.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "This plant first came into notice in Britain in 1829, and in 1839 was admitted to the Edinburgh Pharmacopoeia. It is an annual, about 3 feet high; branching stem; leaves smooth entire, opposite, very acute, lanceolate; flowers numerous; peduncles yellow; one-celled capsule. The whole herb is used and collected when flower is setting for seed and dried.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Two bitter principles, Ophelic acid and Chiratin, the latter in larger proportion.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The true Chiretta has a yellowish pith, is extremely bitter and has no smell, an overdose causes sickness and a sense of oppression in the stomach. It acts well on the liver, promoting secretion of bile, cures constipation and is useful for dyspepsia. It restores tone after illness.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Dried plant, 5 to 30 grains. Infusion of Chiretta, B.P., 1/2 to 1 fluid drachm. Fluid extract, 1/2 to 1 draehm. Solid extract, 4 to 8 grains.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "In Indian bazaars where Chiretta is much more used than in England, the name Chirata is given to manykinds of Gentian-like plants. The one that is most in use among them is Ophelia augustifolia , the hill Chirata. It can easily be recognized by the stem being hollow, without pith and lower part of stem square. Another adulterant is Andrographis paniculata , also a native of India, one of the Acanthaceae ; this in the dried state looks more like a bundle of broomtops, but is used a great deal in India as it has two valuable bitter tonic principles, Andrographolide and Halmeghin. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

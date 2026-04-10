@@ -1,0 +1,100 @@
+{
+  "id": "helleborus-f",
+  "names": {
+    "primary": "Helleborus FTidus",
+    "latin": "Helleborus FTidus",
+    "common": [],
+    "synonyms": [
+      "Helleborus Fœtidus"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T HELLEBORUS FTIDUS. Helleborus ftidus, Linn. Natural order , Ranunculaceæ. Common name , Stinkender-niesswurz. Preparation , Tincture of the root. Authorities. 1 , Bisset, Essay on the Med. Const. of Great Britain, p. 333, \"poisoning,\" from Hahnemann's Hellebore; 2 , Gesner; Entdeckungen, 1, p. 167, \"statement;\" from Hahnemann; 3 , Dr. Demeures, effects of one drop, and of inhaling fumes while pounding it, Jour. d. l. Soc. Gal., 1st ser., vol. iv, p. 111; 4 , Oxford Magazine, 1779 (Hempel's Mat. Med., 1, p. 505), effects on various individuals of eating it; 5 , Cattell, symptoms compiled (?), B. J. of Hom., 11, 343. MIND. ► Dreadful anxiety, which, however, is relieved after vomiting, [1] . EYE. ► Great difficulty in reading, in the evening, by candlelight, lasting four days. The sensation is that cause when the light flickers in a draught of air; he has difficulty in following the lines (after two days), [3] . EAR. ► Thumping pain below and behind the left ear; this feeling soon passes off, [3] . MOUTH. ► Smarting at the tip of the tongue, [3] . ► My wife, who assisted in triturating this plant, experienced a painful sensation in the mouth, like aphthæ, [3] . ► Excoriation of the mouth and throat, [5] . ► Taste of manure in the mouth, tongue yellow in the middle, [3] . STOMACH. ► Nausea and vomiting of food, which, and hour before, had been taken with relish and in moderation, [3] . ► Several turns of nausea, without vomiting, nineteen hours after, [3] . [10.] ► Sickness, [5] . ► Constant inclination to vomit, [2] . ► When pounding the plant, it seems that the epigastrium with difficulty keeps time with the inflation of the chest on inspiration, [3] . ► Frightful pain in the pit of the stomach, [2] . ABDOMEN. ► Colic, [2] . STOOL. ► Violent purging and vomiting, with pain in the stomach, [5] . ► Abundant and liquid stool during the night; next day, two liquid and whitish stools, with colic; again a liquid stool forty-eight hours after, [3] . CHEST. ► Tightness of the chest; he can scarcely half draw his breath, [3] . NECK. ► Numbness in the muscles of the neck (the sensibility of the part touch is blunted); it becomes stiff eighteen hours after, [3] . GENERAL SYMPTOMS. ► Fatal convulsions, [5] . [20.] ► Swooning, [5] . ► Same general feeling as if he had come out of a severe sickness, [3] . SKIN. ► They lost not only the epidermis, but their hair and nails besides, [4] . ► The hair falls off, also the nails from the fingers and toes, [5] . ► The scarf skin peels off the whole body, [5] . ► Profuse discharge from the ulcerated surface (from application), [5] . SLEEP. ► During the night the prover stirs a great deal (in his sleep), [5] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Cholera; Hair, failing off; Nails, falling off; Scarlatina; Skin, peeling; Stiff-neck",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Thumping pain below and behind l. ear. Fatal convulsions. Swooning.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The effects of Hel. f. have been observed on several persons. It is a violent narcotico-acrid poison, and in fatal poisoning cases death has taken place in convulsions. The vision is disordered; choleraic symptoms occur; skin, hair, and nails exfoliate. The anxiety is > after vomiting.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Verat. alb. (copious liquid stools); Hell. n., Hell. v., Colch."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Dreadful anxiety; > after vomiting.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Great difficulty in reading, in evening, by candle-light; the sensation is as when the light flickers from a draught of air; cannot follow the lines.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Smarting at tip of tongue. Painful sensation like aphthæ in mouth (inhaling fumes of triturated plant). Taste of manure; tongue yellow in middle. Excoriation of mouth and throat. 11.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea and vomiting of food (taken an hour before with relish). Constant inclination to vomit. When pounding the plant it seems that the epigastrium with difficulty keeps time with the inflation of the chest on inspiration. Frightful pain in pit of stomach. Colic.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Violent purging and vomiting with pain in stomach. Abundant liquid stool during night; next day two liquid, whitish stools; again a liquid stool forty-eight hours later.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Tightness of chest, can scarcely half draw his breath.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Numbness in muscles of neck; sensibility to touch blunted it becomes stiff eighteen hours later.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Skin of whole body peels, hair falls out, all the nails fall off. Profuse discharge from ulcerated surface (from application).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Stirs a good deal in his sleep. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

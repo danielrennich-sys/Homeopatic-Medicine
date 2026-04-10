@@ -1,0 +1,257 @@
+{
+  "id": "senna",
+  "names": {
+    "primary": "SENNA",
+    "latin": "SENNA",
+    "common": [
+      "Cassia Acutifolia",
+      "Senna"
+    ],
+    "synonyms": [
+      "Senna",
+      "Senna (U. S. P.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "stool_rectum": [
+      {
+        "text": "Fluid yellowish, with pinching pains before. Greenish mucus; never-get-done sensation (Merc). Burning in rectum, with strangury of bladder. Constipation, with colic and flatulence. Liver enlarged and tender, stools hard and dark, with loss appetite, coated tongue, bad taste, and weakness",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Two liquid stools with griping pains. Loose evacuation, with tenesmus, and followed by a burning sensation in the anus. Diarrhœa with straining and prolapsed rectum and sore anus (cured in children. R. T. C.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Specific gravity and density increased; hyperazoturia, oxaluria, phosphaturia, and acetonuria",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "relationships": {
+      "antidoted_by": [
+        "Nux",
+        "Cham"
+      ],
+      "_raw": [
+        "Compare: Infantile colic and sleeplessness, jal. Exhaustion, K. ca. Sinking after meals, Ars., Cin., Lyc., Sil., Stp., Ur. nit., Calc., Iod., Sep., Tab."
+      ]
+    },
+    "dosing": {
+      "notes": "Third to sixth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">SENNA Cassia Acutifolia Is of much use in infantile colics when the child seems to be full of wind. Oxaluria, with excess of urea; increased specific gravity. Where the system is broken down, bowels constipated, muscular weakness, and waste of nitrogenous materials, Senna will act as a tonic. Ebullitions of blood at night. Acetonæmia, prostration, fainting, constipation with colic a flatulence. Liver enlarged and tender.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Used as a laxative in ordinary practice, Senna has proved an excellent remedy in the colic of infants, with incarcerated flatulence and sleeplessness. Infantile colic when the patient seems full of wind.─The symptoms of the Schema are mostly derived from overdosings. A peculiar symptom is: \"Repeated sneezing, which caused heat (especially of hands), exhaustion, and panting breathing,\" Exhaustion is typical of Senna. Farrington says it is one of the best remedies in the materia medica for \"simple exhaustion with excess of nitrogenous waste.\" The exhaustion is exemplified in the sinking immediately after meals. The pods caused a nasty unclean smell from the body of a woman taking them for constipation (R. T. C.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Colic; flatulent, of infants; Exhaustion; Nitrogenous waste; Sleeplessness; Sneezing, with heat",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Universal swelling. Exhaustion. Unclean body swell.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Heaviness of the head when stooping, as if it were pressed down.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Repeated sneezing, which caused heat (esp. of hands), exhaustion, and panting breathing.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Livid lips. Commissuræ of lips covered with small burning vesicles.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Anorexia. Thirst. Empty, or watery and fetid, risings. Loathing and nausea, with inclination to vomit. Sinking immediately after meals. Colic, esp. in little children. Painful colic from incarcerated flatulence (particularly in young children). Sensation of coldness in the abdomen, with emptiness and uneasiness in the stomach. Accumulation of flatus, with grumbling and fermentation in the abdomen, and discharge of fetid flatus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Ebullition of blood, esp. at night, disturbing the sleep. Sleeplessness, with cries and tossing, esp. in the case of infants.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Heat (esp. of hands). Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Related entry: Cassia marilandica",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The dried leaflets of (1) Cassia acutifolia, Delile, or of (2) Cassia angustifolia, Vahl (Nat. Ord. Leguminosae). (1) Eastern and central Africa; (2) cultivated from eastern Africa to India. Dose, 60 to 120 grains.Common Names: Senna, (1) Alexandria Senna, (2) India or Tinnivelly Senna.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Principal Constituents.—An amorphous, water-soluble, sulphurated glucoside—cathartinic acid (which may be split into cathartogenic acid and glucose), emodin, sennacrol and sennapicrin (water-insoluble glucosides), and chrysophanic acid.Preparations.—1. Specific Medicine Senna. Dose, 5 to 60 drops.2. Infusum Senna Compositum, Compound Infusion of Senna (Black Draught). (Senna, Manna, Magnesium Sulphate, Fennel, Boiling Water.) Dose, 2 to 8 fluidounces.3. Pulvis Glycyrrhiza Compositus, Compound Powder of Glycyrrhiza (Compound Licorice Powder), (Senna, Glycyrrhiza, Oil of Fennel, Washed Sulphur, Sugar). Dose, 1 to 2 drachms.4. Pulvis Jalapa Compositus, Compound Powder of Jalap (Antibilious Physic). Contains Senna. See Jalapa.Specific Indications.—Flatulence and colic; a laxative for non-inflammatory conditions of the intestinal tract.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—Senna is a manageable and useful cathartic producing copious yellowish-brown evacuations, and causing considerable griping when used alone. While it influences the whole intestinal tract, exciting peristalsis as it passes along, the greater action is exerted upon the colon. This renders it a certain purgative, for by this sequence the whole canal is the more readily emptied. It does not produce after-constipation, as does rhubarb and some other laxatives; and it may purge a nursing infant when administered to the mother. Senna is neither sedative nor refrigerant, but if anything somewhat stimulant, and is, therefore, not to be given in irritated or acutely inflamed conditions of the alimentary tube nor when there is great debility, or hemorrhoids, or prolapse of the rectum. Notwithstanding, it is effectual and safe to cleanse the bowels at the beginning of fevers, when such an effect is desired. It may be used as a laxative or more complete cathartic in children and adults when a severe action is not indicated. In most individuals it occasions nausea, tormina and flatulence when given alone, as in senna tea, but these effects may be mitigated by infusing it with coffee, or by the addition of cloves, ginger, peppermint, cinnamon, or other aromatic corroborants. Cream of tartar added to it increases its action, producing a hydragogue and refrigerant effect, while bitters in general seem to increase its action. Senna is one of the anthracene group of cathartics, and its action is largely, though not wholly, due to the presence of cathartinic acid. The latter taken up by the blood, or injected, is emptied into the intestinal canal, thereby causing or prolonging catharsis.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Compound Powder of Jalap. A most thorough action may be obtained from the Antibilious Physic, especially in auto-intoxication, and intestinal toxemia, giving rise to a violent, burning, diffuse rash, such as sometimes follows prolonged constipation, or the ingestion of tainted foods—particularly sea foods and fruit. This preparation is less irritant than senna alone, and unless there is very marked gastro-intestinal inflammation, it is seldom contraindicated. The physicing dose is one drachm, in hot water, cooled and sweetened; or milk, lemonade, or coffee may be used as a vehicle. It may also be given in large-sized gelatin capsules.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Compound Licorice Powder. A pleasant and efficient laxative in doses of 30 to 120 grains (average 60), given in plenty of water, at bedtime, for the general cleansing of the bowels of undigested material, relieving headache arising therefrom; and an admirable laxative for the pregnant and parturient woman, and for children. It may be given in water, or the ready-prepared lozenges may be used, the patient partaking also of plenty of water.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Preparations: Confection of Senna - Compound Confection of Senna - Infusion of Senna - Compound Infusion of Senna - Compound Mixture of Senna - Fluid Extract of Senna - Deodorized Fluid Extract of Senna - Fluid Extract of Senna and Jalap - Fluid Extract of Spigelia and Senna - Syrup of Senna - Tincture of Senna - Fluid Extract of Spigelia and Senna Related entries: Cassia Marilandica.—American Senna - Cassia Fistula (U. S. P.)—Cassia Fistula",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"The leaflets of Cassia acutifolia, Delile (Alexandria Senna), and of Cassia angustifolia, Vahl (India Senna)\"—(U.S. P.). Nat. Ord.—Leguminosae. ILLUSTRATION: Bentley and Trimen Med. Plants, 89, 90, and 91.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source and History.—There are several species of the cassia, plant, which are supposed to furnish Senna, as the C. acutifolia, C. obovata, C. angustifolia, C. lanceolata of Forskal, and C. aethiopica, of Guibourt, etc.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Cassia acutifolia, Delile (C. lanceolata, De Candolle; C. senna, Linné; C. lenitiva, Bischoff; C. orientalis, Persoon; Senna acutifolia, Batka).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "A perennial shrub, growing from 2 to 10 feet high; stem erect and smooth. The leaves are alternate, narrow, and equally pinnated; leaflets in pairs, from 4 to 8 on each leaf, ovate, nearly sessile, smooth above, rather downy beneath, with the veins turning inward, forming a flexuose intramarginal line; petioles without glands; stipules softly spinescent, semihastate, spreading, and minute. The flowers are bright yellow, in erect, stalked, axillary and terminal racemes, and rather longer than the leaves; the pedicels are without bracts. Sepals linear, and obtuse. Stamens 10, the 5 lowest small and sterile, the next 2 large, curved, and perfect, the 3 uppermost minute and gland-like. The ovaries are linear, downy, and falcate, with a smooth recurved style. The fruit consists of legumes or pods, which are pendulous, oblong, flat, membranous, about 1 inch long, ½ inch broad, quite straight, tapering abruptly to the base, and rounded at the apex; the seeds are many, ash-colored, and cordate (L). It grows in Nubia and upper Egypt, Kordofan, Sennaar, and yields most of the commercial Alexandria senna consumed in this country.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Cassia angustifolia, Vahl (C. elongata, Lemaire; C. acutifolia, Nees; C. lanceolata, Wight et Arnott; C. medicinalis, Bischoff; C. medica, Forskal; Senna angustifolia, Batka; S. officinalis, Roxburgh).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Cassia angustifolia, although an annual, may with attention be kept alive beyond the year, and made to assume a suffruticose character. It differs from C. acutifolia in having its leaflets lanceolate instead of ovate, and the legumes longer and not so round. Its seeds are deep-brown. It grows in northern and central India, Arabia, and in the Somali country, and is being cultivated from African seeds in Tinnevelly, near the southernmost point of India. It furnishes the India senna.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Cassia obovata, Calladon (C. Senna, Forskal; C. obtusata, Hayne; C. obtusa, Wallich; Senna obovata, Batka). A perennial herbaceous plant, smaller than the preceding, being about 18 inches high, with an erect or procumbent, smooth stem, downy at the base. Leaves alternate, equally pinnate, smooth, with no gland upon the petiole; leaflets in 4 to 6 pairs, opposite, obovate, rounded, mucronate at the apex, unequal at the base, the uppermost gradually the largest; stipules narrowly triangular, rigid, acute, spreading, and persistent. The flowers are pale-yellow, on erect, rather lax, axillary, stalked racemes. The legumes are oblong, falcate, membranous, smooth, rounded at each end, with an elevated ridge upon the valves over each side, so as to have an equally interrupted ridge along the middle, toward which the veins of each suture are directed nearly at right angles; the seeds, 6 to 8 in number, are cordate (L.). This species grows in the high, dry, uncultivated lands of Mysore, Egypt, Nubia, desert of Suez, central Africa, as far west as Senegambia, and is cultivated in many parts of southern Europe. It furnishes an inferior senna, known as the Italian or Aleppo, rarely to be found in the market. It is called in Egypt Senna baladi or Wild senna.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Cassia Sophera, Linné (C. lanceolata, Forskal), resembles the above, having, however, never more than 4 or 5 pairs of leaflets, oblong, and either acute or obtuse, not at all ovate or lanceolate, and perfectly free from downiness even when young; the petioles have constantly a small, round, brown gland a little above the base. The pods are erect, oblong, tapering to the base, obtuse, turgid, mucronate, and rather falcate, especially when young, at which time they are sparingly covered with coarse, scattered hairs. It grows in Arabia, and was considered by Forskal as the true Mecca senna (L.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Description.—The two principal commercial varieties of senna used in this country are Alexandrian or Egyptian and the Indian or Tinnevelly senna.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "ALEXANDRIA SENNA is collected from Senaar, Nubia, and upper Egypt, partly also from tropical Africa, near Timbuctoo, and forwarded to Alexandria and Cairo for the European markets. The leaves are gathered by cutting the branches in autumn, commencing in September, exposing them to the sun and atmosphere until they are quite dry, when the branches are removed by threshing, the leaves placed in sacks, and sent to the places of export. A preliminary crop is harvested in April. As received in this country, Alexandria senna is generally in bales and barrels, and is considered the finest and most valuable variety; the best and most esteemed is that which contains the least quantity of cynanchum leaves, senna leaf-stalks and pods, where the entire-lanceolate leaves are numerous, and where the odor and taste is strong and pure. It has a peculiar but not disagreeable odor, with an unpleasant, nauseous, mucilaginous, and sweetish taste, with hardly any perceptible bitterness, unless it be admixed with the leaves of the Argel (Solenostemma Argel, Hayne, or Cynanchum oleaefolium), which impart bitterness to the powder or infusion, and which is the most important impurity to remove. They may be recognized by having no visible lateral nerves on their under-surface; by being longer, thicker, and firmer than senna leaves, and by the greater regularity of their base.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "When conforming to the U. S. P. standard \"Alexandria senna consists of leaflets about 25 Mm. (1 inch) long and 10 Mm. (⅖ inch) broad, lanceolate, or lance-oval, subcoriaceous, brittle, rather pointed, unequally oblique at the base, entire, grayish-green, somewhat pubescent, of a peculiar odor, and a nauseous, bitter taste. It should be free from stalks, and from argel leaves (the leaves of Solenostemma Argel, Hayne; Nat. Ord.—Asclepiadeae), which are frequently present; these leaves, are thicker, 1-veined, wrinkled, glaucous, and even at the base\"—(U. S. P.). The German Pharmacopoeia allows the presence of argel leaves. Garbled Alexandria senna is a selected kind, free from stalks, and sometimes free from argel leaves.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "INDIA SENNA is of two kinds, the Bombay, or East Indian, and the Tinnevelly. The first is usually imported from Bombay, though it comes from Mocha and other parts of the Red sea (Mecca or Arabian senna is frequently alluded to as Bombay senna); the Tinnevelly is the cultivated kind and is esteemed the best. The Pharmacopoeia thus describes India senna: \"India senna consists of leaflets from 3 to 5 Cm. (1 ⅕ to 2 inches) long, and 10 to 15 Mm. (⅖ to ⅗ inch) broad; lanceolate, acute, unequally oblique at the base, entire, thin, yellowish-green or dull green, nearly smooth; odor peculiar, somewhat tea-like; taste mucilaginous, bitter, and nauseous. It should be free from stalks, discolored leaves, and other admixtures\"—(U. S. P.). Tinnevelly senna is the purest of all sennas, being free from stalks and foreign leaves. (for microscopical examination of Alexandria and India senna, see L. E. Sayre, Amer. Jour. Pharm., 1896, p. 585, and 1897, p. 298; also R. H. Denniston, Pharm. Review, 1898, p. 105; and E. Latour, Senna and Its Adulterants, Pharm. Jour. Trans., 1896, p. 481.)",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "TRIPOLI SENNA somewhat resembles the Alexandrian, but is considered much inferior to it; the leaves are more fragmentary, and the leaf-stalks more numerous. It very seldom contains any adulteration with the argel leaves. It is believed to be derived from Cassia acutifolia, while others regard it as the product of C. aethiopica, Guibourt, growing in Nubia, Fezzan, and probably in Ethiopia. The active principles of senna are taken up by cold or warm water, glycerin, alcohol, and proof-spirits; boiling destroys its virtues unless it be in vacuo. It should be powdered only as wanted, because the powder absorbs moisture, from which follows moldiness and destruction of its therapeutical virtue.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chemical Composition.—Senna leaves contain mucilage (about 10 per cent), calcium oxalate and acetate (12 per cent), and other salts yielding 9 to 12 per cent of ash; a non-purgative bitter resin, soluble in alcohol and ether (Rau, Amer. Jour. Pharm., 1866, p. 193), yellow coloring matter identified by Keussler (Jahresb. der Pharm., 1878, p. 199) as chrysophanic acid and emodin; the sugar catharto-mannit (Kubly and Dragendorff, 1865), which is dextro-rotatory, non-reducing and non-fermentable, having the formula, C6H7(OH)5 (sennit of A. Seidel, Amer. Jour. Pharm., 1885, p. 557). The cathartic principle of senna leaves is a glucosid and was first obtained in a comparatively pure state by Kubly and Dragendorff (Wittstein's Vierteljahrsschrift, 1867, p. 96) and named by them cathartic acid. It is an amorphous, black, solid mass, almost insoluble in water and strong alcohol, insoluble in ether and chloroform, soluble in warm alcohol of 40 to 60 per cent, and readily soluble with dark-brown color in alkalies and alkali carbonates; from this solution it is precipitated in brown flakes by acids. Boiling with diluted mineral acids decomposes it into sugar and cathartogenic acid. It loses its purgative action by heat and prolonged exposure to air. It exists in the leaves in the form of soluble calcium and magnesium salts. Kubly and Dragendorff prepare cathartic acid by evaporating in vacuo an aqueous infusion of senna leaves to a thick syrup, adding an equal bulk of strong alcohol which precipitates inorganic salts and gum, evaporating and precipitating the filtrate with excess of strong alcohol. The precipitate is dissolved in water, and the cathartic acid liberated by the addition of hydrochloric acid. The precipitate is purified by washing with absolute alcohol and ether. Mr. O. C. Dilly (Amer. Druggist, 1893, p. 13) obtained by this method 0.9 per cent of cathartic acid from Alexandria, and 0.6 per cent from Tinnevelly senna. (For other methods see R. Stockman, Amer. Jour. Pharm., 1885, p. 256; and A. Gentz, ibid., 1893, p. 334.) A. Gentz obtained a yield of about 0.75 per cent (also see Rheum and Frangula). Senna pods are now sold in the London market, and are stated to be richer in the cathartic principle than the leaves, and to contain none of the griping resin of the latter (E. F. Salmon, Amer. Jour. Pharm., 1889, p. 581). C. Symes (ibid., 1890, p. 46) found 0.8 per cent of pure cathartic acid.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Senna is a certain, manageable, and convenient cathartic, very useful in all forms of febrile diseases in which a laxative action is desired, particularly in the forming stage of bilious and other fevers, especially in children, and in other diseases where a severe impression on the bowels is not desired. Constipation does not follow its employment. It is also efficient in flatulent and bilious colics. Its influence is chiefly exerted on the small intestines, augmenting their mucous secretions, exciting increased peristaltic motion, and producing loose, yellowish-brown evacuations. A nursing infant may be purged by the milk of the mother who has taken senna, and so susceptible are some persons to its action, that its odor is said to induce a cathartic action. It does not act as a sedative, as is the case with some other cathartics, nor as a refrigerant; but has a slight stimulating influence, insufficient, however, to contraindicate its use in case of general excitement or reaction. Besides the nauseating taste of senna, it is apt to cause sickness at stomach, and very few persons can use it alone, without experiencing more or less griping pains and flatulence. The addition of cloves, ginger, cinnamon, or other aromatics, are excellent correctives of these unpleasant effects. A teaspoonful of cream of tartar to a teacupful of the decoction or infusion of senna, is a mild and pleasant cathartic, particularly suited for females, where it may be required soon after delivery. The addition of neutral laxative salts, as phosphate of sodium, Epsom, or Rochelle salts, is another mode, adopted by a certain class of practitioners, of preventing the tormina, and, at the same time, increasing the activity of the infusion of senna. These are, however, rarely used by Eclectics. Saccharine and aromatic substances are also combined for this purpose, as sugar, manna, aromatic seeds, electuary of senna, etc. The purgative effect of senna is much increased by the addition of the pure bitters; the decoction of guaiacum is said to answer a similar purpose. Senna is contraindicated in an inflammatory condition of the alimentary canal, or even irritation of those parts, general debility, hemorrhoids, prolapsus ani, etc. The dose, in powder, is from 30 to 50 grains; in tincture, from ½ to 2 fluid ounces; specific senna, 1 to 60 drops; electuary, 2 drachms; and of the infusion, which is the most usual mode of administration, from 2 to 4 fluid ounces. But, according to Mr. T. B. Groves, the tincture of senna is without action; the decoction is of less value than the infusion, and the infusion less than maceration; the solution by maceration alone purges without gripings, as by this method the larger portion of the cathartic principle is extracted, leaving behind the acrid constituents. Cathartic acid has the same action of senna, purging with griping in doses of 1 ½ to 3 grains. The seed-pods and leaf-stalks of senna are slower to act than senna, but are freer from griping and nauseating effects than the leaves.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Specific Indications and Uses.—Wind or bilious colics; a laxative for non-inflammatory conditions of the intestinal tract.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Species and Adulterants.—(See Pharm. Jour. Trans., Vol. II, 1896, p. 481, for description of microscopical characters of true Senna leaves; Coriaria myrtifolia, Linné; Solenostemma Argel, Heyne; Vaccinium Vitis-Idaea, Linné; Globularia Alypum, Linné; Tephrosia appolinea, De Candolle; and Cassia marilandica, Linné.)",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Cassia brevipes, De Candolle.—Central America. Apex blunt, with 3 veins running, parallel the whole length of the leaf; otherwise they resemble India senna. Destitute of cathartic properties (E. M. Holmes, 1875).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Cassia pubescens, R. Brown.—Oval or ovate leaflets, about an inch long, obtuse and mucronate, soft pubescent on both surfaces, and with ciliated margin. Occasionally mixed with Arabian senna.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Solenostemma Argel, Hayne (Cynanchum Argel, Delile; Cynanchum oleaefolium, Nectoux).This Asclepiad inhabits upper Egypt, and constitutes the chief adulterant of Alexandria senna, which, in shape, size, and color, the leaves resemble. They are, however, pubescent, more leathery, wrinkled, bitter to the taste, and have an even base, and indistinct, lateral veins. The flower-buds, blossoms, and pyriform fruit, containing pubescent seeds, are often present also.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Tephrosia appolinea, De Candolle (Galega apollinea, Delile) (Nat. Ord.—Leguminosae).Southern Europe. An occasional admixture in senna. Base uneven, apex emarginate, and general shape obovate.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Colutea arborescens, Linné (Nat. Ord.—Leguminosae), Bladder senna.—Southern and eastern Europe. The leaflets of this shrub, which bears yellow flowers and greenish, vesicular pods, containing numerous blackish-brown, roundish seeds, have been substituted for and occasionally used to adulterate senna. They are, however, much feebler in cathartic power. The thin, smooth leaflets (borne in pairs of 4 or 5) are oval, elliptic, or obovate, slightly emarginate, deep-green above, pale or grayish-green beneath, the lower surface being covered with an appressed pubescence. The odor is not pronounced, but the taste is bitter and nauseous.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Coriaria myrtifolia, Linné, has poisonous leaves (containing coriamyrtin). They are sometimes used as an adulterant of senna. Can be recognized by the tests for tannin (gelatin, mercuric chloride, tartar emetic, ferric chloride) (Charles Heisch, Amer. Jour. Pharm., 1888, p. 459).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Globularia Alypum, Linné (Nat. Ord.—Globulariaceae).—Southern Europe, in the region of the Mediterranean. This plant, as well as Globularia vulgaris, contains an amorphous, bitter glucosid, globularin (Walz), and a peculiar tannin. Globularin (C15H20O8) is soluble in water, alcohol, chloroform, and ether. Mineral acids split it into glucose and globularetin (C9H6O) (Heckel and Schlagdenhauffen, 1883). Globularetin, when heated with alkalies, yields cinnamic acid, which is also a constituent of the leaves. The leaves are used as a substitute for senna, and are mildly purgative. They are ovate-oblong, entire, or nearly so, almost sessile, exhibit fine granules, and are bluish-green beneath.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Casearia esculenta.—India. Plant said to yield an acid closely analogous to cathartic acid. Praised in hepatic torpor.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Allamanda cathartica.—A Porto Rico shrub, the extract of the bark of which, in doses of from 1 to 2 grains, is reputed a fine hydragogue cathartic.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Preparation.—SPECIES LAXANTHES (N. F.), Laxative species, St. Germain tea (Ger. Pharm.). \"Senna, cut, 16 parts; elder flowers, 10 parts; fennel, bruised, 5 parts; anise, bruised, 5 parts; potassium bitartrate, in fine powder, 4 parts. Moisten the senna with a small quantity of water, then sprinkle over it, as uniformly as possible, the potassium bitartrate. When it has become dry, mix it lightly and uniformly with the other ingredients\"—(Nat. Form., 1st ed.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "felter-eclectic-1922",
+      "kings-american-1898"
+    ]
+  }
+}

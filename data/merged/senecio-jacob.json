@@ -1,0 +1,64 @@
+{
+  "id": "senecio-jacob",
+  "names": {
+    "primary": "Senecio Jacobœa",
+    "latin": "Senecio Jacobœa",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Cooper has published (H. W., xxxv. 154) observations with Sen. jac., the common Ragwort, which, with its yellow flowers, is such a conspicuous feature of English roadsides and commons throughout the summer months. Cooper (1) gave a lady, 57 (who had slight otorrhœa of left ear with deafness on that side), a single dose of Sen. jac. Ø. Immediately after, she began to feel depressed in mind and body; it seemed as if her brain would not work, for she talked incoherently. The bowels began acting in gushes, and a bladder weakness was aggravated, so that there was enuresis night and day for three days. (2) Another woman from a single dose of the same had \"exhaustion in the back of the head.\" (3) A lady, 51, had had depression all her life, coming in fits. \"Memory and everything goes,\" cannot talk coherently to herself, and dislikes conversation in others. On July 1, 1900, she wrote: \"Have suffered agony from awful feeling of torpor of brain, which has made it an effort to put words together, memory seemed to go, felt altogether insensible; bowels have been confined.\" One dose of Sen. jac. Ø was given, and removed the depression and relieved all the other symptoms; it also produced this: Constant rigidity of muscles, chiefly of neck and shoulders, at night; it seems like a habit, \"and I try to relax them but find it most difficult; it seems to run back involuntarily, so that the weight of the head is somehow held in this way, and though touching the pillow does not rest on it. Sometimes in the day the upper part of the legs gets a sort of ague fit of shaking.\" On this Cooper remarks: \"The exhaustion felt after a dose of Sen. jac. in the back of the head in case 2, and the cropping up as a new symptom of this strange-looking rigidity of the muscles of the neck, at night chiefly, together with the shaking of the legs in the daytime, points to inco-ordinate muscular action due to deranged cerebral control.\" Cooper adds this case: A man, 68, many years apoplectically inclined, had constant twitchings at night with vascular deafness of right ear, loss of memory, pressure and heat of head: after a dose of Sen. jac. Ø he remained comfortable for three months and hearing improved. Sen jac. has been used like Sen. aur. in cases of menstrual irregularity. Gerarde mentions \"green wounds and old filthy ulcers\" as benefited by it, also \"old aches and pains in the arms, hips, and legs.\"",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Brain, affections of; Cerebro-spinal irritation; Depression; Enuresis; Headache; Twitchings",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sometimes in the day the upper part of the legs gets a sort of ague fit of shaking. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Depressed in body and mind; it seemed as if her brain would not work, for she talks incoherently.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Exhaustion felt in back of head; after this felt lighter and better.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Bowels (before fairly regular) began acting in gushes, large stools occasionally, but in no way regular.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "The bladder, which had been rather weak, became more so, the enuresis continuing day and night for several days.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Constant rigidity of muscles, chiefly of neck and shoulders, esp. at night; seems like a habit, but finds it most difficult to relax them; it seems to return involuntarily, so that the weight of the head is somehow held in this way, and though touching the pillow does not rest on it.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

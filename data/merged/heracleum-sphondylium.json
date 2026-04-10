@@ -1,0 +1,41 @@
+{
+  "id": "heracleum-sphondylium",
+  "names": {
+    "primary": "HERACLEUM SPHONDYLIUM",
+    "latin": "HERACLEUM SPHONDYLIUM",
+    "common": [
+      "Hogweed (HERACLEUM - BRANCA URSINA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Aches, with drowsiness, worse moving in open air, better tying up head with cloth. Much fatty perspiration on head and violent itching. Seborrhœa capitis. Sick headache",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Pain with inclination to vomit. Bitter risings and taste. Hungry but unable to eat. Abdominal and spleenic pain",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">HERACLEUM SPHONDYLIUM Hogweed (HERACLEUM - BRANCA URSINA) Recommended as a spinal stimulant; in epilepsy with flatulency, gouty and skin symptoms.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

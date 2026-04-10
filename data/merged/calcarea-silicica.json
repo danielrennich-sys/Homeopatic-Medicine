@@ -1,0 +1,35 @@
+{
+  "id": "calcarea-silicica",
+  "names": {
+    "primary": "Calcarea Silicica",
+    "latin": "Calcarea Silicica",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "This preparation has been used by Ussher (H. W., xxxiv. 491) in the 1x and 6x potencies in cases of atrophy of children. He has found it succeed where Silica has failed in these cases and in corneal affections. It causes absorption of corneal exudations. Ulcers with punched-out edges indicate it.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Atrophy; Cornea, ulcer of; Scrofula; Ulcers",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Salufer, Fluoric acid, Lapis alb. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

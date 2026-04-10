@@ -1,0 +1,44 @@
+{
+  "id": "dipteryx-odorata",
+  "names": {
+    "primary": "Dipteryx odorata (WILLD.)",
+    "latin": "Dipteryx odorata (WILLD.)",
+    "common": [
+      "Tonquin Bean"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "A forest tree native to Brazil and British Guiana and called there 'Rumara'.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The odour of coumarin, which distinguishes the Tonka Bean, is found in many plants, especially in Melilotus, sweet vernal grass, and related grasses. One pound of the beans has yielded 108 grains of coumarin, which is the anhydride of coumaric acid. In addition to its use in perfurnery as a fixative, coumarin is used to flavour castor-oil and to disguise the odour of iodoform. The fatty substance of the beans is sold in Holland as Tonquin butter .",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Aromatic, cardiac, tonic, narcotic. The fluid extract has been used with advantage in whooping cough, but it paralyses the heart if used in large doses.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "For children of five years' old, 5 to 8 grains.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

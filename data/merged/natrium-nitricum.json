@@ -1,0 +1,51 @@
+{
+  "id": "natrium-nitricum",
+  "names": {
+    "primary": "NATRIUM NITRICUM",
+    "latin": "NATRIUM NITRICUM",
+    "common": [
+      "Nitrate of Sodium (NATRUM NITRICUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Dull. Indisposed to mental and bodily exertion. Pressing inward pain. Otalgia. Inward pressing in malar bones. Nosebleed",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Sour risings. Aversions to coffee. Flatulence, with pressure in pit of stomach and pain in chest; worse motion, better eructation",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Abdominal muscles painfully contracted towards the spine. Distended. Difficult stool; feels as if more remained to pass",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pain in region of heart. Pulse slower and softer",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Second trituration, also watery solution; 1 dram of salt to 8 oz water. Dram doses"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">NATRIUM NITRICUM Nitrate of Sodium (NATRUM NITRICUM) A Rademacherian remedy for inflammations. Hæmoptysis. Hæmaturia. Purpura hæmorrhagica. Hæmorrhagic Variola. Drowsiness. Pains of tabes. Influenza. Hemoglobinuria. Uric acid diathesis. Asthma with urine supersaturated with solids. Anæmia and hydræmia. Exhaustion, must rest frequently when walking.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

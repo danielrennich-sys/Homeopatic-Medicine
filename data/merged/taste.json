@@ -1,0 +1,24 @@
+{
+  "id": "taste",
+  "names": {
+    "primary": "TASTE",
+    "latin": "TASTE",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY TASTE. Taste , altered , in general : Chin., Pul., Rhus-t. Taste, acute : Chin., Cof. Taste, aftertaste , of food eaten : Ant-c., Caust., Dios., Nat-m., Pho-ac., Pho., Pul., Sil. Taste, astringent : Alu., Arg-n., Ars., Chio., Grap., Merc-c., Pho. Taste, bad , foul, nauseous, repulsive, etc. : Arn., Merc., Nux-v., Pul., Rhus-t., Stap. Taste, bad, in the morning : Bry., Nat-s., Nux-v., Pul. Taste, bad, to water : Aco., Ap., Ars., Bur-p., Fer., Kali-bi., Nat-m., Sil. Taste, bitter : Aco., Ant-c., Ars., Bry., Cham., Chin., Lyc., Merc., Nux-v., Pul., Sep., Sul., Ver-a. Taste, bitter, to food : Chin., Pul. Taste, bloody : Ip. Taste, dulled , flat, watery, etc. : Bry., Chin., Ign., Pul., Stap. Taste, earthy : Pul. Taste, greasy , fatty : Alu., Asaf., Caust., Iris. Taste, herby : Nux-v. Taste, lost : Anac., Bell., Cycl., Hyo., Nat-m., Pul., Sil. Taste, metallic : Cocc., Cup., Merc., Nux-v., Rhus-t. Taste, peppery : Hyds., Lach., Mez., Sul., Xantx. Taste, rancid , also of eructation : Alu., Carb-v., Thu., Val. Taste, salty : Ars., Kali-io., Lyc., Merc., Pho., Pul., Sep. Taste, slimy : Kali-bi., Pul. Taste, sour : Arg-n., Bell., Calc-c., Chin., Lyc., Mag-c., Nux-v., Pho., Pul., Sul. Taste, sweet : Pho., Plb., Pul., Saba., Squil., Stan. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

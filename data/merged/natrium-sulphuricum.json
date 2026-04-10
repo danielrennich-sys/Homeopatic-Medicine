@@ -1,0 +1,135 @@
+{
+  "id": "natrium-sulphuricum",
+  "names": {
+    "primary": "NATRIUM SULPHURICUM",
+    "latin": "NATRIUM SULPHURICUM",
+    "common": [
+      "Sulphate of Sodium-Glauber's Salt (NATRUM SULPHURICUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Lively music saddens. Melancholy, with periodical attacks of mania. Suicidal tendency; must exercise restraint. Inability to think. Dislikes to speak, or to be spoken to",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Occipital pain. Piercing stitches in ears. Vertigo; relieved by sweat on head. Bursting feeling on coughing. Hot feeling on top of head. Bursting feeling on coughing. Hot feeling on top of head. Boring in right temple, preceded by burning in stomach. Ill-effects of falls and injuries to the head, and mental troubles arising therefrom. Dreams of running water",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Sticking pain, earache, lightning-like stitches in damp weather",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Nasal catarrh, with thick, yellow discharge and salty mucus. Coryza. Epistaxis. Ethmoiditis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Conjunctiva yellow. Granular lids. Photophobia (Graphites)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Slimy, thick, tenacious, white mucus. Bitter taste, blisters on palate",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Thick, yellow mucus, drops from posterior nares",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Vomits sour. Brown, bitter coating on tongue. Yellow complexion. Thirst for something cold. Bilious vomiting, acid dyspepsia, with heartburn and flatulence",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Duodenal catarrh; hepatitis; icterus and vomiting of bile; liver sore to touch, with sharp, stitching pains; cannot bear tight clothing around waist, worse, lying on left side. Flatulency; wind colic in ascending colon; worse, before breakfast. Burning in abdomen and anus. Bruised pain and urging to stool. Diarrhœa yellow, watery stools. Loose morning stools, worse, after spell of wet weather. Stools involuntary, when passing flatus. Great size of the fecal mass",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Loaded with bile. Brisk-dust sediment. Excessive secretion. Diabetes",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Nosebleed during menses, which are acrid and profuse. Burning in pharynx during menstruation. Herpetic vulvitis. Leucorrhœa yellowish-green, following gonorrhœa in female. Leucorrhœa with hoarseness",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Condylomata; soft, fleshy excrescences; greenish discharges. Gonorrhœa; discharge thick, greenish; little pain",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Dyspnœa, during damp weather. Must hold chest when coughing. Humid asthma; rattling in chest, at 4 and 5 am. Cough, with thick ropy, greenish expectoration; chest feels all gone. Constant desire to take deep, long breath. Asthma in children, as a constitutional remedy. Delayed resolution in pneumonia. Springs up in bed the cough hurts so; holds painful side (Bry). Pain through lower left chest. Every fresh cold brings on attack of asthma",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Itching when undressing. Violent pains in back of neck, and at base of brain. Piercing pain between scapulæ. Spinal meningitis; opisthotonos",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Swelling of axillary glands. Inflammation around root of nails. Burning in soles; œdema of feet; itching between toes. Gout. Pain in limbs, compels frequent change in position. Run-arounds. Pain in hip-joints, worse left, worse, stooping. Stiffness of knees, cracking of joints. Rheumatism, worse in damp cold weather",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching while undressing. Jaundiced, watery blisters. Sycotic excrescences; wart-like red lumps all over body",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "dry weather, pressure, changing position",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "music (makes her sad); lying on left side; dampness of basement, damp weather",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "First to twelfth trituration"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">NATRIUM SULPHURICUM Sulphate of Sodium-Glauber's Salt (NATRUM SULPHURICUM) A liver remedy, especially indicated for the so-called hydrogenoid constitution, where the complaints are such as are due to living in damp houses, basements, cellars. They are worse in rainy weather, water in any form. Feels every change from dry to wet; cannot even eat plants growing near water, nor fish. Always feels best in warm, dry air. Clinically, it has been found a valuable remedy for spinal meningitis, head symptoms from injuries to head, mental troubles therefrom. Every spring, return of skin affections. Tendency to warts. Fingers and toes affected. Chronic gout (Lycop).",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

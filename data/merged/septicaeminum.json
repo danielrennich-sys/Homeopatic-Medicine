@@ -1,0 +1,35 @@
+{
+  "id": "septicaeminum",
+  "names": {
+    "primary": "Septicæminum",
+    "latin": "Septicæminum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Skinner (H. W., xxxv. 246) gave a supply of Septic. 10m (F. C.) to a volunteer going to South Africa, with instructions to take a globule every four hours if attacked with anything like sinking or typhoid fever. The young man wrote home that \"Septicæmin is like magic in diarrhœa and dysentery in camp life,\" and asked for more, as his supply was largely drawn on by his friends.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Camp diarrhœa; Dysentery; Typhoid fever",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Pyro., Malar., Bapt. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

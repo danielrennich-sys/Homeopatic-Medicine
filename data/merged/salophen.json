@@ -1,0 +1,32 @@
+{
+  "id": "salophen",
+  "names": {
+    "primary": "Salophen",
+    "latin": "Salophen",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Synonym—Acetylparamidophenyl Salicylate.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—It is a safer remedy than salol, and quite as sure in the same conditions where the effect of salicylic acid in the blood is desired, and it will probably act with much less irritation upon the kidneys. Its influence upon the bladder and mucous membranes of the genito-urinary tract is probably much less active than that of salol. Dose 5 to 20 grains.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "quebracho",
+  "names": {
+    "primary": "QUEBRACHO",
+    "latin": "QUEBRACHO",
+    "common": [
+      "Quebracho (ASPIDOSPERMA)",
+      "Quebracho"
+    ],
+    "synonyms": [
+      "Quebracho"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "dosing": {
+      "notes": "First trituration of tincture, or Aspidospermin hydrochlorid 1 grain of 1x trit. Every hour for a few doses"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">QUEBRACHO Quebracho (ASPIDOSPERMA) The digitalis of the lungs (Hale). Removes temporary obstruction to the oxidation of the blood by stimulating respiratory centers, increasing oxidation and excretion of carbonic acid. Pulmonary stenosis. Thrombosis of pulmonary artery. Uræmic dyspnœa. An effective remedy in many cases of asthma. It stimulates the respiratory centers and increases the oxygen in the blood. \"Want of breath\" during exertion is the guiding symptom. Cardiac asthma.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Quebracho is a Brazilian fever remedy from which the alkaloid Astidospermine has been isolated. This is in small, very brilliant, white crystals, sparingly soluble in water, readily soluble in alcohol and ether. Hale says Queb. produces in animals respiratory paralysis, slowed heart, and paralysis of extremities. It relieves dyspnœa in phthisis and pleurisy, but without influencing the fever. The 1x relieved asthma with livid face; and dyspnœa with cyanosis is frequently relieved by it. Hale gives these cases as relieved by it: (1) Mitral incompetence and stenosis with severe nocturnal dyspnœa. (2) Fatty heart (Queb. had no influence on the œdema, which was removed by Dig.). Jos. P. Cobb (quoted A. H., xxvii. 74) records a case of heart affection of some duration in a man, 24. There was some enlargement, especially of right side, much dyspnœa, and a slight mitral murmur. Following this were signs of emphysema and severe attacks of asthma. Râles were heard, and \"pearls\" of rounded gelatinous masses were expectorated. Aspidospermine 3x gave more relief than any other remedy. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Asthma, Cardiac asthma; Fever",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Quebracho is an evergreen tree which sometimes rises to 100 feet, with an erect stem and wide-spreading crown. The wood of all the species of this genus is valuable, and the name is due to its hardness, being derived from two Spanish words, quebrar and hacha , meaning 'the axe breaks.' It is used for tanning. The bark was not introduced into Europe until 1878, though was for long used in South America as a febrifuge. Commercially, it is met with in large, thick pieces covered on the outside with a very thick and rough, corky layer of a greyish-brown colour, and deeply divided by furrows and excavations. The inner bark is greyish or yellowish, smooth or somewhat fibrous, and often with small, black spots. The taste is very bitter, but there is scarcely any odour. Two other plants are known as Quebracho: Schinopsis Lorenzii , the wood of which is sold in commerce as 'quebracho wood,' and Iodina rhombifolia , 'quebracho flojo,' the wood and bark of which are sometimes substituted for the 'quebracho colorado.'",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Chile and Argentina, Bolivia, Southern Brazil.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Contains six alkaloids: Aspidospermine, Aspidospermatine, Aspidosamine, Quebrachine, Hypoquebrachine and Quebrachamine. All agree that quebrachine is the most active. Two new sugars, quebrachite and laevogyrate inosite, tannin and starch have also been extracted.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Tonic, febrifuge and anti-asthmatic. When a preparation of Quebracho or Aspidosperma is injected into the circulation, the rate and depth of the respiration increases largely, apparently due to direct action on the respiratory centre, and the blood-pressure falls. Aspidosperma is used in medicine for the relief of various types of dyspnoea, especially in emphysema and in asthma. It is not generally useful to interrupt the paroxysm, but, as a rule, if used continuously, it will reduce the frequency and severity of attacks. Under the name of amorphous aspidospermine, a mixture of the various alkaloids has become known in commerce. Quebracho Colorado , or S. Lorenzii , has been used as a substitute), but is essentially different, being probably a simple and gastrointestinal stimulant, though it has been said to be a much weaker form of quebrachoblanco.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

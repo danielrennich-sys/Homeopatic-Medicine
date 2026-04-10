@@ -1,0 +1,66 @@
+{
+  "id": "rubia-tinctorum",
+  "names": {
+    "primary": "Rubia Tinctorum",
+    "latin": "Rubia Tinctorum",
+    "common": [
+      "Madder"
+    ],
+    "synonyms": [
+      "Rubia tinctorum (LINN.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "The bones of young animals fed on Madder become tinged red. Burnett has found Rub. t. an excellent remedy (in ten-drop doses of the Ø) in anæmia and under-nourished conditions, especially in splenic anæmia.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "The stalks of the Madder are so weak that they often lie along the ground, preventing the plant from rising to its maximum height of 8 feet. The stalks are prickly, and the whorls of leaves at the joints have spines along the midrib on the underside, a feature that the French turn to advantage by using them for polishing metal-work. The herb is used as fodder for animals. The flower-shoots spring from the joints in pairs, the loose spikes of yellow, starry flowers blooming only in the second or third year, in June. The thick, fleshy fibres that compose the perennial are about 1/4 inch thick, and from their joining, or head, side roots run under the surface of the ground for some distance, sending up shoots. The main and side-roots are dried separately, their products being regarded as different, that of a young, parent root being the best. They are covered with a blackish rind, beneath which they are reddish, with a pale yellow pith. In France, after drying, the outer layer is threshed off and powdered and packed separately as an inferior product called mall. The stripped roots are again heated - excepting in hot climates - then powdered, and milled three times. The final product is packed in casks, which in Holland are stamped by sworn assayers. The best European Madder is Dutch, but that from Smyrna is said to be even finer. The Turkey-red and other shades are adjective dyes, different mordants bringing many shades of red, pink, lilac, purple, brown, orange and black. As a dye it colours milk, urine and bones, so that experiments in the growth of bones can be conducted with its help. Rubia tinctoria differs very slightly from the Wild Madder or R. peregrina , and may be merely a variety. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Anæmia; Bones, affections of; Spleen, affections of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "R. sylvestris , a nearly allied species, hasbeen used as a remedy in liver diseases, jaundice, gall and spleen complaints. The root, leaves and seeds are all reputed as medicinally active. R. cordifolia , or Bengal Madder, of India, yields the inferior dye called Munjeet. In France it is thought that the root of Galium cruciatum , or Crosswort, might replace that of Madder. [ Top ] Purchase from Richters Madder (Rubia tinctorium) Seeds",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Chin., Coff., Galium (bot.). In anæmia, Ferr. Copyright © Médi-T ® 2000 Main"
+      ]
+    },
+    "habitat": [
+      {
+        "text": "Southern Europe, including southern Britain, and Mediterranean countries.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The root contains rubian, rubiadin, ruberythric acid, purpurin, tannin, sugar and especially alizarin . Pseudopurpurin yields the orange dye and xanthopurpurin the yellow. The astringent taste, slight odour and red colour, are imparted to water or alcohol. The most interesting of the colouring substances is the alizarin, and this is now termed dihydroscyanthraquinone. This occurs as orange-red crystals, almost insoluble in water, but readily soluble in alcohol, ether, the fixed oils and alkaline solutions. The alcoholic and aqueous solutions are rose-coloured, the ethereal, golden-yellow; the alkaline, violet and blue when concentrated, but violet red when sufficiently diluted. A beautiful rose-coloured lake is produced by precipitating a mixture of the solutions of alizarin and alum. Alizarin was recognized by Graebe and Liebermann, in 1868, as a derivative of anthracene - a hydrocarbon contained in coal-tar, and in the same year they elaborated a method for preparing it commercially from anthracene. Upon this arose rapidly a great chemical industry, and the cultivation of Madder has, of course, decreased correspondingly until it may be said that the coaltar products have entirely displaced the natural ones.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Although not as a general rule employed medicinally, Madder has been reputed as effectual in amenorrhoea, dropsy and jaundice. When taken into the stomach it imparts a red colour to the milk and urine, and to the bones of animals without sensibly affecting any other tissue. The effect is observed most quickly in the bones of young animals and in those nearest to the heart. Under the impression that it might effect some change in the nervous system, it has been prescribed in rachitis (rickets), but without noticeable favourable results. Dosage, 1/2 drachm three or four times daily.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900",
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

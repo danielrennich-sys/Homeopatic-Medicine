@@ -1,0 +1,35 @@
+{
+  "id": "parotidinum",
+  "names": {
+    "primary": "Parotidinum",
+    "latin": "Parotidinum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Parotidinum has been used as a prophylactic against infection by mumps. In this instance it is generally given in the 6th or 30th two or three times a day to those exposed to infection. In the disease itself it may be given every four hours, either by itself or alternated with other indicated remedies. The well-known complications which sometimes occur with mumps, cerebral inflammation and orchitis suggest its possible use in these conditions.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Glandular affections; Meningitis; Mumps; Orchitis; Salivation",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Merc. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

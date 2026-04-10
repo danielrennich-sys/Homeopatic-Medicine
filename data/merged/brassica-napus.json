@@ -1,0 +1,86 @@
+{
+  "id": "brassica-napus",
+  "names": {
+    "primary": "Brassica Napus",
+    "latin": "Brassica Napus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T BRASSICA NAPUS. Brassica napus, L. (now considered a variety of B. campestris, L.). Natural order , Cruciferæ. Common names , Rape seed, Cole seed. Authority. John Popham, M. B., Lancet, 1849 (2), p. 635, a large number of Irish during the famine ate freely of wild corn kale or Brassica napus. They all exhibited indications of deteriorated health, the hue of the skin being uniformly sallow and muddy-looking, totally different from the brown discoloration caused by exposure to the sun; the surface was always covered with that colorless downy hair, so characteristic of what the country people here call \"impoverished blood.\" An dematous state prevailed generally of the whole body, but always of the face and lower extremities, the former sometimes being swollen to an enormous extent, the distended state of the eyelids and upper lip especially producing remarkable deformity. The abdomen was tympanitic; the bowels torpid; the mucous membrane of the mouth and pharynx was inflamed, and in some parts ulcerated, and the gums spongy; the appetite was usually greater than natural, in some cases voracious; the urinary secretion was deficient and irritating, and that of the skin suspended; very distressing frontal headache and tension was also complained of; but the most curious symptom, next to the dematous appearance of the patient, was the state of the hands and feet, which were dry and shrunken, with blotches of a deep red, resembling burns, on the backs of the hands and dorsum of the feet, the fingers and toes being frequently cold and livid. Similar blotches existed on the nose and forehead, and these varied in their consequence from simple discoloration to ulceration of a most troublesome description, terminating in loss of the cuticle, and dropping off of the nails, with a marked disposition in the aggravated cases to gangrene. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Bulimia; Dropsy; Gangrene; Nails, shedding of; Scurvy; Ulcers",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Hands and feet dry and shrunken, with blotches of a deep red, like burns, on backs of hands and dorsa of feet, the fingers and toes being frequently cold and livid; ulceration; loss of nails.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Our knowledge of the pathogenetic effects of Brassica napus is derived from the experience of the Irish famine, during which the people ate it freely. Dropsical swellings, scorbutic mouth, voracious appetite, tympanitic abdomen, blotches like burns, dropping off of nails, and gangrene. All the symptoms of impoverished blood appear, such as growth of downy, colourless hair.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Raphanus, Armoracea, Sinapis, Secale."
+      ]
+    },
+    "head": [
+      {
+        "text": "Very distressing frontal headache and tension.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Swollen to an enormous extent, the distended state of eyelids and upper lip producing great deformity. Burn-like blotches on nose and forehead (also hands and feet), varying from discoloration to ulceration. 8.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Mucous membrane of mouth and throat inflamed, ulcerated in parts, gums spongy.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Appetite increased, sometimes voracious. Abdomen tympanitic.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Bowels torpid.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urine deficient and irritating.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Sallow and muddy-looking; covered with downy hair. General œdema. Blotches, deep red, like burns, on backs of hands and feet and nose and forehead, varying from simple discoloration to most troublesome ulceration, causing destruction of cuticle and dropping off of nails, with a marked disposition in the aggravated cases to gangrene. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "id": "zincum-valerianicum",
+  "names": {
+    "primary": "ZINCUM VALERIANICUM",
+    "latin": "ZINCUM VALERIANICUM",
+    "common": [
+      "Valerinate of Zinc (ZINCUM VALERIANUM)"
+    ],
+    "synonyms": [
+      "Zincum Valerianicum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Violent, neuralgic, intermittent headaches. Becomes almost insane with pain, which is piercing and stabbing. Uncontrollable sleeplessness from pain in head with melancholy",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Slight pain in l. temple and l. mastoid process. Fulness in head, esp. occiput.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Ovaralgia; pain shoots down limbs, even too foot",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Severe pain in neck and spine. Cannot sit still; must keep legs in constant motion. Sciatic neuralgia",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "First and second trituration. Must be continued for some time in treatment of neuralgia"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ZINCUM VALERIANICUM Valerinate of Zinc (ZINCUM VALERIANUM) A remedy for neuralgia, hysteria, angina pectoris, and other painful affections, notably in ovarian affections. Epilepsy without aura. Hysterical heart-pain. Facial neuralgia, violent in left temple and inferior maxillary. Sleeplessness in children. Obstinate hiccough.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Zn. v. is a favourite anti-hysteric medicine in old-school practice. There is one proving with substantial doses by C. B. Finney, which brought out a strong action on the genital sphere, the usual starting-point of hysteria. Finney had the brain-fag symptoms of Zn., and gastro-intestinal disturbance. The abdominal pains waked him from sleep, and he had to rise at 6.30 to Stool, which was partly fœcal and partly fluid. Later he was constipated and had tenesmus. Hale quotes C. Dradwick as saying that a considerable number of patients having piles, who were taking Zn. v. for other troubles, had their piles relieved by the remedy. Finney had distinct heart pains, and Hale mentions angina pectoris as having been cured by Zn. v. Other conditions named by him are: Prosopalgia, spinal neuralgia, sciatica, ovarian neuralgia, cerebro-spinal meningitis, and tubercular meningitis. Zn. v. is indicated in hysteria with fidgety feet; hypochondriasis; groundless fears. Hansen gives 44 epilepsy without aura.\" Finney had \"Sensation as if a very heavy weight on chest and dull headache and stiffness of muscles of neck.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Angina pectoris; Asthma; Brain-fag; Deltoids, pain in; Diarrhœa; Emaciation; Epilepsy; Hæmorrhoids; Hypochondriasis; Hystero-epilepsy; Priapism; Seminal emissions; Stiff-neck",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Spell of coughing, with sense of fulness in chest. Pain in l. deltoid; later in r. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Dulness of mind and headache with erections. Great fulness of head, with difficult thinking. Distressed mentally, mind all mixed up.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Slight pain over r. eye, with dull headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Hard sneezing.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue coated white.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "No appetite. Belched up bitter fluid. Woke with empty feeling in pit of stomach. Rose 6.30 a.m. with colicky pains. Abdominal pains > by passing flatus. Crampy pain in abdomen. Drawing pain at umbilicus and sense of pressure in rectum when standing. Pain in bowels while dressing and after breakfast.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "At 2 p.m. evacuation of fæcal matter, followed by watery flow, with pain in belly. Pressure on rectum when standing. At 6.30 had to get up to stool, which was small, brown, and mushy, discharged with much wind. Ineffectual desire for stool. Stool scanty, much tenesmus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Tendency to erections all day. Strong erection 8.15 a.m.; with dulness of mind and headache. Nocturnal emissions on several successive nights; after them weight and constriction in perinæum.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Sensation as if very heavy weight lying on chest. Cramp-like pain in heart.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Dull headache and stiffness of muscles of neck, lasting all evening.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

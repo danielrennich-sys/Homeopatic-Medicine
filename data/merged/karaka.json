@@ -1,0 +1,69 @@
+{
+  "id": "karaka",
+  "names": {
+    "primary": "Karaka",
+    "latin": "Karaka",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T KARAKA. Coryno-carpus lævigatus, [Figured in Botanical Magazine, plate 4379.] Foster. Natural order , Anacardiaceæ. Common names (New Zealand), Kopi-tree, Karaka. Preparation , Tincture or trituration of the fresh seeds. Authority. G. Bennett, poisoning of a New Zealand chief by the seeds. Lond. Med. Gaz., Sept. 1831. ► Deafness (soon). ► Violent pain, lasting a week (soon). ► Partial paralysis of limbs (soon). ► When warm water was applied, he did not feel any warmth from it. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Paralysis",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Spasm with pains. Violent pain lasting a week (soon). Partial paralysis. Heat-anæsthesia; when warm water was applied he did not feel any warmth from it. Violent spasms and convulsions of whole body, arms and legs stretched violently and rigidly out. Permanent rigid distortion. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "G. Bennett has recorded a few symptoms observed in the case of a Maori chief poisoned with the seeds of Karaka, which contain a tasteless farinaceous substance and are eaten in times of scarcity. But the raw seeds are poisonous and produce spasmodic pains, giddiness, and partial paralysis. To obviate this they are steamed for twenty-four hours, and then either buried in the ground or allowed to soak in water for some days (Treas. of Bot.). C. F. Fischer (H. W., xxviii. 515) proved Karaka and used it clinically in cases of convulsions. He quotes an account of its effect from the Proceedings of the New Zealand Institute:─Violent spasms and convulsions of whole body, arms and legs stretched violently and rigidly out; great flushings of heat; protrusion of eyes and tongue; gnashing of jaws. The poison proves rapidly fatal if the patient is not attended to immediately; and the limbs are permanently and rigidly distorted if they are not fixed in proper positions until the crisis is passed. The general treatment is to bind the patient (generally a child), with the limbs in right position, dig a pit and place him in it, standing, buried up to the chin with a gag in his mouth. The writer describes a youth, æt. 12, who had recovered after being poisoned, but whose limbs had not been properly secured and were ever after absolutely useless. One leg was curved up behind his loins, the other bent up with the foot outwards; one arm inclined behind his shoulder, the other slightly bent and extended forward, and all, as to muscles, inflexibly rigid. He could not move himself or even drive away the flies.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Giddiness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Protrusion of eyes.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Deafness (soon).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Gnashing of jaws.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Protrusion of tongue.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "cetraria-islandica",
+  "names": {
+    "primary": "Cetraria Islandica",
+    "latin": "Cetraria Islandica",
+    "common": [
+      "Moss, Iceland"
+    ],
+    "synonyms": [
+      "Cetraria islandica (ACH.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Cetraria has been used in decoction and as a food, and has been found curative empirically in the diseases named above. Symptoms indicating its use are: Bitter slimy taste. Feels full and satisfied after eating a little. Habitual vomiting. Chronic diarrhœa (of consumptives). Frequent catarrhs. Tickling and spasmodic feeling in windpipe on waking. Copious expectoration. Fetid taste and smell causing nausea. All kinds of bloody expectoration. Weak lungs. Emaciated people.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Atrophy; Catarrh; Diarrhœa; Phthisis; Scrofulous emaciation; Scurvy; Ulcers",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pressure : in stomach. Soreness : in chest. Constriction : above scrobiculum ; in back. Tickling : in windpipe. (OBS :) Emaciated people. (OBS :) Scrofulous emaciation. (OBS :) Atrophy, depending on suppurative processes.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Sticta pul. Copyright © Médi-T ® 2000 Main",
+        "(OBS :) Poisoning by metallic vapors",
+        "(OBS :) Poisoning by acrid substances",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "habitat": [
+      {
+        "text": "A common plant in northern countries and in the mountainous part of warmer countries. In spite of its name is not a Moss but a lichen. Found in Great Britain in barren stony ground, abundant in the Grampians, and in the Welsh hills, in Yorkshire, Norfolk, etc. It rarely fructifies but the thallus varies in size, amount of division and cusping as well as colour. It is sometimes much curled. It contains about 70 per cent of lichen starch and becomes blue on the addition of iodine. It also contains a little sugar, fumaric acid, oxalic acid, about 3 per cent of cetrarin and 1 per cent of licheno-stearic acid.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Demulcent, tonic, and nutritive when deprived of its bitter principle. Excellent in chronic pulmonary troubles, catarrh, digestive disturbances, dysentery, advanced tuberculosis. Decoction, B.P. 1885, 1 to 4 OZ. Ground, it can be mixed with chocolate or cocoa.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "(OBS :) Scurvy. Very bitter and slimy taste.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Cetr.]. Increased the appetite (if not boiled too long). Feels full and satisfied after eating a little. θ Phthisis. *. (OBS :) Habitual vomiting. In large doses it sometimes causes nausea. The bitterness seems generally to agree with stomach. Strengthens digestive power and is very nutritive. Pressure in stomach, from large doses. Constricted feeling above scrobiculum, and distension ; also felt in back. θ Phthisis. *.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "(OBS :) Diarrhœa from acridity. It seems to open the bowels with some of the sick, more than it is wished for. Rarely diarrhœa. (OBS :) Chronic diarrhœa. After using it, the first formed stool and not offensive. θ Diarrhœa of consumptive. *.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "(OBS :) Ulcerated kidneys.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "(OBS :) Ulcers of uterus. PREGNANCY. PARTURITION. LACTATION. [24] [Cetr.]. It makes the milk of the nursing bitter.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Cetr.]. (OBS :) Very frequent catarrhs. (OBS :) Chronic catarrhs of bronchial mucous membrane. Tickling and spasmodic feeling in windpipe, on waking. θ Phthisis. *. Shortness of breath, weakness, has to stop to get breath when walking out-doors. θ Phthisis. *. Rales. θ Phthisis. *. (OBS :) Tickling cough after feverish eruptive diseases. (OBS :) Spitting of blood, and of pus. (OBS :) Little cough of an asthenic character. (OBS :) Whooping cough. (OBS :) All kinds of bloody expectoration. Violent cough, beginning at breakfast and lasting several hours, with copious expectoration. θ Phthisis. *. Violent spells of coughing during the day, none at night. θ Phthisis. *. Copious, thick, yellow, lumpy expectoration. θ Phthisis. *. Expectoration has a rotten taste and smell, which nauseates her. θ Phthisis. *.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Soreness in chest from coughing. θ Phthisis. Consumptives. *. (OBS :) Pituitous consumption. (OBS :) In every case of weak lungs. (OBS :) Purulent consumption. Pain in chest. Oppression of chest, particularly with morning cough. θ Phthisis. *.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "REST. POSITION. MOTION. [35] [Cetr.]. Walking out-doors : has to stop to take breath. Towards morning : sweat. In forenoon : chill. In afternoon : fever. During day : violent spells of coughing.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "(OBS :) Putrid fevers. (OBS :) Intermittent fevers. Chill in forenoon, fever in afternoon. θ Phthisis. *. Sweat towards morning, with weakness. θ Phthisis. *.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900",
+      "grieve-modern-herbal-1931",
+      "hering-guiding-1879"
+    ]
+  }
+}

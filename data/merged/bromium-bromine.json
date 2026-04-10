@@ -1,0 +1,28 @@
+{
+  "id": "bromium-bromine",
+  "names": {
+    "primary": "Bromium. Bromine. (The Element.)",
+    "latin": "Bromium. Bromine. (The Element.)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "It acts best, but not exclusively, on persons with light blue eyes, flaxen hair, light eyebrows, fair, delicate skin; blonde, red-cheeked, scrofulous girls. Sensation of cobweb on the face (Bar., Bor., Graph.). Fan-like motion of the alae nasi (Ant. t., Lyc.). Sailors suffer with asthma \"on shore.\". Stony, hard, scrofulous or tuberculous swelling of glands, especially on lower jaw and throat (thyroid, submaxillary, parotid, testes). Diphtheria: where the membrane forms in pharynx; beginning in bronchi, trachea or larynx, and extending upwards; chest pains running upwards. Membranous and diphtheritic croup; much rattling of mucus during cough, but no choking (as in Hepar.); sounds loose, but no expectoration (Ant. t.). Croupy symptoms with hoarseness during whooping cough; gasping for breath. Dyspnoea: cannot inspire deep enough; as if breathing through a sponge or the air passages were full of smoke or vapor of sulphur; rattling, sawing; voice inaudible; danger of suffocation from mucous in larynx (in bronchi, Ant. t.). Hypertrophy of heart from gymnastics in growing boys (from calisthenics in young girls, Caust.). Physometra; loud emission of flatus from the vagina (Lyc.); membranous dysmenorrhoea (Lac. c.). Cold sensation in larynx on inspiration (Rhus, Sulph.); > after shaving (< after shaving, Carbo an.).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Compare: in croup and croupy affections, Chlor., Hep., Iod., Spong. Hard goitre cured after Iod. failed. Brom. has cured in croup after failure of Iod., Phos., Hep., Spong.; especially in relapses after Iod. \"The chief distinction between Brom. and Iod. is the former cures the blue-eyed and the latter the black-eyed patients.\" - Hering.",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

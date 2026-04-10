@@ -1,0 +1,24 @@
+{
+  "id": "hearing",
+  "names": {
+    "primary": "HEARING",
+    "latin": "HEARING",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY HEARING. Hearing, bad : Aur., Bell., Calc-c., Caust., Chin-s., Cic., Con., Hyo., Kali-n., Led., Lyc., Merc-d., Nit-ac., Op., Petr., Pho-ac., Pho., Pul., Sec-c., Sep., Sil., Sul. Hearing, bad, for the human voice : Chenop., Pho. Hearing, illusory sounds : Bell., Calc-c., Caust., Chin-s., Chin., Grap., Kali-io., Pul., Spo., Sul. Hearing, illusory sounds, crashings, cracking, explosions : Alo., Bar-c., Dig., Mos., Rhus-t., Saba., Zin. Hearing, illusory sounds, echoing : Caust., Pho. Hearing, illusory sounds, fluttering : Spig. Hearing, illusory sounds, humming, buzzing : Calc-c., Caust., Chin., Pul., Sul. Hearing, illusory sounds, pulsating : Bell., Calc-c., Cann., Fer-p., Nit-ac., Pho., Pul. Hearing, illusory sounds, ringing : Calc-c., Cann., Chin., Nux-v., Pul. Hearing, illusory sounds, roaring, rumbling, etc. : Aur., Bell., Caust., Grap., Nux-v., Pul., Stap., Sul. Hearing, illusory sounds, rushing : Petr., Pho. Hearing, noise , agg. : Aco., Bell., Cof., Nux-v., Op., Spig., Ther. Hearing, paralysis , auditory : Bell., Hyo., Pul., Sil. Hearing, sensitive : Aco., Aur., Bell., Cham., Chin., Cof., Lyc., Nux-v., Sep., Sil., Spig., Ther. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

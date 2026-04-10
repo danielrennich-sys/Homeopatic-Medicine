@@ -1,0 +1,68 @@
+{
+  "id": "argemone-mexicana",
+  "names": {
+    "primary": "ARGEMONE MEXICANA",
+    "latin": "ARGEMONE MEXICANA",
+    "common": [
+      "Prickly Poppy"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Throbbing headache in eyes and temples. Head hot. Throat very dry, pain on swallowing",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Feels sick, like vomiting. Griping in pit of stomach. No appetite. Belching and passing gas",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Passes less urine. Changing color",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menses suppressed. Diminished sexual desire with weakness",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Left knee stiff and painful. Feet swollen",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "at noon (weakness)",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Sixth potency. Fresh juice is applied to ulcers and warts"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ARGEMONE MEXICANA Prickly Poppy Colicky cramp and spasm of bowels. Painful neuro-muscular conditions, preventing sleep. Rheumatic disease associated with Bright's disease (D. MacFarlan).",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

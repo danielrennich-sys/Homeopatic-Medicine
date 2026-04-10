@@ -1,0 +1,81 @@
+{
+  "id": "ampelopsis",
+  "names": {
+    "primary": "Ampelopsis",
+    "latin": "Ampelopsis",
+    "common": [
+      "American Ivy"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T AMPELOPSIS. Ampelopsis quinquefolia, Michx. Natural order , Vitaceæ. Virginia Creeper or American Ivy. Mr. Bernay, Pharm. Journ. and Trans., vol vii, 1876, p. 80, two children, æt. two and a half and five years, chewed the leaves, swallowing the juice. ► They are quickly seized with violent vomiting and purging, with considerable tenesmus; then collapse, sweating, and faint pulse; followed by deep sleep for two hours, from which they were aroused by a return of the vomiting and purging. Four hours after the commencement of the attack there was still considerable dilatation of the pupil. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Cholera; Dropsy; Hoarseness; Hydrocele",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Our pathogenetic knowledge of Ampelopsis is due to observations on two children poisoned by chewing the leaves. They were quickly seized with violent vomiting and purging, with considerable tenesmus; then collapse, sweating, and faint pulse; then deep sleep for two hours, from which they were aroused by return of vomiting and purging. There was dilatation of pupil for hours after commencement of attack. Hansen gives as an indication: \"Chronic hoarseness inpatients who were scrofulous in their youth.\" S. M. Worthington has cured with it renal dropsies that had resisted other treatment and a case of hydrocele. He found the decoction the most efficient preparation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Vitex agnus castus (botan.); Æthus. cyn. Copyright © Médi-T ® 2000 Main"
+      ]
+    },
+    "indications": [
+      {
+        "text": "Preparation: Compound Syrup of Poke",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The bark and young twigs, with leaves, of the Ampelopsis quinquefolia, Michaux (Vitis hederacea, Willdenow; Cissus quinquefolia, Persoon; Vitis quinquefolia, Moench; Cissus hederacea, Barton). Nat. Ord.—Ampelidaceae. COMMON NAMES: American ivy, Virginian creeper, Five leaves, Woodbine, False grape, Wild wood vine.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—This is a woody vine, with a rooting, climbing stem, and quinate and digitate leaves composed of oblong, acuminate, petiolate, dentate, smooth leaflets which turn crimson in autumn. The flowers are inconspicuous, greenish or white, and borne in dichotomous clusters; calyx entire; petals 5, distinct and spreading; ovary 2-celled, cells 2-ovuled; style very short; berries dark-blue, acid, smaller than peas, 2-celled, cells 1 or 2-seeded.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History.—The American ivy is a common and familiar shrubby vine, climbing extensively, and, by means of its radicating tendrils, supporting itself firmly upon trees, ascending to the height of 50 feet; in the same manner it ascends and overspreads walls and buildings; its large leaves constituting a luxuriant foliage of dark glossy-green. It is found in wild woods and thickets throughout the United States, and blossoms in July, ripening its small blackish berries in October. The bark and twigs are the parts used. Its taste is acrid and persistent, though not unpleasant, and its decoction is mucilaginous. The bark should be collected late in the fall, after the berries have ripened. Bernays (P. J. Tr., Vol. VII, p. 80) reports poisoning by the leaves, with severe emesis, diarrhoea, collapse, and narcosis, with dilatation of the pupils. This plant is frequently thought to be poison vine (Rhus Toxicodendron). It differs from the latter, however, among other ways, in having 5 instead of 3 leaflets, so that any one may easily differentiate the two vines. It may be handled with impunity. [Compare with illustration of Rhus Toxicodendron]. Ampelopsin, one of the old \"resinoids or concentrations,\" is unworthy of consideration as a medicine.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chemical Composition.—Analysis shows that the leaves and berries have the same constituents, differing only in the latter not containing glycolic acid. Analysis of the leaves gathered in midsummer, revealed albumen, pyrocatechin, sugar, tartaric acid (free), bitartrate of potassium, and tartrate of calcium, while neither free tartaric acid nor bitartrate of potassium were found in the leaves collected in early autumn (September), but two additional substances, pectin and calcium glycolate, were detected. The analyses were made by Wittstein and Gorup-Besanez.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Alterative, tonic, astringent, and expectorant. Used principally in the form of syrup in scrofula, syphilitic affections, and wherever an alterative is required. It has also been recommended in dropsy, bronchitis, and other pulmonary complaints. Dose of the syrup or decoction, 2 to 4 fluid ounces, 3 times a day; tincture, 10 to 30 drops, 3 times a day.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Specific Indications and Uses.—In faulty nutrition, and scrofulous diathesis, with sluggish lymphatic action.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Species.—Ampelopsis Botrya, De Candolle. Habitat, southeast Africa. Diuretic. Root employed.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900",
+      "kings-american-1898"
+    ]
+  }
+}

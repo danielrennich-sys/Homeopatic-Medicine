@@ -1,0 +1,57 @@
+{
+  "id": "citrullus-colocynthis",
+  "names": {
+    "primary": "Citrullus colocynthis (SCHRAD.)",
+    "latin": "Citrullus colocynthis (SCHRAD.)",
+    "common": [
+      "Apple (Bitter)"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Native of Turkey abounding in the Archipelago; also found in Africa (Nubia especially), Asia, Smyrna and Trieste.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The Colocynth collected from the Maritime Plain between the mountains of Palestine and the Mediterranean, is mainly shipped from Jaffa and known as Turkish Colocynth. This is the best variety. It is an annual plant resembling the common watermelon. The stems are herbaceous and beset with rough hairs; the leaves stand alternately on long petioles. They are triangular, manycleft, variously sinuated, obtuse, hairy, a fine green on upper surface, rough and pale under. Flowers yellow, appearing singly at axils of leaves; fruit globular, size of an orange, yellow and smooth, when ripe contains within a hard coriaceous rind, a white spongy pulp enclosing numerous ovate compressed white or brownish seeds.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The pulp contains Colocynthin, extractive, a fixed oil, a resinous substance insoluble in ether, gum, pectic acid or pectin, calcium and magnesium phosphates, lignin and water.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "It is a powerful drastic hydragogue cathartic producing, when given in large doses, violent griping with, sometimes, bloody discharges and dangerous inflammation of the bowels. Death has resulted from a dose of 1 1/2 teaspoonsful of the powder. It is seldom prescribed alone. It is of such irritant nature that severe pain is caused if the powdered drug be applied to the nostrils; it has a nauseous, bitter taste and is usually given in mixture form with the tinctures of podophylum and belladonna. Colocynth fruits broken small are useful for keeping moth away from furs, woollens, etc.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Dose of the powder, 2 to 5 grains. It is an important ingredient in Extractum Colocynthidis Compositum, Pilula Colocynthidis Composita, and Pilula Colocynthidis et Hyosiyami.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {
+    "documented_adverse_effects": [
+      {
+        "text": "In case of poisoning by Colocynth the stomach should be emptied, opium given by mouth or rectum followed by stimulants and demulcent drinks. [ Top ]",
+        "source": "Grieve"
+      }
+    ]
+  },
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

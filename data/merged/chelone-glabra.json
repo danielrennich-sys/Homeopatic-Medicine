@@ -1,0 +1,61 @@
+{
+  "id": "chelone-glabra",
+  "names": {
+    "primary": "CHELONE GLABRA",
+    "latin": "CHELONE GLABRA",
+    "common": [
+      "Snakehead (CHELONE)",
+      "Balmony"
+    ],
+    "synonyms": [
+      "Chelone Glabra (LINN.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "dosing": {
+      "notes": "Tincture, in one to five drop doses"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CHELONE GLABRA Snakehead (CHELONE) A remedy in liver affections with pain or soreness of the left lobe of the liver and extending downwards. Dumb ague. Soreness of external parts, as if skin were off; debility. Malaise, following intermittents. Dyspepsia with hepatic torpor. Jaundice. Round and thread worms. It is an enemy to every kind of worm infesting the human body.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "This erect little plant, from 2 to 4 feet high, grows sparingly on the margins of swamps, wet woods, and rivers. It is a perennial, smooth herb, bearing opposite, oblong leaves, and short, dense, terminal spikes of two-lipped, white or purplish, cream or rose flowers, the lower lip bearded in the throat and the heart-shaped anthers and filaments woolly. The leaves have a slight somewhat tea-like odour and a markedly bitter taste. They should be planted in pots to prevent the roots from creeping too far. The name of the genus Chelone comes from the Greek word meaning a tortoise, from the resemblance of the corolla to a tortoise-head. The whole, fresh plant is chopped, pounded to a pulp, and weighed, and a tincture is prepared with alcohol. The decoction is made with 2 oz. of the fresh herb to a pint.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "preparation": [
+      {
+        "text": "The whole fresh herb.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Eastern United States and Canada.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The bitter leaves communicate their properties to both water and alcohol. Chelonin is an eclectic medicine prepared from Chelone, and is a brown, bitter powder given as a tonic laxative.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The leaves have anti-bilious, anthelmintic, tonic and detergent properties, with a peculiar action on the liver, and are used largely in consumption, dyspepsia, debility and jaundice, in diseases of the liver, and for worms in children for which the powder or decoction may be used internally or in injection. As an ointment it is recommended for inflamed tumours, irritable ulcers, inflamed breasts, piles, etc. For long it has been a favourite tonic, laxative and purgative among the aborigines of North America, though their doses render its tonic value doubtful.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

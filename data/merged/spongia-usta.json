@@ -1,0 +1,36 @@
+{
+  "id": "spongia-usta",
+  "names": {
+    "primary": "Spongia Usta",
+    "latin": "Spongia Usta",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Burnt Sponge, Spongia Tosta.The skeleton of Spongia officinalis, Linné, Class: Poriphera; Order: Ceratospongia, roasted brown in a closed vessel and reduced to powder. Dose, 30 to 180 grains.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Preparation.—Specific Medicine Spongia. Dose, 1 to 10 drops.Specific Indications.—Croup; enlarged thyroid.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—Spongia is believed by some to have alterative properties depending upon iodine and bromine and associated compounds derived from the sea. For this purpose it has been quite largely used in cases in which iodine is apparently indicated, as goitre. It is thought to act better than iodine in some forms of the latter. Spongia is much employed also as a remedy for laryngeal irritation, and it seems to have been remarkably effective in croup and croupal types of cough.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "felter-eclectic-1922"
+    ]
+  }
+}

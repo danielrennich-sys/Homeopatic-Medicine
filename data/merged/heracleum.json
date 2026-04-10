@@ -1,0 +1,149 @@
+{
+  "id": "heracleum",
+  "names": {
+    "primary": "Heracleum",
+    "latin": "Heracleum",
+    "common": [
+      "Masterwort"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T HERACLEUM. (\"Branca ursina.\") Heracleum sphondylium, Linn. Natural order , Umbelliferæ. Common names , (Germ.), Bærenklau; (Fr.), Branc-ursine. Preparation , Tincture of the whole plant. Authority. Dr. Rosenburg, Archiv f. Hom., 17, pt. 2, p. 46, provings on self and three others, including a girl of 20, with the tincture; doses, 20 to 60 drops. MIND. ► Hypochondriac troubles. ► Fretfulness and ill-humor, taciturn. HEAD. ► Vertigo while reading and sitting. ► Headache, especially in the occiput and forehead, with nausea and inclination to sleep, worse on moving in the open air, better by tying the head up with a cloth. ► Excessive oily secretion on the head. ► Violent itching on the scalp; on scratching it, the ends of the fingers become fatty. EYE. ► Lachrymation and weakness of the eyes while reading. NOSE. ► Frequent sneezing, with stitches in the region of the spleen. MOUTH. ► Bitter taste in the mouth. THROAT. [10.] ► Increased collection of mucus, crawling, rawness and scraping in the throat. ► Pressure in the throat, as from tenacious mucus. STOMACH. ► Hunger, with nausea, and dread of all food. ► Increased thirst. ► Sweet and bitter eructations, with gulping up of bitter fluid. ► Qualmish nausea, bitter, bilious vomiting, with pains in the stomach, and violent congestion of the head. ► Pressure in the stomach, with nausea and pressure in the pit of the stomach, after eating, as from a stone; these stomach troubles are always accompanied by nausea. ABDOMEN. ► Throbbing and pain in the region of the spleen. ► Flatulence and colic, with nausea and offensive eructations. ► Sticking and griping colic, obliging him to bend up. STOOL. [20.] ► Slimy, offensive diarrha. ► Stool delayed, with urging and pain in the anus. SEXUAL ORGANS. ► Drawings in the penis. ► Stitches in the glans penis. ► Emissions. ► Transient sticking in the labiæ. RESPIRATORY ORGANS. ► Dry, hacking cough, with feeling of soreness and transient stitches in the chest. ► Arrest of breathing on ascending a mountain. CHEST. ► Oppression of the chest, with palpitation. ► Oppression of the chest and chilliness. [30.] ► Stitches in the chest on inspiration. INFERIOR EXTREMITIES. ► Gouty, tearing pains in the limbs. ► Sticking and burning in the feet. GENERAL SYMPTOMS. ► Exhaustion, indolence, and weakness. SKIN. ► Violent itching on the skin, and moist eruption, like the itch. ► Dry eruption on the chest, burning after scratching. ► Itching and biting on the scrotum. FEVER. ► Chilliness, with frequent yawning and inclination to sleep, in the afternoon. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Debility; Dyspepsia; Gout; Headache; Seborrhœa capitis; Skin, affections of; Spleen, pain in",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Dry, hacking cough, with feeling of soreness in the chest and shooting pains. Gouty tearing in the limbs. Shooting and burning pains in the feet.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Heracl. has been proved. It was found to exercise a pronounced action on the digestion, producing hunger, with inability to eat, nausea, vomiting; colic, diarrhœa, and pains in the spleen. It also affected the sexual organs and the skin. A characteristic is \"Headache with drowsiness; on moving in open air; > tying up the head with a cloth.\" Exhaustion, indolence, and weakness were complained of.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Con., Abies n., Cean.; in headache with drowsiness, Brucea, Ginseng, Gels., Nat. s., Nux mos., Sul."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Prostration of strength, indolence, moral depression; fits of hypochondriasis. Ill-humour, capriciousness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo, on reading while seated. Cephalalgia, esp. in the sinciput and occiput, with inclination to vomit, and drowsiness, esp. on walking in open air; > by wrapping up the head. Violent itching on the scalp, on scratching which, the fingers become greasy; much fatty perspiration on the head.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Lachrymation and fatigue of the eyes while reading.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Frequent sneezing, with stitches in region of spleen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Pressure in the throat, as from mucus, which it is impossible to detach; accumulation of mucus, tickling roughness and scraping in the throat.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Bitter taste; sweet bitter risings, with regurgitation of bitter liquid; craving, with loathing and horror of all kinds of food; increased thirst; nausea; vomiting, bitter, bilious, with pains in the stomach, and much congestion in the head. Pressure at the stomach, with nausea, or else in the scrobiculus, as from a stone (after a meal); the pains in the stomach are always accompanied by an inclination to vomit. Lancinating and pinching colics, which force the patient to writhe; pulsation and pains in region of spleen; flatus and colic, with nausea and disgusting risings. Frequent sneezing, with lancination in the region of the spleen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Stools tardy, with pressure and pain in the anus. Slimy, fetid stools.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Drawing pain in the penis; shootings in the glans. Itching and smarting in the scrotum; pollutions.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Transient sticking in the labiæ.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Oppression of the chest, with chilliness, or else with palpitation of the heart; difficulty of respiration on ascending a staircase. Stitches in chest during inspiration; dry eruption on chest, burning after scratching.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Violent itching in the skin and moist itch-like eruption.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chilliness, with frequent yawning and inclination to sleep in afternoon. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The root of Heracleum lanatum, Linné. Nat. Ord.—Umbelliferae.COMMON NAMES: Masterwort, Cow-parsnip.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—This plant, sometimes called Cow-parsnip, has a large, spindle-shaped, perennial root, of a strong, disagreeable smell, from which arises a hollow, thick, furrowed, branching and pubescent stem, from 3 to 6 feet high, and often an inch or more in width at the base. The leaves are very large, on downy, channeled petioles, and ternately compound; the leaflets roundish-cordate, and unequally lobed; the lobes acuminate, almost glabrous above, and woolly underneath. The flowers are white, in huge umbels, often a foot broad, with deciduous involucres. Involucels long-pointed, lanceolate, and many-leaved. The calyx limb is composed of 5 small, acute teeth. The petals are obcordate, with the point inflexed, the outer larger and radiant, appearing deeply 2-cleft. The fruit is compressed, oval, with a broad, flat margin, and 3 obtuse dorsal ribs to each carpel; intervals with single vittae, and seeds flat (G.—W.—R).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History, Description, and Chemical Composition.—Found growing in moist meadows and cultivated grounds from Labrador to Pennsylvania, and west to Oregon, flowering in June. The root is the part used; is somewhat analogous to parsley in appearance, has a strong, peculiar, unpleasant odor, and an ill-flavored acrimonious taste. The recent root and leaves, when placed in contact with the skin, irritate and inflame it; and that which inhabits very damp localities is considered poisonous (B). The leaves and seeds have also been used medicinally. The root probably contains acrid principles, volatile oil, and resin. The plant is stated by Nuttall (Amer. Jour. Pharm., 1836, Vol. VII, p. 281) to be hardly distinct from Heracleum sphondylium, Linné, of Europe and Asia. This plant is also known as Cow-parsnip, and has similar medicinal properties. The fruits of all species of Heracleum thus far analyzed, abound in volatile oil, free ethyl and methyl alcohol and solid hydrocarbons of the paraffine series.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "From Heracleum giganteum Gutzeit obtained 2 per cent of volatile oil, which was differentiated into 10 per cent of a mixture of ethyl-butyrate and acetate, and 55 per cent of hexyl-butyrate and octyl-acetale. Besides, a crystallizable substance, heraclin (C32H22O10), was obtained from the immature fruits. It is a colorless, odorless substance, melting at 185° C. (365° F.), insoluble in water, not easily soluble in ether, soluble in chloroform, boiling carbon disulphide (1:400) and in cold (1:700) and boiling (1:60) absolute alcohol (Amer. Jour. Pharm., 1880, p. 136). The fruits of Heracleum sphondylium yielded to Zincke (Diss., 1869), 0.3 per cent and to Möslinger (Jahresb. der Pharm., 1876, p. 165), 0.8 to 0.9 percent of a volatile oil. (For a review of its constituents, which are similar to those of H. giganteum, see Husemann and Hilger, Pflanzenstoffe.)",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Stimulant, antispasmodic, and carminative. Used in decoction in flatulency and dyspepsia, and 2 or 3 drachms of the powdered root, taken daily in epilepsy, and continued some time, with a strong infusion of the leaves and tops at night, has been found successful. Recent trials with a saturated tincture of the root seem to indicate that it has some power over epilepsy though the conditions in which it is specifically applicable have not yet been determined. Recommended also in asthma, colic, amenorrhoea, dysmenorrhoea, palsy, apoplexy, intermittents, etc., in doses of 1 drachm. The dose of a strong tincture (℥viii of root to Oj of alcohol), ranges from 5 to 60 minims.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Ɣ Related Species.—Imperatoria Ostruthium. The rootstock of Peucedanum Ostruthium, Koch (Imperatoria Ostruthium, Linné), Nat. Ord.—Umbelliferae. Masterwort. This drug consists of a somewhat flattened, subconical rootstock, of about a finger's thickness, and ranging from 2 to 4 inches in length. Its surface is wrinkled, scarred, and warty; its upper portion has a finely annulated appearance. Its color externally is a deep brown-gray; internally dirty white. It has a large central pith, while its bark is thin, and all parts abound in resin cells of a brownish-yellow hue. Its taste is pungent, aromatic, and bitter, giving a prolonged sense of warmth to the mouth. Its odor is markedly balsamic, somewhat resembling angelica. Masterwort is scarcely at all used in America, and is noticed here chiefly on account of its having been used as an adulterant of aconite (Holmes). In former years it was much esteemed as a medicine, being known, on account of its extensive uses, as divinum remedium. It grows in the mountains of central and south Europe. It contains from 0.2 to 0.7 per cent of volatile oil. Osann and Wackenroder, in 1831, obtained from it imperatorin, a principle believed by R. Wagner (1854) to be identical with peucedanin, obtained from Peucedanum officinale, Linné, an allied species, by Schlatter in 1833. However, more recent authors (A. Jassoy, 1890) believe it to be identical with ostruthin (see below). Peucedanin forms colorless, rhombic prisms, or plates, or fine needles, which are odorless and tasteless when pure; they are insoluble in water, but soluble in ether, chloroform, and alcohol, the latter solution having a faintly bitter taste. The pure substance melts at 108° C. (226.4° F.) (P. Haensel, 1891). When concentrated hydrochloric acid solution is added to an alcoholic solution of peucedanin, the latter loses a methyl group and is quantitatively converted into oreoselon (Hlasiwetz and Weidel). The formulae of the two compounds have been differently stated, but the researches of A. Jassoy (1890) and P. Haensel (1891), in Prof. Schmidt's laboratory, and those of M. Popper (1898), have demonstrated the formula of peucedanin to be C14H11(OCH3).O3, or C15H14O4, While oreoselon was found by Hlasiwetz and Weidel (Ann. Chem. Pharm., 1822, Vol. 174, p. 67) to have the (analogous) composition C14H11(OH).O3, or C14H12O4 (see Archiv der Pharm., 1898 p. 662-692). The latter substance is a crystallizable, tasteless body, hardly soluble in cold alcohol or ether, almost insoluble in cold water, better soluble in boiling water, soluble in chloroform, alkalies, and even concentrated mineral acids without undergoing chemical alteration. The melting point of the pure substance is stated to be 175° C. (347° F.) or 177° C. (351.5° F.). Another constituent of imperatoria, is a colorless, odorless, tasteless body, ostruthin (C18H20O3, A. Jassoy, in Archiv der Pharm., 1890, p. 544), which forms characteristic, rhombic crystals., insoluble in water, but soluble in alcohol and ether. It was obtained from the root, in 1874. by Gorup-Besanez (0.6 per cent). Alkalies dissolve it with beautiful blue fluorescence; weak acids precipitate from this solution ostruthin unchanged. Upon fusing it with caustic alkalies, Gorup-Besanez obtained a small yield of resorcin, and butyric and acetic acids. The same author found in this root oxypeucedanin, a bitter, crystallizable principle, insoluble in ether, soluble in chloroform, and previously observed by Erdmann in older roots of Peucedanum officinale. Heut (1874) found its melting point to be 140° C. (284° F.), a result confirmed by Jassoy and Haensel (1898). The root here considered is stimulant, and was formerly used locally in indolent ulcers, buccal paralysis, and toothache, the root being chewed in the latter instances; internally in low fevers and inflammation, flatulence, colic, dyspepsia, delirium tremens, hysteria, etc., and in other debilities, both general or local. It has not been used in Eclectic medicine.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900",
+      "kings-american-1898"
+    ]
+  }
+}

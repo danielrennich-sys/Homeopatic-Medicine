@@ -1,0 +1,50 @@
+{
+  "id": "anamirta-paniculata",
+  "names": {
+    "primary": "Anamirta paniculata (COLEBR.)",
+    "latin": "Anamirta paniculata (COLEBR.)",
+    "common": [
+      "Cocculus, Indicus"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "India, Ceylon, Malabar.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "A poisonous climbing plant with ash-coloured corky bark, leaves stalked, heart-shaped, smooth, underside pale with tufts of hair at the junctions of the nerves and at the base of the leaves, the flowers are pendulous panicles, male and female blooms on different plants; fruit round and kidney shaped, outer coat thin, dry, browny, black and wrinkled, inside a hard white shell divided into two containing a whitish seed, crescent shaped and very oily.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The chief constituent is the bitter, crystalline, poisonous substance, picrotoxin; the seed also contains about 50 per cent. of fat.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The powdered berries are sometimes used as an ointment for destroying lice; the entire fruits are used to stupefy fish, being thrown on the water for that purpose. Picrotoxin is a powerful convulsive poison used principally to check night sweats in phthisis by its action in accelerating respiration, but it is not always successful. It was at one time used to adulterate beers, increasing their reputation as intoxicants; it is an antidote in Morphine poisoning.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "preparation": [
+      {
+        "text": "Fluid extract, 1/4 to 1 drop. Picrotoxin, B.P. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

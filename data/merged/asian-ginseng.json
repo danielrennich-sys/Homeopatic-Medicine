@@ -1,0 +1,41 @@
+{
+  "id": "asian-ginseng",
+  "names": {
+    "primary": "Asian Ginseng",
+    "latin": "Asian Ginseng",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Asian ginseng is native to the Far East, including Korea, northeastern China, and far-eastern Siberia. It has been used as a calming agent in traditional Chinese medicine and as an adaptogen. (Adaptogenic herbs are thought to help the body resist physiological and psychological stress.) Asian ginseng is one of several types of ginseng. The terms “red ginseng” and “white ginseng” refer to Asian ginseng that is prepared in two different ways. The part of the plant most frequently used for health purposes is the root. Asian ginseng has been promoted for stress, cognitive function, flu, fatigue, athletic performance, diabetes, aging, asthma, anxiety, and other conditions. Asian ginseng contains many substances; those thought to be most important are called ginsenosides (or panaxosides).",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "The amount of research on Asian ginseng for various conditions has gradually increased over recent years. Most of the clinical trials have been small, with fewer than 200 participants, and shorter than 3 months. Larger multicenter studies that last longer than 3 months are needed to improve the clinical evidence of Asian ginseng for different conditions.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "A small amount of research has suggested that Asian ginseng may improve cognitive function, including abstract thinking, attention, arithmetic skills, and reaction time, in middle-aged adults but not in young adults. Any benefit from Asian ginseng on memory has appeared to depend on the addition of ginkgo. A very small amount of preliminary research suggests that Asian ginseng extract may help reduce the risk of developing the flu but not the severity or duration of symptoms. A 2023 review of 19 studies (2,413 participants) suggested two notable results: Asian ginseng alone may have a small beneficial effect on general fatigue (not related to specific diseases); and certain ginseng herbal formulas containing other ingredients may be beneficial for chronic fatigue, but not ginseng alone. However, not all research agrees on Asian ginseng’s possible benefits for fatigue. A 2022 review of 20 studies (1,295 participants) found that Asian ginseng improved many cardiometabolic factors in people with prediabetes and diabetes, including fasting blood glucose levels, total cholesterol, and certain inflammatory markers. But research on the use of Asian ginseng for improving blood sugar control in people with diabetes is overall inconclusive and conflicting. Some research shows that taking oral Asian ginseng seems to improve sexual function in people with erectile dysfunction (ED). Asian ginseng has also been studied in adults with symptoms of ED associated with an enlarged prostate, and one small study suggested it may improve some aspects of sexual function. The majority of research shows that Asian ginseng does not improve athletic performance. There is interest in using Asian ginseng for many other conditions, including aging, asthma, and anxiety, but there isn’t enough reliable information to say whether it might be helpful for these conditions.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Short-term oral use (by mouth, up to 6 months) of Asian ginseng in recommended amounts appears to be safe for most people. However, questions have been raised about its long-term safety, and some experts recommend against its use for infants, children, and women who are pregnant or breastfeeding. There isn't enough reliable information to know if Asian ginseng used topically on the skin is safe. It might cause side effects such as irritation and burning. Insomnia (trouble sleeping) is the herb’s most common side effect. Uncommon side effects that have been reported include severe rash, liver damage, and severe allergic reactions. Asian ginseng may worsen autoimmune disorders and interfere with blood clotting. Some evidence suggests that Asian ginseng might lower blood sugar levels. If you have diabetes, consult your health care provider before using Asian ginseng. Asian ginseng might interact with certain medications. If you take any type of medicine, talk with your health care provider before using Asian ginseng or other herbal products; some herbs and medicines interact in harmful ways. Some studies of Asian ginseng suggest it may be unsafe when taken orally during pregnancy. One of the chemicals in it has been found to cause birth defects in animals. If you’re considering using Asian ginseng while pregnant, consult your health care provider. Little is known about whether it’s safe to use Asian ginseng while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "weak_support"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

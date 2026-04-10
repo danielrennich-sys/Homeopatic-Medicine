@@ -1,0 +1,36 @@
+{
+  "id": "croton-oil",
+  "names": {
+    "primary": "Croton Oil. Tiglii Oleum",
+    "latin": "Croton Oil. Tiglii Oleum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Part Employed—A fixed oil expressed from the seeds of the croton tiglium.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Administration—The dose of the oil is from one to two minims, best administered in emulsion or pill form. It is not to be administered if there is gastric or intestinal irritation or inflammation, or if there is great weakness or prostration.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "A single drop is usually a sufficient dose. This may be administered disguised in anything the patient can be made to take. Dropped on the tongue it acts quickly. Two drops will produce violent action in most cases.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919"
+    ]
+  }
+}

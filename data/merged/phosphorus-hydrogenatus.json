@@ -1,0 +1,78 @@
+{
+  "id": "phosphorus-hydrogenatus",
+  "names": {
+    "primary": "Phosphorus Hydrogenatus",
+    "latin": "Phosphorus Hydrogenatus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "PHOSPHORUS HYDROGENATUS.",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Breunar (quoted by Allen) relates the effects of inhaling this gas, given off in the preparation of some \"hypophosphites.\" The symptoms began to appear after three months in visional disturbances, diarrhœa, paralysis, and a complete state of locomotor ataxia, on closing eyes. The teeth crumbled without pain. Articulation and swallowing were difficult. The diarrhœa was accompanied by weakness of the anus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T PHOSPHORUS HYDROGENATUS. Phosphoretted hydrogen; Phosphene, PH 3 . Authority. Dr. Breunar, Peters. Med. Zeit., 1865 (S. J., 127, 163), effects of inhaling the gas, while preparing some \"hypophosphites.\" ► After working about three months, he began to notice flickering points in his field of vision, which rapidly enlarged, and in four weeks rendered it impossible to fix his vision upon any object, especially in reading. At the same time a diarrha developed, with weakness and unsteadiness of the arms, that gradually rendered it very difficult for him to write. The unsteadiness of the lower extremities was associated with undercurrent shooting pains in them and in the abdomen, and his gait became very tottering. The teeth also began to crumble, both the healthy and carious teeth, without any pain. There was no headache, vertigo, nor anæsthesia, no sensitiveness of the spine, no disturbance of hearing, nor of the mental powers. At last ataxia of the muscles that control articulation became apparent, so that it was necessary to make a great effort of the will to articulate the word he wished to speak; swallowing also became somewhat difficult. The patient exhibited a complete expression of ataxia; he stood with the extremities separated; co-ordinated movement (walking) was wholly impossible when the eyes were closed; the patient would stagger and fall down. There was no anæsthesia of the skin or muscles; electric irritability of the muscles was, indeed, extraordinary increased, and there was also no muscular atrophy. The optic nerve was extremely irritable, reflex optic symptoms could be produced not only by irritation of the trigeminus, but also from the nape of the neck, from the lower angle of the scapula, and often from the upper arm. The auditory nerve was normal, though exhibiting some symptoms of hyperæsthesia. The patient was gradually cured by electricity. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Amblyopia; Diarrhœa; Hyperæsthesia; Locomotor ataxy; Stammering; Teeth, crumbling",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Weakness and unsteadiness of arms, making difficult to write. Limbs unsteady; gait tottering; associated with undercurrent shooting pains in limbs and abdomen. Complete expression of ataxia stood with limbs separated; walking wholly impossible when eyes closed would stagger and fall. No anæsthesia; electric irritability of muscles greatly increased. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Electricity antidoted the effects. Compare: Locomotor ataxy, Arg. n., Alm., Helod. Visional defects, Benz. din., Carb. s."
+      ]
+    },
+    "eyes": [
+      {
+        "text": "Flickering points in field of vision, rapidly enlarging and rendering it impossible to fix vision on any object, esp. in reading. Optic nerves very irritable to reflex stimuli.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Auditory hyperæsthesia.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Teeth, both healthy and carious, crumble, without pain. Ataxia of muscles of articulation, great effort of will required to form the word. Swallowing somewhat difficult.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Shooting pains in limbs and abdomen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Diarrhœa with weakness and unsteadiness of arms.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

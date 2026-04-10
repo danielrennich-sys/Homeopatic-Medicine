@@ -1,0 +1,56 @@
+{
+  "id": "cinchona-succirubra",
+  "names": {
+    "primary": "Cinchona succirubra (PAVON.)",
+    "latin": "Cinchona succirubra (PAVON.)",
+    "common": [
+      "Peruvian Bark"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "preparation": [
+      {
+        "text": "Bark dried from stem and branches.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "South America, but cultivated in India, Java, Ceylon, etc.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The species most cultivated in India and elsewhere are Cinchona succirubra , or Peruvian Bark, and C. officinalis . These evergreen trees grow in the hottest part of the world and are said to constitute a twenty-ninth part of the whole flowering plants of the tropics. Peruvian bark was introduced to Europe in 1640, but the plant producing it was not known to botanists till 1737; a few years later it was renamed Cinchona after the Countess of Chinchon, who first made the bark known in Europe for its medicinal qualities. The history of Cinchona and its many vicissitudes affords a striking illustration of the importance of Government aid in establishing such an industry. It was known and used by the Jesuits very early in its history, but was first advertized for sale in England by James Thompson in 1658, and was made official in the London Pharmacopoeia of 1677. The bark is spongy, very slight odour, taste astringent and strongly bitter. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Alkaloids, quinine, cinchonidine, cinchonine, quinidine, hydrocinchonidine, quinamine, homocinchonidine, hydroquinine, quinic and cincholannic acids, bitter amorphous glucoside, starch and calcium oxalate. The history of the formation of the alkaloids, in different parts and age of the tree, is interesting. The process of 'mossing' introduced by Mr. M'Ivor, viz. the protection of the bark from light and air by layers of damp moss, increases the quantity of the alkaloids, allows of the periodical renewal of the bark, and increases the quantity of the alkaloid in the new bark. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Febrifuge, tonic and astringent; valuable for influenza, neuralgia and debility. Large and too constant doses must be avoided, as they produce headache, giddiness and deafness. The liquid extract is useful as a cure for drunkenness. The powdered bark is often used in tooth-powders, owing to its astringency, but not much used internally (except as a bitter wine); it creates a sensation of warmth, but sometimes causes gastric intestinal irritation. Cinchona in decoction is a useful gargle and a good throat astringent.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "3 to 10 grains. See CALISAYA . [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "torula-cerevisiae",
+  "names": {
+    "primary": "TORULA CEREVISIAE",
+    "latin": "TORULA CEREVISIAE",
+    "common": [
+      "Saccharomyces - Yeast Plant"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Aching back of head and neck. Headache and sharp pains all over. Worse from constipation. Sneezing and wheezing. Catarrhal discharge from posterior nares. Irritable and nervous",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Bad taste. Nausea. Poor digestion. Belching of gas in stomach and abdomen. Soreness all over abdomen. Sense of fullness. Rumbling, pains shift, flatulence. Constipation. Sour, yeasty, moldy odor from discharges",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Backache, tired and weak from elbows and knees down. Hands cold like ice and go to sleep easily",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Disturbed with much restlessness",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Boils, recurrent. Itching eczema around ankles. Tinea versicolor",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Pure yeast cake or potencies from 3rd to high. Yeast poultices are much used in skin diseases, boils and swelling"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">TORULA CEREVISIAE Saccharomyces - Yeast Plant Introduced by Drs. Lehman and Yingling. Not proved, hence clinical symptoms only but many have been verified. Sycotic remedy Anaphylactic states produced by proteins and enzymes (Yingling).",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "grindelia-rob",
+  "names": {
+    "primary": "GRINDELIA ROB",
+    "latin": "GRINDELIA ROB",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "When dropping off to sleep the breath stops, the patient awakens catching for it, with a gasp, cannot get to sleep on this account.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Stops breathing when falling asleep; wakens with a start.",
+        "source_id": "nash-leaders-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "nash-leaders-1899"
+    ]
+  }
+}

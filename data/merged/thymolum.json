@@ -1,0 +1,62 @@
+{
+  "id": "thymolum",
+  "names": {
+    "primary": "THYMOLUM",
+    "latin": "THYMOLUM",
+    "common": [
+      "Thyme Camphor (THYMOL)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "[Mental] Irritable, arbitrary, must have his own way. Craves company. Energy gone",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Tired, aching throughout lumbar region. Worse, mental and physical labor",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Profuse, nightly, seminal emissions with lascivious dreams of a perverted character. Priapism. Urinary burning and subsequent dribbling of urine. Polyuria. Urates increased. Phosphates decreased",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Awakes tired and unrefreshed. Lascivious and fantastic dreams",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "mental and physical labor",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Sixth attenuation"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">THYMOLUM Thyme Camphor (THYMOL) A remedy having a wide field in genito-urinary diseases. It is indicated in pathological emissions, priapism and prostatorrhœa. The provings show an action limited to the sexual organs, producing a typical sexual neurasthenia. Specific for hookworm disease (Chenopodium).",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

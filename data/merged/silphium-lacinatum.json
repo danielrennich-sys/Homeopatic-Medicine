@@ -1,0 +1,35 @@
+{
+  "id": "silphium-lacinatum",
+  "names": {
+    "primary": "SILPHIUM LACINATUM",
+    "latin": "SILPHIUM LACINATUM",
+    "common": [
+      "Rosin-weed (SILPHIUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "respiratory": [
+      {
+        "text": "Cough with expectoration profuse, stringy, frothy, light-colored. Excited by sense of mucus rattling in chest and worse by drafts of air. Constriction of lungs. Catarrh, with copious, stringy, mucous discharges. Desire to hawk and scrape throat. Irritation of posterior nares, involving mucous membranes of nasal passages with constriction of supra-orbital region",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Third potency. Lower triturations preferred by some"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">SILPHIUM LACINATUM Rosin-weed (SILPHIUM) Is used in various forms of asthma and chronic bronchitis Catarrh of bladder. Catarrhal influenza. Dysentery; attack preceded by constipated stools covered with white mucus.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": "populus-tremuloides",
+  "names": {
+    "primary": "POPULUS TREMULOIDES",
+    "latin": "POPULUS TREMULOIDES",
+    "common": [
+      "American Aspen",
+      "Poplar, trembling"
+    ],
+    "synonyms": [
+      "Populus Tremuloides",
+      "Populus tremuloides (MICHX.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "stomach_abdomen": [
+      {
+        "text": "Indigestion, with flatulence and acidity. Nausea and vomiting",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Nausea and vomiting. Warm pungent sensation; (or from larger doses) fierce burning sensation in stomach.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Severe tenesmus; painful scalding. Urine contains mucus and pus. Prostate enlarged. Pain behind pubis, at end of urination",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Very copious discharge of urine; irritation of bladder and urethra.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture or Populin trit, 1x"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">POPULUS TREMULOIDES American Aspen The gastric and urinary symptoms point to its usefulness in dyspepsia and catarrh of the bladder, especially in old people. Good remedy in vesical troubles after operations and in pregnancy. Cystitis. Fullness of head, and sensation of heat of the surfaces of the body. Night-sweats. Ague.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The few symptoms of the Schema were provided by Paine (eclectic), whom Hale quotes. Paine used Pop. t. in affections of the bladder, urethra, and prostate. Hale confirms its action in vesical tenesmus and inflammation of the neck of the bladder. He gives this case: A lady had metritis, vaginismus, and cystitis, and was apparently cured. A ride on the cars brought back: Weight, pressure, and aching in pelvis and vesical tenesmus with frequent desire to urinate. Pop. p. 3x removed all these symptoms in three days. In the cases cured by Hale he says there was little pain during urination, but as soon as the last drops were voided, or a little before, a severe cramp-like pain just behind pubes lasting ten to fifteen minutes.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "This tree does not grow well in Britain, but in America it grows up to 100 feet in height. It has a pale yellowish bark on the young trunk and main branches; broadly ovate finely-toothed leaves averaging 1 3/4 inch long and wide, and having fine hairs on the margin. The bark should be collected in spring. It has a bitterish taste and no odour.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Ardor urinæ; Bladder, catarrh of; Gleet, chronic; Prostatic affections",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "P. grandidentata , the large Aspen, is said to have more activity and bitterness. P. candicans is also used. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Follows well: Cannab., Canth. (succeeded after they had only partially helped). Compare: Pop. can., Sal. nig., Gaulth., Salicin, and Salicylates."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "General nervous excitement.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Slight purging of bilious matter.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Warmth in stomach followed by glow of heat on entire surface. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The bark of the Populus tremuloides, Michaux (Nat. Ord. Salicaceae). Lower Canada and northern and middle United States. Dose, 1 to 30 grains.Common Names: American Poplar, American Aspen, Quaking Aspen.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Principal Constituents.—Populin and salicin.Preparation.—Tinctura Populi, Tincture of Populus (saturated). Dose, 1 to 30 drops.Specific Indications.—Marked debility with digestive impairment; tenesmic action after urination.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—A neglected remedy of considerable value in debility of the urinary tract and of the digestive organs. It acts best in small or fractional doses. When so given it is of value in tenesmic action of the bladder immediately following urination. Owing to the salicin and populin present it has had a considerable reputation in malarial fevers and should be more generally employed as a post-febrile tonic.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Febrifuge and tonic, chiefly used in intermittent fevers. It has been employed as a diuretic in urinary affections, gonorrhoea and gleet. The infusion has been found helpful in debility, chronic diarrhcea, etc. Is a valuable and safe substitute for Peruvian bark.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The bark probably has similar properties to that of Populus tremula of Europe, i.e. salicin and populin.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "felter-eclectic-1922",
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

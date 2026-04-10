@@ -1,0 +1,78 @@
+{
+  "id": "lappa-arctium",
+  "names": {
+    "primary": "LAPPA ARCTIUM",
+    "latin": "LAPPA ARCTIUM",
+    "common": [
+      "Burdock"
+    ],
+    "synonyms": [
+      "Lappa. Arctium lappa"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "extremities": [
+      {
+        "text": "Pain in hands, knees, and ankles extending downward to fingers and toes. Pain in all joints. Eruption on extremities",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Uterine displacements. An exceedingly sore, bruised feeling in uterus, with great relaxation of the vaginal tissues; apparently entire lack of tonicity of pelvic contents. These symptoms all aggravated by standing, walking, a misstep, or sudden jar",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture, to third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">LAPPA ARCTIUM Burdock Very important in skin therapeutics. Eruptions on the head, face, and neck; pimples; acne. Styes and ulcerations on the edge of the eyelids. Profuse and frequent urination. Crops of boils and styes (Anthracin).",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Synonym—Burdock.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—This agent closely resembles yellow dock in its action as an alterative; it has a direct influence upon the blood, and thence. upon diseases of the skin and mucous membranes. Its influence upon the mucous membranes of the stomach encourages normal glandular secretion and promotes digestion. In aphthous ulcerations of these membranes and in catarrhal ulcerations, it is excellent.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It influences the mucous membranes of the air passages when irritated from any blood disorder, alleviating irritable coughs.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It cures psoriasis and chronic cutaneous eruptions.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It has a marked influence upon chronic glandular enlargements, and is beneficial in syphilitic, scrofulous and gouty conditions.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It relieves irritation of the urinary apparatus, promoting a free flow of the urine containing urea, uric acid, and a full quantity of excrete solids.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "ellingwood-1919"
+    ]
+  }
+}

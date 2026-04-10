@@ -1,0 +1,35 @@
+{
+  "id": "thallium-metallicum",
+  "names": {
+    "primary": "THALLIUM METALLICUM",
+    "latin": "THALLIUM METALLICUM",
+    "common": [
+      "The Metal Thallium (THALLIUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "extremities": [
+      {
+        "text": "Trembling. Paralytic feeling. Lancinating pains, like electric shocks. Very tired. Chronic myelitis. Numbness in fingers and toes, with extension up lower extremities, involving lower abdomen and perineum. Paralysis of lower limbs. Cyanosis of extremities. Formication, beginning in fingers and extending through pelvis, perineum and inner thighs to feet",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Lower trituration to thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">THALLIUM METALLICUM The Metal Thallium (THALLIUM) Thallium seems to influence the endocrines, especially the thyroid and adrenaline. Most horrible neuralgic, spasmodic, shooting pains. Muscular atrophy. Tremors. Relieves the violent pains in locomotor ataxia. Paralysis of lower limbs. Pain in stomach and bowels, like electric shocks. Paraplegia. Alopecia following acute, exhausting diseases. Night sweats. Polyneuritis. Dermal trophic lesions.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

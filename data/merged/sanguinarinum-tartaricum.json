@@ -1,0 +1,72 @@
+{
+  "id": "sanguinarinum-tartaricum",
+  "names": {
+    "primary": "Sanguinarinum Tartaricum",
+    "latin": "Sanguinarinum Tartaricum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Tully and Terry (C. D. P.) experimented with Sng. tart. in considerable doses. Tully says he has repeatedly witnessed \"all the effects of Sanguinaria root, save the neuralgic pains and the convulsive affections,\" from the use of Sng. tart. The most peculiar of the symptoms he mentions are: Staring, and protrusion of the eyes; extreme mydriasis; haggard expression, and cold surface and cold sweats.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Exophthalmos; Mydriasis; Stool, bilious; Vision, dim",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Pupils dilated. Mydriasis very great; strongest sunlight fails to contract. Cloud before sight. Eyes protruded, staring.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Haggard expression.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea. Epigastric uneasiness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Very large quantity of bright yellow bile passed in stool (20 h. after dose).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pulse rate diminished; irregular. Pulse preternaturally full, flowing, without bounding, hardness, or sign of irritation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Cold surface, esp. of extremities. Cold sweat. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "kalium-permanganatum",
+  "names": {
+    "primary": "KALIUM PERMANGANATUM",
+    "latin": "KALIUM PERMANGANATUM",
+    "common": [
+      "Permanganate of Potassium (KALI PERMANGANICUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "respiratory": [
+      {
+        "text": "Bleeding from nose. Nasal discharge. Smarts and irritates. Constrictive, smarting sensation in throat. Larynx feels raw. Short, hacking cough",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Swollen and painful. Everything hawked up streaked with blood. Posterior nares painful. Muscles of neck feel sore. Swollen uvula. Fetor of breath",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Locally, 1 dram to a quart of water, to correct fetor in cancer, ulcer, ozæna, and other foul odors. Also as an injection in leucorrhœa and gonorrhœa. Internally, 2x dilution in water. Saturated solution locally in eruption of smallpox. Potassium Permanganate for"
+    },
+    "generalities": [
+      {
+        "text": "[Morphine] Potassium permanganate is recognized as being the most effective chemical antidote in cases of morphine or opium poisoning, acting directly on the morphine and oxidizing it to less toxic substances. To be effective the permanganate must come in direct contact with the opium or morphine in the stomach; hypodermatic or intravenous injections are absolutely useless, as the salt would be decomposed by the blood serum at once. The approved treatment is administration of two to five grains of potassium permanganate in dilute aqueous solution as soon as possible after the poison is taken, this amounts to be increased if very large doses of the poison have been taken. Washing out the stomach with a quantity of 1 to 500 solution of permanganate is also recommended, using at least a pint of this solution either by a stomach pump or by enforced vomiting. Permang of Potash counteracts effects of alkaloids of many poisonous plants. Owing to its oxidizing powers if given before the alkaloid has been absorbed (Dr. Chestnut in Dept of Agriculture)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">KALIUM PERMANGANATUM Permanganate of Potassium (KALI PERMANGANICUM) Intense irritation of nose, throat, and larynx. Diphtheria. Dysmenorrhœa. Bites of serpents and for other animal poisons. Septic conditions; tissues infiltrated with tendency to sloughing.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

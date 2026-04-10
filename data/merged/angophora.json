@@ -1,0 +1,35 @@
+{
+  "id": "angophora",
+  "names": {
+    "primary": "Angophora",
+    "latin": "Angophora",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Proved by F. Kopp, Angophora (which resembles Eucalyptus in appearance) produces the following symptoms: Bearing-down and constant inclination to stool. Dry, hard evacuations, accompanied with blood; diarrhœa, headache, nausea, flatulent distension, and colicky pains. For nearly a week there was obstinate constipation; then nausea, sickness and diarrhœa, with vertigo and debility. Pains and tenesmus only > by lying down flat on the face.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Constipation; Dysentery",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Antidoted by: Ipec. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

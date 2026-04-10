@@ -1,0 +1,44 @@
+{
+  "id": "glucosum",
+  "names": {
+    "primary": "Glucosum",
+    "latin": "Glucosum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Other tomes: BPC",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Glucose, Liquid Glucose, Syrupy Glucose.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "A syrupy liquid, composed chiefly of dextrose (dextro-glucose) and dextrin. It is obtained by the incomplete hydrolysis of starch.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Description.—An odorless or nearly odorless, sweet, syrupy liquid, of a little or no color. It is sparingly dissolved by alcohol, but water dissolves it freely, the aqueous solution being neutral or slightly acid to litmus paper. Dose, 2 to 6 fluidounces of 6 to 30 per cent solutions of glucose.Specific Indications.—Shock; acidosis.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—Glucose is an easily digested nutrient, fermentable, and comparing in food value closely to sugar. Diuretic properties have been ascribed to it, and it is said to protect against fatty degeneration produced by the administration of general anesthetics. Glucose, in 6 to 10 per cent solutions, has proved serviceable, given by enteroclysis, in dropsical effusions, provided the kidneys are not badly damaged, and in uremic eclampsias, and other affections with faulty elimination of urine. Intravenously administered, in solutions of 10 to 30 per cent, it has been very successful in surgical shock. One of its most important fields of usefulness is in infant feeding (2 to 3 fluidounces of 6 per cent solution per rectum), and in the same strength solution (6 ounces) intraperitoneally to prevent acidosis in malnourished infants. Acetone quickly disappears under such use of it.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "felter-eclectic-1922"
+    ]
+  }
+}

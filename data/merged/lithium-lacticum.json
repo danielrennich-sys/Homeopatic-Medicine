@@ -1,0 +1,30 @@
+{
+  "id": "lithium-lacticum",
+  "names": {
+    "primary": "Lithium Lacticum",
+    "latin": "Lithium Lacticum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A chemist, while preparing a combination of Lactic acid and Lithium carbonate, experienced decided rheumatic pains in the small joints. Berghaus (B. J. H., xli. 380, quoting N. A. J. H.) on this hint used Lith. lact. in local subacute rheumatism with good effect. Allen says it especially affects the shoulder. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Rheumatism",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

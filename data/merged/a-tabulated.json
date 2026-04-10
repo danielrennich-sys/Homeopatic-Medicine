@@ -1,0 +1,24 @@
+{
+  "id": "a-tabulated",
+  "names": {
+    "primary": "A Tabulated Summary and Comparison of the action of Fever Remedies",
+    "latin": "A Tabulated Summary and Comparison of the action of Fever Remedies",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919"
+    ]
+  }
+}

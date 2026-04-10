@@ -1,0 +1,248 @@
+{
+  "id": "cantharis-vesicatoria",
+  "names": {
+    "primary": "CANTHARIS VESICATORIA",
+    "latin": "CANTHARIS VESICATORIA",
+    "common": [
+      "Spanish Fly (CANTHARIS)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Furious delirium. Anxious restlessness, ending in rage. Crying, barking; worse touching larynx or drinking water. Constantly attempts to do something, but accomplishes nothing. Acute mania, generally of a sexual type; amorous frenzy; fiery sexual desire. Paroxysms of rage, crying, barking. Sudden loss of consciousness with red face",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Burning in brain. Sensation as if boiling water in brain. Vertigo; worse in open air",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Yellow vision (Santon). Fiery, sparkling, staring look. Burning in eyes",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Sensation as if wind were coming from ear, or hot air. Bones about ear painful (Capsic)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "Pale, wretched, death-like appearance. Itching vesicles on face, burning when touched. Erysipelas of face, with burning, biting heat with urinary symptoms. Hot and red",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue covered with vesicles; deeply furred; edges red. Burning in mouth, pharynx, and throat; vesicles in mouth. Great difficulty in swallowing liquids. Very tenacious mucus (Kali bich). Violent spasms reproduced by touching larynx. Inflammation of throat; feels on fire. Constriction; aphthous ulceration (Hydr mur; Nit ac). Scalding feeling. Burnt after taking too hot food",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pleurisy, as soon as effusion has taken place. Intense dyspnœa; palpitation; frequent, dry cough. Tendency to syncope. Short, hacking cough, blood-streaked tenacious mucus. Burning pains",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Palpitation; pulse feeble, irregular; tendency to syncope. Pericarditis, with effusion",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Burning sensation of œsophagus and stomach (Carb). Disgust for everything-drink, food, tobacco. Burning thirst, with aversion to all fluids. Very sensitive, violent burning. Vomiting of blood-streaked membrane and violent retching. Aggravation from drinking coffee; drinking the smallest quantity increases pain in bladder, and is vomited. Thirst unquenchable",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Shivering with burning. Dysentery; mucous stools, like scrapings of intestines. Bloody, with burning and tenesmus and shuddering after stool",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Intolerable urging and tenesmus. Nephritis with bloody urine. Violent paroxysms of cutting and burning in whole renal region, with painful urging to urinate; bloody urine, by drops. Intolerable tenesmus; cutting before, during, and after urine. Urine scalds him, and is passed drop by drop. Constant desire to urinate. Membranous scales looking like bran in water. Urine jelly-like, shreddy",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Strong desire; painful erections. Pain in glans (Prunus; Pareira). Priapism in gonorrhœa",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Retained placenta (Sep), with painful urination. Expels moles, dead fœtuses, membranes, etc. Nymphomania (Plat; Hyos; Lach; Stram). Puerperal metritis, with inflammation of bladder. Menses too early and too profuse; black swelling of vulva with irritation. Constant discharge from uterus; worse false step. Burning pain in ovaries; extremely sensitive. Pain in os coccyx, lancinating and tearing",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Voice low; weak feeling. Stitches in chest (Bry; Kal c; Squilla). Pleurisy, with exudation",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Pain in loins, with incessant desire to urinate",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Tearing in limbs. Ulcerative pain in soles; cannot step",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Dermatitis venenata with bled formation. Secondary eczema about scrotum and genitals, following excessive perspiration. Tendency to gangrene. Eruption with mealy scales. Vesicular eruptions, with burning and itching. Sunburn. Burns, scalds, with rawness and smarting, relieved by cold applications, followed by undue inflammation. Erysipelas, vesicular type, with great restlessness. Burning in soles of feet at night",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Cold hands and feet; cold sweat. Soles burn. Chill, as if water were poured over him",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "rubbing",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "from touch, or approach, urinating, drinking cold water or coffee",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "complementary": [
+        "Camph"
+      ],
+      "antidoted_by": [
+        "Acon",
+        "Camph",
+        "Puls"
+      ]
+    },
+    "dosing": {
+      "notes": "Sixth to thirtieth potency. Bears repeated doses well. Locally, in burns and eczema, 1x and 2x, in water, or as cerate"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CANTHARIS VESICATORIA Spanish Fly (CANTHARIS) This powerful drug produces a furious disturbance in the animal economy, attacking the urinary and sexual organs especially, perverting their function, and setting up violent inflammations, and causing a frenzied delirium, simulating hydrophobia symptoms (Anagallis). Puerperal convulsions. Produces most violent inflammation of the whole gastro-intestinal canal, especially lower bowel. Oversensitiveness of all parts. Irritation. Raw, burning pains. Hæmorrhages. Intolerable, constant urging to urinate is most characteristic. Gastric, hepatic and abdominal complaints that are aggravated by drinking coffee. Gastric derangements of pregnancy. Dysuria, with other complaints. Increases secretion of mucous membranes, tenacious mucus. The inflammations cantharis produces (bladder, kidneys, ovaries, meninges, pleuritic and pericardial membranes)are usually associated with bladder irritation.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Frequent urging to urinate, with straining and cutting, burning pains.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Small unsatisfactory quantity passed at a time, or bloody urine.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Excessive burning pains (eyes, mouth, throat, stomach, intestinal tract; all the mucous surfaces and skin).",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Stringy and tenacious discharges from the mucous membranes.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Nearly all complaints accompanied with the characteristic urinary symptoms.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Erysipelas, with blebs or large blisters filled with water and burning pain; useful for surface burns (locally).",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Uncontrollable anguish, furious rage, frenzied delirium; strong sexual desire, both sexes.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Disgust for everything; drink, food, tobacco.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Dysenteric stools, bloody and shreddy, like scrapings from intestines, with tenesmus in rectum and bladder.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "If I were to select the one remedy with which to prove the truth of the formula similia, etc., I think this would be the one. There is no remedy that so surely, and so violently, irritates and inflames the urinary organs, and no remedy so promptly cures such irritation when it puts on, the Cantharis type or form, which it often does.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "H N. Guernsey wrote: \"It is a singular fact, though known to most practitioners, that there be frequent micturition attended with burning, cutting pain, or if not so frequent and the cutting, burning pain attends the flow, Cantharis is almost always the remedy for whatever other suffering where may be, even in inflammation of the brain or lungs.\" He might have added in the throat, and mucous membranes all through the intestinal tract, even to the rectum and anus, and in the pleura or on the skin.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "He also wrote: \"Cantharis should always be remembered and studied in treating affections of the air passages when the mucus is tenacious.\" (Hydrastis, Kali bichrom. Coccus cacti, etc.) I had the pleasure of verifying the truth of this in the case of a lady who had suffered a long time with bronchitis.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "The mucus was so profuse, and tenacious, and ropy, that I thought of Kali bichromicum, and thought it must be the remedy; but it did not even ameliorate, and she got worse all the time, until one day she mentioned that she had great cutting and burning on urinating, which she must do very frequently.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "On the strength of the urinary symptom, for I knew nothing of its curative powers on the respiratory organs at that time, I gave her Cantharis. The effect was magical.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "It is needless to describe the mutual delight of both physician and patient in such a case, for it was astonishing the rapidity with which the perfect and permanent cure of the case was accomplished.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Let us notice still further the effects of this remedy upon the urinary organs by calling attention to a few symptoms that have been both produced in proving and cured ab usu in morbis.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "I have learned to place the highest estimate upon such symptoms. To be sure there are many symptoms in our great Materia Medica that have come to us through clinical sources only, and very valuable ones, too. But they cannot be received with such implicit confidence on short acquaintance as those that are both pathogenetic and clinical. They should always be separated when possible, as they were in \"Hull's Jahr\" of old. Here are a few of them. \"Violent pains in bladder, with frequent urging to urinates with intolerable tenesmus.\" \"Violent burning cutting pains in the neck of the bladder.\" \"Before, during and after urinating fearful cutting pains in the urethra\" \"Constant urging to urinate; urine passed drop by drop with extreme pain.\" \"Urine scalds him; it is passed drop by drop.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "No homœopathist meeting these symptoms in a case would fail to think of Cantharis at once, no matter what else ailed the patient, as it has cured the most diverse and varied diseases when occurring in conjunction with these urinary symptoms. How any physician of any school can deny the truth of similia similibus curantur in the light of such testimony of proof can only be accounted for on the principle of \"none so blind as those who will not see.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Cantharis has also very decided action upon the skin. In erysipelas it is sometimes the best remedy, and choice has to be made between it and Apis, which also sometimes has great urinary irritation in such cases. In the Apis cases there is apt to be more œdema; in Cantharis more blistering. In Cantharis the burning is more intense than under the Apis, while in the latter there is more stinging. The urinary symptoms, if present, are very much more intense under Cantharis.- Again, the mind symptoms of the two remedies are quite different. In the Apis cases, aside from the stinging pains which make the patient cry out sharply at times, especially if the eruption inclines to \"go in\" and attack the membranes of the brain, the patient may not be so very restless and complaining; but in the Cantharis case the patient is uneasy, restless, dissatisfied, distressed, sometimes moaning or violently crying; wants to be moved about constantly. The mind symptoms actually make one think of Arsenicum album, and when we take into account the intense burning it is doubly so. So that it would be very easy to get confused between these two remedies, as well as Cantharis and Apis. If great thirst is also present it would make us think of Arsenic, And now we are upon the skin, Cantharis is a great remedy for burns, both locally as an application and internally for the more chronic conditions and sequelæ. In all skin troubles where blebs or watery vesicles form, which burn and itch, or when touched burn and smart, we do well to remember Cantharis, and look further to find more symptoms, if present, to corroborate it. Hering used to challenge skeptics to burn their fingers, and then cure them by dipping the fingers into water medicated with Cantharis. So great was his faith in it.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "I will call attention to a sensational symptom of Cantharis which I believe is underestimated in practice. It is the sensation of Burning. If any remedy deserves to be placed alongside Arsenicum for burning it is this one. I will quote so as to bring all together, in a way to impress upon our memory the burnings of Cantharis. \"Inflammation of the eyes particularly when caused by a burn.\" \"Burning in mouth, throat, and stomach.\" Great thirst, with burning pain in throat and stomach. \"Violent burning pain in stomach in region of pylorus.\" \"Violent burning pain and heat through whole intestinal tract.\" \"Passage of white or pale-red tough mucus with the stool like scrapings from intestines, with streaks of blood; after stool colic relieved, burning, biting, and stinging in the anus.\" \"Great burning pain in the ovarian regions.\" \"Peritonitis with burning pain, abdomen sensitive and tenesmus of the bladder.\" \"Burning and stinging of the larynx, especially when attempting to hawk up tough mucus.\" \"Burning in the chest.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "We have already spoken of the burnings connected with affections of the urinary organs, and also of the burnings of the skin in erysipelas and other eruptions upon the surface.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "This seems to me to be sufficient to impress upon the reader the value of this symptom belonging to this remedy. I will close by calling attention to its effect upon the membranes to increase their secretion. This action is positive and is a valuable indication for its use.",
+        "source_id": "nash-leaders-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "nash-leaders-1899"
+    ]
+  }
+}

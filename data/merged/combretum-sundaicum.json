@@ -1,0 +1,50 @@
+{
+  "id": "combretum-sundaicum",
+  "names": {
+    "primary": "Combretum sundaicum (MIF.)",
+    "latin": "Combretum sundaicum (MIF.)",
+    "common": [
+      "Combretum"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Roasted leaves, stalks.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Malay Peninsula and Sumatra, and the tropical regions of both Hemispheres",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Leaves odourless, taste astringent.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The leaves and stalks roasted have long been used in China in the form of a decoction, as a cure for the opium habit, the daily dose of opium is added to a decoction of the leaves and the patient is given 1 fluid ounce of the mixture every four hours.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Combretum contains a large proportion of tannic acid and traces of a glucoside.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "aplopappus-laricifolius",
+  "names": {
+    "primary": "Aplopappus laricifolius",
+    "latin": "Aplopappus laricifolius",
+    "common": [
+      "Damiana, False"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "The U.S.D. refers to Aplopappus discoideus as False Damiana. Gray refers to it as Bigelovia Veneta.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "A volatile oil, also a fatty oil which has the smell of the plant, brown acid, resin, tannin. The resin is peculiar in containing other resins.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "It is used as a stimulant in flatulent dyspepsia and chronic inflammation with haemorrhage of the lower bowel. It is very useful in dysentery and in genito-urinary catarrh and as a stimulant expectorant; the tincture is useful for slowly healing ulcers.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "A strong decoction is made by 1 part to 5 of water. 1 tablespoonful as a dose every two hours. Dose of the fluid extract, 5 to 20 minims. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "veratrum-nigrum",
+  "names": {
+    "primary": "Veratrum Nigrum",
+    "latin": "Veratrum Nigrum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Cooper has given me a few observations with Ver. nig., which I have arranged in Schema form. The plant, he says, has much the same botanical characters as Ver. alb., but the flowers are dark-coloured. It is native to Austria and Siberia.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Headache; Menstruation, protracted; Tinnitus aurium",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Constant headache when attempting to move or exert the brain (cured). Fierce headache threatening acute mania (cured).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Constant buzzing of l. ear for two weeks with tenderness of meatus and intense sensitiveness of the head to the motion of an omnibus with beclouding of the brain; can hardly tell which instrument to take up (in his work as a dentist), and pain in nape of neck (agg.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Period continually returning; sometimes light-coloured and slight in quantity, and sometimes profuse; with weak feeling in back. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

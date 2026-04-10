@@ -1,0 +1,35 @@
+{
+  "id": "micromeria-douglasii",
+  "names": {
+    "primary": "MICROMERIA DOUGLASII",
+    "latin": "MICROMERIA DOUGLASII",
+    "common": [
+      "Yerba Buena (MICROMERIA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "stomach_abdomen": [
+      {
+        "text": "Nausea; pain in stomach and bowels; flatulence",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">MICROMERIA DOUGLASII Yerba Buena (MICROMERIA) A California mint-like plant acting on stomach and bowels. Used as a tea to cure colic and relieve flatulence. Is a pleasant beverage and febrifuge, blood purifyer and tonic.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

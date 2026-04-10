@@ -1,0 +1,41 @@
+{
+  "id": "ginkgo",
+  "names": {
+    "primary": "Ginkgo",
+    "latin": "Ginkgo",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Ginkgo is a deciduous tree so ancient that it is commonly known as a “living fossil”; it is the last remaining species of a primitive family of plants. Ginkgo has a long history of use in Chinese medicine for treating cough, diarrhea, and other conditions. Today, ginkgo leaf, usually as an extract, is the most commonly used form of ginkgo. Ginkgo is promoted as a dietary supplement for many conditions, including anxiety, heart disease, cognitive impairment and dementia, diabetes, premenstrual syndrome (PMS), schizophrenia, and tinnitus, among others. It has also been promoted with claims that it can enhance cognitive performance in healthy people.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "There have been many studies on the possible health effects of using ginkgo. However, ginkgo has not been shown to be effective for any of the conditions for which it has been studied.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "There’s no conclusive evidence that ginkgo is helpful for any health condition. Ginkgo has not been shown to be beneficial for preventing or slowing the progression of dementia. In three large studies in older adults with normal cognitive function or mild cognitive impairment, supplementation with ginkgo extract did not reduce the risk of dementia. One of these studies was the Ginkgo Evaluation of Memory (GEM) study, funded by the National Center for Complementary and Integrative Health and the National Institute on Aging. In this study, more than 3,000 people age 75 or older with normal cognitive function or mild cognitive impairment were randomly assigned to take a ginkgo supplement or a placebo for a median of 6 years. There was no difference between the gingko and placebo groups in the rates at which participants developed dementia of any type or Alzheimer’s disease. Ginkgo extract may have a modest benefit for dementia symptoms, particularly at relatively high doses, but the evidence is inconsistent. It’s unclear whether ginkgo is helpful for symptoms of milder cognitive impairment. Although dietary supplements containing ginkgo have been marketed for “brain health,” it’s uncertain whether they actually influence cognitive performance in healthy people. Much of the research on this topic is of low quality. For various health conditions, including anxiety, PMS, schizophrenia, and vertigo, a small amount of evidence suggests a benefit from taking ginkgo orally (by mouth), but the overall evidence is not conclusive. Ginkgo might also be helpful in the rehabilitation of patients who have had strokes. Research suggests that ginkgo is not helpful for preventing heart disease, treating high blood pressure, or relieving symptoms of tinnitus or multiple sclerosis.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "For most adults, ginkgo leaf extracts are likely to be safe when taken orally in moderate amounts. They have been used safely in research studies lasting as long as 6 years. Fresh ginkgo seeds are toxic when consumed orally, and serious side effects have also occurred in people who consumed roasted ginkgo seeds or the crude ginkgo plant. Ginkgo leaf extract is generally well tolerated; the most common side effects are dizziness, gastrointestinal symptoms, and headache. Ginkgo may increase the risk of bleeding in people who are taking anticoagulant drugs, such as warfarin. Ginkgo may also interact with other drugs. If you take any type of medicine, talk with your health care provider before using ginkgo or other herbal products; some herbs and medicines interact in harmful ways. Ginkgo may be unsafe for use during pregnancy. It might cause early labor or extra bleeding during delivery if used near that time. Little is known about whether it’s safe to use ginkgo while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "no_evidence"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

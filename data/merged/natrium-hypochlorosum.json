@@ -1,0 +1,71 @@
+{
+  "id": "natrium-hypochlorosum",
+  "names": {
+    "primary": "NATRIUM HYPOCHLOROSUM",
+    "latin": "NATRIUM HYPOCHLOROSUM",
+    "common": [
+      "Labarraque's Solution (NATRUM CHLORATUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Vertigo, with aching across forehead. Swimming feeling, as if top of head would float off. Bleeding of nose in clots",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Sore irritable spots along sides of tongue and throat, gums sore, tongue swollen; aphthous ulceration. Putrid taste. Furred tongue, large, flabby, intended. Cough with aphonia",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Drowsy after meals",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Dark, with albumen and casts. Diffuse nephritis. Much pain across small of back",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Feeling as if uterus were pushed up on sitting down (Ferr iod). Feels as if it opened and shut. Violent metrorrhagia. Leucorrhœa and backache. Passive, bearing-down from heavy condition of uterus. Womb is heavy, sodden, with tendency to prolapse. Subinvolution",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Hands swollen every morning. Extreme weakness in ankles and knees",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "relationships": {
+      "antidoted_by": [
+        "Pulsat",
+        "Guaiacum"
+      ]
+    },
+    "dosing": {
+      "notes": "Fifteen to twenty drops of Labarraque's solution in water. Third attenuation made with dilute alcohol, lower with water"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">NATRIUM HYPOCHLOROSUM Labarraque's Solution (NATRUM CHLORATUM) In congested and atonic states of the uterus and its ligaments, with hepatic disorders. Chronic catarrhal diseases of the middle ear. Flabby, debilitated constitution. Both hands swollen in morning. Phlegmatic. Depressed, faint.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

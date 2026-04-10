@@ -1,0 +1,44 @@
+{
+  "id": "polymnia-uvedalia",
+  "names": {
+    "primary": "Polymnia uvedalia (LINN.)",
+    "latin": "Polymnia uvedalia (LINN.)",
+    "common": [
+      "Bearsfoot (American)"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "New York to Missouri and southward.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "A tall branching plant found growing in very rich soil the root is greyish brown in colour and furrowed, bark thin, brittle and easily scales off, odourless, taste salty and slightly bitter.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Anodyne laxative and stimulant, valuable in malarial enlargements of the spleen, swollen glands and dyspepsia caused by the spleen. Of great use applied externally in stimulating the growth of the hair, and is an ingredient of many American hair ointments and lotions.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Fluid extract, dose, 15 to 60 minims. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

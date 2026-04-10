@@ -1,0 +1,29 @@
+{
+  "id": "opuntia-ficus",
+  "names": {
+    "primary": "OPUNTIA FICUS",
+    "latin": "OPUNTIA FICUS",
+    "common": [
+      "Prickly Pear (OPUNTIA-FICUS INDICA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Second attenuation"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">OPUNTIA FICUS Prickly Pear (OPUNTIA-FICUS INDICA) Diarrhœa, with nausea. Feels as if bowels were settled down in lower abdomen. Sick feeling in lower third of abdomen. Enteroptosis with loose and frequent evacuations.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

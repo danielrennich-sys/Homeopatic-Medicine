@@ -1,0 +1,74 @@
+{
+  "id": "psoralea",
+  "names": {
+    "primary": "Psoralea",
+    "latin": "Psoralea",
+    "common": [
+      "Potato, Prairie",
+      "Psoralea"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "United States. Other species of the genus in India and Europe.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The tubers of Psoralea esculenta are eaten by the Indians and settlers of the North-western United States. The other species have various medicinal qualities. P. pedunculata or P. melilotoides , the Virginian variety, is also known as Congo Root, Bob's Root, and Samson's Snakeroot. Leaflets of P. obliqua , bitter, and of a distinct odour, have been found to be mixed with Buchu.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Of the tuber, 70 per cent starch and 5 per cent of a new sugar not yet fully investigated. The root of the Virginian variety contains a volatile oil of pungent taste, and a bitter principle, not tannin. The Indian P. corylifolia yields a useful oleoresin.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "P. glandulosa , or yolochiahitl, has a leaf included in the Mexican Pharmacopceia as a tonic or anthelmintic, and an emetic root. P. bituminosa of Europe and P. physodes of California are tonic and emmenagogic. The root of the Virginian variety is a valuable, aromatic tonic, useful in chronic diarrhoea, while the Indian species is useful for leucoderma and other skin diseases.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "The root and leaves of Psoralea melilotoides, Michaux.Nat. Ord.—Leguminosae.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source and History.—The genus Psoralea comprises an extensive family of plants, mostly found in America, and in the neighborhood of Cape of Good Hope. It consists, generally, of glandular-dotted herbs, with from 3 to 5 foliate leaves, and short, thick, indehiscent, 1-seeded legumes. The flowers, which are white or blue, are disposed, in all our indigenous species, in axillary spikes or racemes. The tubular calyx is 5-parted, with the lowest lobe longest.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Psoralea melilotoides, Michaux (P. eglandulosa, Elliott), is the most common native species, found in open woods from Ohio and Kentucky, southward. The plant is pubescent and nearly glandless. The pale-blue flowers are borne oil peduncles about 4 inches long. The leaves are trifoliate, with entire lanceolate leaflets. The root is variously known as Bob's root, Samson snake-root, and Congo root. The fresh root has an agreeable, aromatic odor, and a bitterish, spicy, even acrid taste. Odor and taste are weaker after drying the root. It contains about 2 per cent of a volatile oil, starch, and a bitter principle, probably also a substance resembling tannin.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Psoralea esculenta, Pursh, is indigenous to the elevated plains of the northwest. It has 5 leaflets and capitate spikes of blue flowers. The root is bulbous, and is said to act as a diuretic, although, when boiled, it is used as food by the natives. It is called Bread root, Prairie turnip, and sometimes (erroneously) Indian turnip. According to Mr. Clifford Richardson, the root of this species contains nearly 70 per cent of starch (see Prof J. M. Maisch's interesting report on useful plants of the genus Psoralea, in Amer. Jour. Pharm., 1889, pp. 345-352).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Besides these, there are several other species of Psoralea, among them the following: P. bituminosa, Linné, of the south of Europe, a tonic emmenagogue; P. glandulosa, Linné, to which, at one time Paraguay tea or Yerva maté was erroneously referred (see J. M. Maisch, loc. cit., and analysis by Lenoble, Jour. d. Pharm., 1850); P. pentaphylla, Linné, of Mexico, the root of which is sometimes called White contrayerva (see analysis by Mariano Lozano y Castro, in Prof. Maisch's report, loc. cit.); and P. corylifolia, Linné, of India and Arabia. The seeds of this species (bauchee seeds) are employed as a tonic in cutaneous affections.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—The root and leaves of these plants appear to possess the properties of a mild, stimulating, bitter tonic, and have been advantageously employed in cases of languor or feebleness from mental or physical exertion, in certain forms of chronic dyspepsia, to relieve anorexia, and as a stimulating tonic in strumous affections of the mesentery, accompanied with diarrhoea, tumid abdomen, etc. The Psoralea melilotoides is the plant employed in this country, in infusion, or made into a tincture.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931",
+      "kings-american-1898"
+    ]
+  }
+}

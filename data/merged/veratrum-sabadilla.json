@@ -1,0 +1,50 @@
+{
+  "id": "veratrum-sabadilla",
+  "names": {
+    "primary": "Veratrum sabadilla",
+    "latin": "Veratrum sabadilla",
+    "common": [
+      "Sabadilla"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Southern North America, Guatemala and Venezuela.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The name Schcenocaulon indicates the habit of the scape, meaning 'a rush' and 'a stem.' The name Asagrcea commemorates Professor Asa Gray of Harvard University, the most distinguished of living American botanists. It is not quite certain whether the seeds are obtained from the Veratrum Sabadilla, a plant 3 or 4 feet high, or from the V. officinale, differing slightly in appearance and construction. The seeds are black, shining, flat, shrivelled and winged, odourless, with a bitter, acrid, persistent and disagreeable taste, the pale grey, amorphous powder being errhine and violently sternutatory. The seeds were known in Europe as early as 1752, but officially only as the source of veratrine.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Sabadilla contains several alkaloids, the most important being Cevadine, yielding cevine on hydrolysis; Veratrine, obtained from the syrupy liquor from which the cevadine has crystallized; and Cevadilline or Sabadillie, obtained after the extraction of the veratrine with ether.] Two other alkaloids have been isolated: Sabadine, which is less sternutatory than veratrine, and Sabadinine, which is not sternutatory. Sabadilla yields about 0.3 per cent of veratrine. The seeds also contain veratric acid, cevadic acid, fat and resin. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Sabadilla, or cevadilla, is an acrid, drastic emeto-cathartic, in overdoses capable of producing fatal results. Cevine was found to be less poisonous than cevadine, though producing similar symptoms. The powdered seeds have been used as a vermifuge, and to destroy vermin in the hair, being the principal ingredient of the pulvis capucinorum used in Europe. Cevadilla was formerly used internally as an anthelmintic, and in rheumatic and neuralgic affections. The highly poisonous veratria, which is derived from it, has been given in minute doses internally in acute rheumatism and gout, and in some inflammatory diseases, but it must be used with caution. Veratria is useful as an ointment in rheumatism and neuralgia, but is regarded as being less valuable than aconite. The ointment is also employed for the destruction of pedicule. Applied to unbroken skin it produces tingling and numbness, followed by coldness and anaesthesia. Given subcutaneously, it causes violent pain and irritation, in addition to the symptoms following an internal dose. The principal reason against its internal use is its powerful action on the heart, the contractions of the organ becoming fewer and longer until the heart stops in systole.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "From 5 to 20 grains as a taenicide. Ointment veratrine, B.P. ---Poisonous, if any, with Antidotes--- Large doses paralyse heart action and respiration, and its use is so dangerous that it is scarcely ever taken internally. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

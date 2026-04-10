@@ -1,0 +1,28 @@
+{
+  "id": "plant-entries",
+  "names": {
+    "primary": "The plant entries",
+    "latin": "The plant entries",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Scanned version copyright © 2001–2019 Michael Moore. Used with permission.This is the .html version. You'll find the .pdf version on Michael's site.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919"
+    ]
+  }
+}

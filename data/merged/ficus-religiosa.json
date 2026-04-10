@@ -1,0 +1,119 @@
+{
+  "id": "ficus-religiosa",
+  "names": {
+    "primary": "FICUS RELIGIOSA",
+    "latin": "FICUS RELIGIOSA",
+    "common": [
+      "Ashwathya"
+    ],
+    "synonyms": [
+      "Ficus Religiosa"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Melancholic-quiet; burning at vertex; vertigo and slight headache",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Nausea, vertigo, and slight headache. Headache (with hæmorrhages). Burning at vertex.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea, vomiting of bright red blood; pain and sick feeling in stomach",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Vomiting of bright red blood. Bearing-down pains in lower part of abdomen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Difficult breathing; cough with vomiting of blood; pulse very weak",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "First potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">FICUS RELIGIOSA Ashwathya This East Indian drug causes and cures hæmorrhages of many kinds. Hæmatemesis, menorrhagia, hæmoptysis, etc. Bloody urine.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "We owe this remedy to Dr. Sarat Chandra Ghose, of Midnapore, who made the first proving and thereby discovered its power to cause and cure hæmorrhages of many kinds. Dr. Ghose kindly sent me a supply of the remedy, and I have had very satisfactory results with the 1x potency in controlling menorrhagia. The provers were Dr. Ghose himself, his wife, and a dog. As the experiments are quite remarkable I will give them in detail. The dog, which was perfectly strong and healthy, received 40 drops of the tincture one morning. No result followed that day, and the dose was repeated next morning, and the animal commenced and continued to vomit blood of a bright red colour. It kept very quiet and was unwilling to move. After three doses of five drops of the tincture given in quick succession, the vomiting ceased. It is remarkable that the same treatment (minute doses of the same remedy) was effectual in arresting the effects of the drug in the other two provings. Mrs. G. took the tincture in 20-drop doses repeatedly throughout two days. On the third day dysentery and menorrhagia set in simultaneously. The blood was bright red. Other symptoms were: Headache; very weak and restless; sight dim; burning at the top of the head. The face became yellowish; breathing difficult. She became sad and melancholy. With the profuse discharge of bright red blood there were bearing-down pains in lower abdomen. Dr. G. took 40 drops in one dose. The result was: Frequent desire to pass water, which gradually became bloody, and contained much blood. Then inclination to cough, causing him to spit blood. Slight headache; giddiness and nausea. Sight dim. Very weak and restless. The tincture was taken three drops every two hours, and after the third dose the symptoms vanished. Dr. Ghose relates some striking cases cured with the remedy─dysentery, hæmatemesis, hæmorrhage of typhoid, bleeding piles, and epistaxis.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Hæmorrhages; Menorrhagia; Metrorrhagia",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Difficulty of breathing. Inclination to cough, causing him to spit blood. Very weak and restless. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Acalypha, Ipec., Arn., Phos., Sanguisuga, Cactus, Ferrum, &c."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Quiet and disinclined to move. Sad and melancholy.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Sight dim.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Epistaxis.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Face became yellow.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Dysentery, with menorrhagia. Dysentery, blood bright red.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Frequent desire to micturate. Urine contains much blood.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menorrhagia, bright red blood, bearing-down pains in lower abdomen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

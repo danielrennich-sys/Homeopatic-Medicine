@@ -1,0 +1,100 @@
+{
+  "id": "salol",
+  "names": {
+    "primary": "Salol",
+    "latin": "Salol",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Salol was primarily used as an anti-rheumatic, especially in the treatment of acute cases. It was given as an antipyretic, in 30 to 45 grain doses, in powders or tablets. It is soluble in ether and petroleum spirit; very sparingly, if at all, in water. It does not disturb digestion because it passes through the stomach unaltered, being decomposed in the duodenum, by the ferments of the pancreas, into Salicylic acid and Phenol (it contains 38 per cent. of Phenol). These are excreted by the kidneys, and the condition of intestinal digestion has been estimated by the length of time required, after the ingestion of Salol, for them to appear in the urine. Upon this property also has been based the use of the remedy in acute diarrhœa, dysentery, cholera, and other diseases where intestinal asepsis is indicated, and also in affections of the bladder and urethra as a substitute for ordinary mechanical irrigations and injections. Its internal use in gonorrhœa (in 5-gr. doses three times a day) has met with much success (Helbing). The only proving of, Salol (published by me, H. W., xxxiii. 118) was made incidentally on a chemist from making up powders of Salol. He experienced very severe symptoms from inhaling the odour, and possibly also some of the powder. The experience was repeated on more than one occasion, and I have confirmed most of the symptoms in practice, using the 12th attenuation chiefly. Rheumatic pains in joints with soreness and stiffness were marked, especially pain and soreness in the buttocks, knees, and wrists. The prover was subject to headaches, but he never had so violent a headache as that produced by Salol, and conversely, after the proving, Salol 12 immediately relieved him when threatened with one of his usual headaches. The first symptom he noted was that his urine smelt of violets; and it was only when this passed off that the other symptoms came on. The joints felt stiff, \"as if they wanted oiling.\" C. Begg (B. M. J., January 12, 1901) refers to the use of Salol in small-pox, and other skin affections attended with burning and itching. The relief of itching in small-pox was, he says, a constant and most satisfactory result. When administered early it prevented maturation. The symptoms were walking. Raising eyes. Sitting on hard stool (pain in buttocks). By touch. Evening. Ascending stairs.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Diarrhœa; Dysentery; Fever; Gonorrhœa; Headache; Influenza; Neuralgia; Rheumatism; Small-pox",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Feeling of stiffness in joints as though they want oiling. Extremities sensitive to touch. Rheumatic pains in l. knee-joint, thighs, and arms, the pain being on the inner side of the joints. Pain in shoulder. Pain in r. arm in evening. Slight pain in l. arm. Pain in wrists. Cramp in hand on writing. Hurts even to carry a book in hand. Buttocks sore. Pain in l. buttock, esp. on walking. Dull aching in head and all over body. Can hardly go up stairs, and it is dreadfully painful to sit on a hard stool. During the whole time of the proving the hands shrunk when cold, and he could not straighten the little fingers without much pain.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Antidoted by: Bry. Compare: Sal. ac., Saln., Nat. sal., Carbl. ac. Wrist rheumatism, Act. sp., Led., Viol. od. Urine smells of violets, Tereb. Gonorrhœa, Naphth., Petrosel. Small-pox, Carbl. ac. Sarr. Variol."
+      ]
+    },
+    "head": [
+      {
+        "text": "Dreadful headache, esp. over eyes, could hardly walk or hold head up for pain (relieved by Bryon. Ø, three drops, and a wet compress). Dull aching in head and all over body; headache continued two days but was at intervals.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urine smelt strongly of violets; after this passed off the rest of the symptoms came on.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "(Burning and itching eruption. Small-pox.) Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Related entry: Gaultheria - Salicylic acid - Sodium salicylate - Aspirin - Salicin",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonyms—Phenyl Salicylate, Salicylate of Phenol.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Administration—It is prescribed in capsules of from three to six grains every two or three hours. It is safest to discontinue for a few doses, after a number of doses has been given, and to begin again subsequently, if indicated.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Physiological Action—In its physiological action it closely resembles its constituents, salicylic and carbolic acids, as it is clearly proven that the compound is broken up by the action of the pancreatic juice, and these two agents are released in the intestinal canal. This is determined by the presence of the carbolic acid products in the urine, and the evidences of salicylic acid poisoning in the system. A dram of salol will release twenty-four grains of carbolic acid in the system, as forty per cent of the substance is of that acid, and the toxic effects of the agents are the phenomena of salicylic or carbolic acid poisoning.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is stated by Huselbach, that if the kidneys are diseased, the elimination of the constituents of salol is retarded, and serious poisoning is much more apt to occur. It interferes with the excretory functions of the kidneys, especially if their power is at all impaired. Its use must be avoided entirely if these organs are diseased, and must be administered with careful discrimination in all diseases of the urinary apparatus. In small doses, it is beneficial, if the mucous lining only of the pelvis of the kidney is involved, as in pyelitis, but it must not be given in pyelonephritis.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—Because of the antiseptic character of both the acids, salol is prescribed freely as an intestinal antiseptic in all cases, whether of a febrile or non-febrile character, where that influence is desired. It is given in catarrhal and fermentive diarrheas, in cholera morbus, and also in cholera. It is prescribed in rheumatism, where the salicylic acid is indicated, and the effects are identical with the influences of that agent. The liberation of the acid in the intestinal canal in a form easily absorbed, may facilitate its action.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In catarrhal cystitis, with alkaline urine, it is directly serviceable, neutralizing the alkalinity and destroying disease germs.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Its use in specific urethritis is quite common, its curative influence depending largely upon its antiseptic properties in all these conditions.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is prescribed by many physicians as an anodyne and pain-relieving agent. It has but little influence other than in allaying irritation by destroying disease ferments, and other causes of painful disorder.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900",
+      "ellingwood-1919"
+    ]
+  }
+}

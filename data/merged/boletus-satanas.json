@@ -1,0 +1,69 @@
+{
+  "id": "boletus-satanas",
+  "names": {
+    "primary": "Boletus Satanas",
+    "latin": "Boletus Satanas",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T BOLETUS SATANAS. B. satanas, Lenz. Nat. order , Fungi. Preparation , Triturations. Authorities. 1 , Lenz, Boudier on Fungi, translated from the French by Husemann, tasted a piece of the fresh fungus, but spit it out soon; 2 , Salzmann, ibid., ate some cooked in salt and water, and roasted; 3 , six persons poisoned by eating the roasted mushrooms (Wien. Med. Presse), from N. Z. f. H. Kl., 13, 55. MIND. ► Fear and restlessness, [3] . ► Intellect undisturbed, [3] . EYES AND EARS. ► Sparks before the eyes, alternating with obscuration of vision, [3] . ► Noises in the ears, [3] . MOUTH AND THROAT. ► Troublesome dryness in the mouth and throat, [3] . ► Violent burning and scraping in the throat, [3] . STOMACH. ► Unquenchable thirst, [3] . ► Nausea, [3] . ► Sudden nausea (after two hours), [2] . [10.] ► Retching and vomiting, [3] . ► A desire to vomit came very suddenly; between the attacks there was very little nausea, and no pain when vomiting the last time; after about three hours he noticed a slight trace of blood, [1] . ► He was obliged to vomit (after two hours and three hours, and repeated twenty times within three hours), [1] . ► Vomiting repeated thirty times within two hours, [2] . ► He vomited everything that he took, [2] . ► Salzmann continued to vomit (after the contents of the stomach) a bitter fluid, which was finally mixed with blood; olive oil did not entirely relieve the vomiting, nor when mixed with charcoal, [2] . ► Epigastric region distended, [3] . ► Perceptible pulsation in the epigastric region, [3] . ► Frightful pain in the stomach, [3] . ABDOMEN. ► Abdomen sunken and frightfully painful, [2] . [20.] ► Obstinate tension of the abdomen, [3] . STOOL. ► A profuse diarrha of blood and of the mucous membranes of the intestines, [2] . ► Watery evacuations, [3] . CHEST AND PULSE. ► Oppression of the chest, [3] . ► Pulse scarcely perceptible, [2] . EXTREMITIES. ► A sudden sensation through all his limbs as though he would be attacked with apoplexy after two hours), [1] . ► Violent, extremely painful cramps in the muscles of the limbs and of the face, [2] . GENERALITIES. ► Loss of all strength, [2] . ► A great weakness suddenly (after two hours), [1] . ► So weak that he could scarcely stand or walk (after two to eight hours), [1] . [30.] ► Excessive weakness, amounting to faintness, whilst the vomiting continued; repeated ten or twelve times in an hour, [3] . ► Great discomfort in the whole body, [3] . FEVER. ► Limbs cold, [2] . ► Cold sweat over the whole body, [3] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Diarrhœa membranosa; Dysentery",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sudden sensation through all his limbs as if he would be attacked with apoplexy. Violent and extremely painful cramps in the muscles of the limbs and face. Faintness while vomiting. Limbs cold; cold sweat over whole body. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "There are two fragmentary provings of this fungus, and observations on six persons poisoned. It produces gastro-enteric disturbances very similar to that of its two relatives.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Fear and restlessness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Sparks before eyes alternating with obscuration of vision. 8.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Troublesome dryness in mouth and throat. Violent burning and scraping in throat.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Unquenchable thirst. Sudden desire to vomit; no nausea between attacks. Vomited twenty times in three hours. Frightful pain in stomach. Abdomen sunken and frightfully painful. Obstinate tension of abdomen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "A profuse diarrhœa of blood, and of the mucous lining of the intestines. Watery evacuations.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

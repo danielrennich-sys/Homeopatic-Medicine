@@ -1,0 +1,42 @@
+{
+  "id": "stellaria",
+  "names": {
+    "primary": "Stellaria",
+    "latin": "Stellaria",
+    "common": [
+      "Chickweed"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "The plant Stellaria media, Smith (Alsine media, Linné). Nat. Ord.—Caryophyllaceae. COMMON NAMES: Chickweed, Star chickweed.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—This plant is the Alsine media of Linnaeus. It is an annual or biennial weed, 6 to 15 inches in length, with prostrate, branched, brittle, round, jointed, and leafy stems, distinguished by the alternate, lateral, hairy lines, extending from joint to joint. The leaves are ovate, ovate-cordate, and glabrous; the lower on hairy petioles. Flowers small, white, in forked cymes; petals 2-parted, shorter than the calyx. Stamens varying, 3, 5, or 10 (W.—G.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History.—This is a common plant throughout the United States, growing in fields and around dwellings, in moist, shady places, probably introduced from Europe. It flowers from the beginning of spring to the end of autumn. The seeds are eaten by poultry and birds. The whole herb is used, when recent.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Chickweed appears to be a cooling demulcent. Ɣ I have seen the fresh leaves bruised and applied as a poultice to indolent, intractable ulcers on the leg, of many years' standing, with the most decided and immediately beneficial results; to be changed 2 or 3 times a day. In acute ophthalmia, the bruised leaves will likewise be found a valuable application. An ointment, made by bruising the recent leaves in fresh lard, may be used as a cooling application to erysipelatous and other forms of ulceration, as well as in many forms of cutaneous disease (J. King). A tincture of Stellaria media has been extolled in some quarters as a remedy for rheumatic pains of a fugitive and shifting character.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "kings-american-1898"
+    ]
+  }
+}

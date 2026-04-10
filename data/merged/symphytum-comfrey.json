@@ -1,0 +1,28 @@
+{
+  "id": "symphytum-comfrey",
+  "names": {
+    "primary": "Symphytum. Comfrey (Borraginaceae)",
+    "latin": "Symphytum. Comfrey (Borraginaceae)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Facilitates union of fractured bone (Cal. p.); lessens peculiar pricking pain; favors production of callous; when trouble is of nervous origin. Irritability at point of fracture; periosteal pain after wounds have healed. Mechanical injuries; blows, bruises, thrusts on the globe of the eye. Pain in eye after a blow of an obtuse body; snow ball strikes the eye; infant thrusts its fist into its mother's eye (to soft tissues around the eye, Arn.).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Compare: Arn., Calend., Cal. p., Fluor. ac., Hep., Sil. Follows well: after Arnica for pricking pain, and soreness of periosteum remaining after an injury.",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

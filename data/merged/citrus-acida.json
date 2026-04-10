@@ -1,0 +1,60 @@
+{
+  "id": "citrus-acida",
+  "names": {
+    "primary": "Citrus acida (ROXB.)",
+    "latin": "Citrus acida (ROXB.)",
+    "common": [
+      "Lime Fruit"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "The juice, the fruit.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "C. Limetta , grown in Italy, yields an oil resembling oil of Bergamot, called Italian Limette oil. It contains 26 per cent ling acetate. After standing it forms the yellow deposit limettin . It differs from the distilled West Indian oil of Limes. See LEMON . [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "West Indies, especially Montserrat. A native of Asia.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The Lime is a small tree, crooked and prickly, only reaching as a rule a height of 8 feet. The leaves are ovateoblong, and the stalk is not winged like that of the orange and lemon tree. The flowers are small and white and the fruit about half the size of a lemon, with a smoother, thinner rind, having a greenish tinge in its yellow. In Jamaica it is often planted for fences. In London nurseries several varieties are found, the principal ones being the Chinese spreading, the West Indian, the Common, the broad-leaved and the weeping. The juice is principally used in the manufacture of citric acid, and for medicinal purposes is often used indiscriminately with that of the lemon, although its flavour is not so popular. Oil of Limes is used for flavouring purposes, especially in mineral waters and artificial lime-juice cordials, consisting of sweetened solutions of tartaric acid.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The National Formulary IV of America has defined and standardized Lime Juice as follows: the expressed juice of the ripe fruit of Citrus medica acida , containing in each one hundred mils not less than 5 gm. nor more than 10 gm. of total acids, calculated as crystallized citric acid (H3C6H5O7 plus H2O: 210.08). It is clear or slightly turbid, pale yellow or greenish-yellow, with the characteristic odour and taste of limes. Specific gravity 1.025 to 1.040 at 25 degrees C. It must be free from sulphuric acid, and may contain 0.04 gm. of SO2 in each 100 mils, but no other preservatives nor artificial colours. The rind contains a volatile oil including the terpene limonene and citral.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Antiscorbutic. Used in dyspepsia with glycerine of pepsin.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Of 40 per cent glycerite of pepsin and 60 per cent. Lime juice, 2 fluid drachms.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

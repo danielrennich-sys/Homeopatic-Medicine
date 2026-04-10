@@ -1,0 +1,35 @@
+{
+  "id": "propylaminum",
+  "names": {
+    "primary": "PROPYLAMINUM",
+    "latin": "PROPYLAMINUM",
+    "common": [
+      "Distilled Herring-brine (PROPYLAMIN - TRIMETHYLAMINUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "extremities": [
+      {
+        "text": "Pain in wrists and ankles; worse, slightest motion (Bry). Great restlessness and thirst. Rheumatism, needle held in fingers gets too heavy. Tingling and numbness of fingers. Pain in wrist and ankle, unable to stand",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Ten to fifteen drops, in about six ounces of water; teaspoonful doses every two hours"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">PROPYLAMINUM Distilled Herring-brine (PROPYLAMIN - TRIMETHYLAMINUM) In acute rheumatism, dissipates fever and pain in a day or two. Rheumatic prosopalgia, and rheumatic metastases, especially heart lesions.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

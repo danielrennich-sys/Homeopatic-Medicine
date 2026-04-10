@@ -1,0 +1,84 @@
+{
+  "id": "hecla-lava",
+  "names": {
+    "primary": "HECLA LAVA",
+    "latin": "HECLA LAVA",
+    "common": [
+      "Lava Scoriæ from Mt. Hecla (HEKLA LAVA)"
+    ],
+    "synonyms": [
+      "Hecla Lava. (Hekla Lava)"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "face": [
+      {
+        "text": "Ulceration of nasal bones. Facial neuralgia from carious teeth and after extraction. Toothache, with swelling about jaws. Abscess of gums. Enlargement of maxillary bone. Cervical glands enlarged and indurated",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Facial neuralgia or headache dependent on derangement of dental nerves, or where the irritating cause is a carious tooth. Polypoid growth commencing in antrum Highmorii and from thence encroaching upon adjacent structure so as to deform face, forcing eyeball upwards and everting lid, and obstructing nostrils ; downward into mouth, so that breathing and mastication were seriously impeded ; epistaxis ; headache.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "dosing": {
+      "notes": "Lower triturations"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">HECLA LAVA Lava Scoriæ from Mt. Hecla (HEKLA LAVA) Marked action upon the jaws. Of great use in exostosis, gum abscess, difficult teething. Nodosities, caries of bone, etc. Osteitis, periostitis, osteosarcoma; rachitis. Tumors in general. Bone necrosis. Necrosis and sinus after mastoid operation.",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Vertigo, everything goes up, down and side-wise.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "head": [
+      {
+        "text": "Chronic headache.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Destructive (syphilitic) ulceration of nasal bones.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Toothache, particularly if teeth are very sensitive to pressure. Toothache with swelling about jaws. After extraction of carious wisdom tooth pain in wound, and at times in various localities in head and face, so severe that he cannot eat or sleep. Neuralgia, when irritating cause is a carious tooth. Neuralgic pains in cavities from which teeth had been extracted. After extraction of molar tooth violent pain in upper jaw which is sore, swollen and painful to touch. Since extraction of inferior molar of right maxilla two years ago, tissues have not healed ; continuous slight discharge of bad tasting pus, at times containing small particles of a soft, gritty substance. Right cuspid of upper jaw very sensitive to slight pressure on crown ; swelling, and indurated tumor as large as a pea under right alæ nasi very sensitive to touch ; conjunctivitis of right eye. After extraction of sore tooth gradual enlargement of lower jaw near cavity of tooth finally becoming as large as a hickory nut, causing cheek to bulge. Gum abscesses from decayed teeth. Toothache caused by abscesses of gums, injuries to alveolar process, or diseases of antrum Highmorii. Enlargement of maxillary bone from injury. Injury to inferior maxillary of a scrofulous girl, which produced an immense abscess, and afterwards great enlargement of maxillary bone. Difficult dentition in scrofulous or rachitic children.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Myalgia, especially of intercostal muscles.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "Induration and infiltration of cervical glands, studding neck like a row of pearls.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Hip disease. Exostoses of tibia ; nodosities very large ; severe, continuous pain, incapacitating him from work ; the exostoses and portion of periosteum, which had become carious and soft, were removed by operation ; necrosis of whole bone had been diagnosed ; three days after administration of Hekla lava the pain, which still continued after operation, subsided, and by end of second week wound had healed. Caries of bones of feet. Copyright © Médi-T ® 2002. Main.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "hering-guiding-1879"
+    ]
+  }
+}

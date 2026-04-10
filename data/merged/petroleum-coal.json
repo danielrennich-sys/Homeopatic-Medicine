@@ -1,0 +1,32 @@
+{
+  "id": "petroleum-coal",
+  "names": {
+    "primary": "Petroleum. Coal or Rock Oil. (Anthracite)",
+    "latin": "Petroleum. Coal or Rock Oil. (Anthracite)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Adapted to persons with light hair and skin; irritable, quarrelsome disposition (Nux); easily offended at trifles (Ign., Med.); vexed at everything. Ailments: from riding in a carriage, railroad car, or in a ship (Coc., Sanic.). Ailments which are worse before and during a thunderstorm (Nat. c., Phos., Psor.). Symptoms appear and disappear rapidly (Bell., Mag. p. - reverse of Plat., Stan.). During sleep or delirium: imagines that one leg is double; that another person lies alongside of him in same bed; that there are two babies in the bed (Val.). Vertigo on rising (Bry.); in occiput; as if intoxicated; like seasickness (Coc.). Headache: in occiput, which is as heavy as lead; pressing, pulsating pain; as if everything in the head were alive; numb, bruised, as if made of wood. Gastralgia: of pregnancy; with pressing, drawing pains; whenever stomach is empty; relieved by constant eating (Anac., Chel., Sep.). Diarrhoea: yellow, watery, gushing; after cabbage, sour krout; during pregnancy, stormy weather; always in the daytime. Painful sensitiveness of skin of whole body; all clothing is painful; slight injury suppurates (Hep.). Skin of hands rough, cracked, tips of fingers rough, cracked, fissured, every winter; tenderness of the feet, which are bathed in foul-smelling sweat (Graph., Sanic., Sil.). Herpes: of genital organs extending to perineum and thighs; itching, redness; skin cracked, rough, bleeding; dry or moist. Heat and burning of soles of feet and palms of hands (Sang., Sulph.). Sweat and moisture of external genitals, both sexes. Painful, itching chilblains and chapped hands < in cold weather; decubitus. Sensation of coldness about the heart (Carbo an., Kali m., Nat. m.).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - One of our best antidotes for lead poisoning. The skin symptoms are worse in winter, better in summer (Alum.); if suppressed, causes diarrhoea.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - Carriage riding (Coc., Sanic.); during a thunderstorm; in winter (Alum.).",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

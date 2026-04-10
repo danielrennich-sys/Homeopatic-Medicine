@@ -1,0 +1,68 @@
+{
+  "id": "elaterium-officinarum",
+  "names": {
+    "primary": "ELATERIUM OFFICINARUM",
+    "latin": "ELATERIUM OFFICINARUM",
+    "common": [
+      "Squirting Cucumber (ELATERIUM - ECBALIUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "stomach_abdomen": [
+      {
+        "text": "Nausea and vomiting, with great weakness. Griping pains in bowels",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Watery, copious, forceful. Squirting diarrhœa; frothy, olive green, with cutting in abdomen",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Sharp pains in fingers and thumbs, knees, toes, and instep. Gouty pain in great toes. Pain extends down extremities; pain in hip-joints with diarrhœa. Arthritic nodules",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Smarts, stings, and burns. Dropsical. Urticaria from suppressed intermittent. Skin, orange color",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chill comes on with much yawning and stretching, lasting all through chill. Pain in extremities, darting into fingers and toes. Chills and fever, with spurting diarrhœa",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "from exposure on damp ground",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Third to thirtieth potency. As a hydragogue cathartic to produce free discharge in dropsies, Elaterin 1-20 of a grain. Palliative only"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ELATERIUM OFFICINARUM Squirting Cucumber (ELATERIUM - ECBALIUM) This is an invaluable remedy in violent vomiting and purging, especially if the evacuations are copious and watery. It is a very efficient remedy in certain forms of dropsy. Much yawning and stretching. Beriberi; choleraic conditions; urticaria and mental disorders coming on as a consequence of suppressed malaria. Irresistible desire to wander from home at night. Effects of damp weather.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

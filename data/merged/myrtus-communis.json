@@ -1,0 +1,107 @@
+{
+  "id": "myrtus-communis",
+  "names": {
+    "primary": "MYRTUS COMMUNIS",
+    "latin": "MYRTUS COMMUNIS",
+    "common": [
+      "Myrtle"
+    ],
+    "synonyms": [
+      "Myrtus Communis"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "chest_heart": [
+      {
+        "text": "Stitching pain in left breast, running through to shoulder-blade (Illic; Therid; Pix). Dry, hollow cough, with tickling in chest. Worse in the morning. Sensation of burning in left chest",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pain in chest; acute; pressing; cough with tightness. Pain in upper part of l. chest through to shoulder, taking a deep breath and making a strong motion. Stitching in l. apex straight through to scapula, breathing, yawning, coughing. Burning in l. chest with throbbing, aching, tickling. Hepatisation of l. lung. Hæmoptysis. Phthisis, esp. from maltreated syphilis.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pain in chest ; cough, with tightness on breast. Acute pain in chest ; pressing pain in chest. Pain in upper part of left chest through to shoulder, < taking a deep breath and making a strong motion. Stitching pain in left chest ; from upper portion straight through to left shoulder blade, < from breathing, yawning and coughing. θ Tuberculosis. Burning pain in left chest, with throbbing, aching, tickling. Throbbing ache and stitching pain in left infraclavicular region, extending thence through to left shoulder blade, < on deep inspiration ; sensation of burning in left breast. θ Tuberculosis. Hæmoptysis in tuberculous subjects ; acute pains in superior portions of left chest, radiating backwards to point of scapula of sound side. Hepatization of left lung. Useful in phthisis, particularly if caused by maltreated syphilis.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "dosing": {
+      "notes": "Third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">MYRTUS COMMUNIS Myrtle The leaves contain Myrtol, an active antiseptic. Chest pains, as found often in consumptives, call for this remedy. Incipient phthisis. Nerve sedative and stimulant to mucous membranes, bronchitis, cystitis and pyelitis.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Myrt. com. is an unproved remedy, the symptoms of the Schema being entirely clinical. Hering gives an account of it. It has a very powerful action on the left lung, especially the upper part. It is to the upper left lung what Oxal. ac. is to the lower. This is the keynote: Pain in upper left lung going right through from the front to the left scapula. Cases of phthisis, hæmoptysis, hepatisation, lung syphilis having this symptom present have been cured with Myrt. The pain is mostly stitching, but may be throbbing, aching, or burning. It is in morning, > evening, by breathing, yawning, coughing. The cough is dry, hollow; excited by a tickling in upper anterior lobes. Hering has cured catarrhal fever with tickling cough morning and > evening; with great lassitude in afternoon. This last symptom is important. So is evening > of cough and of tickling in lungs. From change of atmosphere. Every atmospheric change = cough, coryza, and catarrhal fever.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Catarrhal fevers; Chest, stitches in; Coryza; Cough; Tuberculosis",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Dry, hollow cough, from tickling in upper anterior lobes of lungs; morning; > evening; great lassitude in afternoon. Cough, coryza, and catarrhal fever setting in with every atmospheric change.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Left : stitching pain in chest through to shoulder blade ; burning pain in chest ; pain in infraclavicular region ; burning in breast, acute pains in superior portion of chest ; hepatization of lung. Pain : in throat and chest ; in elbow and knee joint ; in upper part of left chest to shoulder. Acute pain : in chest ; in superior portion of left chest. Stitching pain : in left chest ; in left infraclavicular region. Pressing pain : in chest. Burning pain : in left chest. Tickling : in upper anterior lobes of lungs ; in chest. Dryness : in throat. Tightness : on breast. Young man, tuberculous ; coryza, cough, etc. A nun who had been homeopathically cured of phthisis brought on by long continued use of Quinine for ague, from which she had suffered for five years ; pain in left chest.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Pains through left chest to scapula, Therid., Illic., Pix., Sul. (Pain through lower lobe of left lung, Oxal. ac.) Compare also: Phos., Bry.",
+        "Compare : Bryon., Phosphor., Pix, Therid. and Sulphur in stitches through upper left chest",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "nose": [
+      {
+        "text": "Coryza with cough.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Dryness in throat; pains in throat and chest, with expectoration of blood.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Dryness in throat ; pains in throat and chest, with expectoration of blood.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Catarrhal fevers with pain in elbow and knee-joints, with dry, hollow cough, caused by tickling in upper and front part of lungs, esp. in morning, > evening, accompanied by lassitude in afternoon. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Dry, hollow cough, from tickling in upper anterior lobes of lungs ; < in morning, > in evening ; great lassitude in afternoon. Cough with tickling in chest. Cough, coryza and catarrhal fever, setting in with every atmospheric change. Catarrhal fevers, with pain in elbow and knee joints, with dry, hollow cough, caused by a tickling in upper and front part of lungs, especially in morning, > in evening, accompanied by lassitude in afternoon.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "Morning : cough < ; tickling in upper part of lung. Afternoon : great lassitude. Evening : cough > ; tickling in lung >. Every atmospheric change ; cough, coryza and catarrhal fevers.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "hering-guiding-1879"
+    ]
+  }
+}

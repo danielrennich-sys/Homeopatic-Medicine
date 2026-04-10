@@ -1,0 +1,110 @@
+{
+  "id": "benzinum",
+  "names": {
+    "primary": "Benzinum",
+    "latin": "Benzinum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T BENZINUM. A product of distillation from Petroleum. Formula , C 6 H 6 . Preparation , Tincture with alcohol. Authority. Dr. J. Heber Smith, N. E. Med. Gaz., 1870 (Symptoms from a workman in a rubber factory, who for weeks had his hands and arms daily bathed in benzine, and drank water impregnated with it.) MIND. ► Weeping at trifles, and despairing of recovery. ► Extremely irritable and faultfinding. HEAD. ► Severe darting pains in occiput, from below upward, recurring in paroxysms, aggravated by motion, and especially by rising after sitting. EYES. ► Could not turn eyes upward or to one side without severe aching and throbbing. ► Conjunctiva appeared somewhat congested. ► A great white hand seemed to appear to him, in the darkness, coming outspread toward his face, causing him in terror to scream for the watcher. FACE. ► Occasional sudden puffing up of the left cheek and of the calf of the left leg, as though the parts were filled with air, going off in a few hours, and returning again. MOUTH. ► Teeth covered with sordes (during typhoid condition). ► Soreness, and sensation of looseness in the upper incisors. [10.] ► Tongue parched and brown (during typhoid condition). ► Painful, round, white ulcers in the mouth, especially on the inside of the cheeks. ► Hot and very offensive breath. STOMACH. ► Entire loss of appetite. ► Craving for lemons and cider. ► Terrible thirst (during typhoid condition). ► Extreme thirst for ice-water, satisfied with a sip, but wanting it again directly. ABDOMEN. ► Continual soreness to pressure in the abdominal walls. ► Heat, and grinding, wearing pains in the lower part of the bowels, worse just before stools. STOOL AND ANUS. ► Several times an hour, a stool, smelling of benzine, of lead-colored mucus mixed with bright blood, accompanied by some tenesmus, and followed by throbbing in the anus and rectum, and lancinating pains from below upwards, continuing about five minutes. These stools followed him with diminishing severity about ten days, preserving their characteristics to the last. URINARY ORGANS. [20.] ► Pressing pain in the bladder. ► After passing urine, throbbing and smarting in the neck of the bladder and in the urethra for several minutes. ► Dark, offensive urine. ► Sediment in the urine like red sand. RESPIRATORY APPARATUS, CHEST, AND PULSE. ► Every few days, continual dry, hacking cough. ► Continual soreness and aching in the clavicular regions. ► Pulse wiry, averaging 96 per minute. BACK AND EXTREMITIES. ► Continual aching and throbbing in the lumbar region, made worse by a full inspiration. ► Extreme irritation of the kidneys. ► Continual soreness and aching in the muscles of the upper arms. GENERALITIES. [30.] ► Wasted, pallid, and exhausted. ► General prostration. ► At one time he sank very low, approaching a typhoid condition. ► Complained of a sensation of falling through the bed and floor (during typhoid condition). SLEEP AND DREAMS. ► For three nights, before the sweating began, complete insomnia, with unpleasant thoughts crowding the mind, and wide-open eyes, before which photopsic illusions floated continually. FEVER. ► Chills seized remote parts and passed toward the head, from the thumbs to the elbows and from them to the shoulders, and from the small of the back to the shoulders and vertex. ► Cold compresses came off steaming in a few minutes, smelling of benzine, and stained a deep yellow, which could only be removed by long exposure to the sun. ► For seven nights, copious general, warm sweat, toward morning, very exhausting, followed on several succeeding mornings by perspiration only on the breast, on the side not lain upon, and in the axillæ. CONDITIONS. ► Aggravation. ► ( Toward morning ), Sweat. ► ( Full inspiration ), Aching, etc., in lumbar region. ► ( Motion ), Pins in occiput. ► ( Rising after sitting ), Pains in occiput. ► ( Before stool ), Heat, etc., in lower bowels. ► ( Turning eyes upward or to one side ), Aching, etc., in eyes. ► ( After urinating ), Throbbing etc., in neck of bladder. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Dysentery; Fever; Headache; Insomnia; Sweat; Typhoid fever; Vision, disorders of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Every few days continual, dry, hacking cough. Continual soreness and aching in clavicular region. Continual soreness and aching in muscles of upper arm. Wasted, pallid, exhausted; general prostration. At one time he sank very low, approaching a typhoid condition. Complained of sensation of falling through bed and floor.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Our knowledge of this medicine is derived from observations on a worker in a rubber factory, who for weeks had his hands and arms daily bathed in benzine, and drank water impregnated with it. It caused profound disturbance of mind and body; weeping at trifles; irritability; pain darting upwards in occiput. Could not turn eyes upward without severe aching and throbbing. A sort of clairvoyant state, in which a great white hand appeared to him in the darkness, coming outspread towards his face, causing him in terror to scream for the watcher. A sense of falling through the bed and floor. Insomnia and photopsic illusions. Pains travel from below upward (headache, pain in anus); also chills.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Bry. ( motion; moving eyes); Benz. nit.; Benz. dinit. (amblyopia and disorders of vision). Sul. (symptoms go from below upward)."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Weeping at trifles and despairing of recovery. Extremely irritable and fault-finding.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Severe darting pains in occiput, from below upward, recurring in paroxysms, by motion, and esp. by rising after sitting.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Could not turn eyes upward, or to one side without severe aching and throbbing. A great white hand seemed to appear to him in the darkness, coming outspread towards his face, causing him in terror to scream for the watcher. Photopsic illusions with wide-open eyes.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Occasional sudden puffing up of l. cheek and calf of l. leg, as though filled with air, going off in a few hours and returning again.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Teeth covered with sordes. Soreness and sensation of looseness in upper incisors. Tongue parched and brown. Painful round white ulcers in the mouth, esp. on inside of cheeks. Hot and very offensive breath.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Appetite lost. Craving for lemons and cider. Extreme thirst; for ice-water, satisfied with a sip, but wanting it again directly. Continual soreness to pressure in abdominal walls. Heat and grinding wearing pains in lower part of bowels, just before stool.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Several times an hour, a stool, smelling of benzine, of lead-coloured mucus, mixed with bright blood, accompanied with some tenesmus, and followed by throbbing in anus and rectum and lancinating pains from below upward, continuing about five minutes.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Pressing pain in bladder, after passing urine, throbbing and smarting in neck of bladder and urethra for several minutes. Urine: dark, offensive; sediment like red sand.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Continual aching and throbbing in lumbar region, by a full inspiration. Extreme irritation of the kidneys.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "For three nights, before the sweating began, complete insomnia, with unpleasant thoughts crowding the mind, and wide-open eyes, before which photopsic illusions floated continually.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chills seized remote parts and passed toward the head, from the thumbs to the elbows, and thence to shoulders; from small of back to shoulders and vertex. Cold compresses came off steaming in a few minutes, smelling of benzine and stained a deep yellow, which could only be removed by long exposure to the sun. For several nights copious, general, warm sweat toward morning, very exhausting, followed on several succeeding mornings by sweat only on breast, on side not lain upon, and in axillæ. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

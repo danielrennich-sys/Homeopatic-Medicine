@@ -1,0 +1,42 @@
+{
+  "id": "amaranthus",
+  "names": {
+    "primary": "Amaranthus",
+    "latin": "Amaranthus",
+    "common": [
+      "Amaranth"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "The leaves of the Amaranthus hypochondriacus, Linné.Nat. Ord.—Amaranthaceae.COMMON NAMES: Amaranth, Prince's feather, Lovely bleeding, Red cockscomb.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source and History.—An annual herb, with a stout, upright stem, growing from 3 to 4 feet high, bearing oblong, lanceolate, mucronate, green leaves, having either a red-purple spot, or tinged with purple. The flowers, which are bright-red, are compactly clustered on erect, compound racemes. The whole plant is dark-red, or reddish-purple, with long, plume-like clusters. This plant is a native of the Middle States, and is cultivated as an ornamental plant in gardens. It bears deep, bright-red flowers in August. The leaves, which are the parts used, are also red, and yield their virtues to water.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action and Medical Uses.—Amaranth is astringent. The decoction drunk freely is highly recommended in severe menorrhagia, and has also been found beneficial in diarrhoea, dysentery, and hemorrhage from the bowels. It has likewise been used as a local application in ulceration of the mouth and throat, in leucorrhoea, and as a wash to foul, indolent ulcers. It is scarcely used at the present day.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Species.—Amaranthus melancholicus ruber contains 16 and Amaranthus atropurpureus nearly 23 per cent of potassium nitrate (Boutin). Amaranthus caudatus contains oxalic acid.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "kings-american-1898"
+    ]
+  }
+}

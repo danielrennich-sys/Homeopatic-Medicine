@@ -1,0 +1,41 @@
+{
+  "id": "hawthorn",
+  "names": {
+    "primary": "Hawthorn",
+    "latin": "Hawthorn",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Hawthorn is a flowering shrub or tree of the rose family. It grows in temperate regions throughout the world. Hawthorn was traditionally used for heart disease, digestion, blood circulation, and kidney and bladder problems. It was also traditionally used for topical (on the skin) purposes, such as for sores, itching, and frostbite. Today, hawthorn is promoted for the heart and blood vessels, weight loss, and for conditions like anxiety.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "We have little or no quality evidence on hawthorn for most health conditions. Hawthorn has been studied for heart failure in people. Heart failure is a condition in which the heart can’t pump as much blood as it should. The U.S. Food and Drug Administration (FDA) has warned the public about several hawthorn root dietary supplements labeled “tejocote root” (Mexican hawthorn, C. mexicana) because the products actually contain yellow oleander, a toxic plant.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "There is conflicting evidence on the effects of hawthorn in people with heart failure. There isn’t enough evidence to know whether hawthorn affects heart disease, angina (chest pain or discomfort from a lack of blood flow to the heart), abnormal heartbeat, or the buildup of plaque in arteries. There isn’t any evidence to suggest that hawthorn affects weight loss. It’s unclear whether hawthorn affects anxiety.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "In January 2024, the FDA published a list of products, including dietary supplements labeled “tejocote root” (C. mexicana), that actually contain yellow oleander, a toxic plant known to cause harm to the nervous system, heart, stomach, and intestines. The FDA warned that these products may cause severe harm or even be fatal. Before the FDA published its warning, some people were consuming these products for weight loss. One study indicated that a specific preparation of hawthorn (C. oxycantha) may have caused early risk of heart failure progression in patients. It’s unclear why, but one possibility is that hawthorn might have interacted with drugs the patients were taking. Some hawthorn supplements might be safe in the short term. No research studies have tested whether it is safe to use hawthorn for more than 16 weeks. Side effects of hawthorn can include dizziness, nausea, vomiting, diarrhea, and muscle pain. Little is known about whether it’s safe to use hawthorn during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

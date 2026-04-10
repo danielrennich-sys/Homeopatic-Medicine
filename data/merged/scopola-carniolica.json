@@ -1,0 +1,50 @@
+{
+  "id": "scopola-carniolica",
+  "names": {
+    "primary": "Scopola carniolica (JACQ.)",
+    "latin": "Scopola carniolica (JACQ.)",
+    "common": [
+      "Scopolia"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Bavaria, Austro-Hungary, South-western Russia.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The genus Scopola is a connecting link between Atropa and Hyoscyamus , its leaf, flower and rhizome resembling the former, and the fruit the latter. The Japanese Scopola japonica is so closely allied that it is doubtful if it can be regarded as a distinct species. S. Carniolica grows in damp, stony places in hilly districts and resembles belladonna both in appearance and characteristics. It only grows to the height of 1 foot, and has thin leaves, its fruit being a transversely dehiscent capsule. The rhizome is horizontal, curved, almost cylindrical, and somewhat flattened vertically. It is usually found in pieces from 2 1/2 to 7 1/2 cm. long and 0.8 to 1.6 cm. broad, often split before drying. The upper surface is marked with closely-set, large, cup-shaped stem-scars, and the colour varies from yellowish-brown to dark, brownish-grey; the fracture is short and sharp, showing a yellowish-white bark, its corky layer dark brown, or pale brown, the central pith being rather horny. It has scarcely any odour, and the taste is sweetish at first, but afterwards bitter and strongly acrid. The Japanese rhizome is larger, with circular scars, not whitish when broken, and having a slightly mousy, narcotic odour, and practically no bitterness in taste. The bark of S. Carniolica is less thick than in belladonna and the starch grains smaller. Scopolia is but little used in Britain, but has been used in America for many years in the manufacture of belladonna plasters. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The alkaloidal constituents are similar to those of Belladonna Root, hyoscine (scopolamine), however, predominating. Inactive scopolamine, also known as atroscine, is present, melting at 82 degrees C. (179.6 degrees F.) and yielding by hydrolysis tropic acid and scopoline. The result of an assay of many tons of the root of Atropa Belladonna and of the rhizome of Scopolia, each of the best qualities to be found in the American market, showed that while belladonna yielded on an average 0.50 per cent of alkaloid, Scopolia yielded 0.58 per cent. The root of S. Carniolica is official in the United States Pharmacopaeia for the production of an extract and fluid extract. It should contain not less than 0.5 per cent of alkaloids. Scopolamine hydrobromide is recognized in the United States Pharmacopoeia. Scopolamine or hyoscine must be preserved in well-closed containers, protected from light. When pure, it forms a syrupy liquid. Great care must be used in tasting it, and then only in dilute solutions. When dried at 100 degrees C. (212 degrees F.) it loses about 12 per cent of its weight. It is the same substance as Hyoscinae Hydrobromicum. Atroscine is an optically inert isomer of scopolamin and Euscopol is an optically inactive scopolaminum hydrobromicum.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Narcotic and mydriatic. The medicinal properties are very like those of belladonna, but the crude drug has been scarcely used at all in internal medicine. Much of the hyoscine of commerce has been obtained from it during the last decade. Many of the older investigations into the effects of scopolamine are contradictory because of the failure to realize the quantitative difference between racemic and laevoscopolamine . The former, sometimes called atrocine, is very much less powerful in its effects upon the autonomic nerves, though its action upon the central nervous system is about equal. Its most important use is as a cerebral sedative, especially in manias, hysteria, and drug habits, while in insomnias and epilepsy it increases the effects of other drugs, such as morphine and bromides. It is also useful to allay sexual excitement. In 1900 the use of a combination of morphine and scopolamine was introduced as a means of producing anaesthesia, under the name of 'Twilight Sleep,' either alone or as a preliminary to chloroform or ether, as its peculiar effect in large doses is to cause loss of memory, including that of pain. However, the anaesthesia has often been found to be unsatisfactory, while the mortality has been high. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Powdered extract, U.S.P., 1 to 5 grains. Of the drug, 1 to 2 grains. Of the fluid extract, U.S.P., 1 to 5 minims. Extract of Scopolia, 1/8 to 1/4 grain. (Prepared by evaporating the fluid extract and assaying it so that it contains 2 per cent of mydriatic alkaloids.) Of Scopolamine, 1/200 to 1/80 grain. ---Poisonous, if Any, with Antidotes--- Many persons being very susceptible to the influence of the drug, the above doses of scopolamine may produce toxic symptoms, which are alarming, though the poisoning, rarely ends fatally. Sometimes there is disorientation, sometimes active delirium as in atropine poisoning. There may or may not be somnolence. The pupils may be dilated, the pulse rate accelerated and there is dryness of the mouth with a peculiar husky character of voice that appears to be due to laryngeal paralysis. If there should be serious difficulty in breathing, strychnine may be used. It is better not to give drugs for the relief of the delirium, but if very active, small doses of paraldehyde and bromides may be employed. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

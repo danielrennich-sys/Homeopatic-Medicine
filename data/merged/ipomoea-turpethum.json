@@ -1,0 +1,50 @@
+{
+  "id": "ipomoea-turpethum",
+  "names": {
+    "primary": "Ipomoea turpethum",
+    "latin": "Ipomoea turpethum",
+    "common": [
+      "Turpeth"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "India. Ceylon, Pacific Islands, China, Australia.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "There are two varieties of this convolvulaceous plant, the Sveta, or White Turpeth, preferred as a mild cathartic, and the black or Kirshna, a powerful drastic. The pieces of root are cylindrical, somewhat twisted, and dull grey outside. The drug has a faint odour, and the taste becomes nauseous after it has been in the mouth for some time, though less so than the true jalap. The genus Ipomoea are closely related to the Batatas .",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Resin, a fatty substance, volatile oil, albumen, starch, a yellow colouring matter, lignin, salts, and ferric oxide. The root contains 10 per cent of resin, which is a glucoside, Turpethin, insoluble in ether, but soluble in alcohol, to which it gives a brown colour not removable by animal charcoal. To obtain pure, the alcoholic solution is concentrated; the resin is precipitated by, and afterwards boiled with, water, then dried, reduced to powder, digested with ether, and finally redissolved by absolute alcohol and deposited by ether. After being treated several times in this way, it is obtained in the state of a brownish resin, yielding on pulverization a grey powder, which irritates the mucous membrane of the nostrils and mouth. It is inflammable, burning with a smoky flame and emitting irritant vapours. With strong bases it acts like jalapin, takes up water, and is transferred into a soluble acid, while with dilute acids it is decomposed into turpetholic acid, and glucose.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Cathartic and purgative. It is rather slow in its action, less powerful and less unpleasant than jalap.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "5 to 20 grains. See: Bindweeds Bindweed, Greater Bindweed, Jalap Bindweed, Sea Bindweed, Syrian Convolvulus [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

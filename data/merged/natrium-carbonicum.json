@@ -1,0 +1,114 @@
+{
+  "id": "natrium-carbonicum",
+  "names": {
+    "primary": "NATRIUM CARBONICUM",
+    "latin": "NATRIUM CARBONICUM",
+    "common": [
+      "Carbonate of Sodium (NATRUM CARBONICUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Unable to think; difficult, slow comprehension. Mental weakness and depression; worries; very sensitive to noise; colds, change of weather. Anxious and restless during thunderstorm; worse from music (Ambra). Marked gayety. Sensitive to presence of certain individuals",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Aches from slightest mental exertion, worse from sun or working under gas-light (Glon) Feels too large. Oversensitive of hearing. Head aches with return of hot weather. Vertigo from exposure to sun",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "All troubles of external nose which may attain a morbid size-pimples and puffiness. Constant coryza; obstruction of nose. Catarrh; bad smell of nasal secretion. Many troubles of external nose (Caust). Posterior nasal catarrh. Hawking much mucus from throat; worse, slightest draught",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "Freckles, yellow spots, pimples. Swelling of upper lip. Pale, with blue rings around eyes and swollen lids",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Feels swollen and sensitive. Ill effects of drinking cold water when overheated. Water-brash. Hungry at 5 am. Very weak digestion, caused by slightest error of diet. Averse to milk. Depressed after eating. Bitter taste. Old dyspeptics, always belching, have sour stomach and rheumatism. Dyspepsia relieved by soda biscuits",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Bowels] Sudden call to stool. Escapes with haste and noise. Yellow substance like pulp of orange in discharge. Diarrhœa from milk",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Induration of cervix. Pudenda sore. Bearing-down sensation (Sep; Murex). Heaviness; worse, sitting; better by moving. Menses late, scanty like meat-washings (Nitric ac). Leucorrhœal discharge, offensive, irritating preceded by colic",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Dry cough, when coming into warm room from out of doors. Cough with coldness of left side of breast",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Wakes too early in morning. Amorous dreams. Drowsy during day",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Old sprains. Great weakness of limbs, especially in morning. Easy dislocation and spraining of ankles. Foot bends under (Caust). Soreness between toes and fingers. Heel and tendo-Achilles affected. Capped hands. The hollow of the knee is painful on motion. Icy cold up to knees",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Inclination to perspire easily, or dry, rough, cracked skin. Eruption on finger-tips, knuckles and toes. Vesicular eruption in patches and circles. Veins full. Soles of feet raw and sore",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "by moving, by boring in ears and nose",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "sitting, from music, summer heat, mental exertion, thunderstorm. Least draught, changes of weather, sun",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "antidoted_by": [
+        "Ars"
+      ]
+    },
+    "dosing": {
+      "notes": "Sixth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">NATRIUM CARBONICUM Carbonate of Sodium (NATRUM CARBONICUM) All the Natrums stimulate cellular activity and increase oxidation and metabolish. Great debility caused by summer heat; chronic effects of sunstroke; exhaustion; anæmic; milky, watery skin; very weak ankles, are all peculiar Natrum carbonicum conditions.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

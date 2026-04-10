@@ -1,0 +1,68 @@
+{
+  "id": "carya-alba",
+  "names": {
+    "primary": "Carya Alba",
+    "latin": "Carya Alba",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T CARYA ALBA. Carya alba, Nutt. Nat. order , Juglandaceæ. Common name , Shellbark or Shagbark hickory. Authority. Dr. Forsyth, Med. Repos., 11 (N. Am. J. of Hom., 2, 473), effects of eating the nuts (the exclusive diet, for three or four weeks, of a girl 7 years old). FACE. ► Appearance clay-colored. ► Face swollen. MOUTH. ► Gums swelled, began to bleed and turn black, and she could not move her lips without occasioning a profuse discharge from them. STOMACH. ► Appetite for animal food bad. ► Appetite gone (after seventeen days). ABDOMEN. ► Abdomen much swelled (after seventeen days). STOOL. ► Discharge of black-colored blood by stool (after seventeen days). RESPIRATORY ORGANS. ► Breathing short. ► Respiration difficult. HEART AND PULSE. [10.] ► Pulse small and quick. ► Pulse weak and irregular. EXTREMITIES IN GENERAL. ► Extremities swollen. GENERAL SYMPTOMS. ► On the least excoriation of the skin, the blood would gush out, of a very dark color. ► Blood gushed from gums, nostrils, ears, and several other parts (after seventeen days). ► Want of strength. SKIN. ► Whole body, including face, covered with livid spots, from size of one inch in diameter to that of a pin's head; the largest resembled a bruise, the smaller were sometimes red, resembling flea-bites. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Purpura; Scurvy",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Breath short, difficult; pulse quick. Extremely swollen. Whole body, including face, covered with livid spots from one inch in diameter to size of pin's head; largest like a bruise, smaller sometimes red like flea-bites. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Like Juglans Regia and Juglans Cinerea, Carya alba appears to possess antiscorbutic properties. An exclusive diet of the nuts for three or four weeks, in a girl seven years old, produced pronounced symptoms of scurvy; hæmorrhages from all surfaces; on the least excoriation of skin very dark blood gushed out. Blood gushed from gums, nose, ears, and other parts.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Arn., Carbo v., Pho., Merc., Ham., Bry., Rhus., Citrus lim., and Juglandaceæ."
+      ]
+    },
+    "face": [
+      {
+        "text": "Face clay-coloured; swollen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Gums swelled, began to bleed and turn black; could not move lips without causing profuse discharge.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Swollen abdomen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Discharge of black blood by stool.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

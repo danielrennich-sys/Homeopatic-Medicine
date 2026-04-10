@@ -1,0 +1,326 @@
+{
+  "id": "berberis-aquifolium",
+  "names": {
+    "primary": "BERBERIS AQUIFOLIUM",
+    "latin": "BERBERIS AQUIFOLIUM",
+    "common": [
+      "Mountain Grape (BERBERIS AQUIFOLIUM - MAHONIA)",
+      "Grape, Mountain",
+      "Oregon Grape"
+    ],
+    "synonyms": [
+      "Berberis Aquifolium",
+      "Berberis (Mahonia) Aquifolium",
+      "Berberis aquifolium (PURSH.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "head": [
+      {
+        "text": "Sensation of a band just above ears. Bilious headache. \"Scald head\". Scaly eczema",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Dizzy sensation sleeping or moving. Pain r. side pressing like a weight. Pain r. temple running down into teeth; pains transitory and recurring. Pain like iron band completely surrounding head above ears, with gradually increasing compression.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Acne. Blotches and pimples. Clears the complexion",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Blotches and pimples on face. Yellow skin. Waxy, yellowish white. Flashes of heat to cheeks. Pinched expression.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Tongue thickly coated, yellowish-brown; feels blistered. Burning in stomach. Nausea and hunger after eating",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Hunger, even soon after eating, without desire for food. Sudden nausea after eating. Burning in stomach and borborygmi. Cramps, and no appetite (2nd week). Nausea and severe straining to vomit (occurred when fasting). Uneasy feeling without desire for stool. Pain in hypogastrium. Biliousness and waxy jaundiced hue. Intense burning in spleen and feeling as if pounded. Distressing soreness in spleen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Stitching, crampy pains; thick mucus, and bright-red, mealy sediment",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Urine increased or decreased in quantity.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Pimply, dry, rough, scaly. Eruption on scalp extending to face and neck. Tumor of breast, with pain. Psoriasis. Acne. Dry eczema. Pruritus. Glandular induration",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture in rather material doses"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">BERBERIS AQUIFOLIUM Mountain Grape (BERBERIS AQUIFOLIUM - MAHONIA) A remedy for the skin, chronic catarrhal affections, secondary syphilis. Hepatic torpor, lassitude and other evidences of incomplete metamorphosis; stimulates all glands and improves nutrition.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Berb. aqui. belongs to the Mahonia group of the Barberry family. It has been used by eclectics in chronic syphilis, chronic skin diseases, in scrofulous cachexia, and for removing pimples from the faces of girls. Hale reports a case of very advanced secondary syphilis cured with it, and some characteristic cases of psoriasis. In all these conditions it has been given in the Ø tincture 5 to 10 drops. J. D. W. C., in Recorder, 1896, gives personal experiences with doses of 10 to 15 drops a day. On the third day felt \"nausea and thick-headedness.\" Later there was \"straining to vomit without vomiting.\" Then a peculiar headache, strong compression, as if a band of iron two inches wide passed entirely round head just above ears. It kept growing tighter and tighter. Strong black coffee relieved this after a time, but left him tremulous in nerves and unsteady in gait. Ever after that a single drop of Berb. aq. on the tongue was sufficient to avert an attack of biliousness when threatening, and saved him much trouble of the kind to which he had formerly been liable. Berb. aq. has a reputation for making \"a new man of an old one.\" A tea made of the leaves of Berb. mahon. has a local reputation in the mountain typhoid of the Rockies, and the provings of Berb. aq. show febrile symptoms and a marked action on the spleen. A systematic proving was made under Winterburn's direction. I have verified its usefulness in secondary, syphilis.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Several varieties of the subgenus Mahonia contribute to the drug of commerce under the name of Berberis aquifolium . It is a quickly-growing shrub about 6 feet high: the oddly compound leaves have no spine at the base; they are evergreen and shining. The flowers grow in terminal racemes, are small and yellowish-green in colour, and the purple berries are three- to nine-seeded. The bark is brown on the surface and yellow beneath. The root is from 1/2 inch in diameter to 3 inches at the base of the stem, odourless, and with a bitter taste. The shrub was introduced into England from North America in 1823. It was formerly known as Mahonia aquifolia and is very hardy.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Biliousness; Bronchorrhœa; Eczema; Face, roughness of; Headache; Herpes; Leucorrhœa; Pityriasis; Psoriasis; Spleen, affections of; Stomatitis; Syphilis; Typhoid; Voice, affections of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Bilious cold: throat choked with mucus, voice rough and somewhat hoarse, expectoration yellow and then greenish. Voice seemed cut off as if a damper had closed. Lack of timbre in voice. Dry, irritative cough. Scanty, tenacious, blood-streaked expectoration. Sense of numbness and feeling as if there was no strength of will to lift the part. When perfectly still, no pain; on movement, cramp (in legs), trembling and uncertainty of motion and pain. Pain severe as after a heavy blow. Peculiar prickling as from electricity back of hand and outside forearm, momentary but frequently returning and independent of conditions. Rheumatic tension and stiffness of legs. Weak, tired feeling, better for exercise. Tremulous in nerves, unsteady in gait.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "B. nervosa and B. repens are frequently found in the drug. Purchase from Richters Oregon Grape (Mahonia aquifolia)",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Berb. v., Euonym, &c."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Unhappiness and depression; sometimes coming on suddenly. Hysterical crying at frequent intervals. Nervous, restless. Disinclined to move or do anything; dull, stupidity. Drowsy in daytime. Nausea and thick-headedness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Conjunctiva injected. Sensation of film before eyes. Eyes look hollow and weak as if tired; burning feeling and aching as from strain. Weak feeling in eyes lasting a long time.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Stuffy feeling, with discharge of greenish-yellow mucus. Itching within nose with desire to sneeze.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Bilious taste after eating. Tongue thickly coated, yellow-brown or pasty white. Tongue feels as if, or actually is blistered. Soreness in lower teeth and salivary glands. Dry throat.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Large, free, dark stools. Hot bilious diarrhœa. After looseness, light-coloured, varnished, constipated stools. Stools too large and expelled with difficulty.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Drawing and pressure in testicles.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Slight burning in vagina, bearing-down pains and aching as, if menses about to come on.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Oppression and weakness of upper part of chest. Burning heat in lower l. lung. (Accelerated pulse and heightened temperature vividly suggest phthisis pulmonalis.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Diurnal rise of temperature and pulse. Flashes of heat and burning of palms. Flashes of heat to cheeks. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Related entry: Berberis vulgaris",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The root of Berberis aquifolium, Pursh (Nat. Ord. Berberidaceae). Western United States from Colorado to the Pacific coast; cultivated also for ornament among shrubbery.Common Names: Oregon Grape, Mountain Grape.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Principal Constituents.—Berberine, the yellow alkaloid (see Hydrastis) and two white alkaloids—berbamine and oxyacanthine.Preparation.—Specific Medicine Berberis. Dose, 1 to 30 drops.Specific Indications.—Syphilitic dyscrasia; chronic skin diseases, with blood dyscrasia with or without syphilitic taint; profusely secreting tumid mucous membranes; indigestion, with hepatic torpor.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—This agent is alterative, tonic, and probably corrective to syphilitic constitutions, but without any proved specific action upon treponema. It stimulates secretion and excretion, improves digestion and assimilation; it activates the lymphatic system and ductless glands; and augments the renal secretion. It is a corrector and eliminator of depraved body fluids and assists thereby in good blood-making. In this way most likely its good effects are produced in such grave constitutional disorders as syphilis. Certainly the ravages of this disease are lessened under these circumstances and aggravated by general ill-conditions. If then syphilitic dyscrasia is benefited by this drug, and clinical results seem to show that it is, it is probably due to its general alterative effects in maintaining good elimination and good metabolic action of the organs vital to nutrition.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Like hydrastis, Berberis aquifolium is an excellent peptic bitter and tonic to the gastric function, and is, therefore, a drug of much value in atonic dyspepsia, with hepatic torpor. Upon the mucosa its effects are like those of hydrastis controlling catarrhal outpouring and erosion of tissue. For this purpose it is useful in stomatitis and gastric and intestinal catarrh. Remotely it sometimes controls leucorrhoea. If these are associated with syphilis, it helps the latter to the extent that it controls these disorders.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Berberis aquifolium has won its reputation chiefly as a remedy for the syphilitic taint. The more chronic the conditions or results of the disease, the more it has been praised. Some claim that if given early it will abort the tertiary stage, but this of course depends in most cases upon the resisting powers of the body and the care the patient takes of himself. Apparently berberis fortifies the resisting powers by its alterative and reparative action. The bone, mucosa, and cutaneous disorders following in the wake of syphilis seem to clear up under its persistent use, when given in appreciable doses. Whether it has any effect on the nervous damage from this taint is not yet apparent. It does, however, relieve the night pains and the shin pain of syphilitic periostitis. Syphilitic phagedena disappears under its use, and sometimes the anemia of syphilis yields to its nutritional improvement. It should be given freely in syphilitic leucoplakia of the tongue, mouth, and throat, where the mucosa is tumid and secreting excessively, and when emaciation and weakness with yellowish parchment-like skin are evident. At all events, though probably not a direct antisyphilitic, its general effect upon waste and nutrition is so beneficial that it should invariably be associated with other treatment in chronic syphilitic diathesis.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Other dyscrasiae seem to be influenced by this drug. It aids to some degree to mitigate the miseries of the consumptive, and in chronic skin diseases its internal use has hastened the effects from external medication. Eczema, psoriasis (temporarily at least), and herpetic eruptions have disappeared under its persistent use. The specific medicine should be given in doses of from 10 to 20 drops well diluted, every 3 or 4 hours.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Tonic and alterative, recommended in psoriasis, syphilis and impure blood-conditions. It may be used like colombo, berberis, etc., in dyspepsia and chronic mucous complaints. In constipation it is combined with Cascara Sagrada. It improves digestion and absorption.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Preparations: Fluid Extract of Berberis Aquifolium Related entries: Berberis.—Barberry - Hydrastis (U. S. P.)—Hydrastis",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The root of Berberis aquifolium, Pursh (Mahonia aquifolium, Paxton). Nat. Ord.—Berberidaceae. COMMON NAMES: Mountain grape, Oregon grape. ILLUSTRATIONS: Pursh, Vol. I, Plate iv; Botanical Register, 1425.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—Berberis aquifolium is a shrub having stems about 6 feet high, erect, and of rapid growth. The leaves are alternate and consist of 3 or 4 pairs of leaflets, and an odd one. They are evergreen, coriaceous, bright and shining upon the upper surface, and very ornamental; hence, the shrub is frequent in cultivation, often under the improper name \"holly.\" The leaflets are smooth, ovate, from 2 to 3 inches long, and one-half as wide. They are acute, sessile, pinnately veined, and the margin is indented with from 15 to 30 repand spiny teeth. The lower pair of leaflets is from 1 to 2 inches distant from the base of the common petiole. The flowers are numerous, small, yellowish-green, and appear in early spring, borne in fascicled, terminal racemes. The calyx has 9 distinct sepals, colored like the petals and disposed in 2 rows, the outer of which consists. of 3 sepals (bracts?). The petals are 6, distinct, orbicular, and in rows of 3 each. The stamens are also 6, and opposite the petals; they have irritable filaments, and extrorse anthers, opening, each by 2 little valves, hinged at the top. The fruit, which is known as \"Oregon grape,\" is a cluster of purple berries, each containing an agreeably acid pulp, and from 3 to 9 seeds.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History.—This is a tall shrub, native of the western section of the United States. It grows from Colorado to the Pacific Ocean, and is especially abundant in Oregon and the northern part of California. Berberis aquifolium belongs to the section Mahonia of the genus Berberis, which section is considered by some botanists a distinct genus, The following synopsis of the difference between the two sub-genera is taken from \"Berberidaceae \" (a pamphlet by C. G. and J. U. Lloyd, 1878):",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"The Berberis proper has simple leaves clustering in the axis of a simple or 3-parted spine. The petals have two glands on the inside of each, at the base. The filaments have no teeth. Berries 2 to 3-seeded.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"Mahonia has oddly, pinnately, compound leaves, with no spine at the base, but with spiny-toothed leaflets. The petals are glandless. The stamens have a tooth on each side of the filament, near the top. Berries 3 to 9-seeded.\"",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The section \"Mahonia\" is represented in the western United States by six species, viz.: Berberis pinnata, Lag., a tall shrub with the general appearance of B. aquifolium, distinguished from it by the leaflets, which are glaucous underneath, and the lower pair approximate to the base of the petiole; Berberis repens, Lind., a small creeping plant, with leaves often ternate, and leaflets nearly orbicular, and which has been much confounded, and frequently described as Berberis aquifolium. Berberis nervosa, Pursh, a small erect shrub, with leaves often longer than the stem—it appears to be more generally distributed than the other species. The chief characteristics of this species are, the leaflets are three-veined from an oblique base, the common petiole is jointed \"like a bamboo stem,\" and the flowers are in slender racemes. The two other species, B. Fendleri and B. Fremonti, are of rare occurrence.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Berberis aquifolium and the other species long in use in domestic practice throughout the West, were brought into general notice a few years since by Parke, Davis & Co., of Detroit, who gave the remedy great conspicuity. Dr. Bundy, of Colusa, Cal., wrote many papers on its therapy; these were published in their journal, \"New Preparations.\" From an examination of the drug, as thrown upon the market, we find the species are confounded, several of them being generally sold as B. aquifolium. The B. nervosa is more commonly met within these sophistications, but we have likewise noticed B. repens in considerable amount. The confusion is, perhaps, unimportant from a therapeutical point, as all the Mahonias are bitter, and seem to contain berberine in nearly the same proportion (see Related Species).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Description.—The root of Berberis aquifolium is from ½ to 1 inch in diameter, often increasing to 2 and 3 inches at the base of the stem. It is woody, yellow throughout, very hard. The bark is deep-yellow beneath and brown upon the surface. It is without odor and very bitter. The roots of the other species of Mahonia are smaller; the B. pinnata more nearly approaching the B. aquifolium in size; the B. repens is the smallest of any of the known species.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chemical Composition.—Berberis aquifolium contains berberine, a yellow alkaloid (see Hydrastis), berbamine, and oxyacanthine, both white alkaloids, and phytosterin, gum, and sugar. The flowers contain, in addition to the above alkaloids, volatile oil, and the berries contain malic acid.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The presence of berberine renders both root and bark bitter. The white alkaloid, oxyacanthine (C19H21NO3, Rüdel), which forms soluble salts with most acids, is itself practically insoluble in water, soluble in hot alcohol and hot ether, and slightly so in cold alcohol and cold ether. It dissolves freely in fats and volatile oils, and in chloroform and benzol. It is alkaline, bitter, and in the presence of sunlight changes color, becoming yellowish. Iodic acid is reduced by it with the liberation of free iodine. With nitric acid a yellow color is produced, which, when heated, changes to purple. Cold sulphuric acid turns it brownish-red; on heating it changes to a vivid red, and finally a brown, color. With ferric chloride, in dilute solution of potassium ferricyanide, a blue color is produced with salts of oxyacanthine. Other names have been given this alkaloid to avoid confounding it with products of a species of thorn-apple, the Crataegus Oxyacantha. Thus vinetine was applied to it by Wacker, while Berzelius christened it berbine. Berbamine (C18H19NO3) is a white alkaloid the salts of which dissolve slightly in solutions of Chili saltpetre (nitrate of sodium). These salts strike a blue color with ferric chloride in a weak solution of ferricyanide of potassium. Phytosterin (C26H44O.H2O) is a neutral body (found also in Calabar bean, Physostigma venenosum, Balfour), differing from cholesterin, which it closely resembles, by its solution in chloroform not having any affect on polarized light.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—This agent has justly been extolled as an alterative and tonic, and has been recommended in syphilitic affections, salt-rheum, pityriasis, psoriasis, and other cutaneous affections, as well as in maladies supposed to be due to some mal-condition of the blood. Excretion and secretion are promoted by it; digestion and assimilation improved; the lymphatic glandular system and the ductless glands are stimulated; and the renal secretions somewhat augmented. Thus it acts as a blood-maker, and is therefore a remedy to oppose depraved conditions of the body-fluids. As a tonic, it may be employed as a synonym of hydrastis, colombo, berberis, etc., possessing in addition its own peculiar virtues, in dyspeptic conditions, chronic mucous maladies, and in certain enfeebled conditions of the system, etc. Owing to its invigorating power over the gastric functions, it is a valuable remedy for atonic dyspepsia, and more particularly if associated with hepatic torpor, for which it is also an excellent remedy. A cirrhotic liver, associated with gastro-enteritis, has been benefited by it, and for chronic constipation it is a useful agent when combined with cascara sagrada. It is said to be effectual in stomatitis.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The great field for berberis aquifolium is in constitutional syphilis and its manifold complications and sequelae. The disorders named above are more amenable to this drug when associated with a syphilitic taint than otherwise. If given early enough it will prevent tertiary phases, provided the patient has not been too thoroughly mercurialized. Its use must be prolonged in appreciable doses. It is especially adapted to long-standing cases of syphilis, the older the better, according to some of its advocates, and yet it is a remedy of much value all through the course of the disease. It is the remedy for that broken-down state so frequently following in the wake of that malady. The various eruptions give way to it, the gastric complications are subdued, and the mucous membranes are toned so that excessive secretions are restrained. Ɣ The bone and periosteal, as well as the muscular, pains of syphilitics, are amenable to berberis. Its action is slow but sure, as it is also in severe muscular pains, with partial paralysis, due to spinal disease. Long standing syphilitic phagadenae and herpetic and eczematous states, yield to it better than to most agents. It should not be forgotten in syphilitic anemia. Several stubborn cases of psoriasis (Ed. E. M. J., p. 148, 1896) have been cured by it, and it is a valuable drug in erysipelatous and chronic scrofulous affections. While it has failed to cure carcinoma, as its introducer, Dr. J. H. Bundy, believed it would, it has, however, shown itself of value in the dyscrasiae due to a cancerous cachexia.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Berberis aquifolium commends itself for study in certain pulmonic troubles, on account of its excellent results in controlling secretions of the mucous tract. Cases of purulent bronchorrhoea, pronounced incurable, have been cured by it, and Prof. Webster asserts that he has seen cases of phthisis recover, even where there were extensive cavities, under the use of this agent. The appetite improved, hectic subsided, expectoration became lessened, the cough milder and less frequent, and flesh and strength were augmented. The remedy should be long continued. Berberis is of some value in leucorrhoea, and particularly when a syphilitic taint exists. Owing to its remarkable power over mucous structures we would suggest its employment in gastric and intestinal catarrh. The principal uses of this drug have been developed by Dr. J. H. Bundy and Prof. Herbert T. Webster. The dose of berberis aquifolium should be relatively large. Small doses, as required of most of our important agents, do but little good.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The dose of the fluid extract is from 10 to 20 drops every 3 or 4 hours; of specific berberis aquifolium 5, 10 or 15 drops, every 3 or 4 hours.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Specific Indications and Uses.—Syphilitic dyscrasiae, constitutional syphilis, with periosteal or muscular pains; chronic skin affections, with blood dyscrasiae; profusely secreting, tumid mucous tissues; indigestion, with hepatic torpor; yellow skin, with marked weakness and emaciation.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Species.—\"MAHONIA, the sub-genus of the genus berberis, is a fine, showy family of evergreen shrubs. The distinction between this sub-genus and the berberis proper, although very obvious, is not considered sufficient by authorities to entitle it to the rank of a distinct genus, hence the generic name is berberis, the same as the common barberry. The two species of the berberis proper, which grow in this country, are both deciduous shrubs, although there are several evergreen species found in the Old World. All the plants of the sub-genus, mahonia, are evergreen, and on this account they are often cultivated in yards and cemeteries, frequently under the improper name holly. There are four indigenous species found in the United States, all west of the Mississippi, and there are also a few other species in Mexico. Our native species are B. nervosa, B. repens, B. pinnata, and B. aquifolium. The two former are small plants, never over 2 feet high, and often only a few inches, while the other two are large shrubs from 3 to 6 feet high; hence by their height alone B. nervosa and B. repens can be distinguished from B. pinnata and B. aquifolium.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"B. nervosa, Pursh, is a little erect shrub, with leaves often longer than the stem. The leaves consist of 3 to 6 pairs of leaflets and an odd one. The main leaf stalk of each leaf is very conspicuously jointed at each pair of leaflets, as remarked by Dr. Lindley, 'like a bamboo stem.' The leaflets are ovate, lanceolate, acute or acuminate; triple veined from the oblique base, and have teeth, not repand, but serrate. The flowers are in erect racemes, which are more slender than those of any other species. The plate of B. nervosa, tab. 5, vol. I, in Pursh's work, is spurious. The leaves are correct, as intended, but the flowers are of the B. aquifolium. Since the plate is made up of two species, and hence liable to confuse, Lindley proposed to remedy the matter by changing the name to B. glumacea, but the change was not received with favor by botanists, and the name B. nervosa is still applied to the plant.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"B. repens, Lindley.—A small shrub, procumbent, with short, erect branches. The leaves are often ternate, but generally of 5 or 7 leaflets. Leaflets are ovate, orbicular, acute, or the terminal leaflet obtuse; pinnately veined with repand teeth. Flowers in terminal fascicled racemes.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"B. repens and B. nervosa are both employed by the western miners as blood purifiers, and as an antiperiodic, the B. repens extensively. We have several letters from physicians in widely separated portions of the great West, enclosing leaves of these varieties for us to classify and examine, all saying the root is extensively used for the above purpose. It is made into infusions and decoctions. The acid berry of the Berberis repens, under the name 'mountain grape,' is made into confections and freely eaten. It acts as an antiscorbutic, and is of great benefit to persons long deprived of fruit.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"The following description was kindly furnished by Dr. C. L. Aylworth, of Montana State: 'The plant I enclose for description is called the Oregon grape. The fruit is eaten. It grows in medium or rich soil, among rocks or bushes, seldom in open ground. It is more plentiful upon the foot-hills of mountains, and along the banks of mountain streams, extending far down into the valleys. It does not grow in clusters, but I have seen it nearly cover the ground. It is common about all the small streams in this section of the Yellowstone valley, and about the headwaters of the Missouri river.'",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"The root of the B. repens is a small, vine-like rhizome, resembling somewhat in appearance the Menispermum C., though not so fibrous. It is yellow throughout, woody, hard, and brittle. The bark, yellow within, is brown upon the surface and easily separated. The root and bark contain a large amount of berberine, which, together with other principles, is readily extracted by alcohol. It contains a principle in combination, precipitated by alkalies from aqueous solution. This, very likely, is identical with the white alkaloid of Hydrastis canadensis, or oxyacanthine.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"The medical profession at large is not acquainted with either of these plants under their proper names, although they may be upon the market for B. aquifolium.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"B. pinnata, Lagasca.—This is the only species that is liable to be confused with the medicinal species, B. aquifolium, as both are about the same size, and closely resemble each other. The leaflets are lanceolate, acuminate, and of a light-green color, glaucous on the under side. There are 2 to 6, seldom more, large teeth on each side of the leaflet, each ending in a slender spine. The specific character by which this species may always be distinguished from the B. aquifolium, is the position of the lower pair of leaflets. These leaflets are approximate to the base of the common petiole in the B. pinnata, and never at a distance from it, as they are in the aquifolium.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"B. pinnata, often called Mahonia pinnata, has not been used by the medical profession unless in local practice. It has been mistaken for B. aquifolium, which it nearly resembles, and from which its root can not be easily distinguished. Its berries are eaten by western settlers, and a tea from the root is used as a medicine\" (from Berberidaceae, by C. G. and J. U. Lloyd) (see also Berberisand Berberis aquifolium).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Western United States.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The principal constituent is a high proportion of berberin, and there is also oxycanthin.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "preparation": [
+      {
+        "text": "Fluid extract, 10 to 30 drops.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "felter-eclectic-1922",
+      "grieve-modern-herbal-1931",
+      "kings-american-1898"
+    ]
+  }
+}

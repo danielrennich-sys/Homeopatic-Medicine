@@ -1,0 +1,30 @@
+{
+  "id": "natrum-iodatum",
+  "names": {
+    "primary": "Natrum Iodatum",
+    "latin": "Natrum Iodatum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "This unproved sodium salt has been used largely in cardiac cases by French practitioners, and in rheumatism, pneumonia, asthma, chronic bronchitis, scrofula, tertiary syphilis. It forms an important part of certain sprays for hay-asthma. Hansen mentions it as indicated in cases of chronic pharyngitis; and coryza and chronic laryngitis. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Coryza; Hay-fever; Heart, affections of; Laryngitis; Pharyngitis",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

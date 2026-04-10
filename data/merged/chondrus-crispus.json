@@ -1,0 +1,38 @@
+{
+  "id": "chondrus-crispus",
+  "names": {
+    "primary": "Chondrus crispus (STACKH.)",
+    "latin": "Chondrus crispus (STACKH.)",
+    "common": [
+      "Moss, Irish"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "A perennial thallophyte common at low tide on all the shores of the North Atlantic, but remarkable for its extreme variability, the difference being mainly due to the great diversity in the width of the segments.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "It contains a large amount of mucilage with the presence of a big percentage of sulphur compounds.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Demulcent, emollient, nutritive. A popular remedy made into a jelly for pulmonary complaints and kidney and bladder affections. Can be combined with cocoa. The decoction is made by steeping 1/2 OZ. of the Moss in cold water for 15 minutes and then boiling it in 3 pints of milk or water for 10 or 15 minutes, after which it is strained and seasoned with liquorice, lemon or cinnamon and sweetened to taste. It can be taken freely. Purchase from Richters Irish Moss (Chondrus crispus) Bulk Dried Herb",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "boswellia",
+  "names": {
+    "primary": "Boswellia",
+    "latin": "Boswellia",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Boswellia serrata is a branching tree native to the mountainous regions of Northern Africa, India, and the Middle East. Boswellia is an herbal extract made from the gum resin or bark of the tree and can be taken orally or applied topically. Traditionally, boswellia has been used in Ayurveda practices to improve arthritis, reduce inflammation and pain, and relieve symptoms of some respiratory and cardiovascular diseases and other disorders. Boswellia extracts are sold as dietary supplements to reduce inflammation and to support joint health, mobility, and digestive health. The resin from the bark of Boswellia serrata or other Boswellia species is the source of frankincense, which is often inhaled for aromatherapy or applied topically.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "There have been several studies on the potential health benefits and safety of using boswellia, but most of these are small and of low quality. There is not enough high-quality evidence to determine whether boswellia is useful for any health condition.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "Several studies have shown taking boswellia orally may help reduce inflammation and pain associated with osteoarthritis, but larger, higher quality studies are needed. The topical use of boswellia (frankincense) for osteoarthritis, rheumatoid arthritis, and other health conditions has been studied, but there isn’t enough evidence to show that it is an effective treatment. A few small studies suggest that taking boswellia orally may reduce asthma symptoms. However, there is not enough rigorous evidence to determine whether boswellia is a useful treatment for asthma. There has been limited research in people on taking boswellia orally for several types of cancer, and although some results are encouraging, larger clinical studies are needed. A small study of patients with malignant glioma, an aggressive brain tumor, showed that boswellia taken orally may help to reduce edema (swelling) of the brain but not the tumor. There is no evidence that boswellia can prevent or treat COVID-19.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Boswellia is likely to be safe when taken orally. Boswellia serrata extract in doses up to 1,000 mg daily has been safely used in several clinical trials lasting up to 6 months. It has also been used with apparent safety at a dose of 2,400 mg for up to 1 month. Boswellia (frankincense) may be safe to use topically or for aromatherapy. If you have asthma, follow your health care provider’s recommendations on how to manage your condition. For your safety: Do not substitute other approaches for treatments recommended or prescribed by your health care provider. Consult your health care provider about adding any complementary health products or practices to your asthma management program. If you take medicine for asthma, talk with your provider before starting to take a dietary supplement. Some dietary supplements and medicines can interact in harmful ways. No complementary approach has been shown to cure cancer or cause it to go into remission. Some products or practices that have been advocated for cancer treatment may interfere with conventional cancer treatments or have other risks. If you’ve been diagnosed with cancer, you should consult your health care providers before using any complementary health approach. It is likely safe to use boswellia in amounts commonly found in foods during pregnancy or while breastfeeding. Little is known about whether it’s safe to use boswellia orally in medicinal amounts or to use frankincense during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "weak_support"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

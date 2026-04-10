@@ -1,0 +1,41 @@
+{
+  "id": "hoodia",
+  "names": {
+    "primary": "Hoodia",
+    "latin": "Hoodia",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Hoodia is a leafless succulent that grows in Africa’s Kalahari Desert, including parts of Namibia, Botswana, and South Africa. Traditionally, the indigenous San peoples have used hoodia to suppress appetite during long hunts. It’s thought that an oxypregnane steroidal glycoside molecule found in hoodia, known as P57, could have an appetite-reducing effect. Today, hoodia supplements are promoted for appetite suppression and weight loss.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "We know very little about hoodia. Only one small study has been done on the effects of hoodia supplements in people.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "The one small study of hoodia involved 49 women who were overweight. Those who took hoodia for 15 days didn’t lose more weight than those who took a placebo.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Little is known about the safety of hoodia, but the one small study in people raised concerns. In that study, participants taking hoodia had more adverse effects, including nausea, vomiting, dizziness, and odd skin sensations, than those taking placebos. The researchers saw clinical and safety concerns for hoodia related to blood pressure and heart measures. Little is known about whether it’s safe to use hoodia during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "agrostema-githago",
+  "names": {
+    "primary": "Agrostema Githago",
+    "latin": "Agrostema Githago",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Our knowledge of this plant is derived almost entirely from cases of poisoning in persons who have eaten bread containing the seeds. Sensations of burning predominate. There is also vertigo and headache and in some cases coma. Locomotion is impaired, and there is difficulty in remaining erect.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Gastritis; Paralysis; Tenesmus",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Difficult to remain erect. Locomotion impaired. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Lathyrus, Secale."
+      ]
+    },
+    "head": [
+      {
+        "text": "Vertigo. Headache. Sensation of heat and burning rises into vertex from l. lower jaw; almost makes her crazy.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Mouth dry and hot. Palate has a red margin. Burning on palate in a short time (Githargin).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea and vomiting. Burning from stomach along œsophagus to throat and in chest. Knife-like pains in stomach at times.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Constipation with tenesmus. Diarrhœa with tenesmus. Burning in bowels and rectum.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Tearing along spine.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

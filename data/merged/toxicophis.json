@@ -1,0 +1,45 @@
+{
+  "id": "toxicophis",
+  "names": {
+    "primary": "Toxicophis",
+    "latin": "Toxicophis",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T TOXICOPHIS. Toxicophis pugnax, B. and G. Animal kingdom. Class , Reptilia. Order , Ophidia. Common name , Moccasin. Authorities. 1 , Wm. Ingalls, Bost. Med. and Surg. Journ., vol. 27, 1842, p. 170, a strong healthy man was bitten on the right ankle; 2 , Wm. Stockbridge, Bost. Med. and Surg. Journ., vol. 29, p. 42, Mr. --- was bitten on the leg when he was ten years old; 3 , same, a second case. FACE. ► Countenance somewhat anxious (after one hour), [1] . INFERIOR EXTREMITIES. ► Right leg dematous, considerably larger than the left (after one hour), [1] . ► A few drops of a limpid fluid came from the wounds (after one hour), [1] . ► The leg became painful and swelled rapidly, the swelling extending to the hip, attended with high irritative fever (after half an hour), [2] . ► For several years the pains were confined to the knee of the limb bitten; in a few years it left the knee and seized the hip, and finally it attacked the shoulder, the last attack being very slight, [2] . PULSE. ► Pulse accelerated, full, regular, easily compressible (after one hour), [1] . GENERALITIES. ► For the last eighteen years he has had an annual recurrence of symptoms, attended with severe pain, but not accompanied with swelling; it occurred at precisely the same time of the year, continued several days, but decreasing in severity every succeeding year, [2] . ► Every year the symptoms have returned with less intensity and with an absence of swelling, [3] . ► Skin rather dry (after one hour), [1] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Œdema; Periodic neuralgia",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "R. leg became painful and swelled rapidly. For several years the pain was confined to the knee of the bitten limb; in a few years it left the knee and seized the hip, and finally attacked the shoulder. For the last eighteen years annual recurrence of symptoms with severe pain but without swelling; occurred at precisely the same time of year; decreased in intensity each year.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Some effects of bites with this snake have been recorded. A peculiar feature of the cases was that the symptoms of pain and fever recurred annually at exactly the same period for many years with decreasing intensity each year. In one case the pains spread to other parts after some years.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Skin rather dry. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

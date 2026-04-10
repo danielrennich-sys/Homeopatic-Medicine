@@ -1,0 +1,41 @@
+{
+  "id": "petroselinum-sativum",
+  "names": {
+    "primary": "PETROSELINUM SATIVUM",
+    "latin": "PETROSELINUM SATIVUM",
+    "common": [
+      "Parsley (PETROSELINUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "urinary": [
+      {
+        "text": "Burning, tingling, from perineum throughout whole urethra; sudden urging, to urinate; frequent, voluptuous tickling in fossa navicularis. Gonorrhœa; sudden, irresistible desire to urinate; intense biting, itching, deep in urethra; milky discharge",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Thirsty and hungry, but desire fails on beginning to eat or drink",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "First to third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">PETROSELINUM SATIVUM Parsley (PETROSELINUM) The urinary symptoms give the keynotes for this remedy. Piles with much itching.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

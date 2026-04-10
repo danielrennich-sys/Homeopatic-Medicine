@@ -1,0 +1,177 @@
+{
+  "id": "aurantium",
+  "names": {
+    "primary": "Aurantium",
+    "latin": "Aurantium",
+    "common": [],
+    "synonyms": [
+      "Aurantium. (Citrus Vulgaris.)"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "The tincture of the peel is used as a pleasant bitter tonic in the old-school practice. On sensitive individuals oranges in any form produce pathogenetic effects. One patient of my own could never eat an orange without experiencing a fearful taste at the back of the nose and throat, lasting many days and causing choking sensations and faintness. Nervous affections predominate; neuralgias of various kinds. The skin is the seat of many symptoms.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Choking, sensation of; Faintness; Headache; Metrorrhagia; Neuralgia; Palpitation; Throat, rising in",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Suited for diseases of old men, esp. with coldness and chilliness. An orange eaten before breakfast is said to destroy the craving for alcohol in drunkards.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Trembling all over. Lameness. Restlessness, fidgety. Half-sided epileptiform convulsions, especially of face and shoulders. The whole muscular system is in a state of irritation, cannot keep in an erect position. Right : hemicrania ; neuralgia in temple. Left : hypochondrium distended. As if something rose in throat. Shooting : in face and temples. Gnawing : faceache. Drawing : in limbs. Aching : in region of stomach. Pressing : headache ; upon shoulders. Suffocating sensation : in upper part or breast bone. Constriction : in throat. Spasmodic pains : in hands. Undefined pain : in kidneys and bladder ; in joints. Heaviness : in region of stomach. Itching : on upper limbs. Diseases of old men, especially with coldness and chilliness.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Citrus Limonum, Ruta, Angustura.",
+        "An orange eaten before breakfast is said to destroy desire for alcoholic drinks in drunkards",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Great excitement; quick motions.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Great excitement ; motions quick, brusque, and performed with uncontrollable zeal. Feels drunken and giddy.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "head": [
+      {
+        "text": "R. side hemicrania.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Hemicrania ; right side. Pressing headache, now over whole head, now on one part, and forehead. Promotes growth of hair.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "face": [
+      {
+        "text": "Neuralgia in face; shooting, gnawing pains, most in temples, esp. r. side.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Aggravated periodical erysipelas. Faceache sometimes changes into transient but frequently repeated epileptic-like convulsions of face. Neuralgia in face, shooting, gnawing pains, most in temples, especially right side.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Constant toothache. Teeth become carious; wear off. Something seems to rise in throat and choke her. Fearful taste at back of nose and throat, lasting for days and causing choking sensation and faintness.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Constant toothache. Teeth become carious. Teeth wear off. Taste and Tongue. Tongue furred thickly, brown. Something seems to rise in throat and choke her.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Pains in kidneys and bladder.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pains in kidneys and bladder.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Too copious menses.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Too copious menses. Painful menstruation (tincture of seed of lemons).",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pleurodynia. Palpitation.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Palpitation.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching, general or more often only in upper limbs, with redness and swelling of hands. Eruption and other symptoms like scarlatina. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Dusky dry skin. Red spots appear on different parts of body. Children eating plenty of oranges peeled by themselves, get an eruption and other symptoms very similar to scarlatina.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Weakness of sight.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Noises in ears as from bells ringing.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Aurant.]. No appetite. Great thirst, drinking little at a time. Nausea and vomiting. Smell of oranges always makes her sick. Aching and heaviness in region of stomach ; with belching and thirst. Left side distended.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Constipation.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Oppression of chest. Sensation in upper part of breast bone as if suffocating. Constriction in throat. Pleurodynia.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Pressure upon shoulders. Small blister over whole arms, especially on hands and between fingers. General itching but much oftener only on upper limbs with redness and swelling of hands. Spasmodic pains in hands. Sciatica. Painful joints. Trembling of limbs. Cold limbs when traveling. Stretching and drawing in limbs ; has to stretch and rub hands.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Constant irresistible gaping. Sleep very restless, full of dreams. Sudden starting, burning heat, tossing about in bed and sleeplessness.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Oranges are said to render gastric fevers milder, even when of a typhoid form.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900",
+      "hering-guiding-1879"
+    ]
+  }
+}

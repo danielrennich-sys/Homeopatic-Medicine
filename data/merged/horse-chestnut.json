@@ -1,0 +1,41 @@
+{
+  "id": "horse-chestnut",
+  "names": {
+    "primary": "Horse Chestnut",
+    "latin": "Horse Chestnut",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Horse chestnut is a tree native to parts of southeastern Europe. Its fruits contain seeds that resemble sweet chestnuts but have a bitter taste. Traditionally, horse chestnut seed extract was used for arthritis, pain and swelling, menstrual cramps, hemorrhoids, and other conditions. Today, horse chestnut seed extract is promoted for chronic venous insufficiency (CVI; poor blood flow in the veins of the legs, which may lead to leg pain, swelling, itchiness, and other symptoms), irritable bowel syndrome, male infertility, and other conditions.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "Some studies in people have looked at horse chestnut seed extract for CVI, but very little research has been done on its use for other conditions.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "A 2012 systematic review of 17 studies suggested that horse chestnut seed extract can improve symptoms of CVI. Results from one of these studies suggested that horse chestnut seed extract may be as effective as wearing compression stockings. The reviewers noted, however, that there is a need for more rigorous, large-scale randomized controlled trials to assess the efficacy of this treatment option for CVI. Small amounts of research have been done on horse chestnut seed extract for male infertility associated with varicocele (a swelling of veins inside the scrotum) and for irritable bowel syndrome, but there’s not enough information to draw definite conclusions about its effects on either condition.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "The raw seeds, bark, flowers, and leaves of horse chestnut are unsafe when used orally because they contain a toxic component. Standardized horse chestnut seed extracts, from which this component has been removed, are likely safe for short-term use and have been used safely in research studies for up to 12 weeks. Horse chestnut seed extracts are generally well tolerated but may cause side effects such as dizziness, digestive upsets, headache, and itching in some people. Little is known about whether it’s safe to use horse chestnut seed extract during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

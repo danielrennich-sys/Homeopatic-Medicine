@@ -1,0 +1,86 @@
+{
+  "id": "melilotus-officinalis",
+  "names": {
+    "primary": "MELILOTUS OFFICINALIS",
+    "latin": "MELILOTUS OFFICINALIS",
+    "common": [
+      "Yellow Melilot - Sweet Clover (MELILOTUS)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Unable to fix mind. Memory treacherous. Stupor. Wants to run away and hide. Delusions; thinks every one is looking at her, fears to talk loud, and wants to run away, etc",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Headache with retching, vomiting, sense of pressure over orbits, pallor, cold hands and feet, black spots before eyes. Heavy, oppressed; frontal, throbbing, undulating sensation in brain. Sick headache; relieved by epistaxis or menstrual flow. Fullness all over head. Eyes heavy; blurred sight; wants to close them tightly for relief. Neuralgia around and over right side of head and neck. Scalp sore and tender to touch",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Stopped up, dry, must breathe through mouth; dry, hard clinkers in nose; profuse epistaxis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "Intensely red and flushed, with throbbing carotids (Bell)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Difficult, painful, constipated. Anus feels constricted, full, throbs. No desire until there is a large accumulation (Bry; Alum)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menses scanty, intermit, with nausea and bearing down sticking pain in external parts. Dysmenorrhœa. Ovarian neuralgia",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Feels as if smothering, especially from rapid walking. Hæmoptysis. Weight on chest. Tickling in throat with cough",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Pain in knee; wants to stretch leg, but does not relieve. Joints sore. Skin and extremities cold. Numbness and aching in knee-joints",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "rainy, changeable weather, approach of storm, motion; 4 pm",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Tincture, for inhaling; lower potencies"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">MELILOTUS OFFICINALIS Yellow Melilot - Sweet Clover (MELILOTUS) Congestions and hæmorrhages seem to be the special manifestations of this drug. Violent congestive and nervous headaches. Infantile spasms. Epilepsy from blow on head. Pain and debility point to it. Coldness but also increase of temperature; tenderness, and pain. Muscular system depressed. Dreams and emissions.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "cascara-amarga",
+  "names": {
+    "primary": "Cascara Amarga",
+    "latin": "Cascara Amarga",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Cascara Amarga, sometimes known as Honduras Bark, is advised in syphilis as an active alterative. The line of its action is where there is chronic skin affection or where the pustular variety of the syphiloderm prevails, the conditions being induced by debility, thus needing a specific tonic influence. It soothes the stomach, overcomes sensitiveness or ready irritability of this organ, increases the appetite, and improves general tonicity.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "malabar-nut",
+  "names": {
+    "primary": "Malabar Nut",
+    "latin": "Malabar Nut",
+    "common": [
+      "Malabar Nut"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Leaves, flowers, fruit, root.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "A common plant in India, the fresh leaves are 4 to 6 inches long, 2 inches wide, lanceolate entire, shortly petiolate, when dried dull brownish green, they become lighter when powdered, taste bitter and smell like strong tea. Its wood is soft and makes excellent charcoal for gunpowder.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The leaves contain a bitter crystalline alkaloid Vasicine, and an organic adhatodic acid, another alkaloid and an odorous volatile principle.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "In India the flowers, leaves, root and specially the fruit are considered a valuable antispasmodic for asthma and intermittent fever; used with success also as an expectorant in cases of chronic bronchitis and phthisis; the leaves are dried and smoked as cigarettes to relieve asthma. Large doses irritate the alimentary canal and cause diarrhoea and vomiting. Adhatodic acid is believed to exert a strong poisoning influence upon the lower forms of animals and vegetable life, though nonpoisonous to the higher animals.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Liquid extract of Adhatoda, 20 to 60 minims. The freshly expressed juice, 1 to 4 fluid drachms. Tincture from 1/2 to 1 fluid drachm. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

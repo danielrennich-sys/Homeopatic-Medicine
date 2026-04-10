@@ -1,0 +1,138 @@
+{
+  "id": "vaccininum-variolinum",
+  "names": {
+    "primary": "Vaccininum and Variolinum",
+    "latin": "Vaccininum and Variolinum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Crying. Vacc. F. Ill-humor, with restless sleep. Vacc. A. Nervous, impatient, irritable ; disposition to be troubled by things. Vacc. F. Delirium with the initial fever. Var. S. Fear of death ; wild excitement and begging to know if he was to die, and before the sentence was complete drops into a heavy sleep with loud breathing. Var. S. Morbid fear of taking smallpox. Vacc. S. Vertigo. Var. S. Syncope in attempting to rise.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "head": [
+      {
+        "text": "Frontal headache. Vacc. A. Forehead very hot, face red and bloated, carotids pulsating violently. Var. S. Forehead felt as if it would split in two in median line from root of nose to top of head. Vacc. F. Stitches in right temple. Vacc. F. Headache : with or after chill ; all over head ; particularly in forehead ; severe in vertex ; as if a band tightly encircled head ; severe, lancinating, throbbing ; < with every pulsation. Var. S. Intolerable pain in occiput. Var. S. Crazy feeling through brain, hard to describe. Var. S. Eruption like crusta lactea. Vacc. A.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Tinea tarsi and conjunctivitis in a woman, æt. 28, remaining as result of variola in infancy, conjunctivæ painfully sensitive. Vacc. M. Weak eyes ; feeling in forehead as if it were split. Vacc. F. Inflamed eyelids. Vacc. Redness of eyes and face, with small pimples on face and hands. Vacc. F. Keratitis, with smallpox and after vaccination. Vacc. or Var. Chronic ophthalmia with loss of sight. Var. S. Pupils contracted. Var. S.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Deafness. Var. S.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Chronic catarrh. Vacc. S. Full feeling of head, with running at nose. Vacc. S. Bleeding at nose preceded by a feeling of contraction above and between eyebrows, soon after eating meat ; menses rather profuse and too frequent ; cured by revaccination. Ma.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "face": [
+      {
+        "text": "Redness and distension of face, chill running down back. Vacc. F. Skin of face and neck deep dark-purple hue. Var. S. Jaw falling when asleep, with trembling when aroused. Var. S. Swelling of neck under right ear (parotid gland) with sensation like being cut. Vacc. F.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Teeth covered with thick brown slime. Var. S. Tongue coated, dryish yellow, with papillæ showing through coat. Vacc. F. Thick dirty yellow coating on tongue. Var. S. When asleep tongue protruded, black coating, when raised it is with difficulty drawn back ; looks like a mass of putrid flesh. Var. S. Dry mouth and tongue. Vacc. A. Throat very sore, redness of fauces. Var. S. Pharynx and fauces deep purplish crimson, with gangrenous appearance ; breath horribly offensive. Var. S. Painful deglutition. Var. S. Sensation as if throat were closed. Var. S. Sensation as of a lump in right side of throat. Var. S. Diphtheria with horrible fetor oris. Var. S.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Vac.]. Food, especially water, tastes sickish, sweet. Var. S. Appetite gone, disgust to taste, smell and appearance of food. Vacc. A. Coffee tastes sour. Vacc. F. Aching in pit of stomach, with short breath. Vacc. F. Soreness in pit of stomach and across epigastric region. Var. S. Severe pain in precordial region, frequent nausea and vomiting of bilious and bloody matter. Var. S. Frequent bilious vomiting. Var. S. As soon as he drinks milk he vomits it up. Var. S. A stitch in hepatic region, at margin of last lower rib, axillary line. Vacc. F. Stitch in splenic region. Vacc. F.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Thin, bloody stools. Var. S. Several brown, green, at last grass-green stools, painless, loose, of intolerable fetid odor ; no thirst ; last stool slimy, with small quantity of blood. Var. S. Dysentery. Var. S. Constipation. Var. S.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urine : high colored, like brandy ; turbid and offensive ; stains a rose tea-color, difficult to remove. Var. S.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "male": [
+      {
+        "text": "Enlargement of testicle. Var. S. Hard swelling of left testicle in consequence of a contusion. Var. S.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Oppressed respiration. Var. S. Short breath, with aching in pit of stomach, and pressure in region of heart. Vacc. F. Asthma. Var. S. Troublesome cough, with serous and sometimes bloody sputa. Var. S. Hawking up thick, viscid slime, smelling bad. Var. S.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Stitch in left side of chest, anteriorly under short ribs. Vacc. F. Stitches in right side under short ribs in front from right to left, then at corresponding place in left side, but from left to right, lasting five minutes, felt in liver and spleen. Vacc. F. Febrile action of heart and arteries. Vacc. A.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "Stiffness of neck, with tense drawing in muscles, < on motion. Var. S. Pain in base of brain and neck. Var. S. Backache. Vacc. A. Aching pain in back, < in lumbar region, extending around waist. Vacc. S. Chills like streams of ice-water, running down from between scapulæ to sacral region. Var. S. Intolerable aching in lumbar and sacral region. Var. S. Pain as if back were broken. Var. S. Pains in muscles of back like rheumatism ; < on motion. Var. S.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Severe pains in left upper arm, at vaccination mark, could not raise it in morning. Vacc. F. Hands icy-cold during invasion. Var. S. Tumefaction of arm, which had been half paralyzed. Var. S. Rheumatic pains in wrists and hands. Vacc. S. Tearing in left thigh downward. Vacc. F. Soreness of lower extremities, as if heated or overexerted. Vacc. A. Legs ached immoderately, hardly able to get about, a break-bone sensation, and a feeling as if bones were undergoing process of comminution. Vacc. A. Muscular rheumatism ; < on motion. Var. S.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "REST. POSITION. MOTION. [35] [Vac.]. Motion : stiff neck < ; rheumatic pain in back < ; < muscular rheumatism. Carried : child wishes to be.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Restlessness. Vacc. A. General malaise. Vacc. A. Languor, lassitude. Vacc. A. Tired all over, with stretching, gaping feeling ; unnatural fatigue. Vacc. S. Left : hard swelling of testicle ; tearing in thigh ; heaviness in arm. Right : as of a lump in throat ; stitches in temple ; swelling under ear. From right to left : stitches under ribs. From left to right : stitches under ribs. As if a band tightly encircled head ; as if forehead were split ; crazy feeling through brain ; as if throat were closed ; as of a lump in right side of throat ; like streams of ice-water running down back ; pain as if back were broken ; as if heated or overexerted in lower extremities ; as if bones of legs were broken, and undergoing process of comminution. Pain : in base of brain and neck ; in back. Intolerable pain : in occiput. Lancinating : in head. Cutting : in swelling under right ear. Tearing : in left thigh downward. Severe pain : in precordial region ; in vaccination mark on left upper arm. Stitches : in right temple ; in hepatic region ; in splenic region ; in chest under short ribs. Rheumatic pain : in muscles of back ; in wrists and hands. Burning : in skin. Aching : in pit of stomach ; in back ; in lumbar and sacral region. Drawing : in muscles of neck ; in upper jaw and teeth. Pressure : in region of heart ; in small of back. Soreness : in epigastric region ; in lower extremities. Heaviness : in left arm. Fulness : in head. Tingling : in skin. Crawling : in back. Itching : of exanthem ; of pustular eruption. TOUCH. PASSIVE MOTION. INJURIES. [45] [Vac.]. Contusion : hard swelling of left testicle. Boy, æt. 6 ; variola. Man, æt. 23 ; variola. Man, æt. 25 ; variola. A young lady, healthy and robust looking ; epistaxis after eating meat ; cured by revaccination. Woman, æt. 28, suffering since infancy ; conjunctivitis. Copyright © Médi-T ® 2002. Main.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Waked in middle of night by pain in forehead and eyes as if split, and stinging in temples. Vacc. F.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Fever, with heat, thirst, tossing about, crying, aversion to food. Vacc. A. Chill, with shaking. Vacc. F. Very severe chill, followed by high fever. Var. S. Intense fever, commencing with chills running down back like streams of cold water, causing shivering, and chattering of teeth. Var. S. Fever, with intense radiating heat, burning hot to touch. Var. S. Hot fever, no thirst. Var. S. Very profuse, bad smelling perspiration. Var. S.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Skin hot and dry. Vacc. A. A general eruption similar to cowpox. Vacc. A. Small pimples develop at point of vaccination with fourth dilution. Vacc. A. Exanthema of sharp-pointed pimples, usually small, seldom large and suppurating, dry, resting upon small red areolæ, frequently interspersed with small round spots of red color, sometimes severe itching. Var. S. Red pimples or blotches in various parts, most evident when warm. Vacc. A. Eruption of pustules with a dark-red base and a roundish or oblong elevation, filled with pus of a greenish-yellow color, resembling varioloid, some as large as a pea, some less, without depression in centre, coming with a round, hard feel in skin (like a shot), very itchy. Vacc. F. Petechial eruptions, erythematous, on lower abdominal region, apex of triangular form, being at pubis, and the base crossing the abdomen transversely in neighborhood of umbilicus ; also on lateral surface of trunk to axilla, invading folds of axilla, corresponding portion of arm and pectoralis major. Var. S. A child, æt. 8 months, received a drop of lymph from a healthy vaccination, diluted with one hundred drops of distilled water, and well shaken ; on fourth day small bright-red pimples on face, which on following day formed vesicles of a pearly look, with depressed tips and surrounded by red areolæ ; on eighth day very restless, screamed and cried, wished to be carried constantly ; sleepless, febrile heat, rapid pulse, thirst, desire to nurse constantly without taking much ; constipation, high-colored urine ; pocks elastic, tense, hard, pearly ; inflamed redness and swelling of face ; on tenth day, on forehead and nose pocks became confluent, looked turbid, were filled with purulent liquid, and somewhat shrivelled ; on eleventh day pustules burst and discharged purulent matter, which formed yellowish-brown scabs, which afterward became dark ; these suppurated and exuded for a long time, gradually healed in about fourteen days ; the whole course was like that of crusta lactea ; the child was very well afterward, but still had on forehead and cheeks some small, very white spots, without scars ; subsequent repeated vaccinations at six month's intervals were ineffectual. Vacc. A. Tingling burning in skin over whole body, most intense in skin of forehead and in lower and anterior portion of hairy scalp, which parts are tinged with a scarlet blush, or efflorescence, similar to the immediate precursor of variolous eruption. Vacc. A. Terrible pains in back on right side of spine, and over and below shoulder blade ; muscles sore to touch, nausea, pains all over, especially in legs ; tongue clean ; pulse 120 ; Variolin. cm. ; body completely covered with large pustules, face one mass of confluent pustules, pulse still high, constant expectoration of viscid mucus, mouth and fauces lined with pustules, even tongue covered with them ; bowels constipated, mild delirium at times ; eight days later temperature 104 1/2 ; pulse 120, very weak and stopping at intervals ; great fear of death ; begging to know if he must die, and before sentence was completed would drop into a heavy sleep with stertorous breathing, jaw dropped on breast, pupils contracted, teeth covered with thick, brown slime, centre of tongue perfectly black, mucous membrane of mouth and pharynx of a deep purplish-crimson, with gangrenous appearance and breath horribly offensive ; skin of face and neck of a deep dark-purple ; odor from body like a fetid steam ; little control over tongue or jaw, latter hanging down, and tongue protruding like a mass of decayed liver when asleep ; an effort to speak when roused up caused violent trembling of jaw and tongue, which was drawn back into mouth with difficulty, was stiff, but looked like a mass of putrid flesh ; urine dark-colored, passing freely through whole attack ; had continued the cm., till now, gave one dose cmm. dry on tongue ; next day almost convalescent ; made a good recovery with but few marks. Var. S. Severe chill, followed by high fever ; severe pain in back, as if broken ; pain all over head, very severe and constant in occiput ; frequent bilious vomiting ; thick, dirty, yellowish coating on tongue ; wild delirium and spasms ; night before eruption appeared, obstinate constipation ; on third day very thick eruption of smallpox pustules, soon assuming confluent form, Variolin. cmm. S. Vaccininum 6, in water, for one day with strict diet, repeated after eight days, as preventive in six hundred cases. W. M. Treated a great many cases of variola and varioloid, during last eighteen years, some of them of most desperate character, and yet never lost a case when employing vaccine virus as a remedy ; moreover, none of the cases so treated were ever troubled with hemorrhage, or with delirium or secondary fevers, or were ever disfigured by pitting. C. Have used and seen it used in many and severe cases, and when treated with Variolin. 200, disease is shortened nearly or quite one-half, sufferings of patient much mitigated, secondary fever either absent or very much lighter, pustules do not burst, but wither or wilt and fall off, suppurative stage immeasurably hastened and shortened, and patients are not marked. B. Vaccininum 200th quickly relieved severer symptoms of variola, occurring in a child, æt. 6 months ; two days before appearance of eruption had been revaccinated (after an interval of eight days) on a nevus near right nipple ; deglutition difficult through implication of tongue and fauces ; pustules many of large size, scattered over scalp, face, body and limbs. M. About tenth or twelfth day of disease, variola confluent ; patient quite blind from swollen eyelids, cheeks and forehead ; nothing of nose visible except two bloody orifices, exuding clotted blood and pus ; similar matter was also constantly discharged from throat and mouth by severe cough which attended disease from first ; Vaccin. 3d cent. trit. C. Smallpox ; peculiar smell causes intense sickness of stomach ; congestion toward head, palpitation of heart ; two hours after took a dose Variolin. 30 ; an hour later crawling in back and feeling of coldness in lower extremities ; cold feet ; lame, heavy feeling in left arm ; no appetite ; sleep disturbed by heat ; toward morning some perspiration over body ; next day continuous pressing headache, especially in occiput ; pulse somewhat irritated ; disinclined to mental work ; when reading heat in head and forehead ; weak when walking ; pain in joints of upper and lower extremities, as if lame ; toward evening again feverish ; pressing pain in small of back, down to sacrum (Glonoin. 3 relieved headache) ; in bed, drawing in upper jaw and teeth ; sleep full of dreams ; toward morning again perspiration ; urine smells ammoniacal ; on fourth day red pimples on back of left hand, staying for several days without filling with pus ; mental work still causes heat in forehead and pressure in head ; escaped smallpox. Mo. On third day of eruption, when pustules had filled, and were confluent on face, intense itching ; Variolin. 1m. in water, every two hours ; on second day itching nearly gone, pustules shrinking ; third day drying ; fifth day crusts fell from face ; seventh day other crusts fell off, and tongue cleaned. S. Tongue coated as if with a piece of white velvet, in variola, with headache, backache, etc. Var. S. Eczema cured by vaccination, in two children. A.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "hering-guiding-1879"
+    ]
+  }
+}

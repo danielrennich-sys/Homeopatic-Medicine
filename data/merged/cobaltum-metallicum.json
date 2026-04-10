@@ -1,0 +1,89 @@
+{
+  "id": "cobaltum-metallicum",
+  "names": {
+    "primary": "COBALTUM METALLICUM",
+    "latin": "COBALTUM METALLICUM",
+    "common": [
+      "The Metal Cobalt (COBALTUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "All mental excitement increases suffering. Constant interchange of mental moods",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Aches; worse, bending head forward. Itching of hairy scalp and beard",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Feel too long. Pain in teeth. Cracks across tongue. Coated white (Ant cr)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Shooting in liver. Pain in spleen",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Constant dropping of blood from the anus, no blood from the stools",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Pain in right testicle; better, urinating. Emissions without erection. Impotence. Backache in lumbar region and weak legs. Lewd dreams. Pain in end of urethra; greenish discharge; brown spots on genitals and abdomen",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Pain in back and sacrum; worse while sitting; better, walking or lying. Weakness in legs and backache after emissions",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Aching in wrist-joints. Shooting into thighs from liver. Weak knees. Trembling in limbs. Tingling in feet. Foot-sweat, mostly between toes",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Unrefreshing; disturbed by lewd dreams",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Dry and pimply. Pimples about nates, chin, hairy scalp",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Sixth to thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">COBALTUM METALLICUM The Metal Cobalt (COBALTUM) Adapted to neurasthenic spinal states. Sexual disturbances. Fatigue, agitation, and bone pains, worse in morning.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

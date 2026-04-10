@@ -1,0 +1,24 @@
+{
+  "id": "male-organs",
+  "names": {
+    "primary": "MALE ORGANS",
+    "latin": "MALE ORGANS",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY MALE ORGANS. Male organs : Ag-c., Arg-n., Aur., Cann., Canth., Cinnb., Clem., Con., Grap., Lyc., Merc., Nit-ac., Nux-v., Plat., Pul., Rhod., Rhus-t., Spo., Stap., Sul., Thu. Male organs, penis : Arn., Cann., Canth., Clem., Dulc., Merc., Thu. Male organs, glans : Merc., Nit-ac., Rhus-t., Thu. Male organs, prepuce : Ap., Calad., Jac., Merc., Rhus-t. Male organs, spermatic cord : Berb., Pul., Spo. Male organs, testes : Arn., Aur., Clem., Merc., Nux-v., Pul., Rhus-t., Sep., Spo. Male organs, testes, hanging low : Calc-c., Clem., Pul. Male organs, testes, indurated : Aur., Clem., Con., Iod., Rhod., Spo. Male organs, testes, orchitis : Aco., Pul. Male organs, testes swelled : Clem., Pul. Male organs, scrotum : Arn., Crot-t., Petr., Rhus-t., Sul. Male organs, coldness : Ag-c., Caust., Gels., Lyc., Sabal., Sul. Male organs, ejaculation , premature : Carb-an., Chin., Grap., Lyc., Pho., Zin. Male organs, emission : Chin., Con., Fer., Gels., Pho-ac., Pho., Sele. Male organs, eruption : Crot-t., Grap., Petr., Rhus-t. Male organs, fumbling, grasping : Aco., Bell., Bufo-s., Canth., Hyo., Merc., Stram., Zin. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "haematoxylon-campechianum",
+  "names": {
+    "primary": "HAEMATOXYLON CAMPECHIANUM",
+    "latin": "HAEMATOXYLON CAMPECHIANUM",
+    "common": [
+      "Logwood (HAEMATOXYLON)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Feels constricted; heavy, hot. Eyelids heavy",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Painful digging from abdomen to throat, causing pain in region of heart with oppression. Colic, tympanitis. Borborygmi and diarrhœa. Swollen, painful",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Constriction, extending to epigastrium. Sensation of a bar across chest. Convulsive pain in heart region with oppression. Great soreness in region of heart. Palpitation",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Pain in hypogastrium, attended with slimy, whitish leucorrhœa. Weak feeling, with painful bearing down sensation at menstrual period",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">HAEMATOXYLON CAMPECHIANUM Logwood (HAEMATOXYLON) Sense of constriction is characteristic. Sensation as if a bar lay across chest. Angina pectoris.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

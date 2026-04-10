@@ -1,0 +1,41 @@
+{
+  "id": "garlic",
+  "names": {
+    "primary": "Garlic",
+    "latin": "Garlic",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Garlic is cultivated worldwide. It has a long history of use both in foods and for health purposes. Ancient writings from Egypt, Greece, and India describe its use for a variety of health problems, such as headache, pneumonia, throat conditions, and gastrointestinal disorders. Currently, garlic is promoted as a dietary supplement for various purposes, including helping to manage high blood cholesterol, high blood pressure, and diabetes; preventing various types of cancer; and enhancing immune function. Garlic may also be used topically (applied to the skin).",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "A great deal of research has been done on garlic, especially on its effects on levels of cholesterol and related lipids.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "Garlic supplements may reduce levels of total cholesterol and low-density lipoprotein (LDL) cholesterol to a small extent in people who have high blood cholesterol levels. Limited evidence suggests that garlic supplements may reduce blood pressure to a small extent in people who have high blood pressure. Garlic supplements may reduce blood sugar to a small extent in people with diabetes. Consuming garlic does not seem to reduce the risk of stomach cancer. It’s uncertain whether garlic influences the risk of colorectal cancer. Dietary supplements that contain garlic have been promoted as boosters for the immune system, particularly during cold and flu season. However, very little research has been done on this topic. A 2022 review identified only two studies that suggest a possible benefit, and both studies included only small numbers of people and had weaknesses in the research.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Garlic, taken orally, has been used safely in research studies that lasted as long as 7 years. Some forms of garlic used topically also seem to be safe. However, fresh raw garlic may not be safe when used topically. It can cause severe skin irritation and chemical burns. Side effects of garlic consumed orally include breath and body odor, abdominal pain, flatulence, and nausea. Some people have allergic reactions to garlic. Taking garlic supplements may increase the risk of bleeding. If you take garlic supplements, make sure to tell your health care providers. This is especially important if you are going to have surgery or if you take medicines, such as anticoagulants or aspirin, that may also affect bleeding. If you take anticoagulants, aspirin, or any other medicine, talk with your health care provider before using garlic or other herbal products; some herbs and medicines interact in harmful ways. Garlic may not be safe for use during pregnancy or while breastfeeding when taken orally in amounts greater than those found in foods. Little is known about the safety of using garlic topically during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "weak_support"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

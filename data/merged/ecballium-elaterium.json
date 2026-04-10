@@ -1,0 +1,57 @@
+{
+  "id": "ecballium-elaterium",
+  "names": {
+    "primary": "Ecballium elaterium",
+    "latin": "Ecballium elaterium",
+    "common": [
+      "Cucumber, Squirting"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Europe, cultivated in Britain.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "A perennial plant but in Britain an annual, with a large fleshy root from which rise several round, thick stems, branching and trailing like the Common Cucumber but without tendrils; leaves heartshaped, rough; flower-stalks auxillary; male flowers in clusters with bell-shaped, yellow green veined corollas, females solitary; fruit a small elliptical greenish gourd covered with soft triangular prickles. The fruits forcibly eject their seeds together with a mucilaginous juice, a phenomenon due to endormosis. The plant flowers in July. The fruit is collected just before it ripens and is left until it matures and ejects the seeds and juice; this must not be artificially hastened or the product will be injured; the juice is then dried in flakes and sent to the market as Elaterium. The flakes often bear the impress of the muslin on which they were dried.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Elaterin; a green resin, starch, lignin, and saline matter.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "A powerful hydragogue cathartic, and in large doses excites nausea and vomiting. If administered too frequently it operates with great violence on both the stomach and bowels producing inflammation and possibly fatal results. It also increases the flow of urine, and is of some use in the treatment of dropsy, especially when oedema is due to disease of the kidney. There is a case on record of a French doctor who suffered severely from carrying some of the seeds in his hat from the Jardin des Plante to his Paris lodging.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "It must be used with the greatest caution; because of its variability Elaterium should not be employed, preference always being given to the official Elaterin. 'Elaterium, 1/10 to 1/2 grain. Elacterin, 1/40 to 1/10 grain. Compound powder of Elacterin = Elaterin in fine powder, 1 part milk, sugar in fine powder 39 parts; dose, 1 to 4 grains.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {
+    "documented_adverse_effects": [
+      {
+        "text": "As for Bitter Apple. See (BITTER) APPLE . [ Top ]",
+        "source": "Grieve"
+      }
+    ]
+  },
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

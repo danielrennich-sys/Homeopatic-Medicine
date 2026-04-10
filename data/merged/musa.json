@@ -1,0 +1,65 @@
+{
+  "id": "musa",
+  "names": {
+    "primary": "Musa",
+    "latin": "Musa",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T MUSA. Musa sapientium, L. Natural order , Palmæ. Common name , Banana. Preparation , Tincture of the flowers. Authority. Dr. Jenner, Month. Hom. Rev., 9, 545, \"Fragmentary Provings of Australian Plants.\" HEAD. ► Dull, heavy frontal headache. MOUTH AND THROAT. ► Dry, rough, and extremely astringent taste and feeling in the mouth, tongue, and fauces, but afterwards an increased flow of saliva. STOMACH AND ABDOMEN. ► Rumbling in stomach and bowels, with expulsion of flatus. RECTUM AND ANUS. ► Improvement and ultimate cure of profusely bleeding hæmorrhoids (a case which had resisted every kind of treatment), (curative effect). STOOL. ► Costiveness (in a person of very regular habits), with feeling of fulness about the anus. URINARY ORGANS. ► Discharge of large quantities of mucous with the urine, attended with dull, aching pain in the region of the bladder. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Constipation; Cystitis; Hæmorrhoids (bleeding)",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Jenner (M. H. R., ix. 549) proved the tincture of Banana flowers and produced costiveness and sensation of fulness about anus, in a person of regular habits; and he cured with it a bad case of bleeding hæmorrhoids. It also produced pain in the bladder and passage of mucus with urine. Crichton Campbell commends bananas baked in their skins as an ideal food, or even a \"cure,\" for brain workers, nervous persons, and anæmics (H. W., xxxii. 478). A syrup made with the juice of bananas extracted by heat is commended as a remedy in chronic bronchitis with insufficient expectoration and marked dyspnœa.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Dull, heavy, frontal headache. 8.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Dry, rough, and extremely astringent taste and feeling in mouth, tongue, and fauces, but afterwards an increase of saliva. 11.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Rumbling in stomach and bowels with expulsion of flatus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Costiveness (in a person of very regular habits) with feeling of fulness about anus. (Improvement and ultimate cure of profusely bleeding hæmorrhoids; in a case which had resisted every kind of treatment,).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Discharge of large quantities of mucus with the urine, with dull, aching pain in bladder region. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "strychnos-gaultheriana",
+  "names": {
+    "primary": "STRYCHNOS GAULTHERIANA",
+    "latin": "STRYCHNOS GAULTHERIANA",
+    "common": [
+      "Tropical Bind-weed (HOANG NAN)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Five drops of the tincture. May be increased to twenty"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">STRYCHNOS GAULTHERIANA Tropical Bind-weed (HOANG NAN) Exhaustion with vertigo; numbness and tingling in hands and feet; involuntary action of lower jaw. Pustules and boils; tertiary syphilis and Paralysis, Eczema, prurigo, old ulcers, leprosy, cancer of glandular structures and bites of serpents. Removes fetor and hæmorrhage in cancer, revives the healing process. Follows Arsenic.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

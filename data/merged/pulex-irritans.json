@@ -1,0 +1,91 @@
+{
+  "id": "pulex-irritans",
+  "names": {
+    "primary": "PULEX IRRITANS",
+    "latin": "PULEX IRRITANS",
+    "common": [
+      "Common Flea"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Very impatient, cross, and irritable. Frontal headache, with enlarged feeling of eyes. Face wrinkled and old-looking",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Metallic taste. Sensation of a thread in throat. Thirsty, especially during headache",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Breath and taste foul. Intense nausea, with vomiting, purging, and faintness. Stool very offensive. Abdomen bloated",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Scanty with frequent urging, with pressure on bladder and burning in urethra. Flow stops suddenly followed by pain. Urine foul. Cannot retain urine; must attend to the call without delay. Irritable bladder before menses",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menses delayed. Increased flow of saliva during. Intense burning in vagina. Leucorrhœa, profuse, foul, staining a greenish yellow; stains of menses and leucorrhœa very hard to wash out. Backache (Oxal ac)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Aches, weak; drawing of muscles below scapulæ",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Feels a glow all over, like being over steam; chilly, while sitting beside the fire",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Prickly itching. Sore spots all over. Skin emits foul odor",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "sitting or lying down",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "left side, moving about",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "The higher potencies"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">PULEX IRRITANS Common Flea Marked urinary and female symptoms.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

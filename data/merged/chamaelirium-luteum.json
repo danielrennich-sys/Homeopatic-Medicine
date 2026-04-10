@@ -1,0 +1,44 @@
+{
+  "id": "chamaelirium-luteum",
+  "names": {
+    "primary": "Chamaelirium luteum (A. GRAY)",
+    "latin": "Chamaelirium luteum (A. GRAY)",
+    "common": [
+      "Unicorn Root, False"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A herbaceous perennial found in low moist ground east of the Mississipi and flowering in May and June. Stem 1 to 3 feet high, simple, smooth, angular; leaves alternate, spatulate below, lanceolate above, radical leaves, 8 inches long, 1/2 inch wide, narrow at base and formed into a whorl; flowers numerous, small, greenish white, bractless, dioecious, in a dense, terminal raceme, nodding like a plume, 6 inches long, petals of such flowers narrow, stamens longer than the petals, filaments tapering; anthers terminal, two lobed; petals of female flowers linear; stamens short; ovary ovate, triangular, furrowed; stigmas three-capsule, oblong, three-furrowed, opening at summit; fruit many, compressed, acute; rhizome bulbous, terminating abruptly, 1 inch long; odour faint; taste bitter. Solvents: alcohol, water.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Chamaelirin, fatty acid.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Emetic, tonic, diuretic, vermifuge. In large doses a cardiac poison. Of the greatest value in female disorders of the reproductive organs. The indication for its use is a dragging sensation in the extreme lower abdomen. It is useful in impotence, as a tonic in genito-urinary weakness or irritability, for liver and kidney diseases. Especially in diseases due to poor action of the liver and not to weakness of the heart or circulation. It is a good remedy in albuminaria.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "preparation": [
+      {
+        "text": "Fluid extract, 5 to 30 drops. Helonin, 2 to 4 grains. Specific helonias, 1 to 20 drops.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "oleum-santali",
+  "names": {
+    "primary": "OLEUM SANTALI",
+    "latin": "OLEUM SANTALI",
+    "common": [
+      "Oil of Sandalwood"
+    ],
+    "synonyms": [
+      "Oleum Santali"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "male": [
+      {
+        "text": "Painful erections; swelling of the prepuce. Thick, yellowish, muco-purulent discharge. Deep pain in perineum",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Frequent, burning, smarting swelling, and redness of meatus. Stream small and slow. Acute aching in kidney region. Sensation of a ball pressing against the urethra; worse, standing. Gleet, with profuse, thick discharge; chronic cystitis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Two to ten m in capsules"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">OLEUM SANTALI Oil of Sandalwood The action in the urinary and sexual spheres is most utilizable, especially in gonorrhœa. It is also a stimulating, disinfectant expectorant. Two or three drops on sugar will frequently relieve the hacking cough, when but little sputum is expectorated.",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Oil of Santal, Oil of Santal Wood, East Indian Oil of Santal, Oil of Sandalwood.A volatile oil distilled from the wood of Santalum album, Linné (Nat. Ord. Santalaceae). A small tree of southern India and the Indian Archipelago.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Description.—A pale yellow, thickish, oily liquid having the taste and odor characteristic of sandalwood; soluble in alcohol. Dose, 1 to 15 drops.Principal Constituent.—An alcohol santalol (C15H26O)",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—Oil of santal closely duplicates the effects of oil of copaiba and oil of cubeb, and will sometimes cause gastro-intestinal disturbances. It is, however, less irritant and pleasanter to take than those oils. It may occasion a red papular eruption upon the skin and the conjunctivae. Oil of santal is eliminated chiefly by the urinary and bronchial tracts, acting upon them as a stimulant and disinfectant. It is chiefly used in gonorrhea after the active stage has passed. Occasionally it is employed in chronic bronchitis and bronchial catarrh with fetid expectoration, in pyelitis, chronic cystitis, chronic mucous diarrhoea, and in urethral hemorrhage.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "felter-eclectic-1922"
+    ]
+  }
+}

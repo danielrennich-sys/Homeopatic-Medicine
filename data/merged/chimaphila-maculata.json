@@ -1,0 +1,178 @@
+{
+  "id": "chimaphila-maculata",
+  "names": {
+    "primary": "Chimaphila Maculata",
+    "latin": "Chimaphila Maculata",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Chim. mac. has been proved independently of Chim. umb. Some symptoms of Chim. rotund. are included. An intense gnawing hunger is a leading symptom. Burning fever; blood feels heated. The throat and tonsils are strongly affected. Headache on lying down. Feels better in warm room. Suited to mild, amiable, refined, sensitive, intellectual persons.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Angina pectoris; Diarrhœa; Headache; Sore-throat; Tongue, stiffness of; Toothache; Worm-fever",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Limbs feel full, as if distended. Sensation of swelling in armpits; pain from armpits to scapulæ.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Very nervous ; cannot bear anything at all. Hot, irritable, restless. Sensation as of something passing downward on right side of body and coming up again on left, within the space of an hour. Beaten feeling goes down right leg and comes up left. Going upward : pain from right foot to knee and thigh. Right : pressive pain from ear downward ; arm feels paralyzed ; painful stiffness in hip and leg. As if boils were in labia and in armpits ; arm as if paralyzed ; as if neck was tired and too small ; as if beaten, in calf and thigh ; as if distended, limbs, like erysipelas ; as if blood was boiling or on fire ; as of something passing down right side of body and up left ; as if abdomen would burst. Pain : in and above forehead ; in bowels, with headache ; in teeth ; in throat ; in stomach ; in bowels ; from armpits to scapulæ ; in bones of forefinger ; in right foot, knee and thigh ; in bones. Sharp pain : in head. Stitches : in scrobiculum. Stabbing : upward in abdomen. Cutting : in stomach. Stinging : in labia. Needle-like pains : in sacrum and hip bone. Prickling : in blood ; Griping : in abdomen. Colic pains : between pubes and navel ; after stool. Rheumatic tearing : in temples. Pressure : frontal headache, as from a swelling from right ear downward. Dull, heavy pain : in front and top of head. Soreness : in throat ; in larynx. Tensive pain : in throat. Swelling sensation : in armpits. Fulness : in stomach. Lightness : in head. Painful stiffness : in right hip and leg as if bruised. Heaviness : in stomach ; as of a stone in abdomen. Roughness : in throat. Heat : in head. Chilliness : of knees. Paralyzed feeling : in right arm. Dryness : in larynx. TOUCH. PASSIVE MOTION. INJURIES. [45] [Chim. m.]. Wants head pressed. Adapted to mild, amiable, refined, sensitive, intellectual persons. Copyright © Médi-T ® 2002. Main.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Puls., Chim. umb."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Becomes partially unconscious, feels like fainting, as if brain paralysed, mind gone (Chim. rotund.).",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Momentary unconsciousness. Sudden headache with dimness of vision ; she had to be led to bed ; felt light-headed.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "head": [
+      {
+        "text": "Sudden headache above eyes; with dim vision; light-headed; lying down. Frontal headache with fulness in stomach and belching; with pain in bowels; wants head pressed on.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sensation of lightness in head. Pressing frontal headache ; < after lying down. Sudden headache above eyes ; < on lying down. Frontal headache with fulness in stomach and belching. Pain in and above forehead. Rheumatic tearing pain in temples. Dull, heavy pain in whole front and top of head. Sharp pains and heat in interior of head, unfitting for exertion. Wants head pressed. Headache with pain in bowels.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Hollow teeth ache, eating. Tongue feels stiff and thick in middle, cannot raise it Chim. rotund). Tensive pain in throat on swallowing; swollen tonsils. 10.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Toothache ; < during eating. Tensive pain in throat on swallowing. Sore throat and swollen tonsils.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Extreme gnawing hunger. Feels drunk as if stomach burnt up with liquor; as if hard, dry, and tough, and as if rennet would be good for it (Chim. rotund.).",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Chim. m.]. No desire for food. Extreme gnawing hunger. No thirst, even during fever. Nausea accompanies colic. Nausea, with inclination to vomit without being able to do so. Stitches in scrobiculum. The acid of fruit produces pain in stomach. Cutting pain in stomach. Heaviness in stomach. Griping in abdomen, with nausea and lassitude in all the limbs. Colic and flatulent distension, with drowsiness and sensation as if abdomen would burst, after supper. Colic with nausea. Sensation of a heavy stone in abdomen ; severe griping, with repeated stabbing pains upward, followed by diarrhœa. Colic-like pains between pubes and navel. Pain in bowels. Bowels hard and swollen ; thinks the glands are swollen. Bowels very painful, sore and hard. Feels as if there was dropsy of abdomen.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Diarrhœa, with worm-fever.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Colicky pain after stool. Diarrheic stools containing air bubbles. Grey stool. Diarrhœa accompanying worm fever. After colic pains, a diarrhœa, not very weakening.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Rises in night to urinate.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Had to rise twice a night to urinate. Urine cloudy and red after standing.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Angina with stupor.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Angina with stupor. Blood as if heated, with prickling.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Fever with burning hot skin and thirst. Blood as if heated with prickling. Cold, damp feet in evening. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Dry heat during night. Fever, with burning hot skin and thirst. Exceedingly hot, as if blood boiling, but cannot sweat.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Inflammation of eyes, with secretion of mucus. Whites of eyes yellow.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Pressive pain, as from a swelling, extending from right ear downward, with toothache.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "male": [
+      {
+        "text": "Excitement of sexual system.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Stinging in labia, as if boils were there.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Chim. m.]. Feeling of roughness in throat when talking. Feeling of soreness and dryness in larynx. Hawking of tough mucus from larynx in morning.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "Feels as if neck was tired and too small. Sweat on back, with sensitiveness to cold air in morning. Needle-like pains in sacrum and similar pains in hip bone.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Sensation in armpits, as if boils were there. Sensation of swelling in armpits ; pain from armpits to scapulæ. Pain in bones of forefinger. Right arm as if paralyzed. Chilliness of knees. Cold, damp feet in evening. Painful stiffness in right hip and leg as if bruised, at 5 P. M. Pain as if beaten in calf and thigh, going downward in r. leg and coming up in left. Pain in right foot, extending to knee and afterwards into thigh. Weakness in all the limbs. Limbs feel as if distended ; a feeling like that from erysipelas. Pains as if in all the bones.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "REST. POSITION. MOTION. [35] [Chim. m.]. Lying down : headache <. Exertion : < headache. At night ; rose twice to urinate : dry heat. Morning : hawking of tough mucus. At 5 P. M. : painful stiffness in right hip and leg. Evening : cold, damp feet. Feels better in a warm room without being chilly.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Exceedingly hot as of blood boiling, but cannot sweat. Thinks diseases state of the blood irritates the skin, as before the eruption of erysipelas, scarlet fever, or measles ; itches terribly.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900",
+      "hering-guiding-1879"
+    ]
+  }
+}

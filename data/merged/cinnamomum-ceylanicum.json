@@ -1,0 +1,40 @@
+{
+  "id": "cinnamomum-ceylanicum",
+  "names": {
+    "primary": "CINNAMOMUM CEYLANICUM",
+    "latin": "CINNAMOMUM CEYLANICUM",
+    "common": [
+      "Cinnamon (CINNAMOMUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "female": [
+      {
+        "text": "Bearing-down sensation. Menses early, profuse, prolonged, bright red. Sleepy. No desire for anything. Fingers seem swollen. Uterine hæmorrhages caused by overlifting, during puerperal state; menorrhagia",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "relationships": {
+      "antidoted_by": [
+        "Acon"
+      ]
+    },
+    "dosing": {
+      "notes": "Tincture to third potency. For cancer, strong decoction, one-half pint in a day. Oil of cinnamon in aqueous solution best local disinfectant. 3-4 drops in two quarts of water as a douche, wherever a germicide and disinfectant is needed. Three drops on sugar for hiccough"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CINNAMOMUM CEYLANICUM Cinnamon (CINNAMOMUM) Cancer where pain and fetor are present. Best when skin is intact. Its use in hæmorrhages has abundant clinical verification. Nosebleed. Hæmorrhages from bowels, hæmoptysis, etc. A strain in loins or false step brings on a profuse flow of bright blood. Post-partum hæmorrhage. Flatulency and diarrhœa. Feeble patients with languid circulation.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

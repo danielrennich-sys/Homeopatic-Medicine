@@ -1,0 +1,135 @@
+{
+  "id": "tarentula-cubensis",
+  "names": {
+    "primary": "TARENTULA CUBENSIS",
+    "latin": "TARENTULA CUBENSIS",
+    "common": [
+      "Cuban Spider"
+    ],
+    "synonyms": [
+      "Tarentula Cubensis"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Dizziness after heat and hot perspiration. Dull ache on top of head. Shooting pain through left eye across frontal region",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Gastric] Stomach feels hard, sore. Loss of appetite, except for breakfast",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Clinical: Carbuncle; Chorea; Intermittents",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Toxæmia.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Itches across kidney region",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Hands tremble, turgid with blood",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Retention. Cannot hold urine on coughing",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Retention of urine.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Red spots and pimples. Feels puffed all over. Carbuncles, burning, stinging pains. Purplish hue. Gangrene. Abscesses, where pain and inflammation predominate. Scirrhus of breasts. \"Senile\" ulcers",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The bite is painless; the person is not sensible of it till next day, when an inflamed pimple is found surrounded by a scarlet areola; from the pimple to some other part of the body a red erysipelatous line is seen, marking the line followed by the spider over the skin after biting. This pimple swells, the inflamed areola spreads, chills and fever set in with copious sweat and retention of urine; the pimple becomes a hard, large, exceedingly painful abscess, ending by mortification of the integuments over it, and having several small openings, discharging a thick, sanious matter containing pieces of mortified cellular tissue, fasciæ, and tendons; the openings by growing run into one another, forming a large cavity; at this period the fever takes the intermittent type with evening exacerbations. In two cases, in delicate children, the bite proved fatal; but the majority recover in from three to six weeks.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Drowsiness. Sleep restless. Sleep prevented by harsh cough",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "smoking",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "night",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Sixth to thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">TARENTULA CUBENSIS Cuban Spider A toxæmic medicine, septic conditions. Diphtheria. Adapted to the most severe types of inflammation and pain, early and persistent prostration. Various forms of malignant suppuration. Purplish hue and burning, stinging pains. Bubo. It is the remedy for pain of death; soothes the last struggles. Pruritus, especially about genitals. Restless feet. Intermittent septic chills. Bubonic plague. As a curative and preventive remedy especially during the period of invasion.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "\"The Mygale Cubensis, which may be called the Cuban Tarentula, also found in South Carolina and Texas, is a larger spider, of a dark brown colour, less poisonous, and covered with more hairs than the Tarentula Hispanica\" (Hering). The chief uses to which Trn. c. has been put are: (1) Carbuncle, even to sloughing; with great prostration and diarrhœa. (2) Intermittent fever, with evening exacerbation. A keynote symptom is \"atrocious pains.\" A case of chorea in a girl of twelve is reported (H. M., March, 1901) cured with Trn. c. 6. The movements were confined to the left side, and occurred chiefly at night, when Trn. c. was prescribed.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: In intermittents, Aran. d. Carbuncle, Anthrac., Lach., Sil."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Anxiety. Delirium.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Diarrhœa.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chills followed by intense burning fever supervene on second or third day; with great thirst, anxiety, restlessness, headache, delirium, copious perspiration and retention of urine. Later the fever takes the intermittent type, with evening paroxysms, accompanied by diarrhœa and great prostration. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

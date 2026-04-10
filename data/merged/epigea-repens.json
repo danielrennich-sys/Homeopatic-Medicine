@@ -1,0 +1,47 @@
+{
+  "id": "epigea-repens",
+  "names": {
+    "primary": "EPIGEA REPENS",
+    "latin": "EPIGEA REPENS",
+    "common": [
+      "Trailing Arbutus"
+    ],
+    "synonyms": [
+      "Epigea Repens"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Tincture in 5-drop doses every three hours"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">EPIGEA REPENS Trailing Arbutus Chronic cystitis, with dysuria; tenesmus after micturition; muco-pus and uric-acid deposit, gravel, renal calculi. Fine sand in urine of a brown color. Burning in neck of bladder whilst urinating and tenesmus afterward. Pyelitis, incontinence of urine. Croaking noise and rumbling in bowels.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Hale mentions Epigea as having been a popular remedy in renal calculi throughout the United States ever since the settlement. \"It has been successful in removing dysuria and strangury as well as urinary tenesmus.\" Hale once gave to a patient who had a bloody muco-purulent sediment in the urine with intense dysuria, ten drops of the tincture six times a day. A copious deposit of fine brown sand was observed and all symptoms were relieved.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Calculi, urinary; Dysuria; Gravel; Strangury",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Botan.: Arbutus, Uva ursi. Compare also: Mitchella, Chimaphila, Cannabis, Calc. ren., Urtica urens, Uric acid. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

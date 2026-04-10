@@ -1,0 +1,29 @@
+{
+  "id": "pertussinum",
+  "names": {
+    "primary": "PERTUSSINUM",
+    "latin": "PERTUSSINUM",
+    "common": [
+      "Coqueluchin (PERTUSSIN)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "The thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">PERTUSSINUM Coqueluchin (PERTUSSIN) Taken from the glairy and stringy mucus containing the virus of whooping-cough. Introduced by John H. Clarke for the treatment of whooping-cough and other spasmodic coughs.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

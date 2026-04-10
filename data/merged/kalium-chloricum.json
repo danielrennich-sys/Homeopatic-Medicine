@@ -1,0 +1,59 @@
+{
+  "id": "kalium-chloricum",
+  "names": {
+    "primary": "KALIUM CHLORICUM",
+    "latin": "KALIUM CHLORICUM",
+    "common": [
+      "Chlorate of Potassium-K clo. 3 (KALI CHLORICUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mouth_throat": [
+      {
+        "text": "Profuse secretion of acid saliva. Whole mucous surface red, tumid, with gray-based ulcers. Tongue swollen. Stomatitis-aphthous and gangrenous. Fetor. Mercurial stomatitis (as a mouth wash)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Feeling of weight in epigastric and umbilical region. Flatulence. Vomiting of greenish-black matter",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Diarrhœa; profuse, greenish mucus",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Albuminous, scanty, suppressed. Hæmaturia; diuresis. Nucleo-albumin and bile, high Phosphoric acid, with low total solids",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Jaundice. Itching miliary or papular eruptions. Discolored; chocolate tint",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Second to sixth potency. Use cautiously locally as it is poisonous"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">KALIUM CHLORICUM Chlorate of Potassium-K clo. 3 (KALI CHLORICUM) Acts very destructively upon the kidneys, producing a croupous nephritis, hemoglobinuria, etc. Parenchymatous nephritis with stomatitis. Produces most acute ulcerative and follicular stomatitis. Noma. Toxæmic conditions of pregnancy (urinary symptoms). Chronic nephritis; hepatitis. Septicæmia. Anæmia.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

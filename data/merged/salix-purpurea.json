@@ -1,0 +1,99 @@
+{
+  "id": "salix-purpurea",
+  "names": {
+    "primary": "Salix Purpurea",
+    "latin": "Salix Purpurea",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T SALIX PURPUREA. Salix purpurea, Linn. Natural order , Salicaceæ. Common names , Red or purple willow. Preparation , Tincture of the bark. Authorities. 1 , Dr. T. C. Duncan, Trans. Hom. Med. Soc. State of N. Y., 1870, p. 328, chewed the bark; 1 a , same, took twice, a drachm of an infusion; 2 , same, Mrs. D., took (for hæmorrhoids) about a drachm of an infusion. MIND. ► Very nervous and despondent, all day (second day), [1a] . ► Nervous and very irritable all day, until evening (third day), [2] . ► Dulness of the intellect (second day), [1a] . HEAD. ► In a few minutes I felt a full dizzy feeling in the head, commencing just in front of the ears and passing up to the vertex, like a wave; this giddy feeling lasted for a few minutes; I had to sit down and keep quiet until it passed off (after first dose); the same, full, giddy feeling in the head, but in a less marked degree (second day), [1a] , [2] . MOUTH. ► It has a peculiar astringent taste, puckering the mucous membrane of the buccal cavity and closing Steno's duct, [1] . ► Taste of undigested food (second day), [1a] . THROAT. ► Swelling of the right parotid gland (second day), [1a] . ABDOMEN. ► Flatulence (second day), [1a] . ► Pain in the abdomen (second day), [1a] . STOOL. [10.] ► Bowels loose; two stools to-day (second day), [1a] . ► The bowels moved twice, with gripings in the abdomen (third day), [2] . URINARY ORGANS. ► Urine slightly acid; excess of the triple and earthy phosphates and epithelium; less uric acid crystals (?) (second day), [1a] . BACK. ► Aching in the right acetabulum (second day), [1a] . HEART AND PULSE. ► Circulation torpid (second day), [1a] . ► Pulse feeble (third day), [2] . SLEEP. ► Rested poorly, waked often; first too hot, then chilly; and at last, towards morning, in a profuse perspiration (first night), [1a] . FEVER. ► First too hot, then chilly, and at last, towards morning, in a profuse perspiration (first night), [1a] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Diarrhœa; Fever; Parotitis; Vertigo",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Aching in r. acetabulum.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "T. C. Duncan and his wife proved Sal. purp., taking drachm doses of the infusion of the bark. The chief symptoms produced were: Giddiness; loose stools; fever; swelling of the right parotid gland. The fever was marked by heat preceding chill and perspiration. Duncan chewed the bark on one occasion, and this caused the astringent effect on the mucous membrane of the mouth. The only rheumatic symptom was aching in right acetabulum.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Very nervous, irritable, and despondent all day. Dulness of intellect.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "In a few minutes dizzy feeling commencing just in front of ears and passing up to vertex, like a wave; compelled to sit down.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Swelling of r. parotid gland.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Peculiar astringent taste, puckering mucous membrane and closing Steno's duct. Taste of undigested food.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Flatulence. Pain in abdomen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Bowels loose; two stools in one day; with griping.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urine slightly acid; excess of triple and earthy phosphates and epithelium; less uric acid crystals (?).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pulse feeble; circulation torpid.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Rested poorly; waked often; first too hot, then too chilly.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "First too hot, then chilly, and at last, towards morning, in a profuse perspiration. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

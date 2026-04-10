@@ -1,0 +1,737 @@
+{
+  "id": "benzoicum-acidum",
+  "names": {
+    "primary": "BENZOICUM ACIDUM",
+    "latin": "BENZOICUM ACIDUM",
+    "common": [
+      "Benzoic Acid"
+    ],
+    "synonyms": [
+      "Benzoicum Acidum",
+      "Benzoicum acidum",
+      "Benzoïcum Acidum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Prone to dwell on unpleasant things in the past. Omits words in writing. Depression",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Inclination to dwell on unpleasant subjects; if he saw any one deformed it made him shudder. While writing he often omits words.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo inclination to fall sideways. Throbbing in temporal arteries, causes puffing around ears. Noises when swallowing. Ulceration of tongue. Swelling behind ears (Caps). Cold sweat on forehead. Pricking, puckered constriction of mouth, bluish and bleeding gums. Wens",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Giddiness, esp. in the afternoon, is if he would fall sideways. Pressure on the vertex, extending to the spine; without pain, but with anxiety. Rheumatic pains in the head. Headache from a draught of air; from taking cold in it; from uncovering the head; in the morning, when awaking; when at rest; returning periodically, and accompanied by pain in the stomach, nausea, and cold hands. Fearful pain in occiput or cerebellum. Cold perspiration on the head.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Itching of septum. Pain in nasal bones",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Seems to smell cabbage, dust, or something stinking. Sense of smell diminished. Epistaxis. Sneezing with hoarseness. Cold easily caught. Pressure at root of nose. Pain in bones of nose. Itching of septum.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Copper-colored spots. Red, with little blisters. Circumscribed redness of cheeks",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Burning heat of one side of the face. Circumscribed redness on the cheeks. Copper-coloured spots on the face. Cold perspiration of the face. Trembling of lips. Involuntary biting of lower lip at dinner. Itching on chin.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Sweat while eating; pressure in stomach, sensation of a lump",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Cutting about navel. Stitching in liver region",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Sweat while eating. Hiccough. Pressure in stomach and eructations. Burning or warmth; pressure on stomach. Weak digestion. Sensation of lump in pit of throat, as if food had lodged there. Sense of weakness in precordia. Obstruction of the liver. In liver region constant, fine, but violent stitching, midway in upper portion thereof. Cutting about navel; > by stool.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Stitches and constricted feeling. Puckering constriction of rectum. Itching and watery elevations around anus",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Frothy, offensive, liquid, light-colored, like soapsuds, bowel movements, mostly windy",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Watery, light-coloured; copious; very offensive stools (in children), with unusually strong-smelling urine. Frothy stool. Stitching in rectum. Sense of constriction at lower end of rectum. Wart-like elevations round anus; with smarting soreness; strong-scented, high-coloured urine (after previous use of Copaiva for chancre.). Formication at anus. Diarrhœa of children during dentition.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Repulsive odor; changeable color; brown, acid. Enuresis; dribbling, offensive urine of old men. Excess of uric acid. Vesical catarrh from suppressed gonorrhœa. Cystitis",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Urine highly coloured; urinous odour exceedingly strong; offensive, pungent smell. Soreness or hot, burning pain in the (l.) kidney. A granular kind of mucus mixed with phosphates in the sediment; urine dark-reddish brown; sheets usually stained brown; acid reaction, or very offensive heavy hot; fleeting pains in bladder, not when urinating, but at other times vesical catarrh from suppressed gonorrhœa, calculi, or gout. Urinous odour highly intensified; like horse's urine. Nocturnal enuresis; with strong, dark urine.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Hoarse in morning. Asthmatic cough; worse at night; lying on right side. Chest very tender. Pain in region of heart. Expectoration, green mucus",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Pressure on spinal column. Coldness in sacrum. Dull pain in region of kidneys; worse, wine",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Stiffness of neck, only on one side. Nape: pressure; itching. Dull pain in back, in region of kidneys; stiffness in loins. Coldness in sacrum.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Joints crack on motion. Tearing with stitches. Pain in tendo Achillis. Rheumatic gout; nodes very painful. Gouty deposits. Ganglion; swelling of the wrist. Pain and swelling in knees. Bunion of great toe. Tearing pain in great toe",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Cold hands, feet, back, knees. Chilliness; cold sweat. Internal heat on awakening",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Cold hands; feet; back; knees, as from cold wind. Chilliness before the stool. Great internal heat when awaking. Perspiration: while eating; when walking; morning in bed, esp. on face; with anxiety. Cold sweat: on head; on face; on feet. Sweat with aromatic odour. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Red spots. Itching in spots",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Itching on various parts; agreeable sensation on being scratched, but leaving a burning. Red spots on fingers. Syphilitic spots and marks.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "in open air; by uncovering",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "antidoted_by": [
+        "Copaiva"
+      ],
+      "_raw": [
+        "Compare: Copaiv., Fer., Zn., Nit. ac. (urine smelling like horse's); Tropæolum. Useful in gout after Colch.; after abuse of Copaiv. in suppression of gonorrhœa; in enuresis after failure of Nitrum. Incompatible: Wine, which pains in kidneys, drawing in knees, &c."
+      ]
+    },
+    "dosing": {
+      "notes": "Third to sixth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">BENZOICUM ACIDUM Benzoic Acid The most marked characteristic pertains to the odor and color of the urine. It has a marked action on metabolism. It produces and cures symptoms of a uric acid diathesis, with urine highly colored and very offensive, and gouty symptoms. Renal insufficiency. Child wants to be nursed in the arms, will not be laid down. Pains suddenly change their locality. Anti-sycotic. Gouty and asthmatic.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The leading note of Benzoic acid is the occurrence, as a concomitant of any morbid condition, of strong-smelling urine, generally also dark. Benzoic acid is a chilly medicine, the symptoms being in open air; by uncovering; > by heat. Pains suddenly change their locality, but are mostly felt in region of heart. Joints crack when moving. Symptoms appear left side first, then right. Asthma has been cured by it, especially in rheumatic persons. Inflammation of bronchi and lungs, with great tenderness of chest, cough night, lying on right side. Some of the chief symptoms are: Inclined to dwell on unpleasant subjects; if he saw any one deformed it made him shudder. Tongue spongy on surface with deep cracks and spreading ulcers. Sensation of lump (as of food) in pit of throat; of swelling and constriction. Throat symptoms are > by eating. Watery, light, very, offensive stools (in children), stools like soapsuds, with usually strong-smelling urine. Enuresis nocturna; urine dark, strong-smelling; heavy, hot; smelling like horse's urine. Shivering before stool. Long-continued, dry cough after suppressed gonorrhœa. Ganglion of wrist and bunion of great toe I have frequently cured with Benz. ac. In these cases an ointment (one ounce of the 3x to cetacean ointment one ounce) is a useful external adjunct. Tearing and stitches in great toe, especially right (gout). Swelling and pain of right knee. Gouty concretions. \"Most of the symptoms appear on the left side, but may subsequently come on the right\" (Guernsey). Motion most symptoms, but headache is at rest, and toothache is lying down.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Benzoïcum Acidum",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "C6H5_CO2H.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Whenever we see in the nature of a remedy a well-defined state and condition of the human system pointed out by certain distinctive groups of symptoms we may know that there is such a diseased state in the human family.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "They have not the power to create by themselves any diseased state except there is first such a state in the economy of the human race to be aroused.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "They simply call up in a single individual something that the individual has, and that something belongs to the human race, and so whenever we see a diseased state in the remedy we know that it exists in correspondence to something in the human race.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Things are so adjusted that everything is for use. There may be conditions in the human race that we, as yet, know no remedy for.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "We see certain groups of peculiar symptoms frequently repeat themselves and we know they are representatives of a state of the economy, but up to this day we may not have seen in the Materia",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Medica their counterpart.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "In medicines we have the exact counterpart the diseases of the human race.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Gouty constitution: Now this remedy has a state and condition that is sometimes called the gouty constitution, the uraemic or the lithaemic constitution, and, these cases are very difficult to manage, as the state is so persistent. It is one of the manifestations of Psora.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Urines: These patients suffer more or less from irregularity in the action of the kidneys; sometimes the urine is scanty and then they suffer from bodily complaints; again the urine is copious and then they are relieved of their complaints.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "They are subject to rheumatic attacks and pains in the joints, showing the gouty constitution, and then they have relief when the urine is copious and heavily laden with deposits; but on comes an attack when they have more or less urine, but it is light in specific gravity, and then they are full of pains; in that way they fluctuate.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Now, the young prescriber will sometimes see the patient when he is passing large quantities of uric acid forming the red pepper deposits and he thinks he must stop that; his main idea is to check that one particular thing.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "But the patient is a great deal better off while he has it. To cheek it is like suppressing a skin eruption, or restraining any other manifestation of disease.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It will be noticed, as one of the foremost things in this remedy's manifestations, that it has strong smelling urine; the urine is pungent, and it sometimes becomes so strong that it smells like, Hippuricum acid, and so it is said urine smells strong like that of a horse.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The odor in this remedy approximates that of Hippuricum acid.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Complaints: The complaints then, of Benzoïc acid are such as are changeable, and we know why they are changeable; when the urine is copious and plenty of uric acid is being passed, and the urine is full of deposits, then the patient is at his best; when the urine is scanty or of light specific gravity he suffers from backache and pains in the joints, he suffers from atmospheric changes, is sensitive to cold drafts and to the air; but let the urine start up again, which it does in a sort of alternating way, light urine alternating with heavy urine, and the patient is comfortable again.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Then, there are complaints in which the urine smells strong and pungent; this often occurs in children. It is astonishing that these little ones manifest the uric acid diathesis in early life.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Children: Mothers often describe it as intensely urinous. It smells like intensified urine; it is not the smell, so much, of decomposed urine nor of foetid urine, but urine intensified.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It has cured many times wetting the bed involuntary urination in sleep, when the bed that has been wetted several times becomes uncleanable.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "You can smell it almost as quick as you go into the room; the children all, smell like urine, strong urine; the house smells like urine. If two or three of these little fellows wet the bed at night, the urine is so strong it tells the story at once.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This medicine needs reproving; details have not been brought ou yet in nature is known. We have a good many medicines having this nature, but this is perhaps as intense as any.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This remedy does not. of course, fit all these patients, because it does not fit their special symptoms; but it has the nature or general state which, of course, precedes everything, and when it relates to all the particulars as well it does make wonderful changes.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Mind: There are a few mental symptoms.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Inclined to dwell on unpleasant things; if he saw anyone deformed, it made him shudder.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Alternation of profound sleep with prolonged periods of wakefulness. In the period of wakefulness, he dwells, during the night, upon all the unpleasant subjects that he can think of.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This state alternates with nights of stupid sleep for weeks, and this fluctuates, in accordance with the fluctuation of the state of urine.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Sadness.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Anxiety while sweating.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Child cross.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Head: There are many headaches; they are uraemic in character and come in many regions with many details.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Fearful pain in occiput or cerebellum.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Rheumatic pains in head.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "That is well described, because these headaches of uraemic character take on a similarity to rheumatic pains.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Pain and heat in region of organs of reverence and firmness.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Tearing pain in vertex.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The headaches are very numerous; the remedy is full of dull, aching occipital headaches, coming on in the night from change of weather.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pains located in the base of the brain after pains have existed for some time in the joints, and they are passing but little urine.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Every time he takes a little cold the urine becomes scanty and he is full of dull aches and pains in the head and especially in the occiput.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Smell: Perversion of smell.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Sense of smell diminished.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Pain in nasal bones.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Tongue: Another form of transformation scene takes place in this remedy, when all the gouty symptoms of the body cease and inflammation of the tongue comes on.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The pains in the joints cease suddenly from taking cold, from stormy weather and on comes a sudden swelling of the tongue.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Mercury also has this state.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Extensive ulcerations of tongue, with deeply chapped or fungoid surfaces.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Then, again peculiar kinds of sore throat take place from this same cause.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sudden stoppage or slacking up of the quantity of urine; it becomes scanty, high colored, and pungent, smelling like that of a horse (Nitric acid) along with acute inflammation and swelling of the tonsils and throat inflammation of the tonsils with scanty, strong, pungent urine smelling like that of a horse.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Metastasis: Another feature that seems almost like metastasis.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Take an individual who is going around with more or less rheumatic aches in the joints; he takes cold and all this ceases, but the next day he comes down with inflammation of the tongue or sore throat, or inflammation of the stomach; so that he vomits every thing he eats.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The gout goes to different parts and in this instance it goes to the stomach; and then Benzoic acid, Antimonium, crud. or Sanguinaria is likely to be useful.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "When it goes to the throat or is followed by swelling of the tongue Mercury and Benzoic acid should be thought of.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Whenever this gouty condition goes to the stomach, of course it must conform to those symptoms that are in the nature of this remedy.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "In this remedy we have:",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"loathing, sickness at Stomach,\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"nausea with gagging,\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"vomiting of a salty substance; bitter,\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "When we think of Benzoic acid for the stomach symptoms, it is important that we have in mind its whole nature, how it brings about its complaints and what characterizes a Benzoic acid patient.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "We would not be able to distinguish from the stomach symptoms alone we must carry with them the character of the remedy.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Stools: It has much disturbance of the liver, and many liver symptoms. As to the bowels, the stool, the rectum, anus and urinary organs, it is very rich in symptoms.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Its striking ones I will call your attention to, but remember its migrating, metastatic nature, its complaints going from one part to another, which will accompany these symptoms.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Stools, copious, watery.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This is true in summer diarrhoea that has come on suddenly, \"excessively offensive,\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The white stool, like soap-suds, is so strong a symptom that the remedy does not fail to cure even when the gouty constitution is not present.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Excessively offensive, scenting the whole house.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Putrid, bloody.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Watery, light-colored, very offensive stools (in children).\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "So we get the idea that the stools are white and that the first passages are like soap-suds, but later the soap appearance subsides and leaves a white stool.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It is well, often, when a stool is passed that is of a light liquid, to bear in mind a few remedies that produce this state and ascertain whether it is like soapsuds or filled with bubbles of air.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Diarrhea of children.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The urinous odor of the body, and especially that peculiarly pungent, intense smell of the urine.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Slightly elevated, wart-like, round surfaces around anus.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The urinary symptoms are too numerous to read.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Foetid urine.\"'",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Urine of a very repulsive odor.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Effervescing with hydrochloric acids.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The odor is sometimes like hartshorn; it is pungent; these are only efforts to describe the strong smell.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Urine dark brown.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It is true that normal urine after standing a while will get a foetid odor, but in this remedy, that just passed is properly described as being intensely urinous.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Urine contains mucus and pus.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Morbid condition of urine renders urine acid.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "it says in the text \"Hippuricum acid,\" but this is a rare condition.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Brown urine smells sour.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Too frequent desire to evacuate bladder.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Nephritic colic.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Urine dark, urinous odor highly intensified.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Gouty troubles of the liver; rheumatism; nephritic colic; it has cured such states after gonorrhoea, but it is not much of a gonorrhoeal remedy.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "When the rheumatic states and these symptoms are present there are more or less pains in the kidney.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\" Sore pain in the back; burning in the kidney.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Prolapsus uteri with foetid urine.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Retention of urine in infants.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Asthma with inflammatory rheumatic complaints.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Cough followed by expectoration of green mucus.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Heart: The organ that is most commonly affected in these rheumatic complaints is the heart. No organ is so likely to be affected when rheumatism leaves the outermost parts as the heart.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pains in the heart. So in this diathesis, with the strong smelling urine and the gout, we may expect affections of the heart.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Pains change place incessantly.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Palpitation of the heart.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The rheumatism, of course, is affecting the heart.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Awakens after midnight with violent pulsations of the heart.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Think a moment and you will see in what kind of a case you will need Benzoic acid.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The constitution of the remedy comes to mind at once with the heart symptoms, the dyspnea, pain in the heart with rheumatic symptoms;",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"cannot go to sleep.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Think of the alternation of sleeplessness with sleep; think of the strong urine, of the fluctuating complaints, of the erratic constitution.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Palpitation worse at night.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Rheumatic pains in extremities relieving heart.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There we get relief; complaints going back to the extremities with relief to the heart. The heart will relieve when the urine becomes copious or when the rheumatism goes back to the extremities, into the fingers and knees, especially the knees in Benzoic acid.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Rheumatism alternating between the extremities and heart. This medicine has cured affections of the heart when the rheumatism has a long time ago disappeared from the extremities and has ever since been affecting the heart; after Benzoic acid has been administered a very good sign of its action is that the extremities become painful and the urine becomes copious; free urine and solids increased; the urine becomes heavy, whereas it was light.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Hard, frequent pulse.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Extremities: The extremities are full of rheumatic affections.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Lassitude in lower limbs.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Swelling of knee.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "All gouty affections belong to this remedy.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Gouty concretions.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Nodes on joints.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Benzoic acid is often an excellent palliating remedy in old gouty constitutions; they want to be relieved of the pains in their fingers and in the nodes and joints. The fingers crack and are clumsy and painful.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "But often the pain has been relieved and gone to other parts. This is one among the remedies that will drive the complaints away from the internal organs and generally increase the pain in the extremities, which they will scold about.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Trembling with palpitation of heart.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Extreme weakness; sweat and comatose condition.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Note that comatose condition with sweat; the Benzoic acid patient sweats without relief.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copious, exhaustive sweat and profound sleep, but there is no relief.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Awaken with difficulty of breathing.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pulsation all over.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"All sorts of catarrhal states; gouty diathesis, gout with arthritic nodosites, syphilitic rheumatism, etc.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "These patients are getting low down in the scale of life, the tissues become feeble. Ulcers form upon the skin and mucous membranes.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "LECTURES ON HOMOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror Benzoïcum Acidum C6H5_CO2H. Whenever we see in the nature of a remedy a well-defined state and condition of the human system pointed out by certain distinctive groups of symptoms we may know that there is such a diseased state in the human family. They have not the power to create by themselves any diseased state except there is first such a state in the economy of the human race to be aroused. They simply call up in a single individual something that the individual has, and that something belongs to the human race, and so whenever we see a diseased state in the remedy we know that it exists in correspondence to something in the human race. Things are so adjusted that everything is for use. There may be conditions in the human race that we, as yet, know no remedy for. We see certain groups of peculiar symptoms frequently repeat themselves and we know they are representatives of a state of the economy, but up to this day we may not have seen in the Materia Medica their counterpart. In medicines we have the exact counterpart the diseases of the human race. Gouty constitution : Now this remedy has a state and condition that is sometimes called the gouty constitution, the uraemic or the lithaemic constitution, and, these cases are very difficult to manage, as the state is so persistent. It is one of the manifestations of Psora . Urines : These patients suffer more or less from irregularity in the action of the kidneys; sometimes the urine is scanty and then they suffer from bodily complaints; again the urine is copious and then they are relieved of their complaints. They are subject to rheumatic attacks and pains in the joints, showing the gouty constitution, and then they have relief when the urine is copious and heavily laden with deposits; but on comes an attack when they have more or less urine, but it is light in specific gravity, and then they are full of pains; in that way they fluctuate. Now, the young prescriber will sometimes see the patient when he is passing large quantities of uric acid forming the red pepper deposits and he thinks he must stop that; his main idea is to check that one particular thing. But the patient is a great deal better off while he has it. To cheek it is like suppressing a skin eruption, or restraining any other manifestation of disease. It will be noticed, as one of the foremost things in this remedy's manifestations, that it has strong smelling urine; the urine is pungent, and it sometimes becomes so strong that it smells like, Hippuricum acid , and so it is said urine smells strong like that of a horse. The odor in this remedy approximates that of Hippuricum acid. Complaints : The complaints then, of Benzoïc acid are such as are changeable, and we know why they are changeable; when the urine is copious and plenty of uric acid is being passed, and the urine is full of deposits, then the patient is at his best; when the urine is scanty or of light specific gravity he suffers from backache and pains in the joints, he suffers from atmospheric changes, is sensitive to cold drafts and to the air; but let the urine start up again, which it does in a sort of alternating way, light urine alternating with heavy urine, and the patient is comfortable again. Then, there are complaints in which the urine smells strong and pungent; this often occurs in children. It is astonishing that these little ones manifest the uric acid diathesis in early life. Children : Mothers often describe it as intensely urinous. It smells like intensified urine; it is not the smell, so much, of decomposed urine nor of foetid urine, but urine intensified. It has cured many times wetting the bed involuntary urination in sleep, when the bed that has been wetted several times becomes uncleanable. You can smell it almost as quick as you go into the room; the children all, smell like urine, strong urine; the house smells like urine. If two or three of these little fellows wet the bed at night, the urine is so strong it tells the story at once. This medicine needs reproving; details have not been brought ou yet in nature is known. We have a good many medicines having this nature, but this is perhaps as intense as any. This remedy does not. of course, fit all these patients, because it does not fit their special symptoms; but it has the nature or general state which, of course, precedes everything, and when it relates to all the particulars as well it does make wonderful changes. Mind : There are a few mental symptoms. \"Inclined to dwell on unpleasant things; if he saw anyone deformed, it made him shudder.\" Alternation of profound sleep with prolonged periods of wakefulness. In the period of wakefulness, he dwells, during the night, upon all the unpleasant subjects that he can think of. This state alternates with nights of stupid sleep for weeks, and this fluctuates, in accordance with the fluctuation of the state of urine. \"Sadness.\" \"Anxiety while sweating.\" \"Child cross.\" Head : There are many headaches; they are uraemic in character and come in many regions with many details. \"Fearful pain in occiput or cerebellum.\" \"Rheumatic pains in head.\" That is well described, because these headaches of uraemic character take on a similarity to rheumatic pains. \"Pain and heat in region of organs of reverence and firmness.\" \"Tearing pain in vertex.\" The headaches are very numerous; the remedy is full of dull, aching occipital headaches, coming on in the night from change of weather. Pains located in the base of the brain after pains have existed for some time in the joints, and they are passing but little urine. Every time he takes a little cold the urine becomes scanty and he is full of dull aches and pains in the head and especially in the occiput. Smell : Perversion of smell. \"Sense of smell diminished.\" \"Pain in nasal bones.\" Tongue : Another form of transformation scene takes place in this remedy, when all the gouty symptoms of the body cease and inflammation of the tongue comes on. The pains in the joints cease suddenly from taking cold, from stormy weather and on comes a sudden swelling of the tongue. Mercury also has this state. \"Extensive ulcerations of tongue, with deeply chapped or fungoid surfaces.\" Then, again peculiar kinds of sore throat take place from this same cause. Sudden stoppage or slacking up of the quantity of urine; it becomes scanty, high colored, and pungent, smelling like that of a horse ( Nitric acid ) along with acute inflammation and swelling of the tonsils and throat inflammation of the tonsils with scanty, strong, pungent urine smelling like that of a horse. Metastasis : Another feature that seems almost like metastasis. Take an individual who is going around with more or less rheumatic aches in the joints; he takes cold and all this ceases, but the next day he comes down with inflammation of the tongue or sore throat, or inflammation of the stomach ; so that he vomits every thing he eats. The gout goes to different parts and in this instance it goes to the stomach; and then Benzoic acid, Antimonium, crud. or Sanguinaria is likely to be useful. When it goes to the throat or is followed by swelling of the tongue Mercury and Benzoic acid should be thought of. Whenever this gouty condition goes to the stomach, of course it must conform to those symptoms that are in the nature of this remedy. In this remedy we have: \"loathing, sickness at Stomach,\" \"nausea with gagging,\" \"vomiting of a salty substance; bitter,\" When we think of Benzoic acid for the stomach symptoms, it is important that we have in mind its whole nature, how it brings about its complaints and what characterizes a Benzoic acid patient. We would not be able to distinguish from the stomach symptoms alone we must carry with them the character of the remedy. Stools : It has much disturbance of the liver, and many liver symptoms. As to the bowels, the stool, the rectum, anus and urinary organs, it is very rich in symptoms. Its striking ones I will call your attention to, but remember its migrating, metastatic nature, its complaints going from one part to another, which will accompany these symptoms. \"Stools, copious, watery.\" This is true in summer diarrhoea that has come on suddenly, \" excessively offensive ,\" The white stool, like soap-suds, is so strong a symptom that the remedy does not fail to cure even when the gouty constitution is not present. \"Excessively offensive, scenting the whole house.\" \"Putrid, bloody.\" \"Watery, light-colored, very offensive stools (in children).\" So we get the idea that the stools are white and that the first passages are like soap-suds, but later the soap appearance subsides and leaves a white stool. It is well, often, when a stool is passed that is of a light liquid, to bear in mind a few remedies that produce this state and ascertain whether it is like soapsuds or filled with bubbles of air. \"Diarrhea of children.\" The urinous odor of the body, and especially that peculiarly pungent, intense smell of the urine. \"Slightly elevated, wart-like, round surfaces around anus.\" The urinary symptoms are too numerous to read. \"Foetid urine.\"' \"Urine of a very repulsive odor.\" \"Effervescing with hydrochloric acids.\" The odor is sometimes like hartshorn; it is pungent; these are only efforts to describe the strong smell. \"Urine dark brown.\" It is true that normal urine after standing a while will get a foetid odor, but in this remedy, that just passed is properly described as being intensely urinous. \"Urine contains mucus and pus.\" \"Morbid condition of urine renders urine acid.\" it says in the text \" Hippuricum acid ,\" but this is a rare condition. \"Brown urine smells sour.\" \"Too frequent desire to evacuate bladder.\" \"Nephritic colic.\" \"Urine dark, urinous odor highly intensified.\" Gouty troubles of the liver; rheumatism; nephritic colic; it has cured such states after gonorrhoea, but it is not much of a gonorrhoeal remedy. When the rheumatic states and these symptoms are present there are more or less pains in the kidney. \" Sore pain in the back; burning in the kidney.\" \"Prolapsus uteri with foetid urine.\" \"Retention of urine in infants.\" \"Asthma with inflammatory rheumatic complaints.\" \"Cough followed by expectoration of green mucus.\" Heart : The organ that is most commonly affected in these rheumatic complaints is the heart. No organ is so likely to be affected when rheumatism leaves the outermost parts as the heart. Pains in the heart. So in this diathesis, with the strong smelling urine and the gout, we may expect affections of the heart. \"Pains change place incessantly.\" \"Palpitation of the heart.\" The rheumatism, of course, is affecting the heart. \"Awakens after midnight with violent pulsations of the heart.\" Think a moment and you will see in what kind of a case you will need Benzoic acid . The constitution of the remedy comes to mind at once with the heart symptoms, the dyspnea, pain in the heart with rheumatic symptoms; \"cannot go to sleep.\" Think of the alternation of sleeplessness with sleep; think of the strong urine, of the fluctuating complaints, of the erratic constitution. \"Palpitation worse at night.\" \"Rheumatic pains in extremities relieving heart.\" There we get relief; complaints going back to the extremities with relief to the heart. The heart will relieve when the urine becomes copious or when the rheumatism goes back to the extremities, into the fingers and knees, especially the knees in Benzoic acid . Rheumatism alternating between the extremities and heart. This medicine has cured affections of the heart when the rheumatism has a long time ago disappeared from the extremities and has ever since been affecting the heart; after Benzoic acid has been administered a very good sign of its action is that the extremities become painful and the urine becomes copious; free urine and solids increased; the urine becomes heavy, whereas it was light. \"Hard, frequent pulse.\" Extremities : The extremities are full of rheumatic affections. \"Lassitude in lower limbs.\" \"Swelling of knee.\" All gouty affections belong to this remedy. \"Gouty concretions.\" \"Nodes on joints.\" Benzoic acid is often an excellent palliating remedy in old gouty constitutions; they want to be relieved of the pains in their fingers and in the nodes and joints. The fingers crack and are clumsy and painful. But often the pain has been relieved and gone to other parts. This is one among the remedies that will drive the complaints away from the internal organs and generally increase the pain in the extremities, which they will scold about. \"Trembling with palpitation of heart.\" \"Extreme weakness; sweat and comatose condition.\" Note that comatose condition with sweat; the Benzoic acid patient sweats without relief. Copious, exhaustive sweat and profound sleep, but there is no relief. \"Awaken with difficulty of breathing.\" Pulsation all over. \"All sorts of catarrhal states; gouty diathesis, gout with arthritic nodosites, syphilitic rheumatism, etc.\" These patients are getting low down in the scale of life, the tissues become feeble. Ulcers form upon the skin and mucous membranes. Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-mm-1911"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Asthma; Bladder, affections of; Bunion; Cracks; Diarrhœa; Enuresis; Eye, tumours of; Ganglion; Gonorrhœa; Gout; Joints, affections of; Knee, pain in; Rheumatism; Sycosis; Throat, sore; Tongue, sore; Tonsils, enlarged; Ulcers; Urine, disorders of; Wens",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Long-continued dry cough, after suppressed gonorrhœa. Cough followed by expectoration of green mucus. Cough: after slight cold; excited by inspiration; produced by something acrid or dry in chest. Asthma with inflammatory rheumatism. Nodes on joints of upper and lower extremities, cracking on motion. Gouty concretions. Syphilitic rheumatism. Gouty deposits in both wrists between metacarpal bones; swelling of elbow-joints. Paralytic pains of fingers. Eruption of red spots on fingers. Fingers swollen, tearing and fine stitching pains in various parts of the limbs. Ganglion. Panaritium. Swelling in r. knee; ulcerative pain in whole leg, with pains in kidneys. Cracking or sense of dryness in knee-joint. Pain in both knees; after drinking wine. Pain in gastrocnemii. Sharp pain in l. ankle, when weight is on l. foot on walking. Severe pain in l. tendo Achillis close to os calcis when weight on that foot. Pain in r. tendo Achillis and in heart region at same time. Tearing and stitches, esp. in the metatarsal joints of the r. great toe. Gouty concretions and nodosities. Great weakness, perspiration, and comatose condition. Trembling, with palpitation of the heart. Weariness and lassitude. Pains suddenly change their locality. Symptoms in sick go from l. to r. and from below upward, esp. in rheumatism and gout.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Distress in eyes as from want of sleep. Throbbing in eyeballs. Burning heat in lids.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Swelling behind ears, which seems to reach periosteum. Sound as of confused voices in ears, when swallowing, or walking in open air.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "The tongue is spongy on the surface, with deep cracks, and with spreading ulcers. Toothache (the oil or gum is a popular local application). After-taste of food. Acid mucus in mouth. Taste of blood; bitter; flat; soapy (water); smoky (bread). Ulcerated tumour l. side of mouth, on soft commissure of jaws, behind last molar. Heat around mouth. Sensation as of a lump in the pit of the throat, as if some food had lodged there. Sensation of swelling or constriction in the throat. The throat symptoms are relieved by eating. Swallowing difficult, incomplete; with noise in ear; with soreness on back of tongue. Heat in œsophagus. Thyroid gland feels swollen. Angina faucium and tonsillaris, with characteristic urine.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Suppressed gonorrhœa; gleet; with offensive urine. Painfulness of genitals; pressure; raw pain. Smarting of frenum. Thrilling l. side of glans, extending into urethra, causing starting. Itching on glans; on sulcus behind corona.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menses too early; or retarded. Amenorrhœa. Prolapsus uteri with fetid urine. Weakness after menses. Gastric derangements when ascending a height (in a pregnant woman). Too long-lasting lochia.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Burning in nipples. Sensation of swelling in breasts and thyroid gland. Stitches in chest; breathing deeply; in evening. Asthenic pneumonia. Mucous oppression of lungs. Pains in the region of the heart. Most of the symptoms appear on the l. side, but may subsequently come on the r. side. Awakens every morning at two o'clock, with violent internal heat, and hard, beating pulse, compelling him to lie on the back, because the beating of the temporal arteries causes a humming in the ears, and prevents him from going to sleep. Pains about heart mostly, but suddenly change locality. Awakens after midnight with violent palpitation of the heart, and hard beating of the temporal arteries.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Awakens with oppression of breathing, with palpitation of the heart (after midnight), with heat and hard pulse.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "kent-lectures-1905",
+      "kent-mm-1911"
+    ]
+  }
+}

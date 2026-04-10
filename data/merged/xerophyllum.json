@@ -1,0 +1,131 @@
+{
+  "id": "xerophyllum",
+  "names": {
+    "primary": "XEROPHYLLUM",
+    "latin": "XEROPHYLLUM",
+    "common": [
+      "Tamalpais Lily, Basket Grass Flower"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Dull, cannot concentrate mind for study; forgets names; writes last letters of words first; misspells common words",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Feels full, stuffed up, pain across forehead and above eyes. Great pressure at root of nose. Bewildered. Loss of consciousness. Pulsating headache",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Painful, as of sand, smarting; difficult to focus for close work. Eyes feel sore, burn",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Stuffed; tightness at bridge of nose; acute nasal catarrh",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "Bloated in morning. Puffy under eyes",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Stitching pain upon swallowing",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Feels full and heavy. Eructations sour; offensive, an hour after luncheon and dinner. Vomiting at 2 pm",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Intestinal flatulence. In morning rumbling in bowels, with desire for stool",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Constipation, stools hard, small lumps. Difficult, soft stools, with much straining. Much flatus. Bearing-down pain in rectum",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Difficulty of retaining; dribbling when walking. Frequent urination at night",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Bearing-down sensation. Vulva inflamed, with furious itching. Increased sexual desire, with ovarian and uterine pains and leucorrhœa",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Posterior nares raw; discharge thick, yellow mucus. Sneezing. Trachea sore; lumps feel constricted",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Feels hot from sacrum to scapulæ. Backache, extending down legs. Pain over kidneys. Heat deep in spine",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Muscular lameness, trembling. Pain in knees. Limbs feel stiff (Rhus)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Erythema, with vesication and intense itching, stinging, and burning. Blisters, little lumps. Skin rough and cracked; feels like leather. Dermatitis, especially around knees. Inflammation resembling poison-oak. Inguinal glands and behind knee swollen",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "application of hot water, in morning, moving affected part",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "application of cold water, in afternoon and evening",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Sixth potency or higher"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">XEROPHYLLUM Tamalpais Lily, Basket Grass Flower Should prove curative in eczematous conditions, poison-oak, early typhoid states, etc.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

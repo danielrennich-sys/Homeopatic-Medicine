@@ -1,0 +1,40 @@
+{
+  "id": "arum-italicum",
+  "names": {
+    "primary": "Arum Italicum",
+    "latin": "Arum Italicum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T ARUM ITALICUM. A. Italicum, Miller. Nat. order , Araceæ. Preparation , Tincture of the root. Authority. Dr. Paul Pitet, proving in Bib. Hom., 1871. MIND. ► Extreme mental uneasiness. ► Intellectual incapacity, [1] . HEAD. ► Dull pains in the brain from the least intellectual exertion, especially in stormy weather. ► From time to time, damp weather brought on a dull, pressive, persistent, general headache, more severe at the occiput. ► Violent and permanent contusive pain in the anterior lobes of the brain, [1] . ABDOMEN. ► Painful sensitiveness, and constant heat in the abdomen. ► Symptoms of most acute entero-colitis. ► Violent attack of colic, contractive, twisting, principally before stool. ► The presence of food in the stomach (even when eating less quantity), speedily gave rise to colic, followed by diarrha. STOOL AND ANUS. [10.] ► Smarting and tearing pains in the rectum during stool, [1] . ► From eight to twelve evacuations in twenty-four hours, preceded by colic, mostly in the umbilical region, and renewed with each urging to stool, three times on the same occasion, [1] . ► Stools generally liquid or very soft, rather scanty, yellowish or dark, accompanied with emission of flatus, and toward the last, mixed with frothy mucus, [1] . ► Evacuations more frequent from 3 to 6 A.M., [1] . URINARY ORGANS. ► The colic is accompanied by pressure in the vesical region, with urging to urinate. RESPIRATORY APPARATUS. ► Very severe and obstinate hoarseness, worse in the evening, accompanied by tickling in the larynx, and cough, especially after sleeping. ► Hoarseness suddenly aggravated about 9 P.M. ► Shocks of dry cough, and constant hawking up of thick, tenacious, gray, or brown mucus, often blood-streaked. CHEST. ► During the five following months, dull contusive pains in the left chest, sometimes in front, a few centimetres below the clavicle, sometimes behind below the spine of the scapula and near its inner border. ► Burning heat behind the sternum and anterior portion of the chest. NECK AND BACK. [20.] ► Dull pains behind the left scapula. UPPER EXTREMITIES. ► The fingers colored red, as with wine lees, with sensitiveness and burning pain as if from a burn of the first degree, increased by pressure (after tearing up the plant). ► The skin of the last two phalanges of the fingers covered with small miliary elevations, almost invisible, and giving rise to constant itching, greatly aggravated after bathing, followed in two days by desquamation of the skin of the part affected (after tearing up the plant). ► Intolerable pricking and formication on the tips of the fingers, as from hundreds of needles (after tearing up the plant). GENERALITIES. ► Diminution of strength. ► Considerable debility and emaciation (after some days). ► General malaise. ► Aggravation by pure wine, coffee, brandy; the colic and evacuations and all the other complaints are immediately excited and renewed. SKIN. ► Remarkably violent and irritating itching, especially aggravated about 6 A.M., could only be allayed by friction with a very rough towel. ► Fingers colored red, etc. [30.] ► Small miliary elevations on fingers, etc. SLEEP AND DREAMS. ► Every morning, oppressive, unconquerable drowsiness, [1] . FEVER. ► Passing chills in daytime, at the slightest draught of air. ► Heat of the skin and hands at night, in bed, with accelerated pulse. ► In the afternoon, coldness and passing shiverings, especially down the back, followed in the evening by redness of the face, general heat, and accelerated pulse, and at night by very copious sweats, especially on the chest, having an odor resembling that of Hedera helix (ivy), when rubbed between the fingers. ► Night-sweats. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Brain-fag; Colic; Fever; Headache; Hoarseness; Itching",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Dr. Paul Pitet is the authority for this medicine. The chief symptoms observed were the following: Headache, chiefly in occiput, in damp weather. Dull pain in brain from least intellectual effort. Colic in umbilical region with diarrhœa. Smarting and tearing pains in rectum during stool. Burning behind sternum. Burning in fingers, by pressure. Skin covered with miliary vesicles desquamates. Prickling and formication as from hundreds of needles on tips of fingers. The colic is by wine, brandy, coffee. Itching is 6 p.m. Hoarseness 9 p.m. Damp weather . Unconquerable drowsiness in morning. Copious night sweat, especially on chest, smelling of ivy.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Araceæ; Æthusa c., Pic. ac., Anac. (brain-fag). Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

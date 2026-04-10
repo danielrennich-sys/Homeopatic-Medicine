@@ -1,0 +1,65 @@
+{
+  "id": "cephalanthus",
+  "names": {
+    "primary": "Cephalanthus",
+    "latin": "Cephalanthus",
+    "common": [
+      "Buttonbush"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T CEPHALANTHUS. Cephalanthus occidentalis, L. Natural order , Rubiaceæ. Common name , Butto-bush. Authority. E. D. Wright, M.D., Am. Hom. Obs., 1875, p. 177; took 1/2 ounce tincture on two successive days. ► Nervous, excited; felt light and easy, happy (first day). ► Toothache (second day). ► Raw, sore throat (first day). ► Bowels constipated (first day). ► Bowels loose, stool offensive; almost affected by the piles (second day). ► Griping pains in the lungs (?); in body and limbs, especially in the joints (second day). ► Joints of the fingers lame (second day). ► Hard dreams about fighting, quarrelling; restless and tossing over (second day). Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The bark of Cephalanthus occidentalis, Linné.Nat. Ord.—Rubiaceae.COMMON NAMES: Buttonbush, Buttonwood, Pond dogwood, Crane willow, Globe flower.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—This plant is a handsome shrub growing from 6 to 12 feet or more high, the bark being mostly rough on the stem and smooth on the branches. The leaves are opposite or in whorls of 3, oval, acuminate, entire, smooth, spreading, petioled, with short, intervening stipules, and from 3 to 5 inches by 2 to 3. The flowers are white, terminal, in spherical heads about an inch in diameter, resembling the globular inflorescence of the sycamore (Platanus occidentalis). Peduncles long; corolla tubular, slender, and 4-cleft; calyx tube, inversely pyramidal, the limb 4-toothed; stamens 4; anthers yellow; style thread-form, much protruded; stigma capitate, yellow. The fruit consists of small, hard, and dry capsules, inversely pyramidal, 2 to 4-celled, separating from the base upward into 2 or 4 closed 1-seeded portions (G.—W.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History and Description.—Buttonbush is indigenous to the United States, and is found in damp places, along the margins of rivers, ponds, etc., flowering from June to September. The bark is the part used, and possesses much bitterness. Water or alcohol takes up its virtues. Buttonbush bark occurs in market as short, curved pieces of a smooth, grayish-brown color marked with fine striae externally. The smooth and white inner bark is tough, and changes to a pale, rusty-brown color. Old bark has sometimes a fissured, ashen-gray, corky layer upon the surface. It has a bitterish, sub-astringent taste, but no odor.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chemical Composition.—Analysis has shown the bark to contain starch, sugar, gum, fatty matter, several resins, tannin, a saponin-like body, and an amorphous, bitter constituent readily soluble in both water and alcohol. A crystalline, fluorescent body has been obtained by precipitation with acetate and subacetate of lead. These acicular crystals are dissolved by alcohol, ether, and water (Hattan, Amer. Jour. Pharm., Vol. XLV).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Mr. Edo Claasen has obtained three bodies from the bark, cephalanthin, cephaletin, and cephalin. The latter occurs as warty crystals, and is thought to be a glucosid, splitting up into glucose and cephaletin on evaporating the solution. Cephalin is in yellowish-white needles, strongly-refracting, acid in reaction, and otherwise tasteless. It is insoluble in petroleum ether, very sparingly soluble in cold water, more soluble in hot water, and dissolving with greater ease in alcohol, ether, benzol, chloroform, and acetic acid. This body is strongly fluorescent in aqueous, alcoholic, and alkaline solutions, all well diluted. Even so minute a trace as 1 part in 2,000,000 of water exhibits this property, and if an alkali be added the blue coloration will be noticeable in a dilution of 1 to 20,000,000. The concentrated alkaline solution has a lemon-yellow color (Proc. A. P. A., 1892).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Tonic, febrifuge, aperient, and diuretic. The bark has been used with much success in intermittent and remittent fevers; and the inner bark of the root forms an agreeable bitter, which is often employed in coughs, and as a diuretic in gravel. The plant deserves further investigation. Tincture, 10 to 30 drops; infusion, fl℥ss to fl℥i.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Cephalanthin is, according to Kobert (1892), distinctly poisonous to both cold and warm-blooded animals, producing emesis, spasms, and paralysis. It destroys the blood corpuscles, converting them into methaemoglobin and oxyhaemoglobin.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Species.—Sarcocephalus esculentus, Afzelius. Senegambia and Sierra Leone furnish this plant, which is known in its habitat as the doundake. The bark, under the names Quinquina Africaine and Kina du Rio Nunez, is employed by the negroes as a febrifuge. More properly it is an astringent tonic, and as such is useful in the anemic state following typhoids, and as a remedy for loss of appetite, and for atonic dyspepsia. No alkaloid is present, according to Heckel and Schlagdenhauffen, but its virtues seem to depend upon three resinous principles—an orange-yellow bitter soluble in water, alcohol, and solution of potassa; a pale-yellow body insoluble in water, but soluble in potassa solution; and the third insoluble in alcohol and water, but dissolving in the potassa solution.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "kings-american-1898"
+    ]
+  }
+}

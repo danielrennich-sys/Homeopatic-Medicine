@@ -1,0 +1,44 @@
+{
+  "id": "tiarella-cordifolia",
+  "names": {
+    "primary": "Tiarella Cordifolia (LINN.)",
+    "latin": "Tiarella Cordifolia (LINN.)",
+    "common": [
+      "Coolwort"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "North America from Canada to Virginia.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Perennial, forms a neat little edging with tiny white spiraea-like flowers, buds tinged pink, grows in the author's garden, and, given air and sunlight, in a light rich soil thrives well. It has simple leaves spotted and veined deep red; basal leaves turn a rich red orange. Needs dividing every second year. Seeds are few, sub-globose. Taste slightly stringent, odourless.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Tonic, diuretic. Of value in gravel and other diseases of the bladder, and as a tonic in indigestion and dyspepsia, corrects acidity and aids the liver.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "For an infusion or decoction, 1 OZ. to the pint of water; take freely 4 oz. of the infusion two or three times daily till conditions improve.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

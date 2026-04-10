@@ -1,0 +1,81 @@
+{
+  "id": "trachinus",
+  "names": {
+    "primary": "Trachinus",
+    "latin": "Trachinus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T TRACHINUS. Animal kingdom . Class , Pisces. Order , Teloster. Trachinus Draco and Vipera. Common names , Great and lesser Weever, Sting-bull and Sting-fish. Authorities. 1 , Prof. Allman, Annals and Mag. of Nat. Hist., vol. vi, 1840, p. 161 (Dublin Med. Press, 2d ser., vol. ix, 1864. p. 562), a wound on the thumb, from Trachinus vipera; 2 , Tarenfeld and Landeberg, A. H. Z., 8, 136 (from the Swedish), effects of the stings of T. Draco. MIND. ► Raving, [2] . ► Hydrophobia, [2] . ► Anxiety, [2] . ► Fear of death, [2] . HEAD. ► Vertigo, [2] . ► Violent headache, [2] . STOMACH. ► Violent thirst, [2] . ► Nausea, [2] . ► Green bilious vomiting, [2] . RESPIRATORY ORGANS. [10.] ► Paroxysm of suffocation, [2] . HEART AND PULSE. ► Palpitation, [2] . GENERALITIES. ► Swelling of the whole body, [2] . ► Swelling of the wounded arm, then of the head and chest, [2] . ► A peculiar stinging pain occurred a few seconds after the wound, and this gradually increased during a period of fifteen minutes; the pain had now become almost intolerable, extending along the back of the thumb towards the wrist; it was of a burning character, resembling the pain produced by the sting of a wasp, but much more intense; the thumb now began to swell, and exhibited an inflammatory blush, extending upwards to the wrist; the pain was now distinctly throbbing and very excruciating; in this state it continued for about an hour, when the pain began somewhat to subside, the swelling and redness still continuing; in about an hour and a half the pain was nearly gone; next morning the swelling of the thumb had but slightly diminished, and was in some degree diffused over the back of the hand, the thumb continued red and hot, and painful on pressure over the metacarpal bone; in a few days the swelling had completely subsided, but the pain on pressure continued for more than a week, [1] . ► The edges of the wound became thick, hard, tense, and insensible, black and gangrenous, [2] . ► Weakness, [2] . ► Violent burning pain, extending from the wound into the chest, [2] . SKIN. ► The skin of the whole body becomes yellowish green, [2] . ► Gangrenous blisters on the arm, [2] . SLEEP. [20.] ► Sleepless, [2] . FEVER. ► Constant fever, with irregular pulse, [2] . ► Cold clammy sweat, [2] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Asthma; Blood-poisoning; Neuralgia; Ulcers",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Paroxysms of suffocation. Swelling: of whole body; of wounded arm then of head and chest. Stinging, burning, throbbing pain increasing to unendurable intensity lasting an hour and then decreasing. Violent burning pain extending from wound to chest.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Some very serious effects have been recorded from wounds inflicted with the fins of Trachinus. Intolerable pains, swelling of the part, and in some cases gangrene, fever, delirium, and symptoms of hydrophobia have been observed. It should be indicated in cases of acute blood-poisoning with intense pains.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Raving. Hydrophobia. Anxiety. Fear of death.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo. Violent headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Violent thirst. Nausea. Green, bilious vomiting.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Palpitation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Skin of whole body became yellowish green. Gangrenous blisters on arms.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleeplessness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Constant fever with irregular pulse. Cold, clammy sweat. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

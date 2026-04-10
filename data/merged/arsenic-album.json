@@ -1,0 +1,36 @@
+{
+  "id": "arsenic-album",
+  "names": {
+    "primary": "Arsenic Album. White Oxide of Arsenic (As2O3.)",
+    "latin": "Arsenic Album. White Oxide of Arsenic (As2O3.)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Great prostration, with rapid sinking of the vital forces; fainting: The disposition is: a - Depressing, melancholic, disparing, indifferent. b - Anxious, fearful, restless, full of anguish. c - Irritable, sensitive, peevish, easily vexed. The greater the suffering, the greater the anguish, restlessness and fear of death. Mentally restless, but physically too weak to move; cannot rest in any place: changing places continually; wants to be moved from one bed to another, and lies now here now there. Anxious fear of death; thinks it useless to take medicine, is incurable, is surely going to die; dread of death, when alone, or, going to bed. Attacks of anxiety at night driving out of bed, Burning pains; the affected parts burn like fire, as if hot coals were applied to parts (Antr.), > by heat, hot drinks, hot applications. Burning thirst without special desire to drink; the stomach does not seem to tolerate, because it cannot assimilate cold water; lies like a stone in the stomach. It is wanted, but he cannot or dare not drink it. Cannot bear the smell or sight of food (Colch., Sep.). Great thirst for cold water; drinks often, but little at a time; eats seldom, but much. Gastric derangements; after cold fruits; ice cream; ice water; sour beer; bad sausage; alcoholic drinks; strong cheese. Teething children are pale, weak, fretful, and want to be carried rapidly. Diarrhoea, after eating or drinking; stool scanty, dark-colored, offensive, and whether small or large, followed by great prostration. Haemorrhoids: with stitching pain when walking or sitting, not at stool; preventing sitting or sleep; burning pain ; fissures make voiding urine difficult. Breathing: asthmatic; must sit or bend forward; springs out of bed at night, especially after twelve o'clock; unable to lie down for fear of suffocation; attacks like croup instead of the usual urticaria. Rapid emaciation: with cold sweat and great debility (Tub., Ver.); of affected parts; marasmus. Anasarca, skin pale, waxy, earth-colored (Acet. ac.). Excessive exhaustion from least exertion. Exhaustion is not felt by the patient while lying still; when he moves he is surprised to find himself so weak. Symptoms generally worse 1-2 p. m., 12-2 a. m. Skin: dry and scaly; cold, blue and wrinkled; with cold, clammy perspiration; like parchment; white and pasty; black vesicles and burning pain. Bad effects from decayed food or animal matter, whether by inoculation, olfaction or ingestion. Complaints return annually (Carbo. v., Lach., Sulph., Thuja).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relation. - Complementary: Allium s., Carbo. v., Phos., Pyr. Ars. should be thought of in ailments from: chewing tabacco; alcoholism; sea bathing; sausage poisoning; dissecting woulds and anthrax poison; stings of venomous insects.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - After midnight (1 to 2 a. m. or p. m.); from cold; cold drinks or food; when lying on affected side or with the head low.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Amelioration. - From heat in general (reverse of Sec.) except headache, which is temporarily > by cold bathing (Spig.); burning pain > by heat.",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

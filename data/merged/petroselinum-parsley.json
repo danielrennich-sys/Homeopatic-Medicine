@@ -1,0 +1,28 @@
+{
+  "id": "petroselinum-parsley",
+  "names": {
+    "primary": "Petroselinum. Parsley. (Umbelliferae.)",
+    "latin": "Petroselinum. Parsley. (Umbelliferae.)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Intermittent fever: complicating traumatic or chronic urethritis or stricture; with abdominal affections and perverted or defective assimilation. Thirsty and hungry, yet as soon as they begin to eat or drink they loose all desire (rev. of, Cal.). Sudden urging to urinate (Canth.). Child suddenly seized with desire to urinate; if cannot be gratified at once, jumps up and down with pain. Burning, tingling from perineum throughout whole urethra. Frequent voluptuous tickling in fossa navicularis. Gonorrhoea: sudden irresistible desire to urinate; intense biting, itching, deep in urethra, must rub it with some rough article in urethra for >; pain at root of penis or neck of bladder. Gleet.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Compare: Can., Canth., Mer. in sudden urging to urinate.",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

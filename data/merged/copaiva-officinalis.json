@@ -1,0 +1,89 @@
+{
+  "id": "copaiva-officinalis",
+  "names": {
+    "primary": "COPAIVA OFFICINALIS",
+    "latin": "COPAIVA OFFICINALIS",
+    "common": [
+      "Balsam of Copaiva (COPAIVA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Excessive sensitiveness; pain in occiput. Dull, frontal headache, passes to occiput and back again, with throbbing, worse right side and motion. Scalp sensitive. Sensitive to sharp sounds",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Rawness and soreness of nostrils with stopped-up feeling; dryness of posterior nares. Profuse, thick, fetid discharge from nasal passages, running down throat at night. Burning and dryness, crusts on turbinated bones. Marked catarrhal condition in upper respiratory tract",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Food seems too salty. Gastric troubles during menstruation or following urticaria. Gas and intestinal flatulence, urging to stool and difficult passage with pain",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Burning pressure; painful micturition by drops. Retention, with pain in bladder, anus, and rectum. Catarrh of bladder; dysuria. Swelling of orifice. Constant desire to urinate. Urine smells of violets. Greenish, turbid color; peculiar pungent odor",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Mucous Colitis. Stools covered with mucus, with colic and chilliness. Burning and itching of anus, caused by piles",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Testicles sensitive and swollen",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Itching of vulva and anus, with bloody purulent discharge. Profuse, strong-smelling menstrual discharge, with pains radiating to hip bones, with nausea",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Cough, with profuse, gray, purulent expectoration. Tickling in larynx, trachea, and bronchi. Bronchial catarrh, with profuse greenish, offensive discharge",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Hives, with fever and constipation. Roseola. Erysipelatous inflammation, especially around abdomen. Circumscribed lenticular patches, with itching; mottled appearance. Chronic urticaria in children. Bullous eruptions",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "relationships": {
+      "antidoted_by": [
+        "Bell",
+        "Merc"
+      ]
+    },
+    "dosing": {
+      "notes": "First to third attenuation"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">COPAIVA OFFICINALIS Balsam of Copaiva (COPAIVA) Acts powerfully on mucous membranes, especially that of the urinary tract, the respiratory organs, and the skin, here producing a well-marked nettle-rash. Cold and catarrhs.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "aqua-rosae",
+  "names": {
+    "primary": "Aqua Rosae",
+    "latin": "Aqua Rosae",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Rose Water.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Stronger Rose Water mixed with an equal part of distilled water, immediately before dispensing.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Description.—A clear aqueous preparation having the pleasant odor of roses. [Stronger Rose Water is a saturated, aqueous distillate from the flowers of the hundred-leaved rose (Rosa centifolia, Linné, Nat. Ord. Rosaceae). It is colorless and should have only the odor and taste of fresh rose petals.]",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—External. A cooling, non-irritating and slightly astringent collyrium. As a perfume preparation it is of much value in cosmetic lotions and washes, and the Stronger Rose Water (Aqua Rosae Fortior) is an ingredient of Ointment of Rose Water (Unguentum, Aquae Rosae), or so-called Cold Cream. Equal parts of Rose Water and Glycerin is a favorite perfumed lotion for chapped hands, lips, and face.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "felter-eclectic-1922"
+    ]
+  }
+}

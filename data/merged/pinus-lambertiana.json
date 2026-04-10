@@ -1,0 +1,50 @@
+{
+  "id": "pinus-lambertiana",
+  "names": {
+    "primary": "Pinus Lambertiana",
+    "latin": "Pinus Lambertiana",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T PINUS LAMBERTIANA. Pinus Lambertiana, Douglas. Natural order , Coniferæ. Common name , Sugar pine. Preparation , Triturations of the inspissated sap. Authority. Dr. A. P. Throop, Trans. N. Y. St. Hom. Med. Soc., 1874. ► \"I obtained two following facts from Miss V. V.\" A very small quantity of the inspissated sap (which makes a sugary substance, strongly resembling manna), say from the size of a pea up to a teaspoonful, produces a decided but extremely gentle cathartic action. ► (In the case of women suffering from menstrual suppression, its remedial action is pleasant and painless, restraining the flow, and removing any unpleasant or painful sensations.) ► In larger quantities (but just how large I have failed to learn) the Indian squaw administers it to the pregnant women to procure abortion. ► A party of several persons gorged themselves with the sugar found on the wounded sides of the trees, and proved by experience that it may be taken in such quantities as to be actively and energetically cathartic. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Abortion; Amenorrhœa; Constipation",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Gentle cathartic action.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The inspissated sap of P. Lamb. makes a sugary substance like manna. A small quantity (from a bit the size of a pea to a teaspoonful) has a decided but gentle laxative action, and in larger quantities emphatically so. It has also an action on the menstrual function, restoring menses when suppressed; and producing abortion in pregnant women.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Sabina, Junip., Pin. syl., and other coniferæ."
+      ]
+    },
+    "female": [
+      {
+        "text": "Used by Indian women to procure abortion. In suppressed menses restores the flow and removes painful sensations resulting from suppression. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

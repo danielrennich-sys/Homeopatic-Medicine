@@ -1,0 +1,92 @@
+{
+  "id": "carboneum",
+  "names": {
+    "primary": "Carboneum",
+    "latin": "Carboneum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T CARBONEUM. Amorphous Carbon; lampblack; obtained (for this proving) from the chimney of a coal-oil lamp. Authority. Dr. W. H. Burt, N. Am. J. of Hom., 9, 273, proving with repeated doses of the first trituration. HEAD. ► During the spasms had a dull heavy ache in the forehead, exactly in the organ of benevolence; it lasted two days and a half (third day). NOSE. ► Very profuse secretion of a thick yellow mucus from the nose, which lasted about eight days (fourth day). MOUTH. ► In morning tongue coated white (third day). THROAT. ► 4 A.M. Throat felt so very sore that he got up and put a wet towel around it, and took a dose of Aconite (second day). STOMACH. ► Loss of appetite; could not eat breakfast (third day). ► Entire loss of appetite (fourth day). ► Appetite began to return, with a great craving for acids, which he could not allay (fourth day). STOOL. ► Bowels very costive (fourth day). HEART AND PULSE. ► Pulse from 80 to 90, weak and irregular; after the third day, it fell to 70, and was very weak. BACK. [10.] ► Back and limbs ached very much (second and third days). GENERAL SYMPTOMS. ► Spasms; commencing in the tongue, passing down the trachea to the lungs, which prevented him from breathing for about two minutes; then gradually left, and went to stomach, arms, hands, and legs. It took four persons to hold him, two at his hands, and two at his feet. They were both tonic and clonic spasms. The spasms lasted two hours, and then gradually ceased. The hands had no feeling in them; they were closed and could not be opened; wrists perfectly pulseless; hands shrivelled and cold (third day). 2 P.M., the spasms came on very suddenly, the same as they did the first time, but not quite so violent. They did not affect the lungs at this time, but were much harder in the stomach. They lasted three hours, then gradually ceased. He seemed at the point of death. The spasms left him so weak that he could not raise his hand to his head nor sit up (fourth day). ► Morning, on rising, felt very weary (third day). ► In afternoon began to feel very weary (second day). SKIN. ► About every ten or fifteen minutes a tingling, prickly sensation passed all over the body, which gradually increased, especially the numb, tingling sensation, until 2 P.M., when he went into spasms. SLEEP AND DREAMS. ► Very restless night (second day). Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Convulsions; Sore-throat; Tetanus; Tongue, spasm of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Spasms and convulsions, tonic and clonic. Hands cold, shrivelled, pulseless, devoid of sensation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "This substance was proved by Dr. Burt in the 1x trit. It produced sore-throat, costiveness, great craving for acids, and a peculiar convulsive attack described as follows: Spasms, commencing on the tongue, passing down the trachea to the lungs which prevented him from breathing for about two moments; then gradually left and went to stomach, arms, hands, and legs. It took four persons to hold him─two at his hands and two at his feet. Spasms both tonic and clonic. Lasted two hours then gradually ceased. The hands had no feeling in them; they were closed and could not be opened. Wrists perfectly pulseless, hands shrivelled and cold. At 2 p.m. the spasms came on very suddenly the same as the first time but not so violent. They did not affect the lungs this time but were much harder in the stomach. Lasted three hours then gradually ceased. He seemed at the point of death. The spasms left him so weak that he could not lift his hand to his head nor sit up.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Carb. an., Carb. v., Carb. h., Carb. o., Nux v., Æthus., Œnanth."
+      ]
+    },
+    "head": [
+      {
+        "text": "Dull, heavy ache in forehead, during the spasms (lasted 2 1/2 days).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Very profuse secretion of thick yellow mucus from nose. (lasted 8 days).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue, coated white, morning (3rd day). Spasms commencing in tongue. Throat very sore 4 a.m.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "3rd day appetite lost; began to return 4th day with a great craving for acids which he could not allay.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Bowels very costive (4th day).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pulse 80 to 90 weak and irregular. After third day fell to 70 and was very weak. 20.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Back and limbs ached much.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Every 10 to 15 minutes tingling, prickly sensation, passed all over body, esp. the numb, tingling sensation, until 2 p.m., when he went into spasms. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

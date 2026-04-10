@@ -1,0 +1,38 @@
+{
+  "id": "graphalium-uliginosum",
+  "names": {
+    "primary": "Graphalium uliginosum",
+    "latin": "Graphalium uliginosum",
+    "common": [
+      "Cudweed"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Marshy places in most parts of Europe.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Stalk branched, diffused; flowers crowded, termina tiny; leaves elliptical, tapering into a long foot-stalk, slightly downy and greenish above, whitish and more downy underneath. The ends of the branches crowded with nurnerous heads of nearly sessile flowers which appear in August.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Quinsy, gargle astringent, infusion 1 OZ. to 1 pint boiling water taken internally in wineglassful; also used as a gargle. Fluid extract: Dose , 1/2 to 1 drachm. See: CATSFOOT EVERLASTING PLANT (WHITE) BALSAM .",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "kali-telluricum",
+  "names": {
+    "primary": "Kali Telluricum",
+    "latin": "Kali Telluricum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T KALI TELLURICUM. Potassium telluriate, TeO 4 K 3 . Authorities. Liebig and Wohler, Annals, 1853 (Z. f. H. Kl., 2, 189). 1 , took .04 gramme daily for four days, then .05 gramme for two days, then .08 gramme one day; 2 , another person took .04 gramme. MOUTH. ► Tongue coated white and somewhat swollen (seventh day), [1] . ► Garlicky odor in the mouth, [2] . ► The most remarkable symptom was the garlicky odor of Tellurium in the breath; this appeared very soon after the first dose, and was noticed for seven weeks, it was so offensive to others that the experimenter was obliged to avoid society, [1] . ► Very copious secretion of saliva (seventh day), [1] . STOMACH. ► Increased appetite, [2] . ► The appetite seemed to be increased during the first three days, but afterwards became less and less, [1] . ► Loss of appetite (seventh day), [1] . ► Inclination to vomit (seventh day), [1] . ► The gastric symptoms lasted for fourteen days, [1] . HEART. ► Oppression in the cardiac region (seventh day), [1] . SLEEP. ► Sleepiness, [2] ; during the first days, [1] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Breath, offensive; Salivation; Tongue, swelling of",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "A few symptoms of this salt have been observed, of which the garlicky odour of the breath was the most noticeable and persistent. The tongue was coated white and swollen, and there was salivation. The appetite was increased.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Tellur., Phos., and Kali phos. (garlicky odour)."
+      ]
+    },
+    "mouth_throat": [
+      {
+        "text": "Tongue coated white and somewhat swollen. Garlicky odour in mouth (appeared soon after first dose, lasted seven weeks, was so offensive to others he was obliged to avoid society). Copious secretion of saliva.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Appetite increased at first; later diminished; finally lost. Inclination to vomit.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Oppression in cardiac region (7th d).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleepiness; during first days. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

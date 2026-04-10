@@ -1,0 +1,102 @@
+{
+  "id": "selenium-metallicum",
+  "names": {
+    "primary": "SELENIUM METALLICUM",
+    "latin": "SELENIUM METALLICUM",
+    "common": [
+      "The Element Selenium (SELENIUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Lascivious thoughts, with impotency. Mental labor fatigues. Extreme sadness. Abject despair, uncompromising melancholy",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Hair falls out. Pain over left eye; worse walking in sun, strong odors and tea. Scalp feels tense. Headache from tea drinking",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Incipient tubercular laryngitis. Hawking and raising transparent lumps of mucus every morning. Hoarseness. Cough in morning, with expectoration of bloody mucus. Hoarseness of singers. Much clear, starchy mucus (Stann)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Desire for brandy and other strong drink. Sweetish taste. Hiccough and eructations after smoking. After eating, pulsation all over, especially abdomen",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Chronic liver affections; liver painful, enlarged, with fine rash over liver region. Stool constipated, hard and accumulated in rectum",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Sensation in the tip of urethra as if a biting drop were forcing its way out. Involuntary dribbling",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Dribbling of semen during sleep. Dribbling of prostatic fluid. Irritability after coitus. Loss of sexual power, with lascivious fancies. Increases desire, decreases ability. Semen thin, odorless. Sexual neurasthenia. On attempting coition, penis relaxes. Hydrocele",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Dry, scaly eruption in palms, with itching, Itching about the ankles and folds of skin, between fingers. Hair falls out from brows, beard, and genitals. Itching about finger-joints and between fingers; in palms. Vesicular eruption between fingers (Rhus; Anac). Seborrhœa oleosa; comedones with an oily surface of the skin; alopecia. Acne",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Paralytic pains in small of back in the morning. Tearing pain in hands, at night",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleep prevented by pulsation in all vessels, worse abdomen. Sleepless until midnight, awakens early and always same hour",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "after sleep, in hot weather, from Cinchona, draught of air, coition",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "antidoted_by": [
+        "Ign",
+        "Puls"
+      ]
+    },
+    "dosing": {
+      "notes": "Sixth to thirtieth potency. Colloidal Selenium injection for inoperable cancer. Pain, sleeplessness, ulceration and discharge are markedly diminished"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">SELENIUM METALLICUM The Element Selenium (SELENIUM) Selenium is a constant constituent of bones and teeth. Marked effects on the genito-urinary organs, and often indicated in elderly men, especially for prostatitis and sexual atony. Great debility; worse, heat. Easy exhaustion, mental and physical, in old age. Debility after exhausting diseases.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

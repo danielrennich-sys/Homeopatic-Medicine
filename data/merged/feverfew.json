@@ -1,0 +1,41 @@
+{
+  "id": "feverfew",
+  "names": {
+    "primary": "Feverfew",
+    "latin": "Feverfew",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Feverfew is a perennial plant with leaves that look like those of chrysanthemum and flowers that look like daisies. Feverfew is native to parts of western Asia and the Balkans, but it now grows throughout the world. Traditionally, people have used feverfew for a variety of purposes, including respiratory disorders, gastrointestinal disorders, menstrual disorders, kidney disease, liver disease, tinnitus, earache, fever, infertility, and anemia. Feverfew is currently promoted for migraine headaches, blood vessel relaxation, minor pain (especially in the head, such as tension headaches), and joint support. Topically (applied to the skin), feverfew is promoted to provide relief from itching and skin irritation. Feverfew (also known as European feverfew) is different from American feverfew (Parthenium integrifolium) , a plant native to the eastern United States.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "Some studies in people have looked into feverfew’s use as a remedy for migraine headache. For instance, a 2020 review looked at 7 studies of feverfew for migraine, which included a total of 634 participants. The studies, which were small and used different sources and dosage levels of feverfew, showed inconsistent findings. There’s little or no evidence about feverfew for any other health conditions.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "Some research suggests that feverfew may help prevent migraine headaches, but results have been mixed. Some research suggests it may reduce migraine headache frequency, as well as some symptoms, such as pain, nausea, vomiting, and light and noise sensitivity. There’s not enough evidence to know if feverfew is helpful for other conditions.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "No serious side effects have been reported from feverfew use. Side effects can include nausea, digestive problems, and bloating. If the fresh leaves are chewed, sores and irritation of the mouth may occur. People who are sensitive to ragweed and related plants may have allergic reactions to feverfew. Using feverfew topically may cause dermatitis (when the skin becomes red, sore, or inflamed). Feverfew may slow blood clotting and should be stopped at least 2 weeks before scheduled surgery. Feverfew may interact with some medicines, including those used for migraine. If you take feverfew or any other medicine, talk with your health care provider before using feverfew or other herbal products; some herbs and medicines interact in harmful ways. Do not take feverfew while pregnant because it may affect uterine contractions. If you’re considering using feverfew while pregnant, consult your health care provider. Little is known about whether it’s safe to use feverfew while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "weak_support"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

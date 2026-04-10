@@ -1,0 +1,50 @@
+{
+  "id": "hysteronica-baylahuen",
+  "names": {
+    "primary": "Hysteronica Baylahuen",
+    "latin": "Hysteronica Baylahuen",
+    "common": [
+      "Hysteronica"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Western United States of America, Chile.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Belongs to the same group as Solidago (Golden Rod) and is closely allied to Grindelia botanically and as a drug.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Volatile oil, fatty oil which has the same odour as the plant, acid resin which is a mixture of four other resines, and tannin.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Stimulant, expectorant. The medicinal properties lie principally in its resin and volatile oil, the resin acting chiefly on the bowels and urinary passages, and the volatile oil on the lungs. It does not cause disorder to the stomach and bowels, it is a valuable remedy in dysentery, chronic diarrhoea specially of tuberculous nature and in chronic cystitis. The tincture, by its stimulating and protective action (like tinc. benzoin), has served as a dressing for wounds and ulcers.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "preparation": [
+      {
+        "text": "Infusion (1 : 150) has been advised, also a tincture (100 : 500) in a dose of 15 to 25 drops. See GRINDELIA .",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

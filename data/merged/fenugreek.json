@@ -1,0 +1,41 @@
+{
+  "id": "fenugreek",
+  "names": {
+    "primary": "Fenugreek",
+    "latin": "Fenugreek",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Fenugreek is a clover-like herb native to the Mediterranean region, southern Europe, and western Asia. Its seeds, which smell and taste like maple syrup, have been used as a spice and a traditional medicine. Because of its maple-like flavor, fenugreek has been used as a flavoring agent in foods, beverages, and tobacco. Fenugreek has been used as a medicinal plant for about 6,000 years. In various cultures, it has been used as a tonic or a laxative; as a remedy for menstrual cramps, menopause symptoms, kidney stones, and other conditions; and to stimulate milk production during breastfeeding. Today, fenugreek seed is promoted as a dietary supplement for diabetes, menstrual cramps, and many other conditions and to stimulate milk production during breastfeeding.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "There is not enough high-quality evidence to determine whether fenugreek is useful for diabetes or menstrual cramps. A few studies have evaluated the use of fenugreek to increase milk supply in breastfeeding women, with mixed results. More high-quality studies are needed before conclusions can be reached about fenugreek’s effects on these conditions. Fenugreek is not safe for use during pregnancy in amounts greater than those found in food; its use has been linked to increased risks of birth defects.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "Research has suggested that fenugreek may help lower blood sugar levels in people with type 2 diabetes, but many of the studies were not of high quality. Only a small number of studies have examined the effect of fenugreek on menstrual cramps. The evidence is of low quality, and the effects of fenugreek on this condition are uncertain. It’s uncertain whether fenugreek can increase milk supply in breastfeeding women; studies have had mixed results. The evidence on fenugreek for other health conditions is too limited for any conclusions to be reached.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Fenugreek is believed to be safe for adults and children in the amounts commonly found in foods. It is possibly safe for adults in larger amounts. There is not enough information to say whether it is safe for children to take fenugreek in amounts larger than those found in foods. Potential side effects of fenugreek include diarrhea, nausea, and other digestive tract symptoms. Large doses may cause a harmful drop in blood sugar. Fenugreek can cause allergic reactions, including serious reactions, in some people. If you take any type of medicine, talk with your health care provider before using fenugreek or other herbal products; some herbs and medicines interact in harmful ways. Fenugreek is not safe for use during pregnancy in amounts greater than those found in food; its use has been linked to increased risks of birth defects in both animals and people. Little is known about whether it’s safe to use fenugreek in amounts greater than those found in food while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "weak_support"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

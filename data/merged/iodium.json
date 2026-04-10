@@ -1,0 +1,359 @@
+{
+  "id": "iodium",
+  "names": {
+    "primary": "IODIUM",
+    "latin": "IODIUM",
+    "common": [
+      "Iodine (IODUM)"
+    ],
+    "synonyms": [
+      "Iodium"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Anxiety when quiet. Present anxiety and depression, no reference to the future. Sudden impulse to run and do violence. Forgetful. Must be busy. Fear of people, shuns every one. Melancholy. Suicidal tendency",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Lachrymose disposition and mental dejection. Melancholy hypochondriasis, sadness, heart-ache, and anxiety. Fear: shuns persons. Anxious apprehensions. Restless agitation (with inclination to move about), which will neither permit the patient to remain seated, nor to sleep. Irresistible impulse to run; feels she will fall if she walks. Cross, irascible, peevish. Heart palpitates \"like lightning\" when thinking of real or imaginary wrongs. Sudden maniacal impulses; to murder. Excessive mental excitement, with great susceptibility. Illusions of moral feeling. Loquacity and immoderate gaiety. Hesitation and irresolution. Indolence of mind, with great repugnance to all intellectual labour. Fixedness, immovableness of thought. Delirium. Effects of amorousness; of disappointed love.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Throbbing; rush of blood, and feeling of a tight band. Vertigo; worse from stooping, worse in warm room. Chronic, congestive headache of old people (Phos)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Confusion of the head (with aversion to earnest work). In the morning, dizziness. Vertigo; throbbing in the head and all over the body. Vertigo with red face, palpitation, hysteria, nervousness. Headache, in hot air, as well as from the prolonged movement of a carriage, or from a long walk, and by noise and speech. Pain, as from a bruise, in the brain, with want of strength in the body, as from paralysis. Acute pressive pains in the forehead. Headache, as if a tape or band were tightly drawn around the head. Pressure on a small spot, above the root of the nose. Congestion in the head, with beating in the brain. Throbbing in the head at every motion. Hair falls out.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Violent lachrymation. Pain in eyes. Pupil dilated. Constant motion of eyeballs. Acute dacryocystitis",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pains in orbits. Feeling of depression above the eyes, as if they were deeply sunken, in the evening. Pain, as from excoriation, in the eyes. Inflammation of the eyes, sometimes after taking cold. Watery white swelling of the eyelids. Dirty yellowish colour of the sclerotica. Protrusion of the balls. Lachrymation. Convulsive movements, and quivering of the eyes; of the (lower) eyelids. Weak sight. Dimness of vision following upon application of Iodine to any part of body. Choroido-iritis. Diplopia. Sparks and scintillations before the eyes.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Sneezing. Sudden violent influenza. Dry coryza becomes fluent in open air, also a fluent hot coryza with general heat of skin. Pain at root of nose and frontal sinus. Nose stopped up. Tendency to ulceration. Loss of smell. Acute nasal engorgement associated with high blood pressure",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Small scab in the r. nostril. Epistaxis. Red, burning spot on the nose, below the eyes. Stoppage of the nose, or secretion of mucus more abundant than usual. Dry coryza, becoming fluent in the open air ( evening). Fluent coryza with much sneezing. Violent coryza with lachrymation and frontal headache; discharge hot, nose sore, fever. Blowing of much yellow mucus from the nose.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Gums loose and bleed easily. Foul ulcers and salivation. Profuse, fetid ptyalism. Tongue thickly coated. Offensive odor from mouth",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Larynx feels constricted. Eustachian deafness. Thyroid enlarged. Goitre, with sensation of constriction. Swollen submaxillary glands. Uvula swollen",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pressive pains in the molars. Teeth yellow, and covered with mucus, in the morning; easily blunted by vegetable acids. Inflammatory swelling and bleeding of the gums, with swelling of the cheek; the gums are painful to the touch. Teeth loose. Softening of the gums. Aphthæ in the mouth. Ulcers in the mouth. Pain and swelling of the glands of the interior of the mouth. Exhalation of putrid odour from the mouth; after Mercury. Salivation. Tongue loaded with a thick coating. Dryness of the tongue. Swelling and elongation of the uvula. Sore throat, with pressive pain, when not swallowing. Permanent constriction of the gullet and impeded deglutition. Increased secretion of watery saliva. Inflammation of the gullet, with sensation of burning and scraping; burning in the fauces. Ulcers in throat, with swelling of glands of neck.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Throbbing at pit of stomach. Ravenous hunger and much thirst. Empty eructations, as if every particle of food were turned into gas. Anxious and worried if he does not eat (Cina; Sulph). Loss flesh, yet hungry and eating well (Abrot)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Liver and spleen sore and enlarged. Jaundice. Mesenteric glands enlarged. Pancreatic disease. Cutting pain in abdomen",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Disagreeable, saponaceous, sourish, or bitter salt taste. Increased thirst day and night. Appetite variable; at one time bulimy, at another, absence of appetite. Unusual hunger, with amelioration after a meal (after having eaten a good deal). Great weakness of digestion. Eats too often and too much; rapid digestion, but losing flesh all the time. Risings, generally acid, with burning sensation. Heartburn, after heavy food. Hiccough. Pyrosis, esp. after indigestible food. Qualmishness, nausea (with spasmodic pain in the stomach). Frequent nausea. Violent vomitings renewed by eating. Vomiting of bilious matter, or of yellowish mucus. Excessive pains in the stomach, with bilious evacuations. Aching in the stomach after every meal. Cramp-like, gnawing, or burning pains in the stomach. Inflammation in the stomach. Pulsations in the epigastrium. Gastric derangement with constipation. Abdominal pains, which return after every meal. Inflation of the abdomen. Incarceration of flatulence (l. side of abdomen). Enlargement of the abdomen, which renders it impossible to lie down without danger of suffocation. Region of liver sore to pressure; swelling and hypertrophy of liver; jaundice. Hard, painful swelling of the spleen. Cramp-like pains in the abdomen. Violent colic. Pains in the abdomen, like those of parturition. Swelling and inflammation of the mesenteric glands. Pancreas enlarged; whitish, whey-like diarrhœa. Abdominal pulsations; throbbing of abdominal aorta. Trembling in the abdomen, from the pit of the stomach to the periphery, with increased heat. Hard swelling of the inguinal glands.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Hæmorrhage at every stool. Diarrhœa, whitish, frothy, fatty. Constipation, with ineffectual urging; better by drinking cold milk. Constipation alternating with diarrhœa (Ant cr)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Hard, knotty, dark-coloured fæces. Constipation. Loose, soft evacuations, sometimes whitish, alternately with constipation. Evacuations copious of the consistence of pap. Violent, frothy diarrhœa, or composed of sanguineous mucus. Dysenteric evacuations of thick mucus, or sometimes purulent, with retention of fæcal matter. In the evening, sensation of itching and burning in the anus. Piles protrude and burn; from heat.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Frequent and copious, dark yellow-green (Bovista), thick, acrid with cuticle on surface",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Suppressed secretion of urine. Copious and frequent flow of urine. Involuntary emission of urine at night. Urine of a deep colour, turbid, or yellowish green; or milky; or acrid and corrosive. Parti-coloured cuticle on the urine. (Incontinence in old people with prostatic enlargement.). (Diabetes.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Testicles swollen and indurated. Hydrocele. Loss of sexual power, with atrophied testes",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Complete loss of sexual power, testicles atrophied. Violent and constant erections. Sexual desire increased. Painful pullings in the anterior part of the penis. Aching, pressing, twisting, or forcing pain in spermatic cords; after sexual dalliance. Swelling and hardness of the testes. Hardness of the prostate gland. After stool, milk-like fluid runs from urethra. Hydrocele. Offensive sweat of genitals.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Great weakness during menses (Alum; Carbo an; Coccul; Hæmatox). Menstruation irregular. Uterine hæmorrhage. Ovaritis (Apis; bell; Lach). Wedge-like pain from ovary to uterus. Dwindling of mammary glands. Nodosities in skin of mammæ. Acrid leucorrhœa, thick, slimy, corroding the linen. Wedge-like pain in the right ovarian region",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Catamenia at one time too late, at another too early. Menses premature, violent and copious. Metrorrhagia. Weakness, palpitation of the heart, and many sufferings, before, during, and after the catamenia. Atrophy of ovaries and breasts, with sterility. Pain (dull, pressing, wedge-like) commencing in r. ovary passing down broad ligament to uterus. Great sensitiveness of r. ovarian region during or after menses. Inflammation of r. ovary with an itching eruption on head and hands following application of Iodine to os uteri. Chronic oöphoritis (l.) with thick, yellow, burning leucorrhœa, > after eating (H. N. Martin.). Pain in lower abdomen; l. ovarian region; > by motion and by eating. Induration and swelling (cancer?) of the uterus. Uterine hæmorrhage renewed after every stool. Leucorrhœa, corroding the limbs and the linen; acrid; profuse; worse at time of menses. Flaccidity and atrophy of the breasts. Mammary hyperæsthesia. Heaviness of breasts as if they would fall off. Acute pain and soreness in breasts with metritis. Bluish red nodosities size of hazel nut; in both breasts; dry, black points at tips. Galactorrhœa; thin, watery milk; weakness; emaciation. Milk suppressed; breasts atrophied and relaxed.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Hoarse. Raw and tickling feeling provoking a dry cough. Pain in larynx. Laryngitis, with painful roughness; worse during cough. Child grasps throat when coughing. Right-sided pneumonia with high temperature. Difficult expansion of chest, blood-streaked sputum; internal dry heat, external coldness. Violent heart action. Pneumonia. Hepatization spreads rapidly with persistent high temperature; absence of pain in spite of great involvement, worse warmth; craves cool air. Croup in scrofulous children with dark hair and eyes (Brom opposite). Inspiration difficult. Dry, morning cough, from tickling in larynx. Croupy cough, with difficult respiration; wheezy. Cold extends downwards from head to throat and bronchi. Great weakness about chest. Palpitation from least exertion. Pleuritic effusion. Tickling all over chest. Iod cough is worse indoors, in warm, wet weather, and when lying on back",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Heart feels squeezed. Myocarditis, painful compression around heart. Feels as if squeezed by an iron hand (Cactus) followed by great weakness and faintness. Palpitation from least exertion. Tachycardia",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Difficulty of respiration, and dyspnœa. Difficulty of expanding the chest on taking an inspiration. Suffocation. Shooting in the l. side, on breathing. Loss of power to breathe, esp. on going upstairs. Weakness of the chest. Congestion in the chest. Burning, shooting tension in the integuments of the chest. Sensation of weakness in the chest (and heart). Violent palpitation of the heart; increased by the least exertion (from walking or going downstairs). Sensation as if the heart were squeezed together. Constant, heavy, oppressive pain in region of heart, with sharp, piercing, movable pain. Great precordial anxiety, obliging him to constantly change his position. (Hypertrophy of heart, very like that of Arn., and like that often met with in housemaids and others from over-exertion. Fatty degeneration of heart. Cooper.). Pulse rapid, small, weak, with tumultuous, irregular, at times intermittent action of heart.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Joints inflamed and painful. Pain in bones at night. White swelling. Gonorrhœal rheumatism. Rheumatism of nape and upper extremities. Cold hands and feet. Acrid sweat of feet. Pulsation in large arterial trunks. Rheumatic pains, nightly pains in joints; constrictive sensations",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Hot, dry, yellow and withered. Glands enlarged. Nodosities. Anasarca of cardiac disease",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Skin rough, dry, or clammy, moist, and of a dirty yellow. Tetters. Furfur. Panaris. Itching and itching pimples on an old cicatrix. Papulous eruptions tending to pustulation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Flushes of heat all over body. Marked fever, restlessness, red cheeks, apathetic. Profuse sweat",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Shivering, even in a warm room. Chill alternating with heat. Cold feet all night. Internal dry heat, with external coldness. Profuse night-sweat. Increase of bodily heat. Fugitive heat. Acid perspiration in the morning. Pulse quick, small, and hard; weak, threadlike. The pulse becomes much quicker as soon as one moves about. Fever, with consumption. (West Indian and African fevers; ague.) Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "walking about, in open air",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "when quiet, in warm room, right side",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "complementary": [
+        "Lycopod",
+        "Badiaga"
+      ],
+      "antidoted_by": [
+        "Hepar",
+        "Sulph",
+        "Gratiola"
+      ],
+      "_raw": [
+        "Iod. must be compared with Iodoform and Kali iod. The febrile, inflammatory, and skin symptoms of Iodf. are more violent and pronounced than those of the other two. K. iod. has less erethism than Iod., has > from external warmth (though both have > in open air); and K. iod. has not the excessive appetite of Iod. or the general > from eating. Iod. is antidoted by: Starch or wheat flour mixed with water (to large doses). Antidotes to small doses: Ant. t., Apis, Ars., Bell., Camph., Chi., Chi. sul., Coff., Hep., Op., Pho., Spo., Sul. It antidotes: Merc. Follows well: Merc.; Hep. (croup); Ars. Followed well by: Aco., Arg. n., Calc., Merc. sol., Pho., Pul. Complementary: Lyc. Compare: Brom. (Brom. has light hair and complexion; Iod. dark; Bro. carrion-like odour of ulcers); Chlorum; Nat. m. (ravenous appetite yet gets thin─Nat. m. especially about the neck); Kali iod. (talkative as if from alcohol); Bar. c. (tabes mesenterica, extreme hunger, emaciates, talkative, averse to strangers; Bar. c. suited to dwarfish persons; has not the intolerable crossness of Iod., which is than that of Ant. c.); Alumina (apprehensive, fears); Apis (joint effusions, sensitiveness, hydrocephalus); Cact. and Spig. (heart); Hydrast. (uterine affections); Ars., Calc., Cin., Sil. and Staph. (ravenous hunger); Hyo. (loss of voice; Iod. antidotes this); Sul."
+      ]
+    },
+    "dosing": {
+      "notes": "The crude drug in saturated solution may be required. Third to thirtieth potency. Ioduretted solution of Potass iod (35 grains Potassa and 4 grains Iodine to 1 oz of water, 10 drops three times a day) expels tapeworms dead. Locally the most powerful, least harmful and easily managed microbicide. Ideal agent to keep wounds clean and disinfected. Bites of insects, reptiles, etc. Gunshot wounds and compound fractures, excellent. Great skin disinfectant"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">IODIUM Iodine (IODUM) Rapid metabolism: Loss of flesh great appetite. Hungry with much thirst. Better after eating. Great debility, the slightest effort induces perspiration. Iod individual is exceedingly thin, dark complexioned, with enlarged lymphatic glands, has voracious appetite but gets thin. Tubercular type. All glandular structures, respiratory organs, circulatory system are especially affected; they atrophy. Iodine arouses the defensive apparatus of the system by assembling the mononuclear leucocytes whose phagocytic action is marked, at a given point. Lead poisoning. Tremor. Iodine craves cold air. Acute exacerbation of chronic inflammation. Arthritis deformans. Acts prominently on connective tissue. The plague. Goitre. Abnormal vaso-constriction, capillary congestion followed by œdema, ecchymosis, hæmorrhages, and nutritive disturbances are the pathological conditions at the basis of its symptomatology. Sluggish vital reaction, hence chronicity in many of its aspects. Acute catarrh of all mucous membranes, rapid emaciation, notwithstanding good appetite, and glandular atrophy call for this remedy, in numerous wasting diseases and in scrofulous patients. Acute affections of the respiratory organs. Pneumonia, rapid extension. Iodine is warm, and wants cool surroundings. Weakness and loss of breath going upstairs. Adenoid vegetations. Tincture internally and locally to swollen glands and rattlesnake bites.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The most prominent feature of the action of Iodium is its power of causing absorption. It is this power which has made the drug such a favourite among old-school practitioners as a paint in all kinds of swellings. Given internally its power is much greater: the absorbents are stimulated to fresh activity; muscles, fat, tissues, and glands waste away, and general emaciation is the result. When new growths and hyperplasias are present, these come under the action of Iod. before the normal tissues. I have seen it given with excellent effect in the lower attenuations, when swollen and deformed joints have been left behind after an attack of acute rheumatism. Scrofulous and syphilitic indurations, effusions and tumours, and especially goître, are equally amenable to its resolvent action. Emaciation of single parts. In this connection must be mentioned its power to set up a ravenous appetite. \"Eats ravenously, yet emaciates,\" is a keynote. It seems as if the waste of tissue set up the desire for absorbing great quantities of food. Absence of appetite is also among the effects of Iod., and either condition may indicate it. I once used it with excellent effect in the case of a young woman who had had a nervous shock, and had lost all appetite and desire to live. She was much emaciated, and had quietly made up her mind to starve herself to death. I gave five drops of Iod. 3x in a wineglass of water half an hour before meal-times, and her appetite returned with such vigour she could not choose but eat, and was soon restored to a normal mental and bodily state. I have recorded another similar case of nervous shock producing rapid emaciation and vomiting cured by Iod. in my book on Indigestion. Both these patients were somewhat dark, and Iod. is specially suited to persons of dark hair and complexion; dark, yellow, tawny skin. Herein it is the antipodes of Bromium and Spongia. Its mental symptoms are more marked than those of Brom. There is increased erethism, patient very excitable and restless, moving about from place to place. Fears every little occurrence will end seriously. In his anxiety shuns every one, even his doctor. Fixed ideas are among the Iod. effects; also sudden impulses. A patient of mine had once been given Iodine for goître by an allopath. She was compelled to discontinue it because it produced this inconvenient symptom: impulse to run; she felt she must fall if she walked. Iod. produces atrophy of nerve and brain tissue, as well as of other tissues (Allen mentions that it is valuable in persistent headaches with vertigo in old people); and it also has a place in acute hydrocephalus; and in pleuritic effusions. In tubercular disease of all kinds it may be called for: tabes mesenterica; pulmonary phthisis. In rheumatism and heart affections it has a large sphere. It is indicated by indurations or atrophy of testes, ovaries, and uterus. The salivary glands and pancreas are especially affected by Iod., and a diarrhœa of milky, whey-like stools, often indicative of pancreatic disease, is especially amenable to its action. In pneumonia and phthisical affections with lung consolidation it is of great service. The chief indications are: Dyspnœa; cough with blood-streaked expectoration; tickling all over chest; weakness and emaciation; of symptoms in a warm room. This last, \" by warmth,\" is a leading modality of Iod. In defects of growth, curvature of bones, and in children's ailments, it follows well upon Calc. In phthisis of rapidly-growing young people, thin and dark, it is especially indicated. There are many marked symptoms in the heart sphere: palpitation from slightest cause; sensation as if being squeezed; hypertrophy. With the heart symptoms there is a \"gone,\" exhausted feeling, and the patient is scarcely able to breathe or walk. C. S. McKay noticed lumbrici passed by an infant who had tasted Iodine accidentally, and used the experience in another case, giving a dilute solution (one part of the Ø to three of water; of this three drops every three hours), and produced the expulsion of lumbrici when Santonin had completely failed. An Ioduretted solution of Kali iod. (Kali iod. gr. xxxv., Iod. gr. iv., Aqua one ounce; ten drops for a dose) has been used with success as a tænicide, expelling the tapeworm, dead. Erethism is marked in Iod.: nervousness; restlessness; twitching; subsultus tendinum and trembling; also sense of trembling in inner parts. Facial paralysis and epilepsy have followed suppression of goître by large doses of Iod. Weakness is excessive. Fainting on going upstairs. (General weakness and loss of appetite and pain in temples, and pain in left chest as if something were being torn away: heart large.─Cooper). Motion and exertion of all kinds . Sitting up >, and lying down dyspnœa and heart affections. By warmth; by wrapping up; in warm room. In wet weather. Drinking cold milk > constipation. > By eating, of hunger and other symptoms, is another marked character of Iod. Iod. is a sensitive remedy, and many symptoms are by touch and pressure. Nash thinks Iod. one of the remedies affected by the moon's changes. In cases of goître where it is indicated he gives a powder of Iod. c.m. every night for four nights after the moon has passed the full.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. IODIUM. Common name.- Iodine. General Analysis.- Acts especially upon the ganglionic nervous system, and through it upon the glandular and mucous tissue, having a depressing and atonizing influence, impairing their reproductive energies, and producing functional embarrassment, atrophy, and even total destruction of the part. So, also, in some instances of glandular action, notably upon the thyroid, do we find the loss of reproductive and functional power resulting in cellular hypertrophy, the gland assuming the proportions of a morbid growth, due to the same causes as will at other times produce atrophy. The glandular action of Iodine is more especially centered upon the thyroid, the mesenteric, the mammae, ovaries, and testicles. Of the mucous membranes, its action is most prominent upon that of the respiratory tract. The leading expression of the drug is emaciation, both local and general, which accompanies nearly all Iodine conditions. Characteristic symptoms. Mind.- (Iodum) Sadness ; melancholy mood. (Natr. mur., Puls.) Excessive nervous excitability. (Cinch., Coff .) Head.- (Iodum) Vertigo ; throbbing in the head and all over the body (Puls., Sep.) ; tremor at the heart, fainting ; worse immediately after rising from a seat or bed (Bry.), or by sitting or lying down after slight exercise. Sharp pain in upper part of left side of forehead. Throbbing in the head at every motion. Headache worse in the hot air. Eyes.- (Iodum) Dirty-yellowish color of the sclerotica. (Cinch., Camph., Chel ., Plumb.) Protrusion of the balls. Pain as from excoriation in the eyes. Oedematous swelling of the lids. Ears.- (Iodum) Difficult hearing. Face.- (Iodum) Face pale, yellowish (Arg. nit., Hep. s., Sep.), or greenish. Sallow, distressed countenance. Bluish lips, with swelling of the superficial veins. Swelling of the submaxillary glands. (Aur., Baryt. c., Coccul., Sil.) Mouth.- (Iodum) Bleeding of the gums. (Carb. v., Merc., Nitr. ac.) Softening of the gums. Teeth covered with much mucus in the morning ; yellow and easily blunted by vegetable acids. Aphthae in the mouth. ( Borax , Hell., Merc .) Offensive odor from the mouth. (Arn.) Salivation ( Merc .) ; also after Mercury. ( Cinch., Nitr. ac .) Tongue loaded with thick coating. Throat.- (Iodum) Constriction in the throat, impeding deglutition. (Bell., Hyos., Stram.) Ulcers in throat, with swelling of glands of neck. Inflammation and ulceration of the oesophagus. Stomach.- (Iodum) Ravenous hunger ; cannot be satisfied. (Bry.) Nausea ; vomiting renewed by eating. Heartburn after indigestible food. Abdomen.- (Iodum) Left hypochondrium hard, and painful to pressure. Swelling and distention of the abdomen. (Ant. crud., Graph ., Hep. s.) Incarcerated flatulence. (Carb. v., Lyc.) Swelling of the inguinal glands. (Calc. c., Clem., Merc.) Stool.- (Iodum) Diarrhoea, alternating with constipation. ( Ant. crud ., Cimic., Nux v.) Stools watery ; foaming, whitish mucus. Urinary Organs.- (Iodum) Copious and frequent micturition. (Apis., Arg. nit., Arg. met., Cepa.) Male Organs.- (Iodum) Swelling and induration of the testicles. (Acon., Arg. nit., Coni.) Female Organs.- (Iodum) Induration and swelling of uterus and ovaries. ( Coni .) The mammae dwindle away and become flabby. (Coni.) Uterine haemorrhage renewed after every stool. Leucorrhoea acrid, corroding the limbs ; worse at time of menses. Respiratory Organs.- (Iodum) Hoarseness. (Acon., Hep. s., Phos.) Pain in the larynx, with desire to cough. Tightness of respiration ; difficult, especially inspiration. Membranous croup (Brom., Kali bi.), with wheezing and sawing respiration ; dry, barking cough (Spong.) ; child grasps throat with the hand. (Acon.) Oedema glottidis (may be used by inhalation). Dry cough, with stitches and burning in chest. Cough, with expectoration of large quantities of mucus, frequently blood-streaked. Sensation of weakness in chest. (Stan.) Sharp, quick, piercing pains. Tendency to bronchial and pulmonary congestion and haemorrhage. Hepatization ; worse upper part of right lung ; sometimes rapid ; tightness across chest. Heart and Pulse.- (Iodum) Violent palpitation ; worse from the least exertion. Constant heavy, oppressive pain in region of heart ( Cact., Lil. tig .), with sharp, quick, piercing, movable pains. Great precordial anxiety, obliging him to constantly change his position. (Acon., Ars., Rhus tox.) Neck.- (Iodum) Goitre, with marked hardness. Swelling and induration of the cervical glands. ( Baryt. c ., Calc. c., Kreos.) Limbs.- (Iodum) Subsultus tendinum of both hands and feet. Trembling of the limbs. Tearing pain in left elbow. (Ars., Ferr.) Oedematous swelling of feet. Acrid, corrosive foot sweat. Generalities.- (Iodum) Emaciation. (Natr. mur., Phos.) Great debility and prostration. ( Ars., Bry., Ferr., Phos .) Twitching of muscles. (Agar., Cic., Ign., Stram .) Swelling and induration of glands. (Baryt. c., Calc. c., Graph., Natr. carb.) Profuse night sweats. ( Cinch., Phos ., Phos. ac., Sil .) Chronic arthritic affections, with violent nightly pain in the joints ; no swelling. Rapid failing of strength. Plastic exudations. Nightly bone pains. ( Merc .) Marked fever ; restlessness ; thirst ; throbbing headache ; circumscribed red cheeks (Sang.) ; apathetic. Skin.- (Iodum) Dirty-yellow, clammy, moist skin. (Ferr., Merc.) Rough, dry skin. Aggravation.- (Iodum) At night ; in afternoon ; by walking or riding ; from pressure ; from warmth ; from rising in bed. Amelioration.- (Iodum) From cold in general ; after sleep ; after eating. Therapeutic Range.- (Iodum) Bad effects of Mercury ; scrofulous affections ; enlargements and induration of glands ; atrophy ; ptyalism ; dyspepsia ; membranous croup ; hydrocele ; ovarian cysts ; abscesses. Conditions.- (Iodum) Especially suitable to persons, particularly children, with dark hair and eyes. To scrofulous persons, old people. Compare.- (Iodum) Acon ., Ars., Brom., Caust., Coni., Digit.. Hep. s., Kali bi., Merc., Phos., Spong., Sulph. Antidotes.- (Iodum) Ant . tart., Ars., Bell ., Camph., Chin. sulph., Cinch., Coff., Hep. s ., Op., Phos., Spong., Sulph. To large doses : starch or wheat flour in water. Iodine Antidotes.- (Iodum) Effects of Ars., Arg. nit., Calc. c., Merc. Copyright © Robert Séror 2003",
+        "source_id": "cowperthwaite-textbook-1891"
+      },
+      {
+        "text": "The Chronic Diseases, their Peculiar Nature and their Homopathic Cure. by Dr Samuel Hahnemann IODIUM. IODINE. Iodine is obtained from various kinds of sea-wrack ( fucus , seaweed), by leaching the ashes, and then crystallizing the salts contained in it that can be crystallized ; the residual uncrystallizable lye, consisting of iodide of sodium, is then evaporated and allowed to stand in a warm place mixed with strong sulphuric acid, in order to remove from it all muriatic acid ; then manganese is added and the mass is strongly heated in a retort, whereby the iodine is separated, rising as a violet-colored vapor, which is condensed on the upper part of the retort in bluish-brown scales or leaflets. One grain of this is prepared for the homopathic dynamization and brought up to the thirtieth potency in the manner prescribed for dry drugs at the conclusion of the first part of this work. Even in the higher and the highest degrees of dynamization iodine is a very heroic medicine, which calls for every precaution of the good homopathic physician ; when misapplied in allopathic hands, iodine is frequently seen to cause the most fearful destruction of the body and life of patients. - Iodine has been of service especially when the following states were at the same time present : Dizziness in the morning ; throbbing in the head ; excoriation of the eyes ; humming before the ears ; hardness of hearing ; a coated tongue ; mercurial salivation ; bad, soapy taste ; sourish eructation, with burning ; heartburn after heavy viands ; voracious hunger ; nausea ; incarceration of flatus ; inflation of the abdomen ; constipation ; incarceration of flatus ; inflation of the abdomen ; constipation ; micturition at night ; delay in the menses ; cough ; inveterate morning cough ; difficulty in breathing ; external swelling of the neck ; weariness of the arms in the morning, in bed ; the fingers go to sleep ; curvature of the bones ; dryness of the skin ; night-sweats. The abbreviations of the names of my fellow-observers are : Gff ., Dr. Augustus Baron von Gersdorff ; Gr ., Dr. Gross ; Htb. u. Tr ., Drs. Hartlaub and Trinks , in their Reine Arzneimittellehre ; and S . ( Schréter ?). [*] . [*] In the first edition of this work (1828) Hahnemann published a list of 153 symptoms, as observed by himself from iodine. In 1829, in the second volume of their Reine Arzneimittellehre , Hartlaub and Trinks gave a list of 516, mainly taken from authors, but including also some symptoms from themselves and Schréter. These, with a few additions from v. Gersdorff and Gross, presumably obtained from the thirtieth dilution, constitute the present pathogenesis. -Hughes . IODIUM. - Dejection . [KUENZLI, ueber d. Iod. Winterth., 1826 ; MATTHEY, in Gilbert's Annal., GAIRDNER, Essay on the Eff. of Iod., etc., RICHTER, spec. Arzeim. Lehre, Vol. X.] [*] . [*] To Kuenzli -Not accessible. To Matthey -\"From the tincture in a goitrous subject.\" To Gairdner -\"Observations on patients.\" To Richter -\"General statement from authors.\" -Hughes . - Gloomy mood. [S.] . - Sad, melancholy mood. [PERROT, in med. Annal., V. PIERER, 1821, Hft. IX.] [*] . [*] Not accessible. -Hughes . - Hypochondriac mood. [GAIRDNER.] . - [5] Sadness. [KOLLEY, in Hufel. Journ., 1824, Febr.] [*] . [*] Not found at reference. -Hughes . - Very ill-humored and sensitive during the whole period of digestion, from noon till evening, with an oppressive sensation in the throat and chest, as when one is about to weep. [Gff.] . - Oppression of the chest . [Htb. ; GRAFFE, Journ. f. Chir. u. Augentheilkunde, II., 617.] [*] . [*] To Graefe-Effects when given in scrofula. -Hughes . - Constant inclination to weeping. [PERROT.] . - Now disposed to weep, then again inclined to be glad. [VOGT, Pharmak., 1828.] [*] . [*] General statement from authors. -Hughes . - [10] Apprehensiveness after some manual work ; it goes off while sitting. - Anxiety . [GAIRDNER ; KUENZLI ; RICHTER ; GRAFFE ; KOLLEY.] . - Anxious oppression. [MASSALIEN, in RUST'S Magazin XIV., p. 379.] . - Great anxiety. [NEUMANN, in Hufel. Journ. LV., St. I.] . - Great anxiety and oppression. [GAIRDNER.] . - [15] Oppression, and tightness of the chest. [VOIGT.] . - Anxiety and dejection ; the patients generally busy themselves with the present. [GAIRDNER.] . - Restless moving about ; she runs about incessantly and does not get to sit down, nor does she sleep at night, so that she has to be considered as crazy. [Gr.] . - Restlessness, which keeps the body in constant activity. [KOLLEY.] . - Restlessness. [GRAEFE ; Med. chir. Zeit., 1825, Bd. I., p. 310.] [*] . [*] Observations on patients. -Hughes . - [20] Aversion to sitting still. - He is afraid at every trifle, that one or another mishap may rise from it. - Discouragement. [KUENZLI.] . - Discouragement and despondency, which continues also during the pains in a very depressing manner. [GAIRDNER.] [*] . [*] In the original-\"Sense of sinking and faintness, which were peculiarly oppressive, and were complained of during intense pain as the thing most difficult to bear.\" -Hughes . - Aversion to work. - [25] He feels unable to do anything. - Her phlegmatic disposition has disappeared ; she has become blooming, stronger and more lively. [HENNING, in Hufel. Journ., Bd. LVII, St. 3, p. 90.] [*] . [*] Observation. -Hughes . - Peevish, cross, she is not suited by anything. [S.] . - Inordinately great irritability to anger. - Increased sensation and irritability. [FORNEY, in Hufel. Journ. LII., St. 2.] [*] . [*] From tincture in a goitrous subject. -Hughes . - [30] Sensitiveness to noise. - Increased sensitiveness to external impressions. [VOIGT.] . - The mind and nervous system is affected. [VOIGT ; PERROT.] . - Unusual excitement of the nervous system. [Hufel. Journ. LVII., St. 6.] [*] . [*] The citations from Hufeland's Journal are all as S. 29, save where otherwise specified. -Hughes . - Excessively merry and loquacious ; she does not give any one a chance to say a word. [Gr.] . - [35] Illusions of the sense of touch . [AIRDNER ; KUENZLI ; RICHTER.] . - Delirium. [NEUMANN, l. c.] . - Fixed, immovable thoughts (21st d.). - Obtuseness of the head, which renders thinking more difficult. [Gff.] . - Obtuseness of the head, with great disinclination to serious employment . [Gff.] . - [40] Obtuseness of the head. [KOLLEY.] . - Sense of obtuseness of the head, which seems to draw up the back to the nape of the head. [JOERG ; Mater. z. e. k. Heilm. Lehre, Leipzig, 1825, Bd. I.] [*] . [*] Proving on several healthy persons with moderate doses. -Hughes . - Obtuseness of the head, which passes over into a pressive headache (aft. 1 h.). [JOERG.] . - Slightly muddled feeling in the head, with pressure in the right half of the forehead, with great hunger (aft. 1 or 2 h.). [JOERG.] . - Vertigo . [RICHTER ; SCHMIDT, in RUST'S Magaz., Bd. XVI., St. 3, p. 430.] [*] . [*] Observations on patients. -Hughes . - [45] Vertigo, drawing the person forward. [S.] . - Vertigo, with lassitude, in the morning. [S.] . - Headache . [PERROT ; Med. chir. Ztg.] . - Headache, so violent that he becomes quite frantic. [KOLLEY.] . - Transient, quickly passing pain in the occiput. [JOERG.] . - [50] Headache in the warm air, when driving far or walking fast. - Headache in the forehead and in the upper part of the head, aggravated by every noise or talking. - Headache, as if a bandage was firmly tied around the head. - Headache in the forehead ; the brain is as if bruised and extremely sensitive ; the whole body, and especially the arms, are without strength, and, as it were, paralyzed ; he has to lie down ; attended with eructations and painful sensitiveness of the outside of the head when touched ; the following day there is still obtuseness of the head and painfulness of the brain, when moved (aft. 26 d.). - Pressure on a small spot in the forehead, just above the root of the nose. [Gff.] . - [55] Pressive headache, especially in the left side toward the forehead, frequently recurring. [JOERG.] . - Pressure in the region of the crown, for ten minutes. [JOERG.] . - Pressive headache, especially in the temples, alternately disappearing and recurring. [JOERG.] . - Pressive pain in the occiput, slight while at rest, but violent when moving and finally passing into a sensation of weary waste in the head (1st d.). [JOERG.] . - Pressive headache above the eyes, toward evening. [S.] . - [60] Violent pressive pain on the lower surface of the occiput, in the afternoon, in the open air. [JOERG.] . - Sharp pressive pain on the left side of the upper part of the head, above the forehead . [Gff.] . - Drawing pressure in the left upper half of the head, extending to the temple. [Gff.] . - Pressive and at times shooting headache. [JOERG.] . - Drawing pain in the left side of the head, extending into the teeth. [S.] . - [65] Tearing, first in the left, then in the right temporal region, almost at the same time. [Gff.] . - Tearing headache above the left eye and in the temple. [S.] . - Pressive tearing on the right side above the forehead. [Gff.] . - Stitches in the occiput, relieved by lying down. - Stitches in the upper part of the head (aft. 3d.). - [70] Throbbing in the forehead without pain. - Beating in the head at every motion (aft. 24 h.). - Rush of blood to the head. [Hufel. Journ., l. c.] . - The rush of blood to the head is aggravated with those who are disposed to it. [KOLLEY.] . - Rush of blood to the head, and afterward at 2 P.M. headache for half an hour, returning at 5 o'clock. [JOERG.] . - [75] External headache in the forehead, as if festering underneath. - Smarting, sore sensation on the right side of the occiput, above the ear, posteriorly, in the skin. [Gff.] . - The hair falls out. - Rapid falling out of the hair. [S.] . - Eyeache in the orbits. [Med. Chir. Ztg.] . - [80] Pressure in the eyes as if there was sand in them. [S.] . - Pressure in the eyes. [Gff.] . - Tension above the right eye, with some inflammation of the eyes. [S.] . - Tearing about the right eye, especially below it. - Stitches in the upper part of the left eyeball. - [85] Cutting stitches in the left eye, toward the outer canthus. - Itching in the canthi. - Itching on the eyelids. [S.] . - Itching and swelling of the eyelids, with nightly agglutination. [S.] . - Inflammation of the eyes . - [90] Watery, white swelling of the eyelids. [Hufel. Journ.] . - Dirty yellow color of the white of the eye, traversed by injected veinlets. [S.] . - Sensation of weariness about the eyes, as if they lay deep in, especially in the afternoon. [Gff.] . - Lachrymation of the eyes. [Hufel. Journ. ; KUENZLI.] . - Flow of tears. [KOLLEY.] . - [95] Twitching in the eyes (aft. sever. h.). - Constant twitching to and fro of the lower eyelid. - Quivering of the eyelids. [KUENZLI.] . - Dimness of the vision. [Med. chir. Zeit.] . - The light seems to her weaker and more indistinct. [S.] . - [100] Objects appear to her as through a veil. [S.] . - Obscuration of the vision . [GAIRDNER ; KUENZLI ; RICHTER.] . - Weakness of vision . [FORNEY ; SCHNEIDER ; VOIGT.] . - Weakened, diminished visual power. [Hufel. Journ.] . - At times she sees objects multiplied and cannot clearly distinguish them. [S.] . - [105] Dark ringlets float down before the eyes, to the side and close to the visual axis (aft. 16 h.). - Flickering before the eyes at times. [S.] . - She cannot do fine sewing, because the stitches flit before her eyes. [S.] . - Sparks before the eyes. [S.] . - Fiery, crooked rays dart down frequently obliquely to the visual direction, and also at a slight distance from the focus of the ray, round about the eye, but more in an upward direction (aft. 24 h.). - [110] Otalgia in the left ear. [Gff.] . - Straining pain in the right ear. [Gff.] . - Tearing pressure in the pit under the right ear and beside it on the neck. [Gff.] . - Small, yellow scurf on the concha. [Htb.] . - Sensitiveness of the hearing to noise (4th d.). - [115] Hardness of hearing. [GAIRDNER ; KUENZLI ; RICHTER.] . - Frequent din in the right ear, as in a mill. [S.] . - The nose is painful in its lower part, when he blows it, without coryza. [Gff.] . - Itching shooting, anteriorly, on the septum of the nose. - A red, burning spot on the nose, below the eye. [S.] . - [120] An itching elevation on the nose. - A small scab in the right nostril. [S.] . - Bleeding of the nose when blowing it. [S.] . - Profuse epistaxis . [Htb.] . - The color of the face is changed. [KUENZLI.] . - [125] Pale contracted face. [GAIRDNER.] . - Paleness of the face . [KOLLEY ; KUENZLI.] . - Paleness of the face of long duration. [COINDET, in Hufel. Journ. LIV., A.] [*] . [*] Symptoms of iodic saturation. -Hughes . - Pale (ghostlike ?) appearance. [Trs.] . - Yellow complexion . [RUST'S Magaz. ; NEUMANN.] . - [130] The yellowness of the complexion diminishes ; it becomes whiter (curative action). [Htb.] . - The face, which before was yellow, becomes brown so quickly, that in a few days the skin of a woman of twenty-eight looked as if it was smoked. [VOGEL.] [*] . [*] From tincture in a goitrous subject. -Hughes . - Peculiar alteration of the features. [BAUP, in Hufel. Journ.] [*] . [*] From tincture in a goitrous subject. -Hughes . - Change in the features. [Hufel. Journ.] . - Eyes sunken. [Trs.] . - [135] Twitching of the facial muscles . [Hufel. Journ. ; SCHMIDT.] . - Suppurating ulcer on the left cheek, with swelling of the circumjacent glands, and a firm lump on the ulcerated spot, which was slow in dispersing ; soon after, a second ulcer by the side of the first, which, however, healed more quickly. [Htb.] . - Pressive pain in the right upper jaw. [Gff.] . - The submaxillary glands are swollen, without pain (2d d.). [Htb.] . - Toothache, with pressive pain, now here, now there, on the right side and the left, in the molars . [Gff.] . - [140] Squeezing toothache in the right posterior molars. [Gff.] . - Drawing pain in the teeth on the right side, toward the ear, attended with shooting pain. [S.] . - Cutting drawing and sensation of soreness, now on the left, now on the right side, in the roots or the gums of the lower incisors. [Gff.] . - Pain from looseness of the teeth and in the gums, while eating. - The teeth in the morning are more covered with mucus, are yellower and are more quickly dulled by weak vegetable acids. [JOERG.] . - [145] The gums are painful when touched. - The gums are redder. [JOERG.] . - Inflammation and swelling of the gums. [Med. chir. Ztg.] . - Bleeding of the gums. [Gff.] . - Gumboil on the gums of a lower, hollow molar, with swelling of the cheek, extending up to below the eye. - [150] In the mouth there appear, from time to time, vesicles, with swelling of the gums. [Htb.] . - Aphthæ in the mouth, with ptyalism. [VOIGT.] . - Small elevations on the inner side of the right cheek, at first only painful, with sore, pressive pain when touched ; but after a few days they sting and cut like an ulcer, especially on widely opening the mouth, in eating and in reading aloud ; the parts around are also inflamed. [Gff.] . - The glands on the inner side of the cheeks are acutely painful, as if there was strong vinegar in the mouth. [Htb.] . - Smarting and pinching on the tonsils (at once) [JOERG.] . - [155] Putrid smell in the mouth, even in the morning when fasting, immediately after rinsing it with clean water. [Gff.] . - The tongue is disagreeably dry. [RICHTER.] . - Coated tongue . [Trs. ; RICHTER.] . - The tongue is coated thickly, the coating being of the same color as the substances thrown up. [GAIRDNER.] . - Pressure in the left half of the palate. [Gff.] . - [160] Swelling and elongation of the uvula, with much spitting. - The throat is strongly constricted. [S.] . - Sensation of constriction in the fauces. [PERROT.] . - Tormenting constriction of the throat. [Hufel. Journ.] . - Impeding deglutition, while drinking (water), as if the sophagus was constricted and too weak to press down the beverage. - [165] Sensation of fullness in the throat (6th d.). - Pain in the sophagus, increased by pressing on the larynx. [RICHTER.] . - Pressive pain on the right side of the throat, more while not swallowing. - Tearing in the throat, above the larynx. [Gff.] . - Shooting pain in the throat, as if it was in the larynx ; also somewhat noticeable while swallowing. - [170] Tickling formication in the throat, in the region of the larynx, in the morning, in bed. [Gff.] . - Disagreeable scraping in the fauces, with frequent secretion of saliva. [JOERG.] . - Quickly passing burning and scraping in the fauces. [JOERG.] . - Burning and sensation of heat in the fauces. [Med. chir. Ztg.] . - Inflammation of the fauces and ulcers therein. [PERROT.] . - [175] Increased secretion of saliva . [RICHTER ; KUENZLI ; VOIGT.] . - Increased secretion of saliva, compelling frequent spitting, for several days. [JOERG.] . - Frequently, much watery saliva in the mouth. [Htb.] . - Very bad taste in the mouth, especially when the stomach is quite empty or quite full. [Htb.] . - Abominable taste in the mouth. [Htb.] . - [180] Salty taste in the mouth (1st and 2d D.). [JOERG.] . - Bitter taste in the mouth. [JOERG.] . - Bitter taste in the afternoon ; the sweet plums have a bitter taste to her. [S.] . - Sourish, offensive taste in the mouth, all the day, especially while smoking. [Htb.] . - Sweet taste on the tip of the tongue (6th d.). - [185] Thirst . [BAUP ; KUENZLI.] . - Much thirst, day and night (aft. 24 h.). - Very much thirst, day and night. [JOERG.] . - Unusual, increased thirst. [JOERG ; NEUMANN.] . - Violent thirst. [PERROT.] . - [190] Distressing thirst. [GAIRDNER.] . - The appetite is diminished. [HENNING ; RICHTER ; GOEDEN, in Hufel. Journ.] . - Diminished appetite. [HELLING and SUTTINGER, in RUST'S Magaz. XVI., 112.] [*] . [*] From tincture in a goitrous subject. -Hughes . - Lack of appetite. [NEUMANN.] . - Total lack of appetite and of sleep. [Hufel. Journ.] . - [195] Increased appetite . [Trs. ; KUENZLI ; BAUP ; RICHTER and others.] . - Continued increase of appetite . [MATTHEY ; COINDET.] . - Unusual hunger . [JOERG.] . - Gnawing hunger (aft. 3 h.). [JOERG.] . - Violent hunger. [MUHRBECK, in Hufel Journ. LIV., D. 63.] [*] . [*] Effects when given for glandular indurations. -Hughes . - [200] Wild appetite. [BAUP.] . - Voracity. [Med. chir. Ztg.] . - Appetite increased even to rabid hunger. [VOIGT.] . - Ravenous hunger , she cannot be satiated. - Ravenous hunger, she would like to eat again directly after a meal ; she also feels much better when she has eaten to full satiety. [S.] . - [205] If he does not eat something every three or four hours, he feels anxious ; but he dare not eat too much. - The whole digestion proceeds more rapidly and regularly, with normal stools. [VOIGT.] . - Varying appetite, now voracious hunger, then no appetite. [VOIGT.] . - Great weakness of digestion . [GOEDER ; MASSALIEU ; ROECHLING, in RUST'S Magaz. XV., 137.] [*] . [*] Observations on patients. -Hughes . - After dinner, feeling of weakness and general malaise. [Gff.] . - [210] Eructation . [Htb. ; VOIGT.] . - Eructation, with the smell of medicine. [JOERG.] . - Continued empty eructation, from morning till evening, as if everything partaken of changed into air. - Hiccup. [MATTHEY.] . - Qualmishness in the pit of the stomach, every day ; it goes off after eating ; it lay heavy on the stomach. - [215] Nausea . [GRAEFE ; HENNING ; PERROT.] . - Nausea in the morning, at once after rising, with spasmodic pain in the stomach. [S.] . - Inclination to vomit. [VOIGT.] . - Fits of inclination to vomit, with heartburn, with a sensation as of a spoiled stomach. - Vomiting . [KUENLI ; MATTHEY and others.] . - [220] Violent vomiting. [GAIRDNER.] . - Violent, incessant vomiting. [Trs.] . - Obstinate vomiting, with especially comes on readily after eating. [GAIRDNER.] . - Incessant vomiting with diarrha. [GAIRDNER.] . - Yellowish, salty vomiting. [Htb.] . - [225] Vomiting of bile. [Htb. ; VOIGT.] . - The secretion of bile is increased. [RICHTER.] . - Increased secretion of the gastric and pancreatic juices. [RICHTER.] . - Stomach troubles with constipation. [Trs.] . - Pains in the stomach . [KUENZLI ; RICHTER and others.] . - [230] Pains above the stomach. [ORFILA, Texicol. II.] [*] . [*] From swallowing 20-30 centigrammes in substance. -Hughes . - Stomachache in the morning, going off after eructation. [S.] . - The most violent stomachache. [KOLLEY.] . - Extraordinary pain in the stomach and the bowels. [Trs.] . - The most excruciating pain in the stomach. [GAIRDNER.] . - [235] Pains in the stomach, with profuse bilious evacuations. [Trs.] . - Violent pains in the stomach and in the fauces which were tense and obstructed and did not bear touching. [PERROT.] . - Pressure in the gastric region, increased every time he eats. [VOGEL, in RUST'S Magaz.] . - Fullness and inflation in the stomach, with quivering and increased warmth in the abdominal cavity, and forcing from there to the periphery of the body, as if sweat would break out. [JOERG.] . - Tension in the stomach and abdomen, after previous movements there. [JOERG.] . - [240] Cramp-pain in the stomach. [PERROT.] . - Cramps in the stomach, frequently recurring. [GAIRDNER.] . - Gnawing pain in the upper part of the stomach. [GAIRDNER.] . - Gnawing corroding pains in the stomach. [MATTHEY.] . - Stitches in the pit of the stomach (aft. 5 d.). - [245] Sharp pricking as with needles, in the upper border of the pit of the stomach. [Gff.] . - Throbbing in the pit of the stomach. [PERROT.] . - Increased warmth in the gastric region. [PERROT.] . - Burning in the stomach. [LOCHER-BALBER, in Hecker's Annal. I., 275.] [*] . [*] Effects on patients. -Hughes . - Burning in the pit of the stomach. - [250] Inflammation of the stomach, in the region of the pylorus. [PERROT.] . - Small, linear ulcers in the stomach, which corroded the mucous membrane, which near the pylorus was inflamed, swollen and covered with a crust of coagulated lymph ; in animals. [Htb. and Tr.] . - The pain in the region of the liver and the pit of the stomach is diminished (curative action). [S.] . - Pressure in the right hypochondrium. [Gff.] . - Pressure in the hepatic region, which also pains when touched. [Gff.] . - [255] Pressure and stitches in the hepatic region. [SUTTINGER.] . - Squeezing and dull cutting in the hepatic region. [Gff.] . - The left hypochondriacal region is hard and pains acutely when pressed upon. [S.] . - Single impulses of sore pressure in the region of the left hypochondrium. [Gff.] . - Sharp shooting pain in the left hypochondrium, as from incarcerated flatus. [Gff.] . - [260] Abdominal pains in the epigastrial region. [Htb.] . - Great painfulness of the whole abdomen, as if from an inflammation of the mesenteric glands. [Htb. u. Tr.] . - Pain in the hypogastrium, extending into the spine. - Pressive pain in the epigastrium, between the scrobiculus cordis and the navel. [Gff.] . - Pressure in the abdomen, beside the right hip. [Gff.] . - [265] Pressure in the hypogastrium, in frequent paroxysms, chiefly when sitting, and gradually relieved by stretching ; for several days in succession. - Inflation in the epigastrium, with sharp pressure here and there, as from flatulence, from dinner time, all through the period of digestion. [Gff.] . - Swollen abdomen, very much distended ; she could not lie horizontally without danger of suffocating. [NEUMANN.] . - Painful tension in the abdomen, with sensation of unusual pressing. [Hufel. Journ.] . - A drawing cramp-pain in the epigastrium, starting from the scrobiculus cordis. [Gff.] . - [270] Colic pains. [RICHTER.] . - Pains in the abdomen, like colic. [Htb.] . - Pinching and pressive pain in the abdomen. - Cutting in the umbilical region, with pappy stool. [JOERG.] . - Violent cutting in the umbilical region, with call to stool. [JOERG.] . - [275] Drawing and pressure in the right renal region. [Gff.] . - Burning tearing in the left side of the abdomen, near the hip. [Gff.] . - Stitches in the side of the abdomen. - Sharp shooting pain in the left hypogastrium. - Throbbing in the abdomen. [RUST'S Magaz.] . - [280] Frequent straining and pressing toward the lower opening of the pelvis, with frequent diarrhic stools. [JOERG.] . - The abdominal troubles return, especially after partaking of food. [RICHTER.] . - The abdominal symptoms recur for several days, even weeks and months, on partaking of food. [Trs.] . - Abdominal dropsy. [NEUMANN.] . - In the right inguinal region, pressure. [Gff.] . - [285] The glandular swellings in the inguinal region disappear (curative action) [MARTINI, in RUST'S Magaz. XXIII., 180.] [*] . [*] Effects on patients. -Hughes . - The hernial region becomes inflamed from the (usual) truss (6th d.). - In the morning, during inspiration, there is a tangible and audible rumbling on the side of the inguinal hernia. - Obstruction of flatulence, in the left side of the abdomen. - Pressing movements in the abdomen, from the stomach to the hypogastrium, chiefly toward the os pubis, the bladder and the testes, rarely with oppression toward the chest, sometimes attended with cutting. [JOERG.] . - [290] Rumbling in the abdomen, frequent. [JOERG.] . - Rumbling and noises in the intestines. [JOERG.] . - Discharge of flatus and stool, with slight cutting in the abdomen. [KUENZLI.] . - Increased emission of flatus. [RICHTER.] . - Emission of flatus, with a smell of rotten eggs. [JOERG.] . - [295] Increase of the peristaltic motion of the bowels. [KUENZLI.] . - Urging to stool, without evacuation ; this only results after drinking cold milk, and then it comes easy and without any effort. [S.] . - Indolent stool. [NEUMANN.] . - Difficult stool. - Constipation, sometimes of long duration. [GAIRDNER.] . - [300] Obstinate constipation. [Trs.] . - Hard, knotty, dark-colored evacuation. [Trs.] . - Irregular stool ; at one time constipation, then diarrha. [VOIGT.] . - Irregular stool ; at one time constipation, then diarrha, with distension of the abdomen, rumbling and grumbling in it and torments from flatulence. [GOEDEN.] . - At times, obstinate constipation, then again violent diarrha. [Trs.] . - [305] Several whitish stools during the day, softer than usual. [S.] . - Increased evacuations. [RICHTER.] . - Four times, pappy stools during the day, succeeded every time by burning in the anus. [JOERG.] . - Copious papescent evacuations . [JOERG.] . - Inclination to diarrhas. [Hufel. Journ.] . - [310] Diarrhic stools . [BAUP ; KUENZLI ; RICHTER.] . - Diarrhic stool. [JOERG.] . - Diarrha, which through its long duration is very exhausting. [SUTTINGER.] . - Diarrha, in the morning. [Htb.] . - Violent attacks of diarrha, with colic. [GAIRDNER.] . - [315] Frequent diarrhic stools, with pressing and straining toward the hypogastrium. [JOERG.] . - Pappy stool, with cutting in the umbilical region. [JOERG.] . - Violent diarrha of a watery, foaming, whitish mucus, with pinching about the navel, and pressure on the crown of the head. [S.] . - Evacuations of thick mucus or of pus, while the fæces are retained, like a sort of dysentery. [Trs.] . - Bloody, slimy, fetid, diarrhic stools. [GAIRDNER.] . - [320] After the stool, in the morning, which was rather hard than soft, pressure in the hypogastrium. [Gff.] . - Pressure in the rectum, in the evening in bed (aft. 36 h.). - Violent itching on the anus. - Violent itching on the anus, as from ascarides. [S.] . - Small, straining stitches in the anus, when sitting. [Htb.] . - [325] Excoriation in the rectum, after a normal stool. - Frequent excoriation, itching and burning on the anus. - Burning of the anus, in the evening . - The secretion of urine is obstinately suppressed. [Trs.] . - She passes hardly any urine, and that little is red (aft. 48 h.). - [330] Scanty passage of very dark-colored urine. [NEUMANN.] . - Frequent call to urinate, with little secretion. [JOERG.] . - Incessant urging to urinate. [Hufel. Journ.] . - Frequent micturition, with urging. [S.] . - Increased secretion of urine. [RICHTER.] . - [335] Copious and frequent passage of light-yellow, watery urine. [JOERG.] . - Increased secretion of a thickish urine, with very dark sediment. [JOERG.] . - Involuntary micturition (aft. 3 d.). - Dark, turbid, sometimes milky urine. [Gff.] . - Dark urine of yellowish-green color. [JOERG.] . - [340] Ammoniacal smell of the urine. [JOERG.] . - Urine which smarts and corrodes, when passed. - Itching erosion in the orifice of the urethra. - Keen cutting in the orifice of the urethra, when not urinating. [Gff.] . - Pricking, as from needles, in front in the orifice of the urethra (aft. 16 d.). - [345] In the penis, anteriorly, very keen drawing ; it is not manifest, whether it is more in the urethra or in the glans. [Gff.] . - Clucking tearing on the right side, close beside the penis. [Gff.] . - Pressive pain on the right side, close to the penis. [Gff.] . - Severe itching on the glans. - Tickling in the glans, frequently recurring. [JOERG.] . - [350] Violent tickling on and below the glans. [Gff.] . - Cutting drawing in the corona glandis. - Repeated pressing and straining down toward the testes. [JOERG.] . - One of the testes is closely drawn up to the belly. - A painless swelling of the right testicle disperses, with violent itching and burning in it, and the breaking out of an ill-smelling sweat (curative action). [HENNING.] . - [355] The induration of the prostate gland is dispersed (curative action). [MARTINI.] . - Excitement of the sexual organs. [KUENZLI.] . - The sexual desire is startlingly increased. [Hufel. Journ.] . - Increased sexual instinct with men. [RICHTER.] . - Exaltation of the sexual instinct. [VOIGT.] . - [360] Erections take place slowly (5th d.). - Severe straining in the hypogastrium toward the female sexual organs. [Hufel. Journ.] . - Labor-like spasms in the hypogastrium. [Hufel. Journ.] . - Dropsy of the ovaries quickly disappeared (",
+        "source_id": "hahnemann-chronic-diseases-1896"
+      },
+      {
+        "text": "Always hungry; eat or wants to all the time, yet emaciates; > while eating.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Hypertrophy of all glands except mammary, which dwindle; while body withers glands enlarge.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Mentally anxious, anguish, wants to move, do something, hurry, kill somebody, etc. (Arsen.)",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Warm blooded notwithstanding emaciation; wants a cool place to move, think, or work in.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Pulsations all over, stomach, back, even arms, fingers and toes (Bell.)",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Especially suitable to dark haired, dark eyed, dark skinned persons of scrofulous habit.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Modalities: while eating; moving, and cold air.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Great weakness and loss of breath on going up stairs.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Hard goître in dark haired persons; also tumors in the breast.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Sensation as if the heart was squeezed together; as if grasped with an iron band. (Sulph.).",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Croup; membranous; in scrofulous children; child grasps the larynx; face pale and cold; in fleshy children.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "This is another so-called anti-scrofulous remedy. Here are a few characteristic indications:",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "First: \"Scrofulous diathesis; low cachectic condition, with profound debility and great emaciation.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Second: \"There is a remarkable and unaccountable sense of weakness and loss of breath on going up stairs.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Third: \"Ravenous hunger; eats often and much, but loses flesh all of the time.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Fourth: \"Feels relieved after eating or while eating.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Fifth: \"Dwindling of the mammæ and soreness.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Sixth: \"Profuse uterine hæmorrhages; cancer of uterus.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Seventh: \"Chronic leucorrhœa, which is abundant and so corrosive as to eat holes in the linen.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Eighth. \"Swelling of glands, especially mesenteric and thyroid.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Ninth: \"Membranous croup, wheezing, sawing respiration, dry, barking cough, especially in children with dark eyes and hair; child grasps the throat with the hand when coughing.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Tenth: \"Aggravations in general from warm room.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Here is Iodine in a nutshell. The remarkable hunger relieved by eating, with progressive emaciation, is the first in importance. This relief by eating is not only of the sensation of hunger, but his sufferings in general; he only feels well while eating, or always feels best while eating. It makes no difference whether it is phthisis pulmonalis, mesenteric, or general, that this symptoms well developed rules out everything but Iodine in almost every case and it has made many remarkable cures. I have cured many cases of goître with Iodine c. m., when indicated, giving a powder every night for four nights, after the moon fulled and was waning.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "I have only failed in one case either to check the further development or cure. Some will sneer at this, but the cured ones do not. The local application for glandular enlargement is foolish and dangerous.",
+        "source_id": "nash-leaders-1899"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Appetite, disordered; Atrophy; Brain, atrophy of; Breasts, affections of; Cancer; Chilblains; Chyluria; Constipation; Consumption; Coryza; Cough; Croup; Debility; Diabetes; Diarrhœa; Diphtheria; Emaciation; Enteric fever; Galactorrhœa; Goître Hæmorrhoids; Headaches; Heart, hypertrophy of; affections of; Hiccough; Hydrocephalus; Iritis; Jaundice; Joints, affections of; Lactation, disordered; Laryngitis Leucorrhœa; Liver, affections of; Lymphatic swellings; Melancholia; Mollities ossium; Ovaries, affections of; dropsy of; Ozæna; Prostate gland, enlarged; Rheumatic gout; Rheumatism; Salivation; Scars; Seborrhœa; Sterility; Syphilis; Tabes mesenterica; Throat, affections of; Uterus, affections of; Voice, affections of; Vomiting; Worms",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Causation: Nervous shock. Disappointed love.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Insupportable hoarseness and tingling in the throat, esp. in morning. The voice becomes deeper. Membranous croup, with wheezing and sawing respiration; dry, barking cough, esp. in children with dark eyes and hair; child grasps throat with hand. Croup, with much mucous expectoration, sometimes streaked with blood. Inflammation of the throat, of the larynx and trachea, with contractive pain of excoriation. Pain in the larynx, with discharge of hardened mucus. Contraction and heat in the larynx. Increased secretion of mucus in the trachea, with frequent hawking. Dry cough, with pressure, shooting, and sensation of burning in the chest. Cough in the morning. Cough, with expectoration of abundant, and sometimes sanguineous mucus, pains in the chest, and fever. Rattling of mucus in the chest, with roughness under the sternum and oppression of the chest. Cough, resembling whooping-cough, excited by an insupportable tickling in the chest, with anguish before the paroxysm, and excessive emaciation. Hepatization; worse upper part of r. lung. Chronic arthritic affections; with violent nightly pains. Stiff and enlarged joints after acute rheumatism. Subsultus tendinum. Cold hands and feet. Pains in the bones of the arms, when lying down, and disturbing the sleep. Lassitude in the arms in the morning, in bed. Convulsive movements and trembling of the arms, of the hands, and of the fingers. Numbness of the fingers. Tearing pains in the fingers. Startings of the tendons of the fingers. Panaris. Constant coldness of the hands, which are covered with a cold sweat during labour. Carphologia. Cramp-like pains in the legs when seated. Heaviness, swelling, trembling and paralysis of the legs. Rheumatic pullings in the thighs and knees. Inflammatory swelling of the knee, with tearing pains, and suppuration. Hot, bright-red swelling of the knee, with inflammation, pricking and burning; by touch and pressure. Dropsical swelling of the knee. White swelling of the knee. Cramps in the feet, esp. at night. Startings of the tendons of the feet. Œdematous swelling of the feet. Chilblains. Acrid and corrosive sweat on the feet. Pain in the corns. Erratic pains in the joints. Chronic rheumatism in the joints, with violent pains at night; without swelling. Sensation of torpor in the limbs. Convulsive starting and twitching of the tendons. Distortion of the bones. Pains in the bones at night. Swelling and induration of the glands. Hæmorrhage from different organs. Powerful over-excitement of all the nervous system. Ebullition of blood, and pulsation over the whole body, increased by the slightest exertion. Trembling of the limbs. Tottering walk. Great weakness; even speaking excites perspiration. Plastic exudations. Atrophy and emaciation till reduced to the state of a skeleton (with good appetite). Emaciation; ending in marasmus; of glandular tissues (mammæ, testicles, thyroid gland, &c.). Œdematous swelling, even of the whole body.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Buzzing in the ears. Hardness of hearing. Sensibility to noise. (Chronic deafness with adhesions in middle ear. Deafness from Eustachian catarrh, inflamed tonsils, roaring in the ears, &c.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Complexion pale, yellowish, or easily tanned; or greenish. Acneous eruption on r. side of face, with burning, and itching, twitching of r. upper eyelid, and twitchings in other parts. Sallow, distressed countenance. Bluish lips, with swelling of the superficial veins. Frequent and sudden redness of the face, with sensation of burning in the ears. Face sunken with eyes cast down. Starting of the muscles of the face. Suppurating ulcer on the l. cheek, with swelling of the contiguous glands. Swelling of submaxillary glands.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Tension in the neck. Swelling of the exterior of the neck. Swelling of the neck when speaking. Swelling of the glands of the neck, of the nape of the neck, and of the armpits. Hard and large goîtres. Constant sensation of constriction in the goîtres. Yellowish spots on the neck, and redness, as from ecchymosis. Cramps in the back. Pain in sacrum and coccyx. Spinal complaints, with gressus vaccinus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Agitated dreams. Restless sleep with vivid or anxious dreams. Nocturnal sweat.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "cowperthwaite-textbook-1891",
+      "hahnemann-chronic-diseases-1896",
+      "nash-leaders-1899"
+    ]
+  }
+}

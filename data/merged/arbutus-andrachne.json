@@ -1,0 +1,47 @@
+{
+  "id": "arbutus-andrachne",
+  "names": {
+    "primary": "ARBUTUS ANDRACHNE",
+    "latin": "ARBUTUS ANDRACHNE",
+    "common": [
+      "Strawberry Tree"
+    ],
+    "synonyms": [
+      "Arbutus Andrachne"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Tincture, to third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ARBUTUS ANDRACHNE Strawberry Tree A remedy for eczema associated with gouty and rheumatic symptoms. Arthritis; especially larger joints. Urine rendered more clear. Lumbago. Symptoms shift from skin to joints. Vesical symptoms.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "This is one of Dr. Cooper's remedies. He cured several cases of eczema with it, and observed that it produced pains in the joints of a gouty or rheumatic character. Hence he was led to give it in certain inveterate cases of arthritis. In one case the patient noticed that it \"cleared his urine.\" Arbutin has a reputation among the allopaths as a urinary remedy. Arbutus is allied to Uva ursi, which belongs to the Ericaceæ. One patient who was benefited by the remedy had in north-east winds. The larger joints are principally affected, and the slightest movement sets up inflammation. The tree sheds its bark annually, which gives the signature of its use in skin cases.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Arthritis; Eczema; Gout; Rheumatism; Urine, disorders of",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Led., Kalm., Bry. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

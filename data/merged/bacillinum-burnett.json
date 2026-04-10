@@ -1,0 +1,68 @@
+{
+  "id": "bacillinum-burnett",
+  "names": {
+    "primary": "BACILLINUM BURNETT",
+    "latin": "BACILLINUM BURNETT",
+    "common": [
+      "A Maceration of a Typical Tuberculous Lung introduced by Dr. Burnett (BACILLINUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Irritable, depressed. Severe, deep-in headache, also as of a tight hoop. Ringworm. Eczema of eyelids",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Abdominal pains, enlarged lands in groins, tabes mesenterica. Sudden diarrhœa before breakfast. Obstinate constipation, with offensive flatus",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Oppression. Catarrhal dyspnœa. Humid asthma. Bubbling rales and muco-purulent expectoration. Note. This muco-purulent expectoration of bronchitic patients is equally poly-bacillary; it is a mixture of diverse species and hence Bacillinum is truly indicated (Cartier). Often relieves congestion of the lungs, thus paving way for other remedies in Tuberculosis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Ringworm; pityriasis. Eczema of eyelids. Glands of neck enlarged and tender",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "night and early morning; cold air",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "complementary": [
+        "Calc phos",
+        "Kali carb"
+      ]
+    },
+    "dosing": {
+      "notes": "The does is important. Should not be given below the thirtieth and not repeated frequently. One dose a week often sufficient to bring about reaction. It is rapid in action, and good results ought to be seen, otherwise there is no need of repetition"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">BACILLINUM BURNETT A Maceration of a Typical Tuberculous Lung introduced by Dr. Burnett (BACILLINUM) Has been employed successfully in the treatment of tuberculosis; its good effects seen in the change of the sputum, which becomes decreased and more aerated and less purulent. Many forms of chronic non-tubercular disease are influenced favorably by Bacillinum, especially when bronchorrhœa and dyspnœa are present. Respiratory pyorrhea. The patient expectorates less. Bacillinum is especially indicated for lungs of old people, with chronic catarrhal condition and enfeebled pulmonary circulation, attacks of suffocation at night with difficult cough. Suffocative catarrh. Tubercular meningitis. Favors falling off of tartar of teeth. Constant disposition to take cold.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

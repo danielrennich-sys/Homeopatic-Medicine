@@ -1,0 +1,41 @@
+{
+  "id": "acai",
+  "names": {
+    "primary": "Acai",
+    "latin": "Acai",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "The acai palm tree, native to tropical Central and South America and widely found in the Brazilian Amazon region, produces a round, dark purple fruit. The acai fruit, also known as acai berry, has long been an important food source for the indigenous people there, who also attribute healing powers to various parts of the plant. Different parts of the acai plant have been used in folk medicine for treating fever, gastrointestinal and skin conditions, and infectious diseases. Acai products have become popular in the United States. They have been promoted for athletic performance, high cholesterol, erectile dysfunction, obesity, aging skin, metabolic syndrome, and other conditions. The Federal Trade Commission has taken action against companies that marketed acai weight-loss products in allegedly deceptive ways.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "Very little research has been done in people on the health effects of acai products.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "There is not enough reliable information to say whether acai might be helpful for any health-related purpose. No studies in people have been published in peer-reviewed journals in the last 5 years that substantiate claims that acai promotes weight loss. Laboratory studies support acai’s potential antioxidant and anti-inflammatory properties as well as other potentially beneficial effects. Several small studies have found that acai pulp improves antioxidant defenses in people.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Acai pulp has been used safely for up to 3 months in clinical research. Little research has been done on the safety of acai. Raw acai fruit and juice can be contaminated with parasites. In rare cases, drinking the raw juice has been linked to outbreaks of the illness American trypanosomiasis (also known as Chagas disease). Consuming acai might affect results of magnetic resonance imaging (MRI) of the gastrointestinal tract. If you use acai products and are scheduled for an MRI, check with your health care provider. Preliminary research showed that taking acai may increase or decrease levels of fasting blood glucose, suggesting that acai could possibly interfere with glycemic control if taken with antidiabetes medications. If you take antidiabetes medications or any other medicine, talk with your health care provider before using acai or other herbal products; some herbs and medicines interact in harmful ways. Little is known about whether it’s safe to use acai during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

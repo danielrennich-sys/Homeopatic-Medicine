@@ -1,0 +1,85 @@
+{
+  "id": "lycopersicum-esculentum",
+  "names": {
+    "primary": "LYCOPERSICUM ESCULENTUM",
+    "latin": "LYCOPERSICUM ESCULENTUM",
+    "common": [
+      "Tomato (SOLANUM LYCOPERSICUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Bursting pain, beginning in occiput and spreading all over. Whole head and scalp feels sore, bruised, after pain has ceased",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Dull, heavy; pupils contracted; eyeballs feel contracted; aching in and around eyes. Eyes suffused",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Profuse, watery coryza; drops down throat. Itching in anterior chamber; worse, breathing any dust; better, indoors",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Decided decrease in pulse rate with anxiety and apprehensiveness",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Voice husky. Pain in chest, extending to head. Hoarseness; constant desire to clear throat. Expulsive cough, deep and harsh. Chest oppressed; dry, hacking cough coming on at night and keeping one awake",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Constant dribbling in open air. Must rise at night to urinate",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Aching through back. Dull pain in lumbar region. Sharp pain in right deltoid and pectoralis muscles. Pain deep in middle of right arm. Rheumatic pain in right elbow and wrist, and hands of both sides. Intense aching in lower limbs. Right crural neuralgia. Tingling along right ulnar nerve",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "warm room, tobacco",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "right side, open air, continued motion, jars, noises",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Third to thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">LYCOPERSICUM ESCULENTUM Tomato (SOLANUM LYCOPERSICUM) Marked symptoms of rheumatism and influenza. Severe aching pains all over body. Pains left after influenza. Head always shows signs of acute congestion. Hay-fever, with marked aggravation from breathing the least dust. Frequent urination and profuse watery diarrhœa.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

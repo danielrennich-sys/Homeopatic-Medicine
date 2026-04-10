@@ -1,0 +1,68 @@
+{
+  "id": "heliotropium",
+  "names": {
+    "primary": "Heliotropium",
+    "latin": "Heliotropium",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T HELIOTROPIUM. Heliotropium Peruvianum, Linn. Natural order , Boraginaceæ. Common name , Heliotrope. Preparation , Tincture of the whole plant, when in flower. Authority. Archiv. f. Hom., 19, pt. 1, p. 188. ► Headache in the forehead, like a pressure and drawing-pressing, disappearing on walking and in the open air (immediately). ► Feeling of tension in the left inner canthus, extending down into the nasal bone, as if a swelling were there; the eye seems drawn together and smaller. ► Pressure in the pit of the stomach and internal surface of the sternum, at times with fine sticking-itching externally in the same place; it is especially painful on inspiration, and the epigastric region is sore to touch; most violent after eating and in the evening. ► Pressure on the mons veneris only when sitting. ► Pressure and oppression of the external parts of the chest, without affecting breathing. ► Pain in the outer portion of the leg, above the ankle, extending up the muscles, as if the part were beaten, even when sitting. ► Itching on the tibia, with a sensation as if there were an eruption. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Clergyman's sore throat; Dysmenorrhœa, membranous; Hoarseness; Leucorrhœa; Uterus, misplacement of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "(Voice thick; clergyman's sore throat.). Pressure and oppression of external parts of chest, without affecting breathing. Pain in outer part of leg above ankle, extending up the muscles, as if beaten, even when sitting. Itching on tibia, with sensation as if there was an eruption. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Heliotrope has been slightly proved. Symptoms of pressure and tension were produced in many parts: pressure on the sternum impeding breathing; pressure on the head; on mons veneris; pain as if beaten in leg muscles. Cooper has used this remedy clinically and considers hoarseness and \"thick voice\" a great indication. He has cured with it clergyman's sore throat. It has also an action resembling that of Natrum hyperchlorinosum in uterine displacement, leucorrhœa, backache. With Nat. hyper. there is passive bearing down from heavy, water-logged condition of uterus. With Heliot. the bearing down is active. The effect of Heliot. given by Cooper to a lady who had been advised by several surgeons to have various organs either braced up surgically, or removed, was described by her as having made her \"feel just as if braced up\" six hours after taking the dose. It is especially indicated if there is also a tendency to loss of voice. It has cured membranous dysmenorrhœa. The head symptoms of the proving were > on walking in the open air. Other symptoms were after resting; on inspiration.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Nat. hyperchl.; Borax (membranous dysmenorrhœa); Symphytum (bruised, pain in leg)."
+      ]
+    },
+    "head": [
+      {
+        "text": "Headache in forehead, like a pressure and drawing pressing, > walking in open air.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Feeling of tension in l. inner canthus extending down into nasal bone, as if a swelling were there; eye seems drawn together and smaller.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Pressure in pit of stomach and internal surface of sternum, at times with fine sticking externally in the same place; esp. on inspiration, and the epigastric region is sore to touch; most violent after eating and in evening.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Pressure on mons veneris only when sitting. (Membranous dysmenorrhœa; leucorrhœa; uterine displacements; with backache; esp. if subject to loss of voice.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

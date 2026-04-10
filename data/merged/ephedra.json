@@ -1,0 +1,41 @@
+{
+  "id": "ephedra",
+  "names": {
+    "primary": "Ephedra",
+    "latin": "Ephedra",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Ephedra is a low evergreen shrub with small, scaly leaves. The herb usually comes from the stem and branches of the Ephedra sinica species. Ephedra has a long history of medicinal use in China and India to treat colds, fever, headaches, congestion, coughing, wheezing, and other conditions. The U.S. Food and Drug Administration (FDA) banned the sale of dietary supplements containing ephedrine alkaloids (stimulant compounds found in Ephedra sinica and some other plants) in the United States in 2004. Prior to the ban, ephedra was an ingredient in some dietary supplements promoted for weight loss, increased energy, and enhanced athletic performance.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "Almost no new research on ephedra in people has been performed in the years since its use in dietary supplements was banned in the United States. Prior to the ban, substantial research had been done on ephedra’s short-term effects on weight loss and its harmful effects.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "Prior to the ban, research showed that dietary supplements containing ephedrine alkaloids (usually in combination with caffeine) had modest short-term effects on weight loss. However, this benefit was considered insufficient to outweigh the serious risks of these supplements. No studies had assessed long-term effects on weight. The evidence regarding athletic performance was insufficient to allow any conclusions to be reached.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "The FDA has banned dietary supplements containing ephedrine alkaloids because they have serious safety risks. Even in relatively low doses and short-term use, ephedra has been linked to harmful effects like high blood pressure, heart attack, seizure, stroke, and psychosis. Ephedra can be life-threatening or disabling in some people. Ephedra can also cause anxiety, dizziness, dry mouth, headache, heartburn, insomnia, irritability, nausea, personality changes, and other symptoms. It isn’t possible to determine who would be at the greatest risk of using ephedra today. There are theoretical reasons to suspect that ephedra might interact with other stimulants like caffeine. People with conditions like cardiovascular disease have also been considered at higher risk for severe harm. The use of ephedra during pregnancy or while breastfeeding is considered unsafe. It’s also considered unsafe for children.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

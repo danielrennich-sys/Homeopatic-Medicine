@@ -1,0 +1,65 @@
+{
+  "id": "lecithinum",
+  "names": {
+    "primary": "LECITHINUM",
+    "latin": "LECITHINUM",
+    "common": [
+      "A Phosphorus-containing Complex Organic Body prepared from the yolk of egg and animal brains (LECITHIN)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Forgetful, dull, confused",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Aching, especially in occiput-pulsating and ringing in ears. Pain in zygoma; face pale",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Loss of appetite, thirsty, craves wine and coffee; bloated, sore pain in stomach rising toward throat",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Scanty, with phosphates, sugar or albumen",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Sexual] Male power lost or enfeebled. Anaphrodisia and ovarian insufficiency",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Soreness, aching, lack of energy. Tired and weak",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "One-half to 2 grains of crude and potencies. Twelfth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">LECITHINUM A Phosphorus-containing Complex Organic Body prepared from the yolk of egg and animal brains (LECITHIN) Lecithin is important in the vital processes of plant and animal organisms. Lecithin has a favorable influence upon the nutritive condition and especially upon the blood hence its use in anæmia and convalescence, neurasthenia and insomnia. Increasing the number of red corpuscles and amount of hemoglobin. Excellent galactagog, renders milk more nourishing and increases quantity. Causes an immediate decrease in the excretion of the phosphates. Mental exhaustion and impotency. Tuberculosis, causing marked improvement in nutrition and general improvement. Tired, weak, short breath, loss of flesh; symptoms of general break-down. Sexually weak.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

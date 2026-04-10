@@ -1,0 +1,32 @@
+{
+  "id": "lyssin-saliva",
+  "names": {
+    "primary": "Lyssin. The Saliva of a Rabid Dog. (A Nosode.)",
+    "latin": "Lyssin. The Saliva of a Rabid Dog. (A Nosode.)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Ziemsen suggested Lyssin as a substitute for Hydrophobinum, Encyclopaedia, vol. iii, p 472. The sight or sound of running water or pouring water aggravates all complaints. Lyssophobia; fear of becoming mad. Bluish discoloration of wounds (Lach.). Complaints resulting from abnormal sexual desire (from abstinence, Con.). Mental emotion or mortifying news always makes him worse. Cannot bear heat of sun (Gels., Glon., Lach., Nat.). Convulsions: from dazzling or reflected light from water or mirror (Stram.); from even thinking of fluids of any kind; from slightest touch or current of air. Headache: from bites of dogs, whether rabid or not; chronic, from mental emotion or exertion; by noise of running water or bright light. Salive; tough, ropy, viscid, frothy in mouth and throat, with constant spitting (Hydr.). Sore throat, constant desire to swallow (Lac. c., Mer.). Difficulty in swallowing, even spasm of oesophagus from swallowing liquids; gagging when swallowing water. Constant desire to urinate on seeing running water (Canth., Sulph.); urine scanty, cloudy, contains sugar. Prolapsus uteri; many cases of years' standing cured. Sensitiveness of vagina, rendering coition painful.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Compare: Bell., Canth., Hyos., Stram., in hydrophobia.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - Sight or sound of water; bright dazzling light (Stram.); carriage-riding (Coc. - better from, Nit. ac.).",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

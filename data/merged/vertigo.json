@@ -1,0 +1,24 @@
+{
+  "id": "vertigo",
+  "names": {
+    "primary": "VERTIGO",
+    "latin": "VERTIGO",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY VERTIGO. Vertigo : Aco., Bell., Bry., Calc-c., Chel., Cocc., Con., Fer., Gels., Nat-m., Nux-v., Petr., Pho., Pul., Rhus-t., Sil., Sul., Tab. Vertigo, intoxicated, as if : Gels., Nux-v., Pul. Vertigo, reeling : Bell., Nux-v., Rhus-t. Vertigo, whirling : Nux-v. Vertigo, ascending , agg. : Calc-c. Vertigo, descending , agg. : Bor., Gels. Vertigo, felt in forehead : Pho., Sul. Vertigo, felt, vertex : Calc-c., Chel., Scrop. Vertigo, felt, occiput : Carb-v., Gels., Petr., Sil., Zin. Vertigo, lying , agg. : Ap., Con., Pul. Vertigo, raising up , agg. : Aco., Bry., Merc-i-f., Phyt., Ver-v., Vib. Vertigo, sitting , agg. : Ap., Pho., Pul., Sul. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

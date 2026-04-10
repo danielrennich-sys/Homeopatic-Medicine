@@ -1,0 +1,186 @@
+{
+  "id": "carbolicum-acidum",
+  "names": {
+    "primary": "CARBOLICUM ACIDUM",
+    "latin": "CARBOLICUM ACIDUM",
+    "common": [
+      "Phenol-Carbolic Acid"
+    ],
+    "synonyms": [
+      "Carbolicum Acidum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Disinclined to mental work. Tight feeling, as if compressed by a rubber band (Gels; Mahonia). Orbital neuralgia over right eye. Headache, better, by green tea; while smoking",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Headache: heavy, dull. Periodical sick-headache, as if enclosed in tight hand. Dull frontal headache, as if an indiarubber band were stretched tightly over forehead from temple to temple, > by pressure. Itching of scalp. Headache > by green tea; while smoking; by tight band; by cold hand; by bending head forward.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Smell very acute. Putrid discharge. Ozæna, with fetor and ulceration. Influenza and resulting debility",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Tight and stopped up. Tickling, prickling, itching in nostrils. Sense of smell very acute. Ozæna, with great fetor and ulceration.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Ulcerated patches on inside of lips and cheeks. Burning in mouth to stomach. Fauces red, and covered with exudation. Uvula whitened and shriveled. Putrid discharge. Almost impossible to swallow. Diphtheria, fetid breath, regurgitation on swallowing liquids, but little pain (Bapt). Face dusky red; white about mouth and nose. Rapid sinking of vital forces",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Aching of teeth in r. upper jaw. Lips dry, cracked, painful or black. Tongue burning and tingling, as if a thousand pins were sticking in it. Tongue dry and chippy, parched and fissured. Throat and tongue black, tender and ulcerated patches in inside of lips and cheeks. Intensely bad smell from mouth. Prickling and burning in throat and œsophagus. Heat rising up from the stomach. Spasmodic contraction of œsophagus. Inability to swallow. Sore-throat worse on r. side. Hawking of clear white mucus. Fauces red and covered with a mucous exudation. Uvula whitened and shrivelled.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Appetite lost. Desire for stimulants and tobacco. Constant belching, nausea, vomiting, dark olive green. Heat rises up œsophagus. Flatulent distention of stomach and abdomen. Painful flatulence often marked in one part of the bowel (Sulpho-Carbolate of Soda). Fermentative dyspepsia with bad taste and breath",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Wants a drink of water every few minutes. Constant belching up of wind. Vomiting of drunkards. Excessive nausea, and inclination to vomit; while eating a little, after breakfast. Vomiting of: Bright's disease; sea-sickness; cancer; pregnancy. Weight in epigastrium as if burdened with flatulence. Burning in stomach. Total loss of appetite. Desire for whiskey. Pain in r. hypochondrium; also in that region of both sides. Rumbling and rolling in abdomen. Burning in lower part of abdomen and top of head.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Constipation, with very offensive breath. Bloody, like scrapings of intestines. Great tenesmus. Diarrhœa; stools thin, black, putrid",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Almost black. Diabetes. Irritable bladder in old men with frequent urination at night, of probable prostatic nature. Use 1x",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Urine: dark greenish brown; greenish; very dark; black or blackish. Quantity increased and passed frequently. Diabetes. Albuminuria. Urine of high specific gravity; urea abundant. While urinating always an involuntary mucous discharge from anus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Discharges always offensive (Nitr ac; Nux; Sep). Pustules about vulva containing bloody pus. Agonizing backache across loins, with dragging-down thighs. Pain in left ovary; worse walking in open air. Erosions of cervix; fetid, acrid discharge. Leucorrhœa in children (Cann s; Merc; Puls; Sep). Puerperal fever, with offensive discharge. Irritating leucorrhœa, causing itching and burning (Kreos)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pain in region of l. ovary walking in open air. Painful swelling of l. ovary. Menses irregular; too profuse, dark colour, followed by headache and nervous irritability. Puerperal fever, with putrid symptoms. Ulceration of the cervix uteri. Offensive discharges.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Cramps in fore part of leg, close to tibia during walking. Gnawing pains in shin bones. Arthritis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching vesicles, with burning pain. Burns tend to ulcerate",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Offensive odour from skin. Erysipelas; violet colour swelling, roughness. Miliary vesicles. Malignant scarlatina. Confluent variola. (Acne; eczema; impetigo; scabies; psoriasis; prurigo; leprosy; pityriasis versicolor; lupus; carbuncles; cancerous sores; sloughing wounds; chronic ulcers; burns).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "antidoted_by": [
+        "Alcohol",
+        "Vinegar",
+        "Chalk",
+        "Iod"
+      ],
+      "_raw": [
+        "It is antidoted by: Chalk; Saccharated Lime. In burns from carbolic acid, Elias C. Price found milk give immediate relief. He suggests copious draughts of milk in poisoning cases. Compare: Gels. Merc. and Sul. in band-like headache; Ars., Carb. v., Chi. and Kre. in burns, ulcers, unhealthy, offensive discharges; Pic. ac. (tightly drawn iron band at base of brain; Carbl. ac. has this round head); Ant. t. and Variol. in Small-pox."
+      ]
+    },
+    "dosing": {
+      "notes": "Third to thirtieth potency. Phenol in Arthritis, according to Goodno. Must be absolutely pure. Crystals Solution (25 %) in equal parts of water and glycerine, dose 20 minims well diluted 3 times daily (Bartlett)"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CARBOLICUM ACIDUM Phenol-Carbolic Acid Carbolic Acid is a powerful irritant and anæsthetic. A languid, foul, painless, destructive remedy. Stupor, paralysis of sensation and motion, feeble pulse and depressed breathing, death due to paralysis of respiratory centers. Acts primarily on the central nervous system. Increased olfactory sensibility. Produces mental and bodily languor, disinclination to study, with headache like a band. Very marked acuteness of smell is a strong guiding symptom. Stomach symptoms are also important. Pains are terrible; come and go suddenly. Physical exertion brings on abscess somewhere. Putrid discharges (Bapt). Scarlet fever, with marked tendency to destruction of tissue internally, and fetid odor. Spasmodic coughs. Arthritis (See Dose).",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Carbolic acid, like the Carbons, is a powerful antiseptic, and its use as such in surgery has led incidentally to the poisoning of both patients and surgeons. These experiences have provided a number of the symptoms indicating its medicinal use. The pains of carbolic acid come suddenly. They are burning and pricking, sticking. The urine is very dark, black or blackish olive-green; grass or olive-green. There is numbness and twitching. Putrid discharges are a marked indication. The skin is inflamed, and other symptoms appear, with burning, tingling, itching, and numbness. Gangrene has been caused by the application of 2 to 5 per cent. solutions. There is profound prostration and fatigue; convulsions; collapse; cold, clammy sweat. Constant yawning. R. K. Ghosh finds it admirable in cases (if cholera where Verat. alb. seems indicated and fails. There is intolerance of warm room; but also sensitiveness to cold air which many symptoms. Many poisoning cases show pneumonia, single or double, affecting the bases principally. Dr. Proctor has recorded a brilliant cure of a double basal pneumonia with drop doses of the B. P. solution, after failure of more commonly used remedies. Nervous dyspepsia of intensely painful character has frequently been cured by it; and R. K. Ghosh has reported great improvement in a case of diabetes when the remedy was given for something else. Proell has recorded his own case of idiopathic erysipelas affecting the back of the right hand, first three fingers and arm, with violet-coloured swelling and roughness. Rhus removed the fever, but did nothing to stop the erysipelas. This Carbol. ac. 30 did promptly. It was prescribed by Dr. Streintz. Fahnestock reports a case of poisoning observed by himself from inhaling the fumes. The patient, a woman, feeling ill, ran across the street to a neighbour's. Before reaching the house she fell prostrate, pale, gasping for breath. When taken in, she had to be propped up in order to breathe; trembled all over; wanted her hands held; \"pricking like needles,\" all over body; unable to raise right arm. Cold hands and feet. Wanted a drink of water every few minutes; nausea but no vomiting; pain in lumbar region. Symptoms lasted four hours. It has been used with success in the vomiting of drunkards; of pregnant women with violent frontal headache. Great flatulent distension of the abdomen, with belching of wind and desire for stimulants, indicates the drug. Palpitation of the heart at night has been cured by it. It has relieved cases of cancer of the stomach, and has apparently cured epithelioma of the cheek and nose, with hæmorrhages (Allen). Deschere has found Carbol. ac. 30 of great service in uterine displacements, with or without discharges, but these, if present, are always offensive. The symptoms first relieved are the agonising backache across the loins with a dragging sensation down the buttocks into the thighs. Cooper regards it as specific in influenza, in the 3x for the attack, and 30th for resulting debility.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. CARBOLICUM ACIDUM Carbolic Acid .- C 6 H 5 O.H. Preparation.- Solution in alcohol. General Analysis.- Acts primarily upon the cerebrospinal nerve centers, destroying their vitality, and thus producing a tendency to deterioration of the solids and fluids of the body, even causing the presence in the latter of animal and vegetable organisms. Thus is readily understood not only its therapeutic action when administered internally, but also its important property, both as a therapeutic and preventive agent, in its destructive influence over the lower grades of organic life, whether vegetable or animal. In very weak solution it instantly destroys vegetable mold, both plant and spores, and operates with equal destructiveness upon minute or microscopic animalcules. Through this power it checks the different fermentations, including putrefaction, and thus acts powerfully as an antiseptic or disinfecting agent. It operates with wonderful efficiency in correcting or preventing putrefaction in animal substances, produces the same effect in the living human subjects, and, through the same influence, corrects or suppresses those fermentative processes in the body which often lead to the most serious results, as purulent infection, poisoned dissecting wounds, carbunculous disease, and hospital gangrene. ( Arch. Gen., 1873 .) Characteristic symptoms. Mind.- (Carbolicum acidum) Disinclination to mental exertion ; very irritable. Head.- (Carbolicum acidum) Dull, heavy headache, as if an India-rubber band were stretched tightly around the forehead. (Ant. tart., Chel., Merc., Nitr. ac., Sulph.) Feeling of tightness across the forehead, above the frontal sinuses. Small pustulous vesicle at left of vertex. Itching of the scalp. (Caust., Graph., Sep., Sil., Sulph.) Eyes.- (Carbolicum acidum) Severe orbital neuralgia over the right eye. (Coloc.) Nose.- (Carbolicum acidum) Sense of smell more acute ; nostrils plugged up. Ozoena, with great fetor, and ulceration. Face.- (Carbolicum acidum) Face pale or flushed, and burning. Throat.- (Carbolicum acidum) Sore throat, worse on the right side. Hawking of clear white mucus. Stomach.- (Carbolicum acidum) Total loss of appetite. Desire for whiskey. (Asar.) Constant belching of large quantities of wind. Excessive nausea, and inclination to vomit. (Ant. tart.) Abdomen.- (Carbolicum acidum) Pain in right hypochondrium ; also in iliac region of both sides. Rumbling and rolling in the abdomen, with a sense of distension. (Cinch., Lyc.) Stool.- (Carbolicum acidum) Cholera infantum, with putrid discharges like foul eggs. Urine.- (Carbolicum acidum) Urine dark ; dark greenish-brown ; dark, smoky color ; alkaline. Female Organs.- (Carbolicum acidum) Menses profuse and dark-colored. Pain in region of left ovary when walking in the open air, soon subsiding. Puerperal fever, with putrid symptoms. Ulceration of the cervix uteri. (Hydras.) Respiratory Organs.- (Carbolicum acidum) Stertorous respiration. (Op.) Short, hacking cough, with tickling in the throat. Feeling of narrowness in the chest, as if the diaphragm depressed the lungs. Back.- (Carbolicum acidum) Soreness of the muscles of the back and limbs. Upper Limbs.- (Carbolicum acidum) Constant tired, heavy feeling in left arm. Soreness of the muscles of the right arm. Aching pain in left forearm. Lower Limbs.- (Carbolicum acidum) Lower extremities feel heavy as lead. Aching soreness beneath left patella ; feels as if it would be stiff and sore to move it, but it is not felt at all during motion. Aching pain in left shin bone. Sharp pain in left shin bone. Generalities.- (Carbolicum acidum) Great languor and profound prostration. Easily fatigued by the least walk. Feels as if she had taken a violent cold. Skin.- Itching of the skin on various parts of the body. (Sulph.) Vesicular eruption all over the body, which itches excessively ; better after rubbing, but leaving a burning pain. (Sulph.) Therapeutic Range.- (Carbolicum acidum) Diseases with a putrid tendency, as scarlet fever, diphtheria, typhoid, etc. ; unhealthy putrid discharges from mucous surfaces ; catarrh ; aphthae ; effects of bad drainage ; Bright's disease ; pruritus ; prurigo ; irritable ulcers ; confluent variola ; laryngitis ; bronchitis ; phthisis ; dyspepsia ; morning sickness ; diarrhoea ; sick headache ; cerebro-spinal irritation ; ulceration of the cervix uteri. Compare.- (Carbolicum acidum) Ars., Bapt., Gels., Kreos., Lach., Phos., Nitr. ac., Mur. ac., Rhus tox., Sulph. Antidote.- (Carbolicum acidum) Saccharate of lime in solution. Copyright © Robert Séror 2003",
+        "source_id": "cowperthwaite-textbook-1891"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Acne; Burns; Carbuncle; Cholera; Constipation; Diabetes; Diarrhœa; Dysentery; Dyspepsia; Eczema; Eructations; Erysipelas; Flatulence; Gangrene; Hydrocephalus; Influenza; Intermittent fever; Irritation; Leprosy; Meningitis; Neuralgia; Pneumonia; Psoriasis; Pityriasis versicolor; Scarlatina; Small-pox; Smell, disordered; Stomach, affections of; Toothache; Ulcers; Uræmia; Uterus, displacements of; Vomiting",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Diarrhœa and dysentery; mucous stools like scrapings; stools like rice-water; thin, black; very offensive. Cholera infantum, with putrid discharge like foul eggs. Constipation with offensive breath. Unable to lie down, gasping for breath continually, wants hands held. (Removed in a prover: short breath going up-hill, or upstairs.). Short, hacking cough with tickling in throat; can hardly retain anything in stomach. Stertorous respiration. Soreness of muscles of back and limbs. Twitching in muscles. Aching, rheumatic pains in shoulders. Unable to raise r. arm. Aching, rheumatic pains in arms strongly flexed in tonic spasm. Cold hands and feet. Vesicular itching eruption on hand. Erysipelas of back of r. hand, first three fingers and arm, violet-coloured swelling, rough skin. Rheumatic pain in r. hip-joint. Dragging down buttocks and into thighs. Paralysis of lower extremities; with dragging sensation. Aching soreness beneath l. patella all day up to 4 p.m.; feels as if it would be stiff and sore to move it, but it is not felt during motion. Sharp pain in l. shin. Cramps. Cold hands and feet. Fainting and insensibility, lasting for hours. Pricking like needles all over body. Tonic spasm; arms flexed, difficulty in straightening them. Prostration from a short walk. Offensive discharges.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Irritability. Disinclination for mental exertion. Muddled, confused, bewildered.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Very severe orbital neuralgia over r. eye. Pupils dilated.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Pale; or flushed and burning. Jaws clenched.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Itching, or burning-itching of scrotum, > scratching but it soon returns.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Feeling of narrowness in chest as if diaphragm depressed the lungs. Tight feeling, esp. in centre of chest. Pneumonia of (r.) base. Gangrene of lung. Stitches in region of heart. Fearful palpitation night, with great dyspnœa. Jerking in l. common carotid artery while walking rapidly after dinner.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Neck stiff, lame and sore. Severe pain in lumbo-sacral region, latter part of night. Pain in loins on straightening one's self and by jolting while riding.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Yawning and sleepy. Waking often in night. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "cowperthwaite-textbook-1891"
+    ]
+  }
+}

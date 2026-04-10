@@ -1,0 +1,44 @@
+{
+  "id": "peltigera-canina",
+  "names": {
+    "primary": "Peltigera Canina (HOFFM.)",
+    "latin": "Peltigera Canina (HOFFM.)",
+    "common": [
+      "Liverwort, English"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Britain where the drainage is good; on mudwalls and molehills.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The marginal disks of this lichen are at first veiled and project from the thallus, retaining fragments of the veil of the margin. The fronds are foliaceous, coriaceous, ascending, soft, underside is veined and attached to the ground or to whatever substance it grows upon - where they make handsome plants, especially when in fruit or studded with the little red parasite to which they are subject. The plant was formerly considered of great value in hydrophobia.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Deobstruent, slightly purgative and held in esteem as a remedy for liver complaints.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Infusion, 1 OZ. to 1 pint of boiling water, take 4 OZ. daily. Fluid extract, 1/2 to 2, drachms.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

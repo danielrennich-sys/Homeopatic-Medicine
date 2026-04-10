@@ -1,0 +1,145 @@
+{
+  "id": "lobelia-purpurascens",
+  "names": {
+    "primary": "LOBELIA PURPURASCENS",
+    "latin": "LOBELIA PURPURASCENS",
+    "common": [
+      "Purple Lobelia"
+    ],
+    "synonyms": [
+      "Lobelia Purpurascens"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Confused and depressed. Headache with nausea, vertigo; especially between eyebrows. Cannot keep eyes open; spasmodic closure of lids",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Vertigo accompanied with nausea and stupor. Overwhelming drowsiness (exactly as produced by snake-venom), sickening, dizzy headache, esp. just between eyebrows. Dull and distressing pain in head, with fulness in base of occiput and forehead; pain by shaking head and any motion. Confused feeling in head.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Superficial respiration; heart and lungs feel paralyzed; respiration slow. Heart beats sound to him like boom of a drum",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Tightness of chest with great oppression and labouring breathing. Sensation as if lungs paralysed; superficial breathing. Breathing slow, almost ceases. Distressed feeling in region of heart. Heart paralysed; beat almost imperceptible.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Impossible to keep open. Drowsy",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Eyes weak; on closing them an apparent soreness. Impossible to keep eyes open, almost spasmodic closing of (upper) lids.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "dosing": {
+      "notes": "Third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">LOBELIA PURPURASCENS Purple Lobelia Profound prostration of all the vital forces and of the nervous system; respiratory paralysis. Nervous prostration of influenza. Coma. Tongue white and paralyzed.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The first mention of this plant was made by Erskine C. White (H. W., xxxii. 502) under the name Lobelia rubra, corrected later by F. Kopp (H. W., xxxiii. 328) and E. C. White himself (H. W., xxxiii. 510) to Lob. purpurascens. Kopp describes the plant thus: \"Stems angular, procumbent. Leaves ovate, green on surface, and either purple or purple and green underneath, somewhat serrulated, rather firm, usually from half to one inch long; pedicles axillary, much shorter than the leaves, reflexed after flowering. Flowers white above, purpled beneath, delicately scented, most diœcious, corolla four or five lines long, the lower lobes oblong, obtuse, the two upper ones shorter and narrower, more acute and incurved. Capsule narrower, ovoid, fully three lines long; seeds rather large, often flattened.\" It grows profusely in the Australian bush, preferably in moist places, and most profusely, says Kopp, where snakes most abound. White adds that it prefers loose sandy soils. This is interesting since James S. Bray, quoted by White and Kopp, observed that the iguana after a fight with a snake, whenever it happened to be bitten, ate this Lobelia. On the other hand, Bray once found a number of sheep dead, and from their appearance he at first thought they had been bitten by snakes; but on examining their stomachs he found the leaves and stalks of Lob. Purp., and he came to the conclusion that this was the cause of their death. White gives a short pathogenesis in which symptoms like the effects of snake-poison are prominent. His symptoms, together with those of Kopp, who crushed with his teeth and swallowed a leaf (H. W., xxxiv. 306), will be found arranged in the Schema. They bear a strong family resemblance to those of Lob. inflata. White gives a clinical experience of his own which is important: \"This plant, if only touched carelessly with the teeth, produces overwhelming giddiness. I had noticed that the sickening stupor and headache it produces exactly resembled those of La Grippe, before I knew the name of the plant. My headache disappeared like magic under Lob. purp. Ø, and I used to notice that all chest symptoms were avoided under its sway. La Grippe breaks out in wet weather. This plant, with its tiny gem-like white blossoms, always carpets the earth after each rain throughout the year.\" Other general characteristics of Lob. purp. White gives as follows: Intense prostration, vital and nervous. Deadly chill without shivering, but overpowering the system. Paralysis of lungs and resultant poisoning with carbonic acid gas; vomiting and coma. Acts very like Bapt. in low typhoid conditions, and seems to neutralise the poison of influenza. Growing on sandy soil it contains much flint, and like Secal., Staph., and the common carrot, agrees especially well with patients who are deficient in silica, and who are nervous, liable to boils, of a hasty disposition, perspire profusely, and whose teeth are always decaying. Symptoms are by movement; in damp weather.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Heart, paralysis of; Influenza; headache of; Lichen tropicus; Lungs, paralysis of; Snake-bites; Tongue, paralysis of; Typhoid fever; Vertigo",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Causation: Snake-bites. Blood poisoning.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Great weakness of lower extremities; knees appear to collapse under weight of body. Exhaustion and dejection. General debility with loss of appetite and great languor. The symptoms come on with great rapidity, within five minutes of taking the drug. Low typhoid condition.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Lob. inf., Tabac., Lach. and other snake-poisons. Bapt. (influenza, typhoid); Secal., Staph. (teeth)."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Hasty disposition. Dejection.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Dryness and fulness of nose.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "(Suited to persons whose teeth decay early from lack of Silica.). Mercurial taste in mouth. Thick saliva in mouth. Tongue white and paralysed. Dryness in throat, of burning character.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Great thirst. Loss of appetite. Sinking feeling in stomach. Nausea accompanying vertigo.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Increased secretion of urine.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Weakness in lumbar region accompanied with great languor.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Weariness and extreme weakness of the limbs.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "A prickling itching all over body like prickly heat (lichen tropicus).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Overwhelming drowsiness. Restless sleep.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Deadly chill without shivering, but overpowering the system. General feeling of feverishness. Profuse perspiration. (Typhoid fever. Influenza.) Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

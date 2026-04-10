@@ -1,0 +1,86 @@
+{
+  "id": "pastinaca",
+  "names": {
+    "primary": "Pastinaca",
+    "latin": "Pastinaca",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T PASTINACA. Pastinaca sativa, L. Natural order , Umbelliferæ. Common name , Parsnip. Preparation , Tincture of the roots (of the second year, when they are very poisonous). Authorities. 1 , Dr. Unger, Gaz. des Hôp., Sept. 1846 (Lond. Med. Gaz.), effects of eating the old roots, cooked, in a family of four; 2 , same, in a neighbor; 3 , Dr. Pupcke, Pharm. Journ., 1848, p. 184, effects of wild roots, cooked, in seven children. MIND. ► Illusions, loss of consciousness, quiet delirium; the illusions were confined to vision, and the patients stared and grasped at imaginary objects in the air, etc.; some of them did not speak at all, others only indistinctly or incoherently; two of them used inarticulate sounds; almost uninterrupted attempts to get out of bed, [3] . ► All labored under delirium tremens; they were in constant motion, talking incessantly, without knowing what they said, and fancied they saw objects which had no existence. They fought with each other and were occasionally attacked with fits of convulsive laughter. They rejected everything that was offered them and were obliged to be restrained by force (first evening), [1] . HEAD. ► Vertigo and general uneasiness, [2] . ► Giddiness, [3] . ► Sense of weight in head (second day), [1] . EYE. ► Pupil dilated (first evening), [1] . FACE. ► Staring look, [3] . ► Look vague (first evening), [1] . ► Change of color of the face, [3] . [10.] ► Countenance pale (first evening), [1] . MOUTH. ► Tongue clean, moist, and trembling (first evening), [1] . STOMACH. ► The irritability of the gastric nerves appeared in all of them much depressed, for emetics in double the usual doses had no effect; but after repeated doses of a concentrated aqueous solution of sulphate of zinc, vomiting was effected, and perfect convalescence followed in a few days, [3] . RESPIRATORY ORGANS. ► Breathing somewhat difficult and slow, [3] . HEART AND PULSE. ► Suppressed (unterdrückter) beating of the heart and pulse, [3] . ► Pulse appeared smaller, weaker, and slower than usual (first evening), [1] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Delirium tremens; Loquacity; Milk, intolerance of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Breathing somewhat difficult and slow. In constant motion.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The root of the Parsnip, after the first year, is very poisonous, and some cases of poisoning have been observed, the symptoms of which make up the Schema. A state of perfect \"delirium tremens\" was observed in several persons, illusions of vision, catching at imaginary objects; fighting with one another. A peculiar effect was produced on the stomach; the irritability was depressed and emetics would not act.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Æthus, Ziz."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Delirium tremens. Quiet delirium, illusions of vision, grasped at imaginary objects; incoherent speech; uninterrupted attempts to get out of bed. Incessant talking. Fighting. Fits of convulsive laughter.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo and general uneasiness. Sense of weight in head.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Look: staring; vague. Face pale.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue clean, moist, trembling.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Vomiting of milk in large curds (child, æt. 2, poisoned). Irritability of gastric nerves depressed; emetics in double the usual doses have no effect.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Suppressed beating of heart; pulse small, weak, slow.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Skin, red, hot, swollen; eyelids œdematous, translucent. Blebs on hands and fingers (child, æt. 2, ate and handled wild parsnip). Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "jasminum",
+  "names": {
+    "primary": "Jasminum",
+    "latin": "Jasminum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T JASMINUM. Jasminum officinale, Linn. Natural order , oleaceæ. Common name , White Jessamine. Authority. Dr. W. H. Hull, Phila. Med. and Surg. Rep., Jan. 1861; a boy ate the red berries. ► Comatose condition. ► Pupils immoderately dilated. ► Face pallid. ► Emesis, after a quiet sleep. ► Slight emesis. ► Respiration somewhat rhoncous, but of usual frequency. ► Pulse slow and feeble. ► Muscular movements observed first about the eyes and face, especially on the left side, towards which the eyes and facial muscles were directed, becoming gradually more and more aggravated, going from the head to the left arm, then to the left lower extremity, till finally the whole body was thrown into the most violent convulsions; at one time the spasms were chiefly opisthotonic, when the whole surface was congested almost to a blackened hue; most marked rigidity about the muscles of the head and throat; the jaws were for the most part firmly locked, trismus being complete, as is often in tetanus; relieved by a bath. ► Weak and almost helpless for a few days. ► Lying on the floor in a \"fainting fit.\" ► Perfect insensibility. ► Surface cool. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Convulsions; Tetanus",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Respiration somewhat rhonchial but of unusual frequency. Muscular movements observed first about eyes and face, esp. on l. side, towards which eyes and facial muscles were directed, becoming generally more severe, going from head to l. arm, then to l. lower extremities, till finally the whole body was thrown into most violent convulsions. At one time the spasms were chiefly opisthotonus, when the whole surface was congested almost to a blackened hue; most marked about the muscles of the head and throat; jaws locked, trismus complete; > by a bath. Weak and almost helpless for a few days. Lying on the floor in a fainting fit. Perfect insensibility. Surface cool. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The only observation on this plant is one made by W. H. Hull on a boy who ate the red berries. They produced a comatose state, vomiting and convulsions ending in tetanus. [Jasminum must not be confounded with Gelsemium, the \"Yellow jessamine,\" or \"Carolina jessamine,\" which belongs to a different order of plants. \"Gelsomino\" is the Italian for jessamine, and it is probably from this that the word Gelsemium is derived; and this will also account for the spelling Gelseminum, which has sometimes been used.] The Treasury of Botany states that the bitter leaves of J. floribundum are used in Abyssinia against tapeworm; and the bitter root of J. angustifolium, powdered and mixed with the powdered root of Acorus calamus, is considered in India an excellent application in ringworm. Jasmin. offic. has not been used in medicine, but the poisoning case shows that it is a very powerful drug. The convulsive symptoms were > by a bath. Symptoms go from above downwards and from left to right.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Nyctanthes (bot.)"
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Comatose condition. Perfect insensibility.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Pupils immoderately dilated.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Face pallid. Muscular movements first about eyes and face, esp. l. side, towards which eyes and facial muscles were directed.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Slight emesis. Slight emesis after a first sleep.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pulse slow and feeble.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

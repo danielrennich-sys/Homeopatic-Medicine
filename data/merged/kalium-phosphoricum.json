@@ -1,0 +1,510 @@
+{
+  "id": "kalium-phosphoricum",
+  "names": {
+    "primary": "KALIUM PHOSPHORICUM",
+    "latin": "KALIUM PHOSPHORICUM",
+    "common": [
+      "Phosphate of Potassium (KALI PHOSPHORICUM)"
+    ],
+    "synonyms": [
+      "Kalium phosphoricum",
+      "Kalium Phosphoricum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Anxiety, nervous dread, lethargy. Indisposition to meet people. Extreme lassitude and depression. Very nervous, starts easily, irritable. Brain-fag; hysteria; night terrors. Somnambulance. Loss of memory. Slightest labor seems a heavy task. Great despondency about business. Shyness; disinclined to converse",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Occipital headache; better, after rising. Vertigo, from lying, on standing up, from sitting, and when looking upward (Granat). Cerebral anæmia. Headache of students, and those worn out by fatigue. Headaches are relieved by gentle motion. Headache, with weary, empty, gone feeling at stomach (Ign; Sep)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Weakness of sight; loss of perceptive power; after diphtheria; from exhaustion. Drooping of eyelids (Caust)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Humming and buzzing in the ears",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Nasal disease, with offensive odor; fetid discharge",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "Livid and sunken, with hollow eyes. Right-sided neuralgia relieved by cold applications",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Breath offensive, fetid. Tongue coated brownish, like mustard. Excessively dry, in the morning. Toothache, with easily-bleeding gums; they have a bright-red seam on them. Gums spongy and receding (Caps; Hamam; Lach)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Gangrenous sore throat. Paralysis of the vocal cords",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "A nervous \"gone\" sensation at the pit of the stomach (Ign; Sep; Sulph). Feels seasick without nausea",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Diarrhœa; foul, putrid odor; occasioned by fright, with depression and exhaustion. Diarrhœa while eating. Dysentery; stools consist of pure blood; patient becomes delirious; abdomen swells. Cholera; stools have the appearance of rice water (Verat; Ars; Jatrop). Prolapsus recti (Ign; Pod)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menstruation too late or too scanty in pale, irritable, sensitive, lachrymose females. Too profuse discharge, deep-red or blackish-red, thin and not coagulating; sometimes with offensive odor. Feeble and ineffectual labor pains",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Nocturnal emissions; sexual power diminished utter prostration after coitus (Kali carb)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Enuresis. Incontinence of urine. Bleeding from the urethra. Very yellow urine",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Asthma; least food aggravates. Short breath on going upstairs. Cough; yellow expectoration",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Paralytic lameness in back and extremities. Exertion aggravates. Pains, with depression, and subsequent exhaustion",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Subnormal temperature",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "warmth, rest, nourishment",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "excitement, worry, mental and physical exertion; eating, cold, early morning",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Third to twelfth trituration. The highest potencies seem to be indicated in certain cases"
+    },
+    "generalities": [
+      {
+        "text": "[Genista] Dyer's Weed--(contains scopolamin; frontal headache and vertigo, worse motion, better open air and eating. Dry throat, awakes with waterbrash. Itching eruption on elbows, knees and ankles. Promotes diuresis in dropsical conditions). Macrozamia Spiralis (Extreme debility after severe illness; collapse. Weariness from no assignable cause, no pains. Boring pain at vertex; vomiting and retching all night; impossible to open eyes, giddiness and cold). Zinc; Gels; Cimicif; Laches; Mur ac",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">KALIUM PHOSPHORICUM Phosphate of Potassium (KALI PHOSPHORICUM) One of the greatest nerve remedies. Prostration. Weak and tired. Especially adapted to the young. Marked disturbance of the sympathetic nervous system. Conditions arising from want of nerve power, neurasthenia, mental and physical depression, are wonderfully improved this remedy. The causes are usually excitement, overwork and worry. Besides, it corresponds to states of adynamia and decay, gangrenous conditions. In these two directions it has won many clinical laurels. Remember it in the treatment of suspected malignant tumors. After removal of cancer when in healing process skin is drawn tight over the wound. Delayed labor.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Kalium Phosphoricum",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Generals: The symptoms of this remedy are worse morning, evening and during the night.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The over-sensitive, nervous, delicate person, worn out from long suffering, much sorrow and vexation, and prolonged mental work; also such as are broken down from sexual excesses and vices.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It is a long-acting antipsoric. Anemic and chlorotic patients, Most complaints are worse during rest, and ameliorated by gentle motion and slowly walking about. The patient in general, and his pains, are aggravated in cold air, from becoming cold, after becoming cold, from entering a cold place, and in cold, wet weather. He takes cold easily. Aversion to the open air. Draft of air aggravates, and open air aggravates. Numbness in the extremities. Great lassitude. Aggravated by ascending stairs, and by physical exertion. Glands dwindle. Choreic movements.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Complaints are worse after coition. The weakness, emaciation, and anaemia and tubercular tendency are strong features of this wonderful antipsoric remedy. Oedema of the limbs and dropsy of serous sacs. Complaints aggravated after eating. Emaciation, wasting diseases with putrid discharges and putrid stools.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Fainting spells. Fasting ameliorates, Fatty tendency of muscles and organs. Aggravated alter cold drinks, milk. This remedy has been used in gangrenous condition. Parts become black. Septic, putrid hemorrhages, and great prostration. All forms of nervous weakness. Hypochondriasis and hysteria. Inflammation of glands.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Complaints from loss of fluids. Orgasm of blood. The pains are aching, pressing, stitching, tearing, tearing downwards, paralyzing. Chronic neuralgia, ameliorated by gentle motion, aggravated from cold. One sided paralysis from a gradually increasing weakness. Paroxysms of pain followed by exhaustion. Pulsation felt all over the body and in the limbs.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Symptoms are often one-sided. Many symptoms come during and after sleep. Twitching of muscles, and jerking of limbs. Ulcers with putrid discharges. Offensive catarrhal discharges. Walking fast aggravates; walking in open air aggravates. Warmth of bed ameliorates. Complaints worse in winter. Too many cures have been made by the followers of Schüessler to permit this remedy to remain unexplained. Good provings are found in our literature. The high and highest potencies have served the best, and it should be used in the single dose.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Mind: Flies into a passion and can hardly articulate.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Aversion to answering questions. Apprehensive anxiety, in the evening in bed, and during the night; anxiety after eating, about the future, about his health, about his salvation.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Whenever he wakens it oppresses him, and he becomes hypochondriacal. She takes an antipathy to her husband. She is cruel to her baby and husband. Perverted affections. Broods over his condition. Aversion to company. Complaints come on from bad news.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Confusion of mind morning and evening. Contrary humor. Low form of delirium in typhoid and septic fevers. Delirium tremens. Imaginations. Sees dead people. Sees figures, frightful images. Discontented and sad. Dullness of mind in the morning. Discouraged. He refuses to eat, He is very excitable and greatly wrought up from bad news; then follows palpitation and many nervous symptoms.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Exhaustion after exertion of mind. He dwells much in fancy. Fear in the evening. Fear of a crowd, of death, of disease, of evil, of people, of solitude. He is easily frightened, which increases his many nervous and mental symptoms. Weak memory. Forgetful.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Cannot recall words. Homesickness. Effects of grief and prolonged sorrow. A nervous hurry is noticed in action and speech. Nervous excitement has increased until hysterical conduct is present. It is a great remedy for imbecility. She is impatient and impetuous.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Indifference to surroundings, to joy and to her family. Indifference to his business matters, and then comes indolence and lassitude. Insanity; melancholia; thinks she has sinned away her day of grace and refuses to eat. She does not recognize her surroundings. Shrieks and acts like one insane. Quarrels with her family.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The irritability is very marked, in morning on waking, in the evening, after coition, during headache, during menses, when spoken to, on waking at any time, after becoming exhausted from a diarrhoea, There is laughing and crying, lamenting and wringing the hands. There is loathing of life; moaning during sleep.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Dullness of the senses. Weakness of memory for words, and great prostration of mind. Sadness in morning on waking, in the evening, and also day and night. Obstinate; morose; mood changeable. Mistaken in speaking and writing. In many cases cured a mild mental state was noticed.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Over-sensitive in general, and especially to noise. Restlessness during menses. The numerous cases of nervous prostration from mental work, prolonged anxiety, much sorrow, and sexual excesses and vice are likely to require this remedy. Incoherent speech. Starting; easily startled from fright, during sleep, from touch and from noise. Stupefaction and suspicious.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "He is indisposed to talk, or to be talked to. Talking in sleep. Vanishing of thought. Becomes timid and bashful. Vexation brings on many complaints. Weeping and weary of life.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Vertigo: afternoon and evening, ameliorated in open air, aggravated after eating, with a tendency to fall forward; aggravated on looking upwards, compelling him to lie down; with nausea and with headache; objects turn in a circle on rising up, when standing, when stooping, on turning the head, when walking in open air.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The head: is cold, and sensitive to cold air. Congestion; fullness of the head felt on coughing. Heat in head evening, flushes of heat in the forehead. The head inclines to fall forward.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Tension of scalp. Heaviness of the head, morning on rising, in forehead and occiput. This has been a useful remedy in hydrocephalus and many brain affections, when associated with putrid diarrhoea. Itching of the scalp morning on waking, in the night in bed, aggravated 3 to 5 A.M.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Movements felt in the head. It has much pain in the head. Pain morning in bed, on rising, on waking, and passes off on moving about. Pain afternoon, evening and night. Worse in very cold air, but ameliorated in open fresh air. She must let the hair hang down. The headache comes with coryza, comes from taking cold.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The pain is worse on coughing, and ameliorated by eating; aggravated from becoming overheated, from disordering the stomach, from excitement, and from physical exertion. Weight in occiput with exhaustion. Must lie down and shun the light, lying on back ameliorates; aggravated from jarring and stepping, aggravated before and during menses.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The headaches from mental work, in students, brain-fag from overwork are cured by this remedy when the symptoms agree. Nervous headache during menses. Paroxysmal headaches. The pains in head are ameliorated by gentle motion; aggravated from noise, riding in a carriage, after sleep, sneezing, stepping, stooping, touch, pressure, walking and writing. Headache comes from eye-strain, and is ameliorated by wrapping up the head. Violent pulsating pains. Pain in forehead before menses, above the eyes extending to occiput; across forehead into both temples.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain in occiput lasting all night; frequent waking, with pain on rising; wakens with pain in occiput and loins ameliorated lying on back, passes off after rising. Pain in occiput as if hair were pulled; must let hair hang down. Violent headache in sides of head.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Neuralgia of left mastoid process, aggravated by motion and in open air. Pain in temples. The pains are aching, boring, burning. Burning in forehead during stool. Bursting in forehead. Drawing in forehead, sides of head and vertex. Jerking pain, pressing pain. Forehead as though bored, ameliorated by eating.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pressing outward in forehead, over eyes as if brain would expand. Pressing in occiput, ameliorated by eating. Pressing in temples and vertex. Soreness in occiput. Stitching in the head, forehead, over eyes, in occiput sides of head, right frontal eminence and in temples. Stunning pains.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Tearing pains in the head, in forehead before menses, ameliorated lying and on appearance of the flow. Tearing in occiput, sides of head, temples, and vertex. Perspiration on mental exertion, of the forehead; cold sweat. Pulsation, forehead and temples. The brain is very sensitive to jar, and to sounds. Shocks felt in the head. Softening of the brain. Complaints come on from uncovering the head.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Eyes: Anemia of the optic nerve. Lids agglutinated in the morning and a discharge of mucus, aggravated in the evening.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Dryness and dullness of the eyes. Falling of the lids. Inflammation of the conjunctiva, injected blood-vessels and lachrymation. Paralysis of the optic nerve. Photophobia. Redness of the eyes. Staring, restless, excited look. Strabismus following brain diseases.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sunken eyes. Swollen oedematous lids. Twitching of eyes and lids. Weak eyes. Pain in eyes on motion of eyes, on reading, on waking; aggravated in sunlight. Aching. Smarting of eyes and margins of lids. Drawing, pressing. The balls are sore to touch. Sharp pains from eyes to temples in the morning. Stitching. Sticks. Sensation of sand. Tearing pains. Blurred vision. Colors before the eyes, floating black spots, dark colors; halo around the light. Dim vision after coition. Vision is foggy. Exertion of vision brings on eye troubles and headaches. Vision weak.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ear: Discharge from the ear, bloody, offensive, putrid, purulent.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Eruptions on the ears. Pimples in the canal. Fullness in ears. The ears are hot. Itching in the ears, aggravated lying. Noises from nervous exhaustion and cerebral anaemia, with vertigo. Buzzing, fluttering, humming, ringing, roaring, rushing, singing, whizzing.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain deep in ear. Cramping, drawing, pressing. Stitching in left ear down to cheek, and behind the ear. Stinging in ear, aggravated lying. Tearing in ear. Pulsation in ear. Stopped sensation. Singing in ear. Ears swollen. Twitching. Hearing acute to noises and voices, but impaired as to the articulation of the human voice. Deafness.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Coryza: fluent or dry, with cough, with headache.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Hay-fever with great nervous weakness. Obstinate catarrh. Discharge bloody, excoriating, greenish offensive, purulent, stringy, thick, watery, white, yellow, worse in the morning. Yellow crusts, worse in right nostril.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "He suffers much from dryness in the nose. Epistaxis in the morning, on blowing the nose, in low fevers. The nose is obstructed. Itching, and burning in the nose. Pressing pain at the root of the nose. Much soreness inside of the nose, with yellow crusts and dark blood. Smell at first acute, later wanting. Sneezing frequent; violent at 2 A.M., from slight exposure. Ulceration in the nose. The nose is swollen.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Face: Brown patch from the edge of the brows to the eyebrows, three inches wide, lasting three months.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Chlorotic face. Dark circles under eyes. Cracked lips. Face pale, sickly and dirty.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Circumscribed red checks. jaundiced face. Herpes on the lips. Sore crusts on lips. Vesicles on lips. The expression is haggard, sickly and suffering. Flushes of heat in face. Inflammation and swelling of the parotid glands. Itching of the face, in the whiskers, on right cheek, on temples. There are drawing, stitching, tearing pains in the face, aggravated in cold air.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Cold applications ameliorate pain in right side of face from a hollow tooth. Pain in jaw bones, ameliorated after eating and speaking, waking and touch. Neuralgia of face followed by great weakness.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Neuralgic stitch riding in cold air, ameliorated by heat of hand. Paralysis of one side of face (Caust.). The face perspires. Swollen lips, parotid and submaxillary glands. Tension of the face. Ulceration of lips.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Mouth: The tongue is dark coated and bleeding.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The gums bleed, and are covered with sores. The typhoid mouth, tongue and teeth in septic fevers when there are putrid odors. Redness of gums and edges of the tongue. The tongue is white, slimy, greenish yellow. Dry mouth and tongue in the morning. Inflamed mouth and gums.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Offensive odor, putrid morning, like spoiled cheese. Sore burning mouth and tongue. Receding gums. Thick salty saliva. Scorbutic, spongy gums. The roof of the mouth swollen in ridges, feels as if lined with grease.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Taste bad, bitter, insipid, putrid, sour; bitter in the morning. Grinding teeth in sleep. Nervous chattering of teeth. Pain in teeth from taking cold, aggravated by cold things, aggravated masticating, aggravated after sleep. Pulsating, aching, jerking, pressing, sore, stitching, tearing.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Throat: This remedy has been used with some success in diphtheria with putrid odor.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Dryness in throat in evening. Fullness and constriction of the throat. Inclination to clear the throat by hawking. Mucus in the throat in the morning, sometimes tasting salty. Lump in throat. Pain in throat on swallowing. Pain in right tonsil. Burning, rawness, soreness. Stitching on swallowing. Stitching pain from left tonsil to ear, while driving in forenoon. Inflammation and swelling of throat and tonsils, with white deposits like membrane.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Stomach: The appetite is increased and sometimes ravenous, but goes on the sight of food.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Hunger soon after eating, from nervous weakness. Hunger during menses. Aversion to food, to bread, to meat. Sensation of coldness in the stomach. Desires cold drinks, sour things, sweets. The stomach is commonly disordered. Fullness and distension. Emptiness with nausea, during menses, after eating. Eructations, after eating, ineffectual, of bile, bitter, empty, of food, sour; waterbrash. Heartburn. Weight in stomach after eating.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Loathing of food. Nausea on coughing, after eating, during headache, during menses, during pregnancy; ameliorated by eructations. Retching. Pain in stomach after eating and during menses. Burning, cramping, cutting, soreness. Stitching. Gnawing pain at 5 A.M. on waking. Pressing after eating. Sensation of a stone in the stomach. Extreme thirst for cold water. Thirst during heat. Thirstlessness sometimes. Vomiting in the morning, on coughing, after eating, during headaches, during menses, during pregnancy. Vomiting bile, blood, food, mucus, sour.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Abdomen: The abdomen feels cold, and is sensitive to uncovering.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Distension after eating, during menses. Tympanitic with great pain, in typhoid fever. Distended with dropsy. Sensation of emptiness. Fermentation with distress in heart. Flatulence, obstructed, noisy. Sensation of fullness after eating. Heat in abdomen and heaviness. Inflammation of intestines, peritoneum, and liver. Pain in abdomen aggravated at night; across the abdomen left to right; bending double ameliorates; during cough, during diarrhoea, after eating, before and during menses; paroxysmal; before stool.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain in region of liver. Bearing down, ameliorated sitting, aggravated lying on left side, aggravated after drinking. Seems as though sides of abdomen would burst when sneezing. Burning. Cramping after eating. Cutting. Griping in hypogastrium with ineffectual urging to stool. Soreness in abdomen and liver. Stitching in abdomen and liver. Stitching, catching in spleen, aggravated from motion. Rumbling and tension.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Anus: Constipation with very difficult stool; hard, large, knotty.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Diarrhoea, morning, 6 A.M., evening, night, during or after eating; colliquative; from fright or excitement, during menses, painless, with vomit ing and cramps, with great exhaustion, in typhoid. Dysentery. Offensive flatus which ameliorates the symptoms. Formication of the anus. Haemorrhage from intestines in typhoid.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Haemorrhoids, external and internal, itching, painful with burning and swelling. Inflamed piles with offensive moisture. Inactivity of the rectum. Involuntary stools. Pain in rectum during and after stool. Burning during and after stool. Soreness and pressing pains. Stitching pain. Tenesmus after stool. Paralysis of the rectum. Relaxed anus. Ineffectual urging to stool. The stool is excoriating; bloody mucus or pure blood, brown, clay colored, watery stool; putrid flatus followed by tenesmus after breakfast. Stool copious, dark, frequent; large, light colored. Lienteric stools. Stools offensive, putrid, purulent, watery, like rice water, yellow or yellowish green mucus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Bladder: Chronic catarrh of the bladder in old people and nervous wrecks.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pressing and stitching in the bladder. The urging to urinate is frequent, or ineffectual, and worse at night. The urine dribbles. Dribbling after urination; feeble stream, frequent, copious at night, Stream stops and starts. Involuntary at night, in old people, in typhoid, in nervous prostration.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "In obstinate cases of enuresis, in excitable, sensitive children. Unsatisfactory urination. Inflammation and stitching in the kidneys. Burning in the urethra during and after urination. Stitching in the urethra. The urine is albuminous, burning, cloudy, copious, offensive, scanty, watery, yellow like saffron. Sediment is flocculent, mucous, red and sandy. Specific gravity increased. Sugar in the urine.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Genitals: Erections very troublesome in the morning and during the night without sexual desire; violent in the morning. Impotency. Frequent seminal emissions with erections. Inflammation of glans penis. Sexual passion obliterated.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "In tired out nervous women who are subject to abortion. Aversion to coition. Desire increased, intense for four or five days after menses. Inflammation of uterus. Itching from leucorrhoea. It cured a chronic abscess discharging periodically through the vagina and rectum a copious orange-colored fluid. Leucorrhoea acrid, burning, copious, greenish, yellow, offensive, putrid; after menses; in young girl.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Menses absent, black, copious, dark, delayed, frequent, irregular, late, offensive, painful, pale, protracted, scanty, short, suppressed, thick. Uterine haemorrhage. Pain in ovaries, in left, ameliorated lying on the back and bending double, during menses. Pain in ovaries on going to sleep. Stitching pain in ovaries. Pain in uterus and ovaries at night during pregnancy. Labor-like pains. Prolapsus of uterus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Respiration: Irritation of the larynx and trachea in cold air.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Catarrh of the air passages, with thick, yellowish white mucus. Soreness and scraping in the larynx. Tickling in larynx and trachea. Voice hoarse, lost from paralysis of the vocal cords; hoarse from over-exertion of vocal cords.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Respiration difficult at night; rattling, short; difficult on going up stairs. Nervous asthma, aggravated after eating.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Cough in daytime, morning, evening in bed and during the night. Dry cough at night during fever. Hacking cough. Cough from, irritation in larynx and trachea. Loose cough. Paroxysmal cough. Racking cough. Rattling cough. Short, spasmodic. Cough in cold air, from deep breathing, during chill and fever, after eating; aggravated lying. Asthmatic cough. Cough from tickling in larynx and trachea. Whistling cough. Whooping-cough with great nervous exhaustion.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Expectoration in morning, bloody, frothy, greenish, mucous, offensive, purulent, putrid, salty, thick sweetish, viscid, yellowish white.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This remedy has been favorably mentioned in angina pectoris. Anxiety in the chest in the morning. Catarrh of the chest. Spasmodic constriction. Constriction of the heart. Fatty degeneration of the heart. Haemorrhage from the lungs. Hepatization of the lungs. Inflammation of the bronchial tubes. lungs, pleura. Oppression of the chest. Itching of the skin. Pain in chest during cough, on inspiration, on motion, on breathing.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain in lower part of chest on coughing, inside of chest, in heart. Aching in left side of chest through to scapula. Burning in chest. Cutting under right breast. Soreness in chest. Stitching in chest on coughing, during respiration, in mammae, sides of chest, in heart. Tearing pains in chest.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Heart: Palpitation, anxious, ascending steps, aggravated by motion. Violent.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Perspiration like onions in axilla. It is a very useful remedy in catarrhal phthisis. Suffocation of lungs. Swelling in axilla; abscess. Weakness of chest. Weak heart. Pulse intermittent and irregular; feeble circulation.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Back: The back feels cold.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Eruptions on the back, pimples. Weight in lumbar region. The nape and back lame. Itching. Pain in the back during rest, ameliorated by motion, respiration aggravates, during menses. Pains in occiput and loins morning on waking, ameliorated lying on back, passing off after rising. Pain in back of neck. Pain in dorsal region. Pain in scapulae morning on waking, had to sit up to turn over. Pain first in right, then left scapula. Pain between scapulae.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain in lumbar region during menses, while sitting, ameliorated by motion. Pain in sacrum during menses. Intense pain along spine. Pain in coccyx. Aching between scapula. Sore, bruised spine. Burning in back, in lumbar region. Drawing in back, lumbar region. Lameness and stiffness of whole back, ameliorated by gentle motion. Stitching pains in the back, in dorsal and lumbar regions,",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Stitching toward front of chest with dyspnoea, ameliorated leaning back against chair, aggravated lying on the back, sitting or walking. Tearing pains in the back, in lumbar region. Softening of the spinal cord. Weakness with stumbling when walking. Swollen glands of neck. Weak back. Cannot sit erect without a chair back to lean against.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This remedy cures many nondescript spinal affections.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Limbs: Cold hands and feet.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Feet cold and damp. Cramps in thighs, calves and soles. Eruptions on limbs, pimples. The hands are hot. Heaviness of limbs, of lower limbs and feet. It has been of great service in hip joint disease. itching of the limbs, of palms and soles, Numbness of the limbs, upper and lower; hands and finger tips, feet and legs.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Rheumatic and gouty pains in limbs and joints, ameliorated by motion and warmth. Pain in back and limbs, ameliorated by motion. Pain in shoulders and arms, in arms when raising them. Sciatica, ameliorated by gentle motion. Pain in hip and knee. Pain in legs at 5 A.M., on waking, ameliorated by gentle motion. Bruised knees and legs. Burning feet, soles and toes. Paralytic drawing in limbs, ameliorated by warmth and gentle motion. Drawing in upper limbs, in the thighs, knees and legs. Drawing laming pain in soles, Pressing pain in shoulder and thighs.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Stinging in soles. Stitching in joints, shoulders and knees. Tearing in the limbs; shoulders, upper arm, elbow, forearm, hand, fingers. Tearing in lower limbs; hip, knee, legs, feet. Paralytic tearing in limbs, ameliorated by motion. Paralysis of limbs. Hemisplegia.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The feet perspire. The lower limbs and feet are restless. Rheumatic stiffness after resting. Oedema of hands and feet. The hands tremble. The limbs twitch. Weakness in all the limbs, especially the lower.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sleep: Profound sleep.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Dreams anxious amorous, of falling, frightful, of being naked, nightmare, vivid; night terrors in children (Borax). Restless, nervous and hot in sleep. Sleeps on the back. Sleepiness early in evening, after eating. Sleepless after midnight, after mental exertion, after excitement, after vexation. Sleepless with sleepiness. Waking early, as from fright. Walking in sleep. Very troublesome yawning.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Chill, morning, forenoon, noon, afternoon, evening. Chilliness in the open air, in bed. Could scarcely get warm in bed. Chilliness ascending spine in evening. Cold all day. Chilliness after eating. External and internal chill. Nervous shivering and shuddering. Shaking chill. One-sided coldness.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Fever in afternoon and evening. Heat all night, with hunger. Fever alternating with chill. Fever at night in bed. Typhoid fever, low, putrid type. Dry heat. Flushes of heat. It has been a very useful remedy in hectic fevers when there is putrid sweat and putrid expectoration and great nervousness and excitement. Internal heat. Fever with no sweat. Scarlet fever, skin dusky and throat putrid and dark red. Sweat mornings and nights, when eating and drinking, and on slight exertion, during sleep offensive; profuse night sweats.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Dusky spots on calves. Burning after scratching. The skin is cold, jaundiced, dry. Eruption moist, and the moisture is bad smelling. Herpes. Eruptions, itching, pimples, psoriasis, scabby, urticaria; vesicles, bloody, ichorous. It has cured erysipelas that was almost gangrenous with putrid odor. Inactivity of the skin. Itching, crawling, stinging in the skin. Very sensitive skin. Sticking in skin. Ulcers, burning, offensive, even putrid, with yellow discharges.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "LECTURES ON HOMOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror Kalium Phosphoricum Generals : The symptoms of this remedy are worse morning, evening and during the night. The over-sensitive, nervous, delicate person, worn out from long suffering, much sorrow and vexation, and prolonged mental work; also such as are broken down from sexual excesses and vices. It is a long-acting antipsoric. Anemic and chlorotic patients, Most complaints are worse during rest, and ameliorated by gentle motion and slowly walking about. The patient in general, and his pains, are aggravated in cold air, from becoming cold, after becoming cold, from entering a cold place, and in cold, wet weather. He takes cold easily. Aversion to the open air. Draft of air aggravates, and open air aggravates. Numbness in the extremities. Great lassitude. Aggravated by ascending stairs, and by physical exertion. Glands dwindle. Choreic movements. Complaints are worse after coition. The weakness, emaciation, and anaemia and tubercular tendency are strong features of this wonderful antipsoric remedy. Oedema of the limbs and dropsy of serous sacs. Complaints aggravated after eating. Emaciation, wasting diseases with putrid discharges and putrid stools. Fainting spells. Fasting ameliorates, Fatty tendency of muscles and organs. Aggravated alter cold drinks, milk. This remedy has been used in gangrenous condition. Parts become black. Septic, putrid hemorrhages , and great prostration. All forms of nervous weakness. Hypochondriasis and hysteria. Inflammation of glands. Complaints from loss of fluids. Orgasm of blood. The pains are aching, pressing, stitching, tearing, tearing downwards, paralyzing. Chronic neuralgia, ameliorated by gentle motion, aggravated from cold. One sided paralysis from a gradually increasing weakness. Paroxysms of pain followed by exhaustion. Pulsation felt all over the body and in the limbs. Symptoms are often one-sided . Many symptoms come during and after sleep. Twitching of muscles, and jerking of limbs. Ulcers with putrid discharges. Offensive catarrhal discharges. Walking fast aggravates; walking in open air aggravates. Warmth of bed ameliorates. Complaints worse in winter. Too many cures have been made by the followers of Schüessler to permit this remedy to remain unexplained. Good provings are found in our literature. The high and highest potencies have served the best, and it should be used in the single dose. Mind : Flies into a passion and can hardly articulate. Aversion to answering questions. Apprehensive anxiety, in the evening in bed, and during the night; anxiety after eating, about the future, about his health, about his salvation. Whenever he wakens it oppresses him, and he becomes hypochondriacal. She takes an antipathy to her husband. She is cruel to her baby and husband. Perverted affections. Broods over his condition. Aversion to company. Complaints come on from bad news. Confusion of mind morning and evening. Contrary humor. Low form of delirium in typhoid and septic fevers. Delirium tremens. Imaginations. Sees dead people. Sees figures, frightful images. Discontented and sad. Dullness of mind in the morning. Discouraged. He refuses to eat, He is very excitable and greatly wrought up from bad news; then follows palpitation and many nervous symptoms. Exhaustion after exertion of mind. He dwells much in fancy. Fear in the evening. Fear of a crowd, of death, of disease , of evil, of people, of solitude . He is easily frightened, which increases his many nervous and mental symptoms. Weak memory. Forgetful . Cannot recall words. Homesickness. Effects of grief and prolonged sorrow. A nervous hurry is noticed in action and speech. Nervous excitement has increased until hysterical conduct is present. It is a great remedy for imbecility . She is impatient and impetuous. Indifference to surroundings, to joy and to her family. Indifference to his business matters, and then comes indolence and lassitude. Insanity; melancholia; thinks she has sinned away her day of grace and refuses to eat. She does not recognize her surroundings. Shrieks and acts like one insane. Quarrels with her family. The irritability is very marked, in morning on waking, in the evening, after coition, during headache, during menses, when spoken to, on waking at any time, after becoming exhausted from a diarrhoea, There is laughing and crying, lamenting and wringing the hands. There is loathing of life; moaning during sleep. Dullness of the senses . Weakness of memory for words, and great prostration of mind. Sadness in morning on waking, in the evening, and also day and night. Obstinate; morose; mood changeable. Mistaken in speaking and writing. In many cases cured a mild mental state was noticed. Over-sensitive in general, and especially to noise. Restlessness during menses. The numerous cases of nervous prostration from mental work, prolonged anxiety, much sorrow, and sexual excesses and vice are likely to require this remedy. Incoherent speech. Starting; easily startled from fright, during sleep, from touch and from noise . Stupefaction and suspicious. He is indisposed to talk, or to be talked to. Talking in sleep. Vanishing of thought. Becomes timid and bashful. Vexation brings on many complaints. Weeping and weary of life. Vertigo : afternoon and evening, ameliorated in open air, aggravated after eating, with a tendency to fall forward; aggravated on looking upwards, compelling him to lie down; with nausea and with headache; objects turn in a circle on rising up, when standing, when stooping, on turning the head, when walking in open air. The head : is cold, and sensitive to cold air. Congestion; fullness of the head felt on coughing. Heat in head evening, flushes of heat in the forehead. The head inclines to fall forward. Tension of scalp. Heaviness of the head, morning on rising, in forehead and occiput. This has been a useful remedy in hydrocephalus and many brain affections, when associated with putrid diarrhoea. Itching of the scalp morning on waking, in the night in bed, aggravated 3 to 5 A.M. Movements felt in the head. It has much pain in the head. Pain morning in bed, on rising, on waking, and passes off on moving about . Pain afternoon, evening and night . Worse in very cold air, but ameliorated in open fresh air. She must let the hair hang down. The headache comes with coryza, comes from taking cold. The pain is worse on coughing, and ameliorated by eating; aggravated from becoming overheated, from disordering the stomach, from excitement, and from physical exertion. Weight in occiput with exhaustion. Must lie down and shun the light, lying on back ameliorates; aggravated from jarring and stepping, aggravated before and during menses. The headaches from mental work, in students, brain-fag from overwork are cured by this remedy when the symptoms agree. Nervous headache during menses. Paroxysmal headaches. The pains in head are ameliorated by gentle motion; aggravated from noise, riding in a carriage, after sleep, sneezing, stepping, stooping, touch, pressure, walking and writing. Headache comes from eye-strain, and is ameliorated by wrapping up the head. Violent pulsating pains. Pain in forehead before menses, above the eyes extending to occiput; across forehead into both temples. Pain in occiput lasting all night; frequent waking, with pain on rising; wakens with pain in occiput and loins ameliorated lying on back, passes off after rising. Pain in occiput as if hair were pulled; must let hair hang down. Violent headache in sides of head . Neuralgia of left mastoid process, aggravated by motion and in open air. Pain in temples. The pains are aching, boring, burning. Burning in forehead during stool. Bursting in forehead. Drawing in forehead, sides of head and vertex. Jerking pain, pressing pain. Forehead as though bored, ameliorated by eating. Pressing outward in forehead , over eyes as if brain would expand. Pressing in occiput, ameliorated by eating. Pressing in temples and vertex. Soreness in occiput. Stitching in the head, forehead, over eyes, in occiput sides of head, right frontal eminence and in temples. Stunning pains. Tearing pains in the head, in forehead before menses, ameliorated lying and on appearance of the flow. Tearing in occiput, sides of head, temples, and vertex. Perspiration on mental exertion, of the forehead; cold sweat. Pulsation, forehead and temples. The brain is very sensitive to jar, and to sounds. Shocks felt in the head. Softening of the brain. Complaints come on from uncovering the head. Eyes : Anemia of the optic nerve. Lids agglutinated in the morning and a discharge of mucus, aggravated in the evening. Dryness and dullness of the eyes. Falling of the lids. Inflammation of the conjunctiva, injected blood-vessels and lachrymation. Paralysis of the optic nerve. Photophobia. Redness of the eyes. Staring, restless, excited look. Strabismus following brain diseases. Sunken eyes. Swollen oedematous lids. Twitching of eyes and lids. Weak eyes. Pain in eyes on motion of eyes, on reading, on waking; aggravated in sunlight. Aching. Smarting of eyes and margins of lids. Drawing, pressing. The balls are sore to touch. Sharp pains from eyes to temples in the morning. Stitching. Sticks. Sensation of sand. Tearing pains. Blurred vision. Colors before the eyes, floating black spots, dark colors; halo around the light. Dim vision after coition . Vision is foggy. Exertion of vision brings on eye troubles and headaches. Vision weak. Ear : Discharge from the ear, bloody, offensive, putrid, purulent . Eruptions on the ears. Pimples in the canal. Fullness in ears. The ears are hot. Itching in the ears, aggravated lying. Noises from nervous exhaustion and cerebral anaemia, with vertigo. Buzzing, fluttering, humming, ringing, roaring, rushing, singing , whizzing. Pain deep in ear. Cramping, drawing, pressing. Stitching in left ear down to cheek, and behind the ear. Stinging in ear, aggravated lying. Tearing in ear. Pulsation in ear. Stopped sensation. Singing in ear. Ears swollen. Twitching. Hearing acute to noises and voices, but impaired as to the articulation of the human voice. Deafness. Coryza : fluent or dry, with cough, with headache . Hay-fever with great nervous weakness. Obstinate catarrh. Discharge bloody, excoriating, greenish offensive , purulent, stringy, thick, watery, white, yellow, worse in the morning. Yellow crusts, worse in right nostril. He suffers much from dryness in the nose. Epistaxis in the morning, on blowing the nose, in low fevers. The nose is obstructed. Itching, and burning in the nose. Pressing pain at the root of the nose. Much soreness inside of the nose, with yellow crusts and dark blood. Smell at first acute, later wanting. Sneezing frequent; violent at 2 A.M., from slight exposure. Ulceration in the nose. The nose is swollen. Face : Brown patch from the edge of the brows to the eyebrows, three inches wide, lasting three months. Chlorotic face. Dark circles under eyes. Cracked lips. Face pale, sickly and dirty. Circumscribed red checks. jaundiced face. Herpes on the lips. Sore crusts on lips. Vesicles on lips. The expression is haggard, sickly and suffering. Flushes of heat in face. Inflammation and swelling of the parotid glands. Itching of the face, in the whiskers, on right cheek, on temples. There are drawing, stitching, tearing pains in the face, aggravated in cold air. Cold applications ameliorate pain in right side of face from a hollow tooth. Pain in jaw bones, ameliorated after eating and speaking, waking and touch. Neuralgia of face followed by great weakness. Neuralgic stitch riding in cold air, ameliorated by heat of hand. Paralysis of one side of face ( Caust .). The face perspires. Swollen lips, parotid and submaxillary glands. Tension of the face. Ulceration of lips. Mouth : The tongue is dark coated and bleeding. The gums bleed, and are covered with sores. The typhoid mouth, tongue and teeth in septic fevers when there are putrid odors. Redness of gums and edges of the tongue. The tongue is white, slimy, greenish yellow. Dry mouth and tongue in the morning. Inflamed mouth and gums. Offensive odor, putrid morning , like spoiled cheese. Sore burning mouth and tongue. Receding gums. Thick salty saliva. Scorbutic, spongy gums. The roof of the mouth swollen in ridges, feels as if lined with grease. Taste bad, bitter, insipid, putrid , sour; bitter in the morning. Grinding teeth in sleep. Nervous chattering of teeth. Pain in teeth from taking cold, aggravated by cold things, aggravated masticating, aggravated after sleep. Pulsating, aching, jerking, pressing, sore, stitching, tearing . Throat : This remedy has been used with some success in diphtheria with putrid odor . Dryness in throat in evening. Fullness and constriction of the throat. Inclination to clear the throat by hawking. Mucus in the throat in the morning, sometimes tasting salty. Lump in throat. Pain in throat on swallowing. Pain in right tonsil. Burning, rawness, soreness. Stitching on swallowing. Stitching pain from left tonsil to ear, while driving in forenoon. Inflammation and swelling of throat and tonsils, with white deposits like membrane. Stomach : The appetite is increased and sometimes ravenous, but goes on the sight of food. Hunger soon after eating, from nervous weakness. Hunger during menses. Aversion to food, to bread, to meat. Sensation of coldness in the stomach. Desires cold drinks , sour things, sweets. The stomach is commonly disordered. Fullness and distension. Emptiness with nausea, during menses, after eating. Eructations, after eating, ineffectual, of bile, bitter, empty, of food, sour; waterbrash. Heartburn. Weight in stomach after eating. Loathing of food. Nausea on coughing, after eating, during headache, during menses, during pregnancy; ameliorated by eructations. Retching. Pain in stomach after eating and during menses. Burning, cramping, cutting, soreness. Stitching. Gnawing pain at 5 A.M. on waking. Pressing after eating. Sensation of a stone in the stomach. Extreme thirst for cold water. Thirst during heat. Thirstlessness sometimes. Vomiting in the morning, on coughing, after eating, during headaches, during menses, during pregnancy. Vomiting bile, blood, food , mucus, sour. Abdomen : The abdomen feels cold, and is sensitive to uncovering. Distension after eating, during menses. Tympanitic with great pain, in typhoid fever . Distended with dropsy. Sensation of emptiness. Fermentation with distress in heart. Flatulence, obstructed , noisy. Sensation of fullness after eating. Heat in abdomen and heaviness. Inflammation of intestines, peritoneum, and liver. Pain in abdomen aggravated at night; across the abdomen left to right; bending double ameliorates; during cough, during diarrhoea, after eating, before and during menses; paroxysmal; before stool. Pain in region of liver. Bearing down, ameliorated sitting, aggravated lying on left side, aggravated after drinking. Seems as though sides of abdomen would burst when sneezing. Burning. Cramping after eating. Cutting. Griping in hypogastrium with ineffectual urging to stool. Soreness in abdomen and liver. Stitching in abdomen and liver. Stitching, catching in spleen, aggravated from motion. Rumbling and tension. Anus : Constipation with very difficult stool; hard, large, knotty. Diarrhoea, morning, 6 A.M., evening, night , during or after eating ; colliquative; from fright or excitement, during menses, painless, with vomit ing and cramps, with great exhaustion, in typhoid . Dysentery. Offensive flatus which ameliorates the symptoms. Formication of the anus. Haemorrhage from intestines in typhoid. Haemorrhoids, external and internal, itching, painful with burning and swelling. Inflamed piles with offensive moisture. Inactivity of the rectum. Involuntary stools. Pain in rectum during and after stool. Burning during and after stool. Soreness and pressing pains. Stitching pain. Tenesmus after stool. Paralysis of the rectum. Relaxed anus. Ineffectual urging to stool. The stool is excoriating; bloody mucus or pure blood, brown, clay colored, watery stool; putrid flatus followed by tenesmus after breakfast. Stool copious, dark, frequent; large, light colored. Lienteric stools. Stools offensive, putrid, purulent, watery, like rice water, yellow or yellowish green mucus. Bladder : Chronic catarrh of the bladder in old people and nervous wrecks. Pressing and stitching in the bladder. The urging to urinate is frequent, or ineffectual, and worse at night. The urine dribbles. Dribbling after urination; feeble stream, frequent, copious at night, Stream stops and starts. Involuntary at night , in old people, in typhoid, in nervous prostration. In obstinate cases of enuresis, in excitable, sensitive children. Unsatisfactory urination. Inflammation and stitching in the kidneys. Burning in the urethra during and after urination. Stitching in the urethra. The urine is albuminous, burning, cloudy, copious , offensive, scanty, watery, yellow like saffron. Sediment is flocculent, mucous, red and sandy. Specific gravity increased. Sugar in the urine. Genitals : Erections very troublesome in the morning and during the night without sexual desire; violent in the morning. Impotency . Frequent seminal emissions with erections. Inflammation of glans penis. Sexual passion obliterated. In tired out nervous women who are subject to abortion. Aversion to coition. Desire increased, intense for four or five days after menses. Inflammation of uterus. Itching from leucorrhoea. It cured a chronic abscess discharging periodically through the vagina and rectum a copious orange-colored fluid. Leucorrhoea acrid, burning, copious, greenish, yellow, offensive, putrid; after menses; in young girl. Menses absent, black, copious, dark , delayed, frequent, irregular, late, offensive, painful , pale, protracted, scanty, short , suppressed, thick . Uterine haemorrhage. Pain in ovaries, in left, ameliorated lying on the back and bending double, during menses. Pain in ovaries on going to sleep. Stitching pain in ovaries. Pain in uterus and ovaries at night during pregnancy. Labor-like pains. Prolapsus of uterus. Respiration : Irritation of the larynx and trachea in cold air. Catarrh of the air passages, with thick, yellowish white mucus. Soreness and scraping in the larynx. Tickling in larynx and trachea . Voice hoarse, lost from paralysis of the vocal cords ; hoarse from over-exertion of vocal cords. Respiration difficult at night; rattling, short; difficult on going up stairs. Nervous asthma, aggravated after eating. Cough in daytime, morning, evening in bed and during the night. Dry cough at night during fever. Hacking cough. Cough from, irritation in larynx and trachea. Loose cough. Paroxysmal cough. Racking cough. Rattling cough. Short , spasmodic. Cough in cold air, from deep breathing, during chill and fever, after eating; aggravated lying. Asthmatic cough. Cough from tickling in larynx and trachea. Whistling cough. Whooping-cough with great nervous exhaustion. Expectoration in morning, bloody, frothy, greenish, mucous, offensive, purulent , putrid, salty, thick sweetish, viscid, yellowish white. This remedy has been favorably mentioned in angina pectoris. Anxiety in the chest in the morning. Catarrh of the chest. Spasmodic constriction. Constriction of the heart. Fatty degeneration of the heart. Haemorrhage from the lungs. Hepatization of the lungs. Inflammation of the bronchial tubes. lungs, pleura. Oppression of the chest. Itching of the skin. Pain in chest during cough, on inspiration, on motion, on breathing. Pain in lower part of chest on coughing, inside of chest, in heart. Aching in left side of chest through to scapula. Burning in chest. Cutting under right breast. Soreness in chest. Stitching in chest on coughing, during respiration, in mammae, sides of chest, in heart. Tearing pains in chest. Heart : Palpitation, anxious , ascending steps, aggravated by motion. Violent . Perspiration like onions in axilla. It is a very useful remedy in catarrhal phthisis. Suffocation of lungs. Swelling in axilla; abscess. Weakness of chest. Weak heart. Pulse intermittent and irregular; feeble circulation. Back : The back feels cold. Eruptions on the back, pimples. Weight in lumbar region. The nape and back lame. Itching. Pain in the back during rest, ameliorated by motion, respiration aggravates, during menses. Pains in occiput and loins morning on waking, ameliorated lying on back, passing off after rising. Pain in back of neck. Pain in dorsal region. Pain in scapulae morning on waking, had to sit up to turn over. Pain first in right, then left scapula. Pain between scapulae. Pain in lumbar region during menses, while sitting, ameliorated by motion. Pain in sacrum during menses. Intense pain along spine. Pain in coccyx. Aching between scapula. Sore, bruised spine. Burning in back, in lumbar region. Drawing in back, lumbar region. Lameness and stiffness of whole back, ameliorated by gentle motion. Stitching pains in the back, in dorsal and lumbar regions, Stitching toward front of chest with dyspnoea, ameliorated leaning back against chair, aggravated lying on the back, sitting or walking. Tearing pains in the back, in lumbar region. Softening of the spinal cord. Weakness with stumbling when walking. Swollen glands of neck . Weak back . Cannot sit erect without a chair back to lean against. This remedy cures many nondescript spinal affections. Limbs : Cold hands and feet. Feet cold and damp. Cramps in thighs, calves and soles. Eruptions on limbs, pimples. The hands are hot. Heaviness of limbs, of lower limbs and feet. It has been of great service in hip joint disease. itching of the limbs, of palms and soles , Numbness of the limbs, upper and lower; hands and finger tips, feet and legs. Rheumatic and gouty pains in limbs and joints, ameliorated by motion and warmth. Pain in back and limbs, ameliorated by motion. Pain in shoulders and arms, in arms when raising them. Sciatica, ameliorated by gentle motion. Pain in hip and knee. Pain in legs at 5 A.M., on waking, ameliorated by gentle motion. Bruised knees and legs. Burning feet, soles and toes. Paralytic drawing in limbs, ameliorated by warmth and gentle motion. Drawing in upper limbs, in the thighs, knees and legs. Drawing laming pain in soles, Pressing pain in shoulder and thighs. Stinging in soles. Stitching in joints, shoulders and knees. Tearing in the limbs; shoulders, upper arm, elbow, forearm, hand, fingers. Tearing in lower limbs; hip, knee, legs, feet. Paralytic tearing in limbs, ameliorated by motion. Paralysis of limbs. Hemisplegia . The feet perspire. The lower limbs and feet are restless. Rheumatic stiffness after resting. Oedema of hands and feet. The hands tremble. The limbs twitch. Weakness in all the limbs, especially the lower. Sleep : Profound sleep. Dreams anxious amorous, of falling, frightful, of being naked, nightmare, vivid; night terrors in children ( Borax ). Restless, nervous and hot in sleep. Sleeps on the back. Sleepiness early in evening, after eating. Sleepless after midnight, after mental exertion, after excitement, after vexation. Sleepless with sleepiness. Waking early, as from fright. Walking in sleep. Very troublesome yawning. Chill, morning, forenoon, noon, afternoon, evening. Chilliness in the open air, in bed. Could scarcely get warm in bed. Chilliness ascending spine in evening. Cold all day. Chilliness after eating. External and internal chill. Nervous shivering and shuddering. Shaking chill. One-sided coldness. Fever in afternoon and evening. Heat all night, with hunger. Fever alternating with chill. Fever at night in bed. Typhoid fever, low, putrid type. Dry heat. Flushes of heat. It has been a very useful remedy in hectic fevers when there is putrid sweat and putrid expectoration and great nervousness and excitement. Internal heat. Fever with no sweat. Scarlet fever, skin dusky and throat putrid and dark red. Sweat mornings and nights, when eating and drinking, and on slight exertion, during sleep offensive; profuse night sweats. Dusky spots on calves. Burning after scratching. The skin is cold, jaundiced, dry. Eruption moist, and the moisture is bad smelling. Herpes. Eruptions, itching, pimples, psoriasis, scabby, urticaria; vesicles, bloody, ichorous. It has cured erysipelas that was almost gangrenous with putrid odor. Inactivity of the skin . Itching, crawling, stinging in the skin. Very sensitive skin. Sticking in skin. Ulcers, burning, offensive, even putrid, with yellow discharges. Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-mm-1911"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "kent-lectures-1905",
+      "kent-mm-1911"
+    ]
+  }
+}

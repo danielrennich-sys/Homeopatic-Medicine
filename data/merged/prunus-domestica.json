@@ -1,0 +1,44 @@
+{
+  "id": "prunus-domestica",
+  "names": {
+    "primary": "Prunus domestica (LINN.)",
+    "latin": "Prunus domestica (LINN.)",
+    "common": [
+      "Prunes"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Asia and parts of Europe, best from Bordeaux.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "A small tree, 15 to 20 feet high, with numerous spreading branches without spines, young branches smooth, leaves small, alternate on longish petioles, provided with linear, fimbriated, pubescent stipules which are quickly deciduous, blade about 2 inches long, oval, acute at both ends, crenatedentate, smooth above, more or less pubescent underneath, convolute in the bud, flowers appear before leaves. The cultivated plum has been developed from the wild plum, the thorns being lost in the process. Plums were known to the Romans in Cato's time.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Prunes have a faint peculiar odour and a sweetish slightly acidulous and viscid taste. The ripe fruit contains sugar, gum, albumen, malic acid, pectin, vegetable fibre, etc.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Dried prunes are mildly laxative and are frequently employed in decoction. They form a pleasant and nourishing diet for invalids when stewed; they enter into the composition of Confection of Senna. A medicinal tincture is prepared from the fresh flower-buds of the Blackthorn. Some 20 per cent of oil is obtainable by crushing the Plum kernel - this is clear, yellow in colour and has an agreeable almond flavour and smell. It is used for alimentary purposes. The residue after pressing is used in the manufacture of a brandy, which is largely consumed in Hungary. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

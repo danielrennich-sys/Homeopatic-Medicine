@@ -1,0 +1,73 @@
+{
+  "id": "spiranthes-autumnalis",
+  "names": {
+    "primary": "SPIRANTHES AUTUMNALIS",
+    "latin": "SPIRANTHES AUTUMNALIS",
+    "common": [
+      "Lady's Tresses (SPIRANTHES)",
+      "Lady's Tresses"
+    ],
+    "synonyms": [
+      "Spiranthes autumnalis (ORICH.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "female": [
+      {
+        "text": "Pruritus; vulva red; dryness and burning in vagina. Burning pain in vagina during coition. Leucorrhœa, bloody",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Sciatic pain, especially right side. Pain in shoulders. Swelling of veins of hands. Pain in all articulations of hands. Coldness of feet and toes",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Flushes of heat. Sweat on palms. Hands alternately hot and cold",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">SPIRANTHES AUTUMNALIS Lady's Tresses (SPIRANTHES) Has been used for milk-flow in nursing women, lumbago and rheumatism, colic, with drowsiness and spasmodic yawning. Is an anti-phlogistic remedy akin to Acon its symptoms showing congestion and inflammation. Acidity and burning in œsophagus with eructation.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "This orchis takes its name from speira (a 'spiral') and anthos (a flower), inallusion to the spiral arrangement of the flowers. Rootstock produces every season two or three oblong tubers and a tuft of spreading, radical, ovate leaves about 1 inch long, a flowering stem 6 or 8 inches high by the side of the tuft of leaves. Blooms in autumn, flowers a greenishwhite, smelling like almonds, in a close spinal spike about 2 inches long, diverging horizontally to one side - with the bracts erect on opposite side, in appearance not unlike lilies of the valley.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Dry, hilly fields all over Europe - towards the Caucasus. (Lady's Tresses grow on the Sussex downs near Amberley. - EDITOR.)",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Formerly used as an aphrodisiac. A tincture of the root is used in homeopathy for skin affections, painful breasts, pain in the kidneys and eye complaints.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Spiranthes diuretica , used in Chile in cases of ischury.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

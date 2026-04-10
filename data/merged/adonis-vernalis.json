@@ -1,0 +1,102 @@
+{
+  "id": "adonis-vernalis",
+  "names": {
+    "primary": "ADONIS VERNALIS",
+    "latin": "ADONIS VERNALIS",
+    "common": [
+      "Pheasant's Eye"
+    ],
+    "synonyms": [
+      "Adonis Vernalis"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "head": [
+      {
+        "text": "Feels light; aches across front, from occiput around temples to eyes. Vertigo on rising, turning head quickly or lying down. Tinnitus. Scalp feels tight. Eyes dilated",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Slimy. Tongue dirty yellow, sore, feels scalded",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Mitral and aortic regurgitation. Chronic aortitis, Fatty heart pericarditis. Rheumatic Endocarditis (Kalmia). Preæcordial pain, palpitation, and dyspnœa. Marked venous engorgement. Cardiac asthma (Quebracho). Fatty heart. Myocarditis, irregular cardiac action, constriction and vertigo. Pulse rapid, irregular",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Heavy weight. Gnawing hunger. Faint feeling in epigastrium. Better out of doors",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Oily pellicle on urine. Scanty, albuminous",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Frequent desire to take a long breath. Feeling of weight on chest",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Restlessness, with horrible dreams",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Aching in nape. Spine stiff and aching. Œdema",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Five to ten drops of the tincture"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ADONIS VERNALIS Pheasant's Eye A heart medicine, after rheumatism or influenza, or Bright's disease, where the muscles of the heart are in stage of fatty degeneration, regulating the pulse and increasing the power of contractions of heart, with increased urinary secretions. Most valuable in cardiac dropsy. Low vitality, with weak heart and slow, weak pulse. Hydrothorax, ascites. Anasarca.",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The whole plant of Adonis vernalis, Linné. (Nat. Ord. Ranunculaceae). Southern Europe, Siberia, and Labrador. Dose, ½ to 3 grains. Common Name: Pheasant's Eye.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Principal Constituent.—Adonidin, probably a mixture of acids and glucosides. Preparation.—Specific Medicine Adonis. Dose, ½ to 3 drops. Specific Indications.—Weak cardiac action, with low blood pressure, and shortened diastole, with consequent venous stasis, with increased back-pressure, and feeble intermittent or irregular pulse; cardiac dropsy, with weak heart.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action.—Fresh adonis is irritant and vesicant. Upon the circulation it acts much like digitalis, but is prompter in action and not cumulative. It is an energetic agent and capable of poisoning. Adonis slows, regulates, and strengthens the heart's contractions, raises blood pressure, and thereby acts as a diuretic. It also causes deeper and slower breathing, and in proper cases overcomes dyspnea. Large doses paralyze the heart and blood vessels.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Therapy.—On account of its quicker action Adonis has been preferred by some to digitalis and strophanthus in the same class of heart affections to which these are applicable, or in which for some reason it is undesirable to employ them. It is especially commended where arrhythmia with feeble cardiac force and dyspnoea and dropsy are present. It has long been a popular remedy in Russia for dropsies of both heart and kidney origin. It is probably less valuable than digitalis where the cardiac valves are greatly affected. Scudder valued adonis in heart-strain from overexertion; Hale recommended it in endocarditis and in weak and irregular heart action resulting from chronic nephritis. Wilcox used it in chronic albuminuria, with pale urine and delirium with good results and in uremic convulsions, which had been frequent, without a return of the eclampsia for two years, when the patient died. It is undoubtedly emmenagogue and has been advised in epilepsy, administering it with bromide of potassium. It should not be given when there is gastro-intestinal irritation or inflammation.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "felter-eclectic-1922"
+    ]
+  }
+}

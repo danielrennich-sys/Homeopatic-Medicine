@@ -1,0 +1,126 @@
+{
+  "id": "lemna-minor",
+  "names": {
+    "primary": "LEMNA MINOR",
+    "latin": "LEMNA MINOR",
+    "common": [
+      "Duckweed"
+    ],
+    "synonyms": [
+      "Lemna Minor"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "nose": [
+      {
+        "text": "Putrid smell; loss of smell. Crusts and muco-purulent discharge very abundant. Post-nasal dropping. Pain like a string from nostrils to ear. Reduces nasal obstruction when it is an œdematous condition. Dryness of naso-pharynx",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Foul smell in nose, or loss of smell. Smell of strong-scented flowers before intolerable can now be borne. Feeling of cold in nose better, sense of obstruction nearly gone. Nose blocked with polypi became almost cleared with Lemna Ø after Calc. 2000, followed by Merc. 3 (given for faceache). previously Lemna Ø had been given without effect. Nasal polypi in man, 60; markedly in wet weather; after taking Lemna 3x gtt. v three times a day for a month said, \"That is the best tonic I have ever taken\"; and he could breathe quite comfortably. Polypi which swell in wet weather. Nostrils plugged by swollen turbinates. Ozæna since childhood in girl of sixteen; odour most offensive; bad taste; takes cold easily in night air or damp; bowels and catamenia irregular, greatly relieved by Lemna. Post-nasal ulceration high up, dry feeling at top of throat with flatulence, much catarrhal pharyngitis; two weeks after dose of Lemna Ø nose less blocked and better in every respect; colic and diarrhœa followed. Stuffiness of nose relieved; simultaneously an attack of diarrhœa. Turbinate bones swollen. Crusts form in r. nostril, pain like a string extends from r. nostril to r. ear, which is deaf (greatly relieved). Excessive catarrh with frequent sneezing attacks. Profuse yellow defluxion. Atrophic rhinitis; crusts and muco-purulent discharge very abundant, with fetor.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Putrid taste on rising in the morning. Dry pharynx and larynx",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Foulness of mouth, putrid teeth. Sensation of intense dryness in pharynx and larynx (if given too low in atrophic rhinitis). Dropping of foul secretion from posterior nares.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Disposition to noisy diarrhœa",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Twisting pains in bowels, followed by diarrhœa. Rumbling and disturbance in bowels. Diarrhœa with pains across bowels as from flatus after eating; with very putrid teeth.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "in damp, rainy weather, especially heavy rains",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Third to thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">LEMNA MINOR Duckweed A catarrhal remedy. Acts especially upon the nostrils. Nasal polypi; swollen turbinates. Atrophic rhinitis. Asthma from nasal obstruction; worse in wet weather.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "We owe this remedy, the common duckweed, with its brilliant green leaf and bladder-like float, to Dr. Cooper. Some tentative clinical experiments proved to him that Lemna had a very definite affinity for the nose, acting beneficially in cases of nasal obstruction and catarrh with or without polypus. Foul smell from the nose and foul taste in the morning on waking are indications; also in damp weather, and especially in heavy rains. Burnett has recorded several cases of polypus in which immense relief was given by Lemna by shrinkage of the swelling, but not actual cure. On this Cooper remarks: \"In bad cases of nasal polypi the tendency is to the growths filling up the cavities formed by removal, and, consequently, relief often appears temporary, when the case only requires repetition of the Unit Dose.\" Asthma from nasal obstruction in wet weather has been cured by it. I removed with Lemna 3x four times a day a very chronic catarrh in a lady, and at the same time made her tolerant of the smell of strong-scented flowers, which she could not bear before. In a man I cured with Lemna 3x, given three times a day, an aggravated nasal catarrh. In the morning he filled two pocket-handkerchiefs with yellow defluxion before he could get his nose clear. Cooper gave in all his cases single doses of the Ø tincture, allowing them to expend their action before repeating. In three of his cases diarrhœa was set up. Shearer (Hom. Eye, Ear, and Throat Jour., 1895) found Lemna the best remedy in atrophic rhinitis, when crusts and muco-purulent discharge were very abundant. The Schema is made up of cured symptoms, and symptoms produced in patients.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Asthma; Nose, affections of; Ozæna; Polypus; Rhinitis atrophica",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Asthma, attacks coming on in rainy weather. Diminishes sensitiveness to wet weather.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Cepa, Agraph. nut., Chlorum, &c., in nasal catarrh; Teucr., Calc. c. and Thuja in nasal polypus; Pso. (which it follows well), Cadm. s., Aur., K. bi., and Syph. in ozæna; Anac. in bad smell in nose. Follows well: Calc., Merc., Pso."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Spirits braced up.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Flitting pains about head and legs, with pains in eyes during heavy rain, drowsy by day, restless at night.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Improvement in hearing.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Pallid, dullish, sickly look changed to a healthy complexion.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Diarrhœa. Bowels acted freely with much heat in anus. Disposition to morning diarrhœa.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Snoring cured after an aggravation in the shape of diarrhœa. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

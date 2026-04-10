@@ -1,0 +1,65 @@
+{
+  "id": "natrium-arsenicosum",
+  "names": {
+    "primary": "NATRIUM ARSENICOSUM",
+    "latin": "NATRIUM ARSENICOSUM",
+    "common": [
+      "Arseniate of Sodium (NATRUM ARSENICUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Floating sensation on turning head quickly; aching in frontal region and root of nose, over orbits. Headache; worse pressure and tobacco smoke",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Watery discharge; drops into throat. Feels stopped; pain at root. Dry crusts, on removal, leave mucous membrane raw. Post-nasal dropping of thick, bland, yellowish mucus. Crusts in nose",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Catarrhal conjunctivitis and blepharitis marginalis. Eyes feel weak, stiffness of balls and tendency of lids to close. Feel heavy and droop. Lachrymation in wind. Agglutination in morning. Dry, painful, burning; soon tire. Œdema of orbital region. Supraorbital pain",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Dark, purplish, swollen, œdematous; red and glassy",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Racking cough, with profuse greenish expectoration. Oppression of chest and about heart, and also larynx. Miner's asthma. Lungs feel as though smoke had been inhaled",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Aching in arms; worse in shoulder. Pain in anterior crural nerves. Joints stiff. Feels tired all over. Knee-joints crack",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Third to thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">NATRIUM ARSENICOSUM Arseniate of Sodium (NATRUM ARSENICUM) A remedy for nasal catarrh, with headache, pain at root of nose, dry and painful eyes. Psoriasis (Ars; Chrysoph ac; Thyroid). Bronchitis of children over seven years. Facilitates the termination of the cold and conserves strength and appetite (Cartier).",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

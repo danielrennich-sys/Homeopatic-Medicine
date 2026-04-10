@@ -1,0 +1,36 @@
+{
+  "id": "belladonna-deadly",
+  "names": {
+    "primary": "Belladonna. Deadly Nightshade. (Solanaceae)",
+    "latin": "Belladonna. Deadly Nightshade. (Solanaceae)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Adapted to bilious, lymphatic, plethoric constitutions; persons who are lively and entertaining when well, but violent and often delerious when sick. Women and children with light hair and blue eyes, find complexion, delicate skin; sensitive, nervous, threatened with convulsions; tuberculous patients. Great liability to take cold; sensitive to drafts of air, especially when uncovering the head; from having the hair cut; tonsils become inflamed after riding in a cold wind (Acon., Hep., Rhus - takes cold from exposure of feet, Con., Cup., Sil.). Quick sensation and motion; eyes snap and move quickly; pains come suddenly, last indefinitely and cease suddenly (Mag. p.). Pains usually in short attacks; cause redness of face and eyes; fulness of head and throbbing of carotids. Imagines he sees ghosts, hideous faces, and various insects (Stram.); black animals, dogs, wolves. Fear of imaginary things, wants to run away from them; hallucinations. Violent delirium; disposition to bite, spit, strike and tear things; breaks into fits of laughter and gnashes the teeth; wants to bite and strike the attendants (Stram.); tries to escape (Hell.). Head hot and painful; face flushed; eyes wild, staring, pupils dilated; pulse full and bounding, globular, like buckshot striking the finger; mucous membrane of mouth dry; stool tardy and urine suppressed; sleepy; but cannot sleep (Cham., Op.). Convulsions during teething, with fever (without fever, Mag. p.); come on suddenly, head hot, feet cold. Rush of blood to head and face (Amyl., Glon., Mel.). Headache, congestive, with red face, throbbing of brain and carotids (Met.); pressure, tight bandaging, wrapping up, during menses. Boring the head into the pillow (Apis, Hell., Pod.). Vertigo when stooping, or when rising after stooping (Bry.); on every change of position. Abdomen tender, distended Skin: of a uniform, smooth, shining scarlet redness; dry, hot, burning; imparts a burning sensation to examining had; the true Sydenham scarlet fever, where eruption is perfectly smooth and truly scarlet. Pressing downwards as if the contents of abdomen would issue from the vulva; > standing and sitting erect; worse mornings (Lil., Mur., Sep.).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Complementary: Calcarea. Belladonna is the acute of Calcarea, which is often required to complete a cure. Similar: to, Acon., Bry., Cic., Gels., Glon., Hyos., Mel., Op., Stram.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - From touch, motion, noise, draught of air, looking at bright, shining objects (Lys., Stram.); after 3 p. m.; night, after midnight; while drinking; uncovering the head; summer sun; lying down.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Amelioration. - Rest; standing or sitting erect; warm room.",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

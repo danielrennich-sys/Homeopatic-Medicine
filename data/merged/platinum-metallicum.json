@@ -1,0 +1,112 @@
+{
+  "id": "platinum-metallicum",
+  "names": {
+    "primary": "PLATINUM METALLICUM",
+    "latin": "PLATINUM METALLICUM",
+    "common": [
+      "The Metal (PLATINA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Irresistible impulse to kill. Self-exaltation; contempt for others. Arrogant, proud. Weary of everything. Everything seems changed. Mental trouble pressed menses. Physical symptoms disappear as mental symptoms develop",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Tense, pressing pain, confined to a small spot. Cramplike, squeezing pain. Constriction about forehead and right temples. Numbness, with headache",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Objects look smaller than they are. Twitching of lids (Agar). Eyes feel cold. Cramp-like pain in orbits",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Feels numb. Cramp-like twinges. Roaring and rumbling",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "Prosopalgia, with numb feeling in malar bones, as if the parts were between screws. Pain at root of nose, as if squeezed in a vise. Coldness, creeping, and numbness, in whole right side of face. Pains increase and decrease gradually (Stann)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Fermentation, much flatulence; constriction; ravenous hunger; persistent nausea, with anxiety and weakness",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Painter's colic. Pain in umbilical region; extending through to back. Pressing and bearing down in abdomen; extending into pelvis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Retarded; feces scanty; evacuated with difficulty. Adheres to rectum, like soft clay. Sticky stool. Constipation of travelers, who are constantly changing food and water. Stool as if burnt",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Parts hypersensitive. Tingling internally and externally (Kali brom; Orig). Ovaries sensitive and burn. Menses too early, too profuse, dark-clotted, with spasms and painful bearing-down, chilliness, and sensitiveness of parts. Vaginismus. Nymphomania. Excessive sexual development; vaginismus. Pruritus vulvæ. Ovaritis with sterility. Abnormal sexual appetite and melancholia",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Tightness of thighs, as if too tightly wrapped. Numb and weary sensation. Feel paralyzed",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleeps with legs far apart (Chamom)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "walking",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "sitting and standing; evening",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "antidoted_by": [
+        "Puls"
+      ]
+    },
+    "dosing": {
+      "notes": "Sixth trituration to thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">PLATINUM METALLICUM The Metal (PLATINA) Is pre-eminently a woman's remedy. Strong tendency to paralysis, anæsthesia, localized numbness and coldness are shown. Hysterical spasms; pains increase and decrease gradually (Stannum). Tremulousness.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

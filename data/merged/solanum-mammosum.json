@@ -1,0 +1,69 @@
+{
+  "id": "solanum-mammosum",
+  "names": {
+    "primary": "Solanum Mammosum",
+    "latin": "Solanum Mammosum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T SOLANUM MAMMOSUM. Solanum mammosum, Linn. Natural order , Solanaceæ. Common name , Apple of Sodom. Authority. Hering, Archiv. f. Hom., 13, 2, p. 184. MIND. ► He becomes exasperated at what he thinks may happen. ► Inability for continuous thought, though with perfect comprehension of his subject; he could, when writing, only express himself in short broken sentences. STOOL. ► No stool (second day); stool occurred later than usual and after much pressure (third day). RESPIRATORY ORGANS. ► The mucus hawked from the larynx contains streaks of bright blood (after half an hour). ► Hawking of mucus containing flakes of blood (third day). BACK. ► Twitching of a large muscle below the right scapula, as if the flesh were pinched up by the hand and shaken back and forth (third and fourth days). INFERIOR EXTREMITIES. ► Sticking pain in the left hip-joint, that made him quite lame, frequently during and after walking, disappearing after standing and sitting down (fourth day). GENERALITIES. ► Uneasiness; inability to keep quiet. ► Everything is seen as in a fever with a hard pulse. [10.] ► Sensitiveness to tobacco. SKIN. ► Causes blotches over the whole body (from poisoning; see Froriep, Notizen, 1821). SLEEP. ► Great weariness and desire to sleep without ability to sleep, followed by slumbering without real sleep, and afterwards deep sleep for several hours, from which he awoke and could not collect his senses for a long time, and remained long in an irresolute condition (this condition occurred at the time of the flood-tide, at the full moon; with the ebb-tide a general refreshing, as after a crisis). ► Even after a long sleep during the day he was sleepy in the evening, and slept well all night. ► Dreams of death, with violent weeping (fourth and fifth days). Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Coxalgia; Hæmoptysis; Irritability; Sleep, abnormal; Thought, difficult; Tobacco, effects of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "The mucus hawked from the larynx contains streaks of bright blood. Sticking pain in l. hip-joint that made him quite lame, frequently during and after walking, disappearing after standing and sitting down. Uneasiness; inability to keep quiet. Everything is seen as in a fever with a hard pulse. Sensitiveness to tobacco.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Hering is the authority for Sol. mam. The chief symptoms were: Irritability and inability to think; sleepiness, without being able to sleep; a kind of stupor at time of flood tide, at the full moon, > with ebb tide; hawking of blood-streaked mucus; sensitiveness to tobacco.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Becomes exasperated at what he thinks may happen. Inability for continuous thought, though with perfect comprehension of his subject; he could, when writing, only express himself in short, broken sentences.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "No stool (2nd d.); stool occurred later than usual, and after much pressure (3rd d.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Twitching of large muscle below r. scapula; as if the flesh were pinched up by the hand and shaken back and forth.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Causes blotches over whole body (from poisoning).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Great weariness and desire to sleep without ability to sleep, followed by slumbering without real sleep, and afterwards deep sleep for several hours, from which he awoke and could not collect his senses for along time, and remained long in an irresolute condition (this condition occurred at time of flood-tide at full moon; with the ebb tide, a general refreshing as after a crisis). Even after a long sleep during the day he was sleepy in evening, and slept well all night. Dreams of death with violent weeping. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

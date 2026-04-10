@@ -1,0 +1,68 @@
+{
+  "id": "titanium",
+  "names": {
+    "primary": "Titanium",
+    "latin": "Titanium",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T TITANIUM. Preparation , Trituration of the copper-red crystals, obtained from the slag at the bottom of a blast iron furnace (consisting of Titanium cyanide and Titanium nitride). Authority. Sharp, in letter to Brodie, p. 93 (Am. Hom. Rev., vol. 3 1863, p. 516); triturated the crystals; the proportion was 1 grain to 99 of sugar of milk; took 2 grains daily, for a week. HEAD. ► Giddiness. EYE. ► Desire to keep the eyelids closed. ► Imperfect vision, the peculiarity being that half an object only could be seen at once. STOMACH. ► Loss of appetite. ► Nausea. ► Feeling of discomfort in the stomach. GENERALITIES. ► I became greatly disordered, and felt and looked wretchedly ill; a perceptible derangement of the whole system, which could not, without danger, have been carried further. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Hemiopia; Semen, too early ejaculation of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Greatly disordered; felt and looked wretchedly ill.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Titanium (Ti., A. W. 48.1) stands midway between Silicon and Tin in some of its relations; and in other respects it is closely related to Iron, Chromium, and Aluminium. The crystals proved by Sharp (who took gr. ii. of the 1st trit. daily for a week) were originally believed to be the pure metal, but were proved later to be the cyanonitrid. One symptom of the proving is remarkable: \"Imperfect vision, the peculiarity being that half an object only could be seen.\" Another symptom, which Burnett has turned to good account in cases of sexual weakness, is \"Too, early ejaculation of semen in coitus.\"",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Half-sight, Nat. c., Lyc., Aur., Lith."
+      ]
+    },
+    "head": [
+      {
+        "text": "Giddiness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Desire to keep eyelids closed. Only half an object could be seen at once.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Loss of appetite. Nausea. Discomfort in stomach.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Too early ejaculation of semen. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

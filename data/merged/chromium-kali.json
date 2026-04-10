@@ -1,0 +1,35 @@
+{
+  "id": "chromium-kali",
+  "names": {
+    "primary": "Chromium Kali Sulphuratum",
+    "latin": "Chromium Kali Sulphuratum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Cr. k. s. was introduced into homœopathic practice some years ago by Dr. Mersch, of Brussels, and in my experience it is by far the most valuable remedy for hay fever that we possess. I use it on Dr. Mersch's indications in the 6x trituration and downwards. Because it sometimes succeeds in the 3x, and even the 1x, when higher numbers fail. I generally give eight grains of the 5x to begin with, three or four times a day. There is no proving that I am acquainted with, but it can be used on general indications for coughs and catarrhs which its constituents will readily suggest.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Catarrh; Hay asthma; Hay fever",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Cep., Psor., Sabad., Naphthal., Sang. Ka. bi. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

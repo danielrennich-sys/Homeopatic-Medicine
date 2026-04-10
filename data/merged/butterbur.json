@@ -1,0 +1,41 @@
+{
+  "id": "butterbur",
+  "names": {
+    "primary": "Butterbur",
+    "latin": "Butterbur",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Butterbur is a shrub that grows in Europe and parts of Asia and North America. The name, butterbur, is attributed to the traditional use of its large leaves to wrap butter in warm weather. The names for this plant in some other languages translate as “rain hat” or “hat plant,” reflecting another use of the large leaves. Butterbur has been used for health purposes for many centuries. In the Middle Ages, the odor and smoke from burning butterbur roots were thought to fight plague. Today, butterbur is promoted as a dietary supplement for migraine, allergic rhinitis (hay fever), and other conditions.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "There have been several studies of butterbur for migraines and allergic rhinitis (hay fever) in people, so we have some knowledge of its effects on these two conditions.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "A butterbur root extract may reduce the frequency of migraines in adults and children when taken orally. In 2012, the American Academy of Neurology recommended butterbur for preventing migraines. However, the Academy stopped recommending it in 2015 because of serious concerns about its safety. Studies of a butterbur leaf extract suggest that it may be helpful for symptoms of allergic rhinitis when taken orally. Little research has been done on butterbur for conditions other than migraine and allergic rhinitis, and no conclusions can be reached about its effects for other conditions.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "The butterbur plant contains substances called pyrrolizidine alkaloids (PAs). PAs can damage the liver and lungs and may cause cancer. Only butterbur products that have been processed to remove PAs and are labeled or certified as PA-free should be considered for use. Several studies, including studies of children and adolescents, have reported that PA-free butterbur products seem to be safe when taken by mouth for up to 16 weeks. However, there have been rare cases of liver injury associated with products that were reported to be PA-free. Butterbur products that contain PAs may not be safe when applied to the skin. PAs could be absorbed through cuts or scrapes. Butterbur is generally well tolerated when taken orally. Side effects can include belching, diarrhea, drowsiness, rash, and stomach upset. Butterbur may cause an allergic reaction in people who are allergic to related plants, such as ragweed, chrysanthemums, marigolds, and daisies. If you take any type of medicine, talk with your health care provider before using butterbur or other herbal products; some herbs and medicines interact in harmful ways. Butterbur products with PAs should not be used during pregnancy or while breastfeeding because they may cause birth defects or liver damage. Little is known about whether it’s safe to use PA-free butterbur products during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "weak_support"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

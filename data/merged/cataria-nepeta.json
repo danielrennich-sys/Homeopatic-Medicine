@@ -1,0 +1,29 @@
+{
+  "id": "cataria-nepeta",
+  "names": {
+    "primary": "CATARIA NEPETA",
+    "latin": "CATARIA NEPETA",
+    "common": [
+      "Catnip"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "5 to 10 drops of the tincture"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CATARIA NEPETA Catnip Children's remedy for Colic, also for nervous headache and hysteria, abdominal complaints, pain, flexing of thighs, twisting of body, crying. Similar to chamomilla and magnes phosph.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

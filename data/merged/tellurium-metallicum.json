@@ -1,0 +1,92 @@
+{
+  "id": "tellurium-metallicum",
+  "names": {
+    "primary": "TELLURIUM METALLICUM",
+    "latin": "TELLURIUM METALLICUM",
+    "common": [
+      "The Metal Tellurium (TELLURIUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Neglectful and forgetful. Pain in left side of head and in forehead above left eye. Distortion and twitching of left facial muscles; when speaking left angle of mouth drawn upwards and to left. Fear of being touched in sensitive places. Congestion to head and nape of neck, followed by weakness and faintness in stomach. Itching of scalp; red spots",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Lids thickened, inflamed, itching. Pterygium; pustular conjunctivitis. Cataract, following ocular lesions; aids the absorption of infiltrations in iris and choroid",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Eczema behind ear. Catarrh of middle ear, discharge acrid, smells like fish-pickle. Itching, swelling, throbbing in meatus. Deafness",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Coryza, lachrymation and hoarseness; better in open air (Cepa). Obstructed; hawks salty phlegm from posterior nares",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Craving for apples. Empty and weak feeling. Heartburn",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Pruritus ani et perinei after every stool",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Pain] Pain from last cervical to fifth dorsal vertebra, very sensitive; worse touch (Chin s; Phosph) Sciatica; worse right side, coughing, straining, and at night, with sensitive vertebral column. Contraction of tendons in bends of knees",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching of hands and feet. Herpetic spots; ringworm (Tuberc). Ring-shape lesions, offensive odors from affected parts. Barber's itch. Stinging in skin. Fetid exhalations (Sulph). Offensive foot-sweat. Eczema, back of ears and occiput. Circular patches of eczema",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "while at rest at night, cold weather, from friction, coughing, laughing, lying on painful side, touch",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Sixth potency and higher. Takes long time to develop its action, which is very prolonged"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">TELLURIUM METALLICUM The Metal Tellurium (TELLURIUM) Marked skin (herpes circinatus), spinal, eye and ear symptoms. Very sensitive back. Pains all over body. Offensive discharges. Slow development of symptoms (Radium) Sacral and sciatic pains.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

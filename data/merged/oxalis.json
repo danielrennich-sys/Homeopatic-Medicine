@@ -1,0 +1,54 @@
+{
+  "id": "oxalis",
+  "names": {
+    "primary": "Oxalis",
+    "latin": "Oxalis",
+    "common": [
+      "Wood-Sorrel"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "The whole herb of Oxalis Acetosella, Linné. Nat. Ord.—Geraniaceae. COMMON NAME: Wood-sorrel.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—Wood-sorrel is a small, perennial, acaulescent herb, with a creeping, scaly-toothed root-stock. The leaves are numerous, radical, palmately 3-foliate, on long, weak, hairy stalks; leaflets broadly obcordate, with rounded lobes entire, pubescent, of a yellowish-green color, but frequently purplish beneath; they close and droop at night-fall. The scape is longer than the petioles, and 1-flowered, with 2 scaly bracts near the middle. The flowers are white, yellowish at the base, delicately veined with purple, and scentless. Stamens 10, monadelphous at the base, alternately shorter; sepals 5, persistent; style as long as the inner stamens. Capsule 5-lobed, 5-celled, and oblong; seeds several, with an elastic testa (G.—W.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History and Chemical Composition.—Wood-sorrel is indigenous to Europe and this country, growing in woody and shady places, and flowering from April to June. It is inodorous and has a pleasantly acid taste, which is somewhat impaired by drying. The acidity is due to the presence of oxalic acid in combination with potassium forming acid potassium oxalate, sometimes called potassium binoxalate (HKC2O4). In some parts of Europe this salt was formerly separated from the plant, and sold under the name of salts of sorrel (sometimes under the name salt of lemons), for the purpose of removing ink spots and iron marks front linen. This salt is poisonous when taken internally. It can now be conveniently prepared from oxalic acid.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—The several varieties of sorrel are cooling and diuretic. Useful in febrile diseases, hemorrhages, gonorrhoea, chronic catarrh, urinary affections, and in scurvy, it may be used in infusion, or it may be infused in milk to form whey, or the herb may be eaten, but in neither case to excess, on account of the potassium binoxalate they contain. Externally, the bruised leaves or inspissated juice have been found useful as an application to scrofulous, malignant, and indolent ulcers. The Rumex Acetosa, or Garden sorrel, R. Acetosella, or Sheep sorrel, and R. vesicarius, possess similar properties (which see). The antidote to poisoning by any of the species of Oxalis, or by oxalic acid or potassium binoxalate, is a mixture of chalk with water.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Species.—There are other species of Oxalis possessing analogous properties, as the Oxalis stricta, Linné, and O. violacea, Linné. They all have ternate leaves with obcordate leaflets, and with the exception of O. violacea, bear yellow flowers.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Oxalis crassicaulis.—Peru. Root edible; the syrup of an astringent, acidulous juice expressed from the leaves, has been employed in catarrhal troubles, gonorrhoea, and hemorrhages.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Oxalis corniculata, Linné.—Europe. This species has properties similar to Oxalis Acetosella.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "kings-american-1898"
+    ]
+  }
+}

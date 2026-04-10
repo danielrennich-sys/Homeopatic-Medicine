@@ -1,0 +1,29 @@
+{
+  "id": "eosinum",
+  "names": {
+    "primary": "EOSINUM",
+    "latin": "EOSINUM",
+    "common": [
+      "(EOSIN)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Second decimal (1 % sol)"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">EOSINUM (EOSIN) A remedy for cancer, polyarthritis. Proved in potencies by Dr. B. C. Woodbury. Summary of symptoms: Burning under finger nails and toe nails, on soles. Itching and redness of knee-caps. Redness of palms. Redness, burning and numbness of tongue. Peculiar sensation of being very tall with tendency to vertigo. Burning in various parts on skin. Shifting location after scratching which relieves.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

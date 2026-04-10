@@ -1,0 +1,36 @@
+{
+  "id": "cinchona-peruvian",
+  "names": {
+    "primary": "Cinchona (China). Peruvian Bark (Rubiaceae)",
+    "latin": "Cinchona (China). Peruvian Bark (Rubiaceae)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "For stout, swarthy persons; for systems, once robust, which have become debilitated, \"broken down\" from exhausting discharges (Carbo v.). Apathetic, indifferent, taciturn (Phos. ac.); despondent, gloomy, has no desire to live, but lacks courage to commit suicide. Ailments: from loss of vital fluids, especially haemorrhages, excessive lactation, diarrhoea, suppuration (Chin. s.); of malarial origin, with marked periodicity; return every other day. After climacteric with profuse haemorrhages; acute diseases often result in dropsy. Pains: drawing or tearing; in every joint, all the bones. Peristeum, as if strainted, sore all over; obliged to move limbs frequently, as motion gives relief; renewed by contact, and then gradually increase to a great height. Headache: as if the skull would burst; intense throbbing of head and carotids, face flushed; from occiput over whole head; after haemorrhage or sexual excesses. Face pale, hippocratic; eyes sunken and surrounded by blue margins; pale, sickly expression as after excesses; toothache while nursing the child. Excessive flatulence of stomach and bowels; fermentation, borborygmus, belching gives no relief (belching relieves, Carbo v.); sensitive to touch, to pain, to drafts of air; entire nervous system extremely sensitive. Unrefreshing sleep or constant sopor; long continued; longing for sour things. Disposition to haemorrhage from every orifice of the body, with ringing in ears, fainting, loss of sight, general coldness, sometimes convulsions (Fer., Phos.). Pains are by hard presure (Caps., Plumb.). One hand icy cold, the other warm (Dig., Ipec., Puls.). Intermittent fever: paroxysm anticipates from two to three hours each attack (Chin. s.); returns every seven or fourteen days; never at night; sweats profusely all over on being covered, or during sleep (Con.).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Complementary: Ferrum. Follows well: Cal. p. in hydrocephaloid. Compare: Chin. s. in intermittent fever, anticipating type. Incompatible: after, Dig., Sel. Is useful in bad effects from excessive tea drinking or abuse of chamomile tea, when haemorrhage results.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - From slightest touch; draft of air; every other day; mental emotions; loss of vital fluids.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Amelioration. - Hard pressure; bending double.",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

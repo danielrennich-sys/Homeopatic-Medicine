@@ -1,0 +1,93 @@
+{
+  "id": "mandragora",
+  "names": {
+    "primary": "Mandragora",
+    "latin": "Mandragora",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T MANDRAGORA. Mandragora officinarum, Mill. (Also M. vernalis, Berthol.) Atropa mandragora, Linn. Natural Order , Solanaceæ. Common name , Mandrake. Preparation , Tincture of plant without the root (Dufresne). Authorities. 1 , Dr. L. C. Dufresne, Bib. Hom. de Genève, 2, 498, 1834, effects on self and another from smelling repeatedly at short intervals of the expressed juice of the plant (which has a nauseating odor like reptiles' (adders') flesh); 2 , Dr. Benjamin W. Richardson, Brit. and For. Med.-Chir. Rev., 1874, p. 242, vol. 53; also vol. 51, effects of the tincture to 20 minims. HEAD. ► Heaviness and confusion of the head, [1] . ► A sense of fulness in the vessels of the brain, [2] . EYE. ► Mandragora causes dilatation of the pupil, [2] . ► A peculiarly enlarged and confused vision, [2] . EAR. ► Exaggeration of sounds, [2] . NOSE. ► Coryza, [1] . MOUTH. ► The tincture benumbs the tongue when a little is placed upon it, [2] . ► Singular taste, and sensation of acidity and dryness, which last for several days, [2] . STOOL. ► Inaction of the bowels, with white had fæces when the bowels are induced to act, [2] . RESPIRATORY ORGANS. [10.] ► Hoarseness, [1] . ► Slight cough, with expectoration, [1] . ► Difficult breathing, [1] . GENERAL SYMPTOMS. ► A curious restless excitability, akin to hysteria, perhaps we might say essentially hysterical, [2] . ► Lingering uneasiness and coldness after the removal of other symptoms, [2] . ► Bodily weariness, [1] . ► All the unpleasant symptoms go off night in bed, and are succeeded by a gentle perspiration, [1] . ► Great irregularities in diet, such as the use of wine, coffee, and cigars, caused all the symptoms to disappear in three days in one prover; with a careful diet they lasted eight days, and were then removed by Nux vom . and Belladonna , followed by Camphor , [1] . SLEEP. ► Desire for sleep, [2] . FEVER. ► Lingering coldness and uneasiness after the removal of other symptoms, [2] . [20.] ► Shivering sensation in the afternoon, [1] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Constipation",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Hoarseness. Slight cough with expectoration. Difficult breathing. Lingering uneasiness and coldness after removal of other symptoms. Bodily weakness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The mandrake does not derive its name from the shape of the human body which the root of the plant sometimes takes, but from the name by which it was known to the Greeks, Mandragora, and which signifies injurious to cattle. In legend and poetry the mandrake figures largely. It is said to be the \"Insane root\" spoken of by Macbeth, and it is mentioned by name in Antony and Cleopatra and Romeo and Juliet. Mand. must not be confounded with Podophyllum, which is also sometimes called \"Mandrake,\" as also is Bryonia dioica in this country. Mand. is known to homœopathy through some experiments of Dufresne made on himself and another by repeatedly smelling, at short intervals, the expressed juice of the plant, \"which has a nauseating odour like adder's flesh\"; and also by an experiment of W. B. Richardson's. There are two varieties of Mand. offic., the vernal and the autumnal. The plant Dufresne used was the Vernalis. The symptoms were very similar to those of Belladonna, to which it is botanically closely related. There was a restless excitability and bodily weariness. Great desire for sleep. The unpleasant symptoms go off at night in bed, and are succeeded by a gentle perspiration. The effects were removed by free indulgence in wine, coffee, and cigars. With regular dieting they lasted much longer, and were removed by Nux, Camph., and Bell, \"Inactive bowels with white, hard stools,\" was one symptom. There is exaggeration of sounds, and enlarged vision.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Restless excitability, hysterical.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Heaviness and confusion of head. Sense of fulness in vessels of brain.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Pupils dilated. A peculiarly enlarged and confused vision.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Exaggeration of sounds.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Coryza.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue benumbed. Singular taste and sensation of acidity and dryness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Inaction of bowels, with white hard fæces when bowels are induced to act.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Desire for sleep.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Shivering in afternoon. Coldness remains after other symptoms. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

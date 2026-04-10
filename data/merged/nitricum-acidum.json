@@ -1,0 +1,581 @@
+{
+  "id": "nitricum-acidum",
+  "names": {
+    "primary": "NITRICUM ACIDUM",
+    "latin": "NITRICUM ACIDUM",
+    "common": [
+      "Nitric Acid"
+    ],
+    "synonyms": [
+      "Nitricum Acidum",
+      "Nitricum acidum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Irritable, hateful, vindictive, headstrong. Hopeless despair. Sensitive to noise, pain, touch, jar. Fear of death",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Sadness, despondency. Excessive melancholy and fits of anguish, esp. in evening, or at night. Uneasiness respecting health, with fear of death. Excessive nervousness, great excitability, esp. after the abuse of Mercury. Easily startled and frightened. Unfitness for labour. Concentration in self. Taciturn, disinclined to communicate anything. Vexed at trifles. Attacks of rage, despair, with cursing and maledictions. Irritability and obstinacy. Passion. Prolonged rancour. Fits of rage and despair, with oaths and imprecations. Inclination to weep. Nostalgia. Timid and apprehensive disposition. Weakness of intellectual faculties, with unfitness for intellectual labour. Excessive weakness of memory. Comes over with feeling as if would go out of her mind, with burning feeling on vertex (Agg. from 3x, R. T. C.). Woman, 20, intemperate, syphilitic, poor physical condition, restless, destructive of clothing, talking incoherently and continuously sleepless, excited at any one's approach, using profane and vulgar language (cured with 2x. G. S. Adams, Westb. As. Rep., 1889).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Sensation of a band around head. Headache from pressure of hat; full feeling; worse from street noises. Hair falls out. Scalp sensitive",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Vertigo when walking and when seated. Vertigo, which compels lying down, esp. in morning and evening. Vertigo, with weakness, nausea, or headache. Pressing headache from without to within, with nausea; by noise; > on lying down or when riding in a carriage. Headache, on waking in morning. Great sensitiveness of head to noise of carriages, or to a heavy tread. Attacks of headache, with nausea and vomiting. Sensation of fulness and heaviness in head, with tension and pressure extending into eyes. Tearing in forehead, vertex, and occiput. Lancinations in almost all parts of head, which sometimes compel patient to lie down, and disturb sleep at night. Pulsative headache. Congestion of blood to head, with internal heat. Flushing and great heat of head, with tendency to perspiration of head and general wave of heat (produced in man, 60, when taking 30th. R. T. C.). Drawing and pressive pains in bones of head, with sensation as if they were constricted by a tape, in evening and at night; > from cold air and while riding in a carriage. Painful sensitiveness of scalp; a head-dress is oppressive. Tension in scalp. Itching of scalp. Humid eruption on head. Humid, stinging-itching eruption on vertex and on temples, extending down to whiskers, bleeding very easily on scratching it, and feeling very sore when lying on it. Inflammatory swellings on the scalp, suppurating or becoming carious; most painful from external pressure or when lying on them. Wens. Falling off of hair, with humid eruptions, paining as if splinters were thrust in, or when touched; also on the genitals, after abuse of Mercury; with nervous headaches, great debility and emaciation. Ulcerated, running, and burning places on head.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Difficult hearing; better by riding in carriage or train. Very sensitive to noise, as the rattle of wagons over pavements (Coff; Nux). Cracking in ears when chewing",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Shootings in ears. Stitches in the (r.) ear. Dryness in interior of ear. Ulceration of mastoid apophysis. Discharge from ears. Excoriation behind ears, with itching and suppuration. Obstruction of ears. Hardness of hearing, esp. when relieved by riding in a carriage or in the cars, i.e., hears better (like Graphit.). Hardness of hearing, principally from elongation, induration and swelling of tonsils (after the abuse of Mercury). Clapping, throbbing, and rumbling in ears. Beating and humming in ears. Echo in ears of one's own speech. Cracking in ears during mastication. Swelling of parotids. Swelling of glands beneath and behind l. ear with stitches and tearing extending through the ear. Wen on the lobe of the ear. [Nit. ac. has a special but very ill-defined power in deafness and tinnitus. Woman, 55, deaf fifteen years with tinnitus in both ears, constant in l., intermittent in r., not > in noise; Nit ac. 200 caused great of noises for two days, then gradual cessation with complete relief of tinnitus in three days. In another lady Nit ac. 6 always = noises. In young man Nit ac. always = heavy, dull deafness with fulness of head as from a cold, a regular eustachian blockage. Deafness after measles, hiccough and clear expectoration (cured). R. T. C.].",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Double vision; sharp, sticking pains. Ulceration of cornea. Gonorrhœal ophthalmia, photophobia, constant lachrymation. Syphilitic iritis",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Eyes dull and sunken. Aching and shootings in eyes. Pressure and stinging in eyes. Inflammation of eyes, esp. after suppressed syphilis or after the abuse of Mercury. Ulceration of eyes. Fistula lachrymalis. Specks on cornea. Swelling of lids. Frequent lachrymation, esp. when reading, with painful sensitiveness of eyes. Difficulty to open eyes in morning (they are surrounded by a yellow circle). Paralysis of upper lids. The pupils contract with difficulty. Myopia. Diplopia. Mist, spots, nets, sparks, and black spots dancing before eyes. Sight confused, eyes clouded. Eyes dazzled by daylight. Double vision of horizontal objects. Obscuration of sight while reading; short-sighted. Iritis, which continually relapses; also old cases spoiled by Mercury. (Smarting of eyes after iritis. Constantly recurring pustular ophthalmia. Proliferation of cornea, result of scrofulous inflammation).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Ozæna. Green casts from nose every morning. Coryza, with sore and bleeding nostrils. Tip red. Stitches, as of a splinter in nose. Caries of mastoid. Nosebleed, with chest affections. Chronic nasal catarrh, with yellow, offensive, corrosive discharge. Nasal diphtheria, with watery and exceedingly excoriating discharge",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Redness of point of nose, which is covered with scabby vesicles. Itching tetters on alæ nasi. Shooting prickings in nose (as from splinters) when touched. Pain, as of excoriation, and burning, with scabs in nose. Bleeding of nose, excited by weeping, or in morning; the blood that is emitted is black. A fetid odour is perceived when breathing through nose. Fetid odour from nose. Condylomatous excrescence, like a sycosis in nose. Abortive sneezing. Dryness and obstruction of nose. Violent fluent coryza, with headache, cough, swelling and ulceration of nose (the mucus is only discharged through the posterior nares). Dry coryza, with dryness of throat and nose. Coryza, with dry cough, headache, hoarseness, and stitches in throat. Wings of nose inflamed and swollen. Discharge of thick and corrosive mucus from nose. Fetid and yellowish mucus in nose. Large soft protuberances on alæ covered with crusts; syphilis. (Ozæna with clear discharge.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Putrid breath. Salivation. Bleeding of gums. Painful pimples on the sides of the tongue. Tongue clean, red and wet with center furrow. Teeth become loose; gums soft and spongy. Ulcers in soft palate, with sharp, splinter-like pains. Salivation and fetor oris. Bloody saliva",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Dry. Pain into ears. Hawks mucus constantly. White patches and sharp points, as from splinters, on swallowing",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Odontalgia, with jerking, shooting, drawing, or pulsative pain, principally at night, or in bed, in evening. Pain in carious teeth. The teeth feel elongated. Pain on chewing. Stitching or boring pains in teeth when touched by anything cold or warm. Teeth become yellow and loose. Gums bleed, and are white and swollen. Stomacace. Offensive and putrid (cadaverous) smell from mouth. Excoriation of tongue, palate, and internal surface of gums, with acute shooting pains. Ulcers (mercurial and syphilitic) in mouth and fauces, with pricking pains. Ulcerated spots on inner surface of cheeks, with sticking pains as from a splinter. Corners of mouth ulcerated; with stitches. Tongue is very sensitive; even mild food causes a smarting sensation. White, dry tongue, in morning. Tongue: coated green (with ptyalism); coated yellow, sometimes white in mornings. Blisters and ulcers on tongue; and margins, with burning pain when touched. Bites tongue when chewing; and cheeks. Tongue sensitive, even to soft food, which causes smarting. Profuse flow of saliva. Saliva bloody in morning. Saliva has foul odour. Sour taste in mouth. Mucous membrane of mouth swollen and ulcerated; with pricking pains; after abuse of Mercury. Ranula. Salivation (also with ulcers on the fauces), sometimes from febrile attacks. Great dryness of the mouth, with burning thirst. Ulcer, with shooting pain in the mouth and throat. Inflammation of the throat; with shooting pains; also after the abuse of Mercury, or with burning and soreness, esp. on swallowing liquids. Tonsils (uvula and fauces) red and swollen. Great dryness and heat in the throat. Much mucus in the throat posteriorly. Sore throat on swallowing, as if swollen; raw and ulcerated. Burning sensation, and pain as of excoriation, in throat. Swallowing very difficult, as from constriction of the pharynx. Diphtheritic patches on tonsils and fauces, extending to mouth, lips, nose.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Great hunger, with sweetish taste. Longing for indigestible things-chalk, earth, etc. Pain in cardiac orifice. Dyspepsia with excess of oxalic acid, uric acid and phosphates in urine and great mental depression. Loves fat and salt (Sulph)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Great straining, but little passes, Rectum feels torn. Bowels constipated, with fissures in rectum. Tearing pains during stools. Violent cutting pains after stools, lasting for hours (Ratanh). Hæmorrhages from bowels, profuse, bright. Prolapsus ani. Hæmorrhoids bleed easily. Diarrhœa, slimy and offensive. After stools, irritable and exhausted. Colic relieved from tightening clothes. Jaundice, aching in liver",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Loss of appetite. Milk is not digested. Bitter taste in mouth, esp. after eating. Complaints while eating; from abuse of Mercury. Sour taste., with burning in throat. Sweetish taste in mouth. Violent thirst even in morning, on rising. Dislike to meat, and things sweetened with sugar. Repugnance to bread, which leaves a sour taste, and causes vomiting. Craving for earth, chalk, lime, or fat food, and herring. Sharp hunger, with disgust to life. Difficulty in digesting milk. Nausea from fat food. Sweat, during and after a meal. After drinking, during a meal, pain, as from excoriation in throat, œsophagus, and stomach, or else colic. After a meal, fulness in stomach, lassitude with heat, sweat, and palpitation of heart from least movement, or nausea, risings, flatulency, headache with vomiting, sleep, anguish, &c. Nausea after eating with heaviness and dulness of head. Sour risings. Inclination to vomit. Pyrosis. Water-brash, after drinking quickly. Hiccough. Frequent nausea, and inclination to vomit, often attended by anguish, trembling, and shivering. Bitter and sour vomitings, with frequent risings (after a meal). Stomach and abdomen tense after a moderate meal, clothes seem too tight. Aching of stomach. Burning, or sensation of coldness in stomach. Pain in cardia, on passing of food into stomach. Cramp in stomach. Lancinations in epigastrium. Stitches in hepatic region, from motion. Tensive pressure and shootings in the l. hypochondrium. Pains in the abdomen, like those which follow a chill. Excessive inflation of abdomen, also in morning. Frequent pinchings and incisive pains in abdomen (esp. in morning in bed). Pain, as from ulceration, in the lower part of the abdomen. Shootings in abdomen, esp. when touched. Inguinal hernia, even in children. Swelling and suppuration of inguinal glands. Tendency to suffer from a chill in abdomen (colic from cold). Accumulation of flatus in abdomen. Borborygmus as if a boiler was working in abdomen. (Sensation in abdomen like machinery working.). Rumbling and borborygmi in abdomen. Incarceration of flatus (in upper abdomen), esp. morning and evening.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Scanty, dark, offensive. Smells like horse's urine. Cold on passing. Burning and stinging. Urine bloody and albuminous. Alternation of cloudy, phosphatic urine with profuse urinary secretion in old prostatic cases",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Frequent want to urinate, with scanty emission of a fetid urine, deep-coloured or brownish. Incontinence of urine. Painful emission of urine. Micturition in a thin stream, as from a stricture. Urine cold when it passes. Fetid urine, having an intolerably offensive, strong smell, or smells like horse's urine. Urine reddish; usually offensive. Red sediment and sand in urine. Smarting and burning in urethra when urinating. Discharge of mucus, which is sometimes sanguineous, or of pus from urethra. Swelling (dark red) of orifice of urethra. Needle-like stitches in orifice of urethra. Ulcers in urethra. Discharge of prostatic fluid after a difficult stool.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Soreness and burning in glans and beneath prepuce. Ulcers; burn and sting; exude, offensive matter",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Affections of male genital organs in general; glans penis; erections. Violent itching in genital organs. Falling off of hair from parts. Excoriation between scrotum and thighs. Red spots covered with scabs on prepuce. Small, itching vesicles on prepuce, bursting soon and forming a scurf. Secretion behind glans, as in gonorrhœa balani. Swelling, inflammation of prepuce, and phimosis. Paraphimosis. Ulcers, like chancres (after Mercury; esp. with exuberant granulations), on prepuce and glans (with pricking, stinging pains). Deep, fistulous, irregular, ragged ulcers on the glans, with elevated, lead-coloured, extremely sensitive edges. Syphilis; secondary syphilis. Excrescences, like sycosis, on prepuce and glans, with smarting pain and bleeding when touched, with oozing of a fetid and sweetish pus. Red, scurfy spots on the corona glandis. Relaxation of testes. Inflammatory swelling of testes, with painful drawing of the spermatic cord, as far as side of abdomen. Absence of sexual desire and of erections. Great lasciviousness, with copious discharge of prostatic fluid. Painful, and almost spasmodic, nocturnal erections. Frequent pollutions.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "External parts sore, with ulcers (Hep.: Merc; Thuja). Leucorrhœa brown, flesh-colored, watery, or stringy, offensive. Hair on genitals falls out (Natr m, Zinc). Uterine hæmorrhages. Menses early, profuse, like muddy water, with pain in back, hips and thighs. Stitches through vagina. Metrorrhagia after parturition",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Itching, burning pain, and sensation of dryness in vulva. Great failing off of hair of genitals. Stitches up vagina, or from without inward, when walking in open air. Violent stitches in vagina. Excoriations in vulva between thighs. Ulcer, with burning itching in vagina. Excrescences on vaginal portion of uterus as large as lentils; great voluptuousness of mucous membrane in genitals after coitus. Uterine hæmorrhages from overexertion of body. Metrorrhagia, a principal remedy (R. T. C.). Coffee-ground, offensive discharge from uterus at climaxis, or after labour. Before menses: throbbing in nape of neck and small of back. Menses: too early and too profuse, blood very dark and thick; irregular, scanty, and like muddy water. During menses: eructations, cramp-like pail, in abdomen as if it would burst; very offensive urine; bruised pain in limbs; down thighs; labour-like pains in abdomen and back; palpitation of heart, anxiety, trembling; heaviness; burning in eyes; toothache and swelling of gums. After menses: violent pains through abdomen and a sudden gush of \"muddy water\"; brown or thick leucorrhœa, finally a thin, watery, flesh-coloured, offensive discharge, sometimes acrid; greenish, mucous leucorrhœa. White glairy leucorrhœa, followed by backache (cured, R. T. C.). Menses reappear: a few days after cessation, and are pale red; fourteen days after cessation, not profusely. Stringy mucous leucorrhœa, flesh-coloured. (Leucorrhœa staining, yellow. Leucorrhœa leaving spots with black borders on linen.). Catamenia too early; or suppressed. Cramps in the hypogastrium, and bearing down towards the genital organs, during catamenia. Fetid, mucous, corrosive leucorrhœa. Fetid discharge of a reddish brown colour (like brown water) from vagina. Hard nodosities on breast. Atrophy of breasts.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Hoarseness. Aphonia, with dry hacking cough, from tickling in larynx and pit of stomach. Soreness at lower end of sternum. Short breath on going upstairs (Ars; Calc). Cough during sleep (Cham)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Fetid foot-sweat, causing soreness of toes, with sticking pain; chilblains on toes. Sweating of palms, hands; cold, blue nails. Offensive sweat in axillæ at night",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Warts, large jagged; bleed on washing. Ulcers bleed easily, sensitive; splinter-like pains; zigzag, irregular edges; base looks like raw flesh. Exuberant granulations. Black pores on face, papules worse on forehead",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Dryness of the skin. Itching nettle-rash, also on face, and esp. in open air. Blackness of pores. Brown sphacelus. Reddish-brown spots (scattered over body, esp. if in dark-haired people) and deep-coloured ephelis on skin. Copper or violet-coloured spots. Itching tetters. Pimples, or exanthema in general; stinging exanthema. Pain from chilblains and corns on feet. In a moderately cold temperature limbs become as if frozen, inflamed, and itching, and skin cracks. Large furunculi. Mercurial ulcers. Carious ulcers. Complaints from punctured wounds. Wounds and ulcers, with lancinations as by splinters, or with burning pains (esp. when they are touched), and which bleed easily. Inflammation and painful sensitiveness of the bones. Caries. Inflammation, swelling, and suppuration of the glands. Ulceration of the bones. Rachitis. Ulcers with sanious, sanguineous, and corrosive suppuration. Pains in old scars on a change of weather. Condylomata moist, like cauliflower, hard, rhagadic, or in thin pedicles. Tightness of skin. Swelling of glands. Warts. Wens.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "while riding in carriage (Reverse: Cocculus)",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "evening and night, cold climate, and also hot weather",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "complementary": [
+        "Ars",
+        "Calad",
+        "Lac can",
+        "Sepia"
+      ],
+      "_raw": [
+        "Antidoted by: Calc., Hep., Merc., Mez., Sul. It antidotes: Calc., Dig., Merc. Compatible before: Calc., Puls., Sul.; Arn. (collapse in dysentery); Kre. (diphtheritic dysentery); Sec. (gangrene of mucous membrane); Sul. (scrofulous ophthalmia). Compatible after: Calc., Nat. c., Puls., Sul., Thuj. (Nupia); Carb. an. (bubo); K. ca. (phthisis, &c.); Aur. (abuse of Merc.); Mez. (secondary syphilis); Hep. (throat, &c.). Complementary: Calad., Ars. Resembles: Ars. (morbid fear of cholera). Incompatible: Lach. Compare: Medorrh., Syph., Pso., Mur. ac., Nit. mur. ac. Merc. (Merc. suited to light-haired people; Nit. ac. to dark). Dark-haired people, Iod. > Riding in carriage, Graph. (Graph. is not sensitive; Nit. ac. is). Spinal injuries, Arn., Rhus, Hyper., Calc. Punctured wounds, Led. On awaking, Lach., Nat. m., Sul. Hat on, Carb. v., Calc. p., Nat. c. Ingrowing toe-nail, Mgt. aust. Stringy leucorrhœa, K. bi. Pains appear and disappear suddenly, Lyc., Bell. Pains affect violently, Aco., Cham., Hep. Sensitiveness, Hep. Choking easily, K. ca. Warmth or cold, Merc. Dyspepsia from effects of salt, Nit. s. d. Shooting from below upward in vagina, Sul., Sep., Pul., Pho., Alum. Piles walking, Æsc. h. Phimosis, Can. s., Merc., Sul., Thuj. Strong odour of urine, Benz. ac. Brownish scattered spots in dark-haired people, Petr. Splinter pains, Arg. n., Hep., Sul. Ulcers, Merc. (Merc. more superficial, Nit. ac. deeper, granulating, bleeding easily). Sore, excoriated anus, Merc., Sul., Cham., Ars., Pul., Syph., Chi. Straining at stool, Merc., Nux (with Merc. there is straining before, during, and after stool; with Nux there is complete > after stool; with Nit. ac. there is excoriating, cutting pain going on for hours after stool). Ulcers threatening to perforate cornea, Sil., Calc. (Nit. ac. follows Calc.). Condylomata, enlarged tonsils (syphilitic or sycotic), fissures, balanorrhœa, greenish leucorrhœa, Thuj. (Nit. ac. has more aching in bones, especially bones without muscular coverings, as shin bones). Disposition to swear, Anac. Diphtheria, sore mouth, scarlatina, Ar. t. Constriction at anus, Lach."
+      ]
+    },
+    "dosing": {
+      "notes": "Sixth potency. As the nitric acid patient begins to improve skin symptoms may appear for a time, a favorable indication"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">NITRICUM ACIDUM Nitric Acid Selects for its special seat of action the outlets of the body where the mucous membrane and skin meet; these pain as from splinters. Sticking pains. Marked improvement of all symptoms while riding in a carriage. Acts best on the dark complexioned and past middle life. Syphilis, after abuse of Mercury. Pains appear and disappear quickly (Bell). Hydrogenoid constitution. Sycotic remedy. Blisters and ulcers in mouth, tongue, genitals; bleed easily. Fissures, with pain during stool, as if rectum were torn. All discharges very offensive, especially urine, feces, and perspiration. Persons who have chronic diseases, and take cold easily and disposed to diarrhœa. Excessive physical irritability. Cachexia, due to syphilis, scrofula, intermittent fever with liver involvement and anæmia, etc. Gravel; arthritis. Capillary bleeding after curettage.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "When strong Nitric acid comes in contact with the skin it destroys the upper layers and turns them yellow, but as it coagulates their albumen it to a certain extent forms a barrier against its own further action, its action therein differing from that of Sulphuric acid. When swallowed it acts as an irritant poison; when its fumes are inhaled it may destroy life by suffocative spasm of the glottis or by intense bronchitis. It is used in old-school practice as an escharotic for warts and warty tumours; for phagedænic ulcers, chancres, poisoned bites. The dilute acid is used internally in fevers to quench thirst; in bronchitis and phthisis to diminish the excessive secretions; in some cases of syphilis; in phosphaturia. It has even been injected into the bladder in a dilute form to dissolve calculi (Brunton). In the light of provings and poisonings all these uses are seen to have more or less specific relationship. \"Phthisis,\" \"syphilis,\" and \"warty growths\" represent Hahnemann's three miasms, Psora, Syphilis, and Sycosis; and Nit. ac. belongs almost equally to all three. But in addition to its miasm relationship, Nit. ac. has drug relationships of great importance. It is one of the chief antidotes of Merc., and it is in cases of syphilis that have been overdosed with Merc. that its action is most brilliant. I have known it do equally well when used after over-dosing with Kali iod., whether in syphilitic or non-syphilitic cases. In phthisical cases it follows the action of Kali c. in homœopathic practice. In sycotic cases Thuj. follows it well. The localities in which the action of Nit. ac. is very strongly marked are─(1) the muco-cutaneous orifices and adjoining parts. Burnett made a brilliant cure of actinomycosis with Nit. ac. 3x in a patient who had been the round of the London consultants, and had doubtless taken much Kali iod. The localities in which the disease manifested itself, the region of the mouth and anus, gave Burnett his indication. The mouth (especially its angles) and anus are prominent seats of syphilitic action, and also of the action of the other miasms, the condylomata and fissures of sycosis; the fissures, fistulæ, hæmorrhoids, and sore mouth of psora. The right eye, the male genitals, and the bones are other localities for which Nit. ac. has a very strong affinity. In his directions about this remedy Hahnemann makes the remark that it is rarely required by patients who suffer from constipation. In my experience this is absolutely wrong. Constipation, as the symptoms of the Schema would indicate, is a prominent indication for Nit. ac., and I have cured almost as many cases with this as with any other single remedy. I have generally found, when I have had an opportunity of testing them, that Hahnemann's positive directions are thoroughly trustworthy; but his negative directions are quite as likely to be wrong as right. The characteristic discharges of Nit. ac. are offensive, thin, excoriating; if purulent they are a dirty yellowish green, not laudable pus. Ulcers have profuse exuberant granulations, and bleed easily. The dressing causes bleeding, and every touch causes \"sticking pain as if from splinters.\" This is a grand keynote of Nit. ac., and will serve to indicate it wherever it is found. It requires a touch or movement to elicit it. When it occurs in the throat it requires the act of swallowing to set it up; in the anus, the passage of the stool; in ulcers, the touch of a dressing. It may occur from touch in any part of the body; in abdomen; in Ingrowing toe-nails. In the phthisical cases calling for Nit. ac. the chest walls are extremely sore to touch; there is sudden rush of blood to chest; hectic; frequent hæmorrhages, bright red, profuse; sharp stitches through right chest to scapula. Great dyspnœa, cannot talk for getting out of breath; morning hoarseness; cough tickling, seems to annoy all night; at times loose and rattling; loud râles through chest; sputa offensive, bloody, purulent, dirty green; exhausting diarrhœa; exhausting sweats towards morning, chilly; heat in flashes or only on hands and feet. The suffocating effect of Nit. ac. fumes is an indication of its affinity for the respiratory organs. Here is an example (H. W., xxiv. 537): A two-gallon bottle of Nitric acid in the store of Mr. Harold Woolley, of Manchester, had become fractured. Water was thrown upon the bottle, and whiting placed about it to neutralise the fumes which issued from the fracture. Mr. Woolley superintended the process, and was in contact with the fumes for two hours. This happened in the afternoon. Next day Mr. Woolley complained of being unwell, and although medical aid was promptly summoned he died at five o'clock in the afternoon, death being attributed to \"rapid congestion and inflammation of the lungs, in consequence of inhaling the fumes.\"─Nit. ac. is indicated in typhus when pneumonia supervenes; and when hæmorrhage from the bowels occurs. The stools are green, slimy, offensive, may be purulent; the hæmorrhages are profuse and bright red. With diarrhœa there is rawness and soreness of anus; the stool is putrid; in children may contain lumps of casein. Slimy stools, from excess of mucus passed with much straining. Or they may be (especially in scrofulous children) pale, pasty, sour, offensive. A keynote of Nit. ac. stools, whether loose or constipated, is pain after stool. There is pain during stool as if anus and rectum were torn and pierced, and violent pains after stool, lasting for hours. All the other orifices of the body are affected by Nit. ac.: Chancres and herpes about penis and prepuce; growths about vagina and cervix; leucorrhœa, immediately after menses; flesh-coloured, stringy, offensive. The nose, ears, and eyes are also influenced, and Nit. ac. is one of the first remedies in syphilitic eye affections, as iritis. Among the hæmorrhages of Nit. ac. is hæmaturia. Goullon published a case in Archiv., ii. 36. (New Series), translated by Mossa, Rev. H. Française, ix. 136. A painter's apprentice, 15, after gilding an object, was seized with vertigo, with coldness, and soon with violent pain in bladder region. Next day he passed pure blood, bright red, with frequent strangury; the urine separated itself distinctly from the blood. During short intervals the blood did not flow. Tongue white, swollen. Nit. ac. 3 one drop was given, and in twenty-four hours the boy was cured. The urine of Nit. ac. affords one of the most important of all its keynotes: Urine of a strong odour, like horses'; or extremely offensive. Whenever this occurs as a concomitant in any case it is likely that other symptoms will point to Nit. ac. Fetid sweats on feet, hands, or in axilla no less point to Nit. ac. Among the hæmorrhages of Nit. ac. are those occurring in cachectic women after confinement or abortion. H. N. Coons (Amer. Hom.) records the case of an anæmic woman, four weeks after miscarriage, had constant pelvic hæmorrhage, at times coming with a gush; constant heavy feeling, much standing or walking. Nit. ac. 2x, 20 drops in three ounces of water, a teaspoonful every two hours, quickly arrested bleeding and cured. As showing the value of peculiar symptoms, D. C. Perkins relates (Amer. Hom., xxii. 12) the case of a woman who said she was very ill, but could only describe her illness by saying that she\" felt like a pulp-mill.\" Nit. ac. has \"borborygmus as if a boiler was working in the bowels,\" and Nit. ac. proved to be the remedy. The sensitiveness to touch runs through the entire symptomatology, including the symptoms of the mind. The mind is weak, no ideas; if she exerts her mind thoughts vanish. Mind easily affected, inclined to weep. Hopeless despair. On the other hand, there is nervous excitability (especially after Merc.─-it is the excitable form of mercurialism that Nit. ac. best meets); peevishness; irritable, quarrelsome; fits of rage and cursing; inveterate ill-will unmoved by apologies. The head is sensitive to the slightest jar; to the rattle of waggons in the street, or even to the step of one walking across the floor. The head is very sensitive, even to pressure of hat; sensitive to combing, and on part lain on. Eruptions and ulcers bleed easily when touched. Eyes are sensitive to light. The ears present an exception, for deafness is > riding in a train or carriage. Sensitiveness of the head while out driving and stopping suddenly. The tongue is sensitive even to soft food. Nit. ac. is suited to: Persons of dark, swarthy complexion, with black hair and eyes; lean persons of rigid fibre; brunette rather than blonde nervous temperament. Persons suffering from chronic diseases who take cold easily and are disposed to diarrhœa. Old people with great weakness. Hydrogenoid constitutions. Peculiar sensations are: As if head in a vice from ear to ear over vertex. As if some one were forcibly pressing head; head tightly bound; constricted by tape; contused. As of a gathering in left temple. Pain as from splinters in eruption. As if warm water were flowing from and over eyes (first right, then left). As if teeth soft and spongy. As if abdomen would burst. As if a boiler working in bowels. As if a band round bones. As if dogs were gnawing flesh and bones, and as if sinews were being pulled up. As if ball of great toe had been frozen. As if splinters in great toe; in carbuncles, &c. Cramp-like pains, stinging, shooting, burning, pressure, and soreness. Excessive physical irritability, hysteria. Pains, even slight ones, affect him violently. Prostration, sick feeling, faints from least motion. Epilepsy > riding in carriage. Left-sided paralysis. Twitchings in various parts; frequent starts in upper part of body. Easily takes cold. Emaciated. Tedious suppuration. A characteristic accompaniment of Nit. ac. is \"Profuse sweat breaks out on hands and feet.\" When this occurs in spinal injuries Nit. ac. is the remedy (B. Simmons, H. P., ix. 327). W. M. James (Med. Cent., vi. 325) cured this remarkable case: A girl had frequent attacks of petit mal, sometimes as many as fifty a day between the periods. At the beginning of the menses she had spasms so violent that they dislocated both humeri. Nit. ac. 200 given persistently put an end to the attacks, gradually. The first few times after commencing Nit. ac. there were spasms but no dislocation. Mohr (H. R., xiii. 210) gave Nit. ac. 3x to a man who suffered from cancer of the liver with bloody diarrhœa, followed by constipation; violent pains in stomach and liver; unable to sleep; or unable to take any food without much pain, mostly vomiting. Nit. ac. removed the pain and relieved the constipation entirely, and the patient died without an hour's suffering from the time he received Nit. ac. J. H. Fulton cured with one dose of Nit. ac. 200 R. M., 28, who had had bleeding piles for eighteen months. He had frequent bloody and slimy stools; but always bright red blood after stools, from a dessertspoonful to half a teacupful. When the stools were hard there was much pain in passing them. Burning in anus after stools (Med. Adv., xxxiii. 268). The symptoms are by touch; pressure (of hat); > riding in carriage. Eating (during and after eating, sweat). Milk and fat food. Exercise, exertion, effort, raising. arm, walking, standing. Exerting mind. Lying down > headache. Night-sweat on parts lain on. Many symptoms come on towards morning. Cannot sleep after 2 a.m. Cough on rising, during day, and at bedtime. Many symptoms, including bone-pains, come on in night. Warmth and cold both . Warm weather hæmorrhoids; covering up = night-sweats. Least exposure = chills. Cold or warm things = tearing and shooting in teeth. Washing = warts to bleed. Cold weather chilblains. Cold water > warm water feeling in eyes. Winter chronic cough; hiccough; chilblains.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. NITRICUM ACIDUM. (Nitric Acid.) H NO 3 General Analysis.- Acts upon the blood, the mucous membranes, the glands, the bones, and the skin, its special action being upon the muco-cutaneous outlets of the body, the mouth, the rectum and anus, and the vagina. Intense irritation is produced, resulting in inflammation and destructive ulceration of the parts, even to gangrene. The whole action of Nitric Acid points to a violent dyscrasia or poison, resembling either the syphilitic, scrofulous, or mercurial miasms. Characteristic symptoms. Mind.- (Nitricum acidum) Nervous, excitable , easily startled and frightened. (Kali carb.) Irritable, peevish, vexed at trifles . (Acon.) Anxiety about his disease, with fear of death ( Ars., Acon ., Cimic.) ; depressed , despondent mood ; discontented ; inclined to weep. (Ign., Natr. mur., Puls., Rhus tox .) Weakness of memory (Anac., Lach., Nux m., Phos.) ; aversion to mental exercise. (Phos. ac., Nux v.) Head.- (Nitricum acidum) Vertigo in the morning, on rising. (Alum., Bry., Phos., Lyc .) Congestion to the head, with much heat in it. Headache in the morning on waking (Natr. mur.), disappearing on rising. Headache, as if the head were tightly bound up ; as if in a vise. (Gels., Kali iod., Nitr. ac., Merc., Sulph.) Feeling of fullness and pressure in the head. Drawing and stitching pains in the temples. Profuse falling off of the hair . ( Graph ., Hep. s., Merc., Lach., Natr. mur., Lyc., Petrol., Phos., Sep ., Sulph.) Scabby, moist, itching eruption on the scalp. ( Graph .) Offensive scurf on the scalp. Painful sensitiveness of the scalp (Acon., Baryt. c., Cinch., Merc ., Natr. mur.), even to the pressure of the hat. ( Carb. v., Sil .) Eyes.- (Nitricum acidum) Double vision of horizontal objects . (Aur., Bell., Cic., Stram.) Obscuration of sight while reading ; short-sighted. Iritis, which continually relapses ; also old cases spoiled by Mercury. Inflammation of the eyes, after syphilis, or the abuse of Mercury. Pressure and stinging in the eyes. Spots on the cornea. (Euphr., Sil., Sulph.) Paralysis of upper lids. (Caust., Gels., Plumb.) Biting and stitches in the eyes. Ears.- (Nitricum acidum) Hardness of hearing after the abuse of Mercury. (Staph.) Swelling of the glands beneath and behind the ear. Offensive purulent discharge from the ear. (Aur., Graph., Hep. s., Merc.) Stitches in the ears. (Coni., Graph. Kali carb.) Roaring and cracking in the ears. Nose.- (Nitricum acidum) Violent coryza, with soreness and bleeding of the nose . (Brom.) Tip of nose red (Bell., Rhus tox.) ; nostrils ulcerated and sore . (Alum., Ant. crud ., Aur., Graph., Kali bi., Puls .) Dry coryza, nose obstructed, throat dry. Offensive yellow matter is blown from the nose. ( Puls .) Stitches as from a splinter in the nose, on touch. Large, soft protuberances on alae, covered with crusts ; syphilis. Face.- (Nitricum acidum) Yellowness of the face (Hep. s., Natr. mur., Sep.) about the eyes, with red cheeks. Suppurating pustules, with broad red circumferences, forming crusts ; syphilis. Bones of the face painful. (Carb. v., Hep. s., Kali bi.) Lips are swollen and itch. Eruption of pimples on the face. Dark freckles on the face. (Natr. carb.) Mouth.- (Nitricum acidum) The teeth become yellow or loose ; pain on chewing. ( Merc ., Carb. an.) Stitching, tearing, or boring pains in teeth, when touched by anything cold or warm. Gums white, swollen, bleeding. (Carb. v., Kali nit., Merc., Phos.) Blisters and ulcers on the tongue (Borax, Nux v., Sep., Thuja) ; and on its margins, with burning pain when touched. (Merc.) He bites the tongue when chewing. (Ign.) Tongue sensitive, even to soft food, which causes smarting. (Carb. v.) Ulcerated spots on inner surface of cheeks, with sticking pains as from a splinter. Corners of mouth ulcerated . (Ant. crud., Graph ., Lyc.) Foul odor from the mouth . (Arn., Aur., Iodi.) Dryness and intense burning in mouth and fauces. ( Ars., Canth ., Caps., Merc. cor. ) Mucous membrane of mouth and throat swollen and ulcerated ; with pricking pains ; after abuse of Mercury. Profuse flow of saliva . ( Iodi ., Ign., Kali iod., Merc .) Saliva bloody. (Sulph.) Sour taste in the mouth. (Calc. c., Cinch., Mag. carb.) Tongue coated green, with ptyalism. Throat.- (Nitricum acidum) Heat and dryness in the throat. Much mucus in the throat posteriorly. Sore throat on swallowing, as if swollen ; raw and ulcerated. Pricking as from a splinter in the throat ( Alum., Arg. nit., Hep. s .), worse when swallowing. Stitches in throat and fauces. Cracking in maxillary articulation when chewing. Diphtheritic membrane on tonsils and fauces, extending to mouth, lips, nose. (Merc. iod., Phyt.) Swallowing very difficult, as from constriction of the pharynx. (Bell.) Stomach.- (Nitricum acidum) Loss of appetite. (Ars., Calc. c., Cinch ., Natr. mur., Sulph.) Violent thirst. ( Acon., Ars., Bry., Sulph .) Many eructations before and after eating. Nausea and vomiting of mucus and food ; of tenacious, purulent, and bloody mucus. (Phos.) Stitches in pit of stomach. Abdomen.- (Nitricum acidum) Abdomen distended, with flatulence (Carb. v., Cinch.) ; very tender. Stitches in hepatic region. Pressure in left side of abdomen. Cutting and pinching pains in abdomen. (Coloc.) Incarcerated flatulence, worse mornings and evenings. Inguinal hernia ; also of children. (Alum., Nux v.) Swelling and suppuration of inguinal glands. ( Calc. c ., Merc., Thuja.) Stool and Anus. - (Nitricum acidum) Haemorrhoids ; protruding ; swollen ; bleeding ; painless or burning. Itching in the anus. ( Sulph., Sil .) Burning sensation in rectum and anus . ( Ars ., Canth.) Sticking in rectum, and spasmodic constriction in anus during stool ; fissures . ( Natr. mur ., Phyt.) Pain as if rectum would be torn asunder during stool. Stools dysenteric ; bloody, with tenesmus (Merc.) ; black offensive blood (Ars.) ; mucous. Moisture and soreness about the anus. Painful constipation, stool evacuated in hard masses. (Alum., Bry., Sulph.) Urinary Organs.- (Nitricum acidum) Smarting and burning in the urethra during and after urination. (Acon., Ars., Canth ., Coni.) Discharge of bloody mucus and pus from the urethra. (Natr. mur., Merc. cor.) Needle-like stitches in the orifice of the urethra. Frequent urging to urinate, with scanty discharge. (Apis, Coloc., Hell., Merc .) Urine is cold when passed. Urine scanty, dark-brown ; smelling intolerably strong ( Benz. ac .), like horse's urine. (Absinth., Natr. carb.) Male Organs.- (Nitricum acidum) Superficial ulcers, like chancres, on the glans and prepuce . (Hep. s., Phyt.), looking clean, but exuding an offensive moisture . (Merc.) Ulcers deep, fistulous, irregular, ragged ; edges often raised, lead-colored ; bleed easily when touched ; syphilis. Chancres after Mercury, especially with exuberant granulations. Secondary syphilis ; condylomata ; phimosis. Sycotic excrescences on the glans (Staph., Thuya ) ; bleeding when touched . Vesicles on the prepuce, becoming covered with small, dry scabs. Sharp stitches in the prepuce. Itching of the prepuce. Violent erections at night. (Graph.) Sexual desire too strong or absent. Female Organs.- (Nitricum acidum) Itching on the pudenda. (Merc., Natr. mur., Sulph.) Ulcers in the vagina, burning and itching. (Coni., Sulph.) Leucorrhoea offensive ; green mucus., cherry-colored ; flesh-colored. Excrescences on cervix uteri. Respiratory Organs.- (Nitricum acidum) Hoarseness. ( Acon., Hep. s., Phos .) Loss of breath ; palpitation and anxiety on ascending steps. Empyema, with considerable muco-purulent sputum. Cough more during the night, or when lying down during the day. Rough, dry cough before midnight. Stitches in right side of chest. (Bry., Kali carb .) Purulent, yellowish expectoration with the cough. Congestion to upper part of chest. Oppression and fullness in chest. Neck and Back.- (Nitricum acidum) Stitches in and between the shoulder blades. Rigidity of the nape of the neck. Pain in back and small of back. Swelling of the glands of the neck and axillae. (Baryt. c., Calc. c., Iodi., Staph.) Pain between the scapulae. Upper Limbs.- (Nitricum acidum) Drawing pain in both arms. Pressive pain in the shoulders. Falling asleep of the hands. Lower Limbs.- (Nitricum acidum) Bruised pain, as from excessive fatigue. (Cinch., Calc. c.) Tearing in lower extremities, especially at night. Violent cramp in calf at night. (Calc. c., Nux v., Sulph .) Chilblains on the toes. (Agar., Puls., Zinc.) Offensive, profuse perspiration on feet (Baryt. c., Sep., Sil .), causing soreness, with sticking pains, as if he were walking on pins. Constant coldness of feet. Stiffness and stitches in the knees. Cracking in the ankle while walking. Generalities.- (Nitricum acidum) Excessive emaciation. (Ars., Ferr., Graph., Phos., Natr. mur .) Much inclined to take cold. So weak, almost constantly obliged to lie down. (Sil.) Frequent drawing pains in almost all parts of the body, suddenly appearing and disappearing. Stitches, and sticking pains as from splinters, especially on touch , in all parts of the body. Glands inflamed, swollen, suppurating. (Hep. s., Graph.) Skin.- (Nitricum acidum) Skin dry and scaly ( Ars .) ; yellowness of the skin. Rhagades, deep, bleeding. Ulcers, with stinging and pricking pains, as of splinters ; edges irregular ; exuberant granulations ; after Mercury, or in secondary syphilis. Condylomata moist, like cauliflower, hard, rhagadic, or in thin pedicles. Sleep.- (Nitricum acidum) Difficulty of going to sleep in evening ; wakens too early in morning, or difficult waking. Restless, disturbed sleep, and frequent waking with a start. Anxious sleep, with throbbing. Fever.- (Nitricum acidum) Chill afternoon and evening, on lying down. (Nux v.) Flushes of heat, with perspiration on the hands. Heat, especially at night, with excessive thirst. Frequent heat in face and hands. Profuse, offensive night sweats, every other night . Perspiration in the morning . (Calc. c., Chin., Rhus tox.) Aggravation.- (Nitricum acidum) In evening and at night ; in morning ; from change of temperature or weather ; on waking ; while walking ; on rising from a seat ; from touch. Amelioration.- (Nitricum acidum) While riding in a carriage. (Reverse, Coccul.) Therapeutic Range.- (Nitricum acidum) Syphilitic and sycotic affections ; bad effects from the abuse of Mercury ; affections of bones and glands ; ulcers on mucous and cutaneous surfaces, especially of mercurial or syphilitic origin ; ophthalmia ; catarrh ; angina ; diphtheria ; constipation ; haemorrhoids ; leucorrhoea ; gonorrhoea ; jaundice ; rheumatism. Conditions.- (Nitricum acidum) Especially useful in dark-complexioned persons ; old people. Compare.- (Nitricum acidum) Calc. c., Hep. s., Kali bi., Kali iod., Merc ., Mez., Mur. ac ., Sil., Thuja . Nitric Acid follows well after Calc. c., Hep. s., Kali c., Natr. carb., Puls., Sulph., Thuja. After Nitric Acid are often indicated Calc. c., Puls., Sulph. Antidotes.- (Nitricum acidum) Calc. c., Camph., Hep. s., Merc., Mez., Sulph. To large doses: alkalies, soap, magnesia, etc. Nitricum Acidum Antidotes.- Calc. c., Digit., Merc. Copyright © Robert Séror 2003",
+        "source_id": "cowperthwaite-textbook-1891"
+      },
+      {
+        "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Nitricum Acidum",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Generalities: Great general weakness; feeble reaction; extreme sensitivity, and nervous trembling, are marked features in this remedy.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Patients greatly broken by long suffering, pain and sickness, physical more than mental suffering, finally anemia and emaciation are marked.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sensitive to cold; always chilly. Symptoms are aggravated from becoming cold, and in cold air. Always taking cold.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The walls of blood vessels are relaxed and bleed easily; profuse dark blood. Pains as if flesh were torn from the bones and a sensation as though a splinter felt in inflamed parts, in ulcers and in nerves. Inflammation of the periosteum, in bone, and in the nerves. Syphilitic bone pains. Caries of bone, and exostoses.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The margins of orifices bleed and grow warts. Old scars become painful in cold weather and when weather changes to cold; pains like splinters. Inflammation of glands after the abuse of mercury in syphilitic subjects. Prolonged suppuration in glands, with no tendency to repair, when there are sticking pains.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The discharges are thin, bloody, offensive and excoriating; sometimes a dirty yellowish green. Suppuration where there is no tendency to repair. This is often the case when the patient is syphilitic and has been surcharged with mercury. For suppuration and ulceration in cancerous affections with bloody, watery, offensive discharges and sticking pains. It has often been observed that the patient requiring Nitric acid is more subject to diarrhea than constipation.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It has cured many complaints in patients who are never so comfortable as when riding in a carriage. Twitching of muscles in all parts of the body. Many complaints are aggravated from a jar, and from noise. Even his pains are aggravated from noise.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Nitric acid patients are often extremely sensitive to medicines, especially high potencies indeed, they prove every remedy given too high. Fissures form in many places; canthi, corners of the mouth, above the anus; the skin cracks - and all these have the splinter sensation.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "He finally becomes dropsical, especially in the extremities. Offensiveness is a marked condition of this patient, often putrid odors. The urine smells like that of a horse. Offensive leucorrhoea, offensive catarrh, and breath; foetid foot sweat. Strong odors from the body. Too much weight must not be given to the dark, swarthy complexion so often mentioned as the one most likely to need this remedy. Nitric acid will cure blondes as often as brunettes, if the symptoms agree.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Mind: Prostration of mind.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Any effort to reflect on certain things causes the thoughts to vanish. A general indifference to all matters; tired of life; has no enjoyment in anything; aggravated before menses.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Mental depression in the evening. Anxiety about his failing health, with fear of death. Anxiety after loss of sleep; vexation and sorrow. He is angered over his own mistakes. Anger with trembling. Obstinate and refuses to be comforted about his misfortune. He is weary of life but fears death.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Excitable and weeps. Despair of recovery. Hopelessness. Easily startled, frightened. Starts from fright on falling asleep. Cannot comprehend what is said to him. The whole mental state is better when riding in a carriage.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Head: Suffers much from vertigo in the morning; must lie down.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "His headaches are violent, aggravated from noise of wagons on the paved streets, but often ameliorated from riding in a carriage on a smooth, country road.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The noise and jarring increase the pain, Pain as if in a vise from car to car. The biparietal syphilitic pain is often cured by this remedy. Pain as though the head were bound up. Painful drawing in head extending to eyes, with nausea. Stitching pains in the head. Hammering pain in the head. Pain in morning on waking, ameliorated after rising, aggravated by a jar, motion and noise, ameliorated riding in a carriage. Heat often ameliorates the head pains and cold aggravates.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Wrapping up ameliorates. Pain as if constricted by a tape. Extreme sensitivity of the scalp and skull to combing the hair, and to the hat. The hair falls out in profusion, as in syphilis. Eruption on the scalp with sharp sticking pains as from splinters; moist, itching, offensive eruptions. Caries of bones of skull. Exostoses.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Eyes: The eyes have lost their lustre, the pupils are dilated, and there is diplopia.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There is inflammation of the conjunctiva with acrid tears. Ulceration of the cornea with pricking pain. Iritis with stinging, stitching pain, aggravated at night and changing from warm to cold room or in cold air. Spots on the cornea. Intense photophobia, burning, pressure and sensation as though sand in the eyes.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ptosis. Swollen lids, which are hard and burn. Small warts on upper lids. Warts that bleed easily, with sensation of sticks.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ears and nose: Deafness, ameliorated when riding in a carriage or train.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Catarrh of the Eustachian tubes. Pulsating in cars. Discharge from ear, foetid, brown, ichorous, purulent-since scarlet fever. The auditory canal nearly closed. Swelling of glands about the ear. Caries of the mastoid.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Subject to coryza every winter; no sooner does be get over one cold than he has another. The nose is obstructed in the night during sleep. Sneezing in cold air, from every draft, must keep the room very warm. Bad smells in the nose, and the catarrh is offensive to others.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Nosebleed mornings and nights. Nasal catarrh, acrid, watery at night, yellow, offensive, excoriating, bloody, brownish, thin - since scarlet fever or in mercurio-sypbilitic patients. The nose feels as if there were splinters in it. Large crusts from high up in nose. Green crusts blown out every morning. Ulceration high up in nose. Warts form in and about the nostrils. Red, scurfy tip of nose. Crusts form on the wings of the nose. Cracked nose.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Face: Deep lines of suffering characterize the Nitric acid face.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The face is pale, yellow, sallow and sunken. The eyes are sunken. Dark rings about the eyes, mouth and nose. The face is bloated. The lids are tumid in the morning. There are brown spots. Pigmented warty' spots on the forehead. The right parotid is large. The skin feels drawn over the face. Crusts and pustules form on the face, Cracking in-jaw when chewing.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Corners of the mouth cracked, ulcerated and scabby. The lips raw and bleeding. Painful swelling of the sub maxillary gland. The expression is anxious, haggard, sickly.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Teeth and mouth: Pain in the teeth, tearing, aggravated from cold or warm things.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pulsating evening and night, after mercury. Caries of teeth. Teeth become yellow. Gums bleed easily, scorbutic, swollen.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The tongue is excoriated, sore, red, yellow, white and dry, fissured, with sore spots. Ulceration of tongue with viscid mucus in mouth. Inflammation of the tongue.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ulcers in mouth, on tongue or in throat, white, or dark and dirty, putrid, phagedenic, syphilitic, with sticking pains as from splinters. Sore mouth with stinging, burning pain. Excoriated, red, swollen membrane. Foul cadaveric odor from the mouth. Saliva flows from the mouth so acrid that it excoriates the lips.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Throat: Confusion of the muscular action in throat causes food to stop in throat and choking.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Difficult swallowing. Violent pain in throat, extending to ear on swallowing. Sticking in throat like a splinter (Hepar, Nat. mur. Alum., Arg. n.) on swallowing.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Viscid mucus in throat. Mucus drawn from posterior nares. Inflammation of throat, tonsils, uvula and soft palate. Uvula and tonsils oedematous (Apis, Rhus t.).",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Great swelling of the throat and tonsils. Ulceration of tonsils, uvula and soft palate. Inflammation of the oesophagus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Stomach and liver: Longing for fats, pungent things, herring, chalk, lime, earth; and aversion to bread and meat.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Generally thirstless.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The stomach is disordered by milk. Food sours, and causes sour eructations and vomiting. Fats disagree. Nausea after eating, ameliorated by moving about or riding in a carriage. Vomiting bitter and sour, contents of stomach. Ulceration of stomach.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain in cardiac, opening of stomach on swallowing. Sticking pain in stomach. Catarrh of stomach. Weight after eating. Sensation of rawness in stomach after eating.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Chronic inflammation of liver.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Clay-colored stools. Enormously enlarged liver. Pain in region of liver with jaundice. Stitching pain in liver. Enlarged spleen.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Abdomen: Cramping pain in abdomen.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Violent pain in ilio-coecal region, sore and tender, aggravated from motion. Awakened at midnight with a crampy pain in abdomen; chilly; pain aggravated from motion.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Rumbling in abdomen. Abdomen distended and tender. Great soreness in abdomen. Inflammation and suppuration of inguinal glands.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The relaxed condition in weakly infant boys. that so much disposes to inguinal hernia, is often overcome by Nitric acid and the hernia cured (Lyc., Nux v.).",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Broken down subjects who are disposed to suffer from frequent attacks of diarrhea, or from constipation alternating with diarrhea, often need this remedy when the urine smells strong like that of a horse, and he is pale and sickly, losing flesh and strength, subject to excoriation of orifices and excoriating catarrhs and ulcers.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The stool is bloody, putrid, undigested, green, slimy, excoriating, sour, curdled if milk is used as a diet, black putrid blood. In dysentery. Cold changes of the weather bring on diarrhea.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Anus excoriated, burning, fissured, covered with warts. Membrane comes with the stool. Much pure blood with the stool not even clotted, very offensive.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ineffectual urging to stool. Sensation as if rectum were filled and he cannot expel it. Constipation, painful hard difficult stool. Drawing, cutting and pressing before stool; constant fruitless urging (Nux v.).",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "During stool there is colic, tenesmus, spasmodic contraction of anus, unsatisfactory straining. Splinters in rectum.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "After stool there is still urging (Merc.), exhaustion; soreness of anus; cutting pain; burning and shooting in rectum; constriction of anus; great nervous excitement; palpitation.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The pain keeps her in bed for hours after every stool. Itching and burning in anus. Constant acrid moisture about the anus. Periodical bleeding of rectum and pain in sacrum. Fissures of anus. Painful prolapsus of rectum. This has been a most useful remedy in fistula. fissures, condylomata, polypi, caruncles, cancer of the rectum and hemorrhoids, when the symptoms agree. It has cured caruncles so sensitive that the patient would cry out when they were touched.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Hemorrhoids that are exquisitely painful to touch and at stool; that bleed, external or internal, with burning and sticking during stool. Piles that ulcerate and discharge copiously of blood and pus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "When piles are so painful that she breaks out in sweat, becomes anxious, and pulsates all over, on the slightest touch or at stool, this remedy has been useful (compare Paonia and Staph.). Foetid moisture at the anus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Men: The male sexual organs are in a constant state of irritability.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sexual desire is increased and erections troublesome at night. Painful spasmodic erections at night; stitching pain in the urethra and chordee. It has been a useful remedy in gonorrhea when the discharge is thin and bloody, later when it is greenish or yellow; burning and sticking on urination, and the urethra is swollen and very sore.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It has cured condylomata which have the \"splinter\" sensation, and bleed easily, and extremely sensitive to touch. Condylomata on genitals and around the anus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Inflammation of the prostate gland with gonorrhea, especially when the discharge becomes scanty from taking cold or from strong injections. It cures old cases of gleet when the urethra has pain in it like a splinter on touch or when urinating.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Prolonged inflammation of the urethra with infiltration, making the urethra feel hard and nodular like a whip-cord (Arg. n.). Sore spots in the urethra, ulcers, with bloody pus, and the sensation of splinters. Itching in the urethra after gonorrhea (Petr.).",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pimples, vesicles, herpes and crusts on the prepuce. Small ulcers on the glans or prepuce. Spreading ulcers.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The ulcers discharge a brown, bloody water, offensive. Phagedenic ulcers (Ars., Aur. m. n., Caust., Merc. c.). Inflammation of the prepuce.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ulcers that destroy the froenum. Inflamed and ulcerated parts have the splinter sensation and flow a bloody water. Paraphimosis and phimosis and great swelling. The hair falls off from the pubes.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Women: The female is greatly troubled by the constant itching and burning and sexual desire.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Excoriation of the parts from leucorrhoea and menstrual discharges. Every exertion brings on uterine hemorrhage (Calc.). The menstrual flow is dark and thick. Menses too soon and profuse, like bloody, water.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Uterine prolapsus. Many and extreme nervous sufferings come during the menstrual period; flatulence, bruised pain in limbs, pain down thighs, \"splinter\" under the finger and toe nails, palpitation, anxiety, trembling, neuralgic pains in any part.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "After the menses there comes a muddy, watery flow, lasting many days, and extreme excoriation of the parts. Thin, bloody, excoriating leucorrhoea at all times or at any time.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The vagina is excoriated and condylomata grow upon the genitalia. Erectile tumors. Caruncles at the orifice of urethra, exquisitely sensitive to touch. The itching is aggravated by cold. The parts are fissured and bleed easily.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Many troubles culminate during menses and lactation. Lumps in the mammae. The nipples are fissured and tender, are excoriated and have \"splinters.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Tendency to abortion from general weakness and the ease with which a uterine hemorrhage may set in.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Larynx: Hoarseness, and ulceration of the larynx.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Voice lost. Laryngitis in old syphilitic subjects. Oppression of the chest, ameliorated by expectoration. Shortness of breath. Intermittent breathing.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The cough is aggravated in winter, yet aggravated in a warm room and from becoming warm. The cough is dry, barking, aggravated during the night, aggravated lying, aggravated before midnight; comes on during sleep. Cough with hectic fever and night sweats.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Paroxysmal cough with retching, like whooping cough, violent, racking cough. Hard, prolonged coughing spells with difficult expectoration. The irritation to cough is like a tickling in the larynx.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The expectoration is greenish, viscid or thin, dirty, watery, bloody mucus, or dark clotted blood. Loose cough in daytime, dry at night. Rattling in daytime, but no expectoration. Cough in broken-down constitutions, from liver and lung affections, in tubercular subjects.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The sputum tastes bitter, sour or salty. It is offensive, even putrid. He is covered with sweat during efforts to expectorate. Stitching in the chest. In typhoid pneumonia, with rattling in the chest, inability to expectorate, or when he can expectorate the sputum is brown and bloody, and the urine smells like that of a horse. In tuberculosis with night sweats and haemoptysis. Palpitation from excitement, on ascending stairs. The pulse is rapid, irregular, and every fourth beat is missed.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Swelling of glands of neck and axilla. Stiff neck. Stitching pains in back and chest. Burning spots in spine. Pain in back, nights, compelling him to lie on the abdomen. Sharp pains in back and limb in tabes dorsalis. Sharp pains in back on coughing.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Rheumatic pains in limbs. Emaciation of upper arms, and thighs. Weakness of limbs. Dropsy of limbs. Crippled nails. Rheumatic pains in upper limbs. Stitching. Sticking pains in limbs in cold weather. Numbness of arms and hands. Copper colored spots on arms. Chilblains on hands and fingers. Cold, sweaty hands. Numerous large warts on back of bands. Herpes between the fingers. Vesicles on the tip of the thumb that open into ulcers, felons, distorted and discolored nails.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Yellow curved nails, splintered sensation under nails. It is useful in wounds that inflame and have the \"splinter\" sensation. Tearing in the long bones of the lower limbs at night. The legs are weary and bruised. Pain in hip as if sprained. Sticking pains along the nerves as from splinters. Syphilitic nodes on the tibia with nightly pains. Chilblains on the feet and toes. Phagedenic blisters on the toes (Graph.). Extreme soreness of the tibia. Profuse, offensive sweat of feet.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Shocks on going to sleep (Agar., Arg. n., Ars., Nat. m.). The pain comes during sleep. Starting in sleep. Anxious, unrefreshing sleep, with frightful dreams.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Nitric acid is a very useful remedy in fevers. The thirstlessness during all stages has often called attention to it. Cold hands and feet. Chronic intermittent in cachectic constitutions, copious night sweats. extreme weakness, with the characteristic odor of the urine, and bleeding from some part a dark blood, this remedy will act well.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "LECTURES ON HOMOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror Nitricum Acidum Generalities : Great general weakness; feeble reaction; extreme sensitivity, and nervous trembling, are marked features in this remedy. Patients greatly broken by long suffering, pain and sickness, physical more than mental suffering, finally anemia and emaciation are marked. Sensitive to cold; always chilly. Symptoms are aggravated from becoming cold, and in cold air. Always taking cold. The walls of blood vessels are relaxed and bleed easily; profuse dark blood. Pains as if flesh were torn from the bones and a sensation as though a splinter felt in inflamed parts, in ulcers and in nerves. Inflammation of the periosteum, in bone, and in the nerves. Syphilitic bone pains. Caries of bone, and exostoses. The margins of orifices bleed and grow warts. Old scars become painful in cold weather and when weather changes to cold; pains like splinters. Inflammation of glands after the abuse of mercury in syphilitic subjects. Prolonged suppuration in glands, with no tendency to repair, when there are sticking pains. The discharges are thin, bloody, offensive and excoriating; sometimes a dirty yellowish green. Suppuration where there is no tendency to repair. This is often the case when the patient is syphilitic and has been surcharged with mercury. For suppuration and ulceration in cancerous affections with bloody, watery, offensive discharges and sticking pains. It has often been observed that the patient requiring Nitric acid is more subject to diarrhea than constipation. It has cured many complaints in patients who are never so comfortable as when riding in a carriage. Twitching of muscles in all parts of the body. Many complaints are aggravated from a jar, and from noise. Even his pains are aggravated from noise. Nitric acid patients are often extremely sensitive to medicines, especially high potencies indeed, they prove every remedy given too high. Fissures form in many places; canthi, corners of the mouth, above the anus; the skin cracks - and all these have the splinter sensation. He finally becomes dropsical, especially in the extremities. Offensiveness is a marked condition of this patient, often putrid odors. The urine smells like that of a horse. Offensive leucorrhoea, offensive catarrh, and breath; foetid foot sweat. Strong odors from the body. Too much weight must not be given to the dark, swarthy complexion so often mentioned as the one most likely to need this remedy. Nitric acid will cure blondes as often as brunettes, if the symptoms agree . Mind : Prostration of mind. Any effort to reflect on certain things causes the thoughts to vanish. A general indifference to all matters; tired of life; has no enjoyment in anything; aggravated before menses. Mental depression in the evening. Anxiety about his failing health, with fear of death. Anxiety after loss of sleep; vexation and sorrow. He is angered over his own mistakes. Anger with trembling. Obstinate and refuses to be comforted about his misfortune. He is weary of life but fears death. Excitable and weeps. Despair of recovery. Hopelessness. Easily startled, frightened. Starts from fright on falling asleep. Cannot comprehend what is said to him. The whole mental state is better when riding in a carriage. Head : Suffers much from vertigo in the morning; must lie down. His headaches are violent, aggravated from noise of wagons on the paved streets, but often ameliorated from riding in a carriage on a smooth, country road. The noise and jarring increase the pain, Pain as if in a vise from car to car. The biparietal syphilitic pain is often cured by this remedy. Pain as though the head were bound up. Painful drawing in head extending to eyes, with nausea. Stitching pains in the head. Hammering pain in the head. Pain in morning on waking, ameliorated after rising, aggravated by a jar, motion and noise, ameliorated riding in a carriage. Heat often ameliorates the head pains and cold aggravates. Wrapping up ameliorates. Pain as if constricted by a tape. Extreme sensitivity of the scalp and skull to combing the hair, and to the hat. The hair falls out in profusion, as in syphilis. Eruption on the scalp with sharp sticking pains as from splinters; moist, itching, offensive eruptions. Caries of bones of skull. Exostoses. Eyes : The eyes have lost their lustre, the pupils are dilated, and there is diplopia. There is inflammation of the conjunctiva with acrid tears. Ulceration of the cornea with pricking pain. Iritis with stinging, stitching pain, aggravated at night and changing from warm to cold room or in cold air. Spots on the cornea. Intense photophobia, burning, pressure and sensation as though sand in the eyes. Ptosis. Swollen lids, which are hard and burn. Small warts on upper lids. Warts that bleed easily, with sensation of sticks. Ears and nose : Deafness, ameliorated when riding in a carriage or train. Catarrh of the Eustachian tubes. Pulsating in cars. Discharge from ear, foetid, brown, ichorous, purulent-since scarlet fever. The auditory canal nearly closed. Swelling of glands about the ear. Caries of the mastoid. Subject to coryza every winter; no sooner does be get over one cold than he has another. The nose is obstructed in the night during sleep. Sneezing in cold air, from every draft, must keep the room very warm. Bad smells in the nose, and the catarrh is offensive to others. Nosebleed mornings and nights. Nasal catarrh, acrid, watery at night, yellow, offensive, excoriating, bloody, brownish, thin - since scarlet fever or in mercurio-sypbilitic patients. The nose feels as if there were splinters in it. Large crusts from high up in nose. Green crusts blown out every morning. Ulceration high up in nose. Warts form in and about the nostrils. Red, scurfy tip of nose. Crusts form on the wings of the nose. Cracked nose. Face : Deep lines of suffering characterize the Nitric acid face. The face is pale, yellow, sallow and sunken. The eyes are sunken. Dark rings about the eyes, mouth and nose. The face is bloated. The lids are tumid in the morning. There are brown spots. Pigmented warty' spots on the forehead. The right parotid is large. The skin feels drawn over the face. Crusts and pustules form on the face, Cracking in-jaw when chewing. Corners of the mouth cracked, ulcerated and scabby. The lips raw and bleeding. Painful swelling of the sub maxillary gland. The expression is anxious, haggard, sickly. Teeth and mouth : Pain in the teeth, tearing, aggravated from cold or warm things. Pulsating evening and night, after mercury. Caries of teeth. Teeth become yellow. Gums bleed easily, scorbutic, swollen. The tongue is excoriated, sore, red, yellow, white and dry, fissured, with sore spots. Ulceration of tongue with viscid mucus in mouth. Inflammation of the tongue. Ulcers in mouth, on tongue or in throat, white, or dark and dirty, putrid, phagedenic, syphilitic, with sticking pains as from splinters. Sore mouth with stinging, burning pain. Excoriated, red, swollen membrane. Foul cadaveric odor from the mouth. Saliva flows from the mouth so acrid that it excoriates the lips. Throat : Confusion of the muscular action in throat causes food to stop in throat and choking. Difficult swallowing. Violent pain in throat, extending to ear on swallowing. Sticking in throat like a splinter ( Hepar, Nat. mur. Alum., Arg. n. ) on swallowing. Viscid mucus in throat. Mucus drawn from posterior nares. Inflammation of throat, tonsils, uvula and soft palate. Uvula and tonsils oedematous ( Apis, Rhus t.). Great swelling of the throat and tonsils. Ulceration of tonsils, uvula and soft palate. Inflammation of the oesophagus. Stomach and liver : Longing for fats, pungent things, herring, chalk, lime, earth; and aversion to bread and meat. Generally thirstless. The stomach is disordered by milk. Food sours, and causes sour eructations and vomiting. Fats disagree. Nausea after eating, ameliorated by moving about or riding in a carriage. Vomiting bitter and sour, contents of stomach. Ulceration of stomach. Pain in cardiac, opening of stomach on swallowing. Sticking pain in stomach. Catarrh of stomach. Weight after eating. Sensation of rawness in stomach after eating. Chronic inflammation of liver. Clay-colored stools. Enormously enlarged liver. Pain in region of liver with jaundice. Stitching pain in liver. Enlarged spleen. Abdomen : Cramping pain in abdomen. Violent pain in ilio-coecal region, sore and tender, aggravated from motion. Awakened at midnight with a crampy pain in abdomen; chilly; pain aggravated from motion. Rumbling in abdomen. Abdomen distended and tender. Great soreness in abdomen. Inflammation and suppuration of inguinal glands. The relaxed condition in weakly infant boys. that so much disposes to inguinal hernia, is often overcome by Nitric acid and the hernia cured (Lyc., Nux v.). Broken down subjects who are disposed to suffer from frequent attacks of diarrhea, or from constipation alternating with diarrhea, often need this remedy when the urine smells strong like that of a horse, and he is pale and sickly, losing flesh and strength, subject to excoriation of orifices and excoriating catarrhs and ulcers. The stool is bloody, putrid, undigested, green, slimy, excoriating, sour, curdled if milk is used as a diet, black putrid blood. In dysentery. Cold changes of the weather bring on diarrhea. Anus excoriated, burning, fissured, covered with warts. Membrane comes with the stool. Much pure blood with the stool not even clotted, very offensive. Ineffectual urging to stool. Sensation as if rectum were filled and he cannot expel it. Constipation, painful hard difficult stool. Drawing, cutting and pressing before stool; constant fruitless urging ( Nux v .). During stool there is colic, tenesmus, spasmodic contraction of anus, unsatisfactory straining. Splinters in rectum. After stool there is still urging ( Merc .), exhaustion; soreness of anus; cutting pain; burning and shooting in rectum; constriction of anus; great nervous excitement; palpitation. The pain keeps her in bed for hours after every stool. Itching and burning in anus. Constant acrid moisture about the anus. Periodical bleeding of rectum and pain in sacrum. Fissures of anus. Painful prolapsus of rectum. This has been a most useful remedy in fistula. fissures, condylomata, polypi, caruncles, cancer of the rectum and hemorrhoids, when the symptoms agree . It has cured caruncles so sensitive that the patient would cry out when they were touched. Hemorrhoids that are exquisitely painful to touch and at stool; that bleed, external or internal, with burning and sticking during stool. Piles that ulcerate and discharge copiously of blood and pus. When piles are so painful that she breaks out in sweat, becomes anxious, and pulsates all over, on the slightest touch or at stool, this remedy has been useful (compare Paonia and Staph .). Foetid moisture at the anus. Men : The male sexual organs are in a constant state of irritability. Sexual desire is increased and erections troublesome at night. Painful spasmodic erections at night; stitching pain in the urethra and chordee. It has been a useful remedy in gonorrhea when the discharge is thin and bloody, later when it is greenish or yellow; burning and sticking on urination, and the urethra is swollen and very sore. It has cured condylomata which have the \" splinter \" sensation, and bleed easily, and extremely sensitive to touch. Condylomata on genitals and around the anus. Inflammation of the prostate gland with gonorrhea, especially when the discharge becomes scanty from taking cold or from strong injections. It cures old cases of gleet when the urethra has pain in it like a splinter on touch or when urinating. Prolonged inflammation of the urethra with infiltration, making the urethra feel hard and nodular like a whip-cord ( Arg. n.). Sore spots in the urethra, ulcers, with bloody pus, and the sensation of splinters. Itching in the urethra after gonorrhea ( Petr .). Pimples, vesicles, herpes and crusts on the prepuce. Small ulcers on the glans or prepuce. Spreading ulcers. The ulcers discharge a brown, bloody water, offensive. Phagedenic ulcers (Ars., Aur. m . n., Caust., Merc. c.) . Inflammation of the prepuce. Ulcers that destroy the froenum. Inflamed and ulcerated parts have the splinter sensation and flow a bloody water. Paraphimosis and phimosis and great swelling. The hair falls off from the pubes. Women : The female is greatly troubled by the constant itching and burning and sexual desire. Excoriation of the parts from leucorrhoea and menstrual discharges. Every exertion brings on uterine hemorrhage ( Calc .). The menstrual flow is dark and thick. Menses too soon and profuse, like bloody, water. Uterine prolapsus. Many and extreme nervous sufferings come during the menstrual period; flatulence, bruised pain in limbs, pain down thighs, \" splinter \" under the finger and toe nails, palpitation, anxiety, trembling, neuralgic pains in any part. After the menses there comes a muddy, watery flow, lasting many days, and extreme excoriation of the parts. Thin, bloody, excoriating leucorrhoea at all times or at any time. The vagina is excoriated and condylomata grow upon the genitalia. Erectile tumors. Caruncles at the orifice of urethra, exquisitely sensitive to touch. The itching is aggravated by cold. The parts are fissured and bleed easily. Many troubles culminate during menses and lactation. Lumps in the mammae. The nipples are fissured and tender, are excoriated and have \" splinters .\" Tendency to abortion from general weakness and the ease with which a uterine hemorrhage may set in. Larynx : Hoarseness, and ulceration of the larynx. Voice lost. Laryngitis in old syphilitic subjects. Oppression of the chest, ameliorated by expectoration. Shortness of breath. Intermittent breathing. The cough is aggravated in winter, yet aggravated in a warm room and from becoming warm. The cough is dry, barking, aggravated during the night, aggravated lying, aggravated before midnight; comes on during sleep. Cough with hectic fever and night sweats. Paroxysmal cough with retching, like whooping cough, violent, racking cough. Hard, prolonged coughing spells with difficult expectoration. The irritation to cough is like a tickling in the larynx. The expectoration is greenish, viscid or thin, dirty, watery, bloody mucus, or dark clotted blood. Loose cough in daytime, dry at night. Rattling in daytime, but no expectoration. Cough in broken-down constitutions, from liver and lung affections, in tubercular subjects. The sputum tastes bitter, sour or salty. It is offensive, even putrid. He is covered with sweat during efforts to expectorate. Stitching in the chest. In typhoid pneumonia, with rattling in the chest, inability to expectorate, or when he can expectorate the sputum is brown and bloody, and the urine smells like that of a horse. In tuberculosis with night sweats and haemoptysis. Palpitation from excitement, on ascending stairs. The pulse is rapid, irregular, and every fourth beat is missed. Swelling of glands of neck and axilla. Stiff neck. Stitching pains in back and chest. Burning spots in spine. Pain in back, nights, compelling him to lie on the abdomen. Sharp pains in back and limb in tabes dorsalis. Sharp pains in back on coughing. Rheumatic pains in limbs. Emaciation of upper arms, and thighs. Weakness of limbs. Dropsy of limbs. Crippled nails. Rheumatic pains in upper limbs. Stitching. Sticking pains in limbs in cold weather. Numbness of arms and hands. Copper colored spots on arms. Chilblains on hands and fingers. Cold, sweaty hands. Numerous large warts on back of bands. Herpes between the fingers. Vesicles on the tip of the thumb that open into ulcers, felons, distorted and discolored nails. Yellow curved nails, splintered sensation under nails. It is useful in wounds that inflame and have the \" splinter \" sensation. Tearing in the long bones of the lower limbs at night. The legs are weary and bruised. Pain in hip as if sprained. Sticking pains along the nerves as from splinters. Syphilitic nodes on the tibia with nightly pains. Chilblains on the feet and toes. Phagedenic blisters on the toes ( Graph .). Extreme soreness of the tibia. Profuse, offensive sweat of feet. Shocks on going to sleep ( Agar., Arg. n., Ars., Nat. m.). The pain comes during sleep. Starting in sleep. Anxious, unrefreshing sleep, with frightful dreams. Nitric acid is a very useful remedy in fevers. The thirstlessness during all stages has often called attention to it. Cold hands and feet. Chronic intermittent in cachectic constitutions, copious night sweats. extreme weakness, with the characteristic odor of the urine, and bleeding from some part a dark blood, this remedy will act well. Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-mm-1911"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Actinomycosis; Anus, fissure of; Axilla, offensive perspiration of; Bladder, chronic catarrh of; Breath, offensive; Bright's disease; Bronchitis; Bubo; Chancre; Cheloid; Chilblains; Choking, easy; Climacteric; Cold, easily taken; Condylomata; Constipation; Corns; Cough; Dysentery; Dyspepsia; Ear, affections of; Epilepsy; Eyes, affections of; Feet, perspiring; Fistula; lachrymal; Freckles; Frost-bites; Glandular swellings; Gleet; Gums, sore; Hæmaturia; Hæmorrhages; Herpes; Herpes preputialis; Ingrowing toe-nail; Iritis, syphilitic; Irritation; Jaw-joint, cracking in; Menstruation, excessive; Metrorrhagia; Mouth, sore; Mucous patches; Muscæ volitantes; Myopia; Nails, affections of; Ozæna; Paralysis (l. side); Perspiration, abnormal; Phimosis; Polypus; Proctitis; Prostate, suppuration of; Ranula; Rectum, affections of; Rickets; Salivation; Spine, injury to; Syphilis; Taste, disordered; Tongue, ulceration of; Ulcers; Warts; Wens; Whooping-cough",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Hoarseness, with coryza, cough, and shooting pains in throat. Roughness in bronchia. Bronchitis. Scratching and stinging in larynx, with hoarseness; esp. when talking for a long time. Whistling inspiration with râles. Scraping and shootings in the trachea, esp. after reading aloud, or after a long conversation. Cough, with shootings and pain in throat and chest, as if parts excoriated. Cough only in day. Dry, barking cough, esp. in evening, on lying down. Violent, shaking, barking cough, caused by tickling in larynx and pit of stomach, with expectoration during day of blood, mixed with clots, or of yellow, acrid pus, tasting bitter, sour, or salt, and of offensive smell. Cough, with vomiting. Cough causing anxiety and vomiting of mucus and food. Rough, dry cough before midnight. Shaking cough at night, with obstructed respiration, almost as in whooping-cough. When coughing, lancinations in loins, or pain in head, stomach, and hypochondria, or pain, as from excoriation, and shootings in chest. Empyema with considerable muco-purulent sputum. Purulent, yellowish expectoration with cough. Short cough, with expectoration of black, coagulated blood. Phthisis pulmonalis (after Kali carb.). Tearing or pulling in limbs, esp. after a chill. Cracking joints. Frozen limbs. Epileptic fits, preceded by pulling in limbs, and followed by rigidity of body and stertorous breathing. Pressive pain in shoulder-joint. Drawing in arms. Jerking in muscles of arms. Contusive pain in arms, which hinders them from being lifted up. Drawing (rheumatic) and tearing in forearms and hands. Weakness and trembling of the forearms and hands. Warts on arms. Cracks and rhagades in hands. Coppery spots on hands. Coldness of hands. Roughness of skin of hands. Tensive pain in joints of fingers. Swelling of fingers, esp. at joints, with shooting pain. Falling asleep of hands. Fingers dead and benumbed in cold air. Chilblains on fingers and hands. Tetters between fingers. White spots on nails. Wrenching pain in hip, which causes lameness. Tensive pain in r. hip-joint. Digging, gnawing pains in flesh and bones. Bruised pain as from excessive fatigue. Lassitude, heaviness, and coldness in legs and feet. Constant coldness of feet. Drawing tearings (rheumatic) in legs and feet. Restlessness in legs in evening. Itching in thighs. Pains in thighs, on rising from a seat. Pain in ham, which prevents resting on foot. Rigidity and shooting in knee. Failing of joints of knee and foot. Pain in patella, impeding walking. Weakness of knee. Legs ( l.) very sore in front along shin from ankle to knee; bound flannel on them to see if it would >. Violent cramp in calf of leg, esp. at night and towards morning, as well as on walking, after having been seated. Jerking in calves of legs. Shootings in heel, when resting on it. Sweat on feet, sometimes fetid, with excoriation between toes. Chilblains on toes. Ingrowing of toe-nails; where nail seems to have grown into flesh, but in reality has not. very sore, with more or less ulceration, and a feeling as if a sharp splinter were being stuck into affected part on any contact. Shooting pains, as if caused by splinters stuck into affected part on slightest contact with anything; same in throat on swallowing. Sensation as if a band were around affected part or parts; as though a band around bones; jerking pain in inner parts. Rickets. Inflammation, swelling, and suppuration of glands. Pains on change of weather. Pains which are perceptible during sleep. Aggravation of the symptoms in the evening and at night. Riding in a carriage > most symptoms. Great weakness and general lassitude, with trembling, heaviness of legs, and desire to remain lying down, esp. in evening or morning. Hysteria. Epileptic attacks. Syphilis (secondary). Sycotic condylomata; and sycosis. Jaundice, with constipation. Pains in bones. Frequent drawing pains in almost all parts of body, suddenly appearing and disappearing. Epileptic attacks after midnight, beginning like a mouse moving up and down l. side, then loss of consciousness. Excessive emaciation. Tendency to take cold. Affections in general, of any kind, appearing in r. eye (e.g., as if a grain of sand was there); r. side of neck; nape of neck; l. hypochondriac region; l. chest; inguinal glands; l. lower extremity; bones of head.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Paleness of face, with eyes deep-sunk. Yellow colour of face, and esp. round eyes, with redness of cheeks. Dark yellow, almost brown complexion. Dark freckles on face. Cramp-like pain and tearing in cheeks and zygomatic process. Swelling of cheeks. Bloatedness around eyes on waking early. Eruption of pimples on face, forehead, and temples. Scurfy pustules on face, with margins, large, red, and covered with scabs; syphilis. Erysipelatous swelling of cheek, with shooting pain, nausea, and fever. Furfuraceous skin over whole face. Itching eruption and tetters in whiskers. Black pores in face. Swelling (and itching) of lips. Lips cracked. Ulceration of lips, commissures. Ulcers on red of lips. Furunculi on chin. Painful swelling of the submaxillary glands. Cracking of jaws when chewing and eating.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Difficult and irregular evacuations. Before stool: colic; cutting constant pressing in rectum; constant but fruitless desire. During stool nausea; tenesmus; spasm of anus; cutting in anus and rectum; acute pain in abdomen; sensation as if fæces remained and could not be expelled; splinter-like pains in rectum (with ineffectual urging); burning; tearing; palpitation of heart. After stool-continued urging; exhaustion; irritation, anxiety, general uneasiness; anus sore, raw; cutting, straining, shooting in rectum, continuing for hours; prolapse with sensation of constriction in anus; stitching pains; hæmorrhage; discharge of prostatic fluid. Constipation. Inability to evacuate fæces. Constant ineffectual desire, not > by stool. Fæces hard and dry. Constipation with fissure symptoms: bleeding, pain, distending stool. Evacuations too frequent. Urgent desire to evacuate. Loose evacuations, sometimes mucous, or of a putrid smell. Offensive and undigested evacuations. Much discharge of blood after stool. Sanguineous, dysenteric evacuations, with tenesmus. Black, offensive blood; mucous pseudo-membranes, with straining and burning in rectum. Colic, before stools. After stools, excitability and dejection. Burning pain, and itching in anus and rectum; with prolapse. Sticking in rectum, and spasmodic contraction in anus during stool; fissures. Oozing excoriation at anus. Hæmorrhoids, protruding, painless or burning. Pain as if rectum would be torn asunder during a stool. Swelling of hæmorrhoidal tumours in anus, which bleed at every evacuation. Moisture on anus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Wheezing respiration, esp. during manual labour. Obstructed respiration. Shortness of breath. [Panting breathing, esp. when reading or stooping over a desk, in schoolboys (cured). Dyspnœa and vertigo in children (cured). R. T. C.]. Loss of breath and palpitation of heart on walking and going up stairs. Contractive cramps in chest. Shooting and stitches in chest and sides (r. side and scapula). Pain, as from excoriation, in chest, on breathing and coughing. Rapid congestion and inflammation of the lungs. Dyspnœa, palpitation of the heart and anguish when going up stairs. Congestion in chest, with anguish, heat, and palpitation of heart. Nervous palpitation caused by slightest mental excitement. Pulse very irregular; one normal beat is often followed by two small rapid beats. the fourth entirely intermits; alternate hard, rapid, and small beats.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Neck stiff and sore from least cold. Rigidity of the nape of the neck. Swelling of the glands of the neck and axillæ. Offensive sweat in axillæ. Suppuration of the axillary glands. Pain in the back and loins after a chill. Drawing in lumbar region, as if stiff. Pain between the scapulæ. Neuralgic pains up back, esp. l. side. Pain in back and down thighs. Itching on back. Stitches in sacral region. Shootings in and between shoulder-blades, with stiffness of the neck.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Inclination to sleep during day, from weakness, with vertigo. Sleep retarded in evening, and early, difficult (or too late) awakening in morning. Sleeplessness, as from over-excitement. Complaints concomitant to waking; too much perspiration, which smells badly. Complaints in evening; in night; on awakening. Incomplete and agitated sleep, and frequent awaking with pain and a start. Sleep unrefreshing. At night, bleeding at nose, headache, toothache, thirst, gastralgia, colic, pains in limbs, nightmare, anguish, palpitation of heart, nausea, vomiting, and many other sufferings. Anxious sleep, with throbbing. Many fantastical, voluptuous, anxious, frightful dreams, often with cries, plaintive groans, talking, and starts with fright. Dreams of death, of spectres, of business of day, of crimes, of festivities, &c. Shocks in body and jerks in limbs during sleep.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chilliness mostly in the afternoon and evening, and after lying down. Chilliness, with internal heat at same time. Chilliness in morning in bed, after previous heat. Heat esp. on hands and face. Flushes of heat with perspiration on hands. General coldness of skin. Continued (chilliness or) coldness. Fever in afternoon; shivering and heat. Internal heat, without thirst, continued, or by fits. At night internal, dry heat, with inclination to uncover oneself. Heat with perspiration and debility after eating. Perspiration every night, or on alternate nights; the most profuse on the side on which one lies. Dry heat at night, with violent thirst. Nocturnal sweat, fetid or acid. Acid sweat, like horse's urine, by day. Intermittent fever. Chilliness in afternoon (an hour and a half, while in open air), followed by dry heat when in bed, accompanied by all sorts of fancies while in a state of half-waking, without sleep; sleep and perspiration only come on towards morning. Chilliness in the afternoon, for an hour; afterwards profuse perspiration for two hours over whole body; there is no thirst either in the cold or hot stage. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "cowperthwaite-textbook-1891",
+      "kent-lectures-1905",
+      "kent-mm-1911"
+    ]
+  }
+}

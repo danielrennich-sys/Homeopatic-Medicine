@@ -1,0 +1,59 @@
+{
+  "id": "dictamnus",
+  "names": {
+    "primary": "Dictamnus",
+    "latin": "Dictamnus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T DICTAMNUS. Dictamnus Fraxinella, Linn. Natural order , Rutaceæ. Common name , Fraxinella. Preparation , Tincture of whole plant. Authority. Stoerck, in Die Flammula Jovis, etc., from Noack and Trink's Mat. Med. ► Frequent emission of copious, offensive flatus. ► Itching in the anus. ► Increased stools. ► Constipation. ► Greatly increased secretion of urine. ► Discharge of much tenacious mucus from the uterus, at first brown, afterwards white, at last streaked with blood. ► Increase of the leucorrha, with profuse discharge of urine, with distressing tenesmus and painful erosion of the genitals. ► Profuse metrorrhagia for nine days (recurring after ten days, upon the continued use of the drug, and lasting several days, with physical weakness). ► Aggravation of the epileptic attack. [10.] ► Profuse perspiration. [From Zorn, Botanologia Medica. Berlin, 1714, p. 265.] Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Constipation; Flatulence; Leucorrhœa; Metrorrhagia",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The authorities for Dictamnus are Stoerck, and Noack and Trinks. The few symptoms recorded show relationship to Ruta.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Frequent emission of copious, offensive flatus. Itching in anus. Increased stools. Constipation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Greatly increased secretion of urine.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Discharge of much tenacious mucus from uterus, at first brown, afterwards white; at last streaked with blood. Increase of leucorrhœa with distressing tenesmus and painful erosion of genitals. Profuse metrorrhagia for nine days (recurring after ten days, upon the continued use of the drug, and lasting several days with physical weakness).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Profuse perspiration. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

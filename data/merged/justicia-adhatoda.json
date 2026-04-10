@@ -1,0 +1,47 @@
+{
+  "id": "justicia-adhatoda",
+  "names": {
+    "primary": "JUSTICIA ADHATODA",
+    "latin": "JUSTICIA ADHATODA",
+    "common": [
+      "An Indian Shrub, Singhee (JUSTICIA ADHATODA BASAKA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Irritable, sensitive to external impressions; hot, full and heavy head; lachrymation, with coryza, profuse, fluent, with constant sneezing; loss of smell and taste; coryza with cough",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Dry, pain during empty swallowing, tenacious mucus. Mouth dry",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Dry cough from sternal region all over chest. Hoarseness, larynx painful. Paroxysmal cough, with suffocative obstruction of respiration. Cough with sneezing. Severe dyspnœa with cough. Tightness across chest. Asthmatic attacks, cannot endure a close, warm room. Whooping-cough",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Third potency and higher. Severe aggravation have been noticed from lower potencies"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">JUSTICIA ADHATODA An Indian Shrub, Singhee (JUSTICIA ADHATODA BASAKA) Highly efficacious medicine for acute catarrhal conditions of the respiratory tract (used in the beginning)",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

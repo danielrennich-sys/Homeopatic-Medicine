@@ -1,0 +1,41 @@
+{
+  "id": "cubeba-officinalis",
+  "names": {
+    "primary": "CUBEBA OFFICINALIS",
+    "latin": "CUBEBA OFFICINALIS",
+    "common": [
+      "Cubebs (CUBEBA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "urinary": [
+      {
+        "text": "Urethritis, with much mucus, especially in women. Cutting after urination, with constriction. Hæmaturia. Prostatitis, with thick yellow discharge. Cystitis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Catarrh of nose and throat, with fetid odor and expectoration. Mucus trickles from posterior nares. Rawness of throat and hoarseness",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Second and third attenuation"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CUBEBA OFFICINALIS Cubebs (CUBEBA) Mucous membranes generally, but especially that of the urinary tract, are chiefly affected by this remedy. Frequent urination of a nervous origin. Leucorrhœa in little girls.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

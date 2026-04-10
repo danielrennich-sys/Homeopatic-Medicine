@@ -1,0 +1,40 @@
+{
+  "id": "agaricus-emeticus",
+  "names": {
+    "primary": "Agaricus Emeticus",
+    "latin": "Agaricus Emeticus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T AGARICUS EMETICUS. (A. emeticus, Schæf.?), probably Russula emetica, Fr. A small acrid species, found in woods in Europe. Authority. Poisoning cases. HEAD. ► Vertigo so severe that one must be carried to bed; is not able to sit or stand. EYE. ► Lachrymation (from the smell). ► Lasting weakness of eyes. NOSE. ► Sneezing (from the smell). MOUTH. ► Nauseous taste of the fungus, several days. ► Sharp burning in mouth. STOMACH. ► Sudden, violent longing for ice-cold water (during the worst attacks of anxiety), which causes gradual relief . ► Dislike for wine and meat, several days. ► Violent vomiting, with anxious sensation, as if the stomach hung on a thread, which would momentarily break, with ice-cold sweat of face , and constantly renewed faintness, even from moving the head on listening to reading; increased by smelling cordials, especially by vinegar, which is unbearable. ► Violent burning pain in stomach becomes a sensation, as if a moving dull body in the stomach pressed it out; now in one place, now in another, with nausea and great qualmishness, violent eructations, and weak eyes. ► Painful pressure in stomach, followed by frequent eructations, repeated attempts to vomit. ► Constantly increasing anxiety in stomach. ► Stomach so sensitive for eight days that one could not touch it, nor cough. ABDOMEN. ► Abdomen distended. ► Constantly increasing pain in abdomen (for half hour). STOOL AND ANUS. ► Diarrha. HEART AND PULSE. ► Pulse rapid, exceedingly weak. GENERALITIES. ► Sudden great weakness (quarter of an hour). CONDITIONS. ► Cold water relieved speedily and permanently . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Gastritis; Vertigo",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The symptoms of Agar. emet. resemble those of the other Agarics, but they have this characteristic, that whilst cold water the symptoms of Agar. musc. it speedily and permanently relieves those of Agar. emet. Violent burning pains are caused in the stomach. There is sudden and violent longing for ice-cold water (during the worst attacks of anxiety), which causes gradual relief; violent vomiting, with anxious sensation, as if the stomach hung on threads which would be momentarily torn in two, with ice-cold sweat of face, and faintness by moving head; by smelling vinegar, which is unbearable. Most marked is the vertigo, which is so severe one must be carried to bed; is not able to sit or stand.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Anxiety partially > by cold drinks, Acon., Sul. From vinegar, Ant. c., Ars., Bell., Brom., Fer., Sep., Sul. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

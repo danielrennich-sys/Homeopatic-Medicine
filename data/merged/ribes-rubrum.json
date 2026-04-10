@@ -1,0 +1,57 @@
+{
+  "id": "ribes-rubrum",
+  "names": {
+    "primary": "Ribes rubrum (LINN.)",
+    "latin": "Ribes rubrum (LINN.)",
+    "common": [
+      "Currant, Red"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "preparation": [
+      {
+        "text": "The fruits, especially the juice.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Central and Northern Europe, and United States, Siberia and Canada.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "This plant is equally at home in hedges and ditches, trained against the wall of a house, or as a shrub cultivated in gardens. It has straggling stems, three to five lobed leaves, yellowish-green flowers, and fruit in pendulous racemes. The smooth berries are always red in the wild state, but cultivation has added the white and champagne or flesh-coloured varieties. The White and Red Dutch Currants are regarded as the best. The English name was given because the berries were like the Corinth or Zante Grape, the currant of the shops. There are between thirty and forty kinds of currant recognized in catalogues. The fruit is a favourite for tarts andjellies, and being a very hardy plant, is within the reach of all. The juice is a pleasant acid in punch, and was a favourite ingredient in the coffee-houses of Paris, where the sweetened juice is still preferred as a beverage, to syrup of almonds.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The juice is said to contain citric acid, malic acid, sugar, vegetable jelly and jam.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Refrigerant, aperient, antiscorbutic. The juice forms a refreshing drink in fever, and the jelly, made from equal weights of fruit and sugar, when eaten with 'high' meats, acts as an anti-putrescent. The wine made from white 'red' currants has been used for calculous affections. In some cases the fruit causes flatulence and indigestion. It has frequently given much help in forms of visceral obstruction. The jelly is antiseptic, and will ease the pain of a burn and prevent the formation of blisters, if applied immediately. Some regard the leaves as having emmenagogue properties.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {
+    "documented_adverse_effects": [
+      {
+        "text": "In common with other acidulous fruits, they must be turned out of an open tin immediately into a glass or earthenware dish, or the action of the acid combining with the surrounding air will begin to engender a deadly metallic poison. [ Top ] Purchase from Richters Try it in tea! Crimson Berry Tea",
+        "source": "Grieve"
+      }
+    ]
+  },
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

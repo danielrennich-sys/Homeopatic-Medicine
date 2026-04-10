@@ -1,0 +1,55 @@
+{
+  "id": "euphorbia-cyparissias",
+  "names": {
+    "primary": "Euphorbia Cyparissias",
+    "latin": "Euphorbia Cyparissias",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "EUPHORBIA CYPARISSIAS.",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "The effects of E. cyparis. have been observed on persons pulling the plants and getting the juice on hands and face. It acts as an intense irritant of the skin, and produces at the same time a feeling of chilliness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T EUPHORBIA CYPARISSIAS. Euphorbia cyparissias, Linn. Natural order , Euphorbiaceæ. Common name , Cypress spurge. Preparation , Tincture of the whole plant. Authority. Dr. E. H. Spooner, N. E. Med. Gaz., 4, 317, effects of pulling the plants, getting the juice on the hands or face. ► Right cheek much inflamed, and covered sparsely with fine vesicles filled with a thick white lymph; the erysipelatous inflammation was most marked in the malar region, being of a livid or dark-red hue, and extending along the outer and lower margin of the orbit (the second morning); on my next visit a slight roughness was felt on passing the hand over the cheek. ► Right wrist somewhat inflamed, and abundantly covered with a miliary eruption (on my second visit). ► Frequent sensations of chilliness, which induced her to put a shawl about her shoulders, although in midsummer (second day). Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Erysipelas; Miliaria; Vesicles",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "R. wrist somewhat inflamed and abundantly covered with miliary eruptions.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "R. cheek much inflamed, covered sparsely with fine vesicles filled with a thick white lymph; erysipelatous inflammation most marked in molar region, livid or dark red, leaving skin rough.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Frequent sensations of chilliness which induced her to put a shawl about her shoulders though in midsummer. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

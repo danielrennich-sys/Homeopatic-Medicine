@@ -1,0 +1,30 @@
+{
+  "id": "chininum-salicylicum",
+  "names": {
+    "primary": "Chininum Salicylicum",
+    "latin": "Chininum Salicylicum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "\"Of all the preparations of Quinine the Salicylate is the most injurious to the structures of the internal ear\" (Cozzolino); and, therefore, in all likelihood, the most powerful homœopathic curative. It is unproved. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Deafness; Menière's disease; Tinnitus",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

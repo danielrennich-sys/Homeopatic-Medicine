@@ -1,0 +1,24 @@
+{
+  "id": "sediment",
+  "names": {
+    "primary": "SEDIMENT",
+    "latin": "SEDIMENT",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY SEDIMENT. Sediment : Canth., Coloc., Lyc., Pho-ac., Pul., Sep., Val., Zin. Sediment, adherent : Ap., Coloc., Fer., Pho., Pul., Sep. Sediment, bloody : Canth., Pho-ac., Pul., Sep. Sediment, clayey , earthy : Zin. Sediment, cloudy : Pho-ac. Sediment, flaky : Canth., Mez., Zin. Sediment, mucous : Berb., Pul., Terb. Sediment, red , brickdust, etc. : Bry., Canth., Chin., Lyc., Nat-m., Pul., Sep., Val. Sediment, sandy : Lyc., Sars. Sediment, white : Pho., Rhus-t. Sediment, yellow : Zin. Micturition, concomitants : Cann., Merc., Pul. Micturition, concomitants, before urination : Bor., Coloc., Nux-v., Pul. Micturition, concomitants, at start of urination : Merc. Micturition, concomitants, during urination : Cann., Canth., Hep., Lyc., Merc., Pho-ac., Pul., Sep., Thu. Micturition, concomitants, after urination : Canth., Coloc., Hep., Merc-c., Nat-m., Thu. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

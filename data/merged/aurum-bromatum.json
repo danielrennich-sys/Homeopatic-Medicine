@@ -1,0 +1,30 @@
+{
+  "id": "aurum-bromatum",
+  "names": {
+    "primary": "Aurum Bromatum",
+    "latin": "Aurum Bromatum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "This is an unproved salt of gold. It has been recommended by Dr. E. M. Hale as being superior to other preparations of gold, especially in certain nervous affections of an epileptiform character, as migraine, night terrors, somnambulism. Also in valvular diseases of the heart and hypertrophy, attacks of faintness with coldness and feeble pulse alternating with attacks of congestion and red face with palpitation. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Epilepsy; Heart, affections of; Migraine; Night terrors",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

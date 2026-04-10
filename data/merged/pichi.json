@@ -1,0 +1,30 @@
+{
+  "id": "pichi",
+  "names": {
+    "primary": "Pichi",
+    "latin": "Pichi",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Pichi is a solanaceous shrub of South America. It is unproved, but in 1 to 20 drop doses of the fluid extract it has been used with good effect in cases of chronic cystitis with enlarged prostate; liver affections and gall-stones; excess of uric acid. Hansen gives these indications: Excoriating urine and urinary calculi. Inflammation of whole urethral tract, must pass water frequently; burning pains and violent vesical tenesmus after urination. Acute or chronic cystitis, caused by gravel, painful urination, much mucus and pus. Subacute or chronic gonorrhœa, painful urination, much mucus and pus. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Cystitis; Gall-stones; Gonorrhœa; Liver, affections of; Prostate, disease of",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

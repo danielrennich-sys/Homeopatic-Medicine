@@ -1,0 +1,24 @@
+{
+  "id": "yyy",
+  "names": {
+    "primary": "YYY",
+    "latin": "YYY",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T SUPPLEMENTAL REFERENCE TABLE A * B * C * D * E * F * G * H * I * J * K * L * M * N * O * P * Q * R * S * T * U * V * W * X * Y * Z Yawning : Zin-val. Yawning, accompaniment, as an : Castr., Cina., Kre., Sars. Yawning, chill, with : Thu. Yawning, eating, agg. : Nat-s., Squil., Sul. Yawning, evening : Arn. Yawning, headache and : Form., Stap. Yawning, sleepy and : Kali-n., Kre. Yawning, tears, with : Stap. Yawning, violent : Stap. Yellow : Carb-an., Kali-s., Merc-i-f., Nat-s., Ol-j. Yellow, green : Ars-io., Mang., Merc., Pul. Yellow, sticky : Hyds., Kali-bi., Sumb. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

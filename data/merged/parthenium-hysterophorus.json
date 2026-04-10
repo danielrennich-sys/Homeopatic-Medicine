@@ -1,0 +1,52 @@
+{
+  "id": "parthenium-hysterophorus",
+  "names": {
+    "primary": "PARTHENIUM HYSTEROPHORUS",
+    "latin": "PARTHENIUM HYSTEROPHORUS",
+    "common": [
+      "Bitter-broom (PARTHENIUM - ESCOBA AMARGO)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Aches, extending to nose; feels swelled; pain in frontal eminence. Eyes heavy; eyeballs ache. Ringing in ears. Pain at root of nose; feels swollen. Aching in teeth. Teeth feel on edge; too long. Disordered vision. Tinnitus and pain in ears",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Pain in left hypochondrium. Spleen affections",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "after rising, and walking about",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "after sleep, sudden motion",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">PARTHENIUM HYSTEROPHORUS Bitter-broom (PARTHENIUM - ESCOBA AMARGO) A Cuban remedy for fevers, especially malarial. Increased flow of milk. Amenorrhœa and general debility. Cheyne-Stokes breathing. After Quinine.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

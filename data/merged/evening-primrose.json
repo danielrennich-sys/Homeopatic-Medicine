@@ -1,0 +1,41 @@
+{
+  "id": "evening-primrose",
+  "names": {
+    "primary": "Evening Primrose Oil",
+    "latin": "Evening Primrose Oil",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Evening primrose is a plant native to North and South America that also grows throughout Europe and parts of Asia. It has yellow flowers that open at sunset and close during the day. The oil from evening primrose seeds contains omega-6 fatty acids, including gamma-linolenic acid (GLA). Native Americans applied juices from the plant’s stem and leaves to the skin to treat skin inflammation, bruises, and minor wounds, and they used the leaves orally for gastrointestinal disorders and sore throats. Today, evening primrose oil dietary supplements are promoted for atopic dermatitis (a type of eczema), rheumatoid arthritis, premenstrual syndrome (PMS), breast pain, menopause symptoms, and other conditions. Evening primrose oil may also be included in products that are applied to the skin, and it has been used orally (by mouth) or vaginally to attempt to get labor started at the end of pregnancy.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "A substantial number of studies in people have evaluated evening primrose oil for atopic dermatitis or breast pain or for starting labor. Less evidence is available on other potential uses.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "There’s not enough evidence to support the use of evening primrose oil for any health condition. Evening primrose oil, taken orally, has not been shown to be helpful for relieving symptoms of atopic dermatitis. Evening primrose oil is probably not more effective than a placebo (an inactive substance) for breast pain. It has been suggested that evening primrose oil might help to get labor started at the end of pregnancy by increasing the production of substances called prostaglandins. However, studies that have tested evening primrose oil, administered either orally or vaginally, for this purpose have had inconsistent results. There’s insufficient evidence to show whether evening primrose oil is helpful for other conditions, such as rheumatoid arthritis, PMS, and menopause symptoms.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Evening primrose oil is probably safe for most adults when taken orally. Less is known about its safety for children. Evening primrose oil is generally well tolerated. The most common side effects are gastrointestinal symptoms such as abdominal pain, nausea, or diarrhea. If you take any type of medicine, talk with your health care provider before using evening primrose oil or other herbal products; some herbs and medicines interact in harmful ways. Evening primrose oil may be safe for use during pregnancy and while breastfeeding, but the evidence is not conclusive. The reported side effects of using evening primrose oil to try to get labor started have mostly been mild, but the long-term safety of using evening primrose oil in this way has not been established. Taking evening primrose oil during breastfeeding increases the concentration of gamma-linolenic acid (GLA) in breast milk but has not been linked to harmful effects in the infant.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

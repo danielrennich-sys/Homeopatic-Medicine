@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Homeopathy & Natural Medicine Database</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #0f1419; color: #e7e9ea; min-height: 100vh;
+}
+.header {
+    background: linear-gradient(135deg, #1a3a2a 0%, #0f1f2f 100%);
+    border-bottom: 1px solid #2f3336; padding: 20px; text-align: center;
+}
+.header h1 { font-size: 1.5rem; color: #7ec8a0; margin-bottom: 4px; }
+.header .subtitle { color: #71767b; font-size: 0.85rem; }
+.header .nav-links { margin-top: 8px; }
+.header .nav-links a {
+    color: #6bb3d9; text-decoration: none; font-size: 0.9rem; margin: 0 10px;
+}
+.search-bar { max-width: 800px; margin: 20px auto; padding: 0 16px; }
+.search-input {
+    width: 100%; padding: 14px 18px;
+    border: 1px solid #2f3336; border-radius: 12px;
+    background: #16202a; color: #e7e9ea;
+    font-size: 1rem; outline: none; transition: border-color 0.2s;
+}
+.search-input:focus { border-color: #7ec8a0; }
+.search-input::placeholder { color: #71767b; }
+.filters {
+    max-width: 800px; margin: 10px auto; padding: 0 16px;
+    display: flex; gap: 10px; flex-wrap: wrap; align-items: center;
+}
+.filters label { color: #71767b; font-size: 0.85rem; }
+.filters select, .filters input[type="checkbox"] {
+    background: #16202a; color: #e7e9ea;
+    border: 1px solid #2f3336; border-radius: 6px;
+    padding: 6px 10px; font-size: 0.85rem;
+}
+.stats { max-width: 800px; margin: 8px auto; padding: 0 16px; color: #71767b; font-size: 0.8rem; }
+.results { max-width: 800px; margin: 10px auto; padding: 0 16px; }
+.result-card {
+    background: #16202a; border: 1px solid #2f3336; border-radius: 12px;
+    padding: 16px; margin-bottom: 10px; cursor: pointer;
+    transition: border-color 0.2s, background 0.2s;
+}
+.result-card:hover { border-color: #7ec8a0; background: #1a2a34; }
+.result-name { font-size: 1.1rem; font-weight: 600; color: #e7e9ea; }
+.result-latin { color: #7ec8a0; font-style: italic; font-size: 0.9rem; }
+.result-meta { display: flex; gap: 12px; margin-top: 6px; flex-wrap: wrap; }
+.badge {
+    display: inline-block; padding: 2px 8px; border-radius: 12px;
+    font-size: 0.75rem; font-weight: 500;
+}
+.badge-cat { background: #1d3a2d; color: #7ec8a0; }
+.badge-sources { background: #1d2d3a; color: #6bb3d9; }
+.badge-trad { background: #3a2d1d; color: #d9a86b; }
+.badge-ev { background: #2d1d3a; color: #b36bd9; }
+.result-snippet {
+    margin-top: 8px; color: #8b8f94; font-size: 0.85rem;
+    line-height: 1.4; max-height: 60px; overflow: hidden;
+}
+.modal-overlay {
+    display: none; position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(0,0,0,0.7); z-index: 1000; overflow-y: auto;
+}
+.modal-overlay.active { display: block; }
+.modal {
+    max-width: 900px; margin: 30px auto;
+    background: #16202a; border: 1px solid #2f3336;
+    border-radius: 16px; padding: 24px; min-height: 200px;
+}
+.modal-close {
+    float: right; background: none; border: none; color: #71767b;
+    font-size: 1.5rem; cursor: pointer; padding: 4px 8px;
+}
+.modal-close:hover { color: #e7e9ea; }
+.modal h2 { color: #7ec8a0; font-size: 1.4rem; margin-bottom: 4px; }
+.modal h3 { color: #6bb3d9; font-size: 1.1rem; margin: 16px 0 8px; border-bottom: 1px solid #2f3336; padding-bottom: 4px; }
+.modal h4 { color: #d9a86b; font-size: 0.95rem; margin: 12px 0 4px; }
+.modal .section-text {
+    color: #b0b3b8; font-size: 0.88rem; line-height: 1.6;
+    margin: 4px 0 8px; white-space: pre-wrap; max-height: 400px; overflow-y: auto;
+}
+.modal .names-block { color: #8b8f94; font-size: 0.85rem; margin-bottom: 12px; }
+.tab-bar { display: flex; gap: 0; margin: 16px 0 12px; border-bottom: 2px solid #2f3336; }
+.tab {
+    padding: 8px 20px; cursor: pointer; color: #71767b; font-size: 0.9rem;
+    border-bottom: 2px solid transparent; margin-bottom: -2px;
+    transition: color 0.2s, border-color 0.2s;
+}
+.tab:hover { color: #e7e9ea; }
+.tab.active { color: #7ec8a0; border-bottom-color: #7ec8a0; }
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+.source-list { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.source-tag {
+    background: #1d2d3a; color: #6bb3d9;
+    padding: 2px 8px; border-radius: 8px; font-size: 0.75rem;
+}
+#loadingStatus {
+    text-align: center; color: #71767b; padding: 40px; font-size: 0.9rem;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+    <h1>Homeopathy & Natural Medicine Database</h1>
+    <div class="subtitle" id="subtitleLine">Loading...</div>
+    <div class="nav-links">
+        <a href="intake.html">Intake Assessment Form</a>
+        <a href="settings.html">Settings</a>
+    </div>
+</div>
+
+<div class="search-bar">
+    <input type="text" class="search-input" id="searchInput"
+           placeholder="Search symptoms, remedy names, body regions... (e.g. 'headache throbbing', 'arnica', 'liver toxicity')"
+           autofocus>
+</div>
+
+<div class="filters">
+    <label>Category:</label>
+    <select id="filterCategory">
+        <option value="">All</option>
+        <option value="homeopathic">Homeopathic</option>
+        <option value="herbal">Herbal</option>
+        <option value="supplement">Supplement</option>
+    </select>
+    <label style="margin-left:10px">
+        <input type="checkbox" id="filterDual"> Traditional + Evidence only
+    </label>
+</div>
+
+<div class="stats" id="statsLine"></div>
+<div id="loadingStatus"></div>
+<div class="results" id="results"></div>
+
+<div class="modal-overlay" id="modalOverlay">
+    <div class="modal" id="modalContent">
+        <button class="modal-close" onclick="closeModal()">&times;</button>
+        <div id="modalBody">Loading...</div>
+    </div>
+</div>
+
+<script src="js/engine.js"></script>
+<script>
+const searchInput = document.getElementById('searchInput');
+const filterCategory = document.getElementById('filterCategory');
+const filterDual = document.getElementById('filterDual');
+const resultsDiv = document.getElementById('results');
+const statsLine = document.getElementById('statsLine');
+const modalOverlay = document.getElementById('modalOverlay');
+const modalBody = document.getElementById('modalBody');
+
+let debounceTimer;
+
+function doSearch() {
+    if (!HomeopathyDB.ready) return;
+    const q = searchInput.value.trim();
+    const cat = filterCategory.value;
+    const dual = filterDual.checked;
+    const data = HomeopathyDB.keywordSearch(q, cat, dual);
+    renderResults(data);
+}
+
+function renderResults(data) {
+    statsLine.textContent = `${data.total} results` +
+        (data.total > data.results.length ? ` (showing ${data.results.length})` : '');
+
+    if (!data.results.length) {
+        resultsDiv.innerHTML = '<div style="text-align:center;color:#71767b;padding:40px">No results found. Try different keywords.</div>';
+        return;
+    }
+
+    resultsDiv.innerHTML = data.results.map(r => {
+        const snipKeys = Object.keys(r.snippets || {});
+        let snippet = '';
+        if (snipKeys.length) {
+            const key = snipKeys.find(k => k.includes('keynote') || k.includes('summary') || k.includes('indication')) || snipKeys[0];
+            snippet = (r.snippets[key] || '').substring(0, 200);
+        }
+        const common = (r.common || []).slice(0, 3).join(', ');
+        return `
+        <div class="result-card" onclick="showDetail('${r.id}')">
+            <div class="result-name">${esc(r.primary)}</div>
+            ${r.latin !== r.primary ? `<div class="result-latin">${esc(r.latin)}</div>` : ''}
+            ${common ? `<div style="color:#8b8f94;font-size:0.8rem">${esc(common)}</div>` : ''}
+            <div class="result-meta">
+                <span class="badge badge-cat">${r.category}</span>
+                <span class="badge badge-sources">${r.n_sources} source${r.n_sources !== 1 ? 's' : ''}</span>
+                ${r.has_traditional ? '<span class="badge badge-trad">Traditional</span>' : ''}
+                ${r.has_evidence ? '<span class="badge badge-ev">Evidence</span>' : ''}
+            </div>
+            ${snippet ? `<div class="result-snippet">${esc(snippet)}</div>` : ''}
+        </div>`;
+    }).join('');
+}
+
+function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+
+async function showDetail(id) {
+    modalOverlay.classList.add('active');
+    modalBody.innerHTML = '<div style="color:#71767b;padding:20px">Loading...</div>';
+    const d = await HomeopathyDB.loadRemedyDetail(id);
+    renderDetail(d);
+}
+
+function closeModal() { modalOverlay.classList.remove('active'); }
+modalOverlay.addEventListener('click', e => { if (e.target === modalOverlay) closeModal(); });
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+function renderDetail(d) {
+    if (!d || d.error) {
+        modalBody.innerHTML = '<div style="color:#ff6b6b">Remedy not found</div>';
+        return;
+    }
+    const names = d.names || {};
+    const trad = d.traditional || {};
+    const ev = d.evidence || {};
+    const sources = (d.provenance || {}).sources || [];
+    const hasTrad = Object.keys(trad).length > 0;
+    const hasEv = Object.keys(ev).length > 0;
+
+    let html = `<h2>${esc(names.primary || d.id)}</h2>`;
+    if (names.latin && names.latin !== names.primary)
+        html += `<div style="color:#7ec8a0;font-style:italic;margin-bottom:4px">${esc(names.latin)}</div>`;
+
+    const common = (names.common || []).join(', ');
+    const syns = (names.synonyms || []).join(', ');
+    if (common || syns) {
+        html += `<div class="names-block">`;
+        if (common) html += `<strong>Common:</strong> ${esc(common)}<br>`;
+        if (syns) html += `<strong>Also known as:</strong> ${esc(syns)}`;
+        html += `</div>`;
+    }
+
+    html += `<div class="source-list">${sources.map(s => `<span class="source-tag">${esc(s)}</span>`).join('')}</div>`;
+
+    const tabs = [];
+    if (hasTrad) tabs.push({id: 'trad', label: 'Traditional'});
+    if (hasEv) tabs.push({id: 'ev', label: 'Evidence'});
+    if (!tabs.length) tabs.push({id: 'empty', label: 'Info'});
+
+    html += `<div class="tab-bar">${tabs.map((t, i) =>
+        `<div class="tab ${i===0?'active':''}" onclick="switchTab('${t.id}')" data-tab="${t.id}">${t.label}</div>`
+    ).join('')}</div>`;
+
+    if (hasTrad) html += `<div class="tab-content ${tabs[0].id==='trad'?'active':''}" id="tab-trad">${renderBlock(trad)}</div>`;
+    if (hasEv) html += `<div class="tab-content ${!hasTrad?'active':''}" id="tab-ev">${renderBlock(ev)}</div>`;
+    if (!hasTrad && !hasEv) html += `<div class="tab-content active" id="tab-empty"><p style="color:#71767b">No detailed content available.</p></div>`;
+
+    modalBody.innerHTML = html;
+}
+
+function renderBlock(block) {
+    let html = '';
+    for (const [key, val] of Object.entries(block)) {
+        const label = key.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+        if (Array.isArray(val)) {
+            html += `<h4>${esc(label)}</h4>`;
+            val.forEach(item => {
+                if (typeof item === 'object' && item.text) {
+                    const src = item.source_id || item.source || '';
+                    html += `<div class="section-text">${esc(item.text.substring(0, 3000))}`;
+                    if (src) html += ` <span style="color:#6bb3d9;font-size:0.75rem">[${esc(src)}]</span>`;
+                    html += `</div>`;
+                } else if (typeof item === 'object' && item.section) {
+                    html += `<div style="color:#d9a86b;font-size:0.8rem;margin-top:6px">${esc(item.section)}</div>`;
+                    if (item.text) html += `<div class="section-text">${esc(item.text.substring(0, 3000))}</div>`;
+                } else if (typeof item === 'string') {
+                    html += `<div class="section-text">${esc(item)}</div>`;
+                }
+            });
+        } else if (typeof val === 'string' && val.length > 5) {
+            html += `<h4>${esc(label)}</h4><div class="section-text">${esc(val.substring(0, 3000))}</div>`;
+        } else if (typeof val === 'object' && !Array.isArray(val)) {
+            html += `<h4>${esc(label)}</h4>${renderBlock(val)}`;
+        }
+    }
+    return html;
+}
+
+function switchTab(tabId) {
+    document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.tab === tabId));
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.toggle('active', c.id === 'tab-' + tabId));
+}
+
+// Event listeners
+searchInput.addEventListener('input', () => {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(doSearch, 250);
+});
+filterCategory.addEventListener('change', doSearch);
+filterDual.addEventListener('change', doSearch);
+
+// Initialize
+HomeopathyDB.loadSearchIndex().then(ok => {
+    if (ok) {
+        document.getElementById('subtitleLine').textContent =
+            `${HomeopathyDB.remedyCount} remedies from 35+ sources \u2014 search by symptom, remedy name, or body region`;
+        doSearch();
+    }
+});
+</script>
+</body>
+</html>

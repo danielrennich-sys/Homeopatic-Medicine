@@ -1,0 +1,74 @@
+{
+  "id": "scorpio",
+  "names": {
+    "primary": "Scorpio",
+    "latin": "Scorpio",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T SCORPIO. Scorpio (species various). Animal Kingdom. Class , Arachnida. Order , Scorpiodia. Authorities. 1 , All. Hom. Zeit, 15, 63, symptoms quoted from the French; 2 , Morisson, Gaz. des Hôp., 1863, No. 61, from Bull. de Méd. de Norde de France, effects of sting; 3 , Skelton, Observator Medico (of the City of Mexico) Med. Record, 1877, 12, p. 370, effects of sting. ► The bitten part very much swollen, with violent pains, lasting from one to three days, [1] . ► When an individual has been stung the symptoms may be grouped in three distinct periods; in the first there is heat and pain at the injured spot, general sleepiness, frequent sneezing, restlessness, and slight strabismus; in the second stage saliva is abundantly secreted, there is meteorism, dilatation of the pupil, and pulse varying between 100 and 120; in the third stage there is trismus or tetanus; the first period occurs soon after the sting, and lasts from a quarter of an hour to an hour; the second a little more than fifteen minutes; and the third may be prolonged to three days. Among the native Indians cases are very frequent, and many of the children die; in all children under four years of age the sting is usually fatal; between six and ten severe, but not mortal, while adults never die. Many persons claim to have been stung without experiencing any symptoms; this, in Dr. Puerte's opinion, is because the clothing has absorbed the virus, a fact he seems to have proved experimentally. When the naked skin receives the virus symptoms of poisoning are sure to follow, [3] . ► Complete prostration so that the patient could no longer go about, [1] . ► Always acute pains and diminished temperature of part bitten, [2] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Salivation; Strabismus; Tetanus",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Bitten part much swollen, with violent pains lasting from one to three days. Heat and pain at bitten spot, sleepiness, sneezing, restlessness; later, abundant saliva, meteorism; later, trismus or tetanus. Complete prostration. Always acute pains in and diminished temperature of the part bitten. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Scorpion stings are attended with a certain amount of danger, especially to children. The symptoms of the Schema are from effects of stings. Scorp. has not been proved in the attenuations. Pain and swelling of the injured part are first experienced, and constitutional symptoms follow. These include sleepiness, prostration, and possibly tetanus. Strabismus has been observed in some cases; and the pupils are dilated.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Vespa., Scol., Tarent., Apis."
+      ]
+    },
+    "eyes": [
+      {
+        "text": "Pupils dilated. Slight strabismus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Frequent sneezing.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Trismus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Saliva abundant.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Meteorism.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

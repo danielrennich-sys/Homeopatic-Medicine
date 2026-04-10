@@ -1,0 +1,97 @@
+{
+  "id": "saponaria-officinalis",
+  "names": {
+    "primary": "SAPONARIA OFFICINALIS",
+    "latin": "SAPONARIA OFFICINALIS",
+    "common": [
+      "Soap Root (SAPONARIA)",
+      "Soapwort"
+    ],
+    "synonyms": [
+      "Saponaria officinalis (LINN.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Utter indifference to pain or possible death. Apathetic, depressed, with sleepiness",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Stitching pain, supraorbital; worse, left side, evening, motion. Throbbing over orbits. Congestions to head; tired feeling in nape. Coryza. Sensation of drunkenness with constant endeavor to go left-wards. Left-sided trigeminal neuralgia, especially supraorbital. Stopped up feeling in nose, also itching and sneezing",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Violent eye pains. Hot stitches deep in eyeball. Ciliary neuralgia; worse, left side. Photophobia. Exophthalmos, worse reading and writing. Increased intraocular pressure. Glaucoma",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Difficult swallowing. Nausea, heartburn; full feeling not relieved by eructation",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Impulse weak; pulse less frequent. Palpitation with anxiety",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "at night, mental exertion, left side",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">SAPONARIA OFFICINALIS Soap Root (SAPONARIA) Of great use in the treatment of acute colds, coryza, sore throat, etc. Will often \"break up\" a cold.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "A stout herbaceous perennial with a stem growing in the writer's garden to 4 or 5 feet high. Leaves lanceolate, slightly elliptical, acute, smooth, 2 or 3 inches long and 1/3 inch wide. Large pink flowers, often double in paniculate fascicles; calyx cylindrical, slightly downy; five petals, unguiculate; top of petals linear, ten stamens, two styles; capsule oblong, one-celled, flowering from July till September. No odour, with a bitter and slightly sweet taste, followed by a persistent pungency and a numbing sensation in the mouth.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Dried root and leaves.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Central and Southern Europe. Grows well in English gardens.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Constituents of the root, Saponin, also extractive, resin, gum, woody fibre, mucilage, etc. Soapwort root dried in commerce is found in pieces 10 and 12 inches long, 1/12 inch thick, cylindrical, longitudinally wrinkled, outside light brown, inside whitish with a thick bark. Contains number of small white crystals and a pale yellow wood.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "A decoction cures the itch. Has proved very useful in jaundice and other visceral obstructions. For old venereal complaints it is a good cure specially where mercury has failed. It is a tonic, diaphoretic and alterative, a valuable remedy for rheumatism or cutaneous troubles resulting from any form of syphilis. It is also sternutatory. Should be very cautiously used owing to its saponin content. Dose. - Decoction, 2 to 4 fluid ounces three or four times daily. Extract or the inspissated juice will be found equally efficacious: dose, 10 to 20 grains. As a sternutatory 2 to 6 grains. Fluid extract, 1/4 to 1 drachm. [ Top ] Purchase from Richters Soapwort (Saponaria officinalis, aka Bouncing Bet) Seeds and Plants",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

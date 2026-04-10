@@ -1,0 +1,44 @@
+{
+  "id": "cochlearia-officinalis",
+  "names": {
+    "primary": "Cochlearia officinalis (LINN.)",
+    "latin": "Cochlearia officinalis (LINN.)",
+    "common": [
+      "Scurvy Grass"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Abundant on the shores in Scotland, growing inland along some of its rivers and Highland mountains and not uncommon in stony, muddy and sandy soils in England and Ireland, also in the Arctic Circle, sea-coasts of Northern and Western Europe and to high elevations in the great European mountain chains.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "It is a small, low-growing plant, annual or biennial, with thick, fleshy, glabrous, egg-shaped, cordate leaves (hence its name of spoonwort). The upper leaves are sessile - lower ones stalked, deltoid orbicular or reniform entire or toothed angularly. Flowers all summer in white short racemes - pods nearly globular - prominent valves of the mid-rib when dry. It has an unpleasant smell and a bitter, warm, acrid taste, very pungent when fresh.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Leaves abound in a pungent oil containing sulphur, of the butylic series.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Formerly the fresh herb was greatly used on sea-voyages as a preventative of scurvey. It is stimulating, aperient, diuretic, antiscorbutic. The essential oil is of benefit in paralytic and rheumatic cases; scurvy-grass ale was a popular tonic drink. The infusion of 2 OZ. to a pint of boiling water is taken in frequent wineglassful doses. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

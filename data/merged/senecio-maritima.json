@@ -1,0 +1,38 @@
+{
+  "id": "senecio-maritima",
+  "names": {
+    "primary": "Senecio maritima (LINN.)",
+    "latin": "Senecio maritima (LINN.)",
+    "common": [
+      "Cineraria Maritima"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Shores of the Mediterranean. Also found on the maritime rocks of Holyhead.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The word 'Cineraria' means ashy grey, a mixture of black and white colouring resulting in the beautiful colour of the plant which grows sparsely in the author's garden at Chalfont St. Peter. This plant is perennial, propagated by cuttings, layers, or seeds. It belongs to the groundsel or ragwort family, of which there are nearly 900 different species known to botanists. The species takes its name from Senex (an old man) in allusion to the white hairy pappus which crowns the achenes. The leaves are about 6 inches long, 2 inches wide, pinnately divided; flowers yellow.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The fresh juice is said to remove cataract. A few drops of the fresh juice are dropped into the eye. See: GROUNDSEL LIFE ROOT RAGWORT [ Top ] Purchase from Richters Dusty Miller (Senecio cineraria) Seeds",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

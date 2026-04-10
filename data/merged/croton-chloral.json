@@ -1,0 +1,30 @@
+{
+  "id": "croton-chloral",
+  "names": {
+    "primary": "Croton Chloral",
+    "latin": "Croton Chloral",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Croton chloral received its name from the supposition that it contained Crotonic acid (C4 H6 O2). According to Hale it is said to possess the singular property of producing anæsthesia of the brain and nerves of the head without affecting the sensibility of the rest of the body. It has been given allopathically in substantial doses in cases of trifacial neuralgia. The patients who were helped by it had carious teeth and some of them anæmia. In two cases the pains were aggravated by it. In some it caused sleep; others were eased but did not sleep. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Anæsthesia; Neuralgia",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

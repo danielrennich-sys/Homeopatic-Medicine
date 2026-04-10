@@ -1,0 +1,32 @@
+{
+  "id": "rocella-tinctoria",
+  "names": {
+    "primary": "Rocella tinctoria",
+    "latin": "Rocella tinctoria",
+    "common": [
+      "Cudbear"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Maritime rocks of Madeira. The Azores, Canary and Cape de Verde Islands. Cudbear is a purplish-red powder prepared from a species of the Rocella tinctoria, Lecanora Acharius and other lichens. It is an alcoholic or agueous preparation of a deep red colour, which is lightened by the addition of acids and changed to a purplish red by alkalies. It yields about 35 per cent of ash, mostly sodium chloride.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Employed for colouring purposes as a dye. Cudbear is very difficult to extract, so the liquid preparations are rarely uniform in colour, and for this reason powdered Cudbear is generally used. The powder is made from an ammoniacal infusion of the lichen evaporated to dryness and then reduced to powder. In pharmacy it is sometimes used as a test for alkalies and acids. R. tinctoria is the lichen from which Litmus is obtained. The lichen is boiled with water, containing chalk in suspension, and then concentrated in vacuum; it is then dried, freed from impurities and put in large vats together with the liquor and ammonia. It is kept at 25 to 30 degrees F. for two or three months and then dried and powdered. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

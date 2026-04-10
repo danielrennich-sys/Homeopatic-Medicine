@@ -1,0 +1,41 @@
+{
+  "id": "rhodiola",
+  "names": {
+    "primary": "Rhodiola",
+    "latin": "Rhodiola",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Rhodiola grows in cold regions and at high altitudes in Europe, Asia, and North America. Rhodiola has a long history of use in Russia, Scandinavia, and other parts of Europe. Traditionally, rhodiola was used for work performance, endurance, fatigue, depression, and altitude sickness. Today, rhodiola is promoted for improving athletic performance, mood, and cognition; increasing energy; and reducing stress.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "There isn’t enough reliable evidence to determine whether rhodiola or its components are useful for any health-related purpose. Most of the research in people is of low-to-moderate quality.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "We haven’t learned enough to say whether rhodiola is useful for any health-related purpose.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Rhodiola is possibly safe for up to 12 weeks. Side effects may include dizziness, headache, insomnia, and either dry mouth or excessive saliva production. Interactions between rhodiola and losartan (a drug used for high blood pressure) have been reported. Little is known about whether it’s safe to use rhodiola during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

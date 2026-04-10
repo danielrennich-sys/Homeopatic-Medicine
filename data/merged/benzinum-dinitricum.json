@@ -1,0 +1,87 @@
+{
+  "id": "benzinum-dinitricum",
+  "names": {
+    "primary": "Benzinum Dinitricum",
+    "latin": "Benzinum Dinitricum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Benz. dinit. is used in the manufacture of the higher explosives. The effects on workpeople have been recorded by Simeon Snell in the British Medical Journal of March 3, 1894. The symptoms observed strongly resemble those of Benz. nit., viz.: Headache, giddiness, staggering; numbness and paralytic sensations. But the following:─Anæmia, with a murmur in the pulmonary artery. Impotence observed in men (in women there was no-alteration in menstrual functions); distaste for tobacco─are not mentioned under Benz. nit., but were marked in those under the influence of Benz. dinit.: The knee-jerks were, if anything, somewhat exaggerated. Dyspnœa was marked in all, accounting partly for the inability to smoke. In the eyes the symptoms were very marked, and were very carefully observed. Ordinary vision was greatly impaired; the field of vision contracted, and partial colour-blindness, \"a small central scotoma for red and green.\" The retinal veins were found much engorged; probably part of the general venous engorgement and cyanosis. The blood is altered and turned black, and the urine is black without containing blood.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Amblyopia; Anæmia; Colour-blindness; Impotence; Peripheral neuritis; Retinitis; Spastic paralysis; Urine, black",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Breath very short; rendering smoking very difficult. Short breath with giddiness. Asphyxia. Want of sensation in arms and legs; prickly feeling. Legs numb to knees and arms to elbows. Stiffness about hands and feet, but esp. the fingers. Hands and feet cold; feet numb and also sore. Finger-tips feel cold to the touch, though she herself is not aware of it. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Benz., Benz. nit., Hydrocy. ac., Ars. Antidoted by: Strychnine."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Raving and unconscious from 5 p.m. to 10 p.m.; the doctor gave him up, but he recovered. Delirious, complaining of great pain in head.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Giddiness, compelling to sit down. Reels like one drunk; even fell off a stool when sitting; stumbled getting into a trap. Could not walk many yards without falling. Occipital headache; unable to work on account of headache. Frontal headache with delirium. Colour of hair altered from golden to a sort of red.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Blindness. Colour-blindness, \"central scotoma for red and green.\". Disc pale; greyish; edges defined; retinal vessels full, esp. the veins. Retinal hyperæsthesia. Veins much larger than the arteries. Conjunctivæ jaundiced.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Face pale, lips blue. Face bluish, asphyxiated look.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Occasional nausea and vomiting. Intolerance of alcohol, \"it made him feel so bad.\".",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urine dark, like ink; sp. gr. 1,029.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Sexual desire lost, power diminished (restored when taking liq. strychniæ after leaving off the work).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Engorgement of venous system. Bruit in pulmonary artery. Pulse very frequent (115), small, and compressible. Anæmia. Blood black.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

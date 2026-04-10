@@ -1,0 +1,129 @@
+{
+  "id": "mercurius-nitricus",
+  "names": {
+    "primary": "Mercurius Nitricus",
+    "latin": "Mercurius Nitricus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "In the form of Liquor Hydrargyri Nitratis acidus and Unguentum Hydrargyri Nitratis of the old school this salt of mercury has achieved a reputation as \"a stimulating application\" to indolent ulcers, to the eyelids in ophthalmia, and in a variety of skin diseases such as herpes, ringworm, impetigo, lepra, psoriasis, rupia. The homœopathic authority for it is Hansen, who considers that sticking pains are its special indication, and also sticking itching. Eye affections with burning, sticking pains, photophobia, and epiphora. Mucous patches with sticking pains. Gonorrhœa with frequent burning, sticking itch on corona glandis and in sulcus coronarius. Vegetations. Hansen says Donner commends it in syphilis of the nerves and of the bones. The Schema is compiled from poisoning cases. Among the symptoms are cachexia; tremors; frequent fainting; pains so intolerable he calls for a knife to kill himself. Coldness predominates, but there is the nitric acid flush of the face.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Condylomata; Eyes, affections of; Gonorrhœa; Malaria; Mucous patches; Syphilis of nerves; Vegetations",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Voice feeble; almost extinct. 18. Tremors severe, difficult prehension and walking. Spasms, twitchings, incoordination. Cramps in lower extremities.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Merc. dulc. in stinging and itching behind corona glandis."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Delirious. Extreme anxiety. Rolled on the ground with excessive pain, and called for a knife to kill himself. Memory poor. Stupor approaching narcotism.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Dizziness. Headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Eyes sunk. Pupils somewhat dilated but react.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Ringing in ears.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Face: flushed; pale and livid; pale, expressive of frightful anxiety. Features contracted. Lips bluish red.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Blue line round margin of gums (esp. round incisors and canines). Gums swollen and bleeding. Tongue: furred; cannot be protruded. Tongue and lips burned, parched, painful. Mucous membrane of mouth inflamed and swollen, painful. Salivation. Coppery taste. Throat: dry; sore, red, painful.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Much eructation and frothy discharge from mouth with occasional vomiting. Vomit: glairy tenesmus; bilious; bloody. Extreme epigastric pain. Considerable pain on pressure over region of stomach and abdomen generally. Pain in hypogastrium.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Tenesmus. Severe diarrhœa with colic. Bloody stools followed by collapse and death. Constipation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Severe pain in voiding urine. Urine: high-coloured. Suppression of urine. Uræmia (urea was found in blood drawn from the arm during suppression of urine).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Marked diminution of sexual power.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Severe pelvic pains and incessant passing of blood from bowels followed, as an aggravation, the local application of Merc. dulc. to womb.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Continuous spasmodic movements of chest. Obscure heart sounds. Pulse small, thin.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Where the liquid touched a brown eschar is left.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "No sleep for several nights.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Skin: cold; cold, clammy; cyanosed extremities. Violent chill. Hot skin; fever. Profuse perspiration. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

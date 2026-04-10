@@ -1,0 +1,24 @@
+{
+  "id": "nausea",
+  "names": {
+    "primary": "NAUSEA",
+    "latin": "NAUSEA",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY NAUSEA. Nausea : Aeth., Ant-c., Ant-t., Ars., Bry., Carb-v., Cham., Cocc., Colch., Cup., Dig., Hep., Ign., Ip., Lyc., Nit-ac., Nux-v., Pho., Pul., Rhus-t., Sep., Sil., Sul., Ver-a. Nausea, continuous : Ip., Iris., Nux-v., Sil. Nausea, deathly , anxious : Ant-t. Nausea, morning : Cimi., Nux-v., Pul., Sep. Nausea, odors (cooking, etc.), agg. : Ars., Cocc., Colch., Dig., Ip., Merc-i-f., Sep., Stan. Nausea, stomach , felt in : Ver-a. Nausea, throat , in : Cycl., Pho-ac., Stan., Val. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

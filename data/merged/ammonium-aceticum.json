@@ -1,0 +1,35 @@
+{
+  "id": "ammonium-aceticum",
+  "names": {
+    "primary": "Ammonium Aceticum",
+    "latin": "Ammonium Aceticum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T AMMONIUM ACETICUM. Chemical formula , C 2 H 3 O 2 NH 4 . Preparation , The aqueous solution know as \"Spiritus Mindereri\" has been employed. Authorities. Wibmer's experiments with repeated doses of the \"spiritus\" diluted with water. ► Scraping in the throat. ► Increased warmth in the abdomen. ► Increased warmth of the skin, especially in the face. ► Heaviness in the head. ► Causes profuse urine which contains sugar; Larrrey (in Med. Chir. Treatise), (old). Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Diabetes; Fever; Sweat",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "This is a very old medicine in great use in old-school practice for \"fever mixtures.\" It has been experimented with by Wibmer, who experienced the following symptoms: \"Scraping in throat. Increased warmth in abdomen; in the skin, especially of face. Heaviness in the head.\" It causes profuse flow of urine, said to contain sugar. \"Bathed in sweat\" is a leading indication. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

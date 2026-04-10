@@ -1,0 +1,122 @@
+{
+  "id": "ferula-glauca",
+  "names": {
+    "primary": "Ferula Glauca",
+    "latin": "Ferula Glauca",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T FERULA GLAUCA. Ferula glauca, Linn. (F. Neapolitana, Ten.) Natural order , Umbelliferæ. Common name , Bounafa. Preparation , Tincture of plant. Authorities. 1 , Molin, effects from applying a compress steeped in tincture to the skin, Bull. de la Soc. Hom. de Paris, 1, 412; 2 , Ibid., \"General Pathogenesis.\" MIND. ► Desire for solitude, [2] . ► Aversion to any kind of work, [2] . ► Sadness; inclination to weep, [2] . ► Impatience; anger, [2] . HEAD. ► Frequent dizziness, [2] . ► Burning in the head, [2] . ► Strong heat in forehead, [2] . ► Hemicrania, [2] . ► Sensation of icy coldness in the occiput, during the day, [2] . [10.] ► Lancinations, prickings, and small pulling pains in the occiput, [2] . EYE. ► Burning, itching, and pricking of the eyelids, [2] . EAR. ► Unpleasant sensation in the ears, [2] . ► Whistling and humming in the ears, [2] . NOSE. ► Redness of the nose, with sensitiveness to touch, [2] . ► Scabs in the nose, with smarting and itching, [2] . MOUTH. ► Pains of various kinds, in the molar teeth only, with aggravation at night, [2] . ► Aphthæ in the mouth, [2] . ► Heat in the mouth; sensation as if the tongue were burnt, [2] . THROAT. ► Scratching, burning, and lancinations in the throat, [2] . [20.] ► Difficulty in swallowing, [2] . STOMACH. ► Appetite. ► Remarkable decrease of appetite, [2] . ► Thirst. ► Urgent thirst, [2] . ► Eructation. ► Bitter eructations, [2] . ► Spitting up of bile, [2] . ► Nausea. ► Nausea, [2] . ► Stomach. ► Slow digestion, with bitter eructations, [2] . ► Constant heat in the stomach, with cutting pain, [2] . ► Stomachache, [2] . ► Drawings in the stomach, [2] . [30.] ► The pains of the stomach are worse after eating, [2] . ABDOMEN. ► Lancinations, pullings in the right hypochondrium, [2] . ► Inflation and tension of the abdomen, [2] . ► Colic before and during stool, [2] . ► Dull colic, [2] . ► Constant burning in the abdomen, [2] . ► Heat and sensation of weight in the hypogastrium, [2] . ANUS. ► Hæmorrhoids, with itching, burning, lancination, and pricking at the anus, [2] . STOOL. ► Diarrha, day and night, but more severe in daytime; stools light-yellow and watery, with smarting and burning at the anus, [2] . URINARY ORGANS. ► Diminished urine, [2] . SEXUAL ORGANS. [40.] ► Menses several days too early, and more profuse, thin or thick, with heat and itching of the vulva, [2] . ► Violent sexual excitement (in females only), [2] . RESPIRATORY ORGANS. ► Dry or loose cough, worse in cold or damp weather, with thick yellow expectoration, [2] . ► Fetid breath, [2] . ► Difficult breathing, [2] . HEART. ► Constriction and heat at the heart, [2] . ► Stronger beating of the heart, [2] . NECK. ► Stiff neck, [2] . ► Pricking and lancination at the nape of the neck, [2] . SUPERIOR EXTREMITIES. ► Stiffness of the arms; difficulty in bending them, [2] . INFERIOR EXTREMITIES. [50.] ► Numbness of the thighs, [2] . ► Cold sensation along the course of the sciatic nerves; felt soon after rising up, [2] . ► Lancination along the nerves of the thighs and legs, [2] . SKIN. ► Deep redness, with swelling of the skin and subcutaneous cellular tissue, [1] . ► Eruption of small red pimples with incessant itching and irresistible inclination to scratch, [1] . ► Eruption of many small red pimples with white tips, in the beard and whiskers, [2] . ► Boils on the nates, thighs, and legs, [2] . ► Pricking and violent itching in different parts of the body, especially at night, [2] . SLEEP. ► Sleepiness in daytime, [2] . ► Sleeplessness; nightly-restlessness, [2] . [60.] ► Starting from sleep at night, [2] . FEVER. ► Burning heat and severe smarting of the skin, [1] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Aphthæ; Diarrhœa; Digestion, slow; Hæmorrhoids; Nymphomania; Pruritus vulvæ",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Difficult breathing. Fetid breath. Cough dry or loose, in damp or cold weather, with thick yellow expectoration. Stiffness of arms; difficulty in bending them. Numbness of thighs. Cold feeling along sciatic nerves; felt soon after rising up. Lancination along nerves of thighs and legs.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Ferula has been proved, but I am not aware of any clinical experience with it. Heat and burning are produced in most parts, and sensations of coldness in others. Stiffness and constriction were also prominent. Violent sexual excitement in women. A cough was complained of, in damp or cold weather.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Other Umbelliferæ; tongue as if burnt, Sang. c."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Aversion to society; to work. Sadness; inclination to weep. Impatience; anger.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Burning in head. Icy coldness in occiput during day. Lancinations, pricking, pulling pains in occiput.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Burning, pricking, itching of eyelids.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Redness of nose; sensitive to touch. Scabs in nose, with smarting and itching.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Aphthæ; heat in mouth; sensation in tongue as if burnt. Scratching, burning, lancinations; difficulty of swallowing.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Decreased appetite; urgent thirst. Bitter eructations. Spitting up of bile. Slow digestion, with bitter eructations. Heat and cutting pains in stomach; after eating. Lancinating, pulling in r. hypochondrium. Inflation and tension of abdomen. Colic before and during stool. Constant burning in abdomen. Heat and weight in hypogastrium.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Hæmorrhoids, with itching, burning, lancinating, and prickings at anus. Diarrhœa day and night, but worse by day; stools light-yellow and watery, with smarting and burning at anus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Diminished urine.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menses several days early, more profuse, thin or thick, with heat and itching of vulva. Violent sexual excitement (in females only).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Constriction and heat at heart; beats stronger.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Stiff-neck. Pricking and lancinating at nape.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Redness and subcutaneous swelling. Small red pimples and incessant itching. Red pimples with white tips in beard and whiskers. Pricking and violent itching in many parts, at night.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleepy in day; sleepless; restless; starting from sleep at night. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

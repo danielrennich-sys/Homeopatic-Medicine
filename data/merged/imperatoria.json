@@ -1,0 +1,74 @@
+{
+  "id": "imperatoria",
+  "names": {
+    "primary": "Imperatoria",
+    "latin": "Imperatoria",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T IMPERATORIA. Peucedanum ostruthium, Koch. (Imperiatoria ostruthium, Linn.) Natural order , Umbelliferæ. Common name (G.) Meister-wurz. Preparation , Tincture of root. Authority. Kleemann, Kaspar's Med. Woch., 1836 (Frank's Mag., 1, 232), effects of an infusion of the root, a spoonful every two hours. ► Feeling of warmth, starting in the stomach, and extending over the whole body. ► General excitement. ► Active orgasm and confusion of the head. ► Itching and burning in the skin. ► General perspiration. ► Diminished secretion of mucus in the intestines and air-passages. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Skin, affections of; Stomach, affections of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Diminished secretion of mucus in air passages.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Imperatoria, like Athamanta, belongs to the genus Peucedanum. Kleemann observed the effects of the infusion of the root, a teaspoonful every two hours. Only a few symptoms were noted, but they were peculiar. \"Diminished secretion of mucus in intestines and air passages\" is noteworthy.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Atham. and Umbelliferæ."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "General excitement.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Active orgasm and confusion of the head.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Feeling of warmth, starting in stomach and extending over whole body. Diminished secretion of mucus in intestines.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching and burning in the skin.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Feeling of warmth starting in stomach and extending over whole body. General perspiration. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

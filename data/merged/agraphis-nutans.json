@@ -1,0 +1,47 @@
+{
+  "id": "agraphis-nutans",
+  "names": {
+    "primary": "AGRAPHIS NUTANS",
+    "latin": "AGRAPHIS NUTANS",
+    "common": [
+      "Bluebell"
+    ],
+    "synonyms": [
+      "Agraphis Nutans"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Third potency. Single doses of tincture (Dr. Cooper)"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">AGRAPHIS NUTANS Bluebell A relaxed condition of the system generally and a proneness to take cold on exposure to cold winds. Catarrhal conditions; obstruction of nostrils. Adenoids, throat deafness. Enlarged tonsils. Mucous diarrhœa from cold. Chill from cold winds. Throat and ear troubles with tendency to free discharge from mucous membranes. Mutinism of childhood unconnected with deafness.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Agraphis is one of the remedies introduced by Dr. Cooper. It partakes of the characters of the lilies and corresponds to catarrhal conditions. Obstruction of the nostrils, especially from adenoids, and throat deafness I have frequently seen relieved by the remedy. The action of it is felt towards the root of the nose. The plant grows in sheltered places, and Dr. Cooper gives > from shelter as a leading indication. It also corresponds to chill from cold winds, and is very like Silica in this. I regard it as one of the leading remedies in cases of adenoids. Dr. Cooper gives: \"Adenoids with enlarged tonsils; frequently accompanying dentition.\" He has cured with it mucous diarrhœa following a suppressed cold.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Adenoids; Catarrh; Deafness; Diarrhœa",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: All. cap., All. sat., Scilla, &c. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "flag",
+  "names": {
+    "primary": "Flag (Blue)",
+    "latin": "Flag (Blue)",
+    "common": [
+      "Flag (Blue)",
+      "Flag (Yellow)"
+    ],
+    "synonyms": [
+      "Flag (Yellow)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A Modern Herbal | Flag (Blue) Botanical.com Home Page Flag (Blue) See: Irises Iris Pseudacorus Iris Lenax Iris Versicolor Purchase from Richters Orris (Iris x germanica florentina) Plants and Powdered Dried Root",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "A Modern Herbal | Flag (Yellow) Botanical.com Home Page Flag (Yellow) See: Irises Iris Pseudacorus Iris Lenax Iris Versicolor Purchase from Richters Orris (Iris x germanica florentina) Plants and Powdered Dried Root",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

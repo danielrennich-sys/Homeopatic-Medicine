@@ -1,0 +1,26 @@
+{
+  "id": "sagittaria-sagittifolia",
+  "names": {
+    "primary": "Sagittaria sagittifolia (LINN.)",
+    "latin": "Sagittaria sagittifolia (LINN.)",
+    "common": [
+      "Arrowhead"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Diuretic and antiscorbutic. See PLANTAIN (WATER) .",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

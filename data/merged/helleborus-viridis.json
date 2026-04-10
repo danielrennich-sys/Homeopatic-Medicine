@@ -1,0 +1,87 @@
+{
+  "id": "helleborus-viridis",
+  "names": {
+    "primary": "Helleborus Viridis",
+    "latin": "Helleborus Viridis",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T HELLEBORUS VIRIDIS. Helleborus viridis, Linn. Natural order , Ranunculaceæ. Common names , Grione; Niesswurz. Preparation , Tincture of the root. Authority. Von Schroff, effects of 2 to 4 grains of the alcoholic extract on healthy persons, Viertlj. f. pr. Heilk, 1859. EAR. ► Ringing in the ears (after six hours). ► Roaring in the ears. ► Roaring, with feeling of stoppage, in both ears (after half an hour). NOSE. ► Violent itching in the nose, with frequent violent sneezing (from the application of the extract to the mucous membrane of the nose). MOUTH. ► Prickling on the tongue, relieved by frequent rinsing of the mouth with water. ► Feeling of burning in the mouth. ► At first there was a profuse secretion of saliva and of mucus in the mouth, soon followed by a feeling of dryness. ► The taste was so intensely bitter and at first rancid that they suffered for a long time from nausea and great inclination to vomit. THROAT. ► Feeling of warmth in the pharynx and stomach, which gradually became a dull burning, which was not relieved by drinking much water. STOMACH. [10.] ► Frequent eructations and gurgling in the abdomen. ► Digestion disturbed for several days. ABDOMEN. ► Abdomen somewhat sensitive and distended (second day). STOOL. ► Very profuse liquid stools. ► Three liquid evacuations from the bowels at short intervals, with intense colic, the last stool accompanied by tenesmus, great nausea, with inclination to vomit, violent headache, and thirst. URINARY ORGANS. ► Micturition frequent, painless, urine pale. PULSE. ► The pulse rose during the first hour several beats in frequency (apparently caused by the excessive nausea from the bad taste of the drug), and afterwards sunk below the normal in one case, while in those who took doses of 2 to 4 grains enveloped in a vehicle, the pulse immediately sank several beats. SLEEP. ► A condition bordering on sopor, lasting the whole night, and preventing refreshing sleep. ► Nigh restless, sleep frequently interrupted. FEVER. ► Sensation of heat at times over the whole body. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Colic; Diarrhœa; Epilepsy; Sore throat; Ulcers",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "The pulse rose during the first hour several beats in frequency (apparently caused by the excessive nausea from the bad taste of the drug), and afterwards sank below the normal in one case; while in those who took doses of 2 to 4 grains enveloped in a vehicle, the pulse immediately sank several beats.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "This was also proved by Schroff. It produced roaring in the ears; itching in the nose; and prickling of the tongue; diarrhœa of liquid stools; a condition of sopor. Cooper has cured with it ulcers of the leg, near the ankle, after the failure of Hell. n. Also a case of epilepsy in a child, the concomitant symptoms being: \"Head sweats before the fit; diarrhœa for four days sleepy.\"",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Ringing and roaring in the ears; with feeling of stoppage in both ears.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Violent itching of nose with frequent violent sneezing (from application of extract to mucous membrane of nose).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Prickling on tongue > by frequent rinsing of mouth with water. Burning in mouth. At first profuse secretion of saliva and mucus in mouth, soon followed by dryness. The taste was so intensely bitter and rancid, that she suffered for a long time from nausea and great inclination to vomit. Feeling of warmth in pharynx and stomach, gradually becoming a dull burning, not > by drinking much water. 11.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Frequent eructations, and gurgling in abdomen. Digestion disturbed several days. Abdomen somewhat sensitive and distended.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Very profuse liquid stools. Three liquid evacuations from bowels, at short intervals, with intense colic, the last stool accompanied by tenesmus, great nausea, with inclination to vomit, violent headache and thirst.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Micturition frequent, painless, urine pale.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "A condition bordering on sopor, lasting the whole night, and preventing refreshing sleep. Night restless, sleep frequently interrupted.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Sensation of heat at times over the whole body. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

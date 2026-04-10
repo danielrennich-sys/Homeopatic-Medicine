@@ -1,0 +1,80 @@
+{
+  "id": "lacerta",
+  "names": {
+    "primary": "Lacerta",
+    "latin": "Lacerta",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T LACERTA. Lacerta agilis, L. Natural order , Reptila. Common name , Green Lizard (widely diffused throughout Europe; not venomous). Preparation , (?). Authorities. 1 , Symptoms from Archiv f. Hom., 14, 2, 202; 2 , Baldini, A. H. Z., 67, 74, experiments on self; he swallowed a whole lizard cut into small pieces; 3 , same, second experiment; 4 , same, two lizards taken. MOUTH. ► Large vesicles under the tongue, [1] . ► Constant accumulation of saliva in the mouth, [4] . STOMACH. ► Violent eructations and some distress in the stomach, [2] . ► Nausea and a feeling of weight in the stomach, immediately, [3] . ► Great nausea, [4] . ► Violent pressure in the stomach, [4] . ABDOMEN. ► Pains in the intestines, relieved by frequently drinking water and vinegar (after one hour), [4] . PULSE. ► Pulse rose 8 beats, [4] . ► The pulse, which before the proving was 70, rose to 80, [2] . [10.] ► Pulse 80 when taking, fell 14 beats (after one hour), [3] . GENERAL SYMPTOMS. ► All the symptoms disappeared during the subsequent night after a profuse sweat, [4] . SKIN. ► Moist, white eruption in several parts of the body, especially on the inner canthus of the eye, [1] . ► Ulcerated places on the female genitals, [1] . FEVER. ► The temperature rose 60, [4] . ► The thermometer applied to the pit of the stomach before taking was 26°; 32° after one hour, [3] . ► Thermometer, when taking, 34°; it fell 8°, after an hour, [3] . SUPPLEMENT: LACERTA. Authority. 5 , Sidney B. Cushman, Bost. Med. and Surg. Journ., vol. xxi, 1840, p. 367, a girl, aged thirteen years, was bitten on the sole of the left foot by a large green spotted lizard. ► Numbness of the foot, as though it had been deprived of sensation by cording the ankle, and that occasional prickling that occurs on the return of circulation; numbness continued spreading upward; the whole limb became severely swollen, with most excruciating pain on the slightest motion. Inflammatory blush over the direction of the lymphatics (second day). The muscles of the neck and jaw of that side were rigid and tender to touch. Much difficulty in swallowing. Occasional delirium, particularly the first week. Wonderfully increased mental acumen during her intervals of reason. Whole left side paralyzed. The limbs were spotted a short time before death, which occurred on the twenty-first day, [5] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Skin, eruptions on; Tongue, vesicles under",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pulse rose eight beats; subsequently fell fourteen beats. Numbness; prickling; swelling spreads up from bitten foot, with most excruciating pain on slightest motion; muscles of neck and jaw of l. (bitten) side stiff and tender to touch, while l. side paralysed. The limbs were spotted a short time before death on the twenty-first day (A). All the symptoms disappeared on the subsequent night after a profuse sweat.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The Green Lizard is usually considered to be non-poisonous; but Baldelli, who ate a lizard cut into small pieces, developed some decided symptoms of indigestion, vesication under the tongue, and skin eruptions; and a girl, bitten on the sole of the left foot by a \"large green spotted lizard,\" died of the effects of the bite after twenty-one days of suffering. This is recorded in Allen's Appendix, and comes from an American source, so it is probably an American variety of Lacerta that is accountable for this. Swelling, pain, numbness, delirium, with an alternating state of greatly increased mental acumen, left-sided paralysis, neck and jaw of left side rigid and muscles tender. In the Schema the symptoms due to the bite of the American lizard are marked (A). The symptoms of the proving were > by drinking frequently vinegar and water. Motion = excruciating, pains in bitten limb. Touch .",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Amphisbœna, Heloderma. Antidote: vinegar (?)"
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Occasional delirium. Wonderfully increased mental acumen during intervals of reason (A).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Muscles of l. (bitten) side neck and jaw rigid and tender to touch (A).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Large vesicles under tongue. Constant accumulations of saliva in mouth. Much difficulty in swallowing (A).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Violent eructations and some distress in stomach. Nausea and a feeling of weight and pressure in stomach. Pains in intestines, > by frequently drinking vinegar and water.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Ulcerated places on female genitals.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Moist white eruptions in several parts of the body, esp. inner canthus of eye. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

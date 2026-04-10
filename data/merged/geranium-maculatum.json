@@ -1,0 +1,95 @@
+{
+  "id": "geranium-maculatum",
+  "names": {
+    "primary": "GERANIUM MACULATUM",
+    "latin": "GERANIUM MACULATUM",
+    "common": [
+      "Crane's-bill"
+    ],
+    "synonyms": [
+      "Geranium Maculatum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Giddiness, with diplopia; better, closing eyes. Ptosis and dilated pupils. Sick headache",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Giddiness, with diplopia, > closing eyes and lying down. Slight pain in occiput, low down.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Dry; tip of tongue burning. Pharyngitis",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Dryness of mouth, extending outward on the lips to the cuticle proper, followed by pain in l. side of forehead, and of head directly over l. ear. Tip of tongue dry and burning.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Catarrhal gastritis with profuse secretion, tendency to ulceration and passive hæmorrhage. Lessens the vomiting in gastric ulcer",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Constant desire to go to stool, with inability to pass anything for some time. Chronic diarrhœa, with offensive mucus. Constipation",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Constant desire to go to stool with inability to pass the least fæcal matter; after the effects passed off the bowels moved without pain. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menses too profuse. Post-partum hæmorrhage. Sore nipples (Eup arom)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture, half-dram doses in gastric ulcer. Tincture, to third attenuation, as a general rule. Locally, in ulcers, it will destroy the pyogenic membrane"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">GERANIUM MACULATUM Crane's-bill Habitual sick headaches. Profuse, hæmorrhages, pulmonary and from different organs. Vomiting of blood. Ulceration of stomach. Atonic and foul ulcers. Summer complaint.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "There are two fragmentary provings of Geran. mac. one made with root preparations, one with infusion of the plant. The chief symptoms observed have been diplopia and other disorders of vision (these were observed by the prover of the decoction; the remaining symptoms resulted from the root preparation); and constant and ineffectual desire for stool. In the mother tinctures and lower attenuations it has been used successfully in cases of hæmorrhage from various parts─nose, stomach, lungs. Under the use of the drug the blood in hæmorrhages becomes darker, clots more easily, and is much less in quantity. The root contains both tannic and gallic acids. It has also been used for chronic diarrhœa and for leucorrhœa.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Diarrhœa; Diplopia; Dysentery; Hæmorrhages; Leucorrhœa; Stool, ineffectual urging to; Throat, sore",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Hamam., Hydrast., Hæmatoxylon, Ratan., Ficus relig., Erodium."
+      ]
+    },
+    "eyes": [
+      {
+        "text": "Fulness in the eyes. In a few minutes became giddy and saw double; when he closed his eyes and lay down he felt comfortable, but could not open them without the recurrence of the symptoms. Ptosis and dilated pupils. Great difficulty in walking with eyes open, though he could walk with them closed. Fulness of the eyes.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

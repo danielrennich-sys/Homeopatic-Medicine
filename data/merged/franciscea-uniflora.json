@@ -1,0 +1,42 @@
+{
+  "id": "franciscea-uniflora",
+  "names": {
+    "primary": "FRANCISCEA UNIFLORA",
+    "latin": "FRANCISCEA UNIFLORA",
+    "common": [
+      "Manaca (FRACISCEA)"
+    ],
+    "synonyms": [
+      "Franciscea Uniflora"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Tincture of Fluid Extract 10 to 60 minims"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">FRANCISCEA UNIFLORA Manaca (FRACISCEA) Chronic stiffness of the muscles. Gonorrhœal rheumatism. Syphilis and rheumatism, great heat over body, much aching, better sweat. Pain in back of head and spine; band-like feeling around head. Pericarditis with rheumatism. Rheumatic pains in feet and lower part of legs. Urine contains uric acid.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Franciscea u. is a Brazilian remedy of great local repute as an anti-syphilitic and anti-rheumatic. It is called \"vegetable mercury.\" In large doses it is a poison, causing violent purgation and emesis. Many cases of acute, sub-acute, and chronic cases of rheumatism have been reported cured with the tincture by homœopaths; also pericarditis complicating rheumatism. Hansen gives these symptoms as characteristic, though I do not know of any proving: \"Intense headache like a band around the head, pain in occiput, neck and spine, lancinating, sticking; terrible aching all over, with great heat, followed by profuse sweat, which > all symptoms.\" Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Headache; Pericarditis; Rheumatism; Syphilis",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

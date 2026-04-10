@@ -1,0 +1,36 @@
+{
+  "id": "fel-bovis",
+  "names": {
+    "primary": "Fel Bovis",
+    "latin": "Fel Bovis",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Oxgall, Oxbile. The fresh bile of Bos Taurus, Linné (Family, Bovidae), the Common Ox.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Description.—A brown-green or dark-green, disagreeably bitter, and somewhat viscous liquid, having a peculiarly unpleasant taste. Neutral or slightly alkaline in reaction. Used in preparing Extract of Oxgall.Principal Constituents.—Bile acid salts (glycocholates and taurocholates), and bile pigments (bilirubin, biliverdin, bilifuscin, etc.), and cholesterin.Preparation.—Extractum Fellis Bovis, Extract of Oxgall, (Powdered Extract of Oxgall). Dose, 1 to 5 grains.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—Common oxgall is used by the laity for the gallstone diathesis, and the purified form by physicians whenever there is a deficient supply of normal bile, particularly in chronic constipation with clay-colored stools, in jaundice and in intestinal dyspepsia, due to hepatic torpor.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "felter-eclectic-1922"
+    ]
+  }
+}

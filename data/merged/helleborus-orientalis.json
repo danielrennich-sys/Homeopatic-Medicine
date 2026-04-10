@@ -1,0 +1,67 @@
+{
+  "id": "helleborus-orientalis",
+  "names": {
+    "primary": "Helleborus Orientalis",
+    "latin": "Helleborus Orientalis",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "HELLEBORUS ORIENTALIS.",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "This was proved by V. Schroff on Lederer, and produced symptoms like those of the other Hellebores. These are peculiar: Accumulation of water in the mouth with clean tongue. Bad taste, with clean tongue. Prostration, exhaustion, and disinclination to work; burning in stomach; diarrhœa. The symptoms were > by coffee.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T HELLEBORUS ORIENTALIS. Helleborus orientalis, Lam. Natural order , Ranunculaceæ. Preparation , Tincture of the root. Authority. V. Schroff's proving on Lederer, who took the alcoholic extract, 2 grains at a dose; Viertlj. f. pr. Heilk., 1859. HEAD. ► Heaviness of the head (second day). ► Feeling of fulness in the head (after half an hour). ► Headache. MOUTH. ► Accumulation of water in the mouth (second day). ► Accumulation of water in the mouth, with clean tongue (second day) ► Bad taste in the mouth, with clean tongue (second day). THROAT. ► Burning, extending from the stomach to the lower portion of the sophagus. STOMACH. ► Loss of appetite (second day). ► Eructations. [10.] ► Hiccough. ► Great nausea (second morning). ► Slight burning in the epigastric region, which afterwards extended to the intestines, followed by sensation of pressure in the stomach (after three-quarters of an hour). ► Feeling of fulness in the epigastric region, with inclination to vomit. ABDOMEN. ► Frequent, rumbling along the bowels, in the morning on waking, soon following by four liquid evacuations in succession (second morning). ► Pain in the abdomen, especially in the region of the left transverse colon (after two hours). URINE. ► Urine more profuse and paler than usual (second day). PULSE. ► Pulse rose from 80 to 92 during the first half hour, where it remained for half an hour, and then fell to 76; as long as the pulse was increased in the frequency, the warmth of the body was increased. ► The pulse was always diminished in frequency, without previous increase, during the first two hours, as much as 13 beats below the normal (after 3 grains of the alcoholic extract). GENERAL SYMPTOMS. ► Disinclination to work (second day). [20.] ► Weakness and prostration (third and fourth days). ► General prostration (after a few hours). ► Exhaustion of the whole body (second day). ► A feeling of heaviness oppressing the whole body during the first night. ► Symptoms relieved by Coffee. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Diarrhœa; Indigestion; Salivation",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pulse more frequent, body warmer. Pulse slowed. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Heaviness; fulness; headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Accumulation of water in mouth; with clean tongue. Bad taste with clean tongue.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Loss of appetite. Eructations. Hiccough. Nausea. Burning, extending from stomach to lower portion of œsophagus. Epigastric region: Feeling of fulness with inclination to vomit; slight burning, afterwards extending to intestines, followed by pressure in stomach. 12. Frequent rumbling along bowels, in morning on waking, soon followed by four liquid stools in succession. Pain esp. in region of l. transverse colon.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urine more profuse and paler than usual.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

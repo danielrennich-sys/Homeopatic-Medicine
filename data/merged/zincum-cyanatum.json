@@ -1,0 +1,63 @@
+{
+  "id": "zincum-cyanatum",
+  "names": {
+    "primary": "Zincum Cyanatum",
+    "latin": "Zincum Cyanatum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T ZINCUM CYANATUM. Zinc cyanide, ZnC2N2. Authority. Kopp, Denkwurdigkeiten, vol. iii, p. 376 (Roth, Journ. De la Soc. Gall., Mat. Méd. Pure. vol. i, p. 496). ► Great excitement. ► Bad temper. ► Very subject to anger. ► Very great sensitiveness. ► Congestion to the head. ► The face suddenly changes color. ► Constipation. ► Great physical agitation. ► General trembling, from time to time. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Chorea; Convulsions; Epilepsy; Hysteria; Meningitis; Paralysis agitans; Petit mal",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Great physical agitation. General trembling from time to time. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Zn. cy. produces the nervous and mental symptoms of Zn. with great intensity, and it has been chosen in consequence as the salt for use in convulsions and paralytic conditions in which Zn. is indicated. The few symptoms of Kopp's proving show its suitability.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Great excitement. Bad temper. Great sensitiveness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Congestion to head.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Face suddenly changes colour.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Constipation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

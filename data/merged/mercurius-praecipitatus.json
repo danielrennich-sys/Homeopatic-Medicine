@@ -1,0 +1,127 @@
+{
+  "id": "mercurius-praecipitatus",
+  "names": {
+    "primary": "Mercurius Præcipitatus Albus",
+    "latin": "Mercurius Præcipitatus Albus",
+    "common": [],
+    "synonyms": [
+      "Mercurius Præcipitatus Ruber"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "The symptoms of Merc. præcip. alb. are taken entirely from poisonings. The most peculiar symptoms are: Green tongue; bilious stools scalding anus; and the old-mannish appearance of a child poisoned with it. Mossa (H. R., ix. 28) relates (1) a case of chronic eczema of the face in an elderly man, a moistening eruption in winter and from exposure to cold; vesicles on a reddened, swollen skin dry into scales which exfoliate; eyelids, especially lower, œdematous, corners reddened; lachrymation; ear involved; itching and burning on head preventing sleep. Merc. præcip. alb. 3 gr. i. every third day. First the burning itching ceased. Then formation of blisters abated. Exfoliation continued a long time, but the skin finally became normal. (2) Girl, 2, eruption on face and large part of scalp, covered with thick yellow crust, matter exuding from cracks. Offensive odour; swollen cervical glands. Merc. præcip. alb. 3 gr. i once in three days cured in four weeks.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "This intensely irritating mercurial was investigated by Hahnemann. All the usual mercurial symptoms were intensified. Hansen has used it in practice, and gives these as indications [which are not all found in the provings]: Gonorrhœa when the urethra is felt as a hard string. Phagedænic ulcer and bubo. Indurated ulcer, deep, with red, hard edges, and especially when spreading. Syphilitic iritis when the pains have ceased. Pemphigus neonatorum and intertrigo syphilitica. Mucous patches on scrotum and by anus, with or without fissures. Eczema, acute or chronic, much sero-purulent or purulent exudation, also externally (in ointment 1 to 40 of prepared lard). Tinea tonsurans, circinata and sycosis. Folliculitis barbæ (internally and externally).─These are Hansen's own observations. In the symptoms of the proving a sensation \"as of a hot iron in anus moving up and down\" looks like a possible keynote.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Dwarfism; Eczema faciei",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Slight subsultus. Collapse. During the night the child shrieked as from great pain, in the morning it had changed to the appearance of an old man.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Clinical: Anus, burning in; Chancroid; Gonorrhœa; Mucous patches; Pemphigus neonatorum",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Larynx inflamed and swollen, even outside. (Paroxysms of suffocation at night on lying down and while falling asleep; obliged to jump up suddenly, when it disappeared.). Oppression of chest. General trembling. Convulsions. Cramps of internal organs; and in legs. Spasmodic contraction of extremities.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Dwarfish children, Bar. c., Syph. Eczema, Mez., Æthiops. ant."
+      ]
+    },
+    "face": [
+      {
+        "text": "Face: much flushed; greatly swollen. In one night a child (poisoned with 20 gr.) had undergone a remarkable change; had become in appearance \"quite an old man.\".",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Remarkable redness of face and eyes. Dropsical condition of face. Cheeks and lips enormously swollen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Gums much swollen. Tongue: much coated; thick greenish fur.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Inflamed gums. Tongue enormously swollen and protruding. Two holes in tongue. Inside of mouth coated with a substance like decayed cheese. Whole anterior portion of mucous membrane of cheeks, gums, and under surface of tongue sloughed away, and four teeth were lost in the process of syringing. As the parts healed the jaws became completely closed by contracting cicatrices. Tongue was reduced and firmly adherent to floor of mouth and cheeks. Strong mercurial odour. Burning in mouth and throat; pains prevent sleep. Mouth very sore; flakes of epithelium separate. Itching over whole mouth without salivation. Profuse salivation. Blood and saliva of the most fetid odour flowed constantly from mouth. Throat inflamed. Burning like hot ashes on swallowing the powder.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Thirst urgent. Nausea and vomiting. Vomits deeply blood-stained fluid. Much pain at stomach. After half an hour pain began in epigastrium, gradually spreading over whole abdomen. Great pain in abdomen; continuing after taking any, even liquid, food, for more than a week. Constant griping. Whole abdomen painful to pressure.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Unquenchable thirst. Nausea; vomiting. Vomit: with cutting in abdomen; blackish blood; bloody mucus; followed by diarrhœa. Pains in stomach and whole abdomen. Agonising pain in stomach with burning heat and nausea. Occasional pain in l. hypochondrium. Abdomen distended and painful to contact. Agonising colic.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "One copious stool with mucous shreds in some quantities, much dark blood. Numerous scanty stools with much blood. Almost pure bile causing great scalding of anus.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Constant urging; gradually became , and spread over whole intestinal canal, with constant sensation in anus as of a glowing hot iron moving up and down. Most excessive tenesmus, with scanty discharge of blood, with cutting, burning pains. Diarrhœa: excessively violent; with violent cramps. Stools: mainly blood; involuntary, greenish, and offensive.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Drowsy, semi-comatose.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Cold, clammy skin, much congestion of cutaneous vessels. General perspiration. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Cold, perspiring skin. Cold sweat. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Apprehension.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Fierce, intent look. Chemosis. Blepharitis (cured in a prover).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "(Violent palpitation that seemed as if it would burst the chest. Small, hard pulse.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

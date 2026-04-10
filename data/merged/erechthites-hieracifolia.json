@@ -1,0 +1,35 @@
+{
+  "id": "erechthites-hieracifolia",
+  "names": {
+    "primary": "ERECHTHITES HIERACIFOLIA",
+    "latin": "ERECHTHITES HIERACIFOLIA",
+    "common": [
+      "Fire-weed (ERECHTHITES)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "skin": [
+      {
+        "text": "Symptoms like Rhus poisoning",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture. Locally for Poison Oak"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ERECHTHITES HIERACIFOLIA Fire-weed (ERECHTHITES) A hæmorrhagic remedy. Epistaxis of bright blood. Hæmorrhage from any part, especially lungs; always attended by excitement of the circulation. Flashes of heat and coldness. Scanty urine, œdema of the extremities.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

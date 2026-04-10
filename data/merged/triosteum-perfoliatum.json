@@ -1,0 +1,53 @@
+{
+  "id": "triosteum-perfoliatum",
+  "names": {
+    "primary": "TRIOSTEUM PERFOLIATUM",
+    "latin": "TRIOSTEUM PERFOLIATUM",
+    "common": [
+      "Fever-root"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Occipital pain, with nausea on rising, followed by vomiting. Influenza, with aching pains all over, and heat in the limbs. Ozæna; frontal pain",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Loathing of food; nausea on rising, followed by vomiting and cramps. Stools watery, frothy",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Stiffness of all joints; calves numb; aching in bones. Rheumatic pain in back. Pains in limbs",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching welts. Urticaria from gastric derangement",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Sixth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">TRIOSTEUM PERFOLIATUM Fever-root Triosteum is a very valuable remedy in diarrhœa attended with colicky pains and nausea, numbness of lower limbs after stool, and increased flow of urine; also in influenza. Quiets nervous symptoms (Coffea, Hyos). Biliousness. Bilious colic.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

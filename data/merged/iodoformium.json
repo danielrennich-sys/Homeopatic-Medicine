@@ -1,0 +1,59 @@
+{
+  "id": "iodoformium",
+  "names": {
+    "primary": "IODOFORMIUM",
+    "latin": "IODOFORMIUM",
+    "common": [
+      "Iodoform (IODOFORMUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Sharp, neuralgic pain. Head feels heavy, as if it could not be lifted from pillow. Itching of occiput. Meningitis. Sleep interrupted by sighing and cries. Very drowsy",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Pupils, dilated; contract unequally, react poorly. Diplopia. Failing sight due to retro-bulbar neuritis, central scotoma-partial atrophy of optic disc",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Sore pain in apex of right lung. Feeling of a weight on chest, as if smothering. Cough and wheezing on going to bed. Pain in left breast, like a hand grasping at the base of the heart. Hæmoptysis. Asthmatic breathing",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Scaphoid abdomen. Chronic diarrhœa with suspected tuberculosis. Abdomen distended; mesenteric glands enlarged. Cholera infantum. Chronic diarrhœa; stools greenish, watery, undigested, with irritable temper",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Legs weak; cannot stand and walk with eyes closed. Weakness of knees when going upstairs",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Second trituration. Three grains on the back of the tongue will relieve attack of asthmatic breathing"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">IODOFORMIUM Iodoform (IODOFORMUM) Should not be forgotten in the treatment of tubercular meningitis, both as a local application to the head and internally (Bacil). Tuberculous conditions. Subacute and chronic diarrhœa of children.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

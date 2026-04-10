@@ -1,0 +1,53 @@
+{
+  "id": "indolum",
+  "names": {
+    "primary": "INDOLUM",
+    "latin": "INDOLUM",
+    "common": [
+      "A Crystalline Compound Derivable from Indigo, but also a product of Putrefaction of Proteids (INDOL)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Dull occipital and frontal headache in afternoon. Dull sensation over eyes. Eyeballs hot and hurt when moved. Pupils dilated with headache",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Bloated feeling. Hungry sensation after full meal. Great thirst. Constipation",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Very tired and sore in lower limbs. Feet burn. Knee-joints sore",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleepiness. Continuous dreaming",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Sixth attenuation"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">INDOLUM A Crystalline Compound Derivable from Indigo, but also a product of Putrefaction of Proteids (INDOL) Primary action is to increase the elimination of Indican. Auto-intoxication. Compare: Skatol. Persistent desire to sleep, dull, discontented mental state, hideous, delusions and nervousness, constant motion of fingers and feet. Intestinal putrefaction.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

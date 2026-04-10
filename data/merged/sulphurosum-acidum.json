@@ -1,0 +1,129 @@
+{
+  "id": "sulphurosum-acidum",
+  "names": {
+    "primary": "SULPHUROSUM ACIDUM",
+    "latin": "SULPHUROSUM ACIDUM",
+    "common": [
+      "Sulphurous Acid; H2 S O3"
+    ],
+    "synonyms": [
+      "Sulphurosum Acidum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Anxious, furious, disposed to fight. Headache better by vomiting. Ringing in ears",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Giddy, lost recollection, as after spirits. Violent pain and beating in head, with ringing in ears. Insufferable headache, somewhat > after vomiting.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Ulcerative inflammation of mouth. Tongue red or bluish-red. Coated",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "(Ulcerative stomatitis.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Loss of appetite. Obstinate constipation",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Many vomited, others had inclination but could not.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Persistent choking cough with copious expectoration. Hoarseness, constriction of chest. Difficult breathing",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Fluor albus. Debility",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "As a spray in tonsillitis. According to Ringer, ten to fifteen minims taken ten minutes before each meal will remedy pyrosis and prevent fermentation and flatulence. It also removes thrush. Homeopathically, third attenuation"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">SULPHUROSUM ACIDUM Sulphurous Acid; H2 S O3 Sulphurous acid, (tonsillitis (as a spray), acne rosacea, ulcerative stomatitis, pityriasis versicolor).",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Some forty years ago, when the germ theory of disease in its present form was in its infancy, Dewar, of Fife, conceived the idea that Sulphurous acid was an innocent and at the same time universal germ destroyer, and consequently universal remedy. His views met with cordial acceptance, and inhalations of Sulphurous acid given off from burning Sulphur became the fashion. Dewar's method was simple. A few red cinders were put in a kitchen shovel; this was placed in the centre of a room and flowers of sulphur sprinkled thereon. In a very short time every person in the room was sneezing violently, coughing and wheezing, and running at the eyes and nose. Dewar also used the ordinary solution and a spray. Among the special diseases arrested by Suls. ac. Dewar named: Chilblains; chapped hands; diphtheria; scarlatina maligna; erysipelas (a local application of equal parts of the B. P. acid and glycerine); cold in the head, influenza, asthma, bronchitis, croup, clergyman's sore throat, chronic phthisis; typhoid fever. Wounds, sore nipples, bruises were also amenable to its local use. As one who has undergone the \"fumigation\" process (it was supposed to prevent all sorts of maladies, as well as cure, and I suppose it was with that object that I was made to \"prove\" Suls. ac. in my boyhood), I can testify to its homœopathicity in the \"cold, coughs, asthma, and influenza\" part of Dewar's recommendations. Suls. ac. doubtless shares the antiseptic properties of Sulph. The symptoms of the Schema are from observations of the effects on workmen in mines, from air contaminated with Suls. ac., with a few additions of my own. Milne sums up its virtues thus: \"Antiseptic, disinfectant; a powerful deoxidiser and destroyer of vegetable life.\" As a gargle it is used in the strength of one to six. In parasitic skin affections the B. P. solution is used and is effective. Internally, says Milne, it \"does good in sarcina\" in doses of min. xxx. to lx., well diluted with water. Ringer (who endorses most of Dewar's recommendations) says that ten to fifteen minims taken ten minutes before each meal will remedy pyrosis in most instances, and prevents flatulence and fermentations; and that \"the solution, either strong or diluted, in varying proportions, speedily removes thrush.\" This case touches a homœopathic characteristic of Suls. ac.─ulcerative inflammation of the mouth. It has cured this in the attenuations. The headache of Suls. ac. is > by vomiting. C. Wootton tasted the acid (H. W., xxvi. 204) with this result─it at once stopped the mucous secretion of the bowels, producing scybalous motions. The constipation was so severe that he was in misery for nine months, till he took Hydrast., which cured. The use of Suls. ac. as a hair-wash at a later time produced the same result.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Acne rosacea; Colds; Constipation, scybalous; Croup; Diphtheria; Eczema marginalis; Favus; Hands, chapped; Influenza; Nipples, sore; Pityriasis versicolor; Pyrosis; Stomatitis, ulcerative",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Persistent choking cough, with copious expectoration of thin mucus. A difficulty of breathing and frequent involuntary deep inspirations. Lower limbs weak, very painful immediately above the knees. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Antidoted by: Hydrast. (constipation). Compare: Sul. In ulcerated sore mouth, Nat. m., Caps. The effects on the back recorded by Hahnemann as from the fumes of burning Sulphur were antidoted by Electric shock."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Quite furious. Disposed to fight. Extreme terror and efforts to escape; imagine every one wants to lay hands on them. Listless. Singing and praying. As if intoxicated. Great anxiety.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Ringing in ears with pain in head.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Sneezing and coryza.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Severe constipation, scybalous motions, lasting nine months; complete dryness of intestinal tract; (Hydst. cured at last). Some evacuated contents of rectum; others had the desire but could not.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Extreme tightness of the chest. Heart palpitated violently. Pulse: quiet, feeble; or slow, feeble and irregular.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "[Stiffness (painful) of spine between scapulæ, during and after movement, with pain as though it were broken. Painful stiffness in the junction of sacrum with base of pelvis; in morning there occurred very painful jerks. (From the fumes of burning Sulphur).].",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

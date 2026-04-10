@@ -1,0 +1,189 @@
+{
+  "id": "antipyrinum",
+  "names": {
+    "primary": "ANTIPYRINUM",
+    "latin": "ANTIPYRINUM",
+    "common": [
+      "Phenazone-A Coal-tar Derivative (ANTIPYRINE)"
+    ],
+    "synonyms": [
+      "Antipyrinum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Fear of becoming insane; nervous anxiety; hallucinations of sight and hearing",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Loss of consciousness. Fear of impending insanity (mental balance did not return for some months). Excitement. Continual crying. Nervous anxiety.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Throbbing headache; sensation of constriction. Flashes of heat. Headache under ears with earache",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Headache, with toothache; pain behind both ears of tearing character. Snapping sensation in head.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Puffiness of lids. Conjunctiva red and œdematous, with lachrymation. Red spots (Apis)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Complete loss of vision. Eyelids swollen so that eyes were almost closed. Coryza.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Pains and buzzing. Tinnitus",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Buzzing in ears.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Œdema and puffiness. Red and swollen",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Œdema; dusky red face.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Swelling of lips. Burning of mouth and gums. Ulceration of lips and tongue; vesicles and bullæ. Small lump in cheek. Tongue swollen. Bloody saliva. Toothache along lower jaw",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pain on swallowing. Expectoration of fetid pus. Abscess, white false membrane. Sensation of burning",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "General toothache, together with headache; pain behind both ears of a tearing character. Tingling burning in gums, mouth, and throat. Lump in mouth about an inch thick just below level of upper teeth (passed away in half-hour). Dryness, burning, swelling, l. side of throat with aphonia; l. tonsil white and swollen. Tight, constricted feeling.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea and vomiting; burning and pain",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Attacks of excitement accompanied by vomiting (in a child). Epigastric pain, causing to bend double and cry out. Expanding sensation rising from stomach.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Diminished. Penis black",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Incontinence of urine. Amount diminished.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Itching and burning in vagina. Menses suppressed. Watery leucorrhœa",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Fluent coryza. Nasal mucous membrane swollen. Dull pains in frontal sinus. Aphonia. Oppression and dyspnœa. Cheyne-Stokes respiration",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Faintness, with sensation of stoppage of heart. Throbbing throughout the body. Rapid, weak, irregular pulse",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Sensation as though contents of thorax and abdomen were being forcibly drawn up towards throat, and r. testicle to abdomen. Dyspnœa; tightness of chest. Sensation of tumour over notch of sternum. Inability to lie down. Pulse feeble and rapid. Fainting spells.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Nerves] Epileptiform seizures. Contractures. Trembling and cramps. Crawling and numbness. General prostration",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Clinical: Dysmenia; Enuresis; Epilepsy; Epistaxis; Erythema; German measles; Headache; Heart, paralysis of; Mind, deranged; Respiration, Cheyne-Stokes; Scarlatina; Throat, sore; Toothache; Urticaria",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Cheyne-Stokes breathing. Hoarseness following aphonia. Pains in limbs. Limbs swollen. Cramp in r. arm. Fingers of r. hand clenched in the form of a claw. Feeling of numberless pins pricking him down each side of the neck, extending down r. chest and abdomen, particularly severe r. side of scrotum and r. testicle, also in legs and feet, severely r., slightly l. Sensation as if contents of chest and abdomen drawn upwards, felt he was \"drawn in a ruck,\" and, being unable to stand, fell on the floor. Trembled violently all over, had cramp in r. arm. Epileptic attacks, with partial unilateral twitching; contraction of muscles; chattering of teeth; jactitation. Cyanosis. Collapse. Throbbing all over body. Sensation as if inside of body were filled with ice.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Erythema, eczema, pemphigus. Intense pruritus. Urticaria, appearing and disappearing suddenly, with internal coldness. Angioneurotic-œdema. Dark blotches on skin of penis, sometimes with œdema",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Rash, erythema or urticaria, with troublesome itching; chiefly between fingers. Irregular rounded pimples lying close together, in some places confluent, forming patches, between which skin was normal, giving a marbled appearance, lasted five days, turned brownish and desquamated slightly. Eruption thickest on body and extremities, extensor more covered than flexor surfaces. Eruption begins on face and arms, last on legs. Scarlet macular eruption.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "dosing": {
+      "notes": "Second decimal potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ANTIPYRINUM Phenazone-A Coal-tar Derivative (ANTIPYRINE) Antipyrine is one of the drugs that induce leucocytosis, similar to ergotin, salicylates, and tuberculin. Acts especially on the vaso-motor centers, causing dilation of capillaries of skin and consequent circumscribed patches of hyperæmia and swelling. In large doses causes profuse perspiration, dizziness, cyanosis, and somnolence, albumen and blood in urine. Acute erythema multiforme.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Antipyrine is known from the poisonous effects it has produced in old-school practice. Many fatal cases have been recorded, and there can be little doubt that its injudicious use has determined a fatal issue in many cases that have remained unrecorded. Its action is very like that of Antifebrin in producing collapse, but it has more effect on the skin, causing scarlet rash and œdema. A young lady patient of mine who took Antipyrin on her own account, whenever she thought she might be going to have a headache, developed intense dysmenorrhœa (to which she was not subject), with depression. This was only removed after she had discontinued the drug. Later on she took Phenacetin, with the result that an eruption of erythema appeared on both cheeks, which peeled after a few days, and recurred persistently. It would seem from the above that the drug is homœopathic to some forms, at least, of neuralgia. One patient had Cheyne-Stokes respiration. Erythema appears first on face and arms, last on legs. Hansen mentions its use in enuresis and epistaxis. > Hot drinks.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Anilinum (skin). Antefeb.; Ars.; Chloral; Acon. (numbness; rapidity of attack). Antidoted by: Bell. The symptoms are much intensified in persons addicted to coffee in excess."
+      ]
+    },
+    "nose": [
+      {
+        "text": "Tingling burning in nose, with sneezing and running from eyes and nose; nose and face swollen. Coppery smell which comes and goes.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Feeling of numberless pins pricking him down each side of neck.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Excessive perspiration. Throbbing all over body, coldness of hands and feet, nervous shuddering without chill. Pulse goes up and down with the temperature. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

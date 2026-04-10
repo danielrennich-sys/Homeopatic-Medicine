@@ -1,0 +1,32 @@
+{
+  "id": "pharmaceutical-preparations",
+  "names": {
+    "primary": "Pharmaceutical Preparations, with Doses",
+    "latin": "Pharmaceutical Preparations, with Doses",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Other tomes: King's",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "(List of Fluidextracts, Tinctures, Syrups, Elixirs, Wines, and Powders, not systematically mentioned in the articles on individual drugs. The extremely energetic are in heavyface type; those of slightly lesser strength in italics; the balance in ordinary type.)",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "felter-eclectic-1922"
+    ]
+  }
+}

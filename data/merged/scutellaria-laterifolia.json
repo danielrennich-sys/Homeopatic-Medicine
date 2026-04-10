@@ -1,0 +1,69 @@
+{
+  "id": "scutellaria-laterifolia",
+  "names": {
+    "primary": "SCUTELLARIA LATERIFOLIA",
+    "latin": "SCUTELLARIA LATERIFOLIA",
+    "common": [
+      "Skullcap"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "[Mental] Fear of some calamity. Inability to fix attention (Aethus). Confusion",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Dull, frontal headache. Eyes feel pressed outwards. Flushed face. Restless sleep and frightful dreams. Must move about. Night terrors. Migraine; worse, over right eye; aching in eyeballs. Explosive headaches of school teachers with frequent urination; headaches in front and base of brain. Nervous sick headaches, worse noise, odor light, better night; rest, 5 drops of tincture",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea; sour eructations; hiccough; pain and distress",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Gas, fullness and distention, colicky pain and uneasiness. Light colored diarrhœa",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Seminal emissions and impotency, with fear of never being better",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Night-terrors; sleeplessness; sudden wakefulness; frightful dreams",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Twitchings of muscles; must be moving. Chorea. Tremors. Sharp stinging pains in upper extremities. Nightly restlessness. Weakness and aching",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture and lower potencies"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">SCUTELLARIA LATERIFOLIA Skullcap This is a nervous sedative, where nervous fear predominates. Cardiac irritability. Chorea. Nervous irritation and spasms of children, during dentition. Twitching of muscles. Nervous weakness after influenza.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

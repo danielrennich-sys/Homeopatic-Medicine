@@ -1,0 +1,429 @@
+{
+  "id": "cocculus-indicus",
+  "names": {
+    "primary": "COCCULUS INDICUS",
+    "latin": "COCCULUS INDICUS",
+    "common": [
+      "Indian Cockle (COCCULUS)"
+    ],
+    "synonyms": [
+      "Cocculus Indicus"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Capricious. Heavy and stupid. Time passes too quickly; absorbed in reveries. Inclination to sing irresistible. Slow of comprehension. Mind benumbed. Profound sadness. Cannot bear contradiction. Speaks hastily. Very anxious about the health of others",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo, nausea, especially when riding or sitting up. Sense of emptiness in head. Headache in occiput and nape; worse, lying on back of head. Sick headache from carriage riding, cannot lie on back part of head. Pupils contracted. Opening and shutting sensation, especially in occiput. Trembling of head. Pain in eyes as if torn out of head",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "Paralysis of facial nerve. Cramp-like pain in masseter muscle; worse, opening mouth. Prosopalgia in afternoon, with wide radiations of pain",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea from riding in cars, boat, etc, or looking at boat in motion; worse on becoming cold or taking cold. Nausea, with faintness and vomiting. Aversion to food, drink, tobacco. Metallic taste. Paralysis of muscles preventing deglutition. Dryness of œsophagus. Seasickness (Resorcin. 1x). Cramp, in stomach during and after meal. Hiccough and spasmodic yawning. Loss of appetite. Desire for cold drinks, especially beer. Sensation in stomach as if one had been a long time without food until hunger was gone. Smell of food disgusts (Colch)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Distended, with wind, and feeling as if full of sharp stones when moving; better, lying on one side or the other. Pain in abdominal ring, as if something were forced through. Abdominal muscles weak; it seems as if a hernia would take place",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Dysmenorrhœa, with profuse dark menses. Too early menses, clotted, with spasmodic colic. Painful pressing in uterine region, followed by hæmorrhoids. Purulent, gushing leucorrhœa between menses; very weakening, can scarcely speak. So weak during menstruation, scarcely able to stand",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Sensation of emptiness and cramp in chest. Dyspnœa as from constriction of trachea, as if irritated by smoke. Choking constriction in upper part of œsophagus, oppressing breathing and inducing cough",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Cracking of cervical vertebræ when moving head. Paralytic pain in small of the back. Pain in shoulder and arms as if bruised. Pressure in scapula and nape. Stiffness on moving shoulders",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Lameness; worse by bending. Trembling and pain in limbs. Arms go to sleep. One-sided paralysis; worse after sleep. Hands are alternately hot and cold; numbness and cold sweat now of one, now of the other hand. Numb and unsteady. Knees crack on motion. Lower limbs very weak. Inflammatory swelling of knee. Intensely painful, paralytic drawing. Limbs straightened out, painful when flexed",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Spasmodic yawning. Coma vigil. Constant drowsiness. After loss of sleep, night-watching, nursing",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chill, with flatulent colic, nausea, vertigo, coldness of lower extremities, and heat of head. Sweat general. Nervous form of low fever. Chilliness, with perspiration, and heat of skin",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "eating, after loss of sleep, open air, smoking, riding, swimming, touch, noise, jar; afternoon. Menstrual period. After emotional disturbance",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "antidoted_by": [
+        "Coffee",
+        "Nux"
+      ]
+    },
+    "dosing": {
+      "notes": "Third to thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">COCCULUS INDICUS Indian Cockle (COCCULUS) Within the sphere of action of Cocculus are many spasmodic and paretic affections, notably those affecting one-half of the body. Affects the cerebrum, will not cure convulsive seizures proceeding from the spinal cord (A. E. Hinsdale) Painful contracture of limbs and trunk; tetanus. Many of the evil effects of night-watching are relieved by it. It shows a special, attraction for light-haired females, especially during pregnancy, causing much nausea and backache. Unmarried and childless women, sensitive and romantic girls, etc. All its symptoms are worse riding in a carriage or on shipboard; hence its use in seasickness. Sensation of hollowness, or emptiness, as if parts had gone to sleep. Feels too weak to talk loud.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Cocculus Indicus",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "We will study the general system and The mind as usual. Cocculus slows down all the activities of the body and mind, producing a sort of paralytic weakness. Behind time in all its actions.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Slowly: All the nervous impressions are slow in reaching the centres. If you pinch this patient on the great toe he wants a minute and then says \"oh,\" instead of doing it at once. In response to questions he answers slowly, after apparent meditation, but it is an effort to meditate.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "And so with all nervous manifestations, thought, muscular activity, etc. He cannot endure any muscular exertion, because he is weak; he is tired. First comes this slowness, then a sort of visible paralytic condition, and then complete paralysis. This may be local or general. There are certain causes which produce these effects. A wife nursing her husband, a daughter nursing her father, becomes worn out by the anxiety, worry and loss of sleep.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "She is exhausted; unable to sustain any mental or physical effort; weak in the knees, weak in the back, and when the times comes for her to sleep she cannot sleep. Sickness brought about in this manner is analogous to that caused by the Cocculus poison, and hence Cocculus from the time of Hahnemann to the present time has been a remedy for complaints from nursing, not exactly complaints that come on in the professional nurse, for Cocculus needs the combination of vexation, anxiety and prolonged loss of sleep, such as you have in the mother or daughter who is nursing, or the nurse when she takes on the anxiety felt by a member of the family; a wife nursing her husband through typhoid, or other long spell of sickness.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "At the end of it she is prostrated in body and mind, she cannot sleep, she has congestive headaches, nausea, vomiting and vertigo. That shows how a Cocculus case begins. One who is thus exhausted in body and mind goes out for a ride. She gets sick headache, pain in the back, dizziness, nausea and vomiting. She gets into the car to take a journey. Sick headache comes on. She goes on a mile or two and will have nausea, vomiting and sick headache. She feels weak all over, feels as if she would sink away.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The Cocculus patient gets into a wagon to ride, sick headache, nausea, vertigo come on. The Cocculus patient cannot endure motion. Aggravated by talking, by motion, by the motion of the eyes, by riding. Wants plenty of time to turn the head cautiously to see things. Wants plenty of time to move, to think, to do everything. The whole economy is slowed down, inactive.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Tremulous, tired, excitable. The hands tremble when taking hold of anything, or he takes hold of awkwardly and drops it. Incoordination runs through this remedy, and hence it has been used with good effect in locomotor ataxia. It has staggering and numbness. Numbness is quite a feature of this remedy. Numbness of the lower extremities, in the fingers, in the shoulder, of the side of the face. Complaints from anxiety.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Mind: Extreme irritability of the nervous system. The least noise or jar is unbearable. You have heard that Bell. is worse from a jar. So is Cocculus, and quite like Bell. Cocculus is also like Belladonna in its sleeplessness, and other general conditions.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This sensation of seasickness and dizziness is sometimes felt all over the body; a sort of faint feeling which is followed sometimes by loss of consciousness, or a paralytic rigidity.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Joints: Stiffness of the joints is a common feature in Cocculus. It belongs to the limbs in general. But it is such a strong symptom I will mention it here. Limbs straightened out and held there for a while are painful when flexed. Persons who have been suffering from anxiety, prostrated, will lie on the back, straighten out the limbs, and get up only with great difficulty.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The doctor comes and he discovers what is the matter. He bends the limbs and she screams, but she is relieved after the bending, and then she can get up and move about.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "You cannot find that anywhere else. It is entirely without inflammation. It is a sort of a paralytic stiffness, a paralysis of the tired body and mind. The Cocculus headaches and backaches, pains and distress are present.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "A man will stretch out his leg on a chair and be cannot flex it until he reaches down with his hands to assist. Such things are strange. Faintness on moving the body, fainting from pain in the bowels, from colic. With all this slowing down of the thoughts and activities the patient remains extremely sensitive to suffering, sensitive to pain.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Spasms through the body Iike electric shocks, convulsions after loss of sleep. This patient goes on with nervousness and excitement, anxiety and loss of sleep until convulsions supervene. Tetanus. Cholera, attacks of paralytic weakness with pain, paralysis of the face, of the eyes, paralysis of the muscles everywhere, paralysis of the limbs. Even diphtheria has been known to induce a state very much like I have described as due to loss of sleep and anxiety.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "I remember a case of paralysis of the lower extremities that was prescribed for by a very careful homeopathic physician many years ago. It was one of the things that surprised me in the early days of my prescribing and observation.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It was the case of a little girl with paralysis of lower extremities after diphtheria and no hope was given. But Doctor Moore (he was then an Octogenarian) looked over the case. I was acquainted with the family and with the doctor.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "He studied the case carefully and gave Cocculus c.m. It was not many days before the child began to move the legs, and the condition was perfectly cleared up, and I have never ceased to wonder at it. It was a good prescription perfectly in accord with all the elements of the case.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Doctor Moore was one of the pupils of Lippe and Hering.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "You can hardly see what is coming when the mental activities are slowed down, from anxiety, and loss of sleep, such as we have in nursing. The mind appears like approaching imbecility, and as you look upon the true Cocculus case you wonder if that patient has not been growing insane for a year or two, because the mind seems almost a blank. He looks into space and slowly turning the eyes toward the questioner answers with difficulty. It occurs in nervous prostration, in typhoid fever. It is so nearly like Phos. Acid., that the two remedies must be carefully individualized. Time passes quickly.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "He cannot realize that it has been a whole night. A week has gone by, and it seems but a moment, he is so dazed. Slowness of comprehension; cannot find the right word to express his thoughts, so slowly does his mind work; what has passed he cannot remember; forgets what he has just read; cannot talk; cannot bear the least noise; cannot bear the least contraction.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The tongue will not respond. There is confusion of mind and difficulty of articulation. An idea comes into his mind and becomes fixed. He cannot convert it or move it, but it just stays there, and if he speaks he will say something that will cause you to realize that that same idea is holding on to him. So he appears to be in a state of imbecility.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Vertigo: Mental derangement with vertigo. With most all the mental symptoms there is vertigo. He lies in a state of apparent unconsciousness, yet knows all that is going on and at times is even able to remember and describe what was going on, but does not even wink; does not move a muscle.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There is an appearance of ecstacy, a smile upon the face. Knows what is going on, yet with complete relaxation of the muscles without speech or apparent recognition of anyone. Perfectly relaxed, and yet knowing what is going on. That resembles catatonia. Unable to think.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Fears death. Feels as if some awful thing was about to happen. All this is the result of grief, anxiety, vexation, prolonged loss of sleep.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The vertigo is visually attended with nausea. A Cocculus case cannot look out of the car window, cannot look down from the boat and see water moving, without nausea immediately.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Perhaps you can even now surmise what the head symptoms are to be. With the headaches comes dizziness, extreme nausea and gastric symptoms.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Headaches brought on from riding in a wagon or riding in the cars or on shipboard; headache from motion. Cannot accommodate the eyes to moving objects; dizziness and whirling and headache.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Congestion of the head, pressing, throbbing headache. Headache as if the skull would burst, or like a great valve opening and shutting. Sick headache with vertigo. Headache again from working in the sun. Sick headache from riding in a carriage.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Eyes: Dim sightedness and disturbance of vision. Paralytic weakness of the muscles of the eyes, as well as the muscles of accommodation. The face becomes pale and sickly. Pale as death, with pains in the face, vertigo and nausea.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Tearing pains in the face. Neuralgia of the face.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Face bloated. Quivering and twitching of the muscles of the face. Paralysis of the muscles of the face. Numbness of the face. Twitching, jerking, numbness, paralysis, tearing pains.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Prostration and nervous exhaustion accompany most of the complaints of Cocculus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Stomach symptoms. Loathing of food. Metallic taste in the mouth. Bitter taste in the mouth. Sour, nauseous taste in the mouth, and no food tempts him. He lies there sick with a little fever or a \"cold.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Headache, vertigo, nausea, loathing. Intermittent fevers with pains in the limbs, especially in the knees and bones of the legs, with that peculiar stiffness, nausea, and loathing of food. In intermittent fever or perhaps a low typhoid state, we have this loathing of food with nausea.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "You go to the bedside and you ask the nurse,",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"What have you been feeding the patient?\" and the patient gags. The thought of food makes the patient gag.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The nurse will say that every time she mentions food the patient gags. The thought of food or the smell of food in the other room, or in the kitchen, will nauseate the patient. Two medicines have this: Cocculus and Colchicum.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Paralysis: Paralytic conditions. Paralysis of the oesophagus. Cannot swallow.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Paralytic condition of the throat after diphtheria.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sore throat with low forms of fever. The fever is gone but the patient does not rally, there is much nervous trembling, numbness, twitching of muscles and great weakness. Sensation as though a worm were crawling in the stomach.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Spasms of the stomach. Violent attacks of gastralgia, violent cramp of the stomach. Griping, pinching, constrictive pain. The pain in the bowels feels as if the intestines were pinched between sharp. stones.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This causes fainting and vomiting. Colicky pains in the bowels great distension of the abdomen, such as is found in typhoid fever tension of the abdomen after drinking; flatulent colic.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Tearing, cutting, spasmodic pains in the bowels. Radiating pains in the bowels accompanying diarrhea. A paralytic condition of the rectum. Inability to press at stool. Urging to stool and burning in rectum. Disposition to stool, but peristaltic motion in upper intestines is wanting.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Women: Copious menstrual flow, menses too soon; last too long. Catamenia two weeks before the time. In women prostrated from grief and from anxiety, and from prolonged loss of sleep, menses come too soon, are copious and prolonged.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Headache, vertigo, nausea. Violent, cramping pains in the bowels, clutching pains in the uterus during menstruation. Again, just such a patient as described will have a suppression of the menstrual flow, or for weeks and months will have no menstrual flow; or just at the time the menstrual period should come on there is a copious leucorrhea that takes the place of the menses.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The woman is emaciated, and grows more and more sickly and chlorotic. The face is of greenish, yellow, sallow hue.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Leucorrhea in place of the menses,\" or",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"copious leucorrhea between the menstrual periods.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The heart is weak, pulse feeble. Paralytic weakness in the limbs, numbness, jerking of the muscles, twitching, quivering, loss of sensation, loss of power, muscular weakness in all the limbs. Numbness and paralytic feeling in the limbs.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Awkwardness of the fingers and hands. On attempting to grasp the one band with the other there is migratory numbness, or a more permanent numbness associated with paralytic weakness, sometimes changeable; sometimes one side is numb and the other paralyzed.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The soles of the feet go to sleep. Numbness of the soles of the feet, such as we have in locomotor ataxia; cold feet. The knees give way from weakness. Totters while walking and threatens to fall to one side. Knees stiff. Paralysis of the lower extremities, proceeding from the small of the back. Arising from cold, from the abuse of Mercury.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Paralysis of the lower limbs, with stiffness, numbness and bruised feeling.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sleeplessness from long nursing and from night watching; that is a symptom that I have called your attention to so often. Anxious, frightful dreams; ill effects from loss of sleep and night watching.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Slightest loss of sleep tells on him.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "LECTURES ON HOMOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror Cocculus Indicus We will study the general system and The mind as usual. Cocculus slows down all the activities of the body and mind, producing a sort of paralytic weakness. Behind time in all its actions. Slowly : All the nervous impressions are slow in reaching the centres. If you pinch this patient on the great toe he wants a minute and then says \"oh,\" instead of doing it at once. In response to questions he answers slowly, after apparent meditation, but it is an effort to meditate. And so with all nervous manifestations, thought, muscular activity, etc. He cannot endure any muscular exertion, because he is weak; he is tired. First comes this slowness, then a sort of visible paralytic condition, and then complete paralysis. This may be local or general. There are certain causes which produce these effects. A wife nursing her husband, a daughter nursing her father, becomes worn out by the anxiety, worry and loss of sleep. She is exhausted; unable to sustain any mental or physical effort; weak in the knees, weak in the back, and when the times comes for her to sleep she cannot sleep. Sickness brought about in this manner is analogous to that caused by the Cocculus poison, and hence Cocculus from the time of Hahnemann to the present time has been a remedy for complaints from nursing, not exactly complaints that come on in the professional nurse, for Cocculus needs the combination of vexation, anxiety and prolonged loss of sleep, such as you have in the mother or daughter who is nursing, or the nurse when she takes on the anxiety felt by a member of the family; a wife nursing her husband through typhoid, or other long spell of sickness. At the end of it she is prostrated in body and mind, she cannot sleep, she has congestive headaches, nausea, vomiting and vertigo. That shows how a Cocculus case begins. One who is thus exhausted in body and mind goes out for a ride. She gets sick headache, pain in the back, dizziness, nausea and vomiting. She gets into the car to take a journey. Sick headache comes on. She goes on a mile or two and will have nausea, vomiting and sick headache. She feels weak all over, feels as if she would sink away. The Cocculus patient gets into a wagon to ride, sick headache, nausea, vertigo come on. The Cocculus patient cannot endure motion. Aggravated by talking, by motion, by the motion of the eyes, by riding. Wants plenty of time to turn the head cautiously to see things. Wants plenty of time to move, to think, to do everything. The whole economy is slowed down, inactive. Tremulous, tired, excitable. The hands tremble when taking hold of anything, or he takes hold of awkwardly and drops it. Incoordination runs through this remedy, and hence it has been used with good effect in locomotor ataxia. It has staggering and numbness. Numbness is quite a feature of this remedy. Numbness of the lower extremities, in the fingers, in the shoulder, of the side of the face. Complaints from anxiety. Mind : Extreme irritability of the nervous system. The least noise or jar is unbearable. You have heard that Bell . is worse from a jar. So is Cocculus , and quite like Bell . Cocculus is also like Belladonna in its sleeplessness, and other general conditions. This sensation of seasickness and dizziness is sometimes felt all over the body; a sort of faint feeling which is followed sometimes by loss of consciousness, or a paralytic rigidity. Joints : Stiffness of the joints is a common feature in Cocculus . It belongs to the limbs in general. But it is such a strong symptom I will mention it here. Limbs straightened out and held there for a while are painful when flexed. Persons who have been suffering from anxiety, prostrated, will lie on the back, straighten out the limbs, and get up only with great difficulty. The doctor comes and he discovers what is the matter. He bends the limbs and she screams, but she is relieved after the bending, and then she can get up and move about. You cannot find that anywhere else. It is entirely without inflammation. It is a sort of a paralytic stiffness, a paralysis of the tired body and mind. The Cocculus headaches and backaches, pains and distress are present. A man will stretch out his leg on a chair and be cannot flex it until he reaches down with his hands to assist. Such things are strange. Faintness on moving the body, fainting from pain in the bowels, from colic. With all this slowing down of the thoughts and activities the patient remains extremely sensitive to suffering, sensitive to pain. Spasms through the body Iike electric shocks, convulsions after loss of sleep. This patient goes on with nervousness and excitement, anxiety and loss of sleep until convulsions supervene. Tetanus. Cholera, attacks of paralytic weakness with pain, paralysis of the face, of the eyes, paralysis of the muscles everywhere, paralysis of the limbs. Even diphtheria has been known to induce a state very much like I have described as due to loss of sleep and anxiety. I remember a case of paralysis of the lower extremities that was prescribed for by a very careful homeopathic physician many years ago. It was one of the things that surprised me in the early days of my prescribing and observation. It was the case of a little girl with paralysis of lower extremities after diphtheria and no hope was given. But Doctor Moore ( he was then an Octogenarian ) looked over the case. I was acquainted with the family and with the doctor. He studied the case carefully and gave Cocculus c.m. It was not many days before the child began to move the legs, and the condition was perfectly cleared up, and I have never ceased to wonder at it. It was a good prescription perfectly in accord with all the elements of the case. Doctor Moore was one of the pupils of Lippe and Hering. You can hardly see what is coming when the mental activities are slowed down, from anxiety, and loss of sleep, such as we have in nursing. The mind appears like approaching imbecility, and as you look upon the true Cocculus case you wonder if that patient has not been growing insane for a year or two, because the mind seems almost a blank. He looks into space and slowly turning the eyes toward the questioner answers with difficulty. It occurs in nervous prostration, in typhoid fever. It is so nearly like Phos . Acid., that the two remedies must be carefully individualized. Time passes quickly. He cannot realize that it has been a whole night. A week has gone by, and it seems but a moment, he is so dazed. Slowness of comprehension; cannot find the right word to express his thoughts, so slowly does his mind work; what has passed he cannot remember; forgets what he has just read; cannot talk; cannot bear the least noise; cannot bear the least contraction. The tongue will not respond. There is confusion of mind and difficulty of articulation. An idea comes into his mind and becomes fixed. He cannot convert it or move it, but it just stays there, and if he speaks he will say something that will cause you to realize that that same idea is holding on to him. So he appears to be in a state of imbecility. Vertigo : Mental derangement with vertigo. With most all the mental symptoms there is vertigo. He lies in a state of apparent unconsciousness, yet knows all that is going on and at times is even able to remember and describe what was going on, but does not even wink; does not move a muscle. There is an appearance of ecstacy, a smile upon the face. Knows what is going on, yet with complete relaxation of the muscles without speech or apparent recognition of anyone. Perfectly relaxed, and yet knowing what is going on. That resembles catatonia. Unable to think. Fears death. Feels as if some awful thing was about to happen. All this is the result of grief, anxiety, vexation, prolonged loss of sleep. The vertigo is visually attended with nausea. A Cocculus case cannot look out of the car window, cannot look down from the boat and see water moving, without nausea immediately. Perhaps you can even now surmise what the head symptoms are to be. With the headaches comes dizziness, extreme nausea and gastric symptoms. Headaches brought on from riding in a wagon or riding in the cars or on shipboard; headache from motion. Cannot accommodate the eyes to moving objects; dizziness and whirling and headache. Congestion of the head, pressing, throbbing headache. Headache as if the skull would burst, or like a great valve opening and shutting. Sick headache with vertigo. Headache again from working in the sun. Sick headache from riding in a carriage. Eyes : Dim sightedness and disturbance of vision. Paralytic weakness of the muscles of the eyes, as well as the muscles of accommodation. The face becomes pale and sickly. Pale as death, with pains in the face, vertigo and nausea. Tearing pains in the face. Neuralgia of the face. Face bloated. Quivering and twitching of the muscles of the face. Paralysis of the muscles of the face. Numbness of the face. Twitching, jerking, numbness, paralysis, tearing pains. Prostration and nervous exhaustion accompany most of the complaints of Cocculus . Stomach symptoms. Loathing of food. Metallic taste in the mouth. Bitter taste in the mouth. Sour, nauseous taste in the mouth, and no food tempts him. He lies there sick with a little fever or a \" cold .\" Headache, vertigo, nausea, loathing. Intermittent fevers with pains in the limbs, especially in the knees and bones of the legs, with that peculiar stiffness, nausea, and loathing of food. In intermittent fever or perhaps a low typhoid state, we have this loathing of food with nausea. You go to the bedside and you ask the nurse, \"What have you been feeding the patient?\" and the patient gags. The thought of food makes the patient gag. The nurse will say that every time she mentions food the patient gags. The thought of food or the smell of food in the other room, or in the kitchen, will nauseate the patient. Two medicines have this: Cocculus and Colchicum. Paralysis : Paralytic conditions. Paralysis of the oesophagus. Cannot swallow. \"Paralytic condition of the throat after diphtheria.\" Sore throat with low forms of fever. The fever is gone but the patient does not rally, there is much nervous trembling, numbness, twitching of muscles and great weakness. Sensation as though a worm were crawling in the stomach. Spasms of the stomach. Violent attacks of gastralgia, violent cramp of the stomach. Griping, pinching, constrictive pain. The pain in the bowels feels as if the intestines were pinched between sharp. stones. This causes fainting and vomiting. Colicky pains in the bowels great distension of the abdomen, such as is found in typhoid fever tension of the abdomen after drinking; flatulent colic. Tearing, cutting, spasmodic pains in the bowels. Radiating pains in the bowels accompanying diarrhea. A paralytic condition of the rectum. Inability to press at stool. Urging to stool and burning in rectum. Disposition to stool, but peristaltic motion in upper intestines is wanting. Women : Copious menstrual flow, menses too soon; last too long. Catamenia two weeks before the time. In women prostrated from grief and from anxiety, and from prolonged loss of sleep, menses come too soon, are copious and prolonged. Headache, vertigo, nausea. Violent, cramping pains in the bowels, clutching pains in the uterus during menstruation. Again, just such a patient as described will have a suppression of the menstrual flow, or for weeks and months will have no menstrual flow; or just at the time the menstrual period should come on there is a copious leucorrhea that takes the place of the menses . The woman is emaciated, and grows more and more sickly and chlorotic. The face is of greenish, yellow, sallow hue. \"Leucorrhea in place of the menses,\" or \"copious leucorrhea between the menstrual periods.\" The heart is weak, pulse feeble. Paralytic weakness in the limbs, numbness, jerking of the muscles, twitching, quivering, loss of sensation, loss of power, muscular weakness in all the limbs. Numbness and paralytic feeling in the limbs. Awkwardness of the fingers and hands. On attempting to grasp the one band with the other there is migratory numbness, or a more permanent numbness associated with paralytic weakness, sometimes changeable; sometimes one side is numb and the other paralyzed. The soles of the feet go to sleep. Numbness of the soles of the feet, such as we have in locomotor ataxia; cold feet. The knees give way from weakness. Totters while walking and threatens to fall to one side. Knees stiff. Paralysis of the lower extremities, proceeding from the small of the back. Arising from cold, from the abuse of Mercury . Paralysis of the lower limbs, with stiffness, numbness and bruised feeling. Sleeplessness from long nursing and from night watching; that is a symptom that I have called your attention to so often. Anxious, frightful dreams; ill effects from loss of sleep and night watching. \"Slightest loss of sleep tells on him.\" Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-mm-1911"
+      },
+      {
+        "text": "Weakness of cervical muscles, can hardly hold the head up.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Weakness in small of back as if paralyzed; gives out when walking; can hardly stand, walk or talk.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Hands and feet get numb; asleep.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Headache with nausea and vomiting; gets faint and sick on rising up or riding in carriage or boat.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "General sensation of weakness; or weak, hollow, gone feeling in head, stomach, abdomen, etc.; < by loss of sleep or night watching.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Great distention with flatulent colic, wind or menstrual colic; crampy pains, inclined to hernia.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Modalities: when lying quiet.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Farrington says: \"Cocculus acts on the cerebro-spinal system, producing great debility of these organs. * * * It causes a paralytic weakness of the spine, and especially of its motor nerves; thus we find it a certain and frequent remedy in paralysis originating in disease of the spinal cord. * * * It is especially indicated in the beginning of the trouble, when the lumbar region of the spine is affected; there is weakness in the small of the back as if paralyzed; the small of the back gives out when walking. There is weakness of the legs, and by the legs I mean the entire lower extremities; the knees give out when walking, the soles of the feet feel as if they were asleep, the thighs ache as if they were pounded; first one hand goes to sleep, then the other; sometimes the whole arm goes to sleep and the hand feels as if swollen. These symptoms lie at the foundation of the symptomatology of the whole drug; they all seem to depend upon spinal weakness.\" Dunham says: \"Its sphere of action is preeminently the system of animal life; the voluntary muscular system first, and then the sensorium are the primary seats of action. Nausea extending to the point of vomiting and accompanied by faintness and by severe vertigo when lifting the head is a characteristic symptom.\" Hughes says: \"It influences the voluntary muscles rather than the intellectual powers; with this Hahnemann's provings entirely agree.\" Pareira says: \"It acts rather on the voluntary muscles than the intellectual powers.\" We have given these quotations from different authors in order to find whether they afforded us much help from a practical standpoint. Dr. Hughes says the provings of Hahnemann corroborate these generalizations. We quote from the provings:",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "\"Weakness of the cervical muscles with heaviness of the head, muscles seem unable to support the head.\" (Calc. phos, Verat. alb.). \"Paralytic pain in the small of the back, with spasmodic drawing across the hips, which prevents walking.\" \"His knees sink down from weakness, he totters while walking and threatens to fall to one side.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "\"At one time his feet are asleep, at another the hands.\" \"The hand trembles while eating, and the more the higher it is raised.\" \"Now one hand, now the other, seems insensible and asleep.\" The soles of the feet go to sleep, while sitting.\" \"General attacks of paralytic weakness, with pain in the back.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "All these are verified symptoms from Allen's Encyclopædia of Pure Materia Medica. They are in the simplest terms, and while they do agree with the statements of the above quoted learned men, acting upon the spine and motor muscles, could be applied to the cure of the sick according to the directions of Hahnemann by any layman of ordinary intelligence. Thus is the practice of curative medicine simplified, being delivered from speculative theorizings of dreamers, and if it will cure the sick in the case of a Cocculus patient, it will by the same unerring law of \"symptom covering\" do it in every curable case.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "We might sum up the whole action of this remedy upon the nervous system in one word, viz., prostration, but what does that amount to for purposes of prescribing. Many remedies prostrate fearfully, but each one has its peculiar kind of prostration, and when men, like I heard a celebrated surgeon in a homœopathic college do, make their boast that they prescribed on physiological ground, without any regard to symptomatology, I can but feel that such know little or nothing of the art of homœopathic prescribing, no matter what their other attainments. According to Hahnemann's teachings symptomatology leads in scientific prescribing, no matter what the pathological condition.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Aside from the symptoms which attend the general prostration and spinal trouble, or coupled with them, we have the following which are characteristic. \"Confusion or stupefaction of the head, increased by eating and drinking.\" \"Vertigo, as if intoxicated and confusion of the mind.\" \"Whirling vertigo on rising up in bed; which compelled him to lie down again.\" \"Sick headache with nausea and inclination to vomit.\" \"All these symptoms are made particularly worse by riding in carriage or boat.\" Sea-sickness. (Sea-sickness > on deck in fresh cold air.) (Tabac.). The headaches and vertigo of Cocculus are different from Bryonia, notwithstanding the fact that both are made worse by rising up in bed. In Bryonia and some other remedies the sickness at the stomach precedes the headache which in Cocculus is exactly the reverse. Painful sensation of weakness or emptiness in the head is found under Cocculus and is in keeping with the general weakness. This sensation of emptiness, which is another name for weakness, is a general characteristic of Cocculus, and is found in head, abdomen, bowels, chest, heart, stomach; in short, in all internal parts. The nausea of Cocculus, which is so constant a symptom of the headaches, is something like that which is so characteristic of Colchicum, viz.: \"Extreme aversion to food, caused even by the smell of food, although with hunger.\" With Colchicum there is more pronounced nausea, as well as aversion. The patient is nauseated even to faintness. There is with Cocculus a metallic taste in the mouth.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "The sensorium comes under the same profound depression that invades the general nervous system. The patient is sad, absorbed within himself, brooding, moody, silent, sits in a corner buried in sad thoughts, etc. This is particularly the case in nervous fevers. Depression, depression, depression. Cocculus has some very important symptoms in the abdominal and uterine regions.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "One is great distention of the abdomen. This is found in both flatulent colic and dysmenorrhœa. In flatulent colic, for which it is so valuable a remedy, the patient complains of a sensation as if the abdomen were full of sharp sticks or stones. The attacks are often at mid-night. The flatus seems here and there, and passage of it does not seem to relieve much, for new forms again take its place.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Then again there seems to be great pressure in the inguinal region as if hernia would occur. In dysmenorrhœa, in addition to the distention, there are griping, cramping pains, which are very severe, and also a remarkable degree of weakness. She is so weak that she can hardly stand, walk or talk. This is very characteristic and, so far as weakness goes, resembles Carbo animalis, but in Cocculus it is in line with the general prostration of the remedy, while in Carbo animalis the flow weakens her. In Cocculus the flow may not be at all excessive, but on the contrary may grow less and less and a leucorrhœa appear in its stead, or even between the menses also. This is the way we have to differentiate between remedies if we are successful in practice.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Now, if I were to give the four great characteristic symptoms of this remedy they would be these:",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "1. Weakness of cervical muscles, with heaviness of head.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "2. Affections caused or < by riding in cars, carriage or boat.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "3. Sensation of weakness, or hollowness in various organs.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "4. Ill effects from loss of sleep, night-watching or over-work. (Causticum Cuprum met., Ignatia, Nitric acid.).",
+        "source_id": "nash-leaders-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "kent-lectures-1905",
+      "kent-mm-1911",
+      "nash-leaders-1899"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "kalium-cyanatum",
+  "names": {
+    "primary": "KALIUM CYANATUM",
+    "latin": "KALIUM CYANATUM",
+    "common": [
+      "Potassium Cyanide (KALI CYANATUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mouth_throat": [
+      {
+        "text": "Ulcer of tongue, with indurated edges. Speech difficult. Power of speech lost but intelligence intact",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "Severe neuralgia in temporal region, recurring daily at same hour. Pain in orbital and supra-maxillary region, with screaming and loss of consciousness",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Cough prevents sleep; respiration weak; cannot take deep breath",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "from 4 am to 4 pm",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Sixth potency and 200th"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">KALIUM CYANATUM Potassium Cyanide (KALI CYANATUM) Sudden sinking sensation. Cancer of tongue and agonizing neuralgia have been benefited by this drug. Sick headache; sciatica; epilepsy.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

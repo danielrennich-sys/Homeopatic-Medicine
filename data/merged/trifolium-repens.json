@@ -1,0 +1,46 @@
+{
+  "id": "trifolium-repens",
+  "names": {
+    "primary": "Trifolium Repens",
+    "latin": "Trifolium Repens",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T TRIFOLIUM REPENS. Trifolium repens, Linn. Natural order , Leguminosæ. Common names , White Clover; (G.) Kriechender-klee; (Fr.) Trefle blanc. Preparation , Trituration (provings), or Tincture of the heads of flowers. Authority. T. Cation Duncan, M.D., Trans. New York State Hom. Soc., vol. viii, 1870, p. 248, Dr. Douglass took a trituration of the flowers, one part to six of Sac. lactis; the effects were so speedy and marked that six other persons took it, with substantially the same results within a few minutes, in a number of cases. ► A feeling of fulness or congestion of all the salivary glands; in some instances amounting to decided discomfort, and even pain, quickly followed by increased, sometimes copious flow of saliva. One of the provers placed her hands on the parotid gland and said she felt just as if she had the mumps coming on. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Mumps; Salivation",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The proving of Tr. r. produced a specific action on the salivary glands. Hale says it produces marked salivation in horses.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: jabor., Pilo."
+      ]
+    },
+    "face": [
+      {
+        "text": "Feeling of fulness or congestion of all the salivary glands. Discomfort and even pain in glands followed by copious flow of saliva. One prover felt just as if she had mumps coming on. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "appetite",
+  "names": {
+    "primary": "APPETITE",
+    "latin": "APPETITE",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY APPETITE. Appetite, affected , changed, in general : Ant-c., Ars., Calc-c., Chin., Cina., Grap., Iod., Lyc., Nat-m., Nux-v., Petr., Pho., Pul., Sil., Sul., Ver-a. Appetite, craves , coarse, raw food, chalk, etc. : Alu., Calc-c., Cic., Nit-ac., Nux-v., Psor., Sil., Tarn. Appetite, craves, condiments, spices : Ars., Chel., Chin., Flu-ac., Hep., Pho., Pul., Sang., Sul. Appetite, hunger : Calc-c., Chin., Cina., Grap., Pho., Pul., Sep., Stan. Appetite, hunger, 11 A.M. : Pho., Sul. Appetite, hunger, attacks of sickness, before : Bry., Nux-v., Pho., Psor., Sep. Appetite, hunger, eating, after : Cina., Lyc. Appetite, hunger, headache, with : Pho., Psor. Appetite, hunger, ravenous : Calc-c., Chin., Cina., Iod., Lyc., Nux-v., Pho., Psor., Saba., Sil., Sul., Ver-a. Appetite, hunger, relish, without : Nat-m., Op., Rhus-t. Appetite, nibbling : Aeth., Calc-c., Mag-m., Nat-c., Petr., Rhus-t. Appetite, variable , capricious : Calc-c., Cina., Coc-c., Gran., Iod., Lach., Nat-m., Petr., Pho., Syph. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

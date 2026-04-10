@@ -1,0 +1,32 @@
+{
+  "id": "pedalium-murex",
+  "names": {
+    "primary": "Pedalium Murex (LINN.) Tribulus terrestes (LINN.)",
+    "latin": "Pedalium Murex (LINN.) Tribulus terrestes (LINN.)",
+    "common": [
+      "Burra Gookeroo"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Fruits brown, two-celled with four narrow and long seeds. Taste mucilaginous. Odourless.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Diuretic, demulcent, aphrodisiac. Used for impotence in males, nocturnal emissions, gonorrhoea, gleet and incontinence of urine. Infusion, 1 in 20, is taken three times daily. Fluid extract, 10 to 30 drops.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

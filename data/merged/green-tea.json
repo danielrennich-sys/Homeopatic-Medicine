@@ -1,0 +1,41 @@
+{
+  "id": "green-tea",
+  "names": {
+    "primary": "Green Tea",
+    "latin": "Green Tea",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Green, black, and oolong teas all come from the same plant, Camellia sinensis, but are prepared using different methods. To produce green tea, leaves from the plant are steamed, pan fried, and dried but not fermented. Black tea is fermented, and oolong tea is partially fermented. The tea plant was first cultivated in China thousands of years ago. There is evidence of the use of tea for health purposes dating back about 3,000 years. Today, green tea and its extracts are promoted as dietary supplements for losing weight, reducing blood cholesterol levels, and preventing chronic diseases such as heart disease and cancer. Some products marketed for weight loss contain green tea in combination with other ingredients. The U.S. Food and Drug Administration (FDA) has approved a topical ointment containing a specific green tea extract for the treatment of external genital and perianal warts.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "Although many studies have been done on green tea and its extracts, definite conclusions cannot yet be reached on whether green tea is helpful for most of the purposes for which it is used.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "The FDA has approved a specific green tea extract ointment as a prescription drug for treating genital warts. Many studies have looked at the relationship between green tea consumption and the risk of various types of cancer. The overall results of these studies have been inconsistent. In Asian populations but not in Western populations, green tea consumption has been linked to a lower risk of coronary heart disease. The catechins and caffeine in green tea and its extracts may have a modest effect on body weight. However, the effects of green tea products may vary depending on the composition of the product and the individual’s level of physical activity. The effect of green tea on blood cholesterol levels has been tested in studies in which people were randomly assigned to consume either a green tea product or a placebo. Most of the studies evaluated green tea extract supplements rather than green tea as a beverage. Green tea reduced total cholesterol and low-density lipoprotein (LDL) cholesterol to a small extent, but it did not affect high-density lipoprotein (HDL) cholesterol or triglycerides.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "No safety concerns have been reported for green tea consumed as a beverage by adults. However, green tea does contain caffeine. Side effects of green tea extract supplements include nausea, constipation, abdominal discomfort, and increased blood pressure. Although uncommon, liver injury has been reported in some people who used green tea products, primarily green tea extracts in tablet or capsule form. Individuals with a specific variant of a gene that plays an important role in immune function appear to be especially susceptible. Between 5 and 15 percent of Americans have this variant. Green tea at high doses has been shown to reduce blood levels and, therefore, the effectiveness of the drug nadolol, a beta-blocker used for high blood pressure and heart problems. Green tea extract can reduce blood levels of the cholesterol-lowering drug atorvastatin. A study funded by the National Center for Complementary and Integrative Health showed an interaction between green tea and the drug raloxifene, which is used to treat osteoporosis. Green tea may also interact with other medicines. If you take any type of medicine, talk with your health care provider before using green tea supplements or other herbal products; some herbs and medicines interact in harmful ways. During pregnancy, caffeine intake should not exceed moderate levels. Green tea is a source of caffeine. If you are or might be pregnant, consult your health care provider for advice about caffeine intake. Caffeine can pass to your infant through breast milk; if you consume high levels of caffeine, it can lead to symptoms such as fussiness and poor sleep patterns in your infant. However, breastfeeding infants usually do not have adverse effects when mothers consume low-to-moderate levels of caffeine.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ratanhia-peruviana",
+  "names": {
+    "primary": "RATANHIA PERUVIANA",
+    "latin": "RATANHIA PERUVIANA",
+    "common": [
+      "Krameria-Mapato (RATANHIA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Bursting in head after stool, and when sitting with head bent forward. Sensation as if scalp from nose to vertex were stretched",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Pain like knives cutting the stomach",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Aches, as if full of broken glass. Anus aches and burns for hours after stool. Feels constricted. Dry heat at anus, with sudden knife-like stitches. Stools must be forced with great effort; protrusion of hæmorrhoids. Fissures of anus, with great constriction, burning like fire, as do the hæmorrhoids; temporarily relieved by cold water. Fetid, thin diarrhœa; stools burn; burning pains before and after stools. Oozing at anus. Pin-worms (Sant; Teuc; Spig). Itching of anus",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Third to sixth potency. Locally, the Cerate has proved invaluable in many rectal complaints"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">RATANHIA PERUVIANA Krameria-Mapato (RATANHIA) The rectal symptoms are most important, and have received much clinical confirmation. It has cured pterygium. Violent hiccough. Cracked nipples (Graph; Eup ar). Pin worms.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

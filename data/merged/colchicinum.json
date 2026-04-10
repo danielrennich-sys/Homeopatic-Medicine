@@ -1,0 +1,98 @@
+{
+  "id": "colchicinum",
+  "names": {
+    "primary": "Colchicinum",
+    "latin": "Colchicinum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T COLCHICINUM. Alkaloid from Colchicum autumnale; Formula, C 17 H 19 NO 5 . Preparation , Triturations. Authorities. 1 , Schroff's provings, st. Zeit. f. Pract. Heilk., 1856, 22-24, Heinrich took .01 of a gramme, and after a week took .02 gramme; 2 , the only case of poisoning known, Ber. Rudolph-stift, 227, 1867, a woman, aged twenty, took a solution of 45 milligrammes (Husemann's Pflanzenstoffe, 498). EYE. ► Pupils widely dilated, [2] . FACE. ► Tearing pains in the face, [2] . MOUTH. ► Increased secretion of saliva, [1] . STOMACH. ► Eructation. ► Eructations, nausea, and great desire to vomit, [1] . ► Nausea and Vomiting. ► Slight nausea, and an uncomfortable sensation, which distracted the attention of the prover from the lecture to which he was listening, [1] . ► On rising from bed, at night, nausea suddenly increased, and was followed by vomiting of undigested food, and afterwards of a bitter greenish fluid; the vomiting was repeated early in the morning, [1] . ► Vomiting of greenish substances, frequently repeated, [2] . ► Vomiting of blood for nine or ten days, [2] . ► Stomach. ► Pains in epigastric region (after four hours), [2] . [10.] ► Excessive sensitiveness of epigastric region, [2] . ABDOMEN. ► Distension and sensitiveness in the abdomen, [1] . ► Frequent rumbling in the bowels, [1] . RECTUM AND ANUS. ► Urging to stool, causing him to leave his bed, followed by copious pasty evacuation, with excessive tenesmus; this was repeated three times within a short period, [1] . STOOL. ► Two stools on the second day, one on the third day, three on the fourth day, all accompanied by tenesmus, and consisting of a thin fluid with numerous flakes, looking like the cooked white or an egg, in pieces from two to four lines long, [1] . ► Stools thin, yellowish-green, and slimy, accompanied by pain (second day), [1] . ► Liquid stools, [2] . URINARY ORGANS. ► Urine turbid, depositing a copious white sediment, [1] . HEART AND PULSE. ► Pulse 96, [2] . ► Pulse during the first two hours gradually sank about eleven beats, [1] . SUPERIOR EXTREMITIES. [20.] ► Convulsive jerkings of right hand, [2] . GENERAL SYMPTOMS. ► Very great exhaustion on the second day after taking Colchicin, increased to a feverish excitement, lasting for two days, so that he was obliged to keep his bed on the second day, [1] . SLEEP AND DREAMS. ► Slight somnolency and collapse, [2] . ► Awakened from sleep soon after midnight by uneasy dreams, [1] . FEVER. ► The fever appeared as a chill about noon on the first day, followed by violent heat, lasting several hours, with increased thirst, very rapid pulse, confusion of the head, uneasiness, and sleeplessness, [1] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Diarrhœa; Fever; Intestinal catarrh; Prostration; Sleeplessness; Spasms",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Convulsive jerkings of r. hand. Very great exhaustion on second day, increasing to feverish excitement lasting two days.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "This alkaloid has been proved and the symptoms are sufficiently distinctive, though I am not aware of any clinical experience with it. The symptoms point strongly to its use in that form of intestinal catarrh characterised by the appearance of shreddy membranes; and the symptom, \"convulsive jerkings of right hand,\" should prove a valuable indication, if not a keynote.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Ars., Caust., Colch."
+      ]
+    },
+    "eyes": [
+      {
+        "text": "Pupils widely dilated.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Tearing pains in face.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Increased secretion of saliva.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "On rising from bed, at night, nausea suddenly increased, and was followed by vomiting of undigested food, and afterwards of a bitter greenish fluid; the vomiting was repeated early in the morning. Vomiting of blood for nine or ten days. Pains and excessive sensitiveness in epigastrium. Distension and sensitiveness. Frequent rumbling.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Urging, causing him to leave his bed, followed by copious pasty evacuation, with excessive tenesmus; this was repeated three times within a short period. Stools accompanied with tenesmus and consisting of a thin fluid with numerous flakes looking like the cooked white of egg in pieces from two to four inches long. Stools thin, yellowish green, slimy, accompanied by pain. Liquid stools.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urine turbid, depositing a copious white sediment.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pulse during the first two hours sank about eleven beats.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Slight somnolency and collapse. Awakened from sleep soon after midnight by uneasy dreams.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chill about noon on first day, followed by violent heat lasting several hours, with increased thirst, very rapid pulse, confusion of the head, uneasiness and sleeplessness. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

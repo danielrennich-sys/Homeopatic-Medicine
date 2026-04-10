@@ -1,0 +1,41 @@
+{
+  "id": "flaxseed-flaxseed",
+  "names": {
+    "primary": "Flaxseed and Flaxseed Oil",
+    "latin": "Flaxseed and Flaxseed Oil",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Flaxseed has a long history of traditional use for health and industrial purposes. Originally cultivated near the Middle East, flaxseed was later used to make linen cloths in ancient Egypt, stews in Ethiopia, and laxatives in ancient Greece. In North America, European settlers used flaxseed to make poultices for cuts and burns and oil for paints. Today, flaxseed and flaxseed oil supplements are promoted for the heart, brain, and immune system. These products typically contain alpha linolenic acid (ALA), an omega-3 fatty acid that has been extracted from flaxseed or flaxseed oil.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "Some research of varying quality has studied the use of flaxseed or flaxseed oil supplements for several health purposes in people.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "One clinical trial suggests that flaxseed mucilage powder (mixed with water) might support weight loss in adults with overweight or obesity. However, flaxseed lignan extract and flaxseed oil supplements don’t seem to help with weight loss. In pregnant people with gestational diabetes, some research suggests that flaxseed oil supplements containing ALA might improve fasting measures and insulin resistance. More research is needed to study whether flaxseed lignan extract could improve glycemic control or fasting blood glucose in people with type 2 diabetes. It’s unclear whether flaxseed oil supplements could help other people with diabetes, such as those with diabetic foot ulcers. NCCIH recently funded preliminary research to learn more about how flaxseed could affect the gut microbiome and inflammation in the body.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Don’t eat raw or unripe flaxseeds; they may contain potentially toxic compounds. Limited amounts of flaxseed (especially flaxseed lignan extract or mucilage) or oral flaxseed oil supplements may be safe for use in the short-term (up to 6 months). Higher doses of flaxseed or flaxseed oil supplements may cause uncomfortable digestive symptoms like bloating, fullness, and diarrhea. There are theoretical reasons to suspect that flaxseed or flaxseed oil might interact with other drugs, such as anticoagulant or antiplatelet drugs. If you take any type of medicine, talk with your health care provider before using flaxseed, flaxseed oil, or other herbal products; some herbs and medicines interact in harmful ways. Some studies of the use of flaxseed during pregnancy suggest it is possibly unsafe, but the evidence is not conclusive. Little is known about whether it is safe to use flaxseed while breastfeeding. Little is known about whether it is safe to use flaxseed oil during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

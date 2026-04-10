@@ -1,0 +1,132 @@
+{
+  "id": "capsicum-annuum",
+  "names": {
+    "primary": "CAPSICUM ANNUUM",
+    "latin": "CAPSICUM ANNUUM",
+    "common": [
+      "Cayenne Pepper (CAPSICUM)"
+    ],
+    "synonyms": [
+      "Capsicum annuum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Excessive peevishness. Homesickness, with sleeplessness and disposition to suicide. Wants to be let alone. Peppery disposition. Delirium tremens",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Bursting headache; worse, coughing. Hot face. Red cheeks. Face red, though cold (Asafaet)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Burning and stinging in ears. Swelling and pain behind ears. Inflammation of mastoid. Tenderness over the petrous bone; extremely sore and tender to touch (Onosmod). Otorrhœa and mastoid disease before suppuration",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Hot feeling in fauces. Subacute inflammation of Eustachian tube with great pain. Pain and dryness in throat extending to the ears. Sore throat of smokers and drinkers. Smarting in; constriction. Burning constriction worse between acts of deglutition. Inflamed uvula and palate; swollen and relaxed",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Herpes labialis (Apply one drop of the mother tincture). Stomatitis. Disagreeable smell from mouth. Fetid odor from mouth",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Burning in tip of tongue. Atonic dyspepsia. Much flatulence, especially in debilitated subjects. Intense craving for stimulants. Vomiting, sinking at pit of stomach. Much thirst; but drinking causes shuddering",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Bloody mucus, with burning and tenesmus; drawing pain in back after stool. Thirsty after stool, with shivering. Bleeding piles, with soreness of anus. Stinging pain during stool",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Strangury, frequent, almost ineffectual urging. Burning in orifice. Comes first in drops, then in spurts; neck of bladder spasmodically contracted. Ectropion of meatus",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Coldness of scrotum, with impotency, atrophied testicles, loss of sensibility in testicles, with softening and dwindling. Gonorrhœa, with chordee, excessive burning, pain in prostate",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Climacteric disturbances with burning of tip of tongue (Lathyrus). Uterine hæmorrhage near the menopause, with nausea. Sticking sensation in left ovarian region",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Constriction of chest; arrests breathing Hoarseness. Pain at apex of heart or in rib region, worse touch. Dry, hacking cough, expelling an offensive breath from lungs. Dyspnœa. Feels as if chest and head would fly to pieces. Explosive cough. Threatening gangrene of lung. Pain in distant parts on coughing-bladder, legs, ears, etc",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Pain from hips to feet. Sciatica, worse bending backward; worse, coughing. Tensive pain in the knee",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Coldness, with ill-humor. Shivering after drinking. Chill begins in back; better, heat. Must have something hot to back. Thirst before chill",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "while eating, from heat",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "open air, uncovering, draughts",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "antidoted_by": [
+        "Cina",
+        "Calad"
+      ]
+    },
+    "dosing": {
+      "notes": "Third to sixth attenuation. In delirium tremens, dram doses of tincture in milk or tincture or orange peel"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CAPSICUM ANNUUM Cayenne Pepper (CAPSICUM) Seems to suit especially persons of lax fiber, weak; diminished vital heat. A relaxed plethoric sluggish, cold remedy. Not much reactive force. Such persons are fat, indolent, opposed to physical exertion, averse to go outside of their routine, get homesick easily. General uncleanliness of body. Abstainers from accustomed alcoholics. It affects the mucous membranes, producing a sensation of constriction. Inflammation of petrous bone. Burning pains and general chilliness. Older people who have exhausted their vitality, especially by mental work, and poor living; blear-eyed appearance; who do not react. Fear of slightest draught. Marked tendency to suppuration in every inflammatory process. Prostration and feeble digestion of alcoholics. Myalgia, aching and jerking of muscles.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Capsicum annuum. Mind and Disposition. Peevish, easily offended. Home-sickness, with redness of the cheeks and sleeplessness. Head. Vertigo and giddiness, especially during the cold stage of the intermittent fever if the head would burst, with fulness. Pressing headache, as if the head would burst, with fulness, nausea, and vomiting ; worse in the evening, -from moving the head,- when walking in the cold air ; better when lying with the head high, and from heat. [5] One-sided headache, pressing, with nausea and vomiting ; worse from moving the head and eyes. Darting pain through the head ; worse during rest ; better from moving about. Eyes. Burning in the eyes, (in the morning), with redness and lachrymation. Objects appear black when brought before the eyes, (incipient amaurosis). Ears. Swelling behind the ears, painful to the touch. [10] Hardness hearing after previous burning and stinging in the ear. Nose. Bleeding from the nose, in the morning in bed. Face. Redness of the cheeks, (without heat often changing to paleness. Dull pressing pain in the cheek bone, excited by touching the parts. Swollen, cracked lips. [15] Lips peel off ; burning of the lips. Mouth and Throat. Burning blisters in the mouth. Stomacace. Fetid odor from the mouth. Spasmodic contraction of the throat. Inflammation, with dark redness and burning of the throat. The pain in the throat is worse between the acts of deglutition. Appetite and Taste. [20] Unnaturally increased appetite, alternated with aversion to food. Taste sour. Thirstlessness. Stomach and Abdomen. Burning in the stomach, (after eating). Distention of the abdomen, with suffocative arrest of breathing. [25] Colic from flatulence. Painless rumbling in the abdomen. Stool and Anus. Dysentery ; stools of bloody mucus with tenesmus, and strangury. Diarrha at night, with burning at the anus. Hæmorrhoidal tumors, with burning, (bleeding). Urinary Organs. [30] Strangury, with tenesmus of the bladder. Spasmodic contraction of the neck of the bladder. Burning while urinating. Discharge of blood from the urethra, which is painful to the touch. Sexual Organs. Men . Impotence, with coldness of the scrotum. [35] Purulent discharge from the urethra. Dwindling of the testes. Chest. Oppressed breathing appearing to come from the abdomen, or from fulness of the chest. Asthma with redness of the face, eructation and sensation at ; if the chest were extended. Deep breathing, almost like a sigh. [40] Dry, hard cough in the evening and at night, with pain in distant parts, (stitches in the bladder, pain in the know or legs, ears, throat). When coughing, he exhales fetid smelling air. Generalities. Aversion to exercise. Phlegmatic temperament, and relaxed fibres. Fever. Pulse irregular, and often intermitting. [45] Chill almost always with violent thirst worse after drinking. Heat, with perspiration, and no thirst. Perspiration after the chill, without previous heat. On the upper part of the legs cold perspiration. Skin. Sensation over the whole body, as if the parts would go to sleep. Conditions. [50] Stiffness and painfulness of all the joints when beginning to move. Cracking of all the joints, (finger joints, knee). Most complaints are aggravated from eating and drinking ; are most severe on beginning to exercise ; and axe relieved or ameliorated by continued exercise. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "lippe-textbook-mm-1866"
+    ]
+  }
+}

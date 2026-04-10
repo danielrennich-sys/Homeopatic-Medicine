@@ -1,0 +1,26 @@
+{
+  "id": "urea-pura",
+  "names": {
+    "primary": "UREA PURA",
+    "latin": "UREA PURA",
+    "common": [
+      "Carbamide (UREA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">UREA PURA Carbamide (UREA) Tuberculosis. Lumps. Enlarged glands. Renal dropsy, with symptoms of general intoxication. Gouty eczema. Albuminuria, diabetes; uræmia. Urine thin and of low specific gravity. A hydrogogue diuretic in the treatment of dropsies. 10 grains every 6 hours.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

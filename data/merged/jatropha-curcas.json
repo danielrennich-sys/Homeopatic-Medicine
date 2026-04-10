@@ -1,0 +1,72 @@
+{
+  "id": "jatropha-curcas",
+  "names": {
+    "primary": "JATROPHA CURCAS",
+    "latin": "JATROPHA CURCAS",
+    "common": [
+      "Purging Nut (JATROPHA)"
+    ],
+    "synonyms": [
+      "Jatropha curcas"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "stomach_abdomen": [
+      {
+        "text": "Hiccough, followed by copious vomiting. Nausea and vomiting, brought on by drinking, with acrid feeling from throat. Great thirst. Very easy vomiting. Heat and burning in stomach, with crampy, constrictive pain in epigastrium",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Distended, with gurgling noises. Pain in hypochondria. Pain in region of liver and under right scapula to shoulder. Violent urging to urinate",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Sudden, profuse, watery, like rice-water. Diarrhœa; forced discharge; loud noise in abdomen like gurgling of water coming out of a bung-hole, associated with coldness, cramps, nausea, and vomiting",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Cramps in muscles, especially calves, legs, and feet. Coldness of whole body. Pain in ankles, feet and toes. Heels sensitive",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "by placing hands in cold water",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": []
+    },
+    "dosing": {
+      "notes": "Third to thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">JATROPHA CURCAS Purging Nut (JATROPHA) Of value in cholera and diarrhœa. The abdominal symptoms are most important. Suppressed measles (H. Farrington).",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T JATROPHA CURCAS In diarrha, cholera, etc., when a loud noise is heard in the abdomen, like the gurgling of water coming out of the bung hole of a barrel, during the fecal discharge. Albuminous vomiting; copious thirst; glass of water almost immediately vomited. Copyright © Médi-T 2000",
+        "source_id": "guernsey-keynotes-1887"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Jatropha curcas. Mind and Disposition. Anxiety, with burning in the stomach and coldness of the body. Quietude of mind ; indifference to pain. Head. Giddiness, followed by unconsciousness and delirium. Heat and heaviness of the head. [5] Head hot ; stupefaction, with yawning and nausea. Heat in the head, face and ears. Headache, with nausea and vomiturition, beginning in the morning. Violent pressing pain in the temples, ceasing in the open air and reappearing when entering the room. Stiffness of the muscles on the forehead and neck. Eyes. [10] Itching and smarting of the edges of the eyelids. Twitching of the left upper eyelid. Ears. Burning in the ears, with heat in the head. Burning hot ears, with heat in the back part of the head. Nose. Itching of the nose while eating. [15] Ulcers in the nose (and mouth). Face. Hot face and head ; chilliness in the back. Pale face with blue margin around the eyes. Painful cracked lips. Mouth and Throat. Metallic-bloody taste, with much spitting of saliva (in the morning). [20] Long-continued pain and burning of the tongue. Numbness of the tongue, with heat and dryness of the mouth. Dryness of the mouth and tongue, without thirst (at night) ; the mouth feels ; as if scalded. Dryness of the throat. Burning in the mouth and throat, followed by dryness. [25] Spasmodic constriction in the throat, ascending from the stomach. Increased accumulation of thin saliva. Stomach and Abdomen. Violent, irresistible thirst, when drinking cold water. Eructations ; of air. Vomiting of a large mass of dark-green bile. [30] Vomiting of large quantities of watery, albuminous substances ; at the same time watery diarrha, with spasmodically contracting pains in the stomach, burning in the stomach, cramps ; in the calves ; and coldness of the body. (Cholera). Vomiting of pregnant women. Heat and burning in the stomach. Sensation of sinking, with nausea in the pit of the stomach. Pain deep in the abdomen, behind the navel. [35] The abdomen is swollen and is sore to the touch. Lancinating, stinging pain with the colic. Tympanitis. Rumbling in the abdomen, with colic ; better when walking in the open air. Noise in the intestines, as ; if a bottle were emptied, or as if a fluid were running in the intestines ; not relieved by a loose stool. Stool and Anus. [40] Watery diarrha ; it gushes from him like a torrent. Cholera-Stool watery and in gushes. Stitches at the anus ; and in the rectum. Urinary Organs. Frequent desire to urinate ; urine, pale-yellow, frothy. Extremities. Cramps in the muscles of the (upper) arms. [45] Cramps in the calves of the legs. (Cholera). Tingling in the toes. Itching between the toes at night. The heels are very sensitive when walking on them. Fever. Chilliness in the back, with heat in the face and head. [50] Chilliness with cold hands and blue nails. Coldness of the whole body ; chilliness and clammy perspiration. Cold hands, with heat in the mouth and throat. Cold, clammy perspiration. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "guernsey-keynotes-1887",
+      "lippe-textbook-mm-1866"
+    ]
+  }
+}

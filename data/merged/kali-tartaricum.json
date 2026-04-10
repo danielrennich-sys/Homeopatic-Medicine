@@ -1,0 +1,68 @@
+{
+  "id": "kali-tartaricum",
+  "names": {
+    "primary": "Kali Tartaricum",
+    "latin": "Kali Tartaricum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T KALI TARTARICUM. Tartrate of Potash (Cream of Tartar), C 4 H 5 KO 6 . Authority. 1 , Catell, Br. J. of Hom., 11, 521 (collected symptoms). ► Tongue brown and dry. ► Great thirst, and pain in umbilical region. ► Violent vomiting and diarrha. ► He vomits a blackish-green fluid. ► Inflammation of the stomach and intestines. ► Pain in umbilical region and great thirst. ► Flatulence and griping. ► Diarrha. ► Diarrha and violent vomiting. ► Fæces like coffee-grounds. ► Pulse feeble. ► Pain in the loins . ► Thighs and legs appear as if paralyzed. ► Thighs and legs paralyzed . ► Emaciation. ► Extreme weakness; he can scarcely walk. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Paraplegia",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Thighs and legs paralysed. Emaciation. Extreme weakness, can scarcely walk. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "A few symptoms of this well-known substance are collected in Allen, and among them pain in loins and paraplegia are very noticeable. There is vomiting of blackish green fluid; fæces like coffee-grounds; and pain in umbilical region with great thirst.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Ant. t., Tart. ac."
+      ]
+    },
+    "mouth_throat": [
+      {
+        "text": "Tongue brown and dry.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Great thirst and pain in umbilical region. Violent vomiting and diarrhœa. Vomits a blackish green fluid. Inflammation of stomach and intestines. Pain in umbilical region with thirst. Flatulence and griping. Diarrhœa; and violent vomiting. Fæces like coffee-grounds.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pulse feeble.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Pain in loins.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

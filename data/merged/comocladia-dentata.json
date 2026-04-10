@@ -1,0 +1,177 @@
+{
+  "id": "comocladia-dentata",
+  "names": {
+    "primary": "COMOCLADIA DENTATA",
+    "latin": "COMOCLADIA DENTATA",
+    "common": [
+      "Guao"
+    ],
+    "synonyms": [
+      "Comocladia Dentata"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "eyes": [
+      {
+        "text": "Ciliary neuralgia with eyes feeling large and protruded, especially right. Worse, near warm stove; feels as if pressed outward. Sees only glimmer of light with left eye. Glaucoma, sense of fullness; eyeball feels too large. Motion of eyes aggravates",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "On rising from bed, everything looks dark. Face most dreadfully swollen, eyes project far out of sockets, can see but a faint glimmer of light with left. Sees from right eye a red ring around light of lamp, which disappears on closing eye. Eyes feel very heavy, larger than usual, painful and pressing out of head, as if something was pressing on top of eyeballs, moving then downward and outward. Aching soreness of eyeballs, which feel heavy and too large. Right eye very painful, feeling much larger and more protruded than left. Right eyeball very sore, < on moving eye. Severe pains through eyeballs, extending to occiput. Eyeballs feel < on moving them. Catarrhal ophthalmia. Erysipelatous inflammation of tissues in and around eye. Ciliary neuralgia from asthenopia and chronic iritis. Eyes more painful near warm stove, with profuse lachrymation.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "face": [
+      {
+        "text": "Swollen, with eyes projecting",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Burning on face and eyes, < towards evening. Painful burning on face, particularly about eyes. Excessive swelling of face, with tormenting itching and swelling. Heat and sense of fulness in face over superior maxillary bone, and sensation as of a pimple over right antrum. Left side of face swollen ; left ear all cracked and desquamating a substance like powdered starch. Very great swelling of face. Lower lip blistered and swollen.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itches, red and pimples. Redness all over, like scarlatina. Erysipelas. Deep ulcers, with hard edges. Leprosy. Red stripes on skin (Euphorb). Eczema (papular) of the trunk and extremities; also pustular type",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Tormenting itching and burning over whole body. Painful burning on face and arms ; face enormously swollen. Violent itching burning, redness and erysipelatous swelling of face, hands and other parts of body, followed by yellow vesication and desquamation of cuticle. Red color all over body, resembling scarlet fever. Skin white and covered with shiny scales ; cracked and discharged sanious fluid. θ Inflammation leg and foot. Inflammation of the part, with deep, hard-edged ulcers, which discharge a thick, purulent, greenish-yellow matter, having a very peculiar, fetid smell, parts becoming in appearance similar to a piece of raw, decayed meat, while surrounding skin is covered with small shining scales. Malignant erysipelas ; herpes ; zona ; leprosy.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Acute pain in left mammary gland. Pain from right side of chest down arm to fingers. Cough with pain under left breast, going through to left scapula",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Cannot draw a long breath on account of sharp pain felt at centre of thorax on left side. Soreness in left lung, such as is felt during convalescence from pneumonia. Rheumatic and pleurodynic pains in chest ; pain under l. nipple through to scapula. Constant pain across chest. Drawing in right anterior wall of chest. Drawing, cramping in right anterior of chest and axilla, extending down arm to fingers, jerking of little finger. Acute sharp pains in left mammary gland, about one inch above nipple and leaves a burning sensation ; it goes to r. side and down right arm. Intermitting, throbbing, pressing pain in costal cartilage of fifth rib, right side, leaving a burning, raw sensation, < during rest. Sloughing ulcer on right breast.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "open air, scratching; by motion",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "touch, warmth, rest; night",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "First to thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">COMOCLADIA DENTATA Guao Important eye and skin symptoms. Affections of antrum. Sacro-iliac and abdominal pain. Throbbing pains worse by heat. Pain in joints and ankles.",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Dizziness and heaviness of head, with shooting pains, > from motion. Giddiness on rising from bed ; everything looks dark ; motion > all pains in head, < from heat.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "head": [
+      {
+        "text": "Dull aching in forehead. Shooting pains through left temple. Severe pain at intervals from posterior portion of eyeballs to occipital protuberance. Head < near warm stove, and when stooping it is almost impossible to hold the head down, > in open air. Corrosive itching of head, with shooting pains, > by movement.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Heat and fulness in interior of right ear. Left ear all cracked and desquamating a substance like powdered starch.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Intolerable itching of nose.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Sensation as if molar teeth on right side were loose. Sensation as if tooth was drawing out of its socket. Aching pains in teeth. Second molar tooth right side carious ; pain commences in it at 4.30 to 5 P. M. ; at times shoots down in line with larynx, leaving sore track ; pain < in bed, > from external warmth and pressure. Pains in teeth > by pressure. When toothache stops, head feels large. Inflammation of gums of lower jaw. Tongue coated dirty yellow. Mouth dry.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Sour eructations two hours after eating. Sickness of stomach. Pressure and heaviness in region of stomach. Abdomen feels swollen. Dull pain, gurgling and uneasiness in intestines in hypogastric region, with emission of odorless flatus. Acute sore pains extending across abdomen above umbilicus, affecting the breathing. Dull pain in abdomen, clothes too tight. A pale red flush, as if an eruption would make its appearance across abdomen.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Severe flatulent pain in abdomen, preceding and during a diarrheic stool ; followed by a feeling of weakness and perspiration on face and neck.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "male": [
+      {
+        "text": "Intense itching on lower part of penis, also on inner side of prepuce. Continued tingling, itching of scrotum during night.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Oppression of breathing. Oppression of breath on account of sharp pains in left side. Spasmodic dry cough at night, with tickling in throat and constant dull pain under left nipple, extending through to left scapula. Rheumatic and pleurodynic pain in chest. Titillating cough ; hacking cough in daytime.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "On moving head, sense of fulness, rigidity and lameness of muscles of neck. Rheumatic pains and stitches in back ; stitches leave a burning.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Sharp pain through right shoulder to scapula. Painful burning on arms. Crampy sensation in muscles of right upper arm. Numb, tensive pain in forearm, and rheumatic stiffness of shoulders and elbow joints. Drawing, aching in forearm. Drawing, cramping in fingers. Frequent rheumatic pains in hands, arms and legs. Vesicular eruption on arms and hands. Intermittent, pressing outward pain in left sacro-iliac articulation, sensitive to pressure, > by walking, but feels lame and sore. Pulsating pain in neck of right femur and in right thigh. Severe pains in both knees ; pressing down to feet on inside of legs. Drawing in right knee, extending into anterior muscles of thigh. Drawing, cramping in hollow of right foot, passing along outer border of gastrocnemius muscle to knee, then in tibia, where it becomes a numb aching, then in tarsus, where it becomes a drawing-aching, as if foot would cramp. Lameness and loss of strength in left ankle. Crampy lameness in right leg, above instep, > by walking. Inflammation of left leg and foot, with violent fever ; the swelling increased enormously when the pain subsided ; the skin became white and covered with thin scales, cracked and discharged a sanious fluid. Vesicular eruption on legs changing to pustules, and sometimes to deep, unhealthy ulcers. Indolent ulcer of six years' standing, on lower third of right leg, near external malleolus, of irregular shape and hard edges ; the ulcer was deep and discharged a sanious, fetid pus. Herpes on legs. Lame, aching pain in right upper arm ; in right knee.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Dreamy, refreshing sleep, with pleasant dreams, almost clairvoyant.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Violent fever. θ Inflammation of left leg and foot. Sense of weakness, with heat and perspiration of face and neck.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Frequent : rheumatic pains in hands, arms and legs. Constant : pressure and heaviness in region of stomach ; dull pain under left nipple, extending into left scapula ; pain across chest. Of six years' standing : indolent ulcer on right leg, near external malleolus. Right : sees a red ring around light of lamp ; eye very painful, feeling much larger and more protruded than left ; eyeball very sore ; heat and fulness in interior of ear ; as of a pimple over antrum ; as if molar teeth were loose ; second molar tooth carious ; drawing in anterior wall of chest ; drawing-cramping in anterior of chest and axilla, extending down arm to fingers, jerking of little finger ; intermitting, throbbing, pressing pain in costal cartilage of fifth rib, leaving a burning, raw sensation ; sloughing ulcer on breast ; sharp pain through shoulder to scapula ; crampy sensation in muscles of upper arm ; pulsating pain in neck of femur and thigh ; drawing in knee, extending into anterior muscles of thigh ; drawing-cramping in hollow of foot passing along outer border of gastrocnemius muscle to knee, then in tibia, where it becomes a numb aching, then in tarsus, where it becomes a drawing aching, as if foot would cramp ; crampy lameness in leg above instep ; indolent ulcer on lower third of leg near external malleolus ; lame, aching pain in upper arm, in knee. Left : shooting pains through temple ; can see but a faint glimmer of light with eye ; ear cracked and desquamating a substance like powdered starch ; side of face swollen ; sharp pains in side oppressing breathing ; constant dull pain under nipple extending through to scapula ; sharp pain at centre of thorax on side ; soreness in lung ; acute sharp pain in mammary gland about one inch above nipple and leaves a burning sensation, it goes to right side and down right arm ; intermittent, pressing outward pain in sacro-iliac articulation ; lameness and loss of strength in ankle ; inflammation of leg and foot, skin white and covered with scales, cracked and discharging a sanious fluid. As if eyes were larger than usual ; as if something was pressing on top of eyeballs, moving them downward and outward ; as if eyeballs were too large ; as if right eyeball was much larger and more protruded than left ; as of a pimple over right antrum ; as if molar teeth on right side were loose ; as if tooth was drawing out of socket ; as if head was large, after toothache ; as if abdomen was swollen ; as if foot would cramp. Pain : at intervals from posterior portion of eyeballs to occipital protuberance ; in eyes ; in second molar tooth of right side, shoots down in line with larynx, leaving sore track ; in teeth ; dull, in intestines and hypogastric region ; dull, in abdomen ; sharp, in left side, oppressing breathing ; dull, under left nipple extending through to l. scapula ; sharp, in centre of thorax on left side ; acute, sharp, in left mammary gland about one inch above nipple, and leaves a burning sensation, it goes to right side and down right arm ; sharp, through right shoulder to scapula ; severe in both knees. Stitches : in back, leaving a burning. Shooting pains : in head ; through left temple. Drawing : in right anterior wall of chest and axilla, extending down arm to fingers ; in forearm ; in fingers ; in right knee, extending into anterior muscles of thigh ; in hollow of right foot, passing along outer border of gastrocnemius muscle to knee, then in tibia, then in tarsus. Throbbing pain : in costal cartilage of fifth rib, right side, leaving a burning, raw sensation. Burning : on face and eyes ; painful, on face and arms, and particularly about eyes ; about one inch above left nipple ; in costal cartilage of fifth rib, right side ; in back ; painful, on arms ; over whole body. Numb, tensive pain : of forearm, and rheumatic stiffness of shoulders and elbow joints. Pressing pain : in costal cartilage of fifth rib, right side, leaving a burning, raw sensation. Cramping : in right anterior of chest and axilla, extending down arm to fingers ; in muscles of right upper arm ; in fingers ; in hollow of right foot passing along outer border of gastrocnemius muscle to knee, then in tibia, then in tarsus. Acute sore pains : extending across abdomen above umbilicus, affecting breathing. Aching soreness : of eyeballs. Soreness : of right eyeball ; in left lung. Rheumatic pains : in chest ; in back ; in hands, arms and legs. Pleurodynic pains : in chest. Aching : dull, in forehead ; in teeth ; in forearm ; numb, in tibia ; in tarsus ; in right upper arm ; in right knee. Pressure : constant, in region of stomach. Pressing : down to feet on inside of legs. Intermittent, pressing outward pain : in left sacro-iliac articulation, > by walking, but feels lame and sore. Crampy lameness : in right leg above instep. Lameness : in left ankle ; in right upper arm ; in right knee. Pulsating pain : in neck of right femur and thigh. Raw sensation : in costal cartilage of fifth rib, right side. Tingling : of scrotum. Heaviness : of head ; of eyes ; of eyeballs ; in region of stomach. Fulness : in interior of right ear ; in face over superior maxillary bone ; of head on moving head. Itching : corrosive, of head ; intolerable, of nose ; excessive swelling of face with tormenting ; intense, on lower part of penis, also on inner side of prepuce ; of scrotum ; tormenting, over whole body. Tickling : in throat. Heat : in interior of right ear ; in face over superior maxillary bone. Rheumatic pains and swellings, < by rest, > by continued motion. Affects the skin in a marked degree. TOUCH. PASSIVE MOTION. INJURIES. [45] [Com.]. Pressure : > pain in second molar of right side ; pains in teeth > ; pressing outward pain in left sacro-iliac articulation, sensitive to. Miss H., æt. 17, a student, dark, thin hair, blue eyes, fair complexion, mixed temperament ; toothache. Mrs. C., æt. 25, mother of one child, auburn hair, fair complexion, blue eyes, nervo-sanguine temperament ; neuralgic pains in costal region, right side. Lady, æt. 38, sloughing ulcer of breast.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare : Anac., Rhus tox., Rhus rad., Rhus ven",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "hering-guiding-1879"
+    ]
+  }
+}

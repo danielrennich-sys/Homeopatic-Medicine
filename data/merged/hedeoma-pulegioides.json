@@ -1,0 +1,63 @@
+{
+  "id": "hedeoma-pulegioides",
+  "names": {
+    "primary": "HEDEOMA PULEGIOIDES",
+    "latin": "HEDEOMA PULEGIOIDES",
+    "common": [
+      "Pennyroyal (HEDEOMA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Dull, heavy feeling in morning. Sore pain, as from a cut. Weak, faint; better, lying down",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Gastritis. Everything taken into stomach causes pain. Tongue coated thin white. Nausea",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Distended, sore, and sensitive",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Frequent urging, cutting pains. Pain along left ureter. Dragging pain from kidney to bladder. Dull burning pain over left kidney. Burning irritation at neck of bladder causing frequent intense desire to urinate and inability to retain urine for more than few minutes, better urinating",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Bearing-down pains, with much backache; worse, least movement. Leucorrhœa, with itching and burning Ovaries congested and painful; bearing-down spasmodic contractions",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Pain in thumb-joint. Pain, coldness, and paretic condition. Twitchings, jerkings, soreness. Tendo-Achilles painful, as if sprained and swollen; walking painful",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "First potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">HEDEOMA PULEGIOIDES Pennyroyal (HEDEOMA) Female symptoms are most marked; usually associated with nervous disturbances. Red sand in urine. Pain along ureter. Flatulent colic. Antidotes effects of Poison-oak (Grindelia).",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

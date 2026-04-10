@@ -1,0 +1,44 @@
+{
+  "id": "erythraea-chilensis",
+  "names": {
+    "primary": "Erythraea chilensis",
+    "latin": "Erythraea chilensis",
+    "common": [
+      "Centaury, Chilian"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A small, herbaceous plant, with branched stems and pink or yellow flowers, widely used in Chile as a mild tonic.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Stimulant bitter, tonic. Useful in dyspepsia and indigestion. An infusion may be made of 1 oz. to 1 pint of boiling water.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Of infusion - a wineglassful. Of fluid extract - 1/2 to 1 drachm.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Erythraea acaulis , a native of Southern Algeria, has roots that yield a yellow dye. Sabatia angularis , or American Centaury, is a simple bitter used as a tonic and antiperiodic, in doses of 1 drachm of fluid extract or decoction of the whole plant. It has been found to contain a small proportion of Erythrocentaurin. The root of S. Elliottii is used in a similar manner in the south-eastern United States, and the whole plant of S. campestris in the south-western. S. Elliottii is known as the Quinine Flower, its properties resembling quinine. Purchase from Richters Similar: Centaury (Centaurium erythraea) Seeds and Dried Herb",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

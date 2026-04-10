@@ -1,0 +1,30 @@
+{
+  "id": "antimonium-iodatum",
+  "names": {
+    "primary": "Antimonium Iodatum",
+    "latin": "Antimonium Iodatum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Recommended by Hale in cases of uterine hyperplasia; also in cases of humid asthma, bronchitis (subacute and chronic, with or without asthma), and other pulmonary affections. The particular indications are: \"Frequent spells of coughing with expectoration of frothy, white, or thick yellowish mucus; loss of appetite and strength; moderate febrile action; coated tongue; yellowish discoloration of skin and conjunctivæ.\" Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Asthma; Bronchitis; Pneumonia; Uterus, hyperplasia of",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

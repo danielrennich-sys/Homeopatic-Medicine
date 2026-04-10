@@ -1,0 +1,41 @@
+{
+  "id": "kaolinum",
+  "names": {
+    "primary": "KAOLINUM",
+    "latin": "KAOLINUM",
+    "common": [
+      "Bolus alba (China Clay) Alumina Silicate (KAOLIN)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "nose": [
+      {
+        "text": "Itching and burning. Discharge yellow. Sore, scabby, stopped up",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Soreness of chest along trachea; cannot stand percussion. Gray sputa. Capillary bronchitis. Larynx and chest sore. Membranous croup-extends down trachea",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Lower triturations"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">KAOLINUM Bolus alba (China Clay) Alumina Silicate (KAOLIN) A remedy for croup and bronchitis.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

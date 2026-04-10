@@ -1,0 +1,78 @@
+{
+  "id": "mygale-lasiodora",
+  "names": {
+    "primary": "MYGALE LASIODORA",
+    "latin": "MYGALE LASIODORA",
+    "common": [
+      "Black Cuban Spider"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Delirious, restless, sad; fears death; despondent",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "Twitching of facial muscles. Mouth and eyes open in rapid succession. Hot and flushed. Tongue dry and parched; put out with difficulty. Head jerked to one side. Grating of teeth at night",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea, with dim sight. Aversion to food. Excessive thirst",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Violent erections. Chordee (Kali brom; Camph)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Unsteady gait. Constant motion of whole body. Tremulous. Intense redness in streaks, following course of lymphatics. Twitching of limbs. Restless hands. Convulsive, uncontrollable movements of arms and legs. Limbs drag while walking",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "during sleep",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "in morning",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Third to thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">MYGALE LASIODORA Black Cuban Spider Weakness, palpitation, nervousness, fear, like other spider preparations. Chorea is the principal therapeutic field of this. Sexual symptoms are important.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Is also a spider poison, and has cured cases of chorea. The cases seem to have been of a very violent nature, and the twitching in the facial muscles is predominant. This remedy also ought to be fully proven.",
+        "source_id": "nash-leaders-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "nash-leaders-1899"
+    ]
+  }
+}

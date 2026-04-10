@@ -1,0 +1,76 @@
+{
+  "id": "fagus",
+  "names": {
+    "primary": "Fagus",
+    "latin": "Fagus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T FAGUS. Fagus sylvatica, Linn. Natural order , Cupuliferæ. Common names , Beech; (Germ.) Buche; (Fr.) Le hêtre (or, le fayard). Preparation , Trituration of the nuts (European). Authorities. 1 , Bauhinus, Hist. Plant., 1, 2, 121, from Wibmer, effects of eating nuts (same as all other authorities); 2 , Paulli, Quadrip. bot., 1708, p. 68, from Wibmer; 3 , Gottsched, Diss. de sanat. Epileps., 1771, ibid.; 4 , Loesel, Hara. Pruss., p. 72, ibid.; 5 , Kortum, Beit. Zur. pr. Arzn., 1795, p. 145; 6 , Sandrok, Ersch and Gruber, Encyclop., ibid.; 7 , Hesse, Allg. Med. Annal., 1826, vol. 29, effects of eating nuts in a girl aged 16; 8 , same, ate 70 nuts himself; 9 , same, effects on a woman aged 28. MIND. ► Intoxication, [4] . ► Dread of water (hydrophobia), [3] . [Schmiedel et Seliger, Diss. de Hydrophobia ex esu fructuum fagi. Erl, 1762.] HEAD. ► Confusion and Vertigo. ► The fresh beech-nuts acted like Darnel and caused confusion of the head, [1] . ► Dizziness and stupefaction, the whole night (from eating fresh beech-nuts on a salad), [5] . ► Reeling and intoxication, [3] . ► General Head. ► Headache, [2] , [7] . ► Headache lasting several hours, [9] . ► Dull headache (after half an hour), [8] . ► Forehead. ► Dull frontal headache, [7] . MOUTH. [10.] ► Accumulation of water in the mouth (after half an hour), [8] . STOMACH. ► Eructation. ► Eructations (after half an hour), [8] . ► Nausea. ► Slight nausea (after half an hour), [8] . ► Slight nausea in the stomach, with accumulation of water in the mouth and eructations (after half an hour), [7] . ► Feeling as though she must vomit, [7] . ► Stomach. ► Pain in the stomach, [9] . ► Aching in the stomach, [7] . ► Slight aching and griping in the stomach (after half an hour), [8] . GENERAL SYMPTOMS. ► Trembling, [4] . ► Convulsions, with periodic spasms, stiffness and coldness, with headache and weakness, in eight children, [5] . [20.] ► Epileptic attacks, [6] . FEVER. ► Fever (in a girl), [3] . SUPPLEMENT: FAGUS. Authorities. (From Berridge's Collection in Amer. Hom. Obs., 1876, p. 14); 10 , Dr. Seley, from Dissert. on Hydrophobia, Eolong, 1762 (Med. Museum), a boy, æt. Thirteen years, had eaten a large quantity of beech-nuts; 11 , Haller quotes from Trans. (Act., Haffer), general effects; 12 , Berridge (?), general effects; 13 , Furstenan, Act. Phys. Med. Nat. Cur. vol. viii, a boy, æt. twelve years, ate a great deal of beech mast; 14 , same, effects on the inhabitants of a village of immoderate use of beechnuts. ► Swelling of mouth and headache, [12] . ► On the fourth day after, I found him in great pain, languid, and terrified with apprehension of present death. Pulse very unequal, sometimes extremely quick, sometimes languid and intermittent; skin burning violently; mouth flowing with froth and saliva; intolerable thirst, entreating for drink, but as soon as any liquid was brought he seemed to shudder with equal horror, as if he had been eating unripe grapes. Soon after eating the nuts he had been seized with torpor, gloominess, and dread of liquids. He had not been bitten by any rabid animal. Next (fifth) day, early in the morning, he was the same, but seemed to talk more in his wildness and perturbation of mind, and his mouth flowed with foam more abundantly; the urine he had voided by night was red and fiery, depositing a copious turbid white sediment, resembling an emulsion of beechnuts, subsiding as deep as the breadth of the finger at the bottom of the vessel. A few hours before he died he vomited a porraceous bile, after which he died quietly, [10] . ► Seized with pleurisy, soon became delirious, and died in convulsions on the eleventh day, [13] . ► Fatal pleurisy, [14] . ► Ardent fevers, called liepera or causas, have been occasioned by eating them, [11] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Epilepsy; Headache; Hydrophobia; Vertigo",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Our knowledge of this remedy is derived from the ill effects of eating the nuts; among which are dread of liquids and salivation. It is this which has suggested its use in hydrophobia. In addition, trembling, convulsions with periodic spasms, stiffness and coldness have been observed, pointing to the same kind of nerve irritation as is caused by the poison of rabies. Swelling of the mouth and headache were noted in one case. In some instances death has resulted from the effects of the nuts.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Epiphegus (which grows on the beech and partakes of its properties) in headache and salivation."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Intoxication. Dread of water. Terrified; apprehensive of death. Gloomy and torpid.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Dizziness and stupefaction lasting all night; reeling. Intoxication. Headache; lasting several hours; dull; frontal. Swelling of mouth, and headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Salivation; mouth flowing with froth and saliva. Swelling of mouth, and headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Mouth flowing with froth and saliva; intolerable thirst; entreating for drink, but as soon as any liquid was brought he seemed to shudder as after eating unripe grapes; soon after eating the nuts had been seized with gloominess, torpor, and dread of liquids; urine fiery red, depositing copious turbid white sediment. A few hours before death vomited a porracious bile. (This patient, a boy, had not been bitten by a rabid animal.). Nausea.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Seized with pleurisy, soon became delirious, and died in convulsions on eleventh day.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Ardent fever. Skin burning violently. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

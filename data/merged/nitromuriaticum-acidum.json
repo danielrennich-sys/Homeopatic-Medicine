@@ -1,0 +1,53 @@
+{
+  "id": "nitromuriaticum-acidum",
+  "names": {
+    "primary": "NITROMURIATICUM ACIDUM",
+    "latin": "NITROMURIATICUM ACIDUM",
+    "common": [
+      "Aqua Regia (NITRO-MURIATIC ACID)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mouth_throat": [
+      {
+        "text": "Gums bleed easily. Ptyalism. Constant drooling at night (Merc). Cankers; small, superficial ulceration over inside of mouth and tongue. Metallic taste (Cupr met)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Sour eructations, with empty hungry feeling in stomach; not relieved by eating. Salivation, worse at night",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Constipated, with ineffectual urging. Sphincter constricted. Anus moist and sore",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Cloudy. Burning in urethra. Oxaluria",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Five to ten drops, well diluted"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">NITROMURIATICUM ACIDUM Aqua Regia (NITRO-MURIATIC ACID) Almost a specific in Oxaluria. Removes the distressing skin symptoms resembling psoriasis. Three to five drops three times a day. So-called bilious conditions; torpid liver, hepatitis and early cirrhosis of liver. More adapted to hepatic torpor and gastric catarrh common in hot and damp climates and aggravated by meat eating and alcohol (Hale). Constricted anus. Gravel.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

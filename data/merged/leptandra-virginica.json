@@ -1,0 +1,84 @@
+{
+  "id": "leptandra-virginica",
+  "names": {
+    "primary": "LEPTANDRA VIRGINICA",
+    "latin": "LEPTANDRA VIRGINICA",
+    "common": [
+      "Culver's Root (LEPTANDRA)",
+      "Black Root"
+    ],
+    "synonyms": [
+      "Leptandra Virginica (NUTT.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "head": [
+      {
+        "text": "Dull frontal pain; vertigo, drowsiness, and depression. Smarting and aching in eyes",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Tongue coated yellow. Great distress in stomach and intestines, with desire for stool. Aching in region of liver extending to spine, which feels chilly",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Profuse black, fetid stools, with pain at umbilicus. Bleeding piles. Typhoid stools turn black and look like tar. Clay colored stools with jaundice. Prolapse of rectum with hæmorrhoids. Rectal hæmorrhage",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture, to third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">LEPTANDRA VIRGINICA Culver's Root (LEPTANDRA) A liver remedy, with jaundice and black, tarry stools. Bilious states. Enfeebled portal circulation. Malarial conditions.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "This tall, herbaceous perennial was included by Linnaeus in the genus Veronica , but was later assigned by Nuttall to the genus Leptandra , a nomenclature followed by present-day botanists. It has a simple, erect stem, 3 or 4 feet high or more, smooth and downy, furnished with leaves in whorls and terminating in a long spike of white flowers, 6 to 10 inches long. The leaves, of which there are from four to seven in each whorl, are lanceolate, pointed and minutely serrate, and stand on short footstalks. A variety with purple flowers has been described as a distinct species under the name of Leptandra purpurea . The plant flowers in July and August. It grows throughout the United States, in the south mostly in mountain meadows - in the north in rich woods, and is not unfrequently cultivated. It will grow readily in Britain. The rhizome and roots are nearly odourless, the taste bitter and rather acrid, and are generally used dried. The rhizome is of horizontal growth, nearly cylindrical, somewhat branched, externally dark brown to purplish brown, smooth and faintly longitudinally wrinkled, and showing stem bases at intervals of 1/2 to 1 1/2 inch. The rootlets, rising from the under portion, are wiry and brittle when dry.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "While writing on Aurum muriaticum natronatum I mentioned Veronica with which Dr. Baruch followed that remedy in the cure of my own case. After returning home I tried to find the two remedies. Found Aurum muriaticum natronatum in Hering's Guiding Symptoms, and, although meager, had something to go by in treating other cases, with the result there mentioned. But I could find no Veronica proven unless it was the Leptandra, which is one of the Veronica tribe. So the next time I saw Dr. Baruch I asked him if it was the Leptandra that he gave me, and he said, \"No, it was the Veronica officinalis\" (common Speedwell). It is not found in our Materia Medica as yet. There is no doubt the Veronicas and especially the Leptandra are good liver remedies, but aside from the alternate ashy and black stools we have nothing very definite to guide us to their selection. The only two provings made were with the alkaloid, and that in too low preparations to be of much value. I once succeeded with Leptandra in curing, or at least she improved until she was well, a lady very sick with what was called by her former physician typhoid fever. The following indications which I found in Jahr's Clinical Guide (by Lilienthal, first edition) led to its prescription. Symptoms: -\"Great prostration, stupor, heat and dryness of skin, calor mordax or coldness of the extremities, dark, fetid, tarry, or watery stools mixed with bloody mucus, and a jaundiced skin.\" Otherwise I have never seen any marked benefit from this remedy in any case. Still I believe it to be capable, with scientific proving, in potency, of developing great curative powers. If I might, in this short notice, inspire some young physicians to thoroughly prove it I should not have written in vain.",
+        "source_id": "nash-leaders-1899"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "The dried rhizome, roots.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Eastern United States.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The roots contain volatile oil, extractive, tannic acid, gum, resin, a crystalline principle, a saccharine principle resembling mannite, and a glucoside resembling senegin. Both the crystalline principle and the impure resin obtained by precipitating with water a tincture of the root have been called Leptandrin and is said to be the active principle. The properties are extracted by both water and alcohol. An ester of p -methoxycinnamic acid, a phytosterol verosterol, and some dimethoxycinnamic acid are also obtained.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The fresh root is a violent cathartic and may also be emetic. The dried root is milder and less certain. Leptandrin excites the liver gently and promotes the secretion of bile without irritating the bowels or purging. As it is also a tonic for the stomach, it is very useful in diarrhoea, chronic dysentery, cholera infantum, and torpidity of the liver. The accounts of its use are conflicting, perhaps owing to the difference in the action of the root in its dry and fresh states. There appears to be a risk of the fresh root producing bloody stools and possibly abortion, though a decoction may be useful in intermittent fever. It has been stated that the dried root has been employed with success in leprosy and cachetic diseases, and in combination with cream of tartar, in dropsy.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "grieve-modern-herbal-1931",
+      "nash-leaders-1899"
+    ]
+  }
+}

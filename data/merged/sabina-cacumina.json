@@ -1,0 +1,56 @@
+{
+  "id": "sabina-cacumina",
+  "names": {
+    "primary": "Sabina cacumina",
+    "latin": "Sabina cacumina",
+    "common": [
+      "Savine"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "preparation": [
+      {
+        "text": "Fresh dried tops of Juniperas Sabina collected in spring from plants grown in Britain.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Britain. Indigenous to Northern States of America, Middle and Southern Europe.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "A shrub growing to a height of a few feet in Britain, but found as a tree in some Greek Islands, evergreen and compact in growth, spreads horizontally, branches round, tough, and slender; bark, when young, pale green, becoming rough with age on trunk; leaves small, ovate, dark green, in four rows, opposite, scale-like, ovate-lanceolate, having on back a shallow groove containing an oblong or roundish gland. The fruit is a blackish purple berry, ovoid in shape, containing three seeds. Flowers unisexual; odour peculiar, terebinthinate; taste disagreeable, resinous and bitter.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Volatile oil, resin, gallic acid, chlorophyl extractive, lignin, calcareous salts, a fixed oil, gum and salts of potassia.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Savine is an irritant when administered internally or locally; it is a powerful emmenagogue in large doses; it is an energetic poison leading to gastro enteritis collapse and death. It should never be used in pregnancy, as it produces abortion. It is rarely given internally, but is useful as an ointment and as a dressing to blisters in order to promote discharge; also applied externally to syphilitic warts, and other skin trouble. The powdered leaves mixed with an equal part of verdigris are used to destroy warts.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Red Cedar ( Juniperus Virginiana , Linn.) is often commonly referredto as Savin and is substituted commercially, the tops of J. Phoenicae (Linn.), which contain volatile oil, are also admixed in Europe. See CEDARS . [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

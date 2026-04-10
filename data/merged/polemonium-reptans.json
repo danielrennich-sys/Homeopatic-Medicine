@@ -1,0 +1,38 @@
+{
+  "id": "polemonium-reptans",
+  "names": {
+    "primary": "Polemonium reptans",
+    "latin": "Polemonium reptans",
+    "common": [
+      "Abscess Root"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "This plant grows from New York to Wisconsin, in woods, damp grounds, and along shady river-banks. It has creeping roots, by which it multiplies very quickly. The stems are 9 to 10 inches high, much branched, bearing pinnate leaves with six or seven pairs of leaflets. The nodding, blue flowers are in loose, terminal bunches. The slender rootstock, when dried and used as the drug, is 1 to 2 inches long and 1/8 inch in diameter, with the bases of numerous stems on the upper surface, and tufts of pale, slender, smooth, wiry, brittle roots on the underside. The rootstock has a slightly bitter and acrid taste.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Astringent, alterative, diaphoretic, expectorant. The drug has been recommended for use in febrile and inflammatory eases, all scrofulous diseases, in bowel complaints requiring an astringent, for the bites of venomous snakes and insects, for bronchitis and laryngitis and whenever an alterative is required. It is reported to have cured consumption; an infusion of the root in wineglassful doses is useful in coughs, colds and all lung complaints, producing copious perspiration. The tincture of the root is made of whisky.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "1 to 2 fluid ounces, two or three times a day.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

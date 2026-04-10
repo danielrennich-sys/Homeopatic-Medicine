@@ -1,0 +1,156 @@
+{
+  "id": "hamamelis-virginiana",
+  "names": {
+    "primary": "HAMAMELIS VIRGINIANA",
+    "latin": "HAMAMELIS VIRGINIANA",
+    "common": [
+      "Witch-hazel (HAMAMELIS VIRGINICA)",
+      "Witch Hazel"
+    ],
+    "synonyms": [
+      "Hamamelis virginiana (LINN.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "head": [
+      {
+        "text": "Wants \"the respect due to me\" shown. Feeling as of a bolt from temple to temple. Fullness, followed by epistaxis. Numbness over frontal bone",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Painful weakness; sore pain in eyes; bloodshot appearance; inflamed vessels greatly injected. Hastens absorption of intraocular hæmorrhage. Eyes feel forced out",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Bleeding from nose profuse; flow passive, non-coagulable, with tightness in bridge of nose. Bad odor from nose",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Mucous membrane distended and bluish; varicosis of throat",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Tongue feels burnt. Thirst. Blisters on side. Hæmatemesis of black blood. Throbbing and pain in stomach",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Anus feels sore and raw. Hæmorrhoids, bleeding profusely, with soreness. Dysentery. Pulsation in rectum",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Hæmaturia, with increased desire",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Ovarian congestion and neuralgia; feel very sore. Vicarious menstruation. Uterine hæmorrhage, bearing-down pain in back. Menses dark, profuse, with soreness in abdomen. Metrorrhagia, occurring midway between menstrual periods. Intermenstrual pain (Jas. W. Ward). Vagina very tender. Profuse leucorrhœa. Vulva itches. Milk-leg, hæmorrhoids, and sore nipples, after confinement. Metrorrhagia; passive flow. Vaginismus, ovaritis, soreness over whole abdomen. Phlegmasia alba",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Pain in spermatic cord, running into testes. Varicocele. Pain in testicles. Orchitis. Testicles enlarged, hot, and painful. Epididymitis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Hæmoptysis; tickling cough. Chest feels sore and constricted",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Sore pain down cervical vertebræ. Severe pain in lumbar and hypogastric region, extending down legs",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Tired feeling in arms and legs. Very sore muscles and joints. Varicose veins. Chilliness in back and hips, extending down legs. Neuralgia of internal saphenous nerve",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Bluish chilblains. Phlebitis. Purpura. Varicose veins and ulcers; very sore. Burns. Ecchymosis. Traumatic inflammations (Arnica)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "warm, moist air",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "complementary": [
+        "Ferrum"
+      ],
+      "antidoted_by": [
+        "Arnica"
+      ]
+    },
+    "dosing": {
+      "notes": "Tincture, to sixth attenuation. Distilled extract locally"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">HAMAMELIS VIRGINIANA Witch-hazel (HAMAMELIS VIRGINICA) Venous congestion, hæmorrhages, varicose veins, and hæmorrhoids, with bruised soreness of affected parts, seem to be the special sphere of this remedy. Acts upon the coats of the veins causing relaxation with consequent engorgement. Passive venous hæmorrhages from any part. Great value in open, painful wounds, with weakness from loss of blood. After operations, supersedes the use of morphia (Helmuth).",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The name Hamamelis was adopted from a Greek word to indicate its resemblance to an apple-tree. This shrub, long known in cultivation, consists of several crooked branching trunks from one root, 4 to 6 inches in diameter, 10 to 12 feet in height, with a smooth grey bark, leaves 3 to 5 inches long and about 3 inches wide, on short petioles, alternate, oval or obovate, acuminate, obliquely subcordate at the base, the margin crenate, dentate, scabrous, with raised spots underneath, pinnately veined and having stellate hairs. The leaves drop off in autumn, then the yellow flowers appear, very late in September and in October, in clusters from the joints, followed by black nuts, containing white seeds which are oily and edible. In Britain, the nut does not bear seeds, but in America, they are produced abundantly, but often do not ripen till the following summer. The seeds are ejected violently when ripe, hence the name Snapping Hazelnut. The leaves are inodorous, with an astringent and bitterish aromatic taste. The twigs are flexible and rough, colour externally, yellowish-brown to purple, wood greeny white, pith small. The bark as found in commerce is usually in quilled pieces 1/16 inch thick, 2 to 8 inches long, with silvery grey, scaly cork; longitudinally striated; fracture fibrous and laminated; taste and odour slight.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Bark, dried; leaves, fresh and dried.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "The Eastern United States and Canada.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Of the leaves (official in the United States Pharmacopoeia), tannic and gallic acids, an unknown bitter principle and some volatile oil. The bark contains tannin, partly amorphous and partly crystal, gallic acid, a physterol, resin, fat and other bitter and odorous bodies. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The properties of the leaves and bark are similar, astringent, tonic, sedative, valuable in checking internal and external haemorrhage, most efficacious in the treatment of piles, a good pain-killer for the same, useful for bruises and inflammatory swellings, also for diarrhoea, dysentery and mucous discharges. It has long been used by the North American Indians as poultices for painful swellings and tumours. The decoction has been utilized for incipient phthisis, gleet, ophthalmia, menorrhagia and the debilitated state resultingfrom abortion. A tea made of the leaves or bark may be taken freely with advantage, being good for bleeding of the stomach and in complaints of the bowels, and an injection of this tea is excellent for inwardly bleeding piles, the relief being marvellous and the cure speedy. An ointment made of 1 part fluid extract of bark to 9 parts simple ointment is also used as a local application, the concentration Hamamelin being also employed, mainly in the form of suppositories. Witch Hazel has been supposed to owe its utility to an action on the muscular fibre of veins. The distilled extract from the fresh leaves and young twigs forms an excellent remedy for internal or external uses, being beneficial for bleeding from the lungs and nose, as well as from other internal organs. In the treatment of varicose veins, it should be applied on a lint bandage, which must be constantly kept moist: a pad of Witch Hazel applied to a burst varicose vein will stop the bleeding and often save life by its instant application. Pond's Extract of Witch Hazel was much used in our grandmother's days as a general household remedy for burns, scalds, and inflammatory conditions of the skin generally and it is still in general use. In cases of bites of insects and mosquitoes a pad of cotton-wool, moistened with the extract and applied to the spot will soon cause the pain and swelling to subside. Diluted with warm water, the extract is used for inflammation of the eyelids.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

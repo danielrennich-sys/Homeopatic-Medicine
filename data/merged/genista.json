@@ -1,0 +1,115 @@
+{
+  "id": "genista",
+  "names": {
+    "primary": "Genista",
+    "latin": "Genista",
+    "common": [
+      "Genista"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T GENISTA. Genista tinctoria, Linn. Natural order , Leguminosæ. Common names , Dyer's Greenweld; (G.), Färbe-ginster; (Fr.), Genestrolle. Preparation , Tincture of the whole plant. Authorities. Dr. Eugene B. Cushing, Mass. Hom. Med. Soc., vol. iii, p. 570; 1 , a prover, aged 23, took repeated doses of tincture; 2 , Rust Mag., 1825 (A. H. Z., 9, 287). HEAD. ► Vertigo. ► Vertigo on rising or shaking the head (half an hour after third dose, first day), [1] . ► Vertigo on rising, in the afternoon; relieved in half an hour in the open air (third day), [1] . ► Dizziness on walking fast or turning round (one hour after fifth dose, first day), [1] . ► Dizziness approaching faintness, lasting a short time (one hour after fifth dose, first day), [1] . ► General Head. ► Headache till dinner; none after eating, except on shaking the head; at 6 P.M. it came on suddenly, with vertigo on rising (second day), [1] . ► Immediate headache, quite sharp in the forehead, which soon subsided into dull heavy pain; relieved by eating (after fourth dose, third day), [1] . ► Slight headache, when turning quickly or shaking the head, in the afternoon (first day), [1] . ► Severe headache, relieved by walking in the woods at 10 A.M. (third day), [1] . ► Steady headache, which came on while exposed to the sun, in the forenoon (first day), [1] . [10.] ► Dull heavy headache coming on after dinner, increasing after a dose of 5 drops (third day), [1] . ► Headache worse on left side (two hours after fifth dose, first day), [1] . ► Brain feels tender (sensitive), (one hour after fifth dose, first day), [1] . ► On shaking the head, the brain feels tender (third day), [1] . ► Sensation as though the brain was loose and very sensitive (half an hour after third dose, first day), [1] . ► Forehead. ► Severe frontal headache, relieved by sitting in a cool room, in the forenoon (first day), [1] . ► Slight pressing pain in centre of forehead at 9.10 A.M. (third day), [1] . ► Temples. ► Frequent sharp pain in right temple, in the forenoon (first day), [1] . ► Repeated sharp pain in right temple, from within outward, when walking, in the forenoon (first day), [1] . ► Sharp piercing pain in left temple (two hours after fifth dose, first day), [1] . EYE. [20.] ► Eyes sensitive to the touch, in the forenoon (first day), [1] . EAR. ► Once, a sensation in left ear, as though some sharp instrument was thrust into it, in the forenoon (first day), [1] . THROAT. ► Dryness of the throat, in the forenoon (first day), [1] . ► Throat dry and sensitive (third day), [1] . STOMACH. ► During the night, waterbrash (second night), [1] . ► Awoke several times during the night with waterbrash (first night), [1] . ► Slight nausea (after sixth dose, first day), [1] . RECTUM AND ANUS. ► Desire for stool, with violent sneezing, as from snuff, at 9 A.M. (third day), [1] . ► Urgent desire for stool, lasting only a short time, soon (after second dose, third day), [1] . STOOL. ► Stool soft and scanty, at 9.10 A.M. (third day), [1] . [30.] ► Stool tinged with blood; the fæces, though large, were expelled like a wad from a popgun (forty minutes after third dose), [1] . SKIN. ► Peculiar eruption, consisting of roundish, dark-red, confluent spots, scarcely elevated above the skin, which, itching very much, become scarlet red, then pale, and disappear within twenty-four hours; this eruption appears on the feet to the knees, and on the hands to the elbows, [2] . CONDITIONS. ► Aggravation. ► ( Rising ), Vertigo. ► ( Shaking head ), Vertigo; headache. ► ( Turning quickly ), Headache. ► ( Walking ), Pain in temple. ► Amelioration. ► ( Open air ), Vertigo. ► ( Walking in open air ), Headache. ► ( Going to bed ), The symptoms. ► ( Sitting in cool room ), Frontal headache. ► ( Eating ), Headache. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Diarrhœa; Earache; Headache",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Genista was proved by E. B. Cushing. Its principal effects are: Sharp piercing pains in the head and ear. Brain feels loose and sensitive. Sensitive feeling in brain, eye, and throat. Urgent desire for stool, which is expelled suddenly. A peculiar eruption of dark red confluent spots. Rising; turning quickly; shaking head; walking. In the night, water-brash. > In open air; in cool rooms; by eating (headache).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: (Brain feels loose) Cic. v., Nat. s., Bar. c., Rhus."
+      ]
+    },
+    "head": [
+      {
+        "text": "Vertigo and headache on rising or shaking head, > after dinner. Sensation as if brain were loose and very sensitive. Frequent, sharp pain in r. temple from within outwards. Piercing pain in l. temple.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Eyes sensitive to touch in forenoon.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Once a sensation in l. ear, as though some sharp instrument were thrust into it (forenoon).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Throat dry and sensitive.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Awakened several times in the night with water-brash.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Desire for stool with violent sneezing as from snuff. Urgent desire for stool, lasting only a short time, soon after the dose. Stool soft and scanty. Stool tinged with blood; the fæces though large were expelled like a wad from a pop-gun (forty minutes after third dose).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Peculiar eruption, consisting of roundish, dark-red, confluent spots, scarcely elevated above the skin, which, itching very much, becomes scarlet-red, then pale, and disappears in twenty-four hours; it occurred on feet to knees, and hands to elbows. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The young branches and leaves of Genista tinctoria, Linné. Nat. Ord.—Leguminosae. COMMON NAMES: Dyer's green-weed, Wood-waxen, Green weed, Dyer's broom, Dyer's weed.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source and History.—This plant is an erect shrub, about a foot high, and is a native of Central Europe. It is quite common in poor soil throughout England, and has been naturalized, and grows abundantly, in a few localities of the eastern United States. The stem is short, woody, and sends up numerous erect branches. The leaves are simple, a character distinguishing the plant from most of the native leguminous plants. They are narrowly lanceolate, acute, entire, sessile, alternate, and attached to the stem at an acute angle. The flowers are numerous, bright yellow, and are borne in terminal, showy racemes. The calyx is 2-lipped, with a deeply 2-lobed upper, and a 3-lobed lower lip. The corolla is papilionaceous, and the 10 stamens are united into a complete tube at the base. The fruit is a flat, several-seeded pod.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "There are three English species of Genista, two unarmed; G. tinctoria, with smooth, and G. pilosa, with hairy, leaves. The armed species, G. anglica, has sharp, simple thorns. The leaves of G. purgans, a native of France, are used as a cathartic.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Little is known of the chemical history of the several species of Genista. Dr. Plugge (Jahresb. der Pharm., 1895, p. 134), investigating the occurrence of the alkaloid cytisine in various species of Papilionaceae, found Genista tinctoria and G. pilosa to be free from this substance. Genista tinctoria has been in some little repute as a medicine since the day of Culpepper. The flowers yield an inferior yellow dye. The dried plant possesses scarcely any taste. It must not be confused with Broom tops (Scoparius).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Both the flowers and the seeds have been employed in medicine, in dropsical affections, and with considerable efficacy. Sixty grains of the powdered seeds produce active catharsis, and even emesis, and is the dose generally advised in dropsy. An infusion of the flowers has been advantageously employed in gout and rheumatism, and is also stated to have been successful in several cases of albuminuria, in doses of 2 tablespoonfuls every 1 or 2 hours. Probably a tincture would be found more available. Formerly this plant had an unmerited reputation for the prevention, as well as the cure, of hydrophobia.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Specific Indications and Uses.—\"Ascites, and oedema with cutaneous disease, or erosion of the skin with exudation\" (Scudder, Spec. Med).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900",
+      "kings-american-1898"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "primula-obconica",
+  "names": {
+    "primary": "PRIMULA OBCONICA",
+    "latin": "PRIMULA OBCONICA",
+    "common": [
+      "Primrose"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "face": [
+      {
+        "text": "Moist eczema. Papular eruption on chin. Burns at night. Urticaria-like eruption. Eyelids swollen",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Eczema on arms, wrists, forearms, hands, papular and excoriated. Rheumatic pain around shoulder. Palms dry and hot. Cracking over joints and fingers. Eruption between fingers. Purple blotches on back of hands, palmar surface stiff. Blisters on fingers",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Great itching, worse at night, red and swollen like erysipelas. Tumefied. Small papules on a raised base. Skin symptoms accompanied by febrile symptoms",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">PRIMULA OBCONICA Primrose The poison of the Primrose occurs in its glandular hairs, which break easily and discharge an irritating fluid which is absorbed into the skin. But skin symptoms of poisoning appear in sensitive patients even without coming in direst contact with the plant, mere nearness being sufficient, just like Poison ivy. Intermittency of symptoms; worse right side. Pain in liver and spleen. Deep infiltration and tension of tissues; blisters. Paralyzed sensation. Weakness. Pharyngeal soreness alternates with diminished facial irritation.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

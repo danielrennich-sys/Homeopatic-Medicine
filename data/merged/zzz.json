@@ -1,0 +1,34 @@
+{
+  "id": "zzz",
+  "names": {
+    "primary": "ZZZ",
+    "latin": "ZZZ",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . * A * B * C * D * E * F * G * H * I * J * K * L * M * N * O * P * R * S * T * U * V * W * X * Z Zincum ---------- Zinc . Zingiber ---------- Zing . Zizia ---------- Ziz . Copyright © Médi-T 2005.",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T SUPPLEMENTAL REFERENCE TABLE A * B * C * D * E * F * G * H * I * J * K * L * M * N * O * P * Q * R * S * T * U * V * W * X * Y * Z Zealous : Nux-v. Zigzag : Calc-c., Rhod., Sars., Sul-io. Zoster : Mez. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      },
+      {
+        "text": "Condensed Materia Medica. By Constantine Hering. Presented by Médi-T . * A * B * C * D * E * F * G * H * I * J * K * L * M * N * O * P * R * S * T * U * V * X * Z Zincum * Zingiber * Zizia Z Zincum ---> Zincum . Zingiber ---> Zingiber . Zizia ---> Zizia . Copyright © Médi-T 2005.",
+        "source_id": "hering-condensed-mm-1877"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-handbook-1889",
+      "boger-synoptic-key-1915",
+      "hering-condensed-mm-1877"
+    ]
+  }
+}

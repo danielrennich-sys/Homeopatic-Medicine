@@ -1,0 +1,50 @@
+{
+  "id": "piper-betel",
+  "names": {
+    "primary": "Piper betel (LINN.)",
+    "latin": "Piper betel (LINN.)",
+    "common": [
+      "Betel"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "India, Malaya and Java.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The Betel plant is indigenous throughout the Indian Malay region and also cultivated in Madagascar, Bourbon and the West Indies. It is a climbing shrub and is trained on poles or trellis in a hot but shady situation. The leaves are pressed together and dried, sometimes being sewn up together in packets for commerce.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The chief constituent of the leaves is a volatile oil varying in the leaves from different countries and known as Betel oil. It contains two phenols, betel-phenol (chavibetol) and chavicol. Cadinene has also been found. The best oil is a clear yellow colour obtained from the fresh leaves. The Indians use the leaves as a masticatory (the taste being warm, aromatic and bitter), together with scraped areca nut and lime.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The leaves are stimulant antiseptic and sialogogue; the oil is an active local stimulant used in the treatment of respiratory catarrhs as a local application or gargle, also as an inhalant in diphtheria. In India the leaves are used as a counter-irritant to suppress the secretion of milk in mammary abscesses. The juice of 4 leaves is equivalent in power to one drop of the oil.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Betel oil, 1 to 2 minims. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

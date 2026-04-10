@@ -1,0 +1,91 @@
+{
+  "id": "indigo-tinctoria",
+  "names": {
+    "primary": "INDIGO TINCTORIA",
+    "latin": "INDIGO TINCTORIA",
+    "common": [
+      "Indigo--Dye-stuff (INDIGO)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Vertigo with nausea. Convulsions. Sensation of a band around forehead. Undulating sensation through whole head. Sensation as if brain were frozen. Gloomy; cries at night. Hair feels pulled from vertex. Head feels frozen",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Excessive sneezing and bleeding from nose",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Pressure and roaring",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Metallic taste. Eructations. Bloating. Anorexia. Flushes of heat rising from stomach to head",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Falling of rectum. Aroused at night with horrible itching at anus",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Constant desire to urinate. Urine turbid. Catarrh of bladder",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Sciatica. Pain from middle of thigh to knee. Boring pain in knee-joint; better, walking. Pain in limbs worse after every meal",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Nerves] Hysterical symptoms where pain predominates Excessive nervous irritation. Epilepsy; flashes of heat from abdomen to head; fit begins with dizziness. Aura from a painful spot between shoulders. Reflex spasms from worms",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "pressure, rubbing, motion",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "during rest and sitting",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Third to thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">INDIGO TINCTORIA Indigo--Dye-stuff (INDIGO) Marked action on the nervous system, and of undoubted benefit in the treatment of epilepsy with great sadness. Excited mood and desire to be busy. Neurasthenia and hysteria. Pure powdered Indigo placed on the wound cures snake and spider poison (Kali permang; Golondrina; Cedron). Stricture of œsophagus; blue color (Cupr).",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

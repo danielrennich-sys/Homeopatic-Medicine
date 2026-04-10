@@ -1,0 +1,35 @@
+{
+  "id": "ferrum-tartaricum",
+  "names": {
+    "primary": "Ferrum Tartaricum",
+    "latin": "Ferrum Tartaricum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T FERRUM TARTARICUM. Authority. E. W. Berridge, M.D., U. S. Med. Invest., New Ser., vol. iv, 1876, p. 574, Mr --- took 15 grains in one dose. ► Uninterrupted sensation, as if an immense load were on entire upper portion of head, causing a gloomy apprehensiveness of congestive apoplexy. It lasted two or three days, and was removed by a dose of Nux 1 (after two days). ► Heat from, or heat at cardiac orifice of stomach, lasting twelve hours; not affected by food or drink (after two hours). Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Cardialgia; Headache",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Berridge has recorded these two symptoms caused by a 15-grain dose: (1) Uninterrupted sensation as if an immense load were on entire upper portion of head, causing a gloomy apprehensiveness of congestive apoplexy (lasted three days, removed by a dose of Nux 1). (2) Heat from or heat at cardiac orifice of stomach lasting 12 hours; unaffected by food or drink. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

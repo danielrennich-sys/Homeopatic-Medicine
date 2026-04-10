@@ -1,0 +1,24 @@
+{
+  "id": "saliva",
+  "names": {
+    "primary": "SALIVA",
+    "latin": "SALIVA",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY SALIVA. Saliva : Merc., Sul. Saliva, acrid : Aru-t., Kre., Merc-c., Nit-ac. Saliva, bloody : Merc., Nit-ac., Pho., Rhus-t. Saliva, diminished : Bell., Kali-bi., Nux-v., Pho., Stram., Sul., Ver-a. Saliva, foul : Lach., Merc., Nit-ac., Petr. Saliva, frothy , snowy, cottony, etc. : Ap., Bell., Berb., Caul., Dulc., Ign., Kali-bi., Lach., Nux-m., Ol-an., Pho-ac., Pho., Pic-ac., Pul., Sabi., Spig. Saliva, gushes of : Carb-v., Nat-m. Saliva, increased : Dig., Dulc., Merc., Nit-ac., Nux-v., Pho., Pul., Rhus-t., Stram., Ver-a. Saliva, increased, cough, with : Am-m., Lach., Ver-a. Saliva, increased, headache, with : Epiph., Merc. Saliva, increased, pregnancy, in : Kre., Lob., Zin-s. Saliva, increased, sleep, agg. : Bar-c., Ign., Ip., Lac-c., Lach., Merc., Nit-ac., Pho., Rhus-t., Syph. Saliva, sweet : Cham., Iris., Pho., Plb., Pul. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

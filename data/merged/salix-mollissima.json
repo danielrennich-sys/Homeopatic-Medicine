@@ -1,0 +1,30 @@
+{
+  "id": "salix-mollissima",
+  "names": {
+    "primary": "Salix Mollissima",
+    "latin": "Salix Mollissima",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Cooper has used Sal. mollis. with success in rheumatic affections, especially in sciatic neuritis in nervous subjects, in whom the capillary cutaneous circulation showed up visibly, and there was some tenderness and swelling of the limb. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Rheumatism; Sciatica",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

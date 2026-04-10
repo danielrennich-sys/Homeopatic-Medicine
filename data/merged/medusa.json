@@ -1,0 +1,93 @@
+{
+  "id": "medusa",
+  "names": {
+    "primary": "Medusa",
+    "latin": "Medusa",
+    "common": [
+      "Jelly-fish"
+    ],
+    "synonyms": [
+      "MEDUSA"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T MEDUSA. Medusa (various species). Class , Acalephæ. Common names , Jelly-fish, Sea-nettles. Preparation for use , Tincture of living animal taken in summer. Authorities. 1 , Wagner, Edin. New Phil. Journ., 1842; 2 , Dr. J. G. Houard, Hahn. Month., 8, 84, effects of two cupfuls of a decoction taken warm by a woman of 38 affected with disease of the stomach and leucorrha (from Dr. Friad's report to Acad. of Med., Paris). ► Extreme anxiety, with difficult speech, [2] . ► Eyes puffed and dematous, soon, [2] . ► Ears puffed and dematous, soon, [2] . ► Nose puffed and dematous, soon, [2] . ► Lips puffed and dematous, soon, [2] . ► Speech difficult, with extreme anxiety, [2] . ► The secretion of urine, which had been suspended during twelve days, returned; she had taken some powerful diuretics, [2] . ► The secretion of milk was re-established in this woman's breasts three years after the birth of her last child, although she had had twelve children without having suckled any of them, no milk having been secreted, [2] . ► Most of the symptoms disappeared (fifth day), [2] . [10.] ► Desquamation (fifth day), [2] . ► The slightest touch of a medusa causes a perceptible burning sensation, and this is more or less severe, according to the vigor of the animal; they only sting from parts of the body where the epidermis is preserved; he never experienced the sensation when he came in contact with portions in which the epidermis had been removed; in his case a burning sensation was felt in from a few seconds to a minute after contact; after five minutes a slight redness appeared in his case, and then a simple, lentil-shaped elevation; but more frequently three or four near one another; the appearance sometimes resembles nettle-rash; the pain generally soon ceases, but it lasted half a day with one of the party (Dr. Wills), and after eight days a redness was still perceptible, [1] . ► Vesicular eruption of the skin, soon, [2] . ► Pricking heat, numbness and burning of the skin of the face, arms, shoulders, and breasts, soon, [2] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Lactation, abnormal; Nettle-rash; Urine, suppression of",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Numbness; burning, pricking heat. Vesicular eruption especially on face, arms, shoulders, and breasts. Nettlerash (Apis; Chloral; Dulc)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Desquamation. Burning sensation very soon after contact; in five minutes a slight redness; then lentil-shaped elevations. Vesicular eruption. Pricking heat, numbness, and burning of skin of face, arms, shoulders, and breasts (soon). Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Marked action on lacteal glands. The secretion of milk was established after lack of it in all previous confinements",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Secretion of milk re-established in a woman's breasts three years after birth of last child; she had had twelve children and had not suckled any of them, having had no milk (effect of two cupfuls of a decoction).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">MEDUSA Jelly-fish Whole face puffed œdematous-eyes, nose, ears, lips.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The effects of encountering jelly-fish whilst bathing are well known. These have been studied experimentally, and in addition the effects of drinking two cupfuls of a decoction, warm, by a woman affected with disease of the stomach and leucorrhœa has been recorded. In this case there was rapidly produced œdema, anxiety, and difficult speech. Secretion of urine, which had been suspended for days, returned, and milk came into the breasts three years after the birth of her last child. Pricking heat and numbness of skin of face, arms, breasts, and vesicular eruption; followed later by desquamation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Ast. fl., Homar., Murex, Sepia, Apis, Bombyx, &c."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Extreme anxiety with difficult speech.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Eyes puffed and œdematous.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Face (eyes, ears, nose) puffed and œdematous (soon).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Secretion. of urine, which had been suspended for twelve days, returned.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

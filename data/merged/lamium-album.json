@@ -1,0 +1,36 @@
+{
+  "id": "lamium-album",
+  "names": {
+    "primary": "LAMIUM ALBUM",
+    "latin": "LAMIUM ALBUM",
+    "common": [
+      "White Nettle (LAMIUM)"
+    ],
+    "synonyms": [
+      "Lamium album"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">LAMIUM ALBUM White Nettle (LAMIUM) Has a special affinity for female and urinary organs. Headache, with backward and forward motion of head. Leucorrhœa and menses too early and scanty. Hæmorrhoids; hard stool, with blood. Sensation in urethra as though a drop of water were flowing through it. Tearing in the extremities. Hæmoptysis. Blisters on heel from slight rubbing. Ulcers on heel (Cepa).",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Lamium album. Mind and Disposition. Whining mood, inclination to weep, feels as if abandoned. Sexual Organs. Menses too early and too scanty. Leucorrha profuse, painless, white mucus. Back. Bruised pain in the small of the back. Extremities. [5] Blister on the heel from slight rubbing, afterwards bursting and changing to an ulcer with smarting and biting. Skin. Smarting and stinging in the ulcer (worse in the evening when lying), with redness and swelling around it, and smarting early in the morning in bed. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "lippe-textbook-mm-1866"
+    ]
+  }
+}

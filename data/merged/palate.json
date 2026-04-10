@@ -1,0 +1,24 @@
+{
+  "id": "palate",
+  "names": {
+    "primary": "PALATE",
+    "latin": "PALATE",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY PALATE. Palate : Aur., Bell., Merc., Nux-v., Pho. Palate, hard : Bell., Nit-ac., Nux-v., Pho. Palate, soft : Ap., Merc-c., Merc-i-f., Merc. Palate, soft, rim : Merc-i-f. Palate, soft (uvula) : Ap., Merc-c. Palate, dry : Pho-ac. Palate, sore : Aru-t., Bell., Caust., Iris., Lach., Merc., Nit-ac., Nux-v., Pho., Phyt. Palate, swelled : Ap., Arg-m., Lach. Palate, swelled, uvula : Ap. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

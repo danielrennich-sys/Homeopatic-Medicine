@@ -1,0 +1,44 @@
+{
+  "id": "operculina-turpenthum",
+  "names": {
+    "primary": "OPERCULINA TURPENTHUM",
+    "latin": "OPERCULINA TURPENTHUM",
+    "common": [
+      "Nishope (OPERCULINA TURPETHUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Delirium associated with restlessness, loquacity. Tendency to escape from bed; ravings, pains cause fainting",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Watery diarrhœa, profuse with sinking sensation, Cholera morbus. Hæmorrhoids",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Lymphatic glands enlarged and indurated. Boils and slowly suppurating abscesses",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">OPERCULINA TURPENTHUM Nishope (OPERCULINA TURPETHUM) A remedy for plague, fevers, diarrhœa.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

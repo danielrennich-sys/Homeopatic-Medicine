@@ -1,0 +1,214 @@
+{
+  "id": "teucrium-marum",
+  "names": {
+    "primary": "TEUCRIUM MARUM VERUM",
+    "latin": "TEUCRIUM MARUM VERUM",
+    "common": [
+      "Cat-thyme (TEUCRIUM MARUM)",
+      "Thyme, Cat"
+    ],
+    "synonyms": [
+      "Teucrium Marum",
+      "Teucrium marum (LINN.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "head": [
+      {
+        "text": "Excited, tremulous feeling. Frontal pain; worse, stooping. Strengthens brain after delirium tremens",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Headache, with dull, spasmodic pain. Pressive pains in head, principally in eyes, forehead, and temples, on stooping. Skin of forehead feels sensitive to touch. Tearing by paroxysms, in r. side of head (alternating with the same sensation in r. frontal eminence, and in l. temple).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Smarting in canthi; lids red and puffy; tarsal tumor (Staph)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pains in eyes with pressure, as if sand were in them. Biting sensations. Smarting in eyes, esp. in internal canthi, with redness of conjunctiva. Eyes red and inflamed. Fibrous tumour inside lower lid, one-third inch in diameter; preventing closing lids; bedimmed, sight; no pain. Redness and puffiness of upper lids. Profuse smarting tears in open air. Eyes watery, with an appearance as after weeping.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Hissing and ringing otalgia",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Otalgia. Shootings and tearings in ears. Whistling in ears, when speaking, or when producing any sound whatever. A hissing sound in ear when passing hand over it, when talking, or when inhaling air through nose with force. Eruption of scaly tetters on the lobe of ear.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Catarrhal condition of both anterior and posterior nostrils. Mucous polypus. Chronic catarrh; discharge of large, irregular clinkers. Foul breath. Crawling in nostrils, with lachrymation and sneezing. Coryza, with stoppage of nostrils",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Sensation of obstruction in nose. Tingling in nose. Frequent sneezing, with tingling in nose; with crawling in nose without coryza. Stinging, lancinating pain in upper part of the nasal cavity. Violent crawling in r. nostril, with lachrymation of r. eye. Sensation as if nostrils were stopped; blowing nose or sneezing does not remove the obstruction; nasal polypus. Obstruction of nose. Polypus, with stoppage of the nose on the side he lies on; large red pimple under r. nostril, near septum, sore and smarting to touch. Fluent coryza in open air.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Vomiting of large quantities of dark-green masses. Constant hiccough, attended with pain in back. Unnatural appetite. Hiccough on eating, after nursing",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Hunger in morning and evening. Bitter taste in gullet after dinner. Appetite increased. Sensation of hunger, as if the food were unsatisfying, and which hinders sleep. Cuttings or nausea, with inclination to vomit after drinking water. Regurgitation of food, with bitter taste. Troublesome hiccough when eating, with violent blows in scrobiculus. Little children, emaciated, jerking hiccough after nursing, and belching without bringing anything up. Vomiting dark green mucus; hiccough with a stitch through stomach to back. Pain in stomach, as from emptiness, with gurgling. Faintness in pit of stomach. Pressure, and anxious oppression in scrobiculus. Colic (cutting pain) after drinking beer or water. Colic, with tearing drawings, under hypochondria. Incarceration of flatus, with drawing, pinching, and gurgling in abdomen. Pressure in abdomen. Pressure towards inguinal ring. Frequent emission of silent, hot, hepatic-smelling flatulence. Expulsion of much flatus, having the smell of rotten eggs.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Dry cough, tickling in trachea; moldy taste in throat when hawking up mucus, expectoration profuse",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Affection of finger-tips and joints of toes. Tearing pains in arms and legs. Pain in toe-nails, as if they had grown into flesh",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Itching of anus, and constant irritation in the evening in bed. Ascarides, with nightly restlessness. Crawling in rectum after stool",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Copious fetid evacuations of the consistence of pap. Crawling in the rectum after stool. Expulsion of ascarides (with creeping and itching, and nightly restlessness; from warmth of bed). Frequent itching and tingling in anus, often after the evacuations. Crawling and violent sticking in anus in evening, in bed. Swelling, itching, and creeping at anus as from ascarides.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Restless, with twitching, choking, and starting up frightened",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Sleep retarded in evening. Unrefreshing sleep, and difficulty in waking in morning. Agitated sleep at night, from excessive excitement (sleeplessness, esp. before midnight; goes to sleep late), with vivid dreams and frequent starts. Very vivid, most agreeable dreams.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching causes tossing about all night. Very dry skin. Suppurating grooves in the nails",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Sensation as from fleabites. Rash, burning itching.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "dosing": {
+      "notes": "First to sixth potency. Locally for polypi, dry powder"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">TEUCRIUM MARUM VERUM Cat-thyme (TEUCRIUM MARUM) Nasal and rectal symptoms marked. Polypi. Affections of children. Suitable after too much medicine has been taken. Oversensitiveness. Desire to stretch. A remedy of first importance in chronic nasal catarrh with atrophy; large, offensive crusts and clinkers. Ozæna. Loss of sense of smell.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The Germander group of the Labiatæ, to which the Teucriums belong, had an important place in old herbal medicine, and homœopathy has placed Teuc. m. on a firm foundation. Stapf and others proved it. Marked symptoms of helminthiasis, irritation of anus and nose, were elicited, and Teuc. has well justified the labour of the provers in this respect. No remedy meets more cases of threadworms than Teucr. The nasal symptoms have led to the use of Teuc. in nasal polypus. Guernsey gives this as guiding: \"Polypus with stoppage of nose on side lain on; large red pimples under right nostril near septum, sore and smarting to touch.\" A snuff of Teuc. has been used in some cases in addition to the internal use of the remedy. But Teuc. has a relation to new growth in general as well as of the nose. It has removed a fibrous tumour of the eyelid; urethral granulations following gonorrhœa; and also uterine fibroids. Worms and polypi suggest a tubercular taint, and I have used both Teuc. m. and Teuc. scorod. in phthisical cases. I was led to think of the remedies by reading an article on the latter, and not being able to obtain it I gave Teuc. m. Ø, in five-drop doses three times a day, to a man of 44 who had phthisis affecting the right lung with severe recurrent hæmorrhages. Teuc. helped him much, and with other remedies he got quite well, and has now been at his work for some years. But whilst taking Teuc. he noticed that he passed a large quantity of threadworms, to which he was not at all subject. C. M. Boger (Hahn. Ad., xxxviii. 40) relates this case of cough: Patient had with the cough a mouldy taste in the throat when hawking up mucus. Expectoration profuse. Rapid loss of weight and strength. Anorexia. A brother had died of phthisis four years before with very similar symptoms. Teuc. m. 3x helped, and 20x finished the cure. The italicised symptom is a keynote. Teuc. has the craving hunger of the antipsorics and worm remedies; it prevents sleep at night. Nervous, irritable, sensitive. There are many rheumatic and gouty symptoms and scapular pains, both in the bones and joints. Limbs go to sleep with tingling when sitting. Peculiar Sensations are: As if air forced through mucus in ear. As if right nostril were partly stopped. As if nail had grown into flesh of right great toe. Chill as from abdomen. Sensation as from fleabites. Teuc. is Suited to: Old persons and children. When too much medicine has produced an over-sensitive condition and remedies fail to act. The symptoms are: By touch. Sitting. Stooping. On side lain on. Moving >. Disinclined for exertion. Evening and at night. Desires exercise in open air, which does not fatigue. Warmth . Warmth of bed. Wet weather .",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Anus, itching of; Eyelids, tumour of; Fibroma; Hiccough; Ingrowing toenail; Nose, catarrh of; Polypus; Psoriasis; Rheumatism; Urethra, excrescences in; Worms",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Causation: Concussion (brain). Injuries likely to set up tetanus.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Dry cough, excited by a tickling in trachea, as if dust had been inspired (which is by coughing). Rheumatism in the limbs, esp. in bones and joints. Tearing in the limbs, esp. in the joints. Jerking of the muscles. The limbs go to sleep. Painful heaviness in arms and forearms. Jerking of muscles of arms. Drawing tearing (rheumatic pains) in bones and joints of arms, hands, and fingers. Burning in the tips of fingers. The finger-joints bend over easily. Panaritium. Painful pulsations and drawing in the forefinger. Jerking of muscles of legs. Tearings in joints and bones of legs, feet and toes. Pain in great toe, as if the nail were entering the flesh. Nail of r. great toe grows in and ulcerates. Ingrowing of toe-nails with ulceration. Great irritability and nervous excitement, with trembling (sensation in whole body), and dizziness. Staggering when walking; when walking, placing one foot over another. Numbness and tingling in limbs. Great desire for exercise in open air. Itching shootings in different parts. [One of the strongest characteristics of this remedy is, patients can't sleep at night on account of an intense itching at the anus (which may be produced by ascarides), causing him to toss and roll about all night, the itching lasts all night. Hiccough; flatus in general. Very dry skin; entire absence of perspiration. Affections in general of the finger-tips; joints of the toes. H. N. G.].",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Leaves, root-bark, whole herb. The Cat Thyme, or Marum, is not a British plant, but a native of Spain, though with care it can be grown here and will live through the winter in the open, on a dry soil and in a good situation, when the frosts are not severe, though it is frequently killed in hard winters, if unprotected by mats or other covering. In the southern countries of Europe, this species of Teucrium forms a shrub 3 or 4 feet high, but in England it rarely attains even half that height. It has oval leaves, broader at the base, downy beneath, with uncut margins. The flowers are in one-sided spikes, the corollas crimson in colour. The leaves and younger branches when fresh, on being rubbed emit a volatile, aromatic smell, which excites sneezing, but in taste they are somewhat bitter, accompanied with a sensation of heat.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Antidoted by: Camph. Compatible: Chi., Puls., Sil. Compare: Botan. Teuc. scorod. Sinking immediately after meals, Ars., Cin. Lyc., Sil., Staph. Hiccough, Ign. (Ign., eating, smoking, emotions; Teuc. after nursing, in infants). Loquacity, Lach. Hyo. Singing, Bell, Croc., Hyo., Spo., Stram. Worms, Scirrh., Cin., Spi. Phthisis, Bac. Polypus damp weather, Lemn. Nervous phenomena, Nux, Val. Nasal catarrh, K. bi. Nasal polypus, Pho., Sang., Sil. Nails growing in, Mgt. aust., Nit. ac."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "State of irritability, and irascibility, with sensitiveness so great that fatigue is produced by merely hearing the conversation of others. Irritability after eating (with pressure in forehead). Moroseness. Indolence, and great aversion to exertion, either mental or physical. Excessive moral excitement and loquacity. Irresistible inclination to sing.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Sickly, pale complexion, with hollow eyes. Flushes of heat on face, without redness. On both sides of under lip, two deep furrows with elevated edges. Pressive tearing in zygomatic process, extending to teeth.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Toothache, with tearing pain in roots of teeth and gums (of the r. lower incisors). Pain in teeth and gums during mastication. Mouth clammy. Much mucus in mouth. Smarting as from pepper, first on L, later also on r. side. Smarting and scraping in bottom of gullet, and in root of the tongue (esp. l. side). Sore throat, with shooting pain, and impeded deglutition. Pressure or drawing and tearing in throat. Frequent necessity to hawk, and hawking up of much mucus of a mouldy taste.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Increased secretion of watery (pale) urine. Distressing sensation, as from excoriation, and smarting in the upper part of the urethra. Burning sensation, during and after the emission of urine. Diminished sexual desire.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Sexual desire decreased. Drawing pain behind l. side of root of penis, extending to l. side of scrotum, became sore to touch. Pressive, drawing sensation from abdomen into cords and testes. Burning, pressing, biting in fore part of urethra when not urinating. Excrescences in urethra following gonorrhœa removed by injections of Teuc. Ø for a week.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Smooth pedunculate, pear-shaped polypus of vagina, protruding three inches beyond hymen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Chest loaded, with sensation of dryness in trachea. Squeezing pressure in lower part of chest, with anxious uneasiness (without affecting the breathing). Suddenly in evening pulse begins to be felt, beats rapidly, with gout-like pains in fingers.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Burning in l. scapula. Rheumatic drawing and tension in back.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Shivering and shaking, often with icy coldness in hands, and frequent yawning. Chilliness after eating, and when talking about unpleasant things. Heat in evening, with exaltation and great loquacity. Frequent feeling of flushing in face, without external redness. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The plant is supposed to possess very active powers, having been recommended in many diseases requiring medicine of a stimulant, aromatic and deobstruent quality. It has been considered good in most nervous complaints, the leaves being powdered and given in wine. The powdered leaves, either alone, or mixed with other ingredients of a like nature, when taken as snuff, have been recommended as excellent for 'disorders of the head,' under the name of compound powder of Assarabacca, but lavender flowers are now generally substituted for Cat Thyme. Cat Thyme is more nearly related to the Germanders and to Wood Sage than to the Thymes. The bark of the root is considerably astringent and has been used for checking haemorrhages. A homoepathic tincture is made from the whole herb, said to be effectual against small thread-worms in children. Purchase from Richters Related Germander (Teucrium chamaedrys) Seeds and Plants",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

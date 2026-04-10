@@ -1,0 +1,316 @@
+{
+  "id": "senecio-aureus",
+  "names": {
+    "primary": "SENECIO AUREUS",
+    "latin": "SENECIO AUREUS",
+    "common": [
+      "Golden Ragwort"
+    ],
+    "synonyms": [
+      "Senecio Aureus"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Inability to fix mind upon any one subject. Despondent. Nervous and irritable",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Very irritable, worried, undecided; dissatisfied; depressed, nervous; sitting still; must move about. Low spirits alternating with cheerful mood; sleepless; sensation of a ball rising from stomach to throat. Inability to fix mind on one subject for any length of time. A feeling like homesickness. (Puerperal mania, wild, violent; with high temperature, nervousness, sleeplessness, suddenly suppressed lochia, non-appearance of menses.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Dull, stupefying headache. Wavelike dizziness from occiput to sinciput. Sharp pains over left eye, and through left temple. Fullness of nasal passages; burning; sneezing; profuse flow",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Dizzy feeling while walking in open air, like a wave from occiput to sinciput; he feels as if he would pitch forward; nausea. Dull, stupefying headache, with fulness of head, as from catarrh. Sharp lancinating in l. temple, upper part of l. eye and inside of l. lower jaw. Dull occipital pain in morning. Dull frontal pain extending to occiput. Sharp shooting pains from within outward in forehead; sharp shooting pains over and in eyes; catarrh; suppressed secretion. Headache preceding leucorrhœa and irritation of bladder. Forehead hot; sweaty in evening.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Teeth very sensitive. Sharp, cutting pain left side. Dryness of fauces, throat, and mouth",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Face pale, depressed appearance; weary, wants to lie down. Lancinating pain r. side of face, r. shoulder, l. breast. Lips pale; dry, feverish.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Sour eructations; nausea",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pain around umbilicus; spreads all over abdomen; better, stool. Thin, watery stool, intermingled with hard lumps of feces (Ant crud). Straining at stool; thin, dark, bloody, with tenesmus",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Aversion to all food, esp. sweets and coffee (she is usually very fond of both). Faint before meals (not hunger). Full after eating very little. Eructations of sour gas and ingesta. Nausea on rising; morning sickness of pregnancy. Nausea from renal derangements. Stitches in epigastrium. Stitches in hypochondria; sharp cutting in diaphragm. Pains about navel, spreading thence in all directions; > by stool; griping pains > bending forward. Rumbling of wind. Catarrh of bowels, rumbling and watery stools. Abdomen much enlarged and very tense; lower limbs œdematous; urine scanty, high-coloured, not more than eight ounces a day; pain in lumbar region and in ovaries; constipation; cervix uteri congested; albuminous leucorrhœa; sense of weight in uterine region (ascites). About noon, before dinner, stitches running from one part to another in both inguinal regions, lower jaw, shoulders, &c. Smarting pain in l. groin.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Dry mouth, throat, and fauces. Burning in pharynx, raw feeling in naso-pharynx, must swallow, though painful",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Teeth tender and sensitive; gums pale, dry, feverish. Tongue slightly coated; catarrhal fever. Mouth and fauces dry, hot. Throat and nose feel very dry; later, tightness in throat, wants to swallow. Fauces dry; later, mucus fills throat.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Scanty, high-colored, bloody, with much mucus and tenesmus. Great heat and constant urging. Nephritis. Irritable bladder of children, with headache. Renal colic (Pareira; Ocim; Berb)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Slight pain in region of kidneys. Attacks of renal inflammation, attacking particularly r. kidney, causing intense pain, fever, and great prostration. Severe renal inflammation with fever, chilliness, and pain in lumbar region, particularly in l. kidney; quantity of urine below normal; urine red, depositing a brickdust sediment; considerable arterial excitement; skin hot and dry; motion caused him to cry out with pain; constipation. Intense pain over r. kidney, severe pain during urination, urine red, hot, acrid; bowels constipated. Renal dropsy. Inflammation of kidneys and ureters after passage of gravel. Tenesmus of bladder; smarting in urethra, dropsy. Hæmaturia; renal pain with nausea. Tenesmus of bladder, with heat and urging. Irritation of bladder in children, preceded by heat and headache. Renal colic with or without nausea. Chronic inflammation of neck of bladder with bloody urine and tenesmus of bladder. Chronic inflammation of kidneys. Dysuria: of women and children, evidently of catarrhal origin; mucous sediment in urine; with uterine displacement. Smarting in fossa navicularis before urination.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Lascivious dreams, with involuntary emissions. Prostate enlarged. Dull, heavy pain in spermatic cord, extending to testicles",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Lascivious dreams, emissions. Prostate gland enlarged, feels hard and swollen to touch. Dull, heavy pain in spermatic cord, moving along cord to testicle. Gonorrhœa, gleet. Chronic prostatitis.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menses retarded, suppressed. Functional amenorrhœa of young girls with backache. Before menses, inflammatory conditions of throat, chest, and bladder. After menstruation commences, these improve. Anæmic dysmenorrhœa with urinary disturbances. Premature and too profuse menses (Calc; Erig)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Awakened early by great sexual irritation, vagina full of mucus, labia swollen; itching, and burning exasperates. Orgasm in afternoon after feeling of irritation, and again after sleep. Aching in both ovarian regions, knees, and ankles, and down front of thighs. Profuse flow of mucus from vagina. Menses two days early, very scant, less pain than usual, followed by excessive thirst and thin leucorrhœa streaked with blood, and with dull pelvic pains. Menses every three weeks, very profuse, lasting eight or nine days, accompanied by severe cutting pains in region of sacrum, hypogastrium, and groins; she was pale, weak, and nervous, and had a slight cough, generally at night; after an abortion. Menses premature and profuse or retarded and scanty. Dysmenorrhœa with urinary symptoms; cutting in sacral and hypogastric regions; flow scanty or profuse or irregular; pale, weak, anæmic; strumous; hacking cough at night. Amenorrhœa: from a cold; nervous irritability; lassitude, dropsy; wandering pains in back and shoulders; sensation of a ball rising from stomach into throat; costive; in young girls with dropsical conditions. Symptoms as if menses would appear, but they fail; nervous, excitable, sleepless; loss of appetite. Suppression of menses from a cold; after venesection. Menstrual irregularities in consumptive patients. Itching of vulva, feels sore and chafed; begins when sitting still, > when mind employed. Leucorrhœa: preceded by headache, sleeplessness and irritable bladder; in little girls; preceded by headache and sleeplessness. Chlorosis in scrofulous girls, with dropsy.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Acute inflammatory conditions of upper respiratory tract. Hoarseness. Cough loose, with labored inspiration. Chest sore and raw. Dyspnœa on ascending (Calc). Dry teasing cough, stitching chest pains",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Great drowsiness, with unpleasant dreams. Nervousness and sleeplessness",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Great sleeplessness, with vivid, unpleasant dreams. Sleeplessness of women suffering from uterine irritation, prolapsus, and its attendant nervousness (it is the Coffea of women); during climacteric period. At night sleepless, nervous, hysterical; by day drowsy, languid. Dreams mostly of art intellectual character; memory very active. Sleep unrefreshing.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture, to third potency. Senecin, first trituration"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">SENECIO AUREUS Golden Ragwort Its action on the female organism has been clinically verified. Urinary organs also affected in a marked degree. Backaches of congested kidneys. Early cirrhosis of liver.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The Golden Ragwort had a reputation in domestic and eclectic practice as a regulator of menstrual functions when Hale introduced it into homœopathic practice. A. E. Small and others proved it, and clinical additions have filled out the picture. Like many other Compositæ, the Ragworts, or Groundsels, have power over hæmorrhagic conditions, whether arising from disease or from wounds. The hæmorrhagic function of menstruation comes particularly under the influence of Senec. A very definite relation has been traced between the nose and the female sexual organs, and Senec. is indicated when epistaxis or nasal catarrh takes the place of menses when suppressed from any cause. The menses may be profuse and early, or they may be retarded or absent. Senec. may be required in a great variety of conditions traceable to non-appearing menses. C. M. Foss (A. H., xxii. 12) reports the case of Miss L., 18, who had seen no period for fifteen months. She was chlorotic, had a dry, hacking cough, with frequent pulse, made still more frequent by any excitement; headache, poor sleep, constipation. The abdomen had been gradually enlarging for six months, and tapping had been decided upon when Senec. 1x was given. All symptoms rapidly cleared up, and the menses returned within a short time. Senec. 1x also cured a girl, 21, who had suppression of urine in addition to chlorosis, ascites, and suppressed menses (M. A., xxiii. 77). S. H. Talcott (quoted A. M., xxiv. 188) reports an important case bearing on the same point. Mrs. X., 26, mother of two children. Before confinement the patient was haunted with the idea that her child would be stillborn. Nine days after its birth, strong and healthy, she was admitted to hospital in a state of violent acute mania, which continued, with high temperature, for three months. With great physical activity, the mental state was that of a wild, violent, and almost uncontrollable person. There was severe pain in the head, great nervous irritability and sleeplessness and hysterical erethism. These symptoms, coupled with the fact (now first ascertained) that the lochia had ceased suddenly after confinement, and the menses had not come on, led to the choice of Senec., which was given in drop doses of the 3x every two hours. Steady improvement resulted, and after a few weeks the patient was allowed out on parole. A relapse followed, and Bell. did no good. Senec. was again given with good effect, and complete recovery took place. Talcott regards Senec. as midway between the pugilistic state of Bell. and the tearful state of Puls. He remarks that recovery from puerperal mania seldom occurs unless menstruation is re-established. Hale notes that the country people call Senec. \"Wild Valerian,\" and use it for nervousness, hysteria, low spirits, sleeplessness, especially in women; and he refers to this \"globus\" symptom of the pathogenesis: \"About the middle of the afternoon, sensation as if a ball was in the stomach, rising up into the throat, lasting for about an hour; sensation of tightness in the throat, with a disposition to attempt to relieve it by swallowing. Talcott's case becomes more significant in the light of Cooper's observation of the brain action of Sen. Jacobæa. Small, who proved Senec., records this case: Woman, 30, had been ill six weeks, the symptoms steadily, increasing till the following picture was presented: Face bloated, abdomen enlarged, feet œdematous; urine alternately profuse and watery, or dark and scanty; frequent desire to urinate day and night. Senec. Ø, gtt. x, three times a day, cured quickly. Small remarks that he has found Senec. useful in the dysuria of women and children when evidently of catarrhal origin; and in dysuria with uterine displacement. Mucous sediment in the urine is an indication. But the benefits of Senec. are not confined to the female sex. Small relates this case: Man, 50, nervo-sanguine, subject of renal inflammation affecting right kidney generally, causing intense pain, febrile disturbance, prostration. On one occasion the pain was particularly intense, and the bladder seemed implicated. Every time he passed water he cried out in agony. Urine reddish; very hot and acrid. Bowels constipated. Dull headache; mouth and throat dry; chilly, fever, and perspiration. Senec. Ø, gtt. xx, in half a tumbler of water; a dessertspoonful every hour. There was relief from the first dose, and the pain soon subsided entirely, leaving the patient freed from recurrence of the attacks. Senec. has caused: \"Dull, heavy pain in left spermatic cord, moving along cord to testicle. Prostatic gland enlarged, feels hard and swelled to touch. Lascivious dreams, with pollutions.\" Hale says he has found Senec. useful in advanced stages of gonorrhœa, and in prostatic disorders. Hale reports the following case of dysmenorrhœa: Mrs. X., mother of one child, had had an abortion three years before, and another (at the second month of pregnancy) four months before Hale saw her. Since the last abortion she had suffered from painful menstruation, which had not been the case previously. Menses every three weeks, profuse, lasting eight or nine days, accompanied by much cutting pain in sacrum, hypogastrium, and groins. Pale, weak, nervous; slight cough, generally at night. Senec. Ø, gtt. v, was given three times a day till the next period, which came on at the twenty-ninth day, and was perfectly normal in quantity and without pain. Senec. has a place in coughs and even in phthisis. \"It is especially serviceable in mucous coughs,\" says Hale. \"In chronic coughs, catarrhal affections, hæmoptysis, incipient phthisis attended with troublesome cough, the result of obstructed menstruation,\" it has a well-established reputation. Peculiar Sensations of Senec. are: As of a wave from occiput to sinciput. As if he would pitch forward. As of a ball rising from stomach to throat. Respiration as if greatly fatigued. Pains are radiating, shifting, lancinating. Symptoms alternate. Senec. is specially Suited to: women and little girls of nervous temperament. Lyman Watkins (quoted H. W., xxxiv. 300) says, \"Females taking Senec. generally improve in health and strength, accumulate flesh, become light-hearted and cheerful. This may be due to some tonic influence.\" The symptoms are at night (cough; sweat; sleeplessness; frequent micturition). In afternoon (general). In open air. Very sensitive to open air; tendency to catarrhs. Colic is > bending forward; and > by stool. > At onset of menses. Sitting; must keep moving about (mind).",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. SENECIO AUREUS. Natural order.- Compositae. Common names.- Golden Ragwort. Squaw Weed. General Analysis.- Acts powerfully upon mucous surfaces, causing irritation and increased mucous discharge. It has especial affinity for the generative and urinary organs, and, to a less degree, the bronchial and intestinal tracts. It also produces a condition of nervous irritability and prostration similar to that present from reflex causes in hysteria and other affections of the female generative organs. Characteristic symptoms. Mind.- (Senecio aureus) Inability to fix the mind on any one object for any length of time. Head.- (Senecio aureus) Dull, stupefying headache. Catarrhal headache, from suppressed secretions. Eyes.- (Senecio aureus) Sharp, lancinating pains in left eye and left temple. Catarrhal inflammation from suppressed secretions. Nose.- (Senecio aureus) Sneezing and sense of burning and fullness in the nostrils. Mouth.- (Senecio aureus) Dryness of the mouth and fauces. Stomach.- (Senecio aureus) Nausea on rising in the morning. (Graph., Nux m., Puls., Sep.) Abdomen.- (Senecio aureus) Griping, colic-like pains, relieved by bending forward. (Coloc.) Stool.- (Senecio aureus) Stool : thin watery ; dark-colored ; containing hard lumps. Urinary Organs.- (Senecio aureus) Tenesmus of the bladder, with heat and urging. Urging to urinate followed the chilliness ; urine tinged with blood. Frequent copious flow of urine. Slight pains in region of kidneys. Male Organs.- (Senecio aureus) Full, heavy pain in left spermatic cord, moving along the cord to the testicle. Prostate gland enlarged, and feels hard and swollen to the touch. Female Organs.- (Senecio aureus) Suppressed menses from cold. (Cimic.) Dysmenorrhoea, with urinary sufferings. Premature and profuse menstruation. (Calc. c.) Retarded and scanty menstruation. (Sep.) Irregular menses, at times too soon, at times retarded. Leucorrhoea instead of the menses, or with urinary troubles. Respiratory Organs.- (Senecio aureus) Loose catarrhal cough ; especially when attended with irregular or suppressed menses. Increased secretion from bronchial mucous membranes. Back.- (Senecio aureus) Pain in back and loins. Dull pain in left lumbar region. Generalities.- (Senecio aureus) Nervousness, sleeplessness, and hysterical moods. Great sleeplessness, with vivid, unpleasant dreams. Aggravation.- (Senecio aureus) Symptoms generally worse in the afternoon. Therapeutic Range.- (Senecio aureus) Catarrhal affections ; renal and vesical affections with strangury and bleeding ; pulmonary disease connected with menstrual disorders ; irregular and painful menstruation ; leucorrhoea. Compare.- (Senecio aureus) Calc. c., Helon., Puls., Phos., Sang., Sep. Copyright © Robert Séror 2003",
+        "source_id": "cowperthwaite-textbook-1891"
+      },
+      {
+        "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Senecio Aureus",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "In some parts of the country where it grows it is called Golden Ragwort, in others Huckleroot.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It is an old domestic remedy and one only proved in a fragmentary way. Many of these medicines that have become household remedies should be properly proved. Only in this way can their power and influence be known, i. e., they can be used properly only when indicated by the symptoms they can produce.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Women: Senecio, is to be studied in relation to young girls with menstrual irregularities.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Those who have suppression of the menstrual flow from getting wet, from getting the feet wet, those who have menorrhagia, a copious menstrual flow which continues until they are anemic; and those also who suffer from dysmenorrhœa, the pains being most violent. In this remedy, with these general features, the young girl gradually tends toward catarrhal phthisis.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The menstrual flow is suppressed sometimes many months, she begins to look pale, has a dry, hacking cough, with bleeding from the lungs instead of the menstrual flow, a vicarious spitting of blood.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There is a catarrhal state throughout the chest. They are pallid and weakly girls. They tell you they have lost their menstrual flow, and have a chronic cough, are sensitive to every draft of air, are always taking cold and finally expectorate profusely.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The phthisis may go on as catarrh of the chest for years, but at last a miliary tuberculosis sets in and takes the patient off with what is known as acute consumption. Especially is this condition associated with disorder of the menstrual flow and a general catarrhal state.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Phthisis, with obstructed menstruation.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "When the symptoms agree in this kind of a case Senecio is a most useful medicine for establishing the menstrual flow. You will know that it is acting well by the fact that the cough gradually diminishes. Of course a great many medicines will be suited to such general states, but this one has an unusually marked and special relation to these cases. In certain regions, Senecio has been used as a domestic medicine, an old woman's remedy for bringing on the menstrual flow.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "You will be struck on reading over this remedy with the tendency to hemorrhage from all the mucous membranes of the body. There is coryza with nose-bleed; spitting of blood from the throat and chest; hemorrhage from the lungs; a catarrhal condition of all the mucous membranes with a tendency to haemorrhage: congestion and inflammation of the kidneys with haemorrhage.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "You know how commonly these cases end in dropsy. These waxy, anaemic, chlorotic girls, who have lost their menstrual flow, become dropsical after slow hemorrhage from the uterus, kidneys and bladder.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Dropsy from anaemia.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It is a medicine of the highest order for hemorrhages in catarrhal conditions.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Urinary: It has also in its proving many distressing symptoms of the urinary organs.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Painful urination. Uncomfortable heat in the neck of the bladder. Renal colic, the pains being so great that they produce nausea.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Renal dropsy. Intense pain over right kidney, etc. The whole urinary tract is painful and subject to bleeding. But bleeding especially in the absence of the menstrual flow is the feature of this remedy.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Wherever there is an inflammatory spot or catarrhal condition of the mucous membrane it will bleed in case the menstrual flow does not appear.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "We have other medicines having the symptoms of vicarious haemorrhage, such as Hamamelis, Phosphorus and Bryonia, but Senecio has this condition strikingly and is one of the newer remedies for such condition.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Dysmenorrhoea with urinary symptoms; cutting in sacral and hypogastric regions.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Hacking cough at night.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Amenorrhoea from a cold; nervous irritability; lassitude; dropsy.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Menstrual irregularities in consumptive patients.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Mucous rattling with suppressed cough.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Leucorrhoea especially in chlorotic girls. It is a marked remedy in chlorosis, in the anemic state with a green hue, called \"green sickness\" by the laity.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "LECTURES ON HOMOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror Senecio Aureus In some parts of the country where it grows it is called Golden Ragwort , in others Huckleroot . It is an old domestic remedy and one only proved in a fragmentary way. Many of these medicines that have become household remedies should be properly proved. Only in this way can their power and influence be known, i. e., they can be used properly only when indicated by the symptoms they can produce. Women : Senecio , is to be studied in relation to young girls with menstrual irregularities. Those who have suppression of the menstrual flow from getting wet, from getting the feet wet, those who have menorrhagia , a copious menstrual flow which continues until they are anemic; and those also who suffer from dysmenorrha , the pains being most violent. In this remedy, with these general features, the young girl gradually tends toward catarrhal phthisis. The menstrual flow is suppressed sometimes many months, she begins to look pale, has a dry, hacking cough, with bleeding from the lungs instead of the menstrual flow, a vicarious spitting of blood. There is a catarrhal state throughout the chest. They are pallid and weakly girls. They tell you they have lost their menstrual flow, and have a chronic cough, are sensitive to every draft of air, are always taking cold and finally expectorate profusely. The phthisis may go on as catarrh of the chest for years, but at last a miliary tuberculosis sets in and takes the patient off with what is known as acute consumption. Especially is this condition associated with disorder of the menstrual flow and a general catarrhal state. \"Phthisis, with obstructed menstruation.\" When the symptoms agree in this kind of a case Senecio is a most useful medicine for establishing the menstrual flow. You will know that it is acting well by the fact that the cough gradually diminishes. Of course a great many medicines will be suited to such general states, but this one has an unusually marked and special relation to these cases. In certain regions, Senecio has been used as a domestic medicine, an old woman's remedy for bringing on the menstrual flow. You will be struck on reading over this remedy with the tendency to hemorrhage from all the mucous membranes of the body. There is coryza with nose-bleed; spitting of blood from the throat and chest; hemorrhage from the lungs; a catarrhal condition of all the mucous membranes with a tendency to haemorrhage: congestion and inflammation of the kidneys with haemorrhage. You know how commonly these cases end in dropsy. These waxy, anaemic, chlorotic girls, who have lost their menstrual flow, become dropsical after slow hemorrhage from the uterus, kidneys and bladder. \"Dropsy from anaemia.\" It is a medicine of the highest order for hemorrhages in catarrhal conditions. Urinary : It has also in its proving many distressing symptoms of the urinary organs . Painful urination. Uncomfortable heat in the neck of the bladder. Renal colic, the pains being so great that they produce nausea. Renal dropsy. Intense pain over right kidney, etc. The whole urinary tract is painful and subject to bleeding. But bleeding especially in the absence of the menstrual flow is the feature of this remedy. Wherever there is an inflammatory spot or catarrhal condition of the mucous membrane it will bleed in case the menstrual flow does not appear. We have other medicines having the symptoms of vicarious haemorrhage, such as Hamamelis, Phosphorus and Bryonia, but Senecio has this condition strikingly and is one of the newer remedies for such condition. \"Dysmenorrhoea with urinary symptoms; cutting in sacral and hypogastric regions.\" \"Hacking cough at night.\" \"Amenorrhoea from a cold; nervous irritability; lassitude; dropsy.\" \"Menstrual irregularities in consumptive patients.\" \"Mucous rattling with suppressed cough.\" Leucorrhoea especially in chlorotic girls. It is a marked remedy in chlorosis, in the anemic state with a green hue, called \" green sickness \" by the laity. Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-mm-1911"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Amenorrhœa; Ascites; Coryza; Cough; Dropsy; Dysmenorrhœa; Dysuria; Epistaxis; Fainting; Gleet; Gonorrhœa; Hæmorrhages; Home-sickness; Hysteria; Kidneys, inflammation of; Lumbago; Mania; Menorrhagia; Menstruation, delayed; early, and profuse; obstructed; vicarious; Nails, brittle; Nervousness; Neurasthenia; Phthisis; Prostatitis; Puerperal mania; Renal colic; Sciatica; Spermatic cord, pain in; Wounds",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Causation: Venesection. Suppressed menstruation. Wounds.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Hawking of tough white mucus. Respiration as if greatly fatigued. Laboured breathing from mucous accumulation. Hacking night cough. Mucous rattling with suppressed cough. Palliated cough and bloody sputa in a woman far gone with consumption, and brought back menses, which were absent four months. Cough with bloody expectoration. Sharp stitches here and there; rheumatic pains in joints. Skin dry and nails very brittle. Occasionally during the day sharp, lancinating pain in r. shoulder, l. heel, and in r. side of face. Sharp, sticking pain in l. shoulder. Hot pains through arms. Hands cold and clammy; trembling from nervousness. Lower limbs weary. About 4 p.m. sharp pain in neighbourhood of sciatic nerve, shooting down thigh. Constant desire to keep feet in motion. Feet cold. Nervousness, sleeplessness, and hysterical mood. Lassitude and nervousness. Tired all morning. Hysteria. Wants to lie down; pale. Slight exertion = fainting. Stitches in different parts of body.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Botanical, Sen. jac., Arn., Calend., Bels. Uterine, chest, and bladder symptoms, Puls., Helon. Vicarious menstruation, Bry. (Senec. especially bloody expectoration). Homesickness, Caps., Ph. ac. 4 p.m., Lyc. Prostatitis and gonorrhœa, Sabal ser., Solidag., Puls., Pip. n., Cop., Thuj. Nervousness, Coff., Cham., Val., Ambr. Fidgety feet, Caust., Zn."
+      ]
+    },
+    "eyes": [
+      {
+        "text": "Dark rings round eyes. Sharp pains from within outward, l. eye; lachrymation in open air. Catarrhal ophthalmia from suppressed secretions. Eyes and lids burn. Yellow streak from inner canthus to iris.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Coryza, at first dull headache, dryness of nose and sneezing, burning and fulness in nostrils, later secretion of copious mucus. Coryza with nose-bleed.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Stool thin, watery, bloody; with tenesmus and colic; catarrhal dysentery; evening. Stool copious with great debility and prostration; flatulence; morning. Stool in hard lumps mixed with yellow mucus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Catarrh of lungs; loose cough and copious mucous expectoration. Hæmoptysis; great emaciation; dry, hacking cough; hectic flush; sleeplessness. Hæmoptysis after venesection or suppressed menstruation. Phthisis with obstructed menstruation; bloody or copious mucous sputa. Sharp pain through either lung. Hot flashes of pain through lungs in morning. Compression about chest.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Pain in back and loins; when sitting long or when lying down. Sharp, lancinating pains in lumbar region. Severe pain in small of back in morning. Cutting pains in region of sacrum, hypogastrium, and groins, with too early or too profuse menses; she is pale, weak, and nervous, and has a slight cough at night. Wandering pains in back and shoulders; pain in joints.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Skin dry, nails brittle.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chilly forenoon as after taking cold; followed by heat and sweat in evening with moderate thirst. Chilliness followed by urging to urinate. Copious warm sweat towards morning; catarrh. Hectic fever. Heat of forehead. Hot flushes day and night. Sweat of forehead. Disposition to perspire. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "cowperthwaite-textbook-1891",
+      "kent-lectures-1905",
+      "kent-mm-1911"
+    ]
+  }
+}

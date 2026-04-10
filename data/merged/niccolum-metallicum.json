@@ -1,0 +1,85 @@
+{
+  "id": "niccolum-metallicum",
+  "names": {
+    "primary": "NICCOLUM METALLICUM",
+    "latin": "NICCOLUM METALLICUM",
+    "common": [
+      "Metallic Nickel (NICCOLUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Cracking in cervical vertebræ when moving the head. Pain on top as from a nail. Pressure on vertex, in morning; worse till noon and in warm room. Stitches. Objects appear too large. Migraine; first on left side. Twitching of upper lip",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Violent sneezing; stopped up. Nasal catarrh, with redness and swelling at tip of nose. Acute pain at root of nose, extending to vertex and through temples",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Sore, right side with great tenderness; soreness to touch externally. Strangulated feeling",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Gastric] Gone, empty feeling in epigastrium, without desire for food. Acute gastralgia with pains extending to shoulder. Thirst and intense hiccough. Sour, fetid secretions ooze from molar teeth. Diarrhœa and tenesmus after milk",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menses late, scanty, with great debility and burning in eyes. Profuse leucorrhœa; worse, after urinating (Mag mur, Plat); also worse after menses",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Hoarseness. Dry, hacking cough, with stitches in chest. Obliged to set up and hold head. Must put arms on thighs, when coughing",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching all over, worse on neck, not relieved by scratching",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "in evening",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "periodically, every two weeks; yearly, forenoon",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Third trituration"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">NICCOLUM METALLICUM Metallic Nickel (NICCOLUM) Periodical nervous sick headaches, with asthenopia, weak digestion, constipation. Catarrh. Suits debilitated, nervous, literary patients, with frequent headaches, dyspepsia and constipation.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "fagopyrum-esculentum",
+  "names": {
+    "primary": "FAGOPYRUM ESCULENTUM",
+    "latin": "FAGOPYRUM ESCULENTUM",
+    "common": [
+      "Buckwheat (FAGOPYRUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Inability to study or remember. Depressed and irritable. Itching of eyes and ears. Pains deep in head, with upward pressure. Itching in and around eyes and ears. Head hot, better bending backward, with tired neck. Occipital headache. Bursting pains. Cerebral hyperæmia",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Sore, red, inflamed. Fluent coryza, with sneezing, followed by dryness and crust formation",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Itching and smarting, swelling, heat and soreness",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Soreness and feeling of excoriation, deep down pharynx. Uvula elongated, tonsils swollen",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Eructations of scalding, hot, acid, watery substance; better, coffee. Bad taste in the morning. Persistent, morning nausea. Drooling",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pain around heart, better lying on back, extending to left shoulder and arm. Throbbing in all arteries after retiring. Palpitation with oppression. Pulse irregular, intermittent, rapid. Light feeling in chest",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Pruritus vulvæ, with yellow leucorrhœa, worse, rest. Burning in right ovary",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Stiffness and bruised sensation in the muscles of the neck, with sensation as if nape of neck could not support head. Pain in shoulder, with pain along fingers. Vehement itching in arms and legs; worse towards evening. Feet numb and pricking. Streaking pains in arms and legs",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching; better by bathing in cold water; worse scratching, touch and retiring. Sore red blotches. Blind boils. Itching of knees and elbows and hairy portions. Itching of hands, deep in. Vesicular, pustular, phlegmonous dermatitis. Skin hot, swollen",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "cold water, coffee",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "in afternoon; from sunlight, scratching",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Third potency and 12x"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">FAGOPYRUM ESCULENTUM Buckwheat (FAGOPYRUM) Its action on the skin, producing pruritus, is very marked. Visible pulsation of arteries. Fluent coryza. Offensive excretions. Itching erythema. Pruritus senilis. Post-nasal catarrh; dry crusts, granular appearance of posterior nares with itching.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

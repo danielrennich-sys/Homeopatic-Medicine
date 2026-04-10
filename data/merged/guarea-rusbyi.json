@@ -1,0 +1,38 @@
+{
+  "id": "guarea-rusbyi",
+  "names": {
+    "primary": "Guarea rusbyi (BRIT.)",
+    "latin": "Guarea rusbyi (BRIT.)",
+    "common": [
+      "Cocillana Bark"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A large Bolivian tree; flowers in axillary clusters; bark ashy grey on the older trees on account of lichen growths; the inner bark is generally thicker than the outer; fracture, coarse fibrous splinters; odour musk like; taste distinctive, astringent and nauseous; leaves pinnate and of peculiar growth, as the lower leaflets fall young ones grow at the end of the same leaf-stalk, which elongates, the lower outer portion becomes woody with an outer bark and a thin pith inside and grows into a branch.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The bark causes vomiting, and often prostration and nausea. In action very like ipecacuanha, but a more stimulating expectorant. Used with success in the treatment of bronchitis and pulmonary complaints.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "preparation": [
+      {
+        "text": "Fluid extract: dose, 5 to 20 drops.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

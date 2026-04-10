@@ -1,0 +1,35 @@
+{
+  "id": "antimonium-arsenicicum",
+  "names": {
+    "primary": "Antimonium Arsenicicum",
+    "latin": "Antimonium Arsenicicum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Antim. ars. is said to affect preferably upper left lung. Emphysema where the dyspnœa is excessive. Haarer is the chief authority for this drug. Mattes, who used it after him, says it is equally effective in right-side cases in old pneumonias and catarrhal pneumonias in children; in old pleuritic effusions, and in pericardial exudations. The cough is by eating, and on lying down. Wandering pains in sciatic nerves. It has caused inflammation of the eyes and œdema of the face.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Catarrhal pneumonia; Emphysema; Ophthalmia; Pericarditis; Phthisis; Pleurisy; Pneumonia; Sciatica",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Other antimony salts, Ars., Aur., Laches., Puls. (wandering pains), Sul. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

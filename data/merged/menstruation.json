@@ -1,0 +1,24 @@
+{
+  "id": "menstruation",
+  "names": {
+    "primary": "MENSTRUATION",
+    "latin": "MENSTRUATION",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY MENSTRUATION. Menstruation : Aco., Bell., Nux-m., Plat., Pul., Sep., Sul. Menstruation, menses , early : Amb., Bell., Bor., Bov., Calc-c., Carb-v., Caul., Cham., Cocc., Fer., Ip., Mang., Nux-v., Pho., Plat., Rhus-t., Sabi. Menstruation, menses, green : Grap., Lac-c., Med., Pul., Sep. Menstruation, menses, interrupted, reappearing, etc. : Kre., Lach., Nux-v., Pho., Pul. Menstruation, menses, irregular : Cimi., Cocc., Ign., Iod., Nux-m., Sec-c., Senec. Menstruation, menses, late : Caust., Con., Cup., Dulc., Grap., Kali-c., Lach., Lyc., Mag-c., Nat-m., Pul., Sep., Sil., Sul., Vib. Menstruation, menses, too long : Calc-c., Cup., Lyc., Nat-m., Nux-v., Plat., Sec-c. Menstruation, menses, painful : Calc-c., Cham., Cimi., Cocc., Con., Cup., Grap., Lyc., Med., Nux-m., Plat., Pul., Sep., Sul., Tub., Ver-a., Vib. Menstruation, menses, profuse, excessive : Ars., Bell., Calc-c., Chin., Croc., Fer., Ip., Mill., Nat-m., Nux-m., Nux-v., Pho., Plat., Sabi., Sec-c., Stram. Menstruation, menses, scanty : Am-c., Con., Dulc., Grap., Kali-c., Lach., Mag-c., Pul., Sul. Menstruation, menses, short : Am-c., Pul., Sul. Menstruation, menses, suppressed : Hell., Lyc., Pho., Sil., Sul. Menstruation, menses, tardy at puberty : Pul., Senec., Sul. Menstruation, menses, vicarious : Bry., Fer., Grap., Lach., Pho., Pul., Sec-c., Senec., Sul. Menstruation, menstrual blood . See Hæmorrhage. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "thea-sinensis",
+  "names": {
+    "primary": "THEA SINENSIS",
+    "latin": "THEA SINENSIS",
+    "common": [],
+    "synonyms": [
+      "Thea sinensis"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T THEA SINENSIS Nervous sleeplessness; heart troubles, etc., of old tea-drinkers, palpitation of the heart, can't lie down. Copyright © Médi-T 2000",
+        "source_id": "guernsey-keynotes-1887"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Thea sinensis. Stomach and Abdomen. Sensation of complete relaxation of the stomach, with qualmishness and nausea, and discharge of water from the mouth ; her stomach felt as if hanging down like an empty bag, and heavy. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "guernsey-keynotes-1887",
+      "lippe-textbook-mm-1866"
+    ]
+  }
+}

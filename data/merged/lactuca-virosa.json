@@ -1,0 +1,219 @@
+{
+  "id": "lactuca-virosa",
+  "names": {
+    "primary": "LACTUCA VIROSA",
+    "latin": "LACTUCA VIROSA",
+    "common": [
+      "Acrid Lettuce",
+      "Lettuce, Wild"
+    ],
+    "synonyms": [
+      "Lactuca virosa (LINN.)",
+      "Lactuca Virosa",
+      "Lactuca virosa"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Stupefaction of sense. Great restlessness",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Anguish and internal uneasiness. Sadness with exaggerated fancies. Difficulty of thinking. Vertigo with heaviness of head and lower limbs, blackness before eyes and sensation as if head was too large and expanded.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "head": [
+      {
+        "text": "Dull, heavy, confused, dizzy. Heat of face and headache, with general coldness. Headache, with affections of respiratory organs",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Aching, pressing pain in forehead ; sensation as if brain was loose. Painful spot near vertex, < on touching it. Heaviness in occiput with pressure. Dull pain in whole head, early in morning. Trembling and pulsation in head during rest. Head is very painfully shattered by slight cough, so that a whirring and pressing remain a long time afterward. Headaches : with affections of respiratory organs ; nervous.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Sensation of weight, of fullness; borborygmi; abundant emission of wind. Colic in early morning, abdomen tense, relieved somewhat by evacuation and passing of wind",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Tightness in pit of stomach, followed by true precordial anxiety. Feeling of warmth in stomach, accompanied by nausea, rising into throat, and flat taste at root of tongue, changing to icy coldness of stomach and throat. Pit of stomach retracted ; pain in stomach, < from pressure, > by sitting, bending, or emitting fetid flatus. Icy coldness in stomach and œsophagus. Stitches in pylorus. Swelling of liver with pressure, or with tightness when pressing on it. Pinching in umbilical region, < crossing legs. Fulness in abdomen, especially right side, impedes respiration ; > by discharge of flatus. Ascites, with induration of liver, and asthma.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Difficult breathing. Suffocative breathing from dropsy of the chest. Constant tickling cough. Incessant, spasmodic cough, as if chest would fly to pieces. Squeezing sensation in lower chest",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pinching, dull, sticking pain, which becomes seated in upper part of left side of chest, with tightness of whole chest. Pleuritic stitches from middle of sternum toward right side. Dull sticking from left chest to scapula. Pain catches him in his lungs, back and front, and across top of sacrum. Several sharp stitches beneath short ribs of left side. Cramping, pressing pains in various parts of chest. Feeling of coldness in chest. Fulness in chest, as of a heavy weight ; loosens clothing. Cannot bear anything to bear on chest, lest breathing should become oppressed. Sensation as if lower part of chest was too tight. Great oppression of chest at night, waking him from sleep and obliging him to sit up with anxious suddenness ; feels as if he would suffocate, and suddenly he finds himself on his feet. Congestion of blood to chest, with pressing, obliging one to breathe hurriedly. Irritation to cough caused by constant tickling in throat, cough short, taking away breath, patient almost in despair. θ Catarrh of chest. Hydrothorax with anasarca ; unable to lie down or sleep, could not express ideas for want of words, inclined to weep ; fluids choke him ; violent palpitation. Tightness and oppression of chest on waking from sleep ; feels as if suffocating, must get out of bed. θ Angina pectoris. Pulse slow, contracted and small.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Promotes catamenia. Increase of milk in breasts (Asafoet)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Hypertrophy of ovaries in a woman, æt. 50, consequent upon an abortion twenty-five years previously ; abdomen as large as that of a woman with twins at ninth month ; could get no rest day or night, tumor causing pain by pressure in all positions ; rectum contracted, evacuates feces with great pain. Excessive swelling of abdomen, feet and eyelids. θ Dropsy of uterus. Painful gonorrhœa in females.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Restless; impossible to get to sleep. Deep, comatose sleep",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Irresistible drowsiness, in daytime. Sleep restless or lethargic.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Lame hip down left side; worse walking. Coldness and numbness of feet and legs. Tremor of hands and arms. Cramps in shin bones, extending to toes and side of leg involving calves",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Painful twitching or trembling of hands. Sensation in legs as if circulation was suspended, particularly when sitting. Cold feet. Sharp, cramplike twitchings in neighborhood of joints.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "antidoted_by": [
+        "Acet ac",
+        "Coff"
+      ],
+      "_raw": [
+        "Compare : Opium (drowsiness), Laches., Kali carb., Kali iod. (heart symptoms)",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "dosing": {
+      "notes": "Tincture"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">LACTUCA VIROSA Acrid Lettuce This remedy acts principally upon the brain and circulatory system. Delirium tremens with sleeplessness, coldness, and tremor. Hydrothorax and ascites. Impotence. Sense of lightness and tightness affecting whole body, especially chest. Seems to be a true galactogogue. Marked action on extremities.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. LACTUCA VIROSA. (Lactuca Faetida.) Natural order.- Compositae. Common names.- Poisonous Lettuce. Lettuce Opium. General Analysis.- The physiological action of this drug is chiefly upon the brain and nervous system, diminishing the force and frequency of the pulse, and disposing to sleep ; unlike opium, producing no excitement either of brain or circulation. Secondarily, it affects the vegetative sphere, as is shown by its symptoms, very few of which, however, have been verified in practice. Characteristic symptoms. Mind.- (Lactuta virosa) Ill-humored ; fretful ; peevish. Disinclination to mental labor ; mind confused ; power of thought diminished. (Gels., Nux v., Phos. ac .) Head.- (Lactuta virosa) Confusion of the head ; vertigo. Dull headache. Eyes.- (Lactuta virosa) Pupils very much dilated. ( Bell., Hyos., Stram .) Stomach.- (Lactuta virosa) Pit of stomach retracted, with slight pain in stomach ; aggravated by pressure. Feeling of warmth in stomach, accompanied by nausea rising into the throat, and flat taste at root of tongue, soon changing to icy coldness of stomach and throat. Tightness in pit of stomach, followed by true precordial anxiety. Abdomen.- (Lactuta virosa) Feeling of fullness in abdomen, especially in right side, which impedes respiration ; relieved by discharge of flatulence upward or downward. Urinary Organs.- (Lactuta virosa) Increased secretion of urine. (Ambr., Phos. ac.) Respiratory Organs.- (Lactuta virosa) Incessant spasmodic cough, which threatens to burst the chest ; always caused by a peculiar tickling in fauces, which, in turn, seems to be produced by a sensation of suffocation in the throat. Dry cough in short paroxysms, with shaking of the chest and occiput. Tightness of chest wakens from sleep, with anxiety. ( Acon .) Cramping, pressive pains in various parts of the chest. Pinching, dull, sticking pain in upper left side of chest. Sharp stitches beneath short ribs of left side. Generalities.- (Lactuta virosa) Great weariness and exhaustion. Unusual feeling of lightness of the body. Slight shivering. Sleep.- (Lactuta virosa) Sleepiness ; sound, refreshing sleep. Stupid sleep at night. Restless sleep at night. Therapeutic Range.- (Lactuta virosa) Has been used but little in homoeopathic practice. Dr Hughes. According to Hughes it seems indicated in some forms of hepatic and pulmonary congestion, of clavus, and of cerebral weakness, with somnolence. Compare.- (Lactuta virosa) Op., Coff. Copyright © Robert Séror 2003",
+        "source_id": "cowperthwaite-textbook-1891"
+      },
+      {
+        "text": "The name lactuca is derived from the classical Latin name for the milky juice, virosa , or 'poisonous.' It is a biennial herb growing to a maximum height of 6 feet. The erect stem, springing from a brown tap-root, is smooth and pale green, sometimes spotted with purple. There are a few prickles on the lower part and short horizontal branches above. The numerous, large, radical leaves are from 6 to 18 inches long, entire, and obovate-oblong. The stem leaves are scanty, alternate, and small, clasping the stem with two small lobes. The heads are numerous and shortly-stalked, the pale-yellow corolla being strap-shaped. The rough, black fruit is oval, with a broad wing along the edge, and prolonged above into a long, white beak carrying silvery tufts of hair. The whole plant is rich in a milky juice that flows freely from any wound. This has a bitter taste and a narcotic odour. When dry, it hardens, turns brown, and is known as lactucarium.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Lactuca virosa. Mind and Disposition. Anguish and internal uneasiness. Sadness with exaggerated fancies. Head. Vertigo with heaviness of the lower limbs. Giddiness with heaviness of the head, blackness before the eyes, and sensation as if the head were too large and expanded. [5] Difficulty of thinking. Dulness of the head (early in the morning), dull pain in the whole head. Pain in a small spot on the vertex. Heaviness in the occiput with pressure (P.M.). Painful spot near the vertex, the pain increases on touching it. Eyes. [10] Biting in the eyes. Dim-sightedness, sight as through mist or gauze. Muscæ volitantes. The lids are covered with mucus. Face. Heat of the face, with trembling of the lips, and sensation as if they were swollen. [15] Twitching in the lips. Mouth and Throat. Tongue coated white. The tip of the tongue feels burnt. Increased flow of (acrid) saliva. Tenacious mucus in the throat (early in the morning). Stomach and Abdomen. [20] Increased appetite and thirst. Bitter taste in throat, as from bile. Pain in the stomach, with retraction of the pit of the stomach, worse on pressing on the part. Tightness in the pit of the stomach, with anguish in the precordial region coldness in the stomach and sophagus. [25] Stitches in the pylorus. The pains in the stomach are relieved by sitting, bending, or by emission of fetid flatulence. Swelling of the liver with pressure or with tightness when pressing on it. Pinching in the umbilical region, increased by crossing the legs. Ascites, with induration of the liver and asthma. Stool and Anus. [30] Dry, hard, knotty, difficult stool, with burning at the arias. Hæmorrhoidal tumors around the anus, with tenesmus of the rectum. Urinary Organs. Frequent micturition and increased secretion of urine, the urine is ; clear as ; water. Burning at the orifice of the urethra. Dragging pressing in the region of the bladder. Sexual Organs. [35] Swelling of the lymphatic vessels in the penis, with painful erections during the morning slumber. Respiratory Organs. Roughness in the throat after reading aloud. Cough from tickling in the throat, with a feeling of tightness in the chest. Spasmodic, dry, hollow racking cough, as if the chest would fly to pieces. Dry suffocative cough with sensation of coldness in the stomach. [40] Difficult breathing with stitches in the left lobe of the lungs. Frequent desire to take a deep breath, constant desire for air, with oppression of the chest. Sensation as if the lower part of the chest were too tight. Great oppression of the chest at night, waking him from sleep, and obliging him to sit up with anxious suddenness, feels as if he would suffocate, and suddenly he finds himself on his feet in the room. Heaviness on the chest with tightness of breathing. [45] Feeling of fulness in the chest, sensation as if a heavy weight were oppressing the chest, obliging one to loosen the clothing. Cannot bear anything to press on the chest, lest the breathing should become oppressed. Hydrothorax. Congestion of blood to the chest, with pressing and obliging one to breathe hurriedly. Feeling of coldness in the chest. [50] Crampy, pressure in different parts of the chest. Stitches in the chest. Extremities. Upper . Painful twitching in the hands. Trembling of the hands. Lower . Sensation in the legs as if the circulation were suspended, particularly when sitting. [55] Cold feet. Sleep. Irresistible drowsiness, in the day time. Lethargic sleep. Generalities. Sharp, cramp-like twitchings in the neighborhood of the joints. Indescribable feeling of lightness of the body. [60] Bruised feeling in all the limbs. Fever. Pulse slow, contracted, small. Frequent coldness over the back and head, with heat in the face. Chilliness in a warm room, with coldness of the hands and feet. Dry heat of the upper part of the body, with icy coldness of the feet. [65] Profuse perspiration. Skin. dematous swelling of the whole body with asthmatic complaints. Conditions. Wants to sit erect. Amelioration when taking exercise in the open air. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "The dried milk-juice (Lactuarium), the leaves.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Right : fulness in abdomen < ; oppression of side of chest ; stitches toward side from sternum. Left : stitches in lung ; pinching pain in upper part of side of chest ; dull sticking from chest to scapula ; sharp stitches beneath short ribs. As if head was too large and expanded ; as if brain was loose ; as if looking through mist or gauze ; as if lips were swollen ; tip of tongue as if burnt ; as if chest would fly to pieces ; as of a heavy weight in chest ; as if lower part of chest was too tight ; as if he would suffocate ; pain as if in spinal marrow, extending through coccyx ; as if circulation in legs was suspended. Pain : in stomach ; in posterior part of region of liver ; in lungs, back and front, and across top of sacrum. Painful spot : near vertex. Head is very painfully shattered by slight cough, so that a whirring and pressure remain a long time afterward. Anxiety : in precordial region. Sharp stitches : beneath short ribs of left side. Stitches : in pylorus ; in left lung ; from middle of sternum toward right side. Pinching : in umbilical region. Sharp, cramplike twitching : in neighborhood of joints. Cramping, pressive pains : in various parts of chest. Dragging, pressing : in region of bladder. Pinching, dull sticking pain : upper part of left chest. Dull sticking : from left chest to scapula. Aching pressing pain : in forehead. Dull pain : in whole head. Painful twitching and trembling : of hands. Biting : in eyes. Burning : at anus ; at orifice of urethra. Heat : of face. Dry heat : of upper part of body. Warmth : in stomach. Pressure : on occiput. Heaviness : of head and lower limbs ; of occiput. Oppression : of chest. Tightness : in pit of stomach ; of liver ; in lower chest. Fulness : in abdomen ; in chest. Tickling : in throat ; in fauces. Trembling : of lips. Trembling and pulsating : in head. Twitching : of lips. Coldness : of stomach and throat ; in chest ; of feet. Dropsical swellings ; hydrothorax ; ascites, with induration of liver and asthma. TOUCH. PASSIVE MOTION. INJURIES. [45] [Lact.]. Touch : < painful spot on vertex. Cannot bear anything on chest : difficulty of breathing. Pressure : pain in stomach ; tightness of liver ; pain in tumor >. Woman, past climaxis ; cough. A man, æt. 22 ; asthma with hydrothorax (relieved). Man, æt. 26 ; phthisical, after intermittent, hydrothorax. Man, had for years suffered from blood dyscrasia and affection of brain ; hydrothorax. Woman, æt. 30 ; hysterical, spasmodic cough. Woman, æt. 50 ; hypertrophy of ovaries after miscarriage (improved). Woman, æt. 59 ; hydrothorax (relieved). A woman, æt. 60 ; hydrothorax. A man, æt. 61 ; asthma with general œdema after taking cold.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "The Wild Lettuce grows on banks and waste places, flowering in July and August. It is cultivated in Austria, France, Germany and Scotland. Collectors cut the heads of the plants and scrape the juice into china vessels several times daily until it is exhausted. By slightly warming and tapping, it is turned out of its cup mould, is cut into quarters and dried. In the United States, after importation from Germany via England it is said to be used as an adulterant for opium. It is usually found in irregular, reddish-brown lumps the size of a large pea, frequently mouldy on the outside. In the United States the German and French lactucarium is considered inferior to the British product. All lettuces possess some of this narcotie juice, Lactuca virosa having the most, and the others in the following order: L. scariola , or Prickly Lettuce, L. altissima , L. Canadensis , or Wild Lettuce of America, and L. sativa , or Garden Lettuce. Cultivation has lessened the narcotic properties of the last, but it is still used for making a lotion for the skin useful in sunburn and roughness. The Ancients held the lettuce in high esteem for its cooling and refreshing properties. The Emperor Augustus attributed his recovery from a dangerous illness to it; built an altar to it, and erected a statue in its honour. Lactucarium is not easily powdered, and is only slightly soluble in boiling water, though it softens and becomes plastic. Thridace, or the inspissated juice of L. capitata , is now regarded as inert. A mild oil, used in cooking, is said to be obtained from the seeds in Egypt. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "L. virosa has been found to contain lactucic acid, lactucopicrin, 50 to 60 per cent lactucerin (lactucone) and lactucin. Lactucarium treated with boiling water and filtered is clear, but on cooling the filtrate becomes turbid. It is not coloured blue by iodine test solution. The usual constituents of latex are albumen, mannite, and caoutchouc. The fresh juice reddens litmus paper.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The drug resembles a feeble opium without its tendency to upset the digestive system. It is used to a small extent as a sedative and narcotic. Dissolved in wine it is said to be a good anodyne. Dr. Collins stated that twenty-three out of twenty-four cases of dropsy were cured by taking doses of 18 grains to 3 drachms of extract in twenty-four hours. It is used in Germany in this complaint, but combined with more active drugs. It is said to be also a mild diaphoretic and diuretic, easing colic, inducing sleep and allaying cough. Water distilled from lettuce ( eau de laitre ) is used in France as a mild sedative in doses of 2 to 4 OZ., and the fresh leaves boiled in water are sometimes used as a cataplasm. Moderate doses given to the lower animals act as a narcotic poison, an injection having even caused death.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Musca volitantes ; dim-sightedness, as through mist or gauze. Pupils very much dilated. Biting in eyes. Lids covered with mucus.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "face": [
+      {
+        "text": "Heat of face, with trembling of lips, and sensation as if they were swollen. Twitching in lips.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue coated white ; tip of tongue feels burnt. Increased flow of acrid saliva. Bitter taste in throat, as from bile. Tenacious mucus in throat early in morning.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Dry, hard, knotty, difficult stool, with burning at anus. Hemorrhoidal tumors, with tenesmus of rectum.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Dragging, pressing in region of bladder. Frequent micturition and increased secretion of urine, urine clear as water. Burning at orifice of urethra.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "male": [
+      {
+        "text": "Swelling of lymphatics on penis, painful erections during morning sleep.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Frequent desire for air and a deep breath ; oppression of chest. She feared to take a deep breath on account of tightness in lower part of chest ; there was then felt a slight shock. Difficult breathing, with stitches in left lung. Wakes suddenly and must bounce out of bed upon his feet. θ Suffocation. Cough from tickling in throat ; tightness in chest. Dry cough in short paroxysms, shaking chest and occiput. Dry, suffocative cough, with coldness in stomach. Spasmodic, dry, hollow, racking cough, as if chest would fly to pieces. Incessant spasmodic cough, which threatens to burst chest ; always caused by peculiar tickling in fauces, which, in turn, seems to be produced by sensation of suffocation in throat. A woman past climacteric years, tickling cough, with oppression of middle and right side of chest, pain in posterior part of region of liver. Whooping cough, paroxysms preceded by anxiety. Dry, spasmodic cough, from tickling in larynx, with dyspnœa and oppression of chest, as if it would burst ; < in morning, > sitting up ; before attacks, great anxiety.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "Pain as if in spinal marrow, extending through coccyx. θ Coccygodinia.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "REST. POSITION. MOTION. [35] [Lact.]. Rest : trembling and pulsating in head. Sitting : pains in stomach > ; oppression of chest > ; as if circulation in legs was suspended. Bending : pains in stomach >. Crossing legs, pinching in umbilical region <. Unable to lie down : hydrothorax with anasarca. Must sit up in bed : oppression of chest. In all positions : painfulness of tumor. Morning : dull pain in whole head ; tenacious mucus in throat ; during sleep, painful erections ; oppression of chest <. Day : irresistible drowsiness. Night : great oppression of chest. Day or night : no rest, hypertrophy of ovaries. Warm room : chilliness.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Slight shivering. Frequent coldness over back and head, with heat in face. Chilliness in a warm room, with coldness of hands and feet. Dry heat of upper part of body, with icy coldness of feet. Profuse perspiration.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "cowperthwaite-textbook-1891",
+      "grieve-modern-herbal-1931",
+      "hering-guiding-1879",
+      "lippe-textbook-mm-1866"
+    ]
+  }
+}

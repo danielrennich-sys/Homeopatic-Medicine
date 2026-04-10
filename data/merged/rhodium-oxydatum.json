@@ -1,0 +1,106 @@
+{
+  "id": "rhodium-oxydatum",
+  "names": {
+    "primary": "Rhodium Oxydatum Nitricum",
+    "latin": "Rhodium Oxydatum Nitricum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "The metal Rhodium is found in association with Platinum. The preparation of it used by Hering was thus obtained: \"A small quantity of Rhodium sponge, hydrate of potassa and nitre were exposed to the action of the blowpipe until oxidised. After having the oxide well washed and boiled in nitric acid for a few minutes and exposed to a gentle heat for an hour, the nitrate was obtained from the oxide: a fluid of a golden colour, and of the consistency of syrup.\" Dilutions of this were made, and the 4th was proved for Hering by Dr. Pehrson, the 2nd and 3rd by Dr. Negendank. The bowels were affected in both, constipation with piles being relieved in one, and constipation with itching of the anus being caused in the other. Some Peculiar Symptoms were: Headache on being waked up in the night. Headache alternating with faintness. Faintness > by passage of stool. Heat preceding chill and alternating with it. Sensation as if teeth blunt; as if sand between them. Scraping or harsh noise = disagreeable sensation in teeth. Hearing more acute; illusion that he hears whispering.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Anus, itching of; burning in; Constipation; Ears, pains in; Hæmorrhoids; Headache; Hearing, illusions of; Impotence",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Aching on inside l. thigh and on l. little finger. Aching in upper joint of r. middle finger, evening. Intense aching l. wrist, evening. 7 p.m. aching in r. wrists. Burning, sticking pain rushing downwards in l. leg. From 4 to 7 p.m., after mental exertion, faintness, not > by eating, drinking, rest, &c.; at 7 as this began to diminish r. sided headache began and was still felt on waking, 5 a.m.; during the faintness urging to stool with inability, stool felt in l. side of rectum; by pressure around anus round balls were evacuated, causing intense burning in anus; faintness ceased instantaneously the moment the stool had passed. Constipation lasting several days.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "During whole day very unusual hilarity and gladness. Illusions of whispers. Irritation of the mind making regular meditation impossible, and causing a sense of dissatisfaction.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "On being disturbed at night aching in forehead, preventing further sleep. Tearing in forehead on being awakened; and at other times. Headache alternating with diarrhœa.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Everything appeared as if the degree of light was lessened, principally the point (print?) whilst reading, which continued during the following day.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Stitches in membrana tympani; hearing more acute. In evening unnatural irritation of sense of hearing, a constant whispering being heard as illusive as if caused by human beings; a few times he went to see if there was not some one there.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Eruptions on nostrils temporarily removed.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Heat and sweat over face.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Teeth feel blunt; every scraping and similar noise most disagreeable sensation in them. Teeth feel as if sand between them.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Stinging pain in pit of stomach, which after two hours changed into a griping pain in integuments of bowels.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "The usually large stool passes with less difficulty than usual; piles improved. Stool in small round balls like cockles, with burning in anus during and for some time after. Much odourless flatus passed. Tenesmus as if stool would come, but only flatus passes. Loud emission of flatus. Diarrhœa with much wind, stool bubbling out; from 6 to 9 a.m., when it ceased and a headache commenced. Passage of stool > faintness. Foul stool. Itching of anus, as if caused by the piles, stools tardy.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Burning in urethra towards head of penis.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Lack of desire, power, and pleasure.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Fever with sweat over face, 3 p.m., followed by chill; fever and chill alternated till 6 p.m. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

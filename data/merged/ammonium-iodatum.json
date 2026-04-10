@@ -1,0 +1,44 @@
+{
+  "id": "ammonium-iodatum",
+  "names": {
+    "primary": "Ammonium Iodatum",
+    "latin": "Ammonium Iodatum",
+    "common": [
+      "Iodide of Ammonia (AMMONIUM JODATUM)"
+    ],
+    "synonyms": [
+      "AMMONIUM IODATUM"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T AMMONIUM IODATUM. Authority. Sidney Ringer, M.B., Practitionner, vol. viii, 1872, p. 129, a lad, æt. seventeen years, convalescent from acute rheumatism, took three doses each of 10 grains. ► After two doses, and in six hours and a half, petechial spots broke out on both legs. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      }
+    ],
+    "head": [
+      {
+        "text": "Dull headache, especially in young people, face stupid, heavy; vertigo, Meniere's disease",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Second and third trit. Compare: Ammonium tartaricum (Dry hacking cough after every cold)"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">AMMONIUM IODATUM Iodide of Ammonia (AMMONIUM JODATUM) Indicated when iodine has but partially relieved its cases of laryngitis and bronchitis, catarrhal pneumonia, œdema of lungs.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "boericke-1927"
+    ]
+  }
+}

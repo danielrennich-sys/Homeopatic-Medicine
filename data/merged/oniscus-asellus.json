@@ -1,0 +1,51 @@
+{
+  "id": "oniscus-asellus",
+  "names": {
+    "primary": "ONISCUS ASELLUS",
+    "latin": "ONISCUS ASELLUS",
+    "common": [
+      "Wood-louse (MILLEPEDES)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Boring pain behind right ear in mastoid process (Caps). Violent pulsation of arteries (Pothos; Glonoine). Painful pressure above the root of nose",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Persistent pressure in cardiac orifice. Vomiting",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Distended; meteorism; very severe colic",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Cutting, burning in urethra. Tenesmus of bladder and rectum, with absence of stool and urine",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Sixth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ONISCUS ASELLUS Wood-louse (MILLEPEDES) Has distinct diuretic properties; hence its use in dropsies. Asthmatic conditions, with bronchial catarrh.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

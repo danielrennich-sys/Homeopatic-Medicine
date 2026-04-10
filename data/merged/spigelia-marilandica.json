@@ -1,0 +1,91 @@
+{
+  "id": "spigelia-marilandica",
+  "names": {
+    "primary": "Spigelia Marilandica",
+    "latin": "Spigelia Marilandica",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "SPIGELIA MARILANDICA.",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "The symptoms of Spi. m. are mainly from overdosing. A state of mania was induced in a boy from large and frequent doses of a decoction of the root. Strabismus of right eye was noted in one case.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T SPIGELIA MARILANDICA. Spigelia Marilandica, L. Natural order , Loganiaceæ. Common names , Pink-root, Indian pink, etc. Preparation , Tincture of the root. Authorities. 1 , Linning, New Edinb. Experiments, Part I, from Hahnemann; [Observations of effects of too large doses in children. -Hughes.] 2 , Dr. Thomson's Inaug. Diss., Phila., 1802 (Eberle's Mat. Med., vol. i, p. 201), Dr. Thomson took large doses of the root; 3 , same, gave 3 or 4 gills of a strong decoction of the root, in large and frequent doses, to a patient, a boy of six years; 4 , only ill-effects afterwards seen from this medicine, although prescribed many times; 5 , G. W. Spalsbury, Bost. Med. and Surg. Journ., vol. lii, p. 72, a girl aged four years, suffering from worms, took three doses of an infusion. MIND. ► Suddenly affected with complete mental derangement, precisely of that kind which is sometimes produced by the seeds of Stramonium; he distorted his countenance into a variety of shapes; was affected by alternate fits of laughing and crying, and run and skipped about the room incessantly; the pupils were greatly dilated, and his talk was wild and incoherent; these symptoms went off in the course of about twenty-four hours, and left him quite as well as he had been before the pink-root, [2] . HEAD. ► Vertigo, [1] . ► Slight giddiness, [4] . EYE. ► A peculiar wild staring expression of the eyes, giving the countenance a very singular, in fact, ludicrous appearance, [5] . ► The musculi adductores et abductores oculorum seem to be greatly affected, from their irregular motions, while the other muscles of the eye, so far as I have had an opportunity of observing, remain unaffected, [1] . [Revised by Hughes.] ► Strabismus of the right eye, [5] . ► Pain in and above the eyes, [1] . ► A sensation of stiffness of the eyelids, [2] . ► Dilatation of the pupils, [4] . [10.] ► Pupils greatly dilated, [3] , [5] . ► Dimness of sight, [4] . FACE. ► Face especially about the eyes, including the lids, much swollen, [5] . ► Flushed face, [2] . ► Tongue pointed and tremulous, [5] . PULSE. ► Acceleration of the pulse, [2] . ► Pulse 110, and irregular, [5] . GENERALITIES. ► On attempting to assume the erect position, the patient would be seized with a general tremor, which would pass off in a few seconds, and leave her apparently quite exhausted, [5] . SLEEP. ► Drowsiness, [2] . FEVER. ► Skin hot and dry, [5] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Mania; Strabismus (r.)",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "On attempting to assume erect position, seized with general tremor lasting a few seconds and leaving her exhausted.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Suddenly affected with complete mental derangement, exactly like that of Stram., countenance distorted, running and skipping, fits of laughing and crying, pupils greatly dilated, talk wild and incoherent, (lasted 24h.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Wild, staring, ludicrous expression. Irregular movement of adductors and abductors of eyes. Strabismus of r. eye. Pain in and about the eyes. Sensation of stiffness of eyelids. Pupils dilated.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Much swelling of face and about eyes. Face flushed.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue pointed and tremulous.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pulse: accelerated; irregular.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Drowsiness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Skin hot and dry. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

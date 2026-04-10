@@ -1,0 +1,41 @@
+{
+  "id": "yohimbe",
+  "names": {
+    "primary": "Yohimbe",
+    "latin": "Yohimbe",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Yohimbe is an evergreen tree native to central and western Africa. It has a compound called yohimbine in its bark. The bark has been used traditionally as an aphrodisiac and sexual performance enhancer, as well as a mild hallucinogen. Yohimbe is promoted for erectile dysfunction, athletic performance, weight loss, as a mood booster, and more.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "There is very little research in people on the effects of yohimbe as a dietary supplement. But studies have documented the risks of taking it. There is not enough evidence for definite conclusions to be reached about yohimbe’s effectiveness for any health condition.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "The amount of yohimbine in dietary supplements may vary; some yohimbe products contain very little yohimbine. Yohimbe sold as a dietary supplement may not work like the prescription medication that contains yohimbine. It is illegal in the United States to market an over-the-counter product containing yohimbine as a treatment for erectile dysfunction without getting approval from the U.S. Food and Drug Administration (FDA) to do so. There is not enough research to say whether yohimbe as a dietary supplement is helpful for any condition, including erectile dysfunction, athletic performance, or obesity.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Yohimbine, a component of yohimbe, has been associated with cardiac arrhythmia (irregular heartbeat), blood pressure problems, heart attacks, and seizures. Because of inaccurate labeling and potential for serious side effects, yohimbe supplements have been restricted or banned in many countries. Yohimbe caused stomach problems, tachycardia (a rapid heartbeat), anxiety, and high blood pressure, according to a study about yohimbe and other substances that compared calls made to the California Poison Control System over a 7-year period. People calling about yohimbe were generally more likely to need medical care than other callers. Most yohimbe products don’t say how much yohimbine they contain. The amount may vary a lot among products, according to a 2015 analysis of 49 brands of supplements labeled as containing yohimbe or yohimbine for sale in the United States. Some of the yohimbine was either synthetic or from highly processed plant extracts. Most of the supplements did not provide information about known side effects. Do not use yohimbe if you are taking types of antidepressant medications called monoamine oxidase inhibitors or tricyclic antidepressants. Yohimbe can interact with these medications. If you take any type of medicine, talk with your health care provider before using yohimbe or other herbal products; some herbs and medicines interact in harmful ways. It might be unsafe to use yohimbe orally (taken by mouth) during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

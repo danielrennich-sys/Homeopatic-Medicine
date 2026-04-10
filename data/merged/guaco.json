@@ -1,0 +1,93 @@
+{
+  "id": "guaco",
+  "names": {
+    "primary": "Guaco",
+    "latin": "Guaco",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Guaco has a local repute as a remedy for the bites of serpents, for hydrophobia, cholera, and cancer. In the homœopathic provings rice-water stools occurred; and difficulty of swallowing as in hydrophobia. One proving also showed an action on the bladder and urinary organs, producing excess of phosphates. A lady who took a decoction for four months steadily, was obliged to discontinue because it produced: Copious, corrosive, putrid leucorrhœa, causing great debility, tanning the inside of the thighs and staining linen yellow. She felt as if fire was running out of her. Terrible itching and smarting. Another prover had severe spinal and occipital pains; paresis of tongue and difficult deglutition. Burning and tearing in soles. Pains as if beaten. Pains extend to other parts, mostly from above downwards. At night. Motion .",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Cholera; Diarrhœa; Hydrophobia; Leucorrhœa; Paralysis; Phosphaturia; Rheumatism; Spine, affections of; Tongue, paralysis of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Constriction of larynx and trachea. Aching drawing and simple drawing pains in deltoid with a paralysed sensation extending to forearm. Tearing and dislocation pains in shoulders extending to forearm. Burning in shoulder-joint. Tearing in elbows and fingers. Soreness and pains as if beaten about hip-joint. Drawing in thigh. Drawing and swollen feeling in calves. Uneasiness and drawing in legs. Tearing in ankle-joints. Burning and tearing in sales. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Antidoted by: Kre. and Sul. (leucorrhœa). Compare: Alum., Bell. (menstrual flow feels hot); Phos. ac. (phosphaturia). Leucorrhœa staining yellow, Carb. an., Kre., Nit. ac."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "An excited condition.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Severe aching in occiput which sometimes extends over upper half of back. Headache and heat of head.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Deafness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue heavy, difficult to move. Difficult deglutition.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Pain and rumbling in bowels followed by watery stools.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Awakened 4 a.m. with pain and sudden call to stool of dark brown fæcal matter, thin and watery. Slept till 6, when he had another stool, sudden, forcible, profuse, with appearance as of rice-water; some pain in back afterwards, with feeling of weakness and fatigue. Congestion of hæmorrhoidal vessels.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Unusual flow of urine with excess of phosphates; pain over region of bladder and weight and weariness through hips and loins.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Leucorrhœa, copious, corrosive, debilitating; tanning thighs, staining linen yellow; felt as if fire running out of her; terrible itching at night.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Burning in nape extending to shoulders. Tearing stiffness, drawing-tearing extending to axilla. Drawing-tearing in and between scapulæ extending into forearm. Frequent fine stitches, tearing and violent drawing pains along spine, bending. Aching and pressure forward in the lumbo-sacral region. Weight and weariness through hips and loins. Pain in sacrum and back with feeling of weakness and fatigue (after diarrhœa).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

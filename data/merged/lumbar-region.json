@@ -1,0 +1,24 @@
+{
+  "id": "lumbar-region",
+  "names": {
+    "primary": "LUMBAR REGION",
+    "latin": "LUMBAR REGION",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY LUMBAR REGION. Lumbar region : Aesc., Alu., Ant-t., Ars., Berb., Calc-c., Caust., Cimi., Kali-c., Nux-m., Nux-v. , Pul., Rhus-t. , Sep., Sul., Variol. Lumbar region, to chest : Berb., Sul. Lumbar region, chill , starts in : Gels., Hyo., Lach., Nat-m., Stro., Sul. Lumbar region, cold : Bry., Canth., Eup-p., Gels., Lach., Merc-c., Rhus-t., Sul. Lumbar region, forward in : Berb., Cham., Kali-c., Kre., Sabi. Lumbar region, forward in, around pelvis : Sabi., Sep., Vib. Lumbar region, lumbago : Ant-t., Bell., Kali-bi., Nux-v., Ox-ac., Rhus-t., Sec-c. Lumbar region, stitches : Berb., Bry., Coloc., Kali-c., Lyc., Pul. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "castor-equi",
+  "names": {
+    "primary": "CASTOR EQUI",
+    "latin": "CASTOR EQUI",
+    "common": [
+      "Rudimentary Thumb-nail of the Horse"
+    ],
+    "synonyms": [
+      "Castor Equi"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "chest_heart": [
+      {
+        "text": "Cracked, sore nipples, excessively tender. Swelling of mammæ. Violent itching in breasts; areola reddened",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Peculiar sensation about heart as of something alive struggling.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "dosing": {
+      "notes": "Sixth and twelfth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CASTOR EQUI Rudimentary Thumb-nail of the Horse General action on thickening of the skin and epithelium. Psoriasis linguæ. The clinical experience of Hering and his fellow-provers has shown this to be highly useful remedy in cracked and ulcerated nipples. Affects principally female organs. Acts on the nails and bones; pain in right tibia and coccyx. Warts on forehead. Warts on breast. Chapped hands.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "This is a very ancient remedy, and was proved and introduced into homœopathy by Hering. It especially acts on the nipples, the nails, and bones, especially causing pains in right tibia and coccyx. Burnett has cured with it a case of wart on forehead.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Coccygodynia; Epilepsy; Nails, affections of; Nipples, cracked; ulcerated; Warts",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Disagreeable sick feeling in larynx. Repeated pain in r. tibia. Syncope. Epilepsy.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Hep. relieves the sore nipples; Thuja has removed warts caused by Cast. eq. Compare: Calc. oxal., Hippoman., Castoreum, Moschus."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Unusual laughter about things not funny.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo, headache, and nausea in mornings, sour stomach, and lack of appetite.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Desire, to smoke tobacco. 12. Colic with urging wakes him in the morning, followed by a very thin, watery, somewhat burning stool; with passage of offensive flatus. Pain in l. inguinal region.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Cracked, sore nipples in nursing women, excessively tender, cannot bear touch of clothing; even in neglected cases, ragged, nipples almost hanging. Breasts swollen, sensitive; itching internally, painful on descending stairs.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Weak spine. Pain in coccyx every evening while sitting.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Warts. Nails drop off. Brittle nails. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

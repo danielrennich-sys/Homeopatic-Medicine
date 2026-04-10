@@ -1,0 +1,122 @@
+{
+  "id": "ammonium-bromidum",
+  "names": {
+    "primary": "Ammonium Bromidum",
+    "latin": "Ammonium Bromidum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Feared he might die. See 17.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "head": [
+      {
+        "text": "At times a feeling during day as of a band tied around head above ears, pressing hardest just above ears. Pain in side of head near eye, as if a nail was driven into it. Sharp pains in left side of head near eye. Headache from congestion to brain.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "In evening, eyes feel very large, with constant blue before them. Right eye feels large and smarts ; has to wear a shade evenings to read or write ; full of stringy mucus ; as if bathed in hot water. Eyes feel sore as if sand was in them. Pterygium. In morning eyes red and sore, with white mucus in corners, < left eye. θ Ophthalmia scrofulosa. Lids swollen. Every evening eyelids droop ; difficult and painful to raise. Lids stick together. Scrofulous ophthalmia. Pains around eyes and into head. Sharp pain near eye in left side of head.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Sneezing relieves stinging in throat. Nose stopped up ; then clear discharge. Occasional discharge of watery fluid from left nostril.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue smarts severely as if just burned ; morning. Must hold mouth open when walking, on account of heat in throat and lungs. Mouth feels as if burned, in morning. Stringy, tasteless mucus in mouth. Tasting of food eaten several hours before. Throat during day filled with white, sticky mucus, streaked with blood. Throat sore, looks mottled, as if a diphtheritic deposit were commencing. Irritation of throat, mostly on sides, with inclination to cough ; evening. Fauces dark red ; congested. Preparing to swallow is painful, the act is not. Sensation of hot air passing up throat, right side, though stomach feels cold. Fauces and tongue feel scalded. Stinging in fauces with inclination to cough, > by sneezing. Stringy, sometimes blood-streaked mucus in throat.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Food does not digest. Belching relieves faint stomach. Something seems to rise from pit of stomach, almost stopping breath, causing a faint and very disagreeable sensation, partially > by raising wind. Swallowing anything causes distress the length of œsophagus and into stomach. During afternoon and evening, sensation of fainting or suffocation, beginning at epigastrium and rising on both sides of sternum to throat, causing him to sigh and walk around room ; feared he might die. Sharp cutting pain in stomach. Terrible distress in upper part of epigastrium ; could not sit still had to walk the room ; much belching ; pain through to back and to both hypochondria ; caused sweat ; could scarcely get his breath. Sharp, twisting pain just above crest of right ilium.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Sudden urgent desire, with loose stool. An old hemorrhoidal tumor returned quite hard, sore and small, but soon left.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Feeling over right kidney as if something were pressed hard against it ; relieved by pressure, but leaving a pulling sensation.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Dull constant pain and hard swelling in left ovary. Ovarian neuralgia. Uterine hemorrhage from ovarian irritation or inflammation.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Am. br.]. Trachea and Bronchia. Tickling in throat causing cough, in evening. When walking, must hold mouth open on account of heat in throat and lungs. Inclination to draw a long breath. Sense of suffocation from lung, she must move about from fear of suffocation. Cough dry, spasmodic and very severe, at times an interval of only a few minutes. An almost continuous cough for hours, especially when lying down at night ; sensation of tickling irritation, with heat and burning. Sudden short cough when rising from bed in morning, from sensation of mucus in throat. Sudden cough from tickling in throat just below tonsils. Sudden desire to cough coming so suddenly it strangles one. θ Pertussis. Expectoration of white sticky mucus ; sharp pain in both lungs, and during forenoon, pain seems to be mostly in pleura.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pain under middle of left clavicle. Frequent constrictive pain across chest. Sharp pain in lungs, < upper part of right. Lungs feel cold inside. Sharp pain in both lungs, and during forenoon pain seems to be mostly in pleura.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "Feeling over right kidney as if something pressed hard against it ; > by pressure, but leaving a pulling sensation.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Sensation in right shoulder as if pressed by a weight. Legs ache. Like a cord around right leg, midway between hips and knee, causing limping and pain all forenoon ; in afternoon pain went to left leg below knee ; in evening in ankle, then in foot, soon passing off, and inclination to cough returning. Feet cold in warm room, causing legs to ache.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "REST. POSITION. MOTION. [35] [Am. br.]. Could not sit still, had to walk floor with distress in stomach. When walking : must hold mouth open on account of heat in throat and lungs. Must move about from fear of suffocation. When rising from bed in morning sudden short cough. Morning : eyes red and sore ; tongue dry ; tongue smarts ; mouth dry ; mouth as if burnt and full of mucus, also throat ; tickling in throat ; short cough on rising. Forenoon : pain in pleura ; as if cord was tied around leg. Afternoon : stomach easier. Afternoon and evening : fainty ; cough deeper. Evening : eyes feel large, smart, lids droop ; tickling in throat, hacking cough, feet cold. Swallowing anything cold causes distress along œsophagus. Feels the cold more than usual. Must warm the feet while in a warm room.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "(OBS :) Epilepsy. Decrease of irritability, followed by tetanic convulsions ; later all excitability gone, the frog lies in whatever position it is placed, the spasms become more violent, and death ensues from asphyxia. Weakness and uncertain movements in a rabbit (after non-fatal doses). Coughing spells with but a few moments interval. Right : eye feels large and smarts ; full of stringy mucus, as if bathed in hot water ; as if hot air passed up throat ; pain above crest of ileum ; pain over kidney ; sharp pain in upper lung ; pressure as from a weight in shoulder. Left : eye sore and red ; watery discharge from nostril ; pain under middle of clavicle ; dull pain in ovary. Feeling of a band tied around head above ears ; like a cord around right leg ; as if a nail was driven into side of head ; eyes feel large in evening ; as of sand in eyes ; eyes as if bathed in hot water : tongue as if burned ; as of hot air passing up throat ; as of something rising from stomach causing suffocation ; sense of fainting, beginning at epigastrium ; terrible distress in epigastrium ; sense of suffocation from lung ; as if pressed by a weight in right shoulder. Pain : around eyes and in head ; from epigastrium to back and into hypochondria ; in left leg below knee ; in ankle, then in foot. Sharp pain : in left head near eye ; in lungs and pleura. Sharp cutting : in stomach. Stinging : in fauces ; in throat. Sharp twisting pains : above crest of right ileum. Smarting : in right eye ; on tongue. Scalded feeling : in fauces and tongue. Constrictive pain : across chest. Pulling sensation : over right kidney. Pressure : over right kidney ; in right shoulder. Aching : in legs. Dull pain : in left ovary. Distress : in œsophagus and scrobiculum. Tickling : in throat. Heat : in throat and lungs ; in flushes over body. Cold feeling : in lungs ; in stomach. Obesity. TOUCH. PASSIVE MOTION. INJURIES. [45] [Am. br.]. Pressure > pain over right kidney.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Troubled with the cold more than any other time during winter ; must warm feet even in warm room. Inclined to be chilly and flashes of heat. Flashes of heat over body as if sweat would come on.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Antidoted spasms caused by a low dose of Hyosc",
+        "Similar to its relatives : Amm. carb., Amm. mur., Amm. caust., Amm. phosph., and to Kali brom., Kali bichr. (stringy mucus) ; Cinnab. (scrof. ophthal, pains around orbit) ; Natr. ars. (throat) ; Kali permang. (throat) ; Zincum, Ratan., and Arg. nitr. (pterygium) ; Calc. ostr. (scrof. ophthal.) ; Kali brom. ; Silic. (aura begins in epigas.) ; Nux vom. (aura from stomach) ; Art. vulg. (must walk about) ; Caustic. ; Sulphur ; Bufo ; bromide of camphor",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "hering-guiding-1879"
+    ]
+  }
+}

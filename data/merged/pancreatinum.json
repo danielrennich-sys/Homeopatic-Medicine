@@ -1,0 +1,35 @@
+{
+  "id": "pancreatinum",
+  "names": {
+    "primary": "Pancreatinum",
+    "latin": "Pancreatinum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Pancreatinum has been used with success in conditions due to disease or faulty action of the pancreas on the analogy of Thyroidin and the other Sarcodes. Burnett says pancreatics are often of great service in gout.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Diabetes, pancreatic; Diarrhœa; Mumps; Gout; Pancreas, disease of",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: In action on pancreas and salivary glands, Ir. v., Nux, Puls., Merc., Iod., jabor., Pilocarpine. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

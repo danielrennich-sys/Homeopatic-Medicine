@@ -1,0 +1,50 @@
+{
+  "id": "piscidia-erythrina",
+  "names": {
+    "primary": "Piscidia erythrina (JACQ.)",
+    "latin": "Piscidia erythrina (JACQ.)",
+    "common": [
+      "Dogwood, Jamaica"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "West Indies, Florida, Texas, Mexico, the northern part of South America.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "A tree with very valuable wood and with the foliage and habit of Lonchocarpus. The pods bear four projecting longitudinal wings. The pounded leavesand young branches are used to poison fish the method followed is to fill an open crate with the branches, drop it into the water, and swill it about till the water is impregnated with the liquid from the leaves, etc.; this quickly stupefies the fish and enables the fishers to catch them quickly. In commerce the bark is found in quilled pieces 1 or 2 inches long and 1 inch thick. The outer surface yellow or greyish brown, inner surface lighter coloured or white, and if damp a peculiar blue colour. Inside it is very fibrous and dark brown, taste very acrid and bitter, and produces burning sensation in mouth with a strong disagreeable smell like broken opium. In 1844 attention was called to its narcotic, analgesic and sudorific properties which are uncertain.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Resin, fat, a crystallizable substance called piscidin and in the aqueous extract of the bark piscidic acid, and a bitter glucoside.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "In some subjects it cures violent toothache, neuralgia and whooping-cough and promotes sleep, and acts as an antispasmodic in asthma. It also dilates the pupil and is useful in dysmenorrhoea and nervous debility. In other subjects it only causes gastric distress and nausea; over doses produce toxic effects.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Fluid extract, 5 to 20 drops, which may be cautiously increased to 2 fluid drachms. Solid extract, 1 to 5 grains. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

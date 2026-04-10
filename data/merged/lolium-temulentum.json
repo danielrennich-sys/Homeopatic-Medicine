@@ -1,0 +1,117 @@
+{
+  "id": "lolium-temulentum",
+  "names": {
+    "primary": "Lolium Temulentum",
+    "latin": "Lolium Temulentum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "The name Darnel means stupefied, and the plant's evil reputation is of very ancient date. The symptoms are the result of observations made on persons poisoned by eating meal containing an admixture of Lol. tem. Allen mentions an assertion that Lolium is much infested with ergot, and that it is to this that the poisoning symptoms are due, the unaffected grain being inert; and Allen notes in support of this that the poisonings have been most frequently observed in low, wet districts, and during wet seasons. Provings are needed to decide this. The chief symptoms are: Confusion of mind, at times delirium; very great depression. Nausea and vomiting of the bread containing it and mucus with it. Paralysis, tremors, and convulsions. Cold rigors, internal chilliness; cold sweat. A very characteristic symptom is: Tightness in the calves; violent pain in the calves as if bound with cords. This tightness affects the rest of the legs in less degree. Bonino has cured a carpenter, 29, who had had trembling of the hands eleven years, morning. Latterly the legs also began to tremble. His father and brother were similarly affected. Merc. v. and Agar. only relieved temporarily. Lot. tem. cured.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Delirium tremens; Paralysis; Paralysis agitans; Tremor; Writer's cramp",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Difficult breathing. Gait unsteady; trembling in all limbs; unable to hold a glass of water. Spasms of arms and legs. While attempting to write, hand refused its service and he became stupid. Attempting to rise from a seat he began to stagger, was obliged to steady himself on walking along the room. Great pain and tightness in legs, esp. calves, extending to ankles, with redness, swelling, and itching of skin. Legs excessively tight and painful, swollen, inflamed, itching much for nine days, followed by a small collection of gelatinous fluid inside foot, terminating in gangrene, followed by sphacelus. Violent pain in calves as if bound with cords. General tremors. Paralysis. Restlessness. General malaise for several days. The action of Lolium is apt to be manifested in very wet seasons.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Ananth., Secale; Lath. (paralysis; wet seasons). Op. (sleep)."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Mania. Slight delirium. Depressed spirits. Anxiety and general uneasiness. Comprehension slow and difficult; distraction; confusion and stupefaction.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo; > closing eyes; with shaking in head. Dizziness, nausea, loss of speech. Intoxication. Violent sticking in head, esp. forehead and temples.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Pupils widely dilated. Vision: dim; blindness in some cases; scintillation before eyes.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Deafness. Roaring and tingling in ears. Noise like drums and cymbals.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Epistaxis.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Face: red, hot, puffy; or pale.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue: first white; then black; tremulous. Burning in mouth and throat. Speech: difficult; very imperfect; or lost. Deglutition: difficult; impossible, cannot pronounce a whole word.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea. Vomiting. Inflammation of gullet, stomach, bowels, with fever. Vomiting every half-hour, all night, portions of bread and colourless mucus, leaving disagreeable taste. Uneasiness in epigastrium, with eructations of peculiar taste. Pains in stomach, esp. a pressure in stomach-pit and abdomen. Distension. Severe colicky pains.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Severe purging. Diarrhœa; with great colic; obstinate constipation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Copious micturition.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Sticking pains in sides. Small irregular pulse.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Drowsiness. Sleep unusually heavy. Sopor.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Great internal chilliness. Cold rigors all over, esp. in limbs. Fever. Cold sweat. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

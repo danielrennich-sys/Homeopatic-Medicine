@@ -1,0 +1,44 @@
+{
+  "id": "oleum-cadinum",
+  "names": {
+    "primary": "Oleum Cadinum",
+    "latin": "Oleum Cadinum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Related entry: Juniper",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Oil of Cade, Cade Oil, Juniper Tar Oil, Oleum Juniperi Empyreumaticum.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "A product of the dry distillation of the wood of Juniperus Oxycedrus, Linné (Nat. Ord. Cupressaceae).",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Description.—A brownish or dark-brown, clear, thick fluid, having a tarry odor, and a burning empyreumatic, bitterish taste. Almost insoluble in water, partly soluble in alcohol, and wholly in chloroform and ether. It mixes well with fats and petrolatum.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—Oil of Cade is often used as an ingredient of liniments and ointments for chronic skin diseases of the scaly and moist types, as eczema, psoriasis, and prurigo, and in parasitic disorders, as favus and various types of ringworm. For favus a soapy embrocation composed of four parts each of alcohol and soft soap and one part of oil of cade is said to be convenient and effectual. The persistent and penetrating odor of oil of cade is a drawback to its use, and the oil should not be employed in acute affections of the skin.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "felter-eclectic-1922"
+    ]
+  }
+}

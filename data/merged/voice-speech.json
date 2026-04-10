@@ -1,0 +1,24 @@
+{
+  "id": "voice-speech",
+  "names": {
+    "primary": "VOICE AND SPEECH",
+    "latin": "VOICE AND SPEECH",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY VOICE AND SPEECH. Voice and speech : Aco., Bell., Brom., Canth., Carb-v., Caust., Dros., Hep., Iod., Mang., Merc., Pho., Pul., Spo., Stan., Stram., Ver-a. Voice and speech, barking : Bell., Canth., Lyc., Spo., Stram. Voice and speech, broken , cracked : Aru-t., Spo. Voice and speech, croaking : Aco. Voice and speech, deep : Dros. Voice and speech, difficult : Stram. Voice and speech, hasty : Bell., Lach. Voice and speech, hoarseness : Aco., Arg-n., Bell., Brom., Calc-c., Carb-v., Caust., Dros., Hep., Iod., Kali-bi., Kali-m., Lach., Mang., Pho., Spo., Sul. Voice and speech, hoarseness, A.M. : Caust., Mang., Sul. Voice and speech, hoarseness, P.M. : Carb-v. Voice and speech, hollow : Bell., Spo., Ver-a. Voice and speech, husky : Merc. Voice and speech, indistinct : Caust., Lyc. Voice and speech, lost [[voice]] : Am-caust., Ant-c., Carb-v., Caust., Pho. Voice and speech, low : Ang., Canth., Hep., Ver-a. Voice and speech, nasal : Bell., Lyc., Pho-ac., Stap. Voice and speech, overuse , agg. : Aru-t., Fer-p., Grap., Rhus-t., Sele. Voice and speech, rough : Pho. Voice and speech, shrill : Aco., Spo., Stram. Voice and speech, slow : Ars., Pho., Thu. Voice and speech, stammering : Bell., Stram. Voice and speech, toneless , loss of timbre : Dros. Voice and speech, tremulous : Merc. Voice and speech, weak : Ver-a. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

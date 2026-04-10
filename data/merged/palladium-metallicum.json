@@ -1,0 +1,67 @@
+{
+  "id": "palladium-metallicum",
+  "names": {
+    "primary": "PALLADIUM METALLICUM",
+    "latin": "PALLADIUM METALLICUM",
+    "common": [
+      "The Metal (PALLADIUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Weeping mood. Love of approbation. Pride; easily offended. Inclined to use violent language. Keeps up brightly when in company, much exhausted afterwards, and pains aggravated",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Feels as if swung backward and forward. Temporo-parietal neuralgia with pain in shoulder. Pain across top of head from ear to ear; worse after an evening's entertainment, with irritability and sour eructations. Sallow complexion",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Shooting pain from navel to pelvis. Sensation as if intestines were bitten off. Intestines feel strangulated. Soreness of abdomen, swelling in right groin. Flatulency",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Uterine prolapse and retroversion. Subacute pelvic peritonitis, with right-sided pain and backache; menorrhagia. Cutting pain in uterus; relieved after stool. Pain and swelling in region of right ovary. Shooting or burning pain in pelvis and bearing-down; relieved by rubbing. Soreness and shooting pain from navel of breast. Glairy leucorrhœa. Menstrual discharge while nursing. Stitches in right breast near nipple. It is indicated in that gynæcological condition where the disease had its inception in the right ovary, the uterine prolapse and retroversion, the subacute pelvic peritonitis and concomitant symptoms being secondary (F. Aguilar, M. D)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Pruritus. Tired feeling in small of back. Fleeting, neuralgic pains in extremities, Heavy and tired in limbs. Darting pain from toes to hips. Rheumatic pain in right shoulder; in right hip. Sciatica",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "relationships": {
+      "complementary": [
+        "Arg",
+        "Helon",
+        "Lil",
+        "Apis"
+      ]
+    },
+    "dosing": {
+      "notes": "Sixth to thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">PALLADIUM METALLICUM The Metal (PALLADIUM) An ovarian remedy; produces the symptom-complex of chronic Oophoritis. Useful where the parenchyma of the gland is not totally destroyed. Acts also on mind and skin. Motor weakness, averse to exercise.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

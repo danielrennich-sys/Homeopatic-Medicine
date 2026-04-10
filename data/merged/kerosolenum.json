@@ -1,0 +1,75 @@
+{
+  "id": "kerosolenum",
+  "names": {
+    "primary": "Kerosolenum",
+    "latin": "Kerosolenum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "The effects of Kerosol. have been observed on workmen, and also experiments have been made with it for the purpose of testing its anæsthetic properties. It causes a pleasurable kind of intoxication, but too much muscular rigidity, asphyxia, and intermittent pulse to render it a safe anæsthetic. Laughter was noticed in two cases, and this should prove an indication in some kinds of delirium and insanity. The symptoms are > in open air.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Anæsthesia; Convulsions; Ecstasy; Laughter",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Weakness of the limbs. Moderate convulsions. More muscular rigor than usual in favourable anæsthesia. Partially or wholly insensible, but rapidly recovers when brought into open air. Insensibility complete, though eyes not closed.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Petrol., Paraff., Benzin."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "On breathing the vapour one seems to float away into a wavy maze with a sense of complete loneliness; there seems but one object in the universe, oneself; on recovery, the first object seen seems the only other object. Laughed (after tooth extraction) and only felt he had had a pleasant dream. Lost himself, but was inclined to laugh and would not keep still.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Peculiar lightness of head. Slight headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Eyes a little unnaturally open and staring.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Momentary dusky redness of face at each convulsion (as in epilepsy).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "During the convulsions breathing somewhat checked by rigid contraction of chest muscles. Pulse: accelerated; intermittent; volume diminished during insensibility.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Some sweating. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

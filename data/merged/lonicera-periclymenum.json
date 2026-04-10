@@ -1,0 +1,35 @@
+{
+  "id": "lonicera-periclymenum",
+  "names": {
+    "primary": "Lonicera Periclymenum",
+    "latin": "Lonicera Periclymenum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Cooper has cured with Lon. peri. irritability of temper with violent outbursts; and has seen it produce the same.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Irritability",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Lon. x., Vib. tin., Vib. op., Sambucus, Symphoricarpus (botan.); Staph., Hyo., Croc. (outbursts of temper). Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

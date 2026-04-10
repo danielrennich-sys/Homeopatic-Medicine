@@ -1,0 +1,47 @@
+{
+  "id": "boricum-acidum",
+  "names": {
+    "primary": "BORICUM ACIDUM",
+    "latin": "BORICUM ACIDUM",
+    "common": [
+      "Boracic Acid"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "skin": [
+      {
+        "text": "Multiform erythema of trunk and upper extremities. Œdema around eyes. Exfoliating dermatitis. Œdema of tissues around eyes",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Climacteric flushings (Lach; Amyl nit). Vagina cold, as if packed with ice. Frequent urination with burning and tenesmus",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Third trituration"
+    },
+    "generalities": [
+      {
+        "text": "[Non-Homeopathic] When the diplococcus of Weichselbaum is present in the sputum of pharyngitis or bronchitis, pneumonia with tenacious sputum, hacking cough and pain, five-grain doses six times daily. A solution of Boracic Acid, as an injection, in chronic, cystitis, or, a teaspoonful to a glass of hot milk, taken internally. Boro-Glyceride in solution (1:40) is a powerful antiseptic. Styes, 15 gr to 1 oz water externally. As a dusting powder on ulcerated surfaces. In cystitis as an irrigating fluid",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">BORICUM ACIDUM Boracic Acid Used as an antiseptic disinfectant, since it arrests fermentation and putrefaction. Pain in region of ureters, with frequent urging to urinate. Coldness (Heloderm). Diabetes, tongue dry, red, and cracked. Cold saliva.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

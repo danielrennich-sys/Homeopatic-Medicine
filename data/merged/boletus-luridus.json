@@ -1,0 +1,35 @@
+{
+  "id": "boletus-luridus",
+  "names": {
+    "primary": "Boletus Luridus",
+    "latin": "Boletus Luridus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T BOLETUS LURIDUS. B. luridus, Fries. (B. nigrescens, Pall., etc.) Nat. order , Fungi. Common names , German, Hexenpilz, Feuerpilz, etc.; French Fauxceps, or Oignon de loup. Preparation , Triturations. Authority. Delle Chiaje, Tossicologia, p. 143 (from Boudier, by Husemann, p. 158), effects of eating the roasted fungi. ► Delirium, followed by death (fourth day). ► Headache. ► Sunken features (second day). ► A violet color of the nose and lips (third day). ► Intense thirst. ► Violent pain in the epigastrium (after two hours). ► Meteorismus (third day). ► Exceedingly fetid stool (third day). ► Pulse small, irregular (second day). ► Subsultus tendinum (fourth day). ► Urticaria tuberosa (speedily followed by death), (third day). ► Cold sweat (second day). Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Urticaria tuberosa",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Poisoning effects show delirium; sunken features; violet colour of nose and lips; intense thirst; violent pain in epigastrium; meteorism; subsultus tendinum; urticaria tuberosa (speedily followed by death); cold sweat. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

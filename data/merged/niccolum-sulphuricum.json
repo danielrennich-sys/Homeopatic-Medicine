@@ -1,0 +1,60 @@
+{
+  "id": "niccolum-sulphuricum",
+  "names": {
+    "primary": "NICCOLUM SULPHURICUM",
+    "latin": "NICCOLUM SULPHURICUM",
+    "common": [
+      "Sulphate of Nickel"
+    ],
+    "synonyms": [
+      "Niccolum Sulphuricum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Nervous, uneasy, desire to recline, tired, cannot settle down to any occupation. Periodic headaches, occipital pain, extending down to spine, worse lying on back; sore pain in eyes",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Stiff, numb sensation, worse in neck. Spine sore. Awakened in morning with burning soles, Spinal pains, legs and arms heavy and weak, cannot lie on back",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Dull aching in ovaries, with sensation as if menses appear. Hot flashes, followed by perspiration on parts touching each other, when separated become dry",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Second trituration"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">NICCOLUM SULPHURICUM Sulphate of Nickel Useful in climacteric disturbances. Periodic neuralgias of malarial origin. Urine and saliva increased. Coppery taste. Weak, asthenopic literally persons with weak digestion and constipation, are worse in morning and suffer from periodic headaches and hoarseness.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "J. Y. Simpson cured with Ni. s. periodical headaches of very severe character. Hale used with success the 2x trit. in periodic neuralgias of malarial origin. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Headache; Neuralgia, periodic",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "azadirachta-indica",
+  "names": {
+    "primary": "AZADIRACHTA INDICA",
+    "latin": "AZADIRACHTA INDICA",
+    "common": [
+      "Margosa Bark"
+    ],
+    "synonyms": [
+      "Azadirachta Indica"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Forgetful; giddy on rising; head aches, scalp sensitive; eyes burn, pain in right eyeball",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Giddiness as if head were moving to and fro, rising from sitting. Much throbbing headache, r. side, with much pain in r. eyeball; in open air. The scalp is painful and sensitive to touch, even the hair is painful.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Slight chill, afternoon fever, glowing heat in face, hands, and feet, copious sweat on upper part of body",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Chill slight or absent; fever continues from 3 or 4.30 p.m. to 7.30 p.m. Glowing heat and burning, esp. in face, eyes, palms of hands and soles of feet in open air. Sweat copious, commencing on forehead, gradually extending towards trunk; no sweat on lower part of body. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">AZADIRACHTA INDICA Margosa Bark An afternoon fever and rheumatic pains in various parts are caused by this remedy. Pain in sternum and ribs, in back and shoulders and extremities; heat, pricking and aching in hands, especially palms, fingers, also toes.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "This is an Indian remedy of very ancient date. All parts of the tree are intensely bitter, and the separate parts are said to have different effects. The bark, known as Margosa Bark, is the best-known medicinal portion, and the tincture for the provings was made from this by Dr. P. C. Majumdar, who is our chief authority for its effects. It contains Azadirin, Margosin and Catechin. It is popularly used in a great variety of complaints, especially of the eyes, digestive derangements, and skin affections. The most peculiar feature of the proving is the fever, which commences with a very slight chill or none at all, about 3 to 4.30 p.m., and abates about 7.30 p.m. Glowing heat and burning, especially in face, eyes, palms of hands and soles of feet in open air; sweat copious, commencing on forehead, gradually extending towards trunk; no sweat on lower part of body. It is especially useful in cases previously maltreated with quinine. In open air; in afternoon.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Constipation; Diarrhœa; Intermittent fever; Quinine, effects of; Spleen, congested",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Troublesome cough after bathing. Sputa white, in small lumps, expelled with difficulty. Numbness of hands and feet.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Cedron, China, Ars., Nat. m. Also Guarea which belongs to the same botanical order."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "The mind is depressed and forgetful; uneasiness; desire to lie down.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Burning in eyes and coryza.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "A buzzing in ears (recalling the effect of Peruvian bark). A peculiar crackling sound in the ear like tickling with a feather, on opening the mouth.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Clammy mouth, but water tastes good. Sensation as if scalded on side and surface of tongue. Salty tasting saliva. Bitter taste in throat.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Very keen appetite. There may be no thirst, or very great thirst for large quantities of cold water. Great thirst at long intervals. Craving for sweets. In the abdomen there are twisting pains in the epigastrium, and clutching pains in umbilical region. Burning in the bowels.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Insufficient, constipated, hard, small, and knotty stool. Diarrhœa with no satisfaction after stool. Passing of offensive flatus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Great sexual excitement.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Cramping pains in chest. Breathing deep and at long intervals; or rapid and hot breath. Burning sensation in chest.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Much itching of body; burning and prickling; sudamina on back.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Dreams of quarrels.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

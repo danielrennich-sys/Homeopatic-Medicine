@@ -1,0 +1,59 @@
+{
+  "id": "skatolum",
+  "names": {
+    "primary": "SKATOLUM",
+    "latin": "SKATOLUM",
+    "common": [
+      "(SKATOL)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Lack of concentration; impossible to study; despondent; desire to be with people. Irritable. Felt mean towards everyone",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Frontal headache, worse over left eye, in the evening, better by short sleep",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Gastric] Tongue coated, foul taste. Salty taste to all cereals. Belching. Appetite increased. Light, yellow, narrow, very offensive stool. Intestinal dyspepsia",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Frequent, scanty, burning, difficult",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Increased desire to sleep; wakes unrefreshed, half doped feeling",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Sixth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">SKATOLUM (SKATOL) Represents the ultimate end of proteid decomposition and is a constituent of human feces. Acne with auto-intoxication dependent upon intestinal decomposition. Stomach and abdominal symptoms and frontal headache. Sluggishness with no ambition. Desire to curse and swear.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

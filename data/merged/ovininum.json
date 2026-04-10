@@ -1,0 +1,29 @@
+{
+  "id": "ovininum",
+  "names": {
+    "primary": "OVININUM",
+    "latin": "OVININUM",
+    "common": [
+      "Ovarian Extract (OOPHORINUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Low triturations"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">OVININUM Ovarian Extract (OOPHORINUM) Suffering following excision of the ovaries. Climacteric disturbances generally. Ovarian cysts. Cutaneous disorders and acne rosacea. Prurigo.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Raw scraped data (too large for git, can be re-fetched)
+data/raw/
+
+# Processed intermediaries (rebuilt by merge script)
+data/processed/
+
+# Environment / secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/

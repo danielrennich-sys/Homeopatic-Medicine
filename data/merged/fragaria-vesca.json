@@ -1,0 +1,147 @@
+{
+  "id": "fragaria-vesca",
+  "names": {
+    "primary": "FRAGARIA VESCA",
+    "latin": "FRAGARIA VESCA",
+    "common": [
+      "Wood-strawberry (FRAGARIA)",
+      "Strawberry"
+    ],
+    "synonyms": [
+      "Fragaria Vesca",
+      "Fragaria vesca (LINN.)",
+      "Fragaria vesca"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "mouth_throat": [
+      {
+        "text": "Tongue swollen; strawberry tongue",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Tongue swollen so that it hung from the mouth. Pippy or strawberry tongue. 11.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Urticaria; petechial and erysipelatous eruptions. Swelling of whole body",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Petechial eruption. Erysipelatous eruption. Urticaria-like eruption.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">FRAGARIA VESCA Wood-strawberry (FRAGARIA) Acts on digestion and mesenteric glands. Prevents formation of calculi, removes tartar from teeth and prevents attacks of gout. The fruit has refrigerant properties. Strawberries produce symptoms of poisoning in certain susceptible individuals, such as urticarial rashes (strawberry anaphylaxis). Here give Fragaria high potency. Chilblains; worse during hot weather. Lack of mammary secretion. Psilosis (Spruce).",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "It is well known that many persons are unable, to eat strawberries, and the poisonous effects resulting from them on those who are sensitive to their action have been utilised in homœopathy. Faintness; suffocation like apoplexy; convulsions and death have resulted; general anasarca, and especially swollen tongue. The well-known \"strawberry tongue\" is an indication for its use. Dr. Burnett gives it as \"pippy tongue.\" An infusion of the root is used for drying up the breasts in women who wish to wean their children; it diminishes the size of the breasts and dries up the milk. Profuse viscid sweat has been observed. Lippe mentions: \"Tapeworm. Pain in chilblains in hot weather.\" In old physic Fragaria vesca (in decoctions of leaves, root, or fruit ripe or unripe, or combinations of these) had a very large place assigned to it. It is commended by W. Salmon as a wash for sore-mouth; as a hæmostatic arresting the menses and stopping \"bloody-flux;\" swelling of the spleen; many forms of skin eruption and for \"clearing the complexion.\" In two instances I have known indulgence in strawberries to revive symptoms of gonorrhœa in men who thought themselves cured. A number of cases of sprue or psilosis have been cured by a diet of strawberries ad libitum (H. W., xxxiv. 440).",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "The Wild Strawberry, a delicate, thin-leaved plant, with small, scarlet berries, cone-shaped and studded with tiny, brown 'seeds,' has a fragrance and flavour more delicate even than the cultivated Strawberry. It chooses a slightly sheltered position, and, being very small, considerable labour goes to the collection of its fruit, which is much more used and appreciated in France than in Great Britain. 1629 is the date assigned to the introduction of the Scarlet Strawberry from Virginia, and the earliest mention of the Strawberry in English writings is in a Saxon plant list of the tenth century, and in 1265 the 'Straberie' is mentioned in the household roll of the Countess of Leicester. 'Strabery ripe,' together with 'Gode Peascode' and 'Cherrys in the ryse,' were some of the London cries mentioned by Lydgate in the fifteenth century. Ben Jonson, in a play written in 1603, speaks of: 'A pot of Strawberries gathered in the wood To mingle with your cream.' The common idea that the word Strawberry is derived from the habit of placing straw under the cultivated plants when the berries are ripening is quite erroneous. The name is older than this custom, and preserves the obsolete preterit 'straw' of the verb 'to strew,' referring to the tangle of vines with which the Strawberry covers the ground.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Fragaria vesca. Tape-worm. Pain in the chilblains during the hot season. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Anasarca; Biliousness; Chilblains; Convulsions; Erysipelas; Gonorrhœa; Psilosis (or Sprue); Tapeworm; Tongue, strawberry; swollen; Urticaria; Weaning",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Attacks of suffocation like apoplexy. Swelling of the whole body. Swelling of the whole body with faintness. Complete prostration. Convulsions.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Hydrocy. ac., Apis, Arsen., Cratæg."
+      ]
+    },
+    "face": [
+      {
+        "text": "Face reddish blue. Livid countenance.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Vomiting followed by relief. Stomach and abdomen distended. Violent colic.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Gonorrhœal discharge lighted up after long cessation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Breasts diminished in size and milk dried up (root).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Small intermittent pulse. Failure of the heart's action and prolonged, leaving the patient weak and languid. (Death occurred later.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Neck very much distended with fine veins.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Profuse viscous sweat. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "The whole of the Northern Hemisphere, exclusive of the tropics.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Cissotanic, malic, and citric acids, sugar, mucilage and a peculiar volatile aromatic body uninvestigated. Bacon found in the odour of the dying leaves 'a most excellent cordial smell,' next in sweetness to the muskrose and violet. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Laxative, diuretic, astringent. Both the leaves and the fruit were in early pharmacopoeias, though the leaves were mostly used. The fruit contains malic and citric acids, a volatile matter, sugar, mucilage, pectin, woody fibre and water. It is easily digested and is not subject to acetous fermentation in the stomach. In feverish conditions the fruit is invaluable, and is also recommended for stone. Strawberry vitamins are of value in sprue. Culpepper declares the plant to be 'singularly good for the healing of many ills,' but Linnaeus was the first to discover and prove the efficacy of the berries as a cure for rheumatic gout. The root is astringent and used in diarrhoea. The leaves have the same property, and a tea made from them checks dysentery. The stalks only entered into the composition of the once-famous Antioch drink and vulnerary. Some recipes order that the drink should be prepared between the feasts of St. Philip and St. James and the Nativity of St. John the Baptist. The Strawberry is a useful dentifrice and cosmetic. The fresh fruit removes discoloration of the teeth if the juice is allowed toremain on for about five minutes and the teeth are then cleansed with warm water, to which a pinch of bicarbonate of soda has been added. A cut Strawberry rubbed over the face immediately after washing will whiten the skin and remove slight sunburn. For a badly sunburnt face it is recommended to rub the juice well into the skin, to leave it on for half an hour, and then wash off with warm water to which a few drops of simple tincture of benzoin have been added; no soap should be used.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Infusion, 1 to 2 tablespoonsful. AN OLD RECIPE 'Gather strawberry leaves on Lamas Eve, press them in the distillery until the aromatick perfume thereof becomes sensible. Take a fat turkey and pluck him, and baste him, then enfold him carefully in the strawberry leaves. Then boil him in water from the well, and add rosemary, velvet flower, lavender, thistles, stinging nettles, and other sweet-smelling herbs. Add also a pinte of canary wine, and half a pound of butter and one of ginger passed through the sieve. Sieve with plums and stewed raisins and a little salt. Cover him with a silver dish cover.' Purchase from Richters Alpine Strawberry (Fragaria vesca 'Ruegen') Seeds and Plants Climbing Strawberry (Fragaria 'Albion') Plants White Soul Strawberry (Fragaria vesca 'White Soul') Seeds and Plants Wild Strawberry (Fragaria vesca) Seeds and Bulk Dried Leaves Yellow Wonder Strawberry (Fragaria vesca 'Yellow Wonder') Seeds",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "grieve-modern-herbal-1931",
+      "lippe-textbook-mm-1866"
+    ]
+  }
+}

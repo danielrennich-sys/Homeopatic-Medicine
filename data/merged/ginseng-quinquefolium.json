@@ -1,0 +1,59 @@
+{
+  "id": "ginseng-quinquefolium",
+  "names": {
+    "primary": "GINSENG QUINQUEFOLIUM",
+    "latin": "GINSENG QUINQUEFOLIUM",
+    "common": [
+      "Aralia Quinquefolia-Wild Ginseng-Panax (GINSENG)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Vertigo, with gray spots before eyes; semi-lateral headache; occipital; difficult opening of eyelids; objects appear double",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tonsillitis, just like Bellad, but in dark-complexioned people",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Tense, painful, rumbling. Pain in right side. Loud gurgling in ileo-cæcal region. Perityphlitis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Rheumatic pains after frequent emissions. Weakness of genital organs. Voluptuous tickling at end of urethra. Sexual excitement. Pressure in testicles",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Hands feel swollen. Skin feels tight. Contraction. Coldness in back and spine. Bruised pain in small of back and thighs; nightly digging in right lower limb to toes. Burning heat in tips of fingers. Eruption on upper inner thighs. Stiff, contracted joints, heaviness of lower limbs. Crackling in joints. Stiffness in back",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture, to third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">GINSENG QUINQUEFOLIUM Aralia Quinquefolia-Wild Ginseng-Panax (GINSENG) Said to be a stimulant to the secretory glands, especially salivary. Acts on the lower part of the spinal cord. Lumbago, sciatica, and rheumatism. Paralytic weakness. Hiccough. Skin symptoms, itching pimples on neck and chest.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

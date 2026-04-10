@@ -1,0 +1,135 @@
+{
+  "id": "yohimbinum",
+  "names": {
+    "primary": "YOHIMBINUM",
+    "latin": "YOHIMBINUM",
+    "common": [
+      "Coryanthe Yohimbe"
+    ],
+    "synonyms": [
+      "Yohimbinum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Agitation, with flying sensations of heat in face. Disagreeable, metallic taste. Copious salivation. Nausea and eructation",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Sexual] Strong and lasting erections. Neurasthenic impotence. Bleeding piles. Intestinal hæmorrhage. Urethritis",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Clinical: Diuresis; Heart, palpitation of; Impotence; Priapism",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Hands trembled, he could scarcely write, and his writing was illegible.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Rigor; intense heat, waves of heat and chilliness, tendency to sweat",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Three hours after the dose (5 mgr.), flying sensations of heat, true vapours (vapeurs) which heightened the complexion; afterwards the same phenomena in the back, heart region, and lower abdomen, so that in spite of the cold weather the prover was inconvenienced by the intense heat and tendency to sweat. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleepless. Thoughts of events of whole past life keep him awake",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "No sleep all night.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "dosing": {
+      "notes": "As a sexual stimulant, ten drops of a one per cent solution, or hypodermic tablets of 0. 005 gm. Homeopathic dose, third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">YOHIMBINUM Coryanthe Yohimbe Excites sexual organs and acts on central nervous system and respiratory center. An aphrodisiac, used in physiological doses, but contraindicated in all acute and chronic inflammations of abdominal organs. Homeopathically, should be of service in congestive conditions of the sexual organs. Causes hyperæmia of the milk glands and stimulates the function of lactation. Menorrhagia.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The natives of West Africa discovered a potent aphrodisiac in the bark of the Yohimbeha tree, and from this an active principle, Yohimbin, has been isolated and tested in Europe (Therapist, December 15, 1900). It is a powerful stimulant of the genital function in males. In animals it causes increased liveliness and cheerfulness, hyperæmia of the conjunctiva, heat and redness of the ears, and of the nose also in dogs. Lambreghts (J. Belge d'H., viii. 188) relates the case of a young man, 28, \"thin, anæmic, nervous, and partially impotent,\" who took a 5-mgr. tablet one morning, another in the evening, and a third the following, morning. The symptoms of the Schema are his, and they were so severe that he discontinued the drug in spite of a certain amelioration of the sexual neurasthenia. Yohim. set up symptoms of fever, disordered the digestion, caused agitation and tremors, and increased the action of the heart. Eulenburg (Deut. Wed. Woch., April 25, 1901, quoted B. M. J.) used Yohim. in 10-drop doses of a 1 per cent. solution, and in 5-mgr. tablets, \"in cases of neurasthenic impotence with excellent results.\" Yohim. should be a homœopathic remedy in priapism and congestive states of the sexual organs.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Erections, Pic. ac., Pho., Graph., Canth., Hdfb."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Intense agitation, with trembling.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Flying sensations of heat, heightening the colour.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue covered with a yellow coat. Disagreeable metallic taste.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Appetite almost completely disappeared. Flying heats in abdomen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Stools frequent, liquid, black, and bilious.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urine clear, abundant, foamy, no trace of albumen; had to rise three times in the night.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "In the morning strong and lasting erections without increase of desire. Sexual neurasthenia, with impotence, is relieved. Enlargement of testicles and epididymis (animals).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Flying sensation of heat in heart. Heart-beats more intense and more frequent; pulse, normally 80, became 108.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Flying heat in back.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

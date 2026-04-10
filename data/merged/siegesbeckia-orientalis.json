@@ -1,0 +1,44 @@
+{
+  "id": "siegesbeckia-orientalis",
+  "names": {
+    "primary": "Siegesbeckia orientalis (LINN.)",
+    "latin": "Siegesbeckia orientalis (LINN.)",
+    "common": [
+      "Siegesbeckia"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Juice, leaves, and whole plant.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "A small composite plant or small shrub growing in hot climates. The heads are small with an involucre of five bracts covered with very sticky glandular hairs. The secretion continues till after the fruit is ripe and aids in its distribution, the whole head breaking off and attaching itself to some passing animal. In China it is a common weed. The drug contains a white crystalline body resembling salicylic acid.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Used by Creoles as a protective covering for wounds, burns, etc. The juice when applied to the skin leaves a coating similar to that of collodion. Creoles call it 'Colle Colle' - Stick Stick. In China it is used as a remedy for ague, rheumatism, and renal colic; used in Britain chiefly as a cure for ringworm in conjunction with glycerine. Used in Mauritius Islands for syphilis, leprosy, and various skin diseases.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "10 minims of the fluid extract.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

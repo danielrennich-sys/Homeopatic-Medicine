@@ -1,0 +1,63 @@
+{
+  "id": "ambrosia-artemisiaefolia",
+  "names": {
+    "primary": "Ambrosia Artemisiæfolia",
+    "latin": "Ambrosia Artemisiæfolia",
+    "common": [
+      "Rag-Weed (AMBROSIA)"
+    ],
+    "synonyms": [
+      "AMBROSIA ARTEMISIAEFOLIA"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "AMBROSIA ARTEMISIÆFOLIA.",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "color=\"#800000\">AMBROSIA ARTEMISIAEFOLIA Rag-Weed (AMBROSIA) A remedy for hay-fever, lachrymation and intolerable itching of the eye-lids. Some forms of whooping-cough. Respiratory tract in its entire length stopped up. Many forms of diarrhœa, especially during summer months, also dysentery.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Dr. E. T. Marsh and another experimenter suffered severely from symptoms of coryza and hay-fever whilst observing the pollen of this plant. It should therefore be of service in similar affections. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T AMBROSIA ARTEMISIÆFOLIA. Ambrosia artemisiæfolia, L. Natural order , Compositæ. Common name , Rag-weed. Dr. E. J. Marsh, New Remedies, vol. v, 1876, p. 273. For the past three years I have experimented, intentionally and accidentally, and produced all the earlier symptoms of hay fever, severe coryza, etc., by the direct application of the pollen to the mucous membrane of the nose. For instance, last week, I wished to observe the pollen of another variety of Ambrosia \"trifolia\" or giant rag-weed. I gathered a few heads and put them in water to ripen, then examining the dust pollen under a microscope, and not taking care to prevent it flying in the air, suffered all that day with coryza. I tried the experiment two years ago in the same way, by ripening it prematurely, while I was still well and unaffected, and with the same serious consequences. After going to the White Mountains, and being entirely recovered, I found a small patch of rag-weed, and with another victim made the same experiment, and equally successfully, so successfully that we suffered several days. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Coryza; Hay-fever",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Watery coryza; sneezing; watery discharge. Nosebleed. Stuffed up feeling of nose and head. Irritation of trachea and bronchial tubes, with asthmatic attacks (Aral; Eucalypt). Wheezy cough",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Smart and burn. Lachrymation",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture, to third potency; 10 drops in water during and after attack of epistaxis. In hay-fever high potencies"
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ostrya-virginica",
+  "names": {
+    "primary": "OSTRYA VIRGINICA",
+    "latin": "OSTRYA VIRGINICA",
+    "common": [
+      "Ironwood"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "[Gastric] Tongue yellow; coated at the root. Loss of appetite. Frequent nausea, with dull, frontal headache. Sickening pains",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "First to third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">OSTRYA VIRGINICA Ironwood Of great value in anæmia from malaria. Bilious conditions and intermittent fever.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

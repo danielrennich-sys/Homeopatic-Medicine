@@ -1,0 +1,84 @@
+{
+  "id": "mitchella-repens",
+  "names": {
+    "primary": "MITCHELLA REPENS",
+    "latin": "MITCHELLA REPENS",
+    "common": [
+      "Partridge-berry (MITCHELLA)",
+      "Squaw Vine"
+    ],
+    "synonyms": [
+      "Mitchella repens (LINN.)",
+      "Mitchella Repens"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "urinary": [
+      {
+        "text": "Irritation at neck of bladder, with urging to urinate (Eup purp; Apis). Dysuria. Catarrh of bladder",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Increased quantity of urine, specific gravity as high as 1040, reaction acid. Urging to urinate ; urine high colored ; white sediment. Dull aching pain over region of kidneys. Swollen and irritated condition of urethra and neck of bladder. Catarrh of bladder, especially in women. Dysuria accompanying uterine complaints.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Cervix dark red, swollen. Dysmenorrhœa and uterine hæmorrhage; blood bright red",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Engorged uterus ; hemorrhage, bright in color, associated with dysuria. Engorgement of uterus, from lack of tone in muscular wall of organ. Amenorrhœa ; dysmenorrhœa ; menorrhagia. Cervix engorged, dark red, swollen, associated with an irritation at neck of bladder, with urging to urinate. Delayed menstruation. PREGNANCY. PARTURITION. LACTATION. [24] [Mit.]. False labor pains in last month of pregnancy. Slow, feeble and inefficient labor pains.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">MITCHELLA REPENS Partridge-berry (MITCHELLA) Bladder symptoms accompany complaints, especially uterine congestion.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The plant grows in dry woods, among hemlock timber, and in swampy places; in flower in June and July. The leaves resemble those of clover and remain green throughout the winter. The fruit or berry also remains bright scarlet, is edible, and nearly tasteless, dry, and full of stony seeds. The use of the drug is peculiarly American.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "It has been found to contain resin, wax, mucilage, dextrin, and what appears to be saponin.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Parturient, diuretic, tonic, astringent. Beneficial in all uterine complaints. It resembles in its action pipsissewa (Chimaphila), for which it is often substituted. It is taken by Indian women for weeks before confinement, in order to render parturition safe and easy. A herbal physician should be consulted for a safe and effectual preparation. It is used in dropsy, suppression of urine, and diarrhoea. The following preparation is a cure for sore nipples: 2 OZ. of the herb (fresh, if possible), 1 pint of water. Make a strong decoction, strain, and add an equal quantity of good cream. Boil the whole down to the consistency of a soft salve, and when cool, anoint the nipple every time the child is removed from the breast.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "In last month of pregnancy : false labor pains. Dull aching pain over region of kidneys. False labor pains. Slow, feeble and inefficient labor pains.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare : Asclepias. in, Cauloph., Chimaph., Cimicif Eupat. purp., Helon., Pulsat., Senec., Uva ursi",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "grieve-modern-herbal-1931",
+      "hering-guiding-1879"
+    ]
+  }
+}

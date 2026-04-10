@@ -1,0 +1,60 @@
+{
+  "id": "galega",
+  "names": {
+    "primary": "Galega",
+    "latin": "Galega",
+    "common": [
+      "Goat's Rue"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Galega, as its name implies, has an ancient reputation as a milk-gland stimulant. The Galegæ are nearly related to Glycyrrhiza, the well-known source of liquorice. Carron de la Carrière (H. W., xxvii. 79) tested its action on the milk glands of nursing women and found it rapidly increased the quantity and quality of the milk and increased the woman's appetite. Dorretta (H. W., xxix. 177) gave Galega (he calls it \"Galega vera,\" but doubtless it is Goat's-rue), in liquid extract of the leaves, for a common form of backache, which he located in the kidneys, though it is unaccompanied by any sign of kidney disease. The medicine he says is also a most excellent reconstructive in cases of anæmia and impaired nutrition.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Backache; Debility; Kidney ache; Lactation",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Agnus. c., Calc. c.; in kidney-ache, Santal. Copyright © Médi-T ® 2000 Main"
+      ]
+    },
+    "indications": [
+      {
+        "text": "The herb of Galega officinalis, Linné. Nat. Ord.—Leguminosae. COMMON NAME: Goat's rue.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source and History.—This is an herbaceous plant, native of southern Europe. It has an erect, perennial, glabrous stem, about 3 feet high, and is found growing mostly in sandy soil. The leaves are alternate, oddly pinnate, and furnished at the base with lanceolate stipules. The leaflets are smooth, lanceolate and terminate in a mucronate point. The flowers appear in June and July, are blue, and borne in loose, axillary racemes longer than the leaves. The calyx has 5 narrow, equal lobes. The corolla is papilionaceous with an obtuse keel. The stamens are united in one set; the filament of the tenth, however, is distinct for about one-half its length. The fruit is a dry, round, smooth, many-seeded legume.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Tephrosia virginiana, Persoon (see Tephrosia), a plant formerly referred to the genus Galega, is a native of the United States, and the root, which is slender and very tough, is reputed to be an anthelmintic. We can not find that either of the aforenamed plants have been examined chemically.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Galega has a disagreeably bitter taste, and upon being chewed, imparts a dark-yellowish color to the saliva. Various properties were attributed to it in former times, in which it was considerably employed as a vermifuge, as a stimulant to the nervous system, as a diuretic and tonic in typhoid conditions, and is also stated to have been of service in the plague, as well as to stimulate the lactiferous vessels to an increased secretion during the period of lactation. It is, seldom, if ever, prescribed in practice.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900",
+      "kings-american-1898"
+    ]
+  }
+}

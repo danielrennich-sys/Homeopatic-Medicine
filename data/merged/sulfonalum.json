@@ -1,0 +1,77 @@
+{
+  "id": "sulfonalum",
+  "names": {
+    "primary": "SULFONALUM",
+    "latin": "SULFONALUM",
+    "common": [
+      "A Coal-tar Product (SULFONAL)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Mental confusion, incoherency, illusions; apathetic. Alternation of happy, hopeful states with depression and weakness. Extreme irritability",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Dropsy, stupid; pain on attempting to raise head. Double vision; heavy look about eyes; tinnitus, aphasia; tongue as if paralyzed. Eyes bloodshot and restless. Vertigo, unable to rise. Double vision; ptosis; tinnitus; dysphagia, difficult speech",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Albuminuria, with casts. Scanty. Pink color. Constant desire to urinate; scanty, brownish red. Hæmato-porphyrinuria",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Congestion of lungs; stertorous breathing. Sighing dyspnœa",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Ataxic movements, staggering gait; cold, weak, trembling; legs seem too heavy. Extreme restlessness; muscular twitchings. Knee-jerks disappear. Stiffness and paralysis of both legs. Anæsthesia of legs",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Fidgety, wakeful, drowsy. Insomnia",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching, bluish purpura. Erythema",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Third trituration"
+    },
+    "generalities": [
+      {
+        "text": "[Non-Homeopathic] As a hypnotic. Dose, ten to thirty grains in hot water. Takes about two hours to act",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">SULFONALUM A Coal-tar Product (SULFONAL) Vertigo of cerebral origin, cerebellar disease, ataxic symptoms and chorea, present a field for the homeopathic employment of this drug. Profound weakness, gone, faint feeling, and despondency. Loss of control of sphincter. Muscular inco-ordination.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

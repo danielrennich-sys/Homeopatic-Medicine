@@ -1,0 +1,92 @@
+{
+  "id": "rhamnus-catharticus",
+  "names": {
+    "primary": "Rhamnus Catharticus",
+    "latin": "Rhamnus Catharticus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T RHAMNUS CATHARTICUS. Rhamnus catharticus, Linn. Natural order , Rhamnaceæ. Common names , Buckthorn; (G.), Wegdorn; (F.), Nerprun, Bourguépine. Preparation , Tincture or fluid extract of the ripe berries. Authorities. 1 , All. Zeit. f. Hom., 2, 139, 1850; 2 , Leopold, Casp. Woch., 1850 (S. J., 68, 180), effects of the berries, in a boy. EYE. ► Eyes glistening and injected, [2] . FACE. ► Trembling of the lips, [2] . ► Symptoms of commencing trismus, [2] . MOUTH. ► Coated tongue, [1] . ► Extremely bitter taste, [1] . THROAT. ► Scraping in the throat, [1] . STOMACH. ► Complete loss of appetite, [1] . ABDOMEN. ► Violent rumbling and griping, especially cutting pains in the ileo-cæcal region and in the transverse colon, [1] . ► The abdomen became hard and distended, [2] . [10.] ► Abdomen tympanitic, [1] . ► Colic, [2] . STOOL. ► Diarrha, [2] . ► Liquid stools, [1] . URINARY ORGANS. ► Urine highly colored, [1] . RESPIRATORY ORGANS. ► Respiration short and anxious, [2] . PULSE. ► Pulse variable, [2] . EXTREMITIES. ► Weakness and prostration in all the limbs, [1] . GENERALITIES. ► The boy was unable to rise, could not walk; he seemed to endeavor to press the head against the wall of the room, [2] . FEVER. ► Violent chilliness, [1] . [20.] ► Skin at one time warm, at another cold, [2] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Appendicitis; Colic; Constipation; Diarrhœa; Tympanites; Typhlitis",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Respiration short, anxious. Weakness and prostration in all limbs. Unable to rise; seemed to desire to press his head against the wall.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The common Buckthorn produces black, shiny, four-sided berries, with an acrid taste. From these a syrup is made, and forms the Rhamni succus of the old school. It produces \"copious watery stools and occasions a good deal of nausea and severe tormina. Was formerly given in dropsy, but owing to the severity of the drug is now little used\" (Milne). The Schema is made up of symptoms observed in a boy poisoned by eating the berries. The ileo-cæcal symptoms seem to point to it as a possible remedy in cases of appendicitis. Homœopaths have found Rham. cath. Ø in doses of a few drops a useful palliative in cases of constipation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Cascara, Cean. In appendicitis, Ir. t."
+      ]
+    },
+    "eyes": [
+      {
+        "text": "Eyes glistening and injected.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Trembling of lips. Commencing trismus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Coated tongue. Extremely bitter taste. Scraping in throat.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Complete loss of appetite. Violent rumbling and griping, esp. cutting pains in ileo-cæcal region and in transverse colon. Colic. Abdomen hard; tympanites.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Diarrhœa. Liquid stools.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urine highly coloured.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pulse variable.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Violent chilliness. Skin at one time warm, at another cold. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

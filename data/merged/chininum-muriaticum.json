@@ -1,0 +1,162 @@
+{
+  "id": "chininum-muriaticum",
+  "names": {
+    "primary": "Chininum Muriaticum",
+    "latin": "Chininum Muriaticum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T CHININUM MURIATICUM. Hydrocholorate of chinin. Formula , C 20 H 24 N 2 O 2 ,HCl+2H 2 O (Hesse). Preparation , Triturations. Authorities. 1 , Kerner, when perfectly well, took 1.6 gramme, Binz \"das Chinin,\" 1875; 2 , Zuntz took 1.8 gramme in three doses in rapid succession, ibid. ► Urea diminished 39 per cent. (a result deduced from examining the urine for three days before and four days after taking the Chinin. mur.), [2] . ► The collective amount of nitrogenous matter in the urine was diminished 24 per cent.; the sulphuric acid (mostly derived from albumen) was diminished 39 per cent., while the amount of water in the urine was increased, [1] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Alcoholism; Eye: neuralgia of; Gastritis; Headache; Intermittents; Iritis; Keratitis; Neuralgia; Pannus; Sclerotitis; Tobacco, effects of; Trachoma",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Fatiguing cough with rattling in bronchi until exhaustion. Intolerable restlessness; driving him out of the house. Extensive prostration. Symptoms recurred at regular periods; returned long after drug was discontinued.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Periodic pain in and around eyes. Paroxysms of pain daily at 5 P. M. θ Sclerotitis rheumatica. Intermitting pains : pannus. Intense pain : in and around eyes. Neuralgic pains : in iritis and other eye affections. A widow, æt. 54, phlegmatic constitution ; intermittent fever, following broncho-pneumonia.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Chi. mur. resembles Chi. ars. very closely. An excellent proving by old-school authorities was published in Virchow's Archiv., and is translated in C. D. P. It has been used in eye affections, especially when accompanied by severe neuralgic intermitting pains in and around eyes, with chills; lachrymation, photophobia, ulceration of cornea of malarial origin. Intermittent fever following broncho-pneumonia; shaking chill 5 a.m. accompanied by fatiguing cough, rattling in bronchi without expectoration. In one prover it caused an exaggerated sensitiveness to alcohol and tobacco. Two glasses of beer make him tipsy. Prostration and weakness are marked in all provers and accompany the headaches and other symptoms. There is a feeling of enlargement─in eyeballs, in tongue, head symptoms are > after a walk.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Chi. sul., Chi. ars., Nat. m. (headaches). Antidoted by: Fer. oxid.",
+        "Compare : Chin. sulph. (Chin. mur. cured intermittent following broncho-pneumonia when Chin. sulph. failed.)",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Exhausted, apathetic, listless. Anxiety and excitement, with increased heart-beat. Depressed. Restlessness increased to anxiety; startled by every step on the stair or knock on the door. Disinclination to work. Irritable, depressed. Weakness and stupidity.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Confused head, pressure, vertigo; on looking at bright objects. Great thirst, noise in ears, vertigo on rising. Headache recurs every morning, esp. severe over l. supra-orbital border. Slight l. sided headache every morning lasting till noon. Headache reappeared at same hour, with flashing before eyes. Feeling of weight about head, extreme drowsiness. Violent raking pains in head, only slightly > by a walk. Orbital pain recurred regularly 3 p.m. to 5 p.m. Numbness and fatigue in head. Headache > by beer.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Conjunctivæ injected, lids adherent; feeling as if eyeball too big for orbit as if sand in eye. Fatigued by reading. Eyes feel as if not open enough as if something pinched upper lids down preventing distinct vision; flickering before eyes. Intense pain in and around eyes, periodic, accompanied by chills. Lachrymation, photophobia, violent paroxysms of pain daily 5 p.m. Ulceration of cornea from malaria, or anæmia. Trachoma, with and without pannus. Eyelids heavy. Weight in eyes.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Intense pain in and around eye, periodic in character and accompanied by chills. Lachrymation, photophobia and violent paroxysms of pain in eye, daily, at 5 P. M. θ Sclerotitis rheumatica. Pannus : severe, intermitting pains ; anemic conditions of malarial origin. Ulceration of cornea of malarial origin, or dependent upon anemia, especially when iris becomes affected, with severe pain in or above eye ; periodic in character, especially when accompanied by chills. Ulcers formed in course of pannus, with much pain in morning. Severe neuralgic pains in iritis and other diseases of eye. Trachoma with and without pannus.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Noise in ears with dulness of hearing. Roaring in ears with itching of skin of back. After dinner, sensation in ears as if stopped with cotton wool. Shooting pains in r. meatus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Epistaxis.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Congestion of blood to head, face red and bloated, as from alcohol. Neuralgia of fifth pair of nerves; agonising 3 to 6 a.m.; the pains began in teeth, spread over head and ended in nape; increased rapidly in intensity, and were only > by acupuncture and cold water.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Rheumatic toothache in sound teeth, by cold, or cold food. Pain in teeth recurs, by closing jaws. Tongue thickly furred, appetite bad, all food disrelished. Tongue furred and pale; too large for mouth. Great fetor from mouth. Gums sensitive, bleed from least touch.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Voracious appetite; completely satisfied by a little piece of bread. Extremely sensitive to alcohol and tobacco. Easily made drunk. Inability to smoke (in a great smoker). Half a cigar made him feel extremely ill; cold perspiration broke out; inclination to vomit. Fulness in epigastrium, colicky pains in abdomen, flatulence. Appetite very bad, inclination to vomit. Inclination to vomit, > after dinner. Thirst, satisfied with a very little drink.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Diarrhœa three times a day (probably caused by too new beer). After dinner liquid stool. Bowels irregular; every other day opened two or three times. Flatulence, constipation. At noon, very hard stool, transient cutting in bowels.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Frequent urging, but urine not very copious; turbid, deposits sediment. Constant urging; quantity markedly increased. No desire to urinate, but forced himself to do so, and passed a litre of dark urine of intensely sour smell.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Inclination to erections; mucous secretion in urethra. Strong erections.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "During dinner transient palpitation. Severe palpitation after dinner. Pressure, anxiety, and palpitation in afternoon.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching of skin of chest and back.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleep disturbed by confused dreams. Anxious dreams, woke in fright. Dreams of worms, lice, vermin. Strange, confused dream, then great fear. Sleep disturbed by pain in head and teeth.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Disagreeable chilliness all over body. About 8 a.m., profuse perspiration of disagreeable sour smell broke out and lasted till 11 a.m. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Shaking chill daily at 5 A. M., accompanied by fatiguing cough, rattling in bronchi, but no expectoration, burning heat followed by sweat and great prostration.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Chin. m.]. Fatiguing cough with rattling in bronchi, without expectoration. θ Intermittent following broncho-pneumonia.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "In morning : pain in pannus worse. At 5 A. M., daily, shaking chill with cough. At 5 P. M., daily, sclerotitis rheumatica worse.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900",
+      "hering-guiding-1879"
+    ]
+  }
+}

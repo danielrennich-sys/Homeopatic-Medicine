@@ -1,0 +1,36 @@
+{
+  "id": "stannum-tin",
+  "names": {
+    "primary": "Stannum. (Tin) Tin. (The Element.)",
+    "latin": "Stannum. (Tin) Tin. (The Element.)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Extreme exhaustion of mind and body. Sinking, empty, all-gone sensation in stomach (Chel., Phos., Sep.). Sad, despondent, feels like crying all the time, but crying makes her worse (Nat. m., Puls., Sep.); faint and weak, especially when going down stairs; can go up well enough (Bor., - rev. of Calc.). Headache or neuralgia; pains begin lightly and increase gradually to the highest point and then gradually decline (Plat.). Colic: > by hard pressure, or by laying abdomen across knee or on shoulder (Col.); lumbrici; passes worms. Menses; too early, too profuse; sadness before; pain in malar bones, during. Leucorrhoea; great debility; weakness seems to proceed from chest (from abdomen, pelvis, Phos., Sep.). Prolapsus, worse during stool (with diarrhoea, Pod.); so weak she drops into a chair instead of sitting down. While dressing in the morning has to sit down several times to rest. Nausea and vomiting; in the morning; from the odor of cooking food (Ars., Colch.). When singing or using the voice, aching and weakness in deltoid and arms. Great weakness in chest; so weak, unable to talk. Cough: deep, hollow, shattering, strangling; concussive, in paroxysms of three coughs (of two, Merc.); dry, while in bed, in evening; empty sensation in chest. Expectoration: profuse like the white of an egg; sweetish, salty (Kali i., sep.); sour, putrid, musty; yellow, green pus (heavy, green, salty, Kali i.); during the day. Hoarseness; deep, husky hollow voice; relieved for the time by coughing or expectorating mucus. Sweat: mouldy, musty odor; after 4 a. m. every morning; on neck and forehead; very debilitating.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Complementary: Pulsatilla. Stannum follows well; after, Caust., and is followed by Cal., Phos., Sil., Sulph., Tub.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - Laughing and singing, talking, using the voice; lying on right side; drinking anything warm (from cold drinks, Spong.).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Amelioration. - Coughing or expectorating relieves hoarseness; hard pressure (Col.).",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

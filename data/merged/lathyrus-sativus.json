@@ -1,0 +1,53 @@
+{
+  "id": "lathyrus-sativus",
+  "names": {
+    "primary": "LATHYRUS SATIVUS",
+    "latin": "LATHYRUS SATIVUS",
+    "common": [
+      "Chick-pea (LATHYRUS)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Depressed; hypochondriacal. Vertigo when standing with eyes closed",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Burning pain in tip of tongue; with tingling and numbness of tongue and lips, as if scalded",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Tips of fingers numb. Tremulous, tottering gait. Excessive rigidity of legs; spastic gait. Knees knock against each other when walking. Cramps in legs worse cold, and cold feet. Cannot extend or cross legs when sitting. Myelitis, with marked spastic symptoms. Rheumatic paralysis. Gluteal muscles and lower limbs emaciated. Legs blue; swollen, if hanging down. Stiffness and lameness of ankles and knees, toe do not leave the floor, heels do not touch floor, Muscles of calves very tense. Patient sits bent forward, straightens with difficulty",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Increased bladder reflex. Frequent, must hurry, else voided involuntarily",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">LATHYRUS SATIVUS Chick-pea (LATHYRUS) Affects the lateral and anterior columns of the cord. Does not produce pain. Reflexes always increased. Paralytic affections of lower extremities; spastic paralysis; lateral sclerosis; Beri-beri. Athetosis. Infantile paralysis. After influenza and wasting, exhaustive diseases where there is much weakness and heaviness, slow recovery of nerve power. Sleepy, constant yawning.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

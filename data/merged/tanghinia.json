@@ -1,0 +1,69 @@
+{
+  "id": "tanghinia",
+  "names": {
+    "primary": "Tanghinia",
+    "latin": "Tanghinia",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T TANGHINIA. Tanghinia venenifera, Poiret. (T. Madagascariensis, Pet. Th.; Cerbera tanghin, Hook.) Natural order , Apocynaceæ. Preparation , Triturations of the seed (used by the natives of Madagascar and Eastern Coast of Africa for an ordeal). Authority. Andrew Davidson, Journ. of Anat. and Phys., November, 1873, p. 100, effects of the nut. MIND. ► Although the mind is usually clear, yet delirium occasionally occurs. ► The patient, in cases tending to a fatal issue, becomes unable to rise; in other instances, according to the testimony of observers, he lies as if asleep, and when roused, answers like a drowsy man, then lapses back into his former condition; in other cases, the patient remains conscious to the last, without either stupor or delirium. HEAD. ► The sufferer is said to feel giddy under its influence; he staggers if he attempts to walk, is unable to support his own weight, and falls down helpless and paralyzed. MOUTH. ► A Peculiar numb tingling sensation is felt in the mouth and fauces, due to its topical action; several of those who have undergone the ordeal have assured me that they experienced a similar feeling more or less over the whole body, but especially in the hands. STOMACH. ► Sickness ensues, with vomiting, intense, distressing, and repeated, first of the contents of the stomach, then of bile and mucus. STOOL. ► Purging and urination appear, and are more or less urgent; purging is a bad symptom, and the worse the more urgent it is. EXTREMITIES. ► Death is preceded by spasmodic movements of the fingers and toes. GENERALITIES. ► The vomiting is attended by a feeling of great debility and anxiety. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Paralysis; Vomiting",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Death preceded by spasmodic movements of fingers and toes. Hands numb. Great debility and anxiety with the vomiting. Numb feeling over whole body, esp. of hands. Staggers if attempts to walk, is unable to support his own weight, and falls down helpless and paralysed. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Tanghinia (the Tanghin or Tanquen of Madagascar) is the only representative of its genus of the Apocynaceæ. The fruit of the tree is ellipsoid, between two and three inches long, having a smooth, purplish skin tinged with green, containing a hard stone surrounded by a thick fibrous flesh. The part used as an ordeal is the seed, which is pounded, and a small piece is swallowed by the person to be tried. Those in whom it causes vomiting escape. Those whose stomachs retain it are quickly killed, and their guilt is held proven. General weakness, even complete paralysis is produced, death being preceded by spasmodic movements of fingers and toes. Numbness is a common symptom; especially numbness of the hands. The vomiting is intense and distressing, and is accompanied by anxiety and weakness. The Schema comprises symptoms observed on persons undergoing the ordeal.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Conscious to the last, without delirium. Delirium occasionally occurs. Stupor. Lies as if asleep, and when roused answers like a drowsy man and then relapses into former condition. Anxiety with the vomiting.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Giddy; staggers.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Numb tingling in mouth and fauces.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Vomiting, intense, distressing and repeated, first of contents of stomach. then of bile and mucus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Purging and urination (purging is a bad symptom, and the worse the more urgent it is).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

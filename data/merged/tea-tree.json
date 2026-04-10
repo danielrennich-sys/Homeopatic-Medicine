@@ -1,0 +1,41 @@
+{
+  "id": "tea-tree",
+  "names": {
+    "primary": "Tea Tree Oil",
+    "latin": "Tea Tree Oil",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Tea tree oil comes from steam distillation of the leaves of the tea tree, a plant native to New South Wales and Queensland in Australia. Most tea tree oil is produced in Australia, but China and several countries in Africa also produce it for commercial sale. The Aboriginal people of Australia traditionally used the leaves of the tea tree for treating wounds, burns, and insect bites. Today, tea tree oil is promoted for external use for acne, athlete’s foot, toenail fungus, lice, and other conditions.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "A small amount of evidence suggests that tea tree oil, applied topically (on the skin), might be helpful for acne and athlete’s foot, but more studies are needed before definitive conclusions can be reached. For other conditions, there is not enough evidence to determine whether topical tea tree oil is useful. Tea tree oil should not be swallowed.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "A small amount of research suggests that tea tree oil might be helpful for acne, but more evidence is needed before definite conclusions can be reached. A small amount of research suggests that tea tree oil may be helpful for athlete’s foot, but it may not work as well as standard treatments. Only a few studies have been done on tea tree oil for fungal nail infections. Both the amount and the quality of the research are insufficient to allow any conclusions to be reached. There has been interest in using topical tea tree oil for head lice, but it has only been evaluated in combination with other ingredients. It’s unclear whether any effects are due to tea tree oil, the other ingredients, or the combination. Several studies have evaluated topical tea tree oil as a treatment for inflammation of the eyelids caused by Demodex mites (also called eyelash mites), but its effectiveness is uncertain. Mouthrinses containing low concentrations of tea tree oil have been promoted for treating inflammation of the gums (gingivitis), dental plaque, and bad breath, but their effectiveness for these uses is uncertain. Mouthrinses that contain tea tree oil should not be swallowed.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Tea tree oil should not be swallowed. Taking it orally can cause serious symptoms such as confusion, unsteadiness, inability to walk, and coma. Most people can use topical products containing tea tree oil without problems, but some people may develop redness or irritation of the skin. This type of reaction may be more likely if the product is old or has been exposed to heat, light, or air. Tea tree oil products that are used topically may be safe during pregnancy and while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "weak_support"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

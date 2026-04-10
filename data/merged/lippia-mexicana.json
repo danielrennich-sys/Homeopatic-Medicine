@@ -1,0 +1,30 @@
+{
+  "id": "lippia-mexicana",
+  "names": {
+    "primary": "Lippia Mexicana",
+    "latin": "Lippia Mexicana",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "The Chicago Med. Times (H. W., xxxii. 185) gives this indication for Lippia: Hoarse ringing or barking chest cough, without expectoration, occurring every winter, especially in women. The dose recommended is ten to thirty drops every two to four hours. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Cough",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

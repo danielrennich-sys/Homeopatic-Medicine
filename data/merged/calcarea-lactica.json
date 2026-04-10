@@ -1,0 +1,76 @@
+{
+  "id": "calcarea-lactica",
+  "names": {
+    "primary": "Calcarea Lactica",
+    "latin": "Calcarea Lactica",
+    "common": [],
+    "synonyms": [
+      "Calcarea Lactica Natronata"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "With the introduction of colloidal preparations of the metals preparations of Calcium and its salts have come into much more general use in old-school practice of late, and valuable experiences have resulted which may be utilised by homœopaths, since they are all in agreement with the uses of the Calcareas of the Materia Medica. Remedies for sprue are not very numerous, and as Calc. lact. has been credited with cures of this troublesome complaint it should be kept in mind. It has been prescribed in the crude, but homœopaths may begin with eight-grain doses of the 3x trit. three or four times a day. Migraine is another sphere of its action. A Danish writer, C. I. Baastrup (quoted Homœopathic World, September 1923), described a type in which he found Calc. lact. \"dramatically successful.\" It is accompanied by slight œdema affecting the eyelids, upper lip, or one hand. This is apt to run in families. The œdema is associated with no abnormal sensations. Baastrup suggests that the migraine may be due to an œdema of the meninges. He gives 1 gramme of Calc. lact. once or twice a day for three weeks. It not only removes the headache, \"but also such troublesome symptoms as vasomotor rhinitis.\" That the action is homœopathic is proved by an experience recorded in British Medical journal, December 22, 1923, and quoted Homœopathic World, July 1923. The writer was subject to a dull headache with sickness. Two years previously he took ten grains thrice daily of Calc. lact. \"as a blood tonic.\" One day, \"while conscientiously and methodically finishing my second bottle, I experienced a severe attack of migraine, starting with visual phenomena (zigzag lines and balls of light before the left eye), and finishing up with dizziness and a diabolical headache in r. temple.\" He had never had eye-symptoms with headache before, and a later repetition of the drug produced a similar effect.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "A colloid of metallic Calcium has been prepared by the Crooke's laboratory, and its use subcutaneously has met with success in checking hæmorrhages, notably of the lungs. The double lactate of Calcium and Sodium appears to possess these properties. It apparently acts on the blood, reducing its alkalinity, relieves chilblains, urticaria, asthma, and hay fever. It is given for all these conditions in old-school practice in tablets of the crude substance. Homœopaths may use it for similar conditions in the 3x and higher. I have done this with much success with Calc. mur. in chilblains.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Chilblains; Headache; Migraine; Rhinitis; Sprue",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Clinical: Alkaline blood; Asthma; Chilblains; Hæmorrhage; Hay fever; Urticaria",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Kali bich. and Iris in migraine and Apis in œdema.",
+        "Compare: In asthma and hay fever, Cr. k. s.; in urticaria, Apis, Urt. ur., Ast. fl.; in chilblains, Calc. mur., Agar. Copyright © Médi-T ® 2000 Main"
+      ]
+    },
+    "head": [
+      {
+        "text": "Migraine with œdema, visual disorders and dizziness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Zigzags and balls of light before left eye, followed by dizziness and violent headache in r. temple.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Vasomotor rhinitis.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Œdema of eyelids, upper lip and hand.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Sprue. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "pyrethrum-parthenium",
+  "names": {
+    "primary": "Pyrethrum Parthenium",
+    "latin": "Pyrethrum Parthenium",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Pyr. p. \"has bitter tonic properties like those of Chamomile (Anthemis nobilis); and is a popular remedy in slight fevers (whence the name 'Feverfew'). The smell of the whole herb is said to be particularly offensive to bees\" (Treas. of Bot.). Some popular \"insect powders\" are made of the dried flowers of Pyrethrum roseum. Radix Pyrethri, or Pellitory of Spain, which is used as an irritant and as a toothache cure, is the root of Anacyclus pyrethrum. The roots of the genus have a hot taste, whence the name Pyrethrum (πΰρ, fire). One observation has been recorded with Pyr. p. A boy, 3 1/2, took 50 minims of the tincture. It nearly proved fatal, causing diarrhœa, convulsions of a tetanic nature, twitchings, loquacious delirium, restless, rapid, and weak pulse, and profuse sweat at night. Some observations of Cooper's will be found in the Schema. Cooper has also cured cases of subacute rheumatism with P. roseum.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Convulsions; Delirium; Dysentery; Fevers; Loquacity; Rheumatism",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Old subacute rheumatism of hands and small bones (relieved. R. T. C.). Twitching of muscles of limbs (not those of face); subsided by morning of third day. At 12.30 violent convulsions lasting all hour and leaving the child apparently moribund, but he gradually recovered. Convulsive movements like those of tetanus. Restlessness. Feet, legs and body, which were swollen, decidedly reduce, and next menstrual period is dark and deficient (in a gouty woman, 50. R. T. C.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Cham., Cin., Absin., Artemis, and other Compositæ."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Very excited, talked incessantly for four hours. Lying in state of stupor; easily roused but quickly relapsing.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Soreness of tongue.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Diarrhœa, 5 a.m., with pain; at first profuse and exhausting, with tenesmus; afterwards involuntary evacuations of mucus slightly tinged with blood; better next morning.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pulse very rapid (120 to 130) and feeble; became normal the fifth day.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Profuse perspiration; and restlessness (first night). Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

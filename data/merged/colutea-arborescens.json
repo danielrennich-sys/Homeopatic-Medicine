@@ -1,0 +1,38 @@
+{
+  "id": "colutea-arborescens",
+  "names": {
+    "primary": "Colutea arborescens",
+    "latin": "Colutea arborescens",
+    "common": [
+      "Senna, Bladder"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Indigenous to Southern Europe, Mediterranean region, said to be the sole vegetation found growing on the crater of Vesuvius.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Cultivated in Britain as a decorative shrub, flowers yellow, papilionaceous, specially characterized by membraneous, bladder-like pods, which when pressed go off with a loud bang, hence its name of Bladder Senna. The plant grows well in the author's garden.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The leaflets are purgative and on the Continent are often substituted for Senna leaves, but they are much milder in action than the true Senna. Taken in the form of an infusion, 1 or 2 drachms of the seeds will excite vomiting.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

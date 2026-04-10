@@ -1,0 +1,119 @@
+{
+  "id": "acalypha-indica",
+  "names": {
+    "primary": "Acalypha Indica",
+    "latin": "Acalypha Indica",
+    "common": [
+      "Indian Nettle"
+    ],
+    "synonyms": [
+      "ACALYPHA INDICA"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T ACALYPHA INDICA. Acalypha Indica, Linn. Nat. order , Euphorbiaceæ. Preparation , Tincture from the plant. Authority. Dr. Tonnère, of Calcutta. (See Am. Hom. Rev., vol. 2, and A. H. Z., 61, 104, and 77, 31.) ► *Severe fit of dry cough, followed by spitting of blood (from 10 drops of the tincture). Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Cough; Diarrhœa; Flatulence; Hæmoptysis",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Progressive emaciation. θ Hæmoptysis.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Cough dry, hard, followed by hæmoptysis; worse in morning and at night. Constant and severe pain in chest. Blood bright red and not profuse in morning; dark and clotted in afternoon. Pulse soft and compressible. Burning in pharynx, œsophagus, and stomach",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Dulness in chest on percussion. θ Hæmoptysis. Constant and severe pain in chest. θ Hæmoptysis. Pulse small and depressed. Pulse from 100 to 120. θ Hæmoptysis.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Burning in intestines. Spluttering diarrhœa with forcible expulsion of noisy flatus, bearing down pains and tenesmus. Rumbling distention, and griping pain in abdomen. Rectal hæmorrhage; worse in morning",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Jaundice. Itching and circumscribed furuncle-like swellings",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "in morning",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Third to sixth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ACALYPHA INDICA Indian Nettle A drug having a marked action on the alimentary canal and respiratory organs. It is indicated in incipient phthisis, with hard, racking cough, bloody expectoration, arterial hæmorrhage, but no febrile disturbance. Very weak in the morning, gains strength during day. Progressive emaciation. All pathological hæmorrhages having notably a morning aggravation.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The chief employment of this Euphorbian has been in violent dry cough followed by bloody expectoration. Expectoration of pure blood in the morning, and dark clotted blood in the evening. Cough most violent at night. Dulness of chest on percussion; constant severe pain in chest. Progressive emaciation. A proving by several Indian physicians has brought out a number of symptoms in the alimentary tracts characterised by: burning, sense of weight at stomach, flatulence, and sputtering diarrhœa.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. ACALYPHA INDICA. Natural order.- Euphorbiaceae. General Analysis.- Has only been found to act upon the respiratory organs, inducing \" Dry cough, followed by spitting of blood,\" which is its only characteristic, this having been repeatedly verified by its prompt cure of haemoptysis. According to Hale , it is indicated when there is expectoration of pure blood in the morning, and dark lumps of clotted blood in the evening. Compare.- Acon., Arn., Ham., Ipec., Millef., Phos. Copyright © Robert Séror 2003",
+        "source_id": "cowperthwaite-textbook-1891"
+      },
+      {
+        "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T ACALYPHA INDICA Often called for in hæmorrhage of the lungs. Chest.-- Constant pain. Dulness on percussion. Cough, with bloody expectoration. Hæmoptysis . Emaciation. Copyright © Médi-T 2000",
+        "source_id": "guernsey-keynotes-1887"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Mercurialis ann., Mancin., and other Euphorbians. Ham., Ipec., Millefol., Phos., Aco. Copyright © Médi-T ® 2000 Main",
+        "Collaterally related to all Euphorbiaceæ ; especially to Mercurialis annua and Mancin",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Gloomy and despairing, but very unwilling to die. θ Hæmoptysis. Leucorrhœa, sometimes thick, sometimes watery. θ Consumptive patient.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Cough, with bloody expectoration. θ Tuberculosis. Violent dry cough, followed by bloody expectoration. Hæmoptysis. Hæmoptysis : expectorates pure blood in morning, dark lumps (clotted) in evening. Cough most violent at night. θ Tubercular deposits in apex of lung.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Slow fever.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "cowperthwaite-textbook-1891",
+      "guernsey-keynotes-1887",
+      "hering-guiding-1879"
+    ]
+  }
+}

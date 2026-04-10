@@ -1,0 +1,24 @@
+{
+  "id": "urine",
+  "names": {
+    "primary": "URINE",
+    "latin": "URINE",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY URINE. Urine, altered in general : Pul., Sep., Sul. Urine, acrid : Hep., Merc., Pul. Urine, albuminous : Ap., Ars., Canth., Fer., Merc-c., Pho., Plb., Rhus-t., Sul., Terb. Urine, black : Ap., Colch., Lach., Terb. Urine, bloody : Terb. Urine, cloudy : Cina., Con., Merc., Pho., Saba. Urine, cloudy, turning : Bry., Cham., Pho-ac. Urine, dark : Aco., Ant-t., Bell., Bry., Colch., Merc., Sep., Ver-a. Urine, flocculent : Canth., Mez. Urine, frothy : Chel., Lach., Spo. Urine, greenish : Cam., Ver-a. Urine, hot , burning : Aco., Ars., Bell., Cann., Canth., Hep., Merc-c., Merc. Urine, milky : Cina., Pho-ac. Urine, odor , ammoniacal, strong : Asaf., Benz-ac., Nit-ac., Pho. Urine, odor, foul, repulsive : Benz-ac., Dulc., Pul., Sep. Urine, pale : Con., Kali-c., Pho-ac. Urine, pellicle on : Par., Pho., Psor., Pul., Sep. Urine, profuse : Arg-m., Lyc., Mur-ac., Pho-ac., Pho., Rhus-t., Spig., Squil., Verb. Urine, viscid : Coloc. Urine, watery : Squil. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

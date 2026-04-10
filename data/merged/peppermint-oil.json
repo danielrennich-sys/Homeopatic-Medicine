@@ -1,0 +1,41 @@
+{
+  "id": "peppermint-oil",
+  "names": {
+    "primary": "Peppermint Oil",
+    "latin": "Peppermint Oil",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "The herb peppermint, a natural cross between water mint and spearmint, grows throughout Europe, North America, and the Mediterranean. Both peppermint leaves and the essential oil from peppermint have been used for health purposes. Peppermint oil is the essential oil taken from the flowering parts and leaves of the peppermint plant. (Essential oils are very concentrated oils containing substances that give a plant its characteristic odor or flavor.) The medicinal use of mint plants for digestive disorders dates back to ancient Greece, Rome, and Egypt, and peppermint oil has been used for centuries to treat gastrointestinal ailments. Today, peppermint is promoted for irritable bowel syndrome (IBS), indigestion, headaches, muscle tension, nausea, and other conditions.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "A small amount of research has been conducted on peppermint oil, primarily focusing on IBS. Very little research has been done on peppermint leaf. There is not enough evidence to definitely determine whether peppermint leaf is useful for any health condition.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "A small amount of research suggests that peppermint oil in enteric-coated capsules may improve IBS symptoms in adults. A 2022 review of 10 studies (involving 1,030 participants) found that peppermint oil was better than placebo at improving overall IBS symptoms and reducing abdominal pain but caused more side effects than placebo. Most of the side effects were mild and included acid reflux and indigestion. A 2021 clinical guideline from the American College of Gastroenterology recommended the use of peppermint oil for relief of overall IBS symptoms and noted that enteric-coated formulations might help with acid reflux and indigestion side effects. A small amount of research suggests that taking peppermint extract by mouth or inhaling peppermint oil can help reduce nausea and vomiting in people undergoing chemotherapy treatment for cancer. A 2024 review of 10 studies on aromatherapy, which included 4 studies (involving 290 participants) on peppermint oil, found that inhaling peppermint oil was particularly successful at reducing nausea and vomiting in patients with cancer who were undergoing chemotherapy. A few studies have indicated that specific products containing peppermint oil plus caraway oil and specific combination products that include peppermint leaves may help relieve indigestion. But there isn’t any evidence showing that taking peppermint oil alone can help. In fact, peppermint oil taken alone may worsen indigestion in some people and cause unwanted side effects. A limited amount of evidence suggests that peppermint oil applied topically (on the skin) might relieve tension headaches, and that a gel containing peppermint oil applied topically might reduce the risk of bed sores (pressure ulcers) in bedridden individuals. Peppermint oil in a gel, water, or cream applied topically to the nipple area of breastfeeding women might be helpful for reducing pain and cracked skin. Menthol, which is in peppermint oil, should not be inhaled by or applied to the face of an infant or small child because it may negatively affect their breathing. Peppermint oil should therefore be used only after breastfeeding and then wiped off before the next breastfeeding session. A small amount of research suggests that peppermint oil might be helpful to reduce spasms during certain procedures, such as endoscopy or barium enema examination. There’s not enough evidence to allow any conclusions to be reached about whether peppermint oil is helpful for other conditions.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Peppermint oil appears to be safe when taken orally (by mouth) or applied topically in the doses commonly used. Peppermint oil has been safely used in multiple clinical trials. Possible side effects of peppermint oil taken orally include heartburn, nausea, abdominal pain, and dry mouth. Rarely, peppermint oil can cause allergic reactions. Capsules containing peppermint oil are often enteric-coated to reduce the likelihood of heartburn. Peppermint oil is possibly safe when inhaled as aromatherapy, but there is not enough reliable information to know if it is safe or what the side effects might be if applied topically into the nose. Side effects of applying peppermint oil to the skin can include skin rashes and irritation. Peppermint oil should not be applied to the face of infants or young children because serious side effects may occur if they inhale the menthol in the oil. Peppermint tea, which is made from peppermint leaves, appears to be safe. However, the long-term safety of consuming large amounts of peppermint leaf is unknown. Use of oral peppermint in amounts commonly found in food is likely safe during pregnancy or while breastfeeding, but little is known about whether it’s safe to use oral peppermint in medicinal amounts during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "weak_support"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

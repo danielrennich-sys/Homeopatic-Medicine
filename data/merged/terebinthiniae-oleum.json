@@ -1,0 +1,110 @@
+{
+  "id": "terebinthiniae-oleum",
+  "names": {
+    "primary": "TEREBINTHINIAE OLEUM",
+    "latin": "TEREBINTHINIAE OLEUM",
+    "common": [
+      "Turpentine (TEREBINTHINA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Dull pain like from a band around the head (Carb ac). Vertigo, with vanishing of vision. Disturbed sense of equilibrium. Tired and difficult concentration of thoughts. Cold in head with sore nostrils with disposition to bleed",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Ciliary neuralgia over right eye. Intense pain in eye and side of head. Amblyopia from alcohol",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Own voice sounds unnatural; humming as of a seashell, talking loudly is painful. Otalgia",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue dry, red sore, shining; burning in tip, with prominent papillæ (Arg n; Bell; Kali b; Nux m). Breath cold, foul. Choking sensation in throat. Stomatitis. Dentition",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea and vomiting; heat in epigastric region",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Enormous distention. Diarrhœa; stools watery, greenish, fetid, bloody. Pain before flatus with and relief after stool. Hæmorrhage from bowels. Worms; lumbrici. Abdominal dropsy; pelvic peritonitis. Fainting after every stool Entero-colitis, with hæmorrhage and ulceration of bowels",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Strangury, with bloody urine. Scanty, suppressed, odor of violets. Urethritis, with painful erections (Canthar). Inflamed kidneys following any acute disease. Constant tenesmus",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Intense burning in uterine region. Metritis; puerperal peritonitis. Metrorrhagia with burning in uterus",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Difficult breathing; lungs feel distended; hæmoptysis. Bloody expectoration",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pulse rapid, small, thready, intermittent",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Burning pain in region of kidneys. Drawing in right kidney extending to hip",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Acne. Erythema; itching pustular, vesicular eruption; urticaria. Purpura, ecchymosis, dropsies. Scarlatina. Chilblains; with excessive itching and pulsative pains. Aching soreness of the muscles",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Heat, with violent thirst, dry tongue, profuse cold, clammy sweat. Typhoid with tympanites, hæmorrhages, stupor, delirium. Prostration",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "relationships": {
+      "antidoted_by": [
+        "Phos"
+      ]
+    },
+    "dosing": {
+      "notes": "First to sixth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">TEREBINTHINIAE OLEUM Turpentine (TEREBINTHINA) Has a selective affinity for bleeding mucous surfaces. Tympanites and urinary symptoms very marked. Inflammation of kidneys, with hæmorrhages-dark, passive, fetid. Bright's disease preceded by dropsy (Goullon). Drowsiness and strangury. Coma. Unbroken chilblains.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

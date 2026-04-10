@@ -1,0 +1,65 @@
+{
+  "id": "natrium-salicylicum",
+  "names": {
+    "primary": "NATRIUM SALICYLICUM",
+    "latin": "NATRIUM SALICYLICUM",
+    "common": [
+      "Salicylate of Sodium (NATRUM SALICYLICUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Perfectly rational periods, alternate with manifestations of insanity of a somber character. Vertigo; worse, raising head. All objects seem to move to the right. Dull headache and confusion. Fibrositis of the scalp",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Retinal hæmorrhage, albuminuric retinitis with hæmorrhage. Iridocychitis due to traumatism with infection, and in sympathetic disease secondary to it (Dr. Gradel)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Tinnitus of a low tone. Deafness. Auditory vertigo",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Dyspnœa; breathing noisy, shallow, panting; pulse irregular. Complete loss of voice",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Œdema, urticaria, red in circumscribed patches. Tingling and itching. Pemphigoid eruption",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Third potency"
+    },
+    "generalities": [
+      {
+        "text": "[Non-Homeopathic] In acute articular rheumatism, lumbago, sciatica, etc. Usual doses, ten to twenty grains every three hour. Must be used carefully, as it is often destructive of kidney tissue. Ordinary allopathic doses allay the pain of dysmenorrhœa and promote menstrual flow",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">NATRIUM SALICYLICUM Salicylate of Sodium (NATRUM SALICYLICUM) Has an extensive range of action affecting the head, ear, throat, kidneys and liver and on metabolism. Hæmorrhages, especially epistaxis. Produces marked effects upon the internal ear, with vertigo, deafness, noises in ears and loss of bone conduction, hence, its use in Meniere's disease. One of the best remedies for the prostrating after-effects of influenza. Lassitude, drowsiness, listlessness, tremor. Incipient dementia. Increases the quantity of bile. Follicular tonsillitis.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

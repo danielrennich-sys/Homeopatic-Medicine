@@ -1,0 +1,34 @@
+{
+  "id": "ooo",
+  "names": {
+    "primary": "OOO",
+    "latin": "OOO",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . * A * B * C * D * E * F * G * H * I * J * K * L * M * N * O * P * R * S * T * U * V * W * X * Z Ocimum ---------- Oci . nanthe ---------- Oena . nothera ---------- Oeno . Oleander ---------- Olnd . Onosmodium Virginianum ---------- Onos . Opium ---------- Op . Osmium ---------- Osm . Oxalicum Acidum ---------- Ox-ac . Oxytropis Lamberti ---------- Oxyt-l . Copyright © Médi-T 2005.",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T SUPPLEMENTAL REFERENCE TABLE A * B * C * D * E * F * G * H * I * J * K * L * M * N * O * P * Q * R * S * T * U * V * W * X * Y * Z Obesity : Seneg. Occiput : Cocc., Variol., Ver-v., Zin-ar. Occiput, air on, agg. : Sanic. Occiput, band [[as of]] : Arg-n. Occiput, blow on [[as of]] : Ap., Bell., Cimi., Kali-m., Lach., Naj., Tab., Tarn., Zin. Occiput, bursting : Gels. Occiput, cold : Chel. Occiput, cough, agg. : Pul. Occiput, downward : Pho., Zin. Occiput, enlarging, swelled, as if : Bry., Cocc. Occiput, eyes to : Med. Occiput, forward from : Sang., Sil. Occiput, forward from, left : Arg-n., Cimi., Lach., Lil-t., Spig., Thu. Occiput, forward from, right : Bell., Gels., Sang., Sil. Occiput, hair falls from : Merc. Occiput, heat : Aur. Occiput, heavy : Calc-c., Kali-m., Merc-i-r. Occiput, legs, weak, with : Zin. Occiput, lying on, agg. : Carb-v., Cocc., Nux-v. Occiput, nose, root of [[to]] : Sars. Occiput, pillow, agg. : Bufo-s., Glo. Occiput, pressure, outward : Aesc. Occiput, shoulder to : Kali-bi., Onos., Stict. Occiput, side, left : Lyc., Nux-v., Sep., Spig., Sul. Occiput, sore, bruised : Pru-s, Stap. Occiput, tension : Lyc. Occiput, up and down from : Onos., Sep. Odors, agg. : Carb-ac., Dros., Ther., Variol. Odors, sour, agg. : Dros. dema : Acet-ac., Agar., Ap., Ars., Aur., Jus., Pho., Rhus-t., Sep., Sil. dema, angio-neurotic : Ap., Ars., Rhus-t. dema, saccular : Ap., Ars. Offended, easily : Cocc., Ign., Pall. Offensive : Ail., Asaf., Carb-an., Con., Crot-h., Eucal., Grap., Kre., Meph., Merc., Mur-ac., Osm., Pho., Sabi., Sul-ac., Til., Tub., Ust. Offensive, body : Bapt., Grap., Guai., Hep., Kali-io., Kali-p., Med., Nit-ac., Psor., Pyro., Sep., Sil., Stan., Sul., Syph., Thu. Old age, look, etc. : Sanic., Sars., Sul-ac., Syph., Tub. Old, maids : Plat. Onanism, menses, agg. : Zin. Onions [[smell]] : Kali-p. Opisthotonos : Ign., Ver-v. Orbits : Aur., Bar-c., Cinnb., Zin-s. Orbits, neuralgia : Ars., Ced., Chin-s., Kali-bi., Nat-m., Spig., Stan. Opening and shutting [[as if]] : Spo. Ordeals : Kali-br. Orgasms : Spo. Orgasms, sexual : Stan. Oscillations [[motions]] : Elaps. Osteo-malacia : Iod., Merc-c. Ovaries : Coloc., Lil-t., Mag-p., Sabal., Zin-val. Ovaries, alternating between : Cimi., Coloc., Lac-c., Lil-t., Onos., Ust. Ovaries (right), back to : Rum. Ovaries, breasts to : Murx., Senec. Ovaries, congested : Ap. Ovaries, cystic : Ap., Apoc., Aur., Form. Ovaries, left to heart : Brom., Cimi., Lac-c., Lach., Lil-t., Naj., Sul., Vib. Ovaries, legs, stretching, agg. : Pod. Ovaries, mammæ to : Murx., Senec. Ovaries, pains in : Naj. Ovaries, swelled : Lyc. Ovaries, tearing : Thu. Ovaries, thighs to : Coloc., Grap., Pod., Stap., Ust., Xantx., Zin-val. Overpowered, as if : Thu. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      },
+      {
+        "text": "Condensed Materia Medica. By Constantine Hering. Presented by Médi-T . * A * B * C * D * E * F * G * H * I * J * K * L * M * N * O * P * R * S * T * U * V * X * Z Oleand. * Opium * Ox. ac. O Oleander ---> Oleand. Opium ---> Opium . Oxalicum acidum ---> Ox. ac. Copyright © Médi-T 2005.",
+        "source_id": "hering-condensed-mm-1877"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-handbook-1889",
+      "boger-synoptic-key-1915",
+      "hering-condensed-mm-1877"
+    ]
+  }
+}

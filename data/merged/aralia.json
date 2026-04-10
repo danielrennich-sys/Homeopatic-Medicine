@@ -1,0 +1,24 @@
+{
+  "id": "aralia",
+  "names": {
+    "primary": "ARALIA",
+    "latin": "ARALIA",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Loud wheezing breathing, with cough, < in evening or night, after the first sleep (asthma).",
+        "source_id": "nash-leaders-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "nash-leaders-1899"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "saccharinum",
+  "names": {
+    "primary": "Saccharinum",
+    "latin": "Saccharinum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Formula—C7H5SO3N.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonyms—Saccharin, Hydro-orthosulphaminbenzoic acid.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Physiological Action—Saccharin has no toxic influence on the animal body; when given internally or subcutaneously, is excreted by the kidneys in an unaltered state. It is therefore not decomposed in the body, nor do the saliva or the feces contain any traces even after large doses. Unlike benzoic and salicylic acid, it is not converted into hippuric or salicyluric acid. It has scarcely any retarding effect on the digestion of either proteids or hydrocarbons, and in fact it is said to increase the diastatic action of malt. When given in large doses, however, fifty to seventy-five grains, injurious effects or disturbances of-the appetite are sometimes induced. The urine is usually not altered either in specific gravity, quantity, or in the amount of urea and uric acid; it, however, does not readily undergo fermentation. The amount of chlorides in the urine appear to be increased during its use, while the phosphates remain normal. Animals on full diet with the addition of Saccharin increase in weight.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—It is given to replace sugar when that agent should be avoided. Diabetic patients use it freely for sweetening their food and beverages, and in most cases are as well satisfied with it as with sugar. Five grains will sweeten a cup of coffee as effectually as two teaspoonfuls of sugar. It sweetens sauces and fruits however acid they may be without chemical change.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is used in the treatment of obesity, but its utility in this condition is questionable.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In certain forms of acid dyspepsia it has exercised a mild curative influence",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It conceals the bitter taste of quinine and bitter tonics more effectually than sugar.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919"
+    ]
+  }
+}

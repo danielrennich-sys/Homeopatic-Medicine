@@ -1,0 +1,204 @@
+{
+  "id": "antimonium-sulphuratum",
+  "names": {
+    "primary": "ANTIMONIUM SULPHURATUM AURATUM",
+    "latin": "ANTIMONIUM SULPHURATUM AURATUM",
+    "common": [
+      "Golden Sulphuret of Antimony"
+    ],
+    "synonyms": [
+      "Antimonium Sulphuratum Aureum",
+      "Antimonium Sulphuratum Auratum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "nose": [
+      {
+        "text": "Nosebleed on washing. Increased secretion in nose and throat. Rough and scrapy feeling. Loss of smell. Metallic styptic taste",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Bleeding from nose on washing. Increased mucus from nose and throat.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Bleeding from nose on washing. Increased mucus from nose and throat.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Tickling in larynx. Increased mucus with fullness in bronchi. Respiration difficult, pressure in bronchi, with constriction. Tough mucus in bronchi and larynx. Dry hard cough. Congestion of upper lobe of left lung. Winter coughs patient is sore all over. Pneumonia, when hepatization occurred and resolution failed to take place",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Ant. s. aur.]. Accumulation of tough mucus in bronchi and larynx. Increased mucous secretion with fulness in bronchi, and full, hard breathing. Respiration difficult. Dry, hard cough, no expectoration. Increased mucous sputum, mixed with blood, of a sweetish taste.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Acne (pustular variety). Itching on hands and feet",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Itching on hands and feet. Pustular acne.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Dry, elevated pustules on inner surface of thighs.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "dosing": {
+      "notes": "Second or third trituration"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ANTIMONIUM SULPHURATUM AURATUM Golden Sulphuret of Antimony A remarkable remedy for many forms of chronic nasal and bronchial catarrh. Acne. Amaurosis.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Ant. sul. aur. has been proved. Its most notable effects were produced on the eye and chest. Burning in head (with eye complaints). Amaurosis (commencing). Spots on cornea and hypopion. Acute and chronic nasal and bronchial catarrh. Acne. Nose-bleed on washing. As with the other antimonies there is disordered digestion, pasty mouth and taste in morning. Increase of tough mucus in larynx and bronchi, respiration difficult. Dry, hard cough with passive congestion of upper lobe of left lung. Itching on hands and feet.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Acne; Amaurosis; Catarrh; Constipation; Cornea, spots on; Diarrhœa; Indigestion; Iris, prolapse of; Itching; Nose-bleed; Lung, congestion of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Accumulation of tough mucus in bronchi and larynx. Increased mucous secretion with fulness in bronchi and full, hard breathing. Respiration difficult. Dry, hard cough, no expectoration. Increased mucous sputum, mixed with blood, of a sweetish taste. Passive congestion of upper lobe l. lung, with hard, dry cough. Malaise, fatigue, lassitude, with nausea.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Malaise, fatigue and lassitude with nausea. Right : swelling behind ear. Left : upper lobe of lung congested. As if a plug stuck in throat. Boring : in arms and hand joints. Tearing : in arms and hand joints. Violent colic. Pressive pain : in head. Burning : in head ; in fauces. Pressure : in stomach ; in abdomen. Fulness : in stomach ; in abdomen ; in bronchi. Heaviness in precordium. Itching : on scrotum ; on hands and feet.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Other Antimonies; Aur. (chest), Ars., Ferr., Merc. sul., Sul., Amm. c. (nose-bleed after washing).",
+        "Similar to : Antimonies (family relation) ; Aurum (chest) ; Arsen. ; Ferrum ; Merc. sulph. ; Sulphur ; Amm. carb. (nosebleed after washing)",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "eyes": [
+      {
+        "text": "Amaurosis, commencing. Spots on cornea. Iris protruding through cornea.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Amaurosis, in beginning. Spots on cornea. Iris protruding through cornea.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "face": [
+      {
+        "text": "Pustular acne.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Pasty mouth and taste in morning. Burning or heat in fauces. Mucus from throat becomes offensive to smell. Pressure in throat as if a plug stuck in it. Scratching, rough feeling in throat in morning. 11.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pasty mouth and taste in morning. Burning and heat in fauces. Mucus from throat becomes offensive to smell. Pressure in throat as if a plug stuck in it. Scratching, rough feeling in throat in morning.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Pressure and fulness in stomach and abdomen; umbilical region sensitive.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Ant. s. aur.]. Loss of appetite ; almost a loathing of food. Pressure and fulness in stomach. Pressure, tension and fulness in abdomen ; umbilical region sensitive.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Passage of much flatus with sudden urging, followed by a stool solid at first then bright yellow and pasty; afterwards violent colic and rumbling round navel. Constipation, fæces hard and passed with difficulty.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Passage of much flatus with sudden urging, followed by a stool solid at first, then bright yellow and pasty ; afterwards violent colic and rumbling around navel. Constipation ; feces hard and passed with difficulty.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urine increased, dark red.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Urine increased, dark red.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "male": [
+      {
+        "text": "Pustular eruption on scrotum with much itching.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pustular eruption on scrotum after much itching.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleep deep; dreamy with sudden waking. Sudden waking after midnight, with general aggravation of symptoms, heavy, confused head, slight sweat. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Deep sleep. Sleep dreamy ; wakes after midnight with dull headache ; with restlessness and sexual desire. Awoke suddenly with heavy, confused head, pressure in stomach, difficult breathing, fulness of bronchi, restless tossing ; skin active, with slight warmth and even sweat. Sleep dreamy with sudden waking after midnight, gouty and rheumatic pains increased.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Apprehensiveness with heaviness in precordium.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "head": [
+      {
+        "text": "Pressive headache. Burning in head. θ Eye complaints. Reddish swelling behind right ear, leaving a redness and scurfiness.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Passive congestion of upper lobe of left lung, with dry, hard cough. Heaviness in precordium and apprehensiveness.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Arms heavy in morning. Boring and tearing in arms and hand joints. Swelling of fingers. Itching on hands and feet.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "Morning : pasty taste in mouth ; scratching in throat ; arms feel heavy. After midnight : awakens with dull headache ; restless ; sexual desire increased ; gouty and rheumatic pains <. Washing causes nosebleed.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "hering-guiding-1879"
+    ]
+  }
+}

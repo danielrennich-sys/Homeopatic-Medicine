@@ -1,0 +1,35 @@
+{
+  "id": "uricum-acidum",
+  "names": {
+    "primary": "Uricum Acidum",
+    "latin": "Uricum Acidum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Uric ac. has been used on inferential grounds in gouty conditions. Burnett gave it in 5th and 6th attenuations. It is most useful in cases where deposits persist; it stirs them up and helps to eliminate them. It is useful in gouty eczema where the eczema has been \"the cutaneous outlet for the constitution.\" With Uric ac. 3x. Mersch (H. W., xxx. 395) cured a case of lipoma situated on the left side between abdomen and breast, \"as large as a man's head, only lengthened.\" Relief was immediate; the tumour disappeared in a month.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Eczema, gouty; Gout; Lipoma; Rheumatism",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Urea, Urtica urens. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

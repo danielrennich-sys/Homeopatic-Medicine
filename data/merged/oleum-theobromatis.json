@@ -1,0 +1,36 @@
+{
+  "id": "oleum-theobromatis",
+  "names": {
+    "primary": "Oleum Theobromatis",
+    "latin": "Oleum Theobromatis",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Cacao Butter, Oil of Theobroma, Butter of Cacao.A concrete fixed oil expressed from the roasted seeds of Theobroma Cacao, Linné (Nat. Ord. Sterculiaceae), South America.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Description.—A yellowish-white, solid oil having a bland taste suggestive of chocolate, and a slight but agreeable odor. Slightly soluble in alcohol, readily in boiling dehydrated alcohol, and freely in ether or chloroform. It is composed chiefly of the glycerides, stearin and olein, with small quantities of laurin, palmitin, and arachin; and slight amounts of formic, acetic, and butyric acid compounds. The alkaloid Theobromine (C7H8O2N4) is sometimes present.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—External. Cacao butter is emollient, and inasmuch as it does not readily turn rancid may be used for the protection of abraded or excoriated surfaces, and by inunction massage to improve the general nutrition of feeble infants and invalids. Owing to its melting at the temperature of the body it is an admirable base for suppositories for applying local medication in rectal, vaginal and uterine disorders.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "felter-eclectic-1922"
+    ]
+  }
+}

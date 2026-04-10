@@ -1,0 +1,46 @@
+{
+  "id": "rosa-damascena",
+  "names": {
+    "primary": "ROSA DAMASCENA",
+    "latin": "ROSA DAMASCENA",
+    "common": [
+      "Damask Rose"
+    ],
+    "synonyms": [
+      "Rosa Damascena"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "[Ear] Hardness of hearing; tinnitus. Eustachian catarrh (Hydr; Merc dulc)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Clinical: Hay-fever",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "dosing": {
+      "notes": "Lower potencies"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ROSA DAMASCENA Damask Rose Useful in the beginning of hay-fever, with involvement of Eustachian tube.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Farrington mentions that R. dam. was introduced by Jeanes as a remedy at the beginning of rose-cold when the Eustachian tube is involved, with some degree of deafness and tinnitus. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

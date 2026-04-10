@@ -1,0 +1,100 @@
+{
+  "id": "phenacetinum",
+  "names": {
+    "primary": "Phenacetinum",
+    "latin": "Phenacetinum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Phenacet. belongs to the Aniline group, and was introduced into old-school practice as a remedy in febrile states and neuralgias, free from the dangers of Antfeb., Antipyr., Exalg., &c. Though not so dangerous as these, it is not free from ill effects. These have been well summed up by F. G. Oehme (H. R., xv. 506), and I have put them in Schema form, and added a symptom observed by myself on a young lady who had taken Phenacet. for headaches: A circumscribed rash on both cheeks which came out red, lasted four days and then peeled, and as soon as it was clear the process was repeated. I tried many remedies with varying success, but it finally disappeared under Alm. 30, one powder at bedtime.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Cyanosis; Face, eruption on; Fevers; Headache; Perspiration, excessive; Typhoid fever; Uræmia",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Dyspnœa. Severe cyanosis, esp. of limbs, chilliness, nausea, epigastric pains, faintness, vertigo. Trembling from nervous excitement. Weakness and numbness of whole body, cold perspiration, collapse.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Anxiety.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo, faintness. Headache and flushed face.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Œdema of lower lids and fingers.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Permanent deafness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Circumscribed, erythematous, exfoliating eruption on both cheeks; fading away and recurring for several weeks (finally cured with Alm. 30).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea; epigastric pains.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Large doses may cause uræmia. Frequent urination at night (cured in two cases).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Decrease of cardiac vigour; pulse slow, almost imperceptible.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Febrile exanthema; patches profusely scattered on limbs, scanty on trunk; disappearing on pressure, headache, flushed face (from five grains daily).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Incessant yawning; drowsiness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chilliness. Sweating; frequently profuse in low states of the system. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

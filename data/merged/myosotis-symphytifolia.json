@@ -1,0 +1,45 @@
+{
+  "id": "myosotis-symphytifolia",
+  "names": {
+    "primary": "MYOSOTIS SYMPHYTIFOLIA",
+    "latin": "MYOSOTIS SYMPHYTIFOLIA",
+    "common": [
+      "Forget-me-not (MYOSOTIS)",
+      "Forget-Me-Not"
+    ],
+    "synonyms": [
+      "Myosotis symphytifolia"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "respiratory": [
+      {
+        "text": "Cough with profuse muco-purulent expectoration, gagging and vomiting during cough; worse while or after eating. Bronchorrhœa. Pain in left lung (lower); painful while coughing and sensitive to percussion",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture to second potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">MYOSOTIS SYMPHYTIFOLIA Forget-me-not (MYOSOTIS) Chronic bronchitis and phthisis. Night-sweats.",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "preparation": [
+      {
+        "text": "Herb. This plant has a strong affinity for the respiratory organs, especially the left lower lung. On the Continent it is sometimes made into a syrup and given for pulmonary affections. There is a tradition that a decoction or juice of the plant hardens steel.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

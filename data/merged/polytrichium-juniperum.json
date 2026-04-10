@@ -1,0 +1,38 @@
+{
+  "id": "polytrichium-juniperum",
+  "names": {
+    "primary": "Polytrichium Juniperum (WILLD.)",
+    "latin": "Polytrichium Juniperum (WILLD.)",
+    "common": [
+      "Moss, Hair Cap"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "High dry places, margins of woods, poor sandy soil.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The genus have free veins, globose sort, and peltate indusia; only a few species are found in Britain. These are perennial, slender and reddish colour, from 4 to 7 inches high. Leaves lanceolate and spreading, fruit four-sided capsule, evergreen, darker in colour than other mosses.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "A very valuable remedy in dropsy as a powerful diuretic, and used with hydragogue cathartics of decided advantage. Very useful in urinary obstructions, gravel, etc., causing no nausea, can be given alone or combined with broom or wild carrot, and is excellent if it is necessary to give it indefinitely as an infusion, which is taken in 4-OZ. doses.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

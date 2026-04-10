@@ -1,0 +1,29 @@
+{
+  "id": "sedum-acre",
+  "names": {
+    "primary": "SEDUM ACRE",
+    "latin": "SEDUM ACRE",
+    "common": [
+      "Small Houseleek"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Tincture to sixth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">SEDUM ACRE Small Houseleek Hæmorrhoidal pains, like those of anal fissures; constricting pains, worse few hours after stool. Fissures.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gums",
+  "names": {
+    "primary": "GUMS",
+    "latin": "GUMS",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY GUMS. Gums : Bor., Carb-v., Kre., Merc., Nux-v., Stap. Gums, upper : Calc-c., Rut. Gums, lower : Sars. Gums, inner : Pho., Stap. Gums, alternating sides : Aeth. Gums, bleeding : Pho-ac., Stap. Gums, boring : Merc. Gums, excoriated : Carb-v., Sep. Gums, receding : Carb-v., Merc. Gums, sore : Carb-v., Merc. Gums, suppurating , pyorrha : Calc-c., Carb-v., Cist., Hep., Merc., Pho., Pul. , Sil., Stap. Gums, swelled : Merc., Nux-v., Sep., Stap., Sul. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

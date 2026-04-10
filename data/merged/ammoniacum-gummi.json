@@ -1,0 +1,59 @@
+{
+  "id": "ammoniacum-gummi",
+  "names": {
+    "primary": "AMMONIACUM GUMMI",
+    "latin": "AMMONIACUM GUMMI",
+    "common": [
+      "Gum Ammoniac (AMMONIACUM-DOREMA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Catarrhal headache due to closure of frontal sinuses",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Dim sight. Stars and fiery points float before eyes. Easily fatigued from reading",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Throat dry; worse inhaling fresh air. Full feeling, burning and scraping sensation. Immediately after eating, sensation as if something stuck in œsophagus, causing swallowing",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Difficult breathing. Chronic bronchial catarrh. Large accumulation of purulent matter and feeble expectoration; worse cold weather. Mucus tough and hard. Heart beats stronger, extends to pit of stomach. Coarse rattling of chest in old people",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "relationships": {
+      "antidoted_by": [
+        "Bry",
+        "Arnica"
+      ]
+    },
+    "dosing": {
+      "notes": "Third trituration"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">AMMONIACUM GUMMI Gum Ammoniac (AMMONIACUM-DOREMA) A remedy for the aged and feeble, especially in chronic bronchitis. Ill humor. Sensitive to cold. Sensation of burning and scratching in neck and œsophagus.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "id": "sepia-officinalis",
+  "names": {
+    "primary": "SEPIA OFFICINALIS",
+    "latin": "SEPIA OFFICINALIS",
+    "common": [
+      "Inky Juice of Cuttlefish (SEPIA)"
+    ],
+    "synonyms": [
+      "Sepia officinalis"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Indifferent to those loved best. Averse to occupation, to family. Irritable; easily offended. Dreads to be alone. Very sad. Weeps when telling symptoms. Miserly. Anxious toward evening; indolent",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo, with sensation of something rolling round in head. Prodromal symptoms of apoplexy. Stinging pain from within outward and upward mostly left, or in forehead, with nausea, vomiting; worse indoors and when lying on painful side. Jerking of head backwards and forwards. Coldness of vertex. Headache in terrible shocks at menstrual nisus, with scanty flow. Hair falls out. Open fontanelles. Roots of hair sensitive. Pimples on forehead near hair",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Thick, greenish discharge; thick plugs and crusts. Yellowish saddle across nose. Atrophic catarrh with greenish crusts from anterior nose and pain at root of nose. Chronic nasal catarrh, especially post-nasal, dropping of heavy, lumpy discharges; must be hawked through the mouth",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Muscular asthenopia; black spots in the field of vision; asthenic inflammations, and in connection with uterine trouble. Aggravation of eye troubles morning and evening. Tarsal tumors. Ptosis, ciliary irritation. Venous congestion of the fundus",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Herpes behind ears on nape of neck. Pain as if from sub-cutaneous ulceration. Swelling and eruption of external ear",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "Yellow blotches; pale or sallow; yellow about mouth. Rosacea; saddle-like brownish distribution on nose and cheeks",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue white. Taste salty, putrid. Tongue foul, but clears during menses. Swelling and cracking of lower lip. Pain in teeth from 6 pm till midnight; worse on lying",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Feeling of goneness; not relieved by eating (Carb an). Nausea at smell or sight of food. Nausea worse lying on side. Tobacco dyspepsia. Everything tastes too salty (Carbo beg; Chin). Band of pain about four inches wide encircling hypochondria. Nausea in morning before eating. Disposition to vomit after eating. Burning in pit of stomach. Longing for vinegar, acids, and pickles. Worse, after milk, especially when boiled. Acid dyspepsia with bloated abdomen, sour eructations. Loathes fat",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Flatulent, with headache. Liver sore and painful; relieved by lying on right side. Many brown spots on abdomen. Feeling of relaxation and bearing-down in abdomen",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Bleeding at stool and fullness of rectum. Constipation; large, hard stools; feeling of a ball in rectum, cannot strain; with great tenesmus and pains shooting upward. Dark-brown, round balls glued together with mucus. Soft stool, difficult. Prolapsus ani (Pod). Almost constant oozing from anus. Infantile diarrhœa, worse from boiled milk, and rapid exhaustion. Pains shoot up in rectum and vagina",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Red, adhesive, sand in urine. Involuntary urination, during first sleep. Chronic cystitis, slow micturition, with bearing-down sensation above pubis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Organs cold. Offensive perspiration. Gleet; discharge from urethra only during night; no pain. Condylomata surround head of penis. Complaints from coition",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Pelvic organs relaxed. Bearing-down sensation as if everything would escape through vulva (Bell; Kreoso; Lac c; Lil t; Nat c; Pod); must cross limbs to prevent protrusion, or press against vulva. Leucorrhœa yellow, greenish; with much itching. Menses Too late and scanty, irregular; early and profuse; sharp clutching pains. Violent stitches upward in the vagina, from uterus to umbilicus. Prolapse of uterus and vagina. Morning sickness. Vagina painful, especially on coition",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Dry, fatiguing cough, apparently coming from stomach. Rotten-egg taste with coughing. Oppression of chest morning and evening. Dyspnœa; worse, after sleep; better, rapid motion. Cough in morning, with profuse expectoration, tasting salty (Phos; Ambr). Hypostatic pleuritis. Whooping-cough that drags on. Cough excited by tickling in larynx or chest",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Violent, intermittent palpitation. Beating in all arteries. Tremulous feeling with flushes",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Weakness in small of back. Pains extend into back. Coldness between shoulders",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Lower extremities lame and stiff, tension as if too short. Heaviness and bruised feeling. Restleness in all limbs, twitching and jerkings night and day. Pain in heel. Coldness of legs and feet",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Frequent flushes of heat; sweat from least motion. General lack of warmth of body. Feet cold and wet. Shivering, with thirst; worse, towards evening",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Herpes circinatus in isolated spots. Itching; not relieved by scratching; worse in bends of elbows and knees. Chloasma; herpetic eruption on lips, about mouth and nose. Ringworm-like eruption every spring. Urticaria on going in open air; better in warm room. Hyperidrosis and bromidrosis. Sweat on feet, worse on toes; intolerable odor. Lentigo in young women. Ichthyosis with offensive odor of skin",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "by exercise, pressure, warmth of bed, hot applications, drawing limbs up, cold bathing, after sleep",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "forenoons and evenings; washing, laundry-work, dampness, left side, after sweat; cold air, before thunder-storm",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "complementary": [
+        "Nat mur",
+        "Phosph"
+      ]
+    },
+    "dosing": {
+      "notes": "Twelfth, 30th and 200th potency. Should not be used too low or be repeated too frequently. On the other hand Dr. Jousset's unique experience is that is should be continued for some time in strong doses. 1x twice a day"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">SEPIA OFFICINALIS Inky Juice of Cuttlefish (SEPIA) Acts specially on the portal system, with venous congestion. Stasis and thereby ptosis of viscera and weariness and misery. Weakness, yellow complexion, bearing-down sensation, especially in women, upon whose organism it has most pronounced effect. Pains extend down to back, chills easily. Tendency to abortion. Hot flashes at menopause with weakness and perspiration. Upward tendency of its symptoms. Easy fainting. \"Ball\" sensation in inner parts. Sepia acts best on brunettes. All pains are from below up. One of the most important uterine remedies. Tubercular patients with chronic hepatic troubles and uterine reflexes. Feels cold even in warm room. Pulsating headache in cerebellum.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Sepia officinalis. Mind and Disposition. Sadness with weeping. Great indifference, even to one's family. Restlessness, fidgety. Great excitability in company. [5] Dread of being alone. Is easily offended and inclined to be vehement. Sadness about one's health and her domestic affairs. Anxiety, with flushes of heat. Aversion to one's occupation. [10] Heavy flow of ideas. Weak memory. Head. Stupefaction in the head (which disables him from performing any mental labor). Vertigo ; when walking in the open air, as if all the objects were moving around one, or as if suspended in the air, with unconsciousness ; when rising from the bed ; in the afternoon. Paroxysms of hemicrania, stinging pain as from within to without, in one side of the forehead or side of the head (mostly in the left side), with nausea (and vomiting) and contraction of the eye ; worse in the room and when walking fast, better in the open air and when lying on the painful side. [15] Boring headache from within to without, from the forenoon till evening, worse from motion and stooping, relieved by rest, when closing the eyes, from external pressure, and sleep. Pressing headache, as if the head should burst and the eyes fall out, with nausea. Sensation of coldness on the vertex ; worse from moving the head and stooping, better when at rest and in the open air. Pulsating headache in the cerebellum, beginning in the morning, worse in the evening, from the least motion, when turning the eyes, when lying on the back, better when closing the eyes and when at rest. Headache, as from commotion of the brain when stepping or when shaking the head, better when sitting up or from slow exercise. [20] Shooting pains, especially over the left eye, extorting cries. External coldness of the head. Eruptions on the vertex and back part of the head dry, offensive stinging, itching and tingling, with cracks, extending behind the ears, feeling sore when scratching them. Swelling on one side of the head above the temple, with itching ; sensation of coldness and tearing in it ; worse when touching it ; better when lying on it, or after rising from the bed. Involuntary jerking of the head backwards (or forward), principally in the forenoon and when sitting. [25] Sensitiveness of the roots of the hair ; worse in the evening, to contact, cold north wind, when lying on the painless side, and burning after scratching. Fontanelles remain open, with jerking of the head, pale bloated face, stomacace, green diarrhic stools. Perspiration on the head, smelling sour, with faintish weakness ; worse in the evening before going to sleep. Disposition to take cold on the head from dry, cold wind, and if the head gets wet. Itching on the head (nose and eyes). [30] Falling off of the hair. Small red pimples on the forehead ; rough forehead. Eyes. Pressure on the eyeballs. Inflammation of the eyes, with redness and stinging pain. Burning of the eyes in the morning. [35] Lachrymation in the morning and evening. The eyelids pain in the morning when awaking, as if they were too heavy, and as if he could not keep them open. Inability to open the eyelids at night. Heaviness and falling down of the upper eyelids as if they were paralyzed. Inflammation of the eyelids ; nightly agglutination of the eyes. [40] Eyelids red, swollen ; styes on them. Great sensitiveness of the eyes to the light of day. Yellow color of the white of the eyes. Black spots hovering and swimming before the eyes. Sparks before the eyes. [45] Green halo around the light of the candle. Pustules or fungus hæmatodes on the cornea. Ears. Stinging in the (left) ear. Discharge of thin matter from the ear. Much itching in the affected ear. [50] Over-sensitiveness to music. Swelling of and eruptions on the external ear. Tetters on the lobe of the ear, behind the ear (and on the neck). Nose. Nose swollen and inflamed, especially on the tip. Tip of the nose scurfy. [55] Ulcerated nostrils. Stoppage of the nose ; dry coryza. Violent bleeding of the nose, and blowing of blood from the nose. Loss of smell, or fetid smell before the nose. Ozna ; blowing of large lumps of yellow green mucus or yellow green membranes, with blood, from the nose. Face. [60] Pale yellow puffiness of the face, with blue margins around the eyes. Yellow color of the face (and of the white of the eyes). Yellow saddle across the nose and face. Yellowness around the mouth. Tetters around the mouth. [65] Moist, scaly eruptions in the red parts of the lips and on the chin. Swelling of the under lip. Erysipelas and swelling of one side of the face from the root of a decayed tooth. Herpes, scurfs and black pores in the face. Neuralgic pains in the face (left side, from abuse of tobacco). Mouth and Throat. [70] Toothache ; stinging, pulsating, extending to the ear during pregnancy, with shortness of breath, with swelled face and swelling of the submaxillary glands, aggravated from every cold draft of air, when touching the teeth, and when talking. The teeth are dull, loose, bleed easily and decay rapidly. Gums painfully swollen, bleeding without any cause. Bad smell from the mouth. Tongue and cavity of the mouth feel as if scalded. [75] Tongue coated white. Soreness of the tip of the tongue. Dryness of the throat, with tension and scraping. Soreness and stinging in the throat, with swelling of the submaxillary glands. Sensation as of a plug in the throat. [80] Hawking up of mucus in the morning. Stomach and Abdomen. Taste putrid or sour. Food tastes too salt. Canine hunger and sensation of emptiness in the stomach. Thirst in the morning or thirstlessness. [85] After eating, acidity in the mouth and bloatedness of the abdomen. Aversion to meat and milk, which cause diarrha. Eructations, sour or like rotten eggs, or bitter. Eructations which cause blood to rise in the mouth. Water-brash after drinking or eating. [90] Acidity of the stomach (with disgust for life). Nausea, especially in the morning and while fasting or when riding in a carriage. Nausea and vomiting after eating. Vomiting of pregnant women, sometimes of milky water. Vomiting, of bile and food, in the morning, with headache. [95] Painful sensation of emptiness in the stomach and abdomen. Pain in the stomach after eating. Pressure in the stomach, as from a stone, especially after eating or at night. Cutting, boring, from the region of the stomach towards the spine. Burning in the stomach. [100] Pulsation in the pit of the stomach. Rumbling in the abdomen, especially after eating. Soreness of the abdomen in pregnant women in the abdomen, pressing, cutting, stinging burning, coldness. Stitches in the liver and left hypochondrium. [105] Pot-belliedness of mothers. Brown spots on the abdomen. Stool and Anus. Constipation ; urging to stool ineffectual, with discharge of mucus or flatulence only. Stool insufficient, retarded, like sheep-dung. Insufficient stool, with straining and tenesmus. [110] Constipation during pregnancy. Difficult discharge even of the soft stool. Diarrha ; stools green, smelling sour, very debilitating ; after eating boiled milk. Small jelly-like stools, with tenesmus. Discharge of blood with the stool. [115] Prolapsus ani (during stool). Pain in the rectum, as from contraction. In the rectum and anus, itching, burning and stinging. Oozing from the rectum. Discharge of mucus, with stinging and tearing. [120] Prolapsus of the hæmorrhoidal tumor. Urinary Organs. Frequent urging to urinate, from pressure on the bladder. Frequent micturition ; even at night he has to rise frequently. Involuntary discharge of urine at night, especially in the first sleep. Burning in the bladder and in the orifice of the urethra. [125] Smarting in the urethra when urinating. Urine : turbid, with sediment of red sand ; blood-red, with white sediment and a cuticle on the surface ; very offensive, with much white sediment. Sexual Organs. Men . Continued erections at night. The prepuce ulcerates and itches continually. Weakness of the genitals ; they perspire profusely, especially the scrotum. [130] Scrotum swollen. Cutting in the testes. After coition great weakness in the knees. Women . Pressure, as if every thing would protrude (with oppression of breathing). Prolapsus of the uterus, of the vagina. [135] Induration of the neck of the uterus. Violent stitches in the vagina, upwards. Redness, swelling and itching humid eruption on the labiæ. Catamenia too early and too profuse, or too scanty, or suppressed. During menstruation, depression, toothache, headache, bleeding of the nose, and soreness in the limbs. [140] Leucorrha, of yellow or greenish water, like pus, or of bad-smelling fluids. Inclination to miscarriages. Respiratory Organs. Roughness and soreness of the larynx and throat. Hoarseness, with coryza and dry cough from titillation in the throat. Sensation of dryness in the larynx. [145] Dry cough, especially in the evening, in bed till midnight, frequently with nausea and bitter vomiting. Cough, especially evening and morning, with salty expectoration ; with rattling of mucus in the chest ; with expectoration only in the morning, or only during the night ; cough only during the day, or cough which wakens one at night. Expectoration, profuse, purulent, offensive, whitish, green, tasting salt. Cough, with soreness in the chest ; stitches in the chest or back. Expectoration difficult, or being obliged to swallow again what had been raised. [150] Attacks of spasmodic cough, like hooping-cough ; coughs in frequent succession, caused by tickling in the chest or from tickling extending from the larynx to the abdomen, with expectoration only in the morning, evening and at night of yellow, greenish-gray pus, or of milk-white, tough mucus, tasting salt, bitter, putrid or disagreeably sweet, which has to be swallowed again. Cough worse when at rest, when lying on the (left) side ; from acids. Itching and tickling in the chest. Sensation of emptiness in the chest. [155] Stitch in the left side of the chest and scapula when breathing and coughing. Dyspna ; oppression of the chest and shortness of breath when walking. Congestion of blood to the chest, with violent palpitation of the heart. Brown spots on the chest. Soreness of the nipples. The chest symptoms cease and are relieved by pressure of the hand on the thorax. Back and Neck. [160] Pressure and stitches in the right shoulder-blade. Stiffness in the small of the back and neck. Stitches posteriorly above the right hip ; she could not lie on the right side, and when touched it felt sore. Weakness in the small of the back when walking. Pulsation in the small of the back. [165] Stitches in the back when coughing. Perspiration in the back and arm-pit. Humid tetter in the arm-pit. Extremities. Upper . Paralytic drawing and tearing in the arm and arm-pit to the fingers. Pain as from dislocation in the shoulder-joint. [170] Stiffness of the elbow-joint. Stitches in the joints of the arm, hands and fingers. Swelling and suppuration of the axillary glands. Burning in the palms of the hands. Cold perspiration on the hands. [175] Cold hands (and feet). Herpes (scaling off) on the elbows. Painless ulcers on the joints and tips of the fingers. Itch and scabs oil the hands (soldiers' itch). Lower . Cramp pain ill the hip-joint. [180] Pain as if bruised in the right hip-joint. Stiffness of the legs up to the hip-joint, after sitting for a short time. Swelling of the limbs and feet ; worse when sitting or standing, better when walking. Stiffness of the knee-joint and ankle. Spasms in the buttocks at night, in bed, when stretching out the limb. [185] Restlessness in the legs every evening, with formication in them. Coldness in the legs and feet, especially in the evening in bed. Burning in the feet. Profuse perspiration of the feet. Stinging in the heels and in the corns. [190] Tension in the tendo-Achilles. Ulcer on the heel from a spreading blister. Painless ulcers on the joints and tips of the toes. Generalities. Heaviness in the body. Stiffness of the joints (hands, knees and feet). [195] Arthritic pains in the joints. Tearing in the muscles. Excessive sensitiveness of the body to pain. Sensation of contraction in outer parts. Sore pain in inner and outer parts. [200] Burning pain, especially in inner parts. Bleeding from inner parts. Congestions at night, with palpitation of the heart and pulsation all over. Jerking and twitching of the head and limbs during the day. Twitching in the muscles. [205] Inflammatory swellings. Stinging pains in the limbs, inner parts, bones. Tingling in outer parts. The limbs go to sleep easily after manual labor. Vibrations like dull tingling in the body. [210] Sensation as of a ball in inner parts. Fainting, after getting wet ; from riding in a carriage, and while kneeling in church. A short walk fatigues much. Aversion to the open air. Want of natural heat. [215] Weakness of the joints. Hysterical spasms. Sleep. Great sleepiness in day-time. Frequent awaking from sleep without cause. Talks aloud during sleep. [220] Twitching of the limbs during sleep. Awakens in the morning at 3 o'clock and cannot go to sleep again. Ebullitions at night, with restlessness. Nightly delirium. Fever. Pulse full and quick during the night and then intermitting, during the day slow. [225] The pulse is accelerated by motion and being angry. Pulsation in all the blood-vessels. Chill frequently setting in after previous heat. Chilliness in the open air, in the evening, and from every movement. During the chill more thirst than during the heat. [230] Chilliness with the pains. Flushes of heat at intervals during the day, especially in the afternoon and evening, while sitting or in the open air, generally with thirst and redness of the face. Profuse perspiration, more after than during exercise. Continuous, debilitating sweats. Continuous night and morning sweats. [235] Perspiration only on the upper part of the body. Perspiration smelling sour or offensive. Intermittent fever , with thirst during the chill ; pain in the limbs ; hands and feet icy cold ; the fingers feel as if they were dead ; followed by violent heat and inability to collect one's senses ; this is followed by profuse perspiration. Skin. Itching in the face, on the arms, hands, hips, feet, abdomen and genitals, changing to burning when scratching. Soreness of the skin and humid places in the bends of the joints. [240] Brown spots, or claret-colored, tetter-like spots on the skin. Pemphigus ; ring-worms ; boils ; blood-boils. Ulcers, painless (knuckles, finger-joints, tips of the fingers, joints and tips of the toes), or itching, stinging and burning. Humid tetters, with itching and burning. Lymphatic swellings. [245] Crippled nails. Conditions. The pains extend from other parts to the back. Especially suitable for persons with dark hair and for women, especially during pregnancy, in childbed, and while nursing. Aggravation in the forenoon and evening ; from mental exertion, from washing in water, from stretching the affected limb, when at rest, sitting, on bending down, after sexual excesses, after eating. Amelioration from warm air, on and after rising from the bed or seat and drawing up the limbs ; from violent exercise, except riding on horseback. [250] Bad effects from masturbation. Sepia follows well after Pulsatilla . Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "lippe-textbook-mm-1866"
+    ]
+  }
+}

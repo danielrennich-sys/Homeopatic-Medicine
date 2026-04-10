@@ -1,0 +1,85 @@
+{
+  "id": "squilla-maritima",
+  "names": {
+    "primary": "SQUILLA MARITIMA",
+    "latin": "SQUILLA MARITIMA",
+    "common": [
+      "Sea-onion"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "eyes": [
+      {
+        "text": "Feel irritable; child bores into them with fists. Sensation as if swimming in cold water",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Pressure like a stone",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Fluent coryza; margins of nostrils feel sore. Sneezing; throat irritated; short, dry cough; must take a deep breath. Dyspnœa and stitches in chest, and painful contraction of abdominal muscles. Violent, furious, exhausting cough, with much mucus; profuse, salty, slimy expectoration, and with involuntary spurting of urine and sneezing. Child rubs face with fist during cough (Caust; Puls). Cough provoked by taking a deep breath or cold drinks, from exertion, change from warm to cold air. Cough of measles. Frequent calls to urinate at night, passing large quantities (Phos ac). Sneezing with coughing",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "A cardiac stimulant affecting the peripheral vessels and coronary arteries",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Great urging; much watery urine. Involuntary spurting of urine when coughing (Caustic; Puls)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Small, red spots over body, with prickling pain",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Icy cold hands and feet, with warmth of the rest of the body (Menyanthes). Feet get sore from standing. Tender feet with shop girls",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "rest",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "motion",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "First to third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">SQUILLA MARITIMA Sea-onion A slow acting remedy. Corresponds to ailments requiring several days to reach their maximum. Persistent, dull, rheumatic pains permeate the body. A spleen medicine; stitches under left free ribs. Important heart and kidneys medicine. Broncho-pneumonia. Acts especially on mucous membranes of the respiratory and digestive tracts, and also upon the kidneys. Valuable in chronic bronchitis of old people with mucous rales, dyspnœa, and scanty urine.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

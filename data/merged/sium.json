@@ -1,0 +1,75 @@
+{
+  "id": "sium",
+  "names": {
+    "primary": "Sium",
+    "latin": "Sium",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T SIUM. Sium latifolium, Linn. Natural order , Umbelliferæ. Common name , Water parsnip. Preparation , Tincture of root. Authorities. 1 , White, Phil. Med. Times, 1873, p. 47, a man, aged forty-nine, ate less than an ounce of the root of the \"wild parsnip;\" 2 , Little, The Clinic, 7, 49, a man, aged sixteen, ate a piece as large as an almond of the common water parsnip, death in less than three hours. MIND. ► Much excited, [1] . ► Considerable mental anxiety (soon), [2] . ► Sense of fear of death, [1] . ► Lack of mental power, [1] . HEAD. ► Great dizziness, [1] . ► Headache, [1] . EYE. ► Pupils dilated, responding slowly to a bright light (after two hours), [2] . ► Pupils somewhat dilated, [1] . THROAT. ► Decided burning feeling along the alimentary tract (sophagus especially), [1] . [10.] ► Feeble efforts at deglutition when fauces were touched (after two hours), [2] . STOMACH. ► Became nauseated, and vomited what little he had eaten for dinner (after one hour); after a brief respite he was again seized with vomiting, at the close of which he fell into a convulsion, [2] . ► Unpleasant sensation about the stomach (soon), [2] . ABDOMEN. ► Sense of swelling and flatulence about the bowels, [1] . RESPIRATORY ORGANS. ► Respiration slow, [1] . ► Respiration slow and stertorous (after two hours), [2] . PULSE. ► Pulse 60 per minute, full and strong (after two hours); the circulation became weaker and weaker, the pulse being 40 per minute when last recognized, [2] . ► Pulse 44, [1] . GENERALITIES. ► Muscles in a state of tonic contraction; arms drawn toward the middle of the body; fingers flexed; opisthotonos well marked; greater contraction of the muscles on the left side than on the right (after two hours), [2] . ► Every few minutes there were spasms, at first violently clonic, but with each succeeding convulsion the violence diminished, so that they became little more than tremors; by degrees the character was changed until the last one (in which circulation and respiration ceased), which was a pure tonic spasm. At first the spasms were of short duration and the interval considerable, but the duration of the spasms increased and the interval diminished until it was scarcely appreciable, [2] . [20.] ► Loss of voluntary motion, [1] . ► Very prostrate in strength, [1] . FEVER. ► Skin cold and clammy, [1] . ► Head hot, rest of body cold (after two hours), [2] . ► Wet with perspiration (after two hours), [2] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Convulsions; Tetanus",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Breathing slow and stertorous. Muscles in a state of tonic contraction; arms drawn to middle of body; fingers flexed; opisthotonos; greater contraction of muscles of l. side than of r. Every few minutes spasms, at first violently clonic, diminishing with each succeeding convulsion till they became little more than tremors; by degrees the character changed until the last one (in which circulation and respiration ceased), which was a pure tonic spasm. Loss of voluntary motion. Prostration.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Our knowledge of Water-parsnip is derived from cases of poisoning through eating the root. The symptoms bear a strong resemblance to those of the other poisonous Umbelliferæ. The most pronounced features of the convulsions of Sium were the drawing of the arms to the middle of the body, flexure of the fingers, and the preponderance of the contractions on the left side. The lack of mental energy recalls the action of Æthusa.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Much excited. Fear of death. Lack of mental activity.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Dizziness; headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Pupils dilated, responded steadily to bright light.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Burning along alimentary tract, esp. œsophagus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea and vomiting, at end of which he fell into a convulsion. Sense of swelling and flatulence about bowels.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Skin cold and clammy. Head hot, rest of body cold. Wet with perspiration. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

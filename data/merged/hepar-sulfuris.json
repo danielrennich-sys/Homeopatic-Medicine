@@ -1,0 +1,349 @@
+{
+  "id": "hepar-sulfuris",
+  "names": {
+    "primary": "Hepar Sulfuris Calcareum",
+    "latin": "Hepar Sulfuris Calcareum",
+    "common": [],
+    "synonyms": [
+      "Hepar sulfuris calcareum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "HEPAR SULFURIS CALCAREUM.",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Hepar Sulphur",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Coldness: The Hepar patient is chilly. He is sensitive to the cold and wants an unusual amount of clothing when in cold air. He wants the sleeping room very warm and can endure much heat in the room, many degrees warmer than a healthy person ordinarily desires, He has no endurance in the cold and all his complaints are made worse in the cold. If he becomes cold in sleep his complaints come on or if he is out in the cold, dry wind, complaints come on; inflammatory and rheumatic complaints appear.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The exposure of hand or foot at night in bed brings on symptoms. He wants the covers drawn close about the neck when in bed. This patient is also oversensitive to impressions, to surroundings and to pain. What with an ordinary person would only be an ache or disagreeable sensation becomes with Hepar an intense suffering.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pains: But the pains of Hepar may be very severe, very sharp. Inflamed spots, eruptions, boils or suppurations are full of sharp pains. This is so intense that it is described at times, as a sticking and jagging like sharp sticks.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The pains in ulcers are often felt like sticks; intense and sharp as if sticks were jagging the ulcer. This sensation is often expressed by the patient suffering from sore throat. Lip feels as if he had swallowed a fish bone, or stick. This is in keeping with the general character, because it is present everywhere, in inflammations, ulcers, pustules, boils and eruptions; all seem to have sticks in them or some thing jagging.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Eruptions are sensitive, to touch. This accords with the oversensitiveness of the nerves found everywhere. The Hepar patient faints with pain, even from slight pain.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Mind: This remedy belongs to patients that are called delicate, that are oversensitive to impressions. The mind takes part in this oversensitiveness and manifests itself by a state of extreme irritability.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Every little thing that disturbs the patient makes him intensely angry, abusive and impulsive. The impulses will overwhelm him and make him wish to kill his best friend in an instant. Impulses also that are without cause sometimes crop out in Hepar.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "A man may have a sudden impulse to stab his friend. A barber has an impulse to cut the throat of his patron while in the chair. Mothers may have an impulse to throw the child into the fire or an impulse to set herself on fire; an impulse to do violence and to destroy. These symptoms increase to insanity and then the impulses are often carried out. It becomes a mania to set fire to things.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The patient is quarrelsome, hard to get along with; nothing pleases; everybody disturbs oversensitiveness to persons, to people and to places.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "He desires a constant change of persons and things and surroundings and each new surrounding or person or thing again displeases and makes him irritated. With this irritability of temper and physical irritability there is a tendency to suppuration in parts. Localized inflammations incline to suppurate, especially in glands and cellular tissue do we have suppuration and ulcers.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The glands of the neck, axilla and groin and the mammary glands swell, become hard and suppurate. First the hard swellings with the feeling as if they had sticks jagging in them, then it becomes highly inflamed and red over the part and ultimately it suppurates, discharges and heals slowly.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The bone even suppurates and takes on necrosis and caries. Felons around the root of the nail and ends of the fingers. The nail suppurates and loosens and comes off. Sensation of splinters under the nails, even when they do not suppurate.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The nails become hard and brittle. Warts crack open and bleed, sting and burn and suppurate. Hepar is especially useful in felons in such a constitution as described, but sometimes you will have nothing more than the fact that the patient is a scrawny, chilly patient, who is always taking cold and subject to felons. I have often had to give Hepar on no better information and have known it to stop the tendency to felons. It also competes with Silica.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The patient is often scrawny, and has a tendency to enlargement of glands. The lymphatic glands are generally hard and enlarged, They are chronically enlarged without suppuration, and at any cold that comes on some particular gland may suppurate.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The catarrhal state: is general.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There is no mucous membrane exempt, but especially do we have catarrh of the nose, ears, throat, larynx and chest. The Hepar patient is subject to coryza. In some instances the colds settle in the nose and then there will be much discharge, with sneezing every, time he goes into a cold wind.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The cold winds bring on sneezing and running from the nose, first of a watery character and finally ending in a thick, yellow, offensive discharge.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Discharges: These offensive discharges smell like decomposed cheese, and this characteristic runs through the remedy.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The discharges from all parts of the body smell like old cheese. The discharges from ulcers are offensive, and have a decomposed, cheesy smell. It has discharges running through it also that smell sour, and this is also a general because it modifies all things that can be sour.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The babies are always sour in spite of much washing. Or it may be noticed by the members of the family that one of the family always smells sour, has a sour perspiration. The discharges from ulcers are sour, and also discharges from, mucous membranes. The discharge from the nose becomes copious, and causes ulceration in patches.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Throat and cough: The throat has a catarrhal condition; the whole pharynx is in a catarrhal state with copious discharge. Throat extremely sensitive to touch; pain as if full of splinters; pain on swallowing. The larynx also is painful on talking; painful as a bolus of food goes down behind the larynx, and painful to touch with the hand.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There is a loss of voice, and a dry, hoarse bark in adults, especially in the mornings and evenings. Every time he goes out in the dry, cold wind, he becomes hoarse, loses the voice and coughs. It is a dry, hoarse, barking cough. Inspiring cold air will increase the cough and putting the hand out of bed will increase the pain in the larynx or cough.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Putting the hand or foot out of bed brings a general aggravation of all the complaints of Hepar. Putting the hand out of bed accidentally when sleeping will bring on cough, and cause sneezing. The larynx has its catarrhal state, and in oversensitive children this catarrhal state becomes a croup.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sensitive children that are exposed during the day in a cold, dry wind, or cold air, come down next morning with a violent attack of croup. The Hepar croup is worse in the morning and in the evening; evening until midnight. Sometimes cases that at first call for Aconite run into Hepar.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The Acon. croup comes on with great violence, worse in the evening before midnight. The child wakes up from its first sleep with a hoarse, barking croup. A dose of Aconit may prove entirely sufficient; or it may be only a palliative.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The child goes to sleep and along towards morning, or at least sometime after midnight, there is another attack, which shows that Acon. was not sufficient. Such a case will be controlled by Hepar.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "When the croup comes on after midnight and the child wakes up frightened, suffocating, rouses up in bed with a dry, hoarse and ringing cough, which rings like a dry whoop, then Spongia will nearly always be the remedy, and again if Spongia palliates it and it is not sufficiently deep and there is a morning aggravation which shows that the trouble is returning Hepar follows. Acon., Hepar and Spongia are closely related to each other and they are truly great croup remedies.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Dry, paroxysmal cough from evening until midnight and sometimes lasting all night, with choking, gagging and crouping; some loose coughing in the daytime; rawness and scraping the larynx; worse in cold air or uncovering hand or foot in bed.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The catarrhal state is sometimes lower down in the trachea, and the trachea becomes extremely sore from much coughing. The patient has been coughing days and weeks and has the morning and evening aggravations; a rattling, barking cough with great soreness of the chest in an oversensitive and chilly patient.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The cough is attended with choking and gagging, even to vomiting; it is worse in the cold air, and from putting the band out of bed. He coughs and sweats. There is much sweating the whole night, without relief. Sweating all night without relief belongs to a great many complaints of Hepar. He sweats easily, so that with the cough and on the slightest exertion he is fairly drenched with perspiration.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ears: It has catarrhal affections of the ear.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "A sudden inflammation comes on in the middle ear, an abscess forms, the drum of the car ruptures and there is a bloody discharge and sticking, tearing pains in the inflamed ear. There is first a sensation of stopping up of the ear, then, bursting and pressure in the ear, and then perforation of the drum.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There is also an inflammatory condition causing a discharge that is foetid, or a bloody yellow, purulent discharge, thick, with cheesy particles and smelling like old cheese.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Eyes: Hepar sometimes is bad on the oculist.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "When it is indicated, it cures eyes very quickly, so that the oculist does not have a very long case and it does away with the necessity for washes in the hands of the specialist. From the eyes we have the same offensive thick, purulent discharge. Inflammation of the eyes attended with, little ulcers.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ulcers of the cornea, granulations, bloody, offensive discharge from the eyes. The eyes look red, the lids are inflamed, the edges are turned out and the margin of the lids become ulcerated. In all sorts of so called scrofulous affections, the eye conditions may be covered by Hepar when the constitutional state is present.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The constitutional state of the patient is the only guide to the remedy. Many times the eye symptoms are nondescript. You have only an inflamed eye with catarrhal discharge, and for this you could give a large number of the anti-psorics; but when you go into the state of the patient and find these general symptoms, then this remedy will cure.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The general symptoms will guide to the remedy that will cure the eyes. You will see that the specialist for the eyes is often limited unless he knows how to secure all the symptoms of the patient and selects the remedy upon the totality of the symptoms.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Bladder: There are other catarrhal, conditions. Catarrh of the bladder, with purulent discharges in the urine and copious muco-purulent deposits. Ulcers of the bladder. The walls of the bladder become hardened, so that it has almost no power to expel its contents, and the urine passes in a slow stream or in drops, or in the male the stream falls down perpendicularly. No ability to expel the urine with force. It is a paresis. There is burning in the bladder and frequent, almost constant, urging to urinate. It has also a catarrhal state of the urethra that resembles gonorrhoea, and it has been a very useful remedy in chilly patients with gleety discharge of long standing. Thick discharge of a white, cheesy character. Ulcers and little inflammatory spots along the urethra.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There is a sticking sensation here and there along the urethra and when passing urine a sensation of a splinter in the urethra. Copious leucorrhoea with the same offensive, cheesy smell.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Leucorrhea: The leucorrhea is so copious that she is compelled to wear a napkin, and the napkins, I have been told by women who have been cured by Hepar, are so offensive that they must be taken away and washed at once because the odor permeates the rooms.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This horribly offensive odor that is so permeating is often cured by Kali phos. It has really one of the most penetrating of odors, so much so that when a woman suffers from this leucorrhoea the odor can be detected when she enters the room.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "A very important sphere for Hepar is after mercurialisation. Many old people are walking the street at the present day who have been the victims of Calomel, who have been salivated, who have taken blue pill for recurrent bilious spells, to \"tap the liver,\" until finally they get into a state of chilliness felt, as it were, in the bone.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "They sweat much about the head, they ache in the bones, and every change of weather to cold, and every cold, damp spell affects them. They, are like barometers. Hepar is the remedy for that state.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "They go into diseases of the bone easily and are always shivering. While they have periods of aggravation from warmth, as a general rule they are chilly subjects, and feel the cold easily. In the more acute affections of Mercury there is an aggravation from the warmth of the bed, but the old subjects who have been years ago poisoned with it get almost bloodless, and they become chilly; they cannot get- clothing enough ib keep them warm.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "They become withered and shriveled, and have rheumatic affections about the joints. Then it is that the symptoms of Hepar agree and it becomes a valuable antidote to that state of mercurialisation.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Hepar is also a complement and antidote to potentized Mercury. When Merc. has been administered and has done all it can do as a curative remedy, or when it has acted improperly and has some, what mixed up the case and it is necessary to follow it with the natural complement or antidote and prepare for another series, Hepar is to be thought of as one of the natural followers of Merc. it is well known that Merc. is not followed well by Silica. Sil. does not do useful work when Merc. is still acting or has been acting.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This is the time that Hepar becomes an intercurrent remedy. Sil. follows well after Hepar, and Hepar follows well after Merc., and thus becomes an intercurrent in that series.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "In old syphilitic cases when the symptoms agree Hepar is a very full and complete remedy. It corresponds to the majority of symptoms of syphilis, and it only needs to correspond to the symptoms of the individual patient when he is syphilitic to be indicated. Thus in old cases who have been mercurialized, who have had the symptoms suppressed so that the disease is latent and ready to crop out at any time, Hepar will come in and have a decided effect upon the syphilis and upon the mercury.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It will straighten matters out and cause a development that will lead to clear prescribing. In this relationship to syphilis and mercury Hepar is closely allied to Staph., Asa f., Nit. acid, Sil., etc.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Especially Hepar the remedy in those cases of syphilis where great quantities of mercury have been taken, until it is no longer able to suppress the symptoms of the disease; in old cases when the syphilitic miasm attacks the bones of the nose and they sink in, or a great ulceration takes place; those cases you sometimes see walking around the street, with a big patch over the nose or over the opening that leads down into the nasal cavity.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Nose: When there is severe pain in the region of the nasal bones, the bridge of the nose is so sensitive that it cannot be touched and in the root of the nose there is a sensation as if a splinter were sticking in. For offensive discharge from the nose, foetid oezena in an old case, which has been mercurialized, who is chilly in his very bones, think of Hepar. It has cured many such cases; it has healed up the ulcers; it has cured the catarrhal state, and it has hastened the healing up of the portions of diseased bone, by hastening the suppuration and has returned the patient to an orderly state.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Throat: As we go into the syphilitic affections that lead into the throat, we find ulcers of the soft palate which eat away the uvula, small ulcers which finally unite and destroy the soft palate and then commence to work upon the osseous portion of the roof of the mouth.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The odor that comes from that mouth when it is opened to show the throat is extremely offensive; very often like spoiled cheese. The medicines that are especially related, or especially useful in this form of ulceration in old syphilitics, will be Kali bi., Lach., Merc. cor., Merc. and Hepar, but in those syphilitic cases that have been mercurialized Hepar and Nitric acid should be thought of.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Nitric acid is very closely related to Hepar; it is just as chilly; it has the sensation of sticks in the throat and in inflamed parts. It has fine ulcers in the throat, upon the tonsils and in the larynx. Nitric acid competes with Hepar.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "You think of the two together. Both have sensation of a fish bone or stick in the throat.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The cartilages of the larynx become attacked in syphilitic affections and old mercurial affections. When the case is not of syphilitic origin but is of sycotic origin, small or large white gelatinous polypi form in the larynx and they are sore, causing loss of voice, or cracked voice; when they cause choking or uneasiness, Hepar is one of the remedies. Hepar, Calc., Arg. nit and Nit. ac. and sometimes Thuja are the remedies related to such conditions.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Genitals: Again, in the earlier syphilitic manifestations, the chancre has the feeling of a stick in it; then comes the formation of a bubo that may be either non-suppurative or a suppurating gland, associated with a chancre or a harmless ulcer upon the penis. These conditions are often indications for Hepar, when the constitutional state is present.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Hepar has also sycotic warts. It is useful in old cases of gleet; also when there is a sensation of a splinter in the urethra. In strictures and constrictions of inflammatory character during the inflammation there is a tendency to ulcerate, and with this the sensation of a stick is felt.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Arg. nit., Nit. ac. and Hepar run close together for this kind of inflammation, and will cure the inflammatory stricture before it becomes a complete and permanent fibrinous stricture.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It is only very rarely that you will be able with your medicines to cure a stricture after it has taken on permanency, after it is many years old, but as long as the inflammation keeps up there is hope.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "I remember one very old one that was cured by Sepia. I did not know at first of its presence, but prescribed Sepia on the symptoms of the case, and the patient came back with great suffering in the urethra, and then confessed to me that he had had gonorrhoea and had been troubled for years with a stricture. That inflammation was aroused anew and after it ran its course it really left the passage clear and there was never any more trouble with the stricture.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "That was a very unusual result. I have many times prescribed for patients with the utmost endeavors to do the same thing, and have cured the patient in other respects, but the stricture would remain. Remember then that Hepar has fig warts, chronic sycotic discharges, or chronic gonorrhoea, offensive, cheesy discharges, the sensation of sticks in the urethra, inflammatory stricture, which will be associated with difficulty in passing urine, to the extent that there is a weakness of the bladder and the urine falls perpendicularly.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Suppuration: Hepar has served a valuable purpose in its ability to establish suppuration around foreign bodies. For instance, a foreign body is under the skin or is somewhere unknown. Perhaps it is the tip end of a projectile after the projectile itself has been taken away, or under the nail a splinter is forming a suppuration. It is so small that it is hardly observed and it is supposed often that the splinter has been entirely removed, but an inflammatory condition starts up.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Hepar if indicated by the general symptoms of the patient hastens the suppuration and heals up the finger, for it has all such things. Silica is another remedy capable of establishing inflammation and suppuration and removes little foreign bodies that cannot be located.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Of course it is understood that if the physician knows the location of a splinter, he will take such steps as are necessary to remove it, and not wait for the action of a remedy. But at times a needle point breaks off against the bone of the finger of a seamstress, or small portions of the needle may exist where they cannot be found without an immense amount of slashing which the patient refuses. Hepar or Silica will remove it. A little abscess will form and the little mite will be discharged.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Knowing that these two remedies have this tendency to establish a suppuration wherever there are foreign bodies, it is well to be reminded that if a bullet were encysted in the lungs it would be well, if the symptoms called for Hepar or Silica, to consider whether it might not be injurious to give a remedy that would establish a suppuration. It might be that the bullet is resting in a vital place, in a net-work of arteries, and it would be well not to establish suppuration in this vital region.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Deposits, of a tubercular character are often located in a place that they can easily be suppurated out, and the action of the remedy on them would be the same as a foreign body. Hence it is that Hepar, after its administration, will very often abolish a crop of boils all over the economy because in the skin there are small accumulations of sebaceous matter and these will be suppurated out.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sulphur also does this, so that it may be well to be careful and not give Silica or Sulphur, or Hepar too often, or too high, in patients that have encysted tubercle in the lungs. Rokitansky in his numerous post-mortems found a large number of encysted caseous deposits in the lungs, in cases that had lived and outgrown these trouble; they had become encysted and therefore perfectly safe and the patient had died of something else.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It might be dangerous to administer these medicines that have a tendency to cause suppuration in such, and you should at least proceed cautiously in using them. After you have seen a great many cases you will find that you have killed some of them. If our medicines were not powerful enough to kill folks, they would not be powerful enough to cure sick folks. It is well for you to realize that you are dealing with razors when dealing with high potencies.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "I would rather be in a room with a dozen negroes slashing with razors than in the hands of ail ignorant prescriber of high potencies. They are means of tremendous harm, as well as of tremendous good.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "In contrast with Hepar (although Hepar is a form of Calcarea), Calc. carb. has no such tearing down nature in it. It does not establish inflammation around foreign bodies and tend to suppurate them but causes a fibrous deposit around bullets and other foreign, substances in the flesh. It causes tubercular deposits to harden and contract and become encysted.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Many excellent homoeopathic physicians have said to me,",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"I do not agree with you as to the danger of Sulphur in phthisical cases. I have cured cases of phthisis with Sulphur.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "So have I many of them. But I did not refer to curable cases, but to those cases which are well developed and have gave symptoms. It is well to know all the elements in the case; then if you have administered a remedy and killed your patient, you know at least what you have done.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It is better to know what you have done if you have killed your patient, than to be ignorant of it and go on and kill some more in the same way.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-lectures-1905"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T <<<<< HEPAR SULFURIS CALCAREUM. ABDOMEN. ► Hypochondria. ► Painful rush of blood to both hypochondria; it hurts on every step, [1] . ► A feeling of congestion in both hypochondria; on every step when walking, [1] . ► Distension in the left hypochondrium, as from flatulence, [1] . ► Pressure in the right hypochondrium like a stone, for a quarter of an hour, with cramps in the stomach (third day), [5] . ► Cramplike pressure in the right hypochondrium, with nausea, followed by urging to stool without result (fourth day), [5] . ► Sticking in the right hypochondrium, in the morning (first day), [5] . [290.] ► Violent stitches in the left side of the abdomen just beneath the ribs, [1] . ► Sticking in the hepatic region , when walking, [1] . ► Sticking in the spleen, when walking, [1] . ► Umbilical. ► *Clawing in the umbilical region, extending from both sides of the abdomen towards the middle, and sometimes up to the pit of the stomach, causing nausea, with anxious heat of the cheeks, by paroxysms; almost like the effects of taking cold, or the preliminaries of menstruation , [1] . ► Twisting sensation above the umbilicus, [1] . ► Sore pain above the navel, [1] . ► General Abdomen. ► Distension of the abdomen, after the stool, [1] . ► Distension, with painful sensitiveness of the abdomen, worse when walking than when sitting (second day), [1] . ► Hard distension of the abdomen, for three hours after dinner (third day), [1] . ►► *Abdomen distended, tense , [1] . [300.] ► Abdomen distended, thick, without flatulence, [1] . ► Fermentation in the abdomen above the umbilicus, with eructations of hot air, [1] . ► Noisy movements of flatulence in the abdomen, [1] . ► *Rumbling in the abdomen , [1] . ► Emission of flatulence at night, [1] . ► Emission of flatulence every morning, with an unpleasant sensation like a kind of colic about the abdomen, especially in the sides, [1] . ► Feeling of emptiness in the intestines, [1] . ► Feeling of heat in the abdomen, after eating, [1] . ► Tension of the abdomen the whole day, [1] . ► A spasmodic pinching tension in the abdomen, several times daily, [1] . [310.] ► Pain like a constriction in the abdomen, before eating, [1] . ► Contractive pain in the abdomen, [1] . ► Cramps in the abdomen, [1] . ► Griping in the abdomen, with a soft stool, in the morning, for several mornings, [1] . ► Griping colic, as from taking cold, [1] . ► An unpleasant though quiet aching, almost as from a bruise in the abdomen, in the morning on waking, lasting for some time after rising, together with a similar pain in the forehead, [1] . ► Drawing pain in the abdomen, [1] . ► Drawing pain in the upper abdomen, and at the same time across the small of the back (immediately), [1] . ► Pressure in the abdomen beneath the pit of the stomach, with a feeling as if everything in the abdomen were hard like a stone, [1] . ► Violent pressure, almost sticking, in the left side of the abdomen, when riding in a wagon, [1] . [320.] ► Pressive pain in the abdomen, near the hips and about them, for fourteen days, [1] . ► *Cutting pains in the abdomen, [1] . ► Cutting colic, without diarrha, for several days, towards evening, [1] . ► Sticking pain in the abdomen, [1] . ► Colic; sticking, cutting, and griping here and there in the abdomen, as from flatulence, many hours after mealtime, more acute on every pulsation, [1] . ► Periodic colic, during the fever, [10] . ► Bruised pain in the intestines, when walking (after eighteen hours), [1] . ► Smarting pain in the left side of the abdomen, [1] . ► Hypogastrium and Iliac Regions. ► Fulness in the lower abdomen, immediately after eating, [1] . ► Smarting aching in the lower abdomen, [1] . [330.] ► Suppuration of the inguinal glands, buboes, [1] . ► The inguinal glands become painful, especially when touched, with a feeling as though they were swollen, [1] . RECTUM AND ANUS. ► Protrusion of the hæmorrhoids from the rectum, [1] . ► Rumbling in the rectum, [1] . ► Crawling in the rectum, as from thread-worms, [1] . ► Burning in the anus, [1] . ► Feeling of soreness in the anus and discharge of moisture after the stool, [1] . ► Urging to stool very often, without being able to accomplish anything, with many eructations, [1] . STOOL. ► Diarrha. ► *Diarrha , [11] . ► Diarrha and colic, with inclination to lie down, hot hands and cheeks, [1] . [340.] ► Diarrha of bloody mucus, with rumbling, as if behind in the back, without colic, [1] . ► Diarrha-like stools three times, with a qualmish sensation in the abdomen, and rumbling in it, [1] . ► Slight diarrha-like stools twice a day, preceded by some griping, followed by flatulence before the stool, and some flatulence also afterwards, [1] . ► Frequent stools, even at night, though only very little is passed with pressure; tenesmus and weakness, [1] . ► Stool, every half hour, of a dark brownish liquid, with yellow lumps of greenish bloody mucus, of a very penetrating odor like bad eggs, preceded by violent colicky, cutting, and tearing pains in the whole abdomen, especially in the umbilical region, extending deep into the pelvis; these became worse before every stool; the stools were accompanied by rumbling and exceedingly urgent desire, so that they frequently passed in bed; tenesmus with the stools, but not afterwards, [10] . ► Thin stools, becoming more frequent during the night, [10] . ►► *Stool soft, yet passed with great exertion , [1] . ► *Greenish stool , [1] . ►► *Clay-colored stool , [1] . ► Passage of blood with the stool, [1] . [350.] ► Blood from the rectum, with a soft stool, [1] . ► Constipation. ► Inactivity of the rectum; the stool is hard and unsatisfactory, with swelling of the anus, [1] . ►► *Urging to stool, but the large intestines are wanting in peristaltic action, and cannot expel the fæces, which are not hard; only a portion of which can be forced out be the aid of the abdominal muscles , [1] . ►► *Very difficult passage of scanty, not hard, fæces, with much urging , [1] . ► Stool, consisting of hard pieces mixed with yellow moisture, after great exertion, [1] . URINARY ORGANS. ► Urethra. ► *The meatus urinarius is red and inflamed , [1] . ► Discharge of prostatic fluid at times during the stool, [1] . ► Burning of the urine during micturition , [1] . ► Cutting in the female urethra, during micturition, [1] . ► Several stitches in the urethra, [1] . [360.] ► Acute sore pain in the urethra, during micturition, [1] . ► Micturition. ► Frequent desire to urinate, [1] . ► Violent urging to urinate, in the morning on waking, with, however, difficult slow passage of the urine, [1] . ► Much micturition (after four days), [1] . ►► *Micturition impeded; he is obliged to wait awhile before the urine passes, and then if flows slowly, for many days , [1] . ►► *He is never able to finish urinating; it seems as though some urine always remains behind in the bladder , [1] . ►► **Weakness of the bladder; the urine drops vertically down, and he is obliged to wait awhile before any passes , [1] . ► Urine. ► Urine dark, scanty, [10] . ► Urine brownish-red, [1] . ► Urine blood-red, [1] . [370.] ► Urine dark yellow, burning during the discharge, [1] . ► Emission of much pale urine, with pressure on the bladder, [1] . ► A shimmering film upon the urine, [1] . ► Pellicular fat upon the urine, [1] . ► *Acrid, burning urine, making the inner surface of the prepuce sore and ulcerated , [1] . ► *The last drops of the urine are bloody, [1] . ► *The urine is acrid and bites the pudenda during its discharge , [1] . ► *Urine milky, turbid, even while passing, with a white sediment , [1] . ► *Emission of pale clear urine, which on standing becomes turbid and thick, and deposits a white sediment , [1] . SEXUAL ORGANS. ► Male. ► Excitement of the genitals, even to emission of semen, without amorous fancies or desire for women, [1] . [380.] ► He frequently awoke at night, with erections and desire to urinate, [1] . ► Painful erections during caresses, with feeling of soreness and pinching pain in the whole penis, extending from the bladder, [1] . ► Genitals weakened, the testicles relaxed, the penis of unnatural hardness, [1] . ► Sticking pain in the prepuce, [1] . ► Itching of the glans penis, [1] . ► Itching in the region of the frænum præputii, [1] . ► Diminished sexual desire, [1] . ► Female. ► Discharge of blood from the uterus , almost immediately, and again after ten or twelve days, following the distension of the abdomen, [1] . ► Great soreness on the pudenda and between the thighs, [1] . ► Much itching on the pudenda, during menstruation, [1] . [390.] ► Menstruation delayed for ten days, and the discharge diminished, [1] . RESPIRATORY APPARATUS. ► Larynx. ► *Pressure beneath the larynx, immediately after supper, as if something were sticking in the throat , [1] . ► She awoke about midnight with tickling in the larynx, which provoked cough and expectoration, [1] . ► Voice. ► *Weakness of the organs of speech and of the chest, so that she cannot speak aloud , [1] . ► Cough and Expectoration. ► Cough, day and night, [1] . ► Cough, in the morning, which frequently wakes her from sleep, [1] . ► Cough torments her very much in the evening, [1] . ► Cough, evening and morning, [1] . ► *Cough, almost uninterrupted, from tickling in the upper part of the left side of the throat, worse when talking and stooping, constantly getting worse till late in the evening, and then suddenly ceasing , [1] . ►► **Paroxysms of cough, as from taking cold, with excessive sensitiveness of the nervous system, as soon as only the slightest portion of the body becomes cold , [1] . [400.] ► Violent attacks of cough from time to time, as if to suffocation or vomiting, [1] . ► *Cough, which provokes vomiting , [1] . ► Suffocative cough, simply caused by tightness of breath , [1] . ► Forcible deep cough in a few paroxysms, which painfully shocks the larynx and causes retching, [1] . ► *Hacking cough, immediately after eating , [1] . ► *Scraping, rough cough , [1] . ► Tickling cough at 3 P.M. (third day), [5] . ► Dry cough (eighteenth day), [5] . ► Dry cough, with tightness of the chest and sore throat (after seven days), [7] . ► *Dry cough, in the evening on going to sleep (fourth day), [1] . [410.] ► *Paroxysms of dry cough, in the evening , [1] . ► Deep dry cough, from tightness of breath, on inspiration, with pain in the chest as if sore, on every paroxysm of cough, [1] . ► Short, dry, painless cough, from time to time, [1] . ► Cough, with expectoration, [1] . ► Cough, with much expectoration, in violent paroxysms every three or four hours, but not waking from sleep at night, [1] . ► Cough, with expectoration of mucus, the whole day, caused by scraping irritation in the larynx, but especially in the throat, [2] . ► Violent cough (with expectoration of mucus) from 11 to 12 at night in bed, [1] . ► Cough, with expectoration of bloody mucus, twice (tenth day), [5] . ► Bloody cough, preceded by a sensation in the pit of the stomach as of a hard body there; offensive perspiration after the cough, followed by weakness of the head, [1] . ► Expectoration of acid mucus at night, almost without cough, [1] . [420.] ► Bloody expectoration from the chest, with a peevish mood and weakness, [1] . ► *The cough was so aggravated by deep breathing that it caused vomiting , [1] . ► The cough torments him most when walking, [1] . ► Respiration. ► Frequent deep breathing, as after running , [1] . ►► *Dyspna , [1] . CHEST. ► Objective. ► Tenacious mucus in the chest (fifth day), [1] . ► Suppuration on the last right rib, with sticking aching in it, and great painfulness when touched, [1] . ► Subjective. ► Heat in the left side of the chest above the heart, [1] . ► Feeling in the chest as if hot water were moving in it, [1] . ► Sensation as of drops of hot water in the chest (after three days), [8] . [430.] ► Oppression and burning in the chest (second day), [5] . ► Sticking in the breast-bone, when breathing and walking, [1] . ► Pain in the side upon which he lies at night, gradually making him uncomfortable, so that he is obliged to turn over, [1] . ► Pain in the chest, a pressure in the left side of the chest, [1] . ► Sticking pain in the side of the chest, extending to the back, [1] . ► Painful sensitiveness of the flesh of the right side of the chest and beneath the right arm, on touching the breast or moving the arm, [1] . ► Itching of the left nipple, [1] . HEART AND PULSE. ► Stitches in the region of the heart, [1] . ► Violent palpitation, with tightness of the chest, and need of taking a deep breath, after dinner, [1] . ► Violent palpitation, with fine stitches in the heart and in the left side of the chest, [1] . [440.] ► Pulse rapid and hard, [11] . NECK AND BACK. ► Neck. ► Bruised pain in the nape of the neck, on bending the head backwards, [1] . ► Bruised pain in the cervical muscles, with pain in the throat on swallowing, as from an internal swelling, [1] . ► The muscles of the nape of the neck, especially at the two sides beneath the ears, are very painful to touch (eighteenth day), [5] . ► Back. ► Great weakness of the whole spine, [1] . ► A tensive kind of backache, which becomes worse on turning the body at night, [1] . ► Drawing in the whole of the back and in the sacrum, in the morning, in bed; the whole back is painful after rising, so that she can scarcely move, with weakness of the limbs, aversion to eating or working, with shivering, chilliness, and loss of thirst, [1] . ► Stitches in the back and region of the left kidney, [1] . ► Stitches in the left side of the back, [1] . ► Some violent stitches in the back, [1] . ► Dorsal. [450.] ► Pain between the shoulder-blades, [1] . ► A sensation in the right scapula as if there were something flowing or running internally, during micturition, [1] . ► Stitches in the back between the shoulder-blades, [1] . ► Stitches in the right scapula, when blowing the nose, hawking, and on deep breathing, [1] . ► Lumbar. ► Pain as if sprained in the loins and ischia, on sitting and on turning the body, when walking, [1] . ► Stitches in the left side of the loins (fifth day), [5] . ► Pain in the small of the back, frequently repeated, [1] . ► Pain in the small of the back, worse when walking, extending downward and upward, [2] . ► Pain in the small of the back, as from fatigue, on stooping and leaning against anything when sitting, [1] . ► Violent pain in the small of the back, as it cut in two, during rest and motion, so that she can neither stand, walk, nor lie, [1] . [460.] ► Sticking in the small of the back, with cough (seventh day), [5] . ► Bruised pain in the small of the back, on walking (first day), [1] . ► Bruised and sharp pressive pain in the small of the back and lumbar vertebræ, especially at the articulations of the sacrum with the pelvis, extending down into the lower limbs, painful even while sitting, standing, and lying, and when walking causing a kind of limping, [1] . EXTREMITIES IN GENERAL. ► Heaviness in the limbs, [1] . ► Uneasiness in the limbs, at night, with trembling of them, [1] . ► Sick in all the limbs, as if he were getting a cold, [1] . ► A painful tension in the limbs, at night, which does not permit sleep, [1] . ► *Drawing pain in the limbs , with paralytic sensation, especially in the thighs and legs, [1] . ► Drawing pain in the joints of the shoulders, hips, and especially the knees, [1] . ► Stitches in the joints, during rest and motion, [1] . [470.] ► Crawling pains in the limbs, which bend him quite up, mostly while walking and standing, [1] . SUPERIOR EXTREMITIES. ► Some jerkings here and there in the left arm, [1] . ► Great weariness in both arms, [1] . ► The arm upon which he is leaning at night falls asleep, [1] . ► Bruised pain in both arms, [1] . ► Shoulder. ► The glands in the axillæ suppurate , [1] . ► The shoulders pain on raising the arms, [1] . ► Drawing pain in the shoulders, [1] . ► Pain as of a weight upon the shoulders, [1] . ► Pain as from a sprain, in the shoulder, [1] . [480.] ► Fine tearings in the left shoulder, [1] . ► Arm. ► Drawing pain in the left upper arm, [1] . ► Bruised pain in the bone of the upper arm , [1] . ► Elbow. ► Exceedingly violent pain in the bends of the elbows, on stretching out the arms, [1] . ► Pressive pain or feeling as if bruised in the tip of the elbow, only on moving, after violent walking, disappearing in the open air, [1] . ► Forearm. ► Painful drawing in the flexor tendons of the forearm, [1] . ► Drawing tearing in the extensor muscles of the forearms and fingers, [1] . ► Boring, pressive, sore pain on the inner side of the forearm and across the back of the hand, after midnight, aggravated by touch; less during the day, [1] . ► Bruised pain in a small spot on the forearm, [1] . ► Wrist. ► The wrist is painful, [1] . ► Hand. [490.] ► Swelling of the right hand, [1] . ► Unsteadiness of the hands and trembling of them when writing, [1] . ► Heat, redness, and swelling of one hand, with intolerable bruised pain extending up into the arm on moving it, [1] . ► Frequent burning in the hands, [1] . ► Fingers. ► Swelling of the fingers of both hands, with stiffness, when lying down, [1] . ► Swelling of all the fingers, with tension on moving them, [1] . ► Swelling of the finger-joints, with gouty pains, [1] . ► The fingers are easily put out of joint; they crack if pressed against when the hand is outspread, [1] . ► Stitches in one finger, as from needles, [1] . ► Crawling in the tips of the fingers, [1] . INFERIOR EXTREMITIES. [500.] ► Great weariness in the legs, especially on ascending, [1] . ► Uneasiness in the legs at times, so that he cannot hold them still, [1] . ► Uneasiness in the lower limbs, so that she must move them back and forth, during the day while at rest, [1] . ► Cramplike pain in all the muscles of the leg, while walking, so that walking farther is immediately impossible, [1] . ► Hip. ► Pain in the hip-joint, while walking in the open air, [1] . ► Pain in the hip-joints, as if sprained , when walking in the open air, [1] . ► Tearing in the left hip (on undressing), [1] . ► Thigh. ► The nates and posterior portion of the thighs are painful on sitting , [1] . ► Sudden weary pain in the thigh, while walking, so that he is unable to walk farther, [1] . ► Cramp in the thigh, at night, extending to the foot, [1] . [510.] ► Cramp in the muscles of the thighs and pelvis if the thigh is drawn up, [1] . ► Tearing pain in the right thigh (immediately), [1] . ► Tearing in the thigh, while sitting, with a numb crawling sensation in it, almost as if asleep, [1] . ► Tearing pain in the thighs and legs, as from excessive weariness, even when at rest, [1] . ► Bruised pain transversely through the centre of the thigh, [1] . ► Bruised pain in the anterior muscles of the thighs , [1] . ► Knee. ► Swelling of the knee , [1] . ► Trembling of the knees, with anxiety, heat over the whole body and burning in the soles, on walking in the open air, [1] . ► Tension in the hollow of the right knee, which makes walking difficult (first day), [5] . ► Cramp in the knee, [1] . [520.] ► Pain in the knee, as if broken, [1] . ► Pressive pain in the hollow of the knee, during motion, [1] . ► Sticking pain frequently during the day, in the right knee, [1] . ► Tearing in the outer side of the knee-joint, even when at rest, as after great exertion and weariness, [1] . ► Bruised pain in the knee, [1] . ► Leg. ► Uneasiness in the legs, he is obliged to keep them stretched out, [1] . ► The left leg falls asleep in the morning, in bed, with heaviness like lead, [1] . ► Tension on the back of the legs and in the hollows of the knees (seventh day), [5] . ► Cramp in the calves , [1] . ► Cramp in the calves, in the morning, in bed, [1] . [530.] ► Cramp in the calves, only on bending the knees, [1] . ► A cramplike drawing pain in the leg, beneath the right knee, when walking, [1] . ► Tearing in the tibiæ or in the malleoli, at night, [5] . ► Tearing in the tendo Achillis, while lying in bed; while walking, a stitch in it, [1] . ► Ankle. ► Cracking in the ankle, [1] . ► Feeling of stiffness in the ankle, with a sensation of numbness and deadness in it, [1] . ► Pain as if broken, in the right ankle, when walking, [1] . ► Pain as from a sprain, by paroxysms, in the ankle, when walking, so that for a moment he is unable to walk farther, [1] . ► Pain in the ankle as if suppurating, [1] . ► Feet. ► Swelling of the feet, about the malleolus, with difficult breathing, [1] . [540.] ► Chilblains on the feet which break out with so great sensitiveness after being healed that she cannot wear the shoe, [1] . ► Burning pain in the feet, especially on the backs, in the morning, in bed, [1] . ► Burning in the soles of the feet, in the morning, in bed; she must uncover them, [1] . ► Drawing, burning pain in the feet, extending to the malleoli, in the evening, in bed, [1] . ► Cramp in the feet, [1] . ► Cramp between the great toe and the heel, [1] . ► Cramp in the soles of the feet and in the toes, [1] . ► A hard pressure as from a small stone, on the heel, while walking, [1] . ► Stitches on the instep, [1] . ► Itching, violent stitches on the backs of the feet, at the base of the toes, [1] . [550.] ► Needlelike stitches in both heels, [1] . ► Tearing pains in the feet, at night, [1] . ► Tearing and drawing in the soles of the feet, [1] . ► Pain as after a blow or bruise, causing loud cries, in the evening, after an uneasy sleep and turning in bed, on the outer side of the foot, upon which he had lain; the pain is only relieved by touching and stroking, with the finger, not on motion, [1] . [The last clause is corrected by Hering.] ► The soles of the feet are acutely sensitive to walking over uneven stones, [1] . ► Toes. ► Sharp stitches in the fleshy part of the right little toe, [1] . ► *A violent stitch extending into the great toe , [1] . ► Piercing stitches in the hard places on the little toe, [1] . ► Tearing in the great toe, worse when walking than when standing, [1] . ► The nail of the great toe is excessively painful, almost suppurating, on slight pressure, [1] . [560.] ► A corn hitherto painless begins to burn and stick on slight pressure, [1] . >>>>> Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "kent-lectures-1905"
+    ]
+  }
+}

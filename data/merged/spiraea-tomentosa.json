@@ -1,0 +1,50 @@
+{
+  "id": "spiraea-tomentosa",
+  "names": {
+    "primary": "Spiraea tomentosa (LINN.)",
+    "latin": "Spiraea tomentosa (LINN.)",
+    "common": [
+      "Hardhack"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Leaves, root, flowers.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Canada. New Brunswick, Nova Scotia to the mountains of Georgia westward.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Indigenous shrub, with leaves ovate, lanceolate, serrate, greenish-white and downy. The rose-coloured flowers are in panicles underneath.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The root is said to contain gallic and tannic acid, and, when freshly dug, some volatile oils.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The flowers give feebly the medicinal action of salicylic acid and are used in decoction for their diuretic and tonic effect. The root and leaves are astringent and useful in diarrhoea when there are no inflammatory symptoms. Dose for diarrhoea, 30 to 60 minims of the fluid extract.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

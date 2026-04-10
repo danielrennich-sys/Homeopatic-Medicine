@@ -1,0 +1,110 @@
+{
+  "id": "equisetum-hyemale",
+  "names": {
+    "primary": "Equisetum Hyemale. Scouring Rush. (Equisetaceae.)",
+    "latin": "Equisetum Hyemale. Scouring Rush. (Equisetaceae.)",
+    "common": [
+      "Scouring-rush (EQUISETUM)"
+    ],
+    "synonyms": [
+      "EQUISETUM HYEMALE",
+      "Equisetum Hyemale"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Sever dull pain in the bladder, as from distension, not > after urinating. Frequent and intolerable urging to urinate, with severe pain at close of urination (Berb., Sars., Thuja). Constant desire to urinate; large quantity of clear, watery urine, without > (scanty, a few drops, Apis, Canth.). Sharp, burning, cutting pain in urethra while urinating. Paralysis of bladder in old women. Enuresis diurna et nocturna: profuse watery urine, where habit is the only ascertainable cause.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Compare: Apis, Canth., Fer. p., Puls., Squilla.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "color=\"#800000\">EQUISETUM HYEMALE Scouring-rush (EQUISETUM) Principal action on the bladder. A remedy for enuresis and dysuria.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "This remedy is sometimes successful in cases which are not relieved by Cantharis. There is as much inclination to urinate as with Cantharis, and there is pain in the bladder, as if too full of urine, which must be voided in order to get relief from both pain and pressure, but urinating does not satisfy and he must soon go again. There is burning in the urethra when urinating, but there are larger quantities of urine discharged than with Cantharis, which has characteristically very small amounts, but often repeated, even but a few drops at a time. Equisetum, like Chimaphila, sometimes shows excess of mucus, and it is also very useful in enuresis. Both Chimaphila and Equisetum need further proving to draw out their characteristic. Equisetum sometimes has severe pain at the close of urination. (See Berberis, Natrum mur., Sarsaparilla, Thuja).",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Frequent inclination to urinate, with pain in bladder as if too full, which must be relieved; normal quantity at a time, sometimes excess of urine.",
+        "source_id": "nash-leaders-1899"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Severe, dull pain and feeling of fullness in bladder, not relieved by urinating. Frequent urging with severe pain at the close of urination. Urine flows only drop by drop. Sharp, burning, cutting pain in urethra while urinating. Incontinence in children, with dreams or night-mares when passing urine. Incontinence in old women, also with involuntary stools. Retention and dysuria during pregnancy and after delivery. Much mucus in urine. Albuminuria. Involuntary urination",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Dull pain in region of right kidney, with urgent desire to urinate. Pain and tenderness in region of bladder, with soreness of testicles, extending up spermatic cords. Tenderness in region of bladder on pressure. Tenderness in region of bladder, and right side of lower abdomen, extending upward from groin ; same in left but more on right, in forenoon. Pain in bladder, as from distension. Severe and dull pain in bladder, not > after urinating. Dysuria of women, with extreme and frequent urging to urinate, with severe pain, especially immediately after urine is voided. Sharp, cutting pain in urethra. Excessive burning in urethra while urinating. Extreme and frequent urging to urinate, with severe pain, especially immediately after urine is voided. Frequent desire to urinate, during afternoon, with biting sensation in urethra during and after urination. Constant desire to urinate, and pass large quantities of clear light-colored urine without relief. Profuse flow of urine night and day, pain after urination ; involuntary urination without pain. Enuresis diurna et nocturna of children. Enuresis nocturna, when there is no tangible cause, except a habit. Obliged to get up several times during night to urinate. Great desire to urinate, but only a small amount passed each time. Amount of urine grows less each time he urinates, but the desire increases. Passed small amount of urine, but felt as though had not urinated for hours. Urine high-colored and scanty. Urine on standing shows great excess of mucus, otherwise normal. Painful urination with albuminous urine. Cystitis. General paralysis in an old woman, in whom control over stools and urine, long completely lost, was rapidly restored.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Kidney] Deep pain in region of right kidney, extending to lower abdomen, with urgent desire to micturate. Right lumbar region painful",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Left : tenderness of lower abdomen. Right : dull pain in region of kidney ; tenderness of side of lower abdomen. Pain : in bladder. Severe pain : in bladder. Sharp cutting pain : in urethra. Biting sensation : in urethra. Burning : in urethra. Soreness : of testicle. Tenderness : in region of bladder ; right side of lower abdomen extending upward from groin. Dull pain : in region of right kidney ; in region of bladder ; in bladder. TOUCH. PASSIVE MOTION. INJURIES. [45] [Equis.]. Pressure : tenderness of bladder.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "in afternoon from lying down",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "right side; movement, pressure, touch, sitting down",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Tincture, to sixth potency. A decoction, teaspoonful doses, or the tincture in hot water, is found useful to allay irritability of urinary tract, calculus, dysuria, etc; also for pleuritic effusion and dropsy"
+    },
+    "stomach_abdomen": [
+      {
+        "text": "(OBS :) Dyspepsia, with obstinate acidity of stomach.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "PREGNANCY. PARTURITION. LACTATION. [24] [Equis.]. Dysuria, especially in women during pregnancy and after confinement.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Wets bed at night ; when he dreams, he always sees crowds of people. (Enuresis).",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare in bladder troubles Apis, Cannab., Canthar., Ferr. phos., Pulsat",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899",
+      "boericke-1927",
+      "hering-guiding-1879",
+      "nash-leaders-1899"
+    ]
+  }
+}

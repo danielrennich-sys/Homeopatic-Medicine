@@ -1,0 +1,59 @@
+{
+  "id": "vespa-crabro",
+  "names": {
+    "primary": "VESPA CRABRO",
+    "latin": "VESPA CRABRO",
+    "common": [
+      "Live Wasp"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "face": [
+      {
+        "text": "Painful and swollen. Erysipelatous inflammation of lids. Chemosis of conjunctiva. Swelling of mouth and throat, with violent burning pains",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Burning with micturition; also itching",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menstruation, preceded by depression, pain, pressure, and constipation. Left ovary markedly affected, with frequent burning, micturition; sacral pains extending up back. Erosion around external os",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Erythema; intense itching; burning. Boils; stinging and soreness, relieved by bathing with vinegar. Wheals, macules and swellings with burning, stinging and soreness. Erythema multiforme, relieved by bathing with vinegar",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "relationships": {
+      "antidoted_by": [
+        "Sempervivum tector",
+        "locally"
+      ]
+    },
+    "dosing": {
+      "notes": "Third to thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">VESPA CRABRO Live Wasp Skin and female symptoms marked. Indurated feeling. Vasomotor symptoms of skin and mucous membranes. Dizzy, better lying on back. Fainting. Numbness and blindness. Nausea and vomiting, followed by creeping chills from feet upward. Cramping pain in bowels. Axillary glands swollen with soreness of upper arms. Perspiration on parts laid on with itching.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

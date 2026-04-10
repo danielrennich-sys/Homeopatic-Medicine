@@ -1,0 +1,30 @@
+{
+  "id": "argentum-iodatum",
+  "names": {
+    "primary": "Argentum Iodatum",
+    "latin": "Argentum Iodatum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Hale has suggested Arg. iod. as a remedy in conditions presenting symptoms of both the components. In practice he found it of great value in disorders of the throat, pharynx, larynx, and bronchia; in some peculiar mental disorders; glandular affections; catarrhs, and affections of the heart. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Catarrh; Hoarseness; Paralysis; Syphilis",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

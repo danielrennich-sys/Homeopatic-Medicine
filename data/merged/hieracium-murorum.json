@@ -1,0 +1,26 @@
+{
+  "id": "hieracium-murorum",
+  "names": {
+    "primary": "Hieracium murorum (LINN.)",
+    "latin": "Hieracium murorum (LINN.)",
+    "common": [
+      "Hawkweed, Wall"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "preparation": [
+      {
+        "text": "Herb. Purchase from Richters Related Mouse-ear Hawkweed (Hieracium pilosella) Seeds",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

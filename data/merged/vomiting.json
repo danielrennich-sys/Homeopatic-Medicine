@@ -1,0 +1,24 @@
+{
+  "id": "vomiting",
+  "names": {
+    "primary": "VOMITING",
+    "latin": "VOMITING",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY VOMITING. Vomiting : Ant-t., Apoc., Arn., Ars., Bry., Cham., Cina., Cup., Fer., Ip., Kre., Nux-v., Op., Pul., Sil., Sul., Ver-a. Vomiting, at once : Apoc., Ars., Cad-s., Zin. Vomiting, black : Ars., Nux-v. Vomiting, curds : Aeth., Calc-c. Vomiting, delayed , after a while : Bism., Pho. Vomiting, fecal : Op., Rhus-t. Vomiting, fluids only : Ars. Vomiting, fluids, after they become warm : Pho. Vomiting, frothy : Aeth., Arg-n. Vomiting, headache , with : Bry., Cocc., Ip., Iris., Nux-v., Pul., Sang., Sep., Ver-a. Vomiting, ingesta : Ars., Bry., Cina., Fer., Ign., Nux-v., Pul., Sil., Sul. Vomiting, milk : Aeth., Calc-c. Vomiting, mucus : Dros., Ip., Pul. Vomiting, offensive : Ars., Nux-v., Sep. Vomiting, painful : Ver-a. Vomiting, pregnancy , agg. : Anac., Cocc., Ign., Ip., Kre., Lob. , Med., Nux-v., Sep., Sul. Vomiting, purging , with : Aeth., Ant-t., Ars. , Cam., Colch., Cup., Ip., Iris., Pho., Pod., Sec-c., Sul., Ver-a. , Ver-v. Vomiting, violent : Ant-t., Ars., Cup., Kali-bi., Nux-v., Phyt., Ver-a. Vomiting, watery : Ars., Bry., Caust., Dros., Tab., Ver-a. Vomiting, worms : Cina. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

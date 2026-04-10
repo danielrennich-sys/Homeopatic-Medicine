@@ -1,0 +1,40 @@
+{
+  "id": "physalia",
+  "names": {
+    "primary": "Physalia",
+    "latin": "Physalia",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T PHYSALIA. Physalia pelagica. Animal kingdom; sub-kingdom , Clenterata. Class , Hydrozoa. Sub-class , Siphonophora. Order , Physophoridæ. Common name , Portuguese man-of-war. Authorities. 1 , George Bennett, Lond. Med. Gaz., 1831, vol. 8, p. 678, effects from being stung by the animal; 2 , ibid., effects on Dr. Clark Abel. ► On taking hold of the animal, it raised its tentacles and stung me on the second and ring finger. The sensation was similar at first to that produced by the nettle; but before a few minutes had elapsed, a violent aching pain succeeded, affecting more severely the joints of the fingers, the stinging sensation at the same continuing at the part first touched. On cold water being applied, with the intention of removing or lessening the pain, it was found rather to increase than diminish the painful effects. The irritation resulting from the poisonous fluid emitted by the animal extended upwards, increasing in extent and severity (apparently acting along the course of the nerves), and in the space of a quarter of an hour, the pain in the forearm (which was more particularly referable to the inner part) was very violent, and at the elbow-joint it was still more so. It may be worthy of remark, that when the joints became affected the pain always increased. The pain became at last almost unbearable, and was much increased on the affected arm being moved; the pulse of that arm was also much accelerated, and an unnatural heat was felt over the whole surface. The pain extended to the shoulder-joint; and on the pectoral muscle becoming attacked by the same painful sensation, an oppression of breathing was occasioned, which we find produced in a similar manner by rheumatism, when it attacks that muscle; and it proved very distressing during the time it remained. The continuance of the pain was very severe for nearly half an hour, after which it gradually abated, but the after-effect was felt during the remainder of the day in a slight degree of numbness and increased temperature of the arm. About two hours after I had been stung, I perceived that a vesicle had arisen on the spot; and when children have been stung, I observed that numerous small vesicles arose, similar to those produced by the nettle, [1] . ► \"Whilst employed in collecting some seaweed floating about the ship, I observed a species of Physalia, so small and transparent that I at first mistook it for an air-bubble; but on catching it in my hand, was soon convinced of my error, for wrapping its long tendrils round one of my fingers, it stung like a nettle, but with much more severe effect. In about five minutes the pain in my finger abated, but an uneasy sensation extended up the inside of the arm, which soon terminated in an aching pain in the armpit, accompanied by a sense of restriction within my chest; within fifteen minutes all uneasiness ceased,\" [2] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Urticaria",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "G. Bennett was stung by the animal on second and ring fingers. The sensation was as if stung by a nettle, succeeded in a few minutes by violent aching, affecting the finger-joints and spreading up arm, involving elbow-joint. The pain was by application of water; by motion; and when joints became affected. The pain spread to the shoulder-joint and pectoral muscles causing oppression of breathing. After half an hour the symptoms began to abate, leaving numbness of the limb and a vesicle at the spot which was stung.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Medusa, Urt. ur. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

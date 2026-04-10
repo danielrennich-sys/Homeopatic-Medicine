@@ -1,0 +1,28 @@
+{
+  "id": "definitions-therapeutic",
+  "names": {
+    "primary": "Definitions of Therapeutic Terms",
+    "latin": "Definitions of Therapeutic Terms",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Other tomes: Petersen - Sayre",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "felter-eclectic-1922"
+    ]
+  }
+}

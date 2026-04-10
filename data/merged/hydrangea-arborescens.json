@@ -1,0 +1,76 @@
+{
+  "id": "hydrangea-arborescens",
+  "names": {
+    "primary": "HYDRANGEA ARBORESCENS",
+    "latin": "HYDRANGEA ARBORESCENS",
+    "common": [
+      "Seven-barks (HYDRANGEA)",
+      "Hydrangea"
+    ],
+    "synonyms": [
+      "Hydrangea Arborescens",
+      "Hydrangea arborescens (LINN.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "urinary": [
+      {
+        "text": "Burning in urethra and frequent desire. Urine hard to start. Heavy deposit of mucus. Sharp pain in loins, especially left. Great thirst, with abdominal symptoms and enlarged prostate (Ferr pic; Sabal). Gravelly deposits. Spasmodic stricture. Profuse deposit of white amorphous salts",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">HYDRANGEA ARBORESCENS Seven-barks (HYDRANGEA) A remedy for gravel, profuse deposit of white amorphous salts in urine. Calculus, renal colic, bloody urine. Acts on ureter. Pain in lumbar region. Dizziness. Oppression of chest.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Like some other members of the Saxifragaceæ, Hydrang. has a traditional reputation as a \"stone-breaking\" remedy having been used in calculous diseases for many years. Dr. Nottingham, of Lansing, says (Amer. Hom. November 15, 1899) that in physiological doses it produces \"giddiness, oppression of the chest, and acts as a cathartic, diuretic, sialogogue, and narcotic.\" He used it with brilliant results in the following case: Mr. B., 71, tall, slender, dark, was exceedingly irritable and frequently subject to violent paroxysms of anger. For many years he had been accustomed to make the most reckless use of drugs, and was always requesting his homœopathic doctor to give him \"something stronger.\" For eight years he had suffered from vesical sphincter-irritation, with dribbling of urine, severe spasms of prostate, renal catarrh, yellow sand in urine, and even small calculi. After persistent use of best indicated remedies with no effect, the fluid extract of Hydrang. was given, a teaspoonful every three or four hours, and the symptoms disappeared in a remarkably short time. Cooper has also used this remedy (which, he says, is the thirstiest plant known) with good effect in diabetes, in cases presenting great thirst with abdominal symptoms and in enlarged prostate. It appears to act strongly on the neck of the bladder. Hansen adds that it is particularly useful for profuse deposits of white amorphous salts in the urine; and has arrested the tendency to formation of calculi; relieves distress from renal calculus, with soreness over region of kidneys and bloody urine.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Bladder, catarrh of; stone in; Diabetes; Gravel; Prostatic affections; Urine, incontinence of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Dried rhizome, roots.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "The Hydrangeas are marsh or aquatic plants, and hence the name is derived from a Greek compound signifying water-vessel. Four of the known species are natives of America; one, the garden Hydrangea ( Hydrangea hortensis ), is widely cultivated in the gardens of China and Japan. Many methods are employed in this country for imparting the blue tinge to its petals. The oak-leaved Hydrangea ( H. quercifolia ), a native of Florida, is also cultivated for its beauty. The bark of H. arborescens is rough, with a tendency to peel, each layer being of a different colour, from which it has probably derived its name 'Seven Barks.' The roots are of variable length and thickness, having numerous radicles, reaching a diameter of more than half an inch. They are externally pale grey, tough, with splintery fracture; white inside, without odour, having a sweetish, rather pungent taste. When fresh, the root and stalks are very succulent, containing much water, and can easily be cut. When dry, they are tough and resistant, so that they should be bruised or cut into short, transverse sections while fresh. The taste of the bark of the dried root resembles that of cascarilla. The stalks contain a pith which is easily removed, and they are used in some parts of the country for pipe-stems.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare:─Berb., Sabal. s., Solidago. v. a., Uva. ursi., Thlaspi b. p., Ocim. c. Copyright © Médi-T ® 2000 Main"
+      ]
+    },
+    "constituents": [
+      {
+        "text": "The root has been found to contain two resins, gum, sugar, starch, albumen, soda, lime potassa, magnesia, sulphuric and phosphoric acids, a protosalt of iron, and a glucoside, Hydrangin. No tannin has been found, but a fixed oil and a volatile oil have been obtained. From the alcoholic extract of the flowers of H. hortensia , two crystalline substances were isolated, Hydragenol and Hydrangeaic acid.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Diuretic, cathartic, tonic. The decoction is said to have been used with great advantage by the Cherokee Indians, and later, by the settlers, for calculous diseases. It does not cure stone in the bladder, but, as demonstrated to the medical profession by Dr. S. W. Butler, of Burlington, N.J., it removes gravelly deposits and relieves the pain consequent on their emission. As many as 120 calculi have been known to come from one person under its use. The fluid extract is principally used for earthy deposits, alkaline urine, chronic gleet, and mucous irritations of the bladder in aged persons. A concentrated syrup with sugar or honey, or a simple decoction of the root, may also be used. In overdoses, it will cause vertigo, oppressions of the chest, etc. The leaves are said by Dr. Eoff to be tonic, silagogue, cathartic and diuretic.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

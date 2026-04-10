@@ -1,0 +1,124 @@
+{
+  "id": "convallaria-majalis",
+  "names": {
+    "primary": "CONVALLARIA MAJALIS",
+    "latin": "CONVALLARIA MAJALIS",
+    "common": [
+      "Lily of the Valley"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Dull intellect. Grieves easily. Dull headache; worse, ascending, hawking. Scalp sensitive. Irritability. Hysterical manifestations",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "Hydroa in nose and lips; raw and sore. Epistaxis. Sees imaginary gray spot about three inches square",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Grating of teeth in the morning. Coppery taste. Tongue feels sore and scalded; broad and thick with heavy, dirty coating",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Raw feeling in back of throat when inspiring",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Sensitive. Clothes feel too tight. Gurgling and pain on taking deep breath. Movement in abdomen like fist of a child. Colicky pains",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Aching in bladder; feels distended. Frequent urination; offensive; scanty urine",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Great soreness in uterine region, with sympathetic palpitation of heart. Pain in sacro-iliac joints, running down leg. Itching at urinary meatus and vaginal orifice",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Pulmonary congestion. Orthopnea. Dyspnœa while walking. Hot feeling in throat",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Feeling as if heart beat throughout the chest. Endocarditis, with extreme orthopnea. Sensation as if heart ceased beating, then starting very suddenly. Palpitation from the least exertion. Tobacco heart, especially when due to cigarettes. Angina pectoris. Extremely rapid and irregular pulse",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Pain and aching in lumbar region; aching of legs; in big toe. Trembling of hands. Aching in wrists and ankles",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chilly in back and down spine, followed by fever, little sweat. Thirst and headache during chill. Dyspnœa during fever",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "in open air",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "in warm room",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Third attenuation, and for symptoms of heart failure, tincture, one to fifteen drops"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CONVALLARIA MAJALIS Lily of the Valley A heart remedy. Increases energy of hearts' action, renders it more regular. Of use when the ventricles are overdistended and dilatation begins, and when there is an absence of compensatory hypertrophy, and when venous stasis is marked. Dyspnœa, dropsy, aneuric tendency. Anasarca.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "I believe the lily of the valley is to become one of our very valuable remedies. It ought to receive a Hahnemannian proving. I have used it with much satisfaction in women who complained of great soreness in the uterine region and sympathetic palpitation of the heart. It has also served me well in dropsies of cardiac origin, especially in women who have at the same time the above mentioned soreness in uterine region. I once checked the progress of a very bad case of cardiac dropsy after the effusion in the chest had so increased that the patient could not breathe when lying down, and there was much bloody expectoration. I used the 30th potency in this case, though many times very fine results follow the use of the remedy in much lower preparations. The dropsy all disappeared and she was able to be around and enjoy life very well, though the organic heart trouble was not removed.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Bovista has been of use to me in only one affection, but in that it is invaluable -menorrhagia. The flow is always worse, or sometimes flows only in the night in bed. I do not know of a more reliable symptom. It has helped and cured many cases, both acute and chronic.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "It has also sometimes a flow between the periods like, Ambra grisea, but the latter remedy has more nervous or hysterical symptoms.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Ustilago maydis is also a remedy that is very useful in menorrhagia or metrorrhagia, and I think I have observed that it is best adapted to those cases where the flow is of a passive nature (Thlaspi bursa pastoris.) There is apt to be more or less pain and irritation, at the same time, in one or both ovaries. It is especially useful in these cases at the climacteric. I have cured some very bad cases, and always use both this remedy and Bovista in the 200th potency.",
+        "source_id": "nash-leaders-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "nash-leaders-1899"
+    ]
+  }
+}

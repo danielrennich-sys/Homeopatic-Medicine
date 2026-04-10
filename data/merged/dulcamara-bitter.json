@@ -1,0 +1,36 @@
+{
+  "id": "dulcamara-bitter",
+  "names": {
+    "primary": "Dulcamara. Bitter-sweet. (Solanaceae.)",
+    "latin": "Dulcamara. Bitter-sweet. (Solanaceae.)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Adapted to persons of phlegmatic scrofulous constitutions; restless, irritable. Catarrhal rheumatism or skin affections, brought on or aggravated by exposure to cold, damp, rainy weather, or sudden changes in hot weather (Bry.). Increased secretions of mucous membranes; perspiration being suppressed from cold. Patients living or working in a damp, cold basement, or a milk dairy (Aran., Ars., Nat. s.). Mental confusion; cannot find the right word for anything. Skin is delicate, sensitive to cold, liable to eruptions, especially urticaria; every time patient takes cold or is long exposed to cold. Anasarca; after ague, rheumatism, scarlet fever. Dropsy: after suppressed sweat; suppressed eruptions; exposure to cold. Diarrhoea: from taking cold in damp places, or during damp, foggy weather; change from warm to cold weather (Bry.). Catarrhal ischuria in grown-up children, with milky urine; from wading with bare feet in cold water; involuntary. Rash before the menses (Con. - during profuse menses, Bell., Graph.). Urticaria over whole body, no fever; itching burns after scratching; in cold. Thick, brown-yellow crusts on scalp, face, forehead, temples, chin; with reddish borders, bleeding when scratched. Warts, fleshy, large, smooth; on face or back of hands and fingers (Thuja.).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Complementary: to, Baryta carb., Kali s. Incompatible: with, Acet. ac., Bell., Lach., should not be used before or after. Follows well: after, Cal., Bry., Lyc., Rhus, Sep. Similar: to, Mer., in ptyalism, glandular swellings, bronchitis, diarrhoea; susceptibility to weather changes; night pains; to, Kali s. the chemical analogue. For the bad effects or abuse of Mercury.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - From cold in general; cold air; cold wet weather; suppressed menstruation, eruptions, sweat.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Amelioration. - From moving about (Fer., Rhus).",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

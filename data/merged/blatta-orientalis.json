@@ -1,0 +1,42 @@
+{
+  "id": "blatta-orientalis",
+  "names": {
+    "primary": "BLATTA ORIENTALIS",
+    "latin": "BLATTA ORIENTALIS",
+    "common": [
+      "Indian Cockroach"
+    ],
+    "synonyms": [
+      "Blatta Orientalis"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Lowest potencies during an attack. After the spasm, for the remaining cough, use the higher. Stop with improvement to prevent return of aggravation"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">BLATTA ORIENTALIS Indian Cockroach A remedy for asthma. Especially when associated with bronchitis. Indicated after arsenic when this is insufficient. Cough with dyspnœa in bronchitis and phthisis. Acts best in stout and corpulent patients. Much pus-like mucus.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Found accidentally to relieve asthma in a patient who took tea in which a beetle had been infused; it has since proved to have a wide range in asthmatic cases (Ray, Hom. Recorder, 1890, p. 254; 1891, p. 193). In the acute attack it acts better in low potencies; the higher being given in the more chronic stages. It is especially suited to corpulent people; and to malarial cases; cases in rainy weather. Has saved cases in which suffocation was threatened by great accumulation of mucus. Useful in cases of bronchitis and phthisis where there is much dyspnœa. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Asthma; Bronchitis; Phthisis",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "catechu-pallidum",
+  "names": {
+    "primary": "Catechu Pallidum",
+    "latin": "Catechu Pallidum",
+    "common": [
+      "Catechu Pallidum"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Singapore and other places of the Eastern Archipelago.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

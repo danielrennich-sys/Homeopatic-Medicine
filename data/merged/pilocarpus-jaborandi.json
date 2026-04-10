@@ -1,0 +1,61 @@
+{
+  "id": "pilocarpus-jaborandi",
+  "names": {
+    "primary": "Pilocarpus Jaborandi (HOLMES.)",
+    "latin": "Pilocarpus Jaborandi (HOLMES.)",
+    "common": [
+      "Jaborandi"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "There is divergence of opinion among recognized authorities as to the origin of the drug known as Jaborandi. Not only is the name applied to plants of quite different species in South America, but various shrubs are recognized as official in some countries that are classed as inferior substitutes in others. Until 1914 Pilocarpus Jaborandi only was regarded as official in the British Pharmacopoeia, but in the edition of that year it was omitted. In the United States P. Jaborandi is recognized as Pernambuco Jaborandi, and P. microphyllus as Maranham Jaborandi. Pernambuco Jaborandi was at first referred to P. pennatifolius , the leaves of which are now rarely found in commerce, and some writers describe this as being probably the true source of the drug. The uncertainty appears to be due to the fact that the fruit of the different species is not known to botanists, the drug being only introduced into Europe in 1847. The names of Jaborandi, Iaborandi, and Jamborandi are applied to sundry pungent plants of the Rutaceae and Piperaceae orders, and especially to Piper Jaborandi . The shrub grows from 4 to 5 feet high; the bark is smooth and greyish; the flowers are thick, small, and reddish-purple in colour, springing from rather thick, separate stalks about 1/4 inch long. The leaves are large, compound, pinnate with an odd terminal leaflet, with two to four pairs of leaflets. They are chiefly exported from Ceara and Pernambuco, and only the leaflets are officinal, though they arrive mixed with petioles and small fruits. The colour is brownish-green, the margin entire, with a notch cut out at the blunt tip of the leaf, which except in the case of the terminal leaflet, is unequal at the base. They are hairless, leathery, with large oil-glands, from 2 1/2 to 4 inches long, and when crushed have a slightly aromatic odour. The taste is bitter and aromatic, becoming pungent. The powder is dark green or greenish brown. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "A volatile oil, containing dipentene and other hydrocarbons, tannic acid, a peculiar volatile acid, and potassium chloride. The principal constituents are the three alkaloids, Pilocarpine (not found in all species), Isopilocarpine and Pilocarpidine. Pilocarpine, only in the proportion of 0.5 per cent, is found as a soft, viscous mass yielding crystalline salts, freely soluble in alcohol, ether, and chloroform, and only slightly soluble in water. The nitrate should melt at 1.78� C. It is a white, crystalline powder, soluble in 95 per cent alcohol, and giving a yellowish solution with strong sulphuric acid. Various hypodermic solutions are prepared from it. Hydrochlorate of Pilocarpine is official in the United States, and in some European Pharmacopoeias.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The crude drug is rarely used, its virtues being due to the alkaloid, Pilocarpine. It is antagonistic to atropine, stimulating the nerve-endings paralysed by that drug, and contracting the pupil of the eye. Its principal use is as a powerful and rapid diaphoretic, the quantity of sweat brought out by a single dose being as much as 9 to 15 OZ. It induces also free salivation and excites most gland secretions, some regarding it as a galactagogue. Jaborine, of which there is a small quantity in the leaves, resembles atropine, and is antagonistic to pilocarpine, so that an impure pilocarpine may vary largely in effect. Jaborandi may irritate the stomach and cause vomiting and nausea, as may pilocarpine, even when given as a subcutaneous injection, but these symptoms yield to morphine. It is useful in psoriasis, prurigo, deafness depending on syphilitic disease of the labyrinth, baldness, chronic catarrh, catarrhal jaundice, tonsillitis, and particularly dropsy. Probably it is most popularly known in preparations for the hair. In small doses it quenches thirst in fever or chronic renal diseases. It is contra-indicated in fatty heart or pleurisy. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Of Powdered leaves, 5 to 60 grains. Of Pilocarpine, 1/20 to 1/4 grain. Of Pilocarpine Nitrate, 1/20 to 1/4 grain. Of Fluid extract, B.P., 10 to 30 drops. Of Tincture, B.P., 1/2 to 1 drachm.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "P. microphyllus , with smaller and moreyellowish leaves, is regarded as identical in constituents in the United States. P. pennatifolius , or P. pinnatus or P. simplex , inhabits Southern Brazil and Paraguay. The leaves are paler than the official ones, and contain little alkaloid. They are sometimes known as 'Paraguay Jaborandi.' P. Selloamus , a variety of the above, with fleshier leaflets, yields Rio Janeiro Jaborandi. It was formerly official in the United States. P. trachylophus , with smaller leaves, gives Ceara Jaborandi. It grows in Northern Brazil. P. spicatus , giving Aracati Jaborandi, has simple lanceolate leaves said to have a high percentage of alkaloid. P. racemosus of the West Indies, including a good percentage of alkaloids, yields Guadeloupe Jaborandi.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Logwood leaves have been substitutes for Paraquay Jaborandi under the name of 'Feuilles de Bois d'inde.' Leaves of Tunatea decipiens , or Swartzia decipiens are often mixed in parcels of P. microphyllus . [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {
+    "documented_adverse_effects": [
+      {
+        "text": "An overdose may cause flushing, profuse sweating and salivation, nausea, rapid pulse, contracted pupils, diarrhoea, and even fatal pulmonary oedema. The stomach should be emptied and a full dose of atropine given.",
+        "source": "Grieve"
+      }
+    ]
+  },
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

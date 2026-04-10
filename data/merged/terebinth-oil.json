@@ -1,0 +1,28 @@
+{
+  "id": "terebinth-oil",
+  "names": {
+    "primary": "Terebinth. Oil of Turpentine (A Volatile Oil.)",
+    "latin": "Terebinth. Oil of Turpentine (A Volatile Oil.)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "The urine has the odor or violets. Tongue: smooth, glossy, red, as if deprived of papillae, or as if glazed (Pyr.); elevated papillae; coating peels off in patches leaving bright red spots, or entire coating cleans off suddenly (in exanthemata); dry and red; burning in tip (compare, Mur. ac.). Abdomen: extremely sensitive to touch; distention, flatulence, excessive tympanitis; meteorism (Colch.). Diarrhoea: stool, watery, greenish, mucous; frequent, profuse, fetid, bloody; burning in anus and rectum, fainting and exhaustion, after (Ars.). Worms: with foul breath, choking (Cina, Spig.); dry, hacking cough; tickling at anus; ascarides, lumbrici, tapeworm segments passed. Haematuria: blood thoroughly mixed with the urine; sediment, like coffee-grounds; cloudy, smoky, albuminous; profuse, dark or black, painless. Congestion and inflammation of viscera; kidneys, bladder, lungs, intestines, uterus; with haemorrhage, and malignant tendency. Purpurea haemorrhagica; fresh ecchymosis in great numbers from day to day (Sulph. ac.). Ascites with anasarca, in organic lesions of kidneys; dropsy after scarlatina (Apis, Hell., Lach.). Haemorrhages; from bowels, with ulceration; passive, dark, with ulceration or epithelial degeneration. Violent burning and drawing pains in kidney, bladder and urethra (Berb., Can., Canth.). Violent burning and cutting in bladder; tenesmus; sensitive hypogastrium; cystitis and retention from atony of fundus. Albuminuria; acute, in early stages, when blood and albumin abound more than casts and epithelium; after diphtheria, scarlatina, typhoid. Urine rich in albumin and blood, but few if any casts; < from living in damp dwellings. Strangury; spasmodic retention of urine.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Compare: Alumen, Arn., Ars., Canth., Lach., Nit. ac. Is recommended as a prophylactic in malarial and African fevers.",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

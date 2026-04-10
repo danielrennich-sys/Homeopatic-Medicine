@@ -1,0 +1,29 @@
+{
+  "id": "fuligo-ligni",
+  "names": {
+    "primary": "FULIGO LIGNI",
+    "latin": "FULIGO LIGNI",
+    "common": [
+      "Soot"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Sixth trituration"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">FULIGO LIGNI Soot Acts on glandular system, mucous membranes and obstinate ulcers, epidermis, tetters, eczema. Chronic irritations of mucous membranes of mouth; pruritus-vulvæ; uterine hæmorrhage; cancer, especially of scrotum-chimney sweeper's cancer; epithelial cancers; cancer of womb with metrorrhagia; sadness, thoughts of suicide.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "calcarea-bromata",
+  "names": {
+    "primary": "Calcarea Bromata",
+    "latin": "Calcarea Bromata",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Calc. bro. is an unproved remedy, recommended by Hale in a variety of children's complaints. Suited to children who are of lax fibre, lymphatic, nervous, and irritable. As both Bromine and Calcarea are suited to fair-haired and fat children the combination appears to intensify the effect. Gastric, intestinal, and cerebral irritation in such children. Vomiting, diarrhœa, sleeplessness, fretfulness, and tendency to brain disease.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Brain, congestion of; Fretfulness; Irritability; Sleeplessness",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Bellad., Æthus., Calc., Bro. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

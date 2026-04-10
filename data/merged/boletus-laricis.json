@@ -1,0 +1,113 @@
+{
+  "id": "boletus-laricis",
+  "names": {
+    "primary": "BOLETUS LARICIS",
+    "latin": "BOLETUS LARICIS",
+    "common": [
+      "White Agaric (POLYPORUS OFFICINALE)"
+    ],
+    "synonyms": [
+      "Boletus Laricis"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Feels light and hollow with deep frontal headache. Thick, yellow coating of tongue; teeth indented. Constant nausea",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Head feeling very light and hollow, with deep frontal headache and great faintness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chilliness along spine, with frequent, hot flashes. Yawns and stretches when chilly. Severe aching in shoulders and joints and small of back. Profuse perspiration at night, with hectic chills and fever",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Chilliness along spine with frequent hot flashes of fever. Disposition to yawn and stretch when chilly. Face hot and flushed with severe frontal headache. Hands hot and dry. Waking at midnight two different nights in a profuse perspiration. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Hot and dry, especially in palms. Itching more between scapulæ and on forearms",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "First attenuation"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">BOLETUS LARICIS White Agaric (POLYPORUS OFFICINALE) Quotidian intermittent fever. Sweat is light, and without relief. Night-sweat in phthisis.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Burt proved the crude substance and the 3rd trituration. The gastro-enteric irritation common to the Fungi was very well marked. Motion headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Diarrhœa; Dysentery; Fever; Gall-bladder, affections of; Headache; Liver, diseases of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Great restlessness after midnight. Faintness after stool. Aching distress in all joints.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare. Agaric., &c. Coccul. (head hollow)."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Very gloomy and despondent. Irritated at the least trifle. Absent-minded.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Agglutination of eyelids every morning, with dull, aching pains in eyeballs.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Teeth and gums very sore. Tongue: white coat; thick yellow coat showing marks of teeth. Taste: flat; coppery; unnatural, of all food; lost.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Feeling in fauces as if would vomit. Nausea and vomiting. Great faintness at epigastrium. Severe cutting pains in stomach every few minutes, with dull, aching distress in umbilicus, and loud rumbling in bowels all night. Heavy dragging pains in liver, more in r. lobe. Dull, burning distress; drawing; aching in r. lobe of liver with frontal Headache. Sharp cutting pains in r. lobe of liver and whole dorsal region on full inspiration. Sharp cutting pains near gall-bladder. Burning distress in region of gall-bladder all afternoon, with sharp pains in stomach and heavy aching in whole liver, esp. r. lobe. Severe, dull, aching distress just below stomach, causing great faintness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Straining after stool. Stool: Thin, yellow papescent; mixed with something looking like oil in large and small drops; followed by aching in liver and umbilicus. Black, lumpy, dry stools mixed with bile and mucus. Stools of bile, mucus, and blood, with high fever. Lienteria.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Dull, aching distress in back and legs.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

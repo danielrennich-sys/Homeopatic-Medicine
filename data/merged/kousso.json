@@ -1,0 +1,92 @@
+{
+  "id": "kousso",
+  "names": {
+    "primary": "Kousso",
+    "latin": "Kousso",
+    "common": [
+      "Hagenia Abyssinica (KOUSSO - BRAYERA)"
+    ],
+    "synonyms": [
+      "KOUSSO"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T KOUSSO. Hagenia Abyssinica, Willd. (1799). Synonyms , Brayera anthelmintica, Kunth (1823); Banksia Abyssinica, Bruce (1790, but Banksia had already been given by Linnæus to another genus). Natural order , Rosaceæ. Common names , Kousso, Kusso, Cosso, Koso (and Habbe). Authority. Cattell, Br. J. of Hom., 11, 340, effects when administered for tænia. HEAD. ► Cephalalgia. STOMACH. ► Thirst. ► Nausea. ► Vomiting. ANUS. ► Prolapsus ani. STOOL. ► Watery diarrha. ► Stools loose and dark. ► Expulsion of lumbrici, of dead tænia solium, and of bothriocephalus latus. URINARY ORGANS. ► Increased secretion of urine. [10.] ► Diuresis, followed by scanty urine. SEXUAL ORGANS. ► Miscarriage. GENERAL SYMPTOMS. ► Rapid prostration of strength. ► Extreme prostration. FEVER. ► Slight sensation of heat. SUPPLEMENT: KOUSSO. Authorities. 2 , M. Chomel, Ann. de Thérap. (quoted by Pereira, in Pharm. Journ., vol. x, 1851, p. 23), effects when used for tapeworm; 3 , Johnston's Travels in Southern Abyssinia (ibid., vol. ii, 1844, p. 272); 4 , Dr. Courbon, Pharm. Journ., Second Series, vol. iii, 1862, p. 20, effects of flowers reduced to powder, taken fasting, for tænia. ► The whole of the remedy was rejected by vomiting, [2] . ► It soon produces nausea, accompanied with great acridity. An hour after taking the medicine, the patient has an ordinary solid stool; an hour or an hour and a half later a liquid stool; and at the end of three hours, or sometimes from four to six hours, the tænia solium is expelled in the form of a whitish ball or knot, [4] . ► The operation is speedy and effectual; and to judge by the prostration of strength it occasioned in my servants when they employed this medicine, it must be dreadfully severe. I can answer for this, that it occasions frequent miscarriages, often fatal to the mother, and even men have been known, after a large dose, to have died the same day from its consequences, [3] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Abortion; Tapeworm",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Rapid and extreme prostration.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "dosing": {
+      "notes": "1/2 oz. Mix with warm water and let stand 15 minutes; stir well and administer. May be preceded by a little lemon juice (Merrell)"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">KOUSSO Hagenia Abyssinica (KOUSSO - BRAYERA) A Vermifuge-Nausea and vomiting, vertigo, præcordial anxiety slowing and irregular pulse, subdelirium and collapse. Rapid and extreme prostration. To expel tapeworm.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The flowers of Kousso are a favourite remedy for tapeworm with the natives of Abyssinia, and the use of them in European practice for that purpose has led to the observation of the few symptoms recorded, among which thirst, nausea, and vomiting are prominent. In one case miscarriage was caused. The mode of administration as a tænifuge is as follows: Take a quarter of an ounce of the dried flowers, boiling distilled water four ounces. Infuse fifteen minutes without straining. The powder is to be taken with the infusion, in the morning, fasting. Two such draughts may be given. It is best to give a purgative before and an hour or two after the draught. A remark by Alexander Milne is significant to homœopaths: \"Though Kousso leads to the expulsion of the worm, it seems not to improve the morbid condition which favours its production.\" (Living tænia placed in an infusion of Kousso mixed with milk were killed in about half an hour.) The prostration caused by the treatment is so great that Milne advises a course of Cinchona and Iron to follow.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Cucurb., Granat., Filix m."
+      ]
+    },
+    "head": [
+      {
+        "text": "Headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Thirst. Nausea. Vomiting.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Prolapsus ani. Watery diarrhœa. Stools loose and dark. Expulsion of lumbrici, of dead tænia solium and of bothriocephalus latus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Increased secretion of urine. Diuresis followed by scanty urine.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Miscarriage.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Slight sensation of heat. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

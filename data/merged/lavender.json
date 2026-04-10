@@ -1,0 +1,41 @@
+{
+  "id": "lavender",
+  "names": {
+    "primary": "Lavender",
+    "latin": "Lavender",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Lavender is an aromatic, evergreen plant that is native to the Mediterranean region, including the countries of France, Spain, Andorra, and Italy. The name lavender comes from the Latin verb “lavare,” meaning “to wash.” Lavender’s popular scent has commonly been used as an ingredient in bath products, perfumes, and aromatherapy. Lavender is promoted as an oral (by mouth) dietary supplement for calming anxiety, stress, and other conditions. It is also promoted for aromatherapy and topical use (application to the skin).",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "Studies have been done on the use of lavender products for a variety of conditions, but more high-quality research is needed to reach reliable conclusions about its effectiveness.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "Studies have suggested that a lavender oil product, taken orally, might be beneficial for anxiety, including anxiety with co-occurring symptoms of depression. However, the research has several limitations, such as the small sample sizes of the studies, a lack of independent funding and testing, and a lack of participant diversity. Initial reports of small sample size have indicated that oral lavender capsules or lavender tea might reduce symptoms of depression in some people, but because the research is preliminary, it should be interpreted with caution. Topical (on the skin) lavender does not seem to have an effect on symptoms of depression. One preliminary study with seventy-two postmenopausal women aged 50-65 years suggested that a lavender oil product, taken orally, might offer some relief for menopause-related sexual dysfunction, but more reliable evidence is needed to confirm effects. It’s unclear whether aromatherapy with lavender oil has benefits for anxiety, stress, symptoms of depression, some types of pain, sleep quality or insomnia, or other conditions. However, some people have reported feeling a sense of improved quality of life from aromatherapy with lavender oil. One preliminary study suggested that lavender syrup might reduce cough severity in people with COVID-19; however, more reliable evidence is needed to confirm any effects.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "It is likely safe to consume lavender in the amounts typically used in foods. Oral lavender products might be safe in the short-term and in the amounts tested in studies of anxiety or other conditions. However, some people may experience adverse effects such as diarrhea, headache, nausea, or burping. Aromatherapy with lavender oil is considered possibly safe, but it may cause headache or coughing. Topical products containing lavender may cause allergic skin reactions in some people. A few cases of swelling of breast tissue have been reported in children who used topical products containing lavender. However, it’s unclear whether the lavender was responsible for the breast swelling, a condition that can have many causes. There are theoretical reasons to suspect that lavender might interact with some sedative drugs or herbs, which is especially important if you have an upcoming surgical procedure. If you take any type of medicine, talk with your health care provider before using lavender or other herbal products; some herbs and medicines interact in harmful ways. Little is known about whether it’s safe to use lavender during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

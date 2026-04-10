@@ -1,0 +1,42 @@
+{
+  "id": "triglochin",
+  "names": {
+    "primary": "Triglochin",
+    "latin": "Triglochin",
+    "common": [
+      "Arrow-Grass"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "The herb of Triglochin maritimum, Linné.Nat. Ord.—Juncaginaceae.COMMON NAME: Arrow-grass.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—This is an herbaceous plant, found in marshes and other damp situations throughout the United States, especially near the sea coast. It has numerous narrow, grass-like, but fleshy leaves, all radical and sheathed at the base. The flowers are very small, greenish, and borne in slender, spicate racemes on erect scapes, which are from 1 to 2 feet high. The sepals are 3, ovate; the petals are also 3, and colored green like the sepals. The pistil consists of 6 united ovaries, which divides, in fruit, into 6 dry, linear, 1-seeded carpels.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Triglochin palustre, a smaller species, with only 3 carpels, is found in similar situations. Both species grow in Europe. Their constituents have probably never been examined chemically.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action and Medical Uses.—Triglochin maritimum is said to be much sought after by cattle, especially subsequent to frost; they thrive upon it, and grow fat; while, with cows giving suck, it greatly increases the quantity and richness of their milk. Dr. E. F. Jones, of Colorado, reports it to be an active diuretic, of considerable value in kidney and bladder affections. To be employed in infusions.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "kings-american-1898"
+    ]
+  }
+}

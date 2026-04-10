@@ -1,0 +1,476 @@
+{
+  "id": "ferrum-metallicum",
+  "names": {
+    "primary": "Ferrum Metallicum. Iron. (The Element.)",
+    "latin": "Ferrum Metallicum. Iron. (The Element.)",
+    "common": [
+      "Iron"
+    ],
+    "synonyms": [
+      "FERRUM METALLICUM",
+      "Ferrum Metallicum",
+      "FERRUM METALLICUM or ACETICUM"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Persons of sanguine temperament;; pettish, quarrelsome, disputative, easily excited, least contradiction angers (Anac., Coc., Ign.); > mental exertion. Irritability: slight noises like crackling of paper drive him to despair (Asar., Tar.). Women who are weak, delicate, chlorotic, yet have a fiery red face. Extreme paleness of the face, lips and mucous membranes which becomes red and flushed on the least pain, emotion or exertion. Blushing (Amyl., Coca.). Erethitic chlorosis, worse in winter. Red parts become white; face, lips, tongue and mucous membrane of mouth. Vertigo: with balancing sensation,, as if on water; on seeing flowing water; when walking over water, as when crossing a bridge (Lys.); on descending (Bor., Sanic.). Headache: hammering, beating, pulsating pains, must lie down; with aversion to eating or drinking. For two, three or four days every two or three weeks. Menses: too early, too profuse, too long lasting, with fiery red face; ringing in the ears; intermit two or three days and then return; flow pale, watery, debilitating. Haemorrhagic diathesis; blood bright red, coagulates easily (Fer. p., Ipec., Phos.). Regurgitation and eructation of food in mouthfuls (Alum.). without nausea. Canine hunger, or loss of appetite, with extreme dislike for all food. Vomiting: immediately after midnight; of ingesta, as soon as food is eaten; leaves table suddenly and with one effort vomits everything eaten, can sit down and eat again; sour, acid (Lyc., Sul. ac.). Diarrhoea: undigested stools at night, or while eating or drinking (Crot. t.); painless with a good appetite; of consumptives [Compare Kent's Lectures]. Constipation: from intestinal atony; ineffectual urging; stools hard, difficult, followed by backache or cramping pain in rectum; prolapsus recti of children; itching on anus at night. Always feels better by walking slowly about, although weakness obliges the patient to lie down. Cough only in the day time (Euphr.); relieved by lying down; > by eating (Spong.). Dropsy; after loss of vital fluids; abuse of quinine; suppressed intermittent (Carbo v., Cinch.).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Complementary: to, Alum., Cinch. Cinch.: the vegetable analogue follows well in nearly all diseases, acute or chronic. Should never be given in syphilis; always aggravates the condition.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - At night; at rest, especially while sitting still.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Amelioration. - Walking slowly about; in summer.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "color=\"#800000\">FERRUM METALLICUM Iron Best adapted to young weakly persons, anæmic and chlorotic, with pseudo-plethora, who flush easily; cold extremities; oversensitiveness; worse after any active effort. Weakness from mere speaking or walking though looking strong. Pallor of skin, mucous membranes, face, alternating with flushes. Orgasms of blood to face, chest, head, lungs, etc. Irregular distribution of blood. Pseudo-plethora. Muscles flabby and relaxed.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ferrum Metallicum",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Iron: We will take up the study of Ferrum metallicum. The Old School has been giving Iron for anaemia throughout all tradition. They have given it in great quantities in the form of the tincture of chloride, and the carbonate.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Whenever the patient became anemic, pallid, waxy and weak, Iron was the tonic. It is true that Iron produces anemia, and it would be astonishing to any one who ever read the provings of Ferrum of the allopaths did not create additional bloodlessness with the doses of Iron they administer.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It is true that under the provings, and under those circumstances where Iron has been given in excess, the patient becomes greenish, waxy, yellow and pallid, with a sickly and anemic countenance. The lips become pale; the ears lose their pink color; the skin of the body becomes waxy, and there comes a tendency to hemorrhage, at times with clots, but commonly with copious, thin, liquid blood, very dark.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The clots will separate and the fluid parts look brown, dirty and watery. The patient gradually emaciates. He is pallid and waxy; his muscles become flabby and relaxed; he is incapable of endurance. All the muscular fibers become tired from any exertion. Rapid exercise, or, any unusual exertion. is impossible. Any rapid exertion or motion brings on weakness, dyspnea, sinking and fainting.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "A strange thing running through all the constitutional conditions of Ferrum is that the pains and sufferings come on during rest.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The palpitation sometimes comes on during rest, the dyspnoea comes on during rest, and even the weakness. The patient is ameliorated by moving gently about, but any exertion tires and causes faintness.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Any rapid motion aggravates the complaints. The pains are ameliorated by moving about the house slowly, so that the exertion does not excite or fatigue. In many cases the patient is dropsical. The skin pits upon pressure and is pale, yet the face shows an appearance of plethora. From every little excitement the face becomes flushed.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "During the chill the face becomes red. From taking wine or stimulant the face becomes flushed, and the patient, though flabby, relaxed and tired, does not get credit for being sick.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "She fails to get the sympathy of her friends. She is feeble, she suffers from palpitation and dyspnoea, she has great weakness with inability to do anything like work, she feels that she must lie down-yet the face is flushed. This is called a pseudo-plethora.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The blood-vessels are distended, the veins varicose, and their coatings relaxed. On this account bleed ing takes place easily; capillary oozing; hemorrhage from all pass of the body, haemorrhage from the nose, the lungs, the uterus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Women suffer much from haemorrhage from the uterus, especially during and after the climacteric period. Ferrum will be found of great value when the symptoms agree in that wonderful anemic state called \"green sickness,\" that comes on with girls at the time of puberty and in the years that follow it.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There will be almost no menstrual flow, but a cough will develop, with great pallor. So common is this sickness among girls that all mothers are acquainted with and dread it. In a large practice you will have a number of cases of chlorosis.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sometimes the early menstrual period is attended with a copious, and then occurs, and this goes on for a number of years before anything like menstrual regularity is established.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "In these cases the Old School always used to feed their patients Iron in great quantities, but the more Iron the patient took the worse she grew.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Congestion, tending upwards, with red face, hot head and coldness of the extremities. But the heat of the head and face is not at all in proportion to the red appearance. It will be found that this congestion upward in Ferrum will take place during a chill, in septic fevers or in other forms of fever, and the head is not always hot, but sometimes cool. The face may be red and cool.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Face: Another grand feature of Ferrum is that, like China, it has complaints from loss of animal fluids; from prolonged haemorrhage, with weakness remaining a long time. There is no repair, no assimilation. The bones are soft and easily bent; they take on crooks. Emaciated and feeble children. Dryness of the joints, causing cracking on motion. Sudden emaciation, with false plethora.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Redness of face - a healthy looking bloom - in one who is unable to walk fast on the street, or to stand any exertion. Yet some of the complaints of Ferrum are better from occupation, from doing something, from taking a little exercise, because the complaints come on during rest.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Over-excitability and sensivity of the nerves; oversensitiveness to pain. The sensitive woman who needs Ferrum has a flushed face and is often complaining because she gets no sympathy. She does not look sick, yet she puffs on going up stairs; she feels weak and wants to lie down.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Restless when keeping still; must keep the limbs moving. Rending pains in the limbs; dull aching in the limbs. These pass off when moving about quietly and gently, like Pulsatilla. But Ferrum is a very cold remedy, and is ameliorated by warmth, except the pains about the neck, face and teeth, which are ameliorated by cold. But most of the pains are ameliorated by heat; the patient wants to keep warm and dreads anything like fresh air or a draught.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Weakness and prostration; weakness even from talking. Prostration with irregular pulse and rapid pulse, or with too slow pulse; palpitation. And then comes paralytic weakness; the limbs give out. Paralytic conditions from anaemia or haemorrhage. Fainting spells from haemorrhage. Jerking and twitching of the muscles; chorea; catalepsy.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Mind: You may easily imagine something of the character of the mental symptoms, for they are like the physical. The mind is confused and the patient tearful. Depression of spirits; mental weariness and depression. The highest degree of depression and despondency. Anxiety from the slightest cause; irritability.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The least noise, like the crackling of paper, sets the patient wild. It brings on nervous excitement and restlessness; she must get up and move.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Excitement from the slightest opposition. Any sudden or rapid motion, or the least hurry, causes blackness before the eyes; dizziness; things turn in a circle; she must sit down. And with all this the face is red. When alone and at rest, the face becomes pale and cold, but the least excitement brings a flush to the cheeks.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Headaches: The headaches are congestive in character, with mounting of blood upwards. There is a sense of fullness and distension, with red face.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Fullness and distension of the eyes; fullness of the neck. Palpitation of the heart. Exophthalmic goitre. The headaches are ameliorated by pressure. Ferrum wants to be pressed to support the veins. Throbbing like hammers in the head.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Every quick motion aggravates the headache. Coughing aggravates the headache; pain in the head and occiput from coughing. These pains are sometimes ameliorated by walking gently. Going up stairs, sitting down, rising from a seat unless it is done very deliberately - will arouse all the pains of Ferrum.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Any sudden motion will bring on hammering and a feeling of great expansion in the head. And then will come more or less shooting, tearing pains. Beating in the back of the head from rising or from coughing, because coughing is a sudden motion. Confusion of mind with hammering headache. Rush of blood to the head. Congestive headaches from excitement; from taking cold; from exposure; lasting three or four days or a week. The face is gushed and perhaps cold, the head somewhat hot, but not as hot as would be expected.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Redness of the eye; engorged vessels. Great weakness, dyspnoea and palpitation. Writing - a mental operation - causes the headache to reappear. Great sensitiveness of the scalp. The patient must let the hair hang down. Mental disorders and headaches accompanying or following haemorrhages, and in lying in women.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Bloated appearance about the eyes. All sorts of disturbance of vision from congestion. Venous stasis; swelling of the eyelids; pus-like discharge. Over-sensitiveness to sound; ringing in the ears.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The symptoms of the nose are numerous. Colds and catarrhal troubles, ending in nosebleed. Nosebleed on slight provocation, with headaches at the menstrual nisus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Scabs form in the nose. Extreme paleness of the face; face becomes red and flushed on the least emotion. Flushed face with dropsy of the lower limbs; flushed face with chill. Thirst during the chill is a striking feature of Ferrum. During the menstrual period there are violent pains, and as soon as the pain starts the face becomes flushed.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Nothing taken into the stomach digests, and yet there is no special nausea. It is the exception to find nausea in Ferrum. Food goes into the stomach and is vomited without nausea-simply emptied out. Sometimes there are eructations of food by the mouthful, like Phosphorus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Food: Phosphorus was the remedy with all the old masters for spitting up of food by the mouthful until. the stomach was empty.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Canine hunger. It says in the next:",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Double the amount of an ordinary meal in the evening was hardly sufficient.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "All food tastes bitter; solid food is dry and insipid. After eating there are eructations. Heat in the stomach; regurgitation of food. Spasmodic pressure in the stomach after the least food or drink, especially after meat. Aversion to meat, to eggs, to sour fruit. Aversion to milk, and to his accustomed tobacco and beer. Sweet wines agree, but sour wines and all sour things disagree. The tongue feels as if burnt. As soon as the stomach is empty vomiting ceases until he eats again. Vomiting of food, immediately after midnight, Vomitus tastes sour.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pregnancy: Ferrum is occasionally indicated during pregnancy. A few weeks after becoming pregnant the woman commences to throw up her food by the mouthful.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There is no nausea, but the face is flushed and the woman is flabby and weak. She vomits without becoming sick. Fullness and pressure in the stomach; pressure in the stomach after eating. Ferrum is an unusually interesting remedy because of this peculiar stomach. It is like a leather bag; it will not digest anything. Fill it up and it empties itself just as easily as it was filled.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ferrum has a troublesome diarrhoea, with acrid watery excoriating stool. Morning diarrhoea. Many of these patients are old sinners with broken-down constitutions, who have suffered long from constipation. Chronic constipation with ineffectual urging and hard, difficult Stools.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Relaxation runs through the remedy. From this relaxation there is prolapsus of the rectum, vagina and uterus. Dragging down in the lower part of the body, as if the organs would come out-and sometimes they do come out.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Bladder: The bladder is also relaxed. Its sphincter is weak, and there is no regularity of its muscular action. Hence, we have involuntary urination from sudden motion, from walking, or from coughing. In little children the urine dribbles all day just as long as the child plays the urine dribbles and keeps the clothing wet, but this better while keeping perfectly quiet.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The bladder is so relaxed and tired that it cannot hold the urine, and as soon as it is partially filled it allows its contents to escape. This relaxation runs through the remedy and gives it character, just like a human being. You know what each one of your friends is likely to do on every occasion. So it is with a remedy. You ought to know what it is most likely to do, in order to know what it will accomplish in curing the sick.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Genital: Weakness and relaxation of the genital organs is common to Ferrum. The menstrual flow comes in for its share. Copious, watery flow; haemorrhage or suppression - amenorrhoea - no flow at all, only a leucorrhoea. Suppression of the menses with great nervous excitement; with flushed face; with weakness and palpitation. Prolapsus of the vagina. Insensibility of the vagina during coition. Metrorrhagia. Menses too soon too profuse and lasting too long.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Respiration: Difficult respiration; pains and disturbances in the chest. Difficult breathing, with a sense of a great load on the chest. Suffocating fits at night; catarrhal conditions of the respiratory tract; congestion of the chest; dyspnoea.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Spasmodic cough, such as we find in whooping cough, coming on in violent paroxysms. Cough after every meal, with gagging, emptying the stomach of its contents. Cough felt in the head. Cough worse from the abuse of brandy, tobacco or tea. Cough coming on after the loss of fluids, as after haemorrhages.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Chest troubles following uterine hemorrhage, and after other hemorrhages. Coughing up blood; bleeding from the lungs. Persons debilitated by secret vices, with a tendency to go into tuberculosis.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Palpitation of the heart from fear, excitement, or exertion. Rapid action of the heart, or sometimes slow action. Fatty degeneration of the heart. Pulse accelerated toward evening. Pulsations throughout the body, feeling like little hammers.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Rheumatic pains: in the extremities, ameliorated by heat and by gentle motion; aggravated by cold, by exertion, or by rapid motion. Pains through the deltoid muscles are spoken of more prominently than pains in other parts, but these pains are no more striking than the pains anywhere in Ferrum.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Tearing pains through the limbs. Inability to raise the arm; paralytic pains, - that is, pains that are benumbing. Pains that make him feel as if he were going to lose the power to move the part. Violent pains in the hip-joint are just as common as the pains in the shoulder.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Lippe says,",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Rheumatism in the left shoulder,\" but it is just as common in the right. Rheumatic pains in the deltoid muscle of either side. Violent pain in the muscles and along the nerves. Pinching in the right deltoid; boring in the right shoulder; aggravated by motion and by the weight of the bedclothes; ameliorated by heat.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Tearing and stinging pains. The Ferrum pains come on in the night, because the patient attempts to keep still in bed. Rest brings on the Ferrum pains. When moving gently about in the daytime be will not have so much pain. Coldness of the limbs; and again, heat of the soles and palms, they change about. With all this weakness and prostration dropsical conditions come on, so that the feet and hands become bloated.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Evening chill or chilliness with fever, cold hands and feet and red face. Icy cold feet with the chill. Chill ameliorated after eating. Thirst with the chill. Copious sweat which stains yellow. All symptoms worse while sweating. Strong-smelling night sweats. All the febrile symptoms are better by slowly moving about. In intermittent fever after the abuse of quinine.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "We read in the text that Ferrum is a remedy for diarrhea in the last stages of consumption. Well, sometimes it is, if the patient is prepared to die.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ferrum will stop the diarrhea, but after it is stopped the patient will not live long. The diarrhea is not usually painful. It is annoying, but it is painless, and the night sweats are painless. Do not suppress them; they had better be let alone. Let the patient go on to a peaceful termination.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The best remedy for diarrhoea in the last stages of consumption is Saccharum lactis in the crude form, given in very small quantities and repeated as often as is required by the patient and the bystanders.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "LECTURES ON HOMOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror Ferrum Metallicum Iron : We will take up the study of Ferrum metallicum . The Old School has been giving Iron for anaemia throughout all tradition. They have given it in great quantities in the form of the tincture of chloride, and the carbonate. Whenever the patient became anemic, pallid, waxy and weak, Iron was the tonic. It is true that Iron produces anemia, and it would be astonishing to any one who ever read the provings of Ferrum of the allopaths did not create additional bloodlessness with the doses of Iron they administer. It is true that under the provings, and under those circumstances where Iron has been given in excess, the patient becomes greenish, waxy, yellow and pallid, with a sickly and anemic countenance. The lips become pale; the ears lose their pink color; the skin of the body becomes waxy, and there comes a tendency to hemorrhage, at times with clots, but commonly with copious, thin, liquid blood, very dark. The clots will separate and the fluid parts look brown, dirty and watery. The patient gradually emaciates. He is pallid and waxy; his muscles become flabby and relaxed; he is incapable of endurance. All the muscular fibers become tired from any exertion. Rapid exercise, or, any unusual exertion. is impossible. Any rapid exertion or motion brings on weakness, dyspnea, sinking and fainting. A strange thing running through all the constitutional conditions of Ferrum is that the pains and sufferings come on during rest. The palpitation sometimes comes on during rest, the dyspnoea comes on during rest, and even the weakness. The patient is ameliorated by moving gently about, but any exertion tires and causes faintness. Any rapid motion aggravates the complaints. The pains are ameliorated by moving about the house slowly, so that the exertion does not excite or fatigue. In many cases the patient is dropsical. The skin pits upon pressure and is pale, yet the face shows an appearance of plethora. From every little excitement the face becomes flushed. During the chill the face becomes red. From taking wine or stimulant the face becomes flushed, and the patient, though flabby, relaxed and tired, does not get credit for being sick. She fails to get the sympathy of her friends. She is feeble, she suffers from palpitation and dyspnoea, she has great weakness with inability to do anything like work, she feels that she must lie down-yet the face is flushed. This is called a pseudo-plethora. The blood-vessels are distended, the veins varicose, and their coatings relaxed. On this account bleed ing takes place easily; capillary oozing; hemorrhage from all pass of the body, haemorrhage from the nose, the lungs, the uterus. Women suffer much from haemorrhage from the uterus, especially during and after the climacteric period. Ferrum will be found of great value when the symptoms agree in that wonderful anemic state called \" green sickness ,\" that comes on with girls at the time of puberty and in the years that follow it. There will be almost no menstrual flow, but a cough will develop, with great pallor. So common is this sickness among girls that all mothers are acquainted with and dread it. In a large practice you will have a number of cases of chlorosis. Sometimes the early menstrual period is attended with a copious, and then occurs, and this goes on for a number of years before anything like menstrual regularity is established. In these cases the Old School always used to feed their patients Iron in great quantities, but the more Iron the patient took the worse she grew. Congestion, tending upwards, with red face, hot head and coldness of the extremities. But the heat of the head and face is not at all in proportion to the red appearance. It will be found that this congestion upward in Ferrum will take place during a chill, in septic fevers or in other forms of fever, and the head is not always hot, but sometimes cool. The face may be red and cool. Face : Another grand feature of Ferrum is that, like China , it has complaints from loss of animal fluids; from prolonged haemorrhage, with weakness remaining a long time. There is no repair, no assimilation. The bones are soft and easily bent; they take on crooks. Emaciated and feeble children. Dryness of the joints, causing cracking on motion. Sudden emaciation, with false plethora. Redness of face - a healthy looking bloom - in one who is unable to walk fast on the street, or to stand any exertion. Yet some of the complaints of Ferrum are better from occupation, from doing something, from taking a little exercise, because the complaints come on during rest. Over-excitability and sensivity of the nerves; oversensitiveness to pain. The sensitive woman who needs Ferrum has a flushed face and is often complaining because she gets no sympathy. She does not look sick, yet she puffs on going up stairs; she feels weak and wants to lie down. Restless when keeping still; must keep the limbs moving. Rending pains in the limbs; dull aching in the limbs. These pass off when moving about quietly and gently, like Pulsatilla . But Ferrum is a very cold remedy, and is ameliorated by warmth, except the pains about the neck, face and teeth, which are ameliorated by cold. But most of the pains are ameliorated by heat; the patient wants to keep warm and dreads anything like fresh air or a draught. Weakness and prostration; weakness even from talking. Prostration with irregular pulse and rapid pulse, or with too slow pulse; palpitation. And then comes paralytic weakness; the limbs give out. Paralytic conditions from anaemia or haemorrhage. Fainting spells from haemorrhage. Jerking and twitching of the muscles; chorea; catalepsy. Mind : You may easily imagine something of the character of the mental symptoms, for they are like the physical. The mind is confused and the patient tearful. Depression of spirits; mental weariness and depression. The highest degree of depression and despondency. Anxiety from the slightest cause; irritability. The least noise, like the crackling of paper, sets the patient wild. It brings on nervous excitement and restlessness; she must get up and move. Excitement from the slightest opposition. Any sudden or rapid motion, or the least hurry, causes blackness before the eyes; dizziness; things turn in a circle; she must sit down. And with all this the face is red. When alone and at rest, the face becomes pale and cold, but the least excitement brings a flush to the cheeks. Headaches : The headaches are congestive in character, with mounting of blood upwards. There is a sense of fullness and distension, with red face. Fullness and distension of the eyes; fullness of the neck. Palpitation of the heart. Exophthalmic goitre. The headaches are ameliorated by pressure. Ferrum wants to be pressed to support the veins. Throbbing like hammers in the head. Every quick motion aggravates the headache. Coughing aggravates the headache; pain in the head and occiput from coughing . These pains are sometimes ameliorated by walking gently. Going up stairs, sitting down, rising from a seat unless it is done very deliberately - will arouse all the pains of Ferrum . Any sudden motion will bring on hammering and a feeling of great expansion in the head. And then will come more or less shooting, tearing pains. Beating in the back of the head from rising or from coughing, because coughing is a sudden motion. Confusion of mind with hammering headache. Rush of blood to the head. Congestive headaches from excitement; from taking cold; from exposure; lasting three or four days or a week. The face is gushed and perhaps cold, the head somewhat hot, but not as hot as would be expected. Redness of the eye; engorged vessels. Great weakness, dyspnoea and palpitation. Writing - a mental operation - causes the headache to reappear. Great sensitiveness of the scalp. The patient must let the hair hang down. Mental disorders and headaches accompanying or following haemorrhages, and in lying in women. Bloated appearance about the eyes. All sorts of disturbance of vision from congestion. Venous stasis; swelling of the eyelids; pus-like discharge. Over-sensitiveness to sound; ringing in the ears. The symptoms of the nose are numerous. Colds and catarrhal troubles, ending in nosebleed. Nosebleed on slight provocation, with headaches at the menstrual nisus. Scabs form in the nose. Extreme paleness of the face; face becomes red and flushed on the least emotion. Flushed face with dropsy of the lower limbs; flushed face with chill. Thirst during the chill is a striking feature of Ferrum . During the menstrual period there are violent pains, and as soon as the pain starts the face becomes flushed. Nothing taken into the stomach digests, and yet there is no special nausea. It is the exception to find nausea in Ferrum. Food goes into the stomach and is vomited without nausea-simply emptied out. Sometimes there are eructations of food by the mouthful, like Phosphorus . Food : Phosphorus was the remedy with all the old masters for spitting up of food by the mouthful until. the stomach was empty. Canine hunger. It says in the next: \"Double the amount of an ordinary meal in the evening was hardly sufficient.\" All food tastes bitter; solid food is dry and insipid. After eating there are eructations. Heat in the stomach; regurgitation of food . Spasmodic pressure in the stomach after the least food or drink, especially after meat. Aversion to meat, to eggs, to sour fruit. Aversion to milk, and to his accustomed tobacco and beer. Sweet wines agree, but sour wines and all sour things disagree. The tongue feels as if burnt. As soon as the stomach is empty vomiting ceases until he eats again. Vomiting of food, immediately after midnight, Vomitus tastes sour. Pregnancy : Ferrum is occasionally indicated during pregnancy. A few weeks after becoming pregnant the woman commences to throw up her food by the mouthful. There is no nausea, but the face is flushed and the woman is flabby and weak. She vomits without becoming sick. Fullness and pressure in the stomach; pressure in the stomach after eating. Ferrum is an unusually interesting remedy because of this peculiar stomach. It is like a leather bag; it will not digest anything. Fill it up and it empties itself just as easily as it was filled. Ferrum has a troublesome diarrhoea, with acrid watery excoriating stool. Morning diarrhoea. Many of these patients are old sinners with broken-down constitutions, who have suffered long from constipation. Chronic constipation with ineffectual urging and hard, difficult Stools. Relaxation runs through the remedy. From this relaxation there is prolapsus of the rectum, vagina and uterus. Dragging down in the lower part of the body, as if the organs would come out-and sometimes they do come out. Bladder : The bladder is also relaxed. Its sphincter is weak, and there is no regularity of its muscular action. Hence, we have involuntary urination from sudden motion, from walking, or from coughing. In little children the urine dribbles all day just as long as the child plays the urine dribbles and keeps the clothing wet, but this better while keeping perfectly quiet. The bladder is so relaxed and tired that it cannot hold the urine, and as soon as it is partially filled it allows its contents to escape. This relaxation runs through the remedy and gives it character, just like a human being. You know what each one of your friends is likely to do on every occasion. So it is with a remedy. You ought to know what it is most likely to do, in order to know what it will accomplish in curing the sick. Genital : Weakness and relaxation of the genital organs is common to Ferrum. The menstrual flow comes in for its share. Copious, watery flow; haemorrhage or suppression - amenorrhoea - no flow at all, only a leucorrhoea. Suppression of the menses with great nervous excitement; with flushed face; with weakness and palpitation. Prolapsus of the vagina. Insensibility of the vagina during coition. Metrorrhagia. Menses too soon too profuse and lasting too long. Respiration : Difficult respiration; pains and disturbances in the chest. Difficult breathing, with a sense of a great load on the chest. Suffocating fits at night; catarrhal conditions of the respiratory tract; congestion of the chest; dyspnoea. Spasmodic cough, such as we find in whooping cough, coming on in violent paroxysms. Cough after every meal, with gagging, emptying the stomach of its contents. Cough felt in the head. Cough worse from the abuse of brandy, tobacco or tea. Cough coming on after the loss of fluids, as after haemorrhages. Chest troubles following uterine hemorrhage, and after other hemorrhages. Coughing up blood; bleeding from the lungs. Persons debilitated by secret vices, with a tendency to go into tuberculosis. Palpitation of the heart from fear, excitement, or exertion. Rapid action of the heart, or sometimes slow action. Fatty degeneration of the heart. Pulse accelerated toward evening . Pulsations throughout the body, feeling like little hammers. Rheumatic pains : in the extremities, ameliorated by heat and by gentle motion; aggravated by cold, by exertion, or by rapid motion. Pains through the deltoid muscles are spoken of more prominently than pains in other parts, but these pains are no more striking than the pains anywhere in Ferrum. Tearing pains through the limbs. Inability to raise the arm; paralytic pains , - that is, pains that are benumbing. Pains that make him feel as if he were going to lose the power to move the part. Violent pains in the hip-joint are just as common as the pains in the shoulder. Lippe says, \"Rheumatism in the left shoulder,\" but it is just as common in the right. Rheumatic pains in the deltoid muscle of either side . Violent pain in the muscles and along the nerves. Pinching in the right deltoid; boring in the right shoulder; aggravated by motion and by the weight of the bedclothes; ameliorated by heat. Tearing and stinging pains. The Ferrum pains come on in the night, because the patient attempts to keep still in bed. Rest brings on the Ferrum pains . When moving gently about in the daytime be will not have so much pain. Coldness of the limbs; and again, heat of the soles and palms, they change about. With all this weakness and prostration dropsical conditions come on, so that the feet and hands become bloated. Evening chill or chilliness with fever, cold hands and feet and red face. Icy cold feet with the chill. Chill ameliorated after eating. Thirst with the chill. Copious sweat which stains yellow. All symptoms worse while sweating. Strong-smelling night sweats. All the febrile symptoms are better by slowly moving about. In intermittent fever after the abuse of quinine . We read in the text that Ferrum is a remedy for diarrhea in the last stages of consumption. Well, sometimes it is, if the patient is prepared to die. Ferrum will stop the diarrhea, but after it is stopped the patient will not live long. The diarrhea is not usually painful. It is annoying, but it is painless, and the night sweats are painless. Do not suppress them; they had better be let alone. Let the patient go on to a peaceful termination. The best remedy for diarrhoea in the last stages of consumption is Saccharum lactis in the crude form, given in very small quantities and repeated as often as is required by the patient and the bystanders. Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-mm-1911"
+      },
+      {
+        "text": "Anæmia with great paleness of all the mucous membranes; with sudden fiery-red flushing of the face.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Profuse hæmorrhages from any organ; hæmorrhagic diathesis; blood light with dark clots; coagulates easily.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Local congestions and inflammations, with hammering, pulsating pains; veins full, flushed face, alternates with paleness.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Canine hunger, alternates with complete loss of appetite.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Regurgitations or eructations, or vomiting of food at night that has stayed in the stomach all day; undigested painless diarrhœa.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Red face during chill.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Modalities: walking slowly around.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "This is another one of the abused remedies. It stands with the old school for anæmia, as does Quinine for malaria. Each can and does cure its kind of both conditions, but can cure no other; and each, when it is the true curative, is capable of doing its best work in the potentized form. Dr. Hughes writes \"The treatment of anæmia by Iron is one of the few satisfactory and certain things in modern medicine. From whatever cause this condition may arise, whether it be the chlorosis of defective menstruation, or the simple poverty of blood induced by hæmorrhages, deficiency of air, light, and suitable food, or by exhausting diseases, Iron is the one great remedy.\" I must say that I think that a man who would write like that of any remedy is not to be blamed for talking of the few satisfactory and certain things in modern medicine. Iron is no more of a panacea for anæmia than is Quinine for malaria or Phosphate of Lime for deficient bone development. My experience has taught me that there are several other equally efficient remedies for these conditions and that when they are not indicated they not only cannot cure but do injure every time they are prescribed, especially in the material doses in which they are generally recommended by such teachers. I must here state my experience founded on abundant practice and observation that such prescribing is not only un-Hahnemannian, but in every sense un-homœopathic, and I warn all beginners not to practice along that line or they too will come to talk of the few satisfactory and certain things in modern medicine. Now we have given this quotation from Dr. Hughes, it is only fair to him to quote him again, inasmuch as he, in this latter quotation, talks more sensibly. Talking about anæmia, he says \"The malady does not ordinarily arise from any failure of the quantity of iron supplied in the food. If the element is deficient in the blood the fault lies in the assimilative processes. But Reveil has ascertained that in anæmia there is no change whatever in the amount of iron present in the blood. However few the corpuscles they contain within them the full proportion of the metal normal to health, and though under the influence of iron itself they increase to double and triple their number they yield no more iron.\" Then Cowperthwaite adds: \"It is also true that when irons is introduced into the system in large quantities with a view to supplying a deficiency of iron in the blood that it is not assimilated, but may be almost entirely obtained from the fæces, having been eliminated by the intestines. It is evident, therefore, that iron does not act as a curative agent by virtue of its absorption as a constituent of the blood, but rather, as we are led to conclude, from its physiological effects upon the organs and tissues of the body, that it owes its therapeutic virtues to the same essential dynamic agency possessed by other drugs, and its application is subject to the same therapeutic law.\" Sound words, these; then let no man prescribe Iron or any other remedy for anæmia, or any other disease, without indications according to our therapeutic law of cure. I have seen better cures of bad cases of anæmia by Natrum muriaticum in potentized form than I ever did from Iron in any form, although Iron has its cases, as have also Pulsatilla, Cyclamen, Calcarea phos., Carbo veg., China and many other remedies. We will now call attention to the symptoms that indicate Iron in anæmia or any other condition where Iron is the remedy.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "\"Ashy, pale or greenish face, with pain or other symptoms the face becomes bright red.\" (Raue). \"The least emotion or exertion causes a red, flushed face.\" (Guernsey.) \"Rush of blood to head; veins of head swollen; flushes of heat in the face.\" \"Hammering, beating, pulsating pains in the head.\" (Bell, China, Natrum mur., Glon.)",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "\"Great paleness of mucous membranes, especially that of the cavity of the mouth.\" (Raue.) \"Always better from walking about, notwithstanding weakness obliges patient to lie down.\" (Guernsey.) \"Menses too soon, too profuse, too long lasting, with fiery red face, ringing in the ears (China), flow pale, watery and debilitating.\" Now if in addition to these symptoms you have, notwithstanding the general anæmic condition of the patient, frequent rushes of blood to the head, chest, face, or other local congestions you have a typical Iron case and may confidently expect a cure if given in potency and at proper intervals. But if your patient has been already \"loaded up\" with Iron on the theory that the blood must be \"fed\" with it, the fact is, generally that she is suffering from the over-dosing more than from the original disease and you will proceed to find the best antidote, guided by the symptoms here as elsewhere, and, in adapting such remedy to the case as it is, will often be able to cure both the natural and drug disease together.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "It is a blessed thing that this is so, for if the Quinine, Iron and other medicinal cachexia stalking about in our midst were not curable, we would be a sorry spectacle as human beings if allopathic dosing were allowed to go on. Now while we are talking about this so-called blood remedy we will speak about its general hæmorrhagic tendencies.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "These local congestions so characteristic of Iron are attended by hæmorrhages from nose, lungs, womb, kidneys, etc., hence it becomes one of our best remedies for hæmorrhages in anæmia or debilitated subjects with the peculiar symptoms before mentioned. In the form of Ferrum phos., of which we have already written, taking the fact that both remedies entering into the combination have decided hæmorrhagic tendencies, it becomes doubly effective in this sphere.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "But Iron is not by any means confined in its usefulness to blood troubles, and we will notice briefly some other uses of this valuable curative agent. In disorders of stomach and bowels it becomes sometimes the only remedy, and has some peculiar and characteristic symptoms indicating it here.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "\"Canine hunger (China), alternating with complete loss of appetite.\" \"Regurgitation of food, or eructations after eating.\" \"Wants bread and butter; meat disagrees (opposite Natrum mur.) Beer or tea also disagrees. Food lies in the stomach all day and is vomited at night.\" \"Bowels feel sore as if they had been bruised, or as if he had taken cathartics; undigested, painless stools at night, or while eating or drinking.\" (Croton tig., China). These and many other symptoms show its value here, and it is noticeable, the resemblances of this remedy to China. There is sometimes difficulty in choosing between them, but there is more flatulence with China. Both remedies have, markedly, lienteria and painless diarrhœa. These two remedies both antidote and complement each other under certain circumstances. They should be studied in comparison as debility remedies.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Next to the easily flushed and red face as a characteristic symptom stands this -\"Walking slowly about relieves.\" (One other remedy has this general characteristic almost, if not equally strong, viz., Pulsatilla). This is true of the general restlessness, of the great weakness also; he feels better walking slower about, even though he is so weak he has to sit down every little while to rest; pain in the hip joint drives out of bed and is only relieved while walking slowly. I once had a rather pale lady come to me for treatment for pains in the forearms; after prescribing for her for a week, she let drop this symptom, that the only way in which she could get relief nights (when the pain was almost unbearable) was by getting right up out of bed and walking slowly about the room. Ferrum metal. 1000th cured her promptly and she never had a return. Some people think that metals cannot be potentized, but when I make numerous cures like this with Iron, Stannum, Zinc and Platina I don't believe it. Palpitation of the heart, hæmoptysis and asthma are also relieved in the same way by walking slowly about. It would seem hardly possible that such complaints could be so relieved, but there are many such curious and unaccountable symptoms in our Materia Medica which have become reliable leaders to the prescription of certain remedies.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Ferrum is one of our best remedies for cough with vomiting of food. It is also one of the very few remedies having a red face during chill, and has more than once led to the cure of intermittent fever on that symptom. Again it is one of the remedies found in intermittents that have been abused by Quinine. In these cases we often find the splenic region sore on pressure and much swollen.",
+        "source_id": "nash-leaders-1899"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Irritability. Slight noises unbearable. Excited from slightest opposition. Sanguine temperament",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo on seeing flowing water. Stinging headache. Ringing in ears before menses. Hammering, pulsating, congestive headache; pain extends to teeth, with cold extremities. Pain in back of head, with roaring in neck. Scalp painful. Must take down the hair",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Watery, dull red; photophobia; letters run together",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "Fiery-red and flushed from least pain, emotion, or exertion. Red parts become white, bloodless and puffy",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Mucous membrane relaxed, boggy, anæmic, pale",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Pain in teeth; relieved by icy-cold water. Earthy, pasty taste, like rotten eggs",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Voracious appetite, or absolute loss of appetite. Loathing of sour things. Attempts to eat bring on diarrhœa. Spits up food by the mouthful (Phos). Eructations of food after eating, without nausea. Nausea and vomiting after eating. Vomiting immediately after eating. Vomiting after midnight. Intolerance of eggs. Distention and pressure in the stomach after eating. Heat and burning in stomach. Soreness of abdominal walls. Flatulent dyspepsia",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Undigested, at night, while eating or drinking, painless. Ineffectual urging; stool hard, followed by backache or cramping pain in rectum; prolapsus recti; itching of anus, especially young children",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Involuntary; worse daytime. Tickling in urethra extending to bladder",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menses remit a day or two, and then return. Discharge of long pieces from uterus. Women who are weak, delicate, chlorotic, yet have a fiery-red face. Menses too early, too profuse, last too long; pale, watery. Sensitive vagina. Tendency to abortion. Prolapse of vagina",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Chest oppressed; breathing difficult. Surging of blood to chest. Hoarseness. Cough dry, spasmodic. Hæmoptysis (Millefol). With the cough pain in occiput",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Palpitation; worse, movement. Sense of oppression. Anæmic murmur. Pulse full, but soft and yielding; also, small and weak. Heart suddenly bleeds into the blood vessels, and as suddenly draws a reflux, leaving pallor of surface",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Rheumatism of the shoulder. Dropsy after loss of vital fluids. Lumbago; better, slow walking. Pain in hip-joint, tibia, soles, and heel",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Pale; flushes readily; pits on pressure",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "General coldness of extremities; head and face hot. Chill at 4 am. Heat in palms and soles. Profuse, debilitating sweat",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "walking slowly about",
+          "source_id": "boericke-1927"
+        },
+        {
+          "text": "after rising",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "while sweating; while sitting still. After cold washing and overheating. Midnight aggravation",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "complementary": [
+        "Chin",
+        "Alum",
+        "Hamamel"
+      ],
+      "antidoted_by": [
+        "Ars",
+        "Hep"
+      ]
+    },
+    "dosing": {
+      "notes": "States of debility where the blood is poor in hematin require material doses; plethoric, hæmorrhagic conditions call for small doses, from the second to the sixth potency"
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899",
+      "boericke-1927",
+      "kent-lectures-1905",
+      "kent-mm-1911",
+      "nash-leaders-1899"
+    ]
+  }
+}

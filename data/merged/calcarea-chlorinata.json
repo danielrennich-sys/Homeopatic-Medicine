@@ -1,0 +1,30 @@
+{
+  "id": "calcarea-chlorinata",
+  "names": {
+    "primary": "Calcarea Chlorinata",
+    "latin": "Calcarea Chlorinata",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "This preparation has only been used as a local application, for boils and carbuncles chiefly, in the form of the Liquor Calcis Chloratæ of the British Pharmacopœia. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Boils; Carbuncles",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

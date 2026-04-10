@@ -1,0 +1,35 @@
+{
+  "id": "homeria",
+  "names": {
+    "primary": "Homeria",
+    "latin": "Homeria",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T HOMERIA. Homeria collina. Natural order , Iridaceæ. Common name , Cape tulip. Authority. L. Pappe, M.D., quotes Dr. Laing, Floræ Capensis Medicæ Prodromus (Pharm. Journ., vol. xi, 1851-52, p. 40). A Malay woman, somewhat advanced in years, with her three grand-children, respectively of the ages twelve, eight, and six, ate with their supper, between 7 and 8, a small basinful of the bulbs. About 1 A.M. the woman awoke with severe nausea, followed by vomiting, and found the children similarly affected. She endeavored to call for assistance, but found herself too weak to leave her bed; and when, at 5 o'clock, assistance arrived, the eldest girl was found moribund and expired almost immediately. The little boy of eight years died an hour afterwards, and the youngest child was found in a stage of collapse, almost insensible, with cold extremities, pulse scarcely 50 and irregular, pupils much dilated. The symptoms of the grandmother were nearly similar, but in a lesser degree, accompanied by constant efforts at vomiting. By using diffusible stimulants she and this child eventually recovered. Obstinate constipation prevailed. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Collapse; Constipation; Vomiting",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Homeria is a violent narcotico-acrid poison very like Colchicum in its effects. A Malay woman, with her three grandchildren, æt. 12, 8, and 6, ate a small basinful of the bulbs with their supper (between 7 and 8 p.m.). About 1 a.m. the woman woke with severe nausea and vomiting, and found the children similarly affected. She tried to call for help, but found herself too weak to leave her bed, and when by five o'clock assistance arrived the eldest girl was found moribund and expired almost immediately. The boy of 8 died an hour later. The youngest child was found in collapse, almost insensible, cold extremities, pulse scarcely So and irregular, pupils much dilated. The grandmother's symptoms were similar, but lesser in degree, accompanied by constant efforts at vomiting. By using diffusible stimulants she and the child eventually recovered. Obstinate constipation prevailed. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

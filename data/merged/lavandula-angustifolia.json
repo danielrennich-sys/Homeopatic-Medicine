@@ -1,0 +1,65 @@
+{
+  "id": "lavandula-angustifolia",
+  "names": {
+    "primary": "Lavender",
+    "latin": "Lavender",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Introduction Lavender, also called English Lavender, is an aromatic oil extracted from the flowers or leaves of the popular garden flower, Lavandula angustifolia. Extracts, oils and teas made from lavender are used for its soothing qualities as a sedative, mild analgesic and sleep medication. Lavender has not been implicated in causing serum enzyme elevations or clinically apparent liver injury. Background Lavender (lav' end der) generally describes the aromatic oil extract from the flowers and leaves of lavender plants (Lavandula angustifolia, formerly L. officinalis). English lavender is a popular ornamental plant, known for is aroma, distinctive color and ease of cultivation. The extracts contain volatile oils, consisting chiefly of monoterpenes, linalool and linalyl acetate and carohyllene epoxide. Lavender has multiple biologic effects in vitro and in vivo, including antiinflammatory, antilipidemic, antimicrobial, antineoplastic, analgesic and sedative effects. In humans, lavender has been claimed to induce relaxation and sedation and has been used to treat nervousness and insomnia. It also may have analgesic effects and is used in circulatory disorders, dyspepsia and depression as well as for hair loss. Lavender oils are commonly used in aromatherapy and are found in many skin lotions, creams, soaps and cosmetics. Lavender can also be taken as an herbal tea, inhaled or applied topically. When taken orally, it is usually diluted as a tincture with alcohol. Lavender has not been approved for use in any medical condition in the United States, but it is found in hundreds of herbal creams, lotions, bath oils and aromatic inhalants. Side effects are rare, but may include headache, constipation, dyspepsia and eructation. Hepatotoxicity Despite wide scale use, lavender has not been convincingly linked to instances of clinically apparent liver injury. Likelihood score : E (unlikely cause of clinically apparent liver injury). Other Names: English lavender, Common lavender, True lavender, Narrow-leaved lavender, lavanda. Drug Class: Herbal and Dietary Supplements See also Drug Class: Sedatives and Hypnotics",
+    "documented_adverse_effects": [
+      {
+        "section": "PRODUCT INFORMATION",
+        "text": "REPRESENTATIVE TRADE NAMES Lavender – Generic (OTC Products) DRUG CLASS Herbal and Dietary Supplements SUMMARY INFORMATION Fact Sheet at National Center for Complementary and Integrative Health, NIH COMPLETE LABELING Product labeling at DailyMed, National Library of Medicine, NIH",
+        "source": "LiverTox-NIH"
+      },
+      {
+        "section": "CHEMICAL FORMULA AND STRUCTURE",
+        "text": "View in own window DRUG CAS REGISTRY NUMBER MOLECULAR FORMULA STRUCTURE Lavender 8000-28-0 Unspecified No Structure",
+        "source": "LiverTox-NIH"
+      },
+      {
+        "section": "ANNOTATED BIBLIOGRAPHY",
+        "text": "References updated: 15 April 2019 Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 731-4. (Expert review of hepatotoxicity published in 1999; several herbals are discussed, including comfrey, Jin Bu huan, germander, chaparral leaf, skullcap and valerian, but not lavender). Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 631-58. (Review of hepatotoxicity of herbal and dietary supplements [HDS]; lavender is not discussed). English Lavender. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc., 2007: pp. 285-9. (Compilation of short monographs on herbal medications and dietary supplements). Gyllenhaal C, Merritt SL, Peterson SD, Block KI, Gochenour T. Efficacy and safety of herbal stimulants and sedatives in sleep disorders. Sleep Med Rev 2000; 4: 229-251. [ PubMed : 12531167 ] (Review of herbals used for sleep disorders; mentions that no toxicity has been reported for lavender, but it may potentiate somnolence caused by other agents). Wheatley D. Medicinal plants for insomnia: a review of their pharmacology, efficacy and tolerability. J Psychopharmacol 2005; 19: 414-21. [ PubMed : 15982998 ] (Review of herbals used to treat insomnia; mentions that \"there would appear to be some evidence for the belief that lavender inhalations may act as an aid to sleep\"). Meolie AL, Rosen C, Kristo D, Kohrman M, Gooneratne N, Aguillard RN, Fayle R, et al.; Clinical Practice Review Committee; American Academy of Sleep Medicine. Oral nonprescription treatment for insomnia: an evaluation of products with limited evidence. J Clin Sleep Med 2005; 1: 173-87. [ PubMed : 17561634 ] (Systematic review of efficacy of nonprescription treatments for insomnia; lavender is not discussed). Kasper S, Gastpar M, Muller WE, Volz HP, Moller HJ, Dienel A, Schlafke S. Efficacy and safety of silexan, a new, orally administered lavender oil preparation, in subthreshold anxiety disorder - evidence from clinical trials. Wien Med Wochenschr 2010; 160 (21-22): 547-56. [ PubMed : 21170695 ] (Combined analysis of 3 controlled trials of silexan [a lavender oil preparation] in 509 patients with anxiety disorders; the only adverse events occurring more frequently in silexan group were eructation and dyspepsia; no mention of ALT levels or hepatotoxicity). Woelk H, Schläfke S. A multi-center, double-blind, randomised study of the Lavender oil preparation Silexan in comparison to Lorazepam for generalized anxiety disorder. Phytomedicine 2010; 17: 94-9. [ PubMed : 19962288 ] (Among 77 paatients with generalized anxiety disorder treated with lorazepam or lavender extract for 6 weeks, Hamilton Anxiety Rating scores improved to a similar degree in both groups and adverse events were largely gastrointestinal and none were severe; no mention of ALT elevations or hepatotoxicity). Sarris J, Panossian A, Schweitzer I, Stough C, Scholey A. Herbal medicine for depression, anxiety and insomnia: a review of psychopharmacology and clinical evidence. Eur Neuropsychopharmacol 2011; 21: 841-60. [ PubMed : 21601431 ] (Systematic review and summary of clinical evidence of efficacy of herbals used to treat anxiety, depression and insomnia; mentions that lavender has been studied in humans, but does not rank the herbal as having evidence for efficacy in insomnia or anxiety in humans). Drugs for insomnia. Treat Guidel Med Lett 2012; 10 (119): 57-60. [ PubMed : 22777275 ] (Guidelines for therapy of insomnia; mentions herbal products that are claimed to have sleep inducing effects including valerian root, kava, chamomile tea, passionflower, hops, lemon balm, lavender and skull cap, but that there is no convincing evidence for their efficacy and that the purity of commercially available, over-the-counter products is suspect). Navarro VJ, Barnhart H, Bonkovsky HL, Davern T, Fontana RJ, Grant L, Reddy KR, et al. Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network. Hepatology 2014; 60: 1399-408. [ PMC free article : PMC4293199 ] [ PubMed : 25043597 ] (Among 85 cases of HDS associated liver injury [not due to anabolic steroids] enrolled in a US prospective study between 2004 and 2013, no cases were attributed to lavender). García-Cortés M, Robles-Díaz M, Ortega-Alonso A, Medina-Caliz I, Andrade RJ. Hepatotoxicity by dietary supplements: A tabular listing and clinical characteristics. Int J Mol Sci 2016; 17. pii: E537. (Listing of published cases of liver injury from HDS products does not list or mention lavender). [ PMC free article : PMC4848993 ] [ PubMed : 27070596 ] Brown AC. Liver toxicity related to herbs and dietary supplements: Online table of case reports. Part 2 of 5 series. Food Chem Toxicol 2017; 107 (Pt A): 472-501. [ PubMed : 27402097 ] (Description of an online compendium of cases of liver toxicity attributed to HDS products, does not list or mention lavender). Barić H, Đorđević V, Cerovečki I, Trkulja V. Complementary and alternative medicine treatments for generalized anxiety disorder: systematic review and meta-analysis of randomized controlled trials. Adv Ther 2018; 35: 261-88. [ PubMed : 29508154 ] (Systematic review of published randomized controlled trials of herbal products used to treat anxiety discusses two studies of lavender [Woelk 2010, Kasper 2010] and concludes that the efficacy of lavender extract requires confirmation; no mention of adverse events). Copyright Notice Bookshelf ID: NBK548221 PMID: 31643546 Drug Records < Prev Next > Share Views PubReader Print View Cite this Page LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet]. Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases; 2012-. Lavender. [Up",
+        "source": "LiverTox-NIH"
+      },
+      {
+        "text": "It is likely safe to consume lavender in the amounts typically used in foods. Oral lavender products might be safe in the short-term and in the amounts tested in studies of anxiety or other conditions. However, some people may experience adverse effects such as diarrhea, headache, nausea, or burping. Aromatherapy with lavender oil is considered possibly safe, but it may cause headache or coughing. Topical products containing lavender may cause allergic skin reactions in some people. A few cases of swelling of breast tissue have been reported in children who used topical products containing lavender. However, it’s unclear whether the lavender was responsible for the breast swelling, a condition that can have many causes. There are theoretical reasons to suspect that lavender might interact with some sedative drugs or herbs, which is especially important if you have an upcoming surgical procedure. If you take any type of medicine, talk with your health care provider before using lavender or other herbal products; some herbs and medicines interact in harmful ways. Little is known about whether it’s safe to use lavender during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "hepatotoxicity": [
+      {
+        "section": "LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet].",
+        "text": "Show details Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases ; 2012-. Drug Records Search term < Prev Next > Lavender Last Update: April 15, 2019 .",
+        "source": "LiverTox-NIH"
+      }
+    ],
+    "regulatory": [
+      "LiverTox - NIH Drug-Induced Liver Injury Database",
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "Studies have been done on the use of lavender products for a variety of conditions, but more high-quality research is needed to reach reliable conclusions about its effectiveness.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "Studies have suggested that a lavender oil product, taken orally, might be beneficial for anxiety, including anxiety with co-occurring symptoms of depression. However, the research has several limitations, such as the small sample sizes of the studies, a lack of independent funding and testing, and a lack of participant diversity. Initial reports of small sample size have indicated that oral lavender capsules or lavender tea might reduce symptoms of depression in some people, but because the research is preliminary, it should be interpreted with caution. Topical (on the skin) lavender does not seem to have an effect on symptoms of depression. One preliminary study with seventy-two postmenopausal women aged 50-65 years suggested that a lavender oil product, taken orally, might offer some relief for menopause-related sexual dysfunction, but more reliable evidence is needed to confirm effects. It’s unclear whether aromatherapy with lavender oil has benefits for anxiety, stress, symptoms of depression, some types of pain, sleep quality or insomnia, or other conditions. However, some people have reported feeling a sense of improved quality of life from aromatherapy with lavender oil. One preliminary study suggested that lavender syrup might reduce cough severity in people with COVID-19; however, more reliable evidence is needed to confirm any effects.",
+        "source": "NCCIH"
+      }
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "livertox-nih",
+      "nccih"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "note",
+  "names": {
+    "primary": "Note",
+    "latin": "Note",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Note—There is hardly a group of remedies among all that we have studied, that exercise a more important influence or exercise that influence in a more satisfactory manner, than those of the organic group named in this chapter if prescribed by one who is thoroughly conversant with their influence, and able to prescribe them accurately. They should be persistently studied and the conditions to which they are applicable should be determined with great care.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919"
+    ]
+  }
+}

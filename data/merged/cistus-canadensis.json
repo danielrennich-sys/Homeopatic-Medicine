@@ -1,0 +1,445 @@
+{
+  "id": "cistus-canadensis",
+  "names": {
+    "primary": "CISTUS CANADENSIS",
+    "latin": "CISTUS CANADENSIS",
+    "common": [
+      "Rock Rose"
+    ],
+    "synonyms": [
+      "Cistus Canadensis",
+      "Cistus canadensis",
+      "Cistus Canadensis (see too Salts of Mercurius)"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "face": [
+      {
+        "text": "Itching, burning, and crusts on right zygoma. Lupus, caries; open, bleeding cancer. Tip of nose painful",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Feeling as if facial muscles would be drawn to one side. Flushes of heat in face. Heat and burning in bones of face. Half-way up cheek, swelling beginning at ear. Vesicular erysipelas. Lupus. Sharp shooting, intolerable itching, and thick crusts; with burning on r. zygoma. Caries of lower jaw; with suppurating glands on neck. Open, bleeding cancer on lower lip.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Feeling as if facial muscles would be drawn to one side. Flushes of heat in face. Heat and burning in face and bones of face. Half way up cheek, swelling at ear. θ Parotitis. Vesicular erysipelas on face. Sharp shooting, intolerable itching, and thick crusts, with burning on right zygoma. Lupus on face. Caries of lower jaw ; with suppurating glands on neck. Open, bleeding cancer on lower lip. Lupus exedens about mouth and nose. Pains in all the joints of face ; drawing, tearing ; < in evening.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Scorbutic swollen gums. Mouth feels cold; putrid, impure breath. Pyorrhea (Merc cor; Caust; Staph; Kreos). Hurts to protrude the tongue",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Spongy feeling; very dry and cold air passing over parts causes pain. Breath, tongue, and throat feel cold. Uvula and tonsils swollen. A small, dry spot in throat; must sip water frequently. Hawking of mucus. Swelling and suppuration of glands of throat. Head drawn to one side by swellings in neck. Sore throat from inhaling the least cold air. Heat and itching in throat",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Scorbutic, swollen gums, separating from teeth; easily bleeding, putrid, disgusting. Dry tongue and palate. Tongue sore, surface as if raw. Impure breath. Sensation of coldness of tongue, larynx and trachea. Saliva cool; breath feels cool. Coolness in throat. Soft or spongy feeling in throat. As if sand in throat. Continuous feeling of dryness and heat after sleeping, eating and drinking. Small dry spot in gullet; after sleeping, must get up and drink; > after eating; throat looks glassy; on back of throat stripes of tough or leathery mucus. Must swallow saliva to relieve unbearable dryness, esp. during night. Periodical itching in throat. Dry, without feeling dry. Burning high up behind uvula. Stitches cause cough; when mentally agitated. Cough causes tearing pain in throat. Sore throat from inhaling least cold air. Hawking of mucus, tough, gum-like, thick, tasteless; mostly mornings. Expectoration of (bitter) mucus, relieving throat. Scrofulous swelling and suppuration of glands of throat.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Twitching, stitching toothache in an upper left molar, which was decayed. Scorbutic, swollen gums, separating from teeth ; easily bleeding, putrid, disgusting. Dryness of tongue and roof of mouth. Tongue sore, surface as if raw. Sensation of coldness of tongue, larynx and trachea ; saliva is cool ; breath feels cold. Impure breath. Scorbutis. Coolness particularly in throat, continues all day. A feeling of softness in throat. A feeling as if sand was in throat. Continuous feeling of dryness and heat in throat, < after sleeping, eating and drinking. Dryness of throat from midday until 1 till 3 A. M., then > until next noon. A small dry spot in gullet ; < after sleeping ; must get up and drink ; > after eating ; throat looks glassy ; on back of throat stripes of tough mucus. Must swallow saliva to relieve unbearable dryness, especially during night. Periodical itching in throat. Crawling-itching in throat and fauces. Rawness extending from chest into throat. Burning in throat high up in cavity posterior to uvula. Stitches in throat cause cough ; when mentally agitated. Tearing pain in throat when coughing. Tickling and soreness in throat. Sore throat from inhaling the least cold air, not from warm air. Sore pain in throat and dryness of tongue, in morning. Fauces inflamed and dry, without feeling of dryness. Hawking of mucus, tough, gum-like, thick, tasteless ; mostly mornings. Expectoration of bitter mucus. After discharging phlegm from throat he feels generally much relieved. Scrofulous swelling and suppuration of glands of throat.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Watery discharge; also fetid pus. Tetter on and around ears, extending to external meatus",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Discharge of water and bad-smelling pus. Inner swelling of ears with discharge. Tetters on and around the ear, extending into meatus. Swelling of parotid glands.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Itching : in ears ; intense and deep in l. ear. Stitches from temples into ears, swelling below and behind ears. θ Intermittent fever. Discharge from ears ; watery, bad smelling pus ; inner swelling of ears. Tetters on and around ears, extending into external meatus. Swelling beginning at ear, and extending half way up cheek. Swelling of parotids.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Cool feeling in stomach before and after eating. Cool feeling in whole abdomen. Desire for cheese",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Desire for acid food and fruits, but pain and diarrhœa follow eating them. Desire for cheese. Eating and drinking > dry throat and pain in sinciput. After eating: pain in stomach; cold feeling in stomach. After drinking coffee, diarrhœa. Empty and cool eructations. Frequent nausea; with diarrhœa. 12.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Cist.]. Desire for acid food and fruits, but pain and diarrhœa follow after eating them. Desire for cheese. Thirst, with fever. Eating and drinking relieve dry throat and pain in sinciput. After eating : pain in stomach ; cold feeling in stomach ; after fruit or coffee, diarrhœa. Empty and cool eructations. Eructation, with feeling as though it would relieve. Frequent nausea ; nausea with diarrhœa. Cool feeling in stomach before and after eating. Pain in stomach after eating, with diarrhœa. Much flatulence and pain in hypochondria. Bruised pain under hypochondria, with flatulence, in morning on awaking. Stitches in left hypochondrium. Cool feeling in whole abdomen. Flatulence and bruised pain in hypochondria ; evening and night. Belly puffed up with flatulency. Itching of belly and umbilicus. Colic with diarrhœa. Pain in groin coming from back.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Diarrhœa from coffee and fruit, thin, yellow, urgent; worse in morning",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Thin, greyish-yellow, hot stools, squirting out ; irresistible urging ; < after part of night until noon. Diarrhœa : from coffee, acid fruits ; with goitre ; chronic ; in wet weather ; in scrawny, scrofulous children. Discharge of much flatus. Irresistible urging to stool early in morning. Diarrhœa with desire for acid food, nausea, pain in stomach after eating, or swelling and suppuration of cervical glands. Chronic dysentery.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Coldness in chest. The neck is studded with tumors. Induration of mammæ. Hæmorrhage from lungs",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pressure on chest. Fulness in chest. Raw feeling in upper chest, extending up into throat. Pain in chest accompanied by desire to eructate. Pain in chest and shoulder. Chest hurts when touched. Pressure on chest. Small painful pimples, which bleed easily and heal slowly, across shoulders and on breast.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Sprained pain in wrist. Tips of fingers sensitive to cold. Tetter on hands. Cold feet. Syphilitic ulcers on lower limbs, with hard swelling around. White swelling",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pain in front of right shoulder. Violent pain in left shoulder and chest ; feels as if eructation would relieve it. Tearing pain in nerves of shoulder, drawing pain in ulnar nerve, pain extending to point of little finger. Periodical, sensitive, piercing, drawing pain in arm, extending to tip of little finger, drawing it up. Right arm and back of hand painfully sensitive to least touch. Sprained pain in wrists, drawing and scraping. In hands, drawing, trembling feelings. Bad pain on right hand, in afternoon, so that he cannot use it. Hard, thickened places on hands of workmen, with deep, oblique cracks. Tetter on hands ; blisters, oozing after scratching, with hot swelling. Tearing in finger joints. Pain in fingers (right hand) while writing. Panaritium. Tips of fingers sensitive to cold air. Scrofulous hip disease, with fistulous openings leading to bone, and ulcers on surface, with night sweats. Pain as from a blow or shock in left buttock, going down on inside of thigh bone, distinctly felt in knee joint, and spasmodic drawing together of calf of leg. Tearing pain in sciatic nerve. Drawing, trembling feeling in lower extremities. Pains in knee and right thigh, walking or sitting. Tearing in knees ; evening. Hard swelling around mercurial, syphilitic ulcers on legs. Piercing pain in great right toe ; evening. Cold feet. Swelling of left leg, ulcer thereon ; skin copper-colored. Bruised pain, as from fatigue. Tearing pain in joints.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Cannot sleep from coldness in throat",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Very restless at night. Sleepless from dryness of throat. Night sweats.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Restless at night ; pain from flatulence. Sleeplessness from dryness of throat, constantly swallows saliva, must get up, dryness < after sleep. Anxious dreams. On awaking, pain under hypochondria.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Induration and inflammation of mammæ. Sensitive to cold air. Bad smelling leucorrhœa",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Induration of mammæ; sensitive to cold air; cancer.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Catamenia absent after erysipelas. Induration and inflammation of mamma. Left mamma inflamed, suppurating, with a feeling of fulness in chest ; sensibility to cold air ; scrofulous. Cancer of mamma.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Asthmatic after lying down (trachea feels narrow), preceded by formication",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Cist.]. Inhaled air feels cool in larynx and trachea. Itching and scratching in larynx at night, with anxious dreams. Dryness in larynx. Chronic itching in larynx and trachea. Feeling as if windpipe had not space enough. Pain in trachea. Goitre size of a hen's egg ; frequent diarrhœa. Impure or cold breath. Asthmatic in evening after lying down and at night ; loud wheezing ; sensation as if trachea had not space enough. In evening soon after lying down a sensation as if ants were running through whole body ; then anxious, difficult breathing ; is obliged to get up and open window ; fresh air relieves him ; immediately on lying down again these sensations return. Inhaling slightest cold air causes sore throat, which he has not when inhaling in a warm room. Cough < by mental agitation. Cough from stitches in throat ; with painful tearing in throat ; neck studded with tumors. Expectoration of bitter mucus. After raising phlegm he feels very much relieved.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching all over. Small, painful pimples; lupus. Glands inflamed and indurated. Mercurio-syphilitic ulcers. Skin of hands hard, thick, dry, fissured; deep cracks. Itching of swollen hands and arms; general itching which presents sleep. Hemicrania",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Itching all over body without eruption. Vesicular erysipelas of face. Lupus on face. Tetter. Hard swelling round mercurial syphilitic ulcers on lower limbs.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Itching all over body, without eruption ; sensation as of ants running through whole body, especially at night. Herpetic eruption on various parts. Scrofula ; extremely sensitive to cold air. Mercurio-syphilitic ulcers, surrounded by hard swelling ; on lower limbs. Adenitis. Panaritium. Small, painful pimples, which bleed easily and heal slowly, across shoulders and on breast. Vesicular erysipelas on face. Lupus on face. Eruptions on back like zoster. Furuncles which commenced with a number of small blisters.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "after eating",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "slightest exposure to cold air; mental exertion, excitement",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "antidoted_by": [
+        "Rhus",
+        "Sepia"
+      ],
+      "_raw": [
+        "Antidoted by: Rhus t., Camph., and Sepia. Compatible: Magnesium (the plant grows on a magnesium soil), Bell., Carb. v., Phos. Incompatible: Coffee. Compare: Arg. n., Lach., Carb. v. (cold breath); Sul. (morning diarrhœa).",
+        "Antidotes : Rhus tox., Camphor (?), Sepia (swollen nose)",
+        "Compatible : Magnesium (the plant requires a magnesian soil), Bellad., Carb. veg., Phosphor",
+        "Incompatible : Coffee causes diarrhœa",
+        "Compare : Argent. nitr., Bellad., Calc. carb., Carb. veg. (cold breath), Corydalis, Graphit., Hepar, Kali bich., Laches., Nitr. ac., Paris quad., Phosphor., Sulphur (stool in morning with urging)",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "dosing": {
+      "notes": "First to thirtieth attenuation. Locally as a wash to arrest fetid discharges"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CISTUS CANADENSIS Rock Rose A deep-acting anti-psoric remedy, with marked action in glandular affections, herpetic eruptions, chronic swellings, when patient is extremely sensitive to cold. Sensation of coldness in various parts. Scrofulous ophthalmia. Poisoned wounds, bites, phagedenic ulcers. Malignant disease of the glands of the neck. Cistus has affinity for naso-pharynx; aborts colds that center in posterior nose. Sniffling.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Cistus is a very ancient remedy for scrofulous affections, and also in scorbutic states and gangrenous ulcerations. The provings and homœopathic uses confirm its suitability in these respects and bring out clearer indications. It is most suited to scrofulous subjects who are very sensitive to cold air. \"Sensitive to cold air\" runs through the pathogenesis and also feelings of coldness, of which its peculiar property of favouring the formation of ice about its roots in early winter is strangely suggestive. Cold feelings: in larynx; in abdomen. \"Inhaling the slightest cold air causes sore-throat, which he has not when inhaling in a warm room.\" Inhaled air feels cool. Cold breath. Stitches and cold feelings are very prominent; there is also a soft or spongy feeling which is very characteristic. (I cured with Cistus a case of sore-throat that had lasted for years under allopathic treatment with local swabbings. There was an accumulation of thick yellow, leathery phlegm that had to be cleared away by local means. The patient complained of a \"spongy\" feeling in the throat, and that led me to the remedy.) Trembling (with the fever). Sensation as if ants were running through the whole body (in evening, with anxious, difficult breathing). There is also great sensitiveness to touch: from touch. Throat symptoms > by swallowing. By motion. Evening; night; morning. By drinking coffee (diarrhœa). > By expectoration.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Cistus Canadensis (see too Salts of Mercurius)",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This remedy is an antipsoric, a deep-acting remedy. It runs very close to Calcarea, but is milder in its action. It has the same exhaustion from exertion, dyspnoea, sweating and coldness that we find in Calcarea.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "What will forcibly call your attention to a remedy will be the curing of a bad and typical case. I remember the first time my attention was decidedly called to Cistus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "I had put it on my list to study from time to time and had come to the conclusion that it was only a side issue, until a young lady of nineteen years of age fell under my observation.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Glands: The glands of the neck were large and hard, the parotids especially; she had foetid otorrhoea; her eyes were inflamed and suppurating; there were fissures at the corners of the eyes; her lips were cracked and bleeding, and she had salt rheum at the ends of the fingers.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "I could not make Calcarea fit the patient, but after much study this little remedy seemed to be just what I needed; and although she had had an immense amount of Homoeopathy, good and bad, this remedy cured.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The glands inflame, become swollen and suppurate. It causes cries and cures old ulcers. It has a scrofulous constitution. It is useful in chronic diarrhea, with enlarged glands, even in those who are flabby, sickly and pallid and who cannot go upstairs without losing, their breath.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Mucous membranes: All the mucous membranes throw out a thick, yellowish, offensive mucus and hence it is suitable in old and troublesome catarrh. The chest fills up with mucus and he feels relieved after expectoration, but after he empties the chest it feels raw.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It has eruptions, herpes, tetter, scaly eruptions, salt rheum on the hands and ends of the fingers, with cracking and bleeding of the fingers in winter and from washing in cold water.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "All its complaints are worse from mental exertion. He is excitable. His cough, headache and pains are worse from mental exertion. Pains shoot from the head to the ear. Shooting, stitching, tearing pains in inflamed parts. Red discharges from the ear date back to eruptive diseases.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Headache: He feels as if paralyzed after mental exertion, and mental excitement increases his sufferings, like Calcarea and Borax. If he is compelled to fast headache comes on, and like Lyc., the headache will be relieved after eating.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Frontal headache with coldness. In a warm room the perspiration comes out, and it is cold, and the more he sweats the colder he gets. Pain in the forehead with cold sweat, and the colder he gets the worse the pain becomes.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sick headaches and great prostration with the headache. Sensation of internal coldness of the forehead, especially in warm room. Pressing pain at the root of die nose with headache. The parotid gland is so much enlarged that it pushes the head to one side.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The glands of the abdomen swell with chronic diarrhea, and the swelling may be tuberculous. Enlarged glands, with or without eruptions.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Skin: All over the body there is a sensation of crawling; formication tingling and creeping like ants, and no eruption. He scratches till the skin is raw trying to get relieved of the itching and prickling. Eruption upon the face; eczema. Eruptions about the ear.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Cold feeling or burning in the nose, This is difficult to distinguish. In acute coryza the nose fills up with thick, yellow mucus, and when this is blown out it leaves the nasal cavity empty, and there is irritation; one will say it is a rawness, another will say a coldness, and another will describe it as a burning.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Nose: There is relief when the nose fills up again with mucus. In Ars. the mucus in the nose is so acrid that it burns, but in Ant. c., Aesculus, and in this remedy when the nose is empty there is a burning or rawness. The sensation of rawness, coldness or burning is caused by the inhalation of air.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "An epidemic of coryza was prevalent, and this was the strongest symptom, the pain caused by inhaling air, great burning from inhaled air. But it is not in the acute coryza that we see the value of this remedy, it is in the old, chronic case, with thick discharge, and a cold feeling or burning in the nose when inhaling air.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Sharp shooting, intolerable itching and thick crusts, with burning on right zygoma.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Face: This remedy has cured lupus on the face. Caries of the lower jaw. Open, bleeding cancer on the lower lip. Lupus exedens. Pain in all the joints of the face. It cures old, deep-seated, eating ulcers about the ankle and shin, with copious acrid discharge, formication and swollen glands, aggravation from bathing, extreme sensitiveness to the open air, only comfortable when very warm.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The teeth have all sorts of disturbances; the gums settle away, the teeth become loose; scorbutic gums. The same cold feeling is described in the throat as in the nose-smarting and coldness. Mouth and throat full of mucus. The throat feels rough, as if full of sand. Dry spots in the throat. The throat looks glossy, shining as if vanished, in old atrophic catarrhs.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Every cold settles in the throat. Hot air feels good everywhere. In old cases there is trouble with scrofulous glands, which are enlarged, and the patient wants the heat; goes to the register and turns the heat on, wants to feel the heat in the nose, throat and lungs.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Patients going into tuberculosis have that desire for beat; chilly persons, They do not feel cold to touch, but they are cold subjectively, chilly. Hawking of gum-like mucus, especially in the morning, fauces inflamed and dry. Suppuration of the glands of the throat.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "These patients crave pungent things, and especially want something to warm them up, something to build them up, something stimulating herring, cheese; something strong.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Chronic induration and inflammation of the mammae.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Left mamma inflamed, suppurating, with a feeling of fullness in the chest.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sensibility to cold air,\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "with inflamed glands. We see its tendency to produce enlargement of the glands, and this would make us think of it in growths with involvement of the glands all around. The glands of the neck are enlarged in lines, like knotted rope, as in Hodgkin’s disease.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Only a limited number of remedies have this knotting. Itching of the skin and mucous membrane. The itching in the ear is not relieved by scratching, and the part is raw from the constant rubbing and scratching. The eyes constantly itch. In the throat there is continuous itching. In the chest there is a constant tickling, causing cough. At the anus and all other orifices there is itching, and the itching parts are rubbed until raw and bleeding.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Scrofula; swelling and suppuration of the glands of the neck. Eruption on the back like shingles. Scrofulous ulcer on the back. Burning, bruised pain in the coccyx, worse from touch.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "That is like Carbo an., in which the coccyx burns when pressed on, especially after a slight injury in a nervous woman.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Tetter on the hands; blisters oozing after scratching. Diseases of the nails. Hard, thickened places on the hands of workmen, with deep cracks.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The febrile symptoms have not been sufficiently brought out. In chronic cases there is copious sweat with exhaustion. Night-sweats.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "LECTURES ON HOMOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror Cistus Canadensis (see too Salts of Mercurius) This remedy is an antipsoric, a deep-acting remedy. It runs very close to Calcarea , but is milder in its action. It has the same exhaustion from exertion, dyspnoea, sweating and coldness that we find in Calcarea . What will forcibly call your attention to a remedy will be the curing of a bad and typical case. I remember the first time my attention was decidedly called to Cistus . I had put it on my list to study from time to time and had come to the conclusion that it was only a side issue, until a young lady of nineteen years of age fell under my observation. Glands : The glands of the neck were large and hard, the parotids especially; she had foetid otorrhoea; her eyes were inflamed and suppurating; there were fissures at the corners of the eyes; her lips were cracked and bleeding, and she had salt rheum at the ends of the fingers. I could not make Calcarea fit the patient, but after much study this little remedy seemed to be just what I needed; and although she had had an immense amount of Homoeopathy, good and bad, this remedy cured. The glands inflame, become swollen and suppurate. It causes cries and cures old ulcers. It has a scrofulous constitution. It is useful in chronic diarrhea, with enlarged glands, even in those who are flabby, sickly and pallid and who cannot go upstairs without losing, their breath. Mucous membranes : All the mucous membranes throw out a thick, yellowish, offensive mucus and hence it is suitable in old and troublesome catarrh. The chest fills up with mucus and he feels relieved after expectoration, but after he empties the chest it feels raw. It has eruptions, herpes, tetter, scaly eruptions, salt rheum on the hands and ends of the fingers, with cracking and bleeding of the fingers in winter and from washing in cold water. All its complaints are worse from mental exertion. He is excitable. His cough, headache and pains are worse from mental exertion. Pains shoot from the head to the ear. Shooting, stitching, tearing pains in inflamed parts. Red discharges from the ear date back to eruptive diseases. Headache : He feels as if paralyzed after mental exertion, and mental excitement increases his sufferings, like Calcarea and Borax . If he is compelled to fast headache comes on, and like Lyc ., the headache will be relieved after eating. Frontal headache with coldness. In a warm room the perspiration comes out, and it is cold, and the more he sweats the colder he gets. Pain in the forehead with cold sweat, and the colder he gets the worse the pain becomes. Sick headaches and great prostration with the headache. Sensation of internal coldness of the forehead, especially in warm room. Pressing pain at the root of die nose with headache. The parotid gland is so much enlarged that it pushes the head to one side. The glands of the abdomen swell with chronic diarrhea, and the swelling may be tuberculous. Enlarged glands, with or without eruptions. Skin : All over the body there is a sensation of crawling; formication tingling and creeping like ants, and no eruption. He scratches till the skin is raw trying to get relieved of the itching and prickling. Eruption upon the face; eczema. Eruptions about the ear. Cold feeling or burning in the nose, This is difficult to distinguish. In acute coryza the nose fills up with thick, yellow mucus, and when this is blown out it leaves the nasal cavity empty, and there is irritation; one will say it is a rawness, another will say a coldness, and another will describe it as a burning. Nose : There is relief when the nose fills up again with mucus. In Ars . the mucus in the nose is so acrid that it burns, but in Ant. c., Aesculus , and in this remedy when the nose is empty there is a burning or rawness. The sensation of rawness, coldness or burning is caused by the inhalation of air. An epidemic of coryza was prevalent, and this was the strongest symptom, the pain caused by inhaling air, great burning from inhaled air. But it is not in the acute coryza that we see the value of this remedy, it is in the old, chronic case, with thick discharge, and a cold feeling or burning in the nose when inhaling air. \"Sharp shooting, intolerable itching and thick crusts, with burning on right zygoma.\" Face : This remedy has cured lupus on the face. Caries of the lower jaw. Open, bleeding cancer on the lower lip. Lupus exedens. Pain in all the joints of the face. It cures old, deep-seated, eating ulcers about the ankle and shin, with copious acrid discharge, formication and swollen glands, aggravation from bathing, extreme sensitiveness to the open air, only comfortable when very warm. The teeth have all sorts of disturbances; the gums settle away, the teeth become loose; scorbutic gums. The same cold feeling is described in the throat as in the nose-smarting and coldness. Mouth and throat full of mucus. The throat feels rough, as if full of sand. Dry spots in the throat. The throat looks glossy, shining as if vanished, in old atrophic catarrhs. Every cold settles in the throat. Hot air feels good everywhere. In old cases there is trouble with scrofulous glands, which are enlarged, and the patient wants the heat; goes to the register and turns the heat on, wants to feel the heat in the nose, throat and lungs. Patients going into tuberculosis have that desire for beat; chilly persons, They do not feel cold to touch, but they are cold subjectively, chilly. Hawking of gum-like mucus, especially in the morning, fauces inflamed and dry. Suppuration of the glands of the throat. These patients crave pungent things, and especially want something to warm them up, something to build them up, something stimulating herring, cheese; something strong. \"Chronic induration and inflammation of the mammae. Left mamma inflamed, suppurating, with a feeling of fullness in the chest. Sensibility to cold air,\" with inflamed glands. We see its tendency to produce enlargement of the glands, and this would make us think of it in growths with involvement of the glands all around. The glands of the neck are enlarged in lines, like knotted rope, as in Hodgkins disease. Only a limited number of remedies have this knotting. Itching of the skin and mucous membrane. The itching in the ear is not relieved by scratching, and the part is raw from the constant rubbing and scratching. The eyes constantly itch. In the throat there is continuous itching. In the chest there is a constant tickling, causing cough. At the anus and all other orifices there is itching, and the itching parts are rubbed until raw and bleeding. Scrofula; swelling and suppuration of the glands of the neck. Eruption on the back like shingles. Scrofulous ulcer on the back. Burning, bruised pain in the coccyx, worse from touch. That is like Carbo an ., in which the coccyx burns when pressed on, especially after a slight injury in a nervous woman. Tetter on the hands; blisters oozing after scratching. Diseases of the nails. Hard, thickened places on the hands of workmen, with deep cracks. The febrile symptoms have not been sufficiently brought out. In chronic cases there is copious sweat with exhaustion. Night-sweats. Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-mm-1911"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Cistus canadensis. Mind and Disposition. Bad effects from vexation. Mental excitement increases the suffering (stitches in the throat, producing cough). Head. Pressure above the eyes, in the forehead. Headache, worse towards evening, lasting all night. [5] Head drawn to one side by swelling on the neck. Eyes. Feeling of weight above the eyes. Stitches in the left eye. Feeling as if something were passing around in the eye, with stitches (scrofulous inflammation of the eyes). Ears. Discharge from the ears (of water and bad-smelling pus). [10] Inner swelling of the ears (with discharge). Tetters on and around the ear, extending to the external meatus. Swelling of the parotid glands. Nose. Frequent and violent sneezing (evenings and mornings). Cold feeling in the nose. [15] Inflammation and swelling of the left side of the now (burning). The tip of the nose is painful. Face. Flushes of heat in the face. Heat and burning in the facial bones. Vesicular erysipelas in the face. [20] Caries of the lower jaw. Lupus extends to the mouth and nose. Mouth and Teeth. Scorbutic gums, swollen, separating from the teeth, easily bleeding, putrid. Dryness off the tongue and roof of the mouth. Sore tongue, as if raw, on the surface. [25] Sensation of coldness of the tongue, larynx, and trachea : the saliva is cool ; the breath feels cold. Impure breath. Throat. Dryness and heat in the throat ; he must constantly swallow saliva, to relieve it (drinking water and eating relieve it). Periodical itching in the throat. Fauces inflamed and dry without feeling dry, hawking up of tough, gum-like, thick, tasteless phlegm (in the morning). [30] Hawking of (bitter) mucus, relieving the throat. Sore pain in the throat and dryness of the tongue in the morning. Stitches in the throat, causing cough, whenever mentally agitated. Stomach and Abdomen. Cool eructations. Cold feeling in the stomach before and after eating. [35] Pain in the stomach immediately after eating. Cold feeling in the whole abdomen. Stool and Anus. Diarrha, after eating fruit, after drinking coffee. Thin hot stools, of grayish yellow color, from midnight till noon. Genital Organs. Male. Itching on the scrotum. Respiratory Organs. [40] Cool feeling in the larynx and trachea. Feeling as if the trachea were not wide enough (asthma). Pain in the trachea. Feeling of rawness, extending from the upper part of the chest into the throat. Fulness of and pressure on the chest. [45] Cough, from stitches or painful tearings in the throat. Cough ; the neck is thickly studded with tumors. Bleeding at the lungs. Back and Neck. Glands on the neck and throat swollen. Scrofulous swelling and suppuration of the glands of the throat. [50] Itching on the back. A burning, bruised pain in the os coccygis, preventing sitting ; aggravated by contact. Extremities. Upper . Sprained pain in the wrists. Pain in the fingers (right hand) while writing. Tearing in the finger-joints. [55] The tips of the fingers are very sensitive to the cold. Tetter on the hands. Lower . Pains in the knee and right thigh when walking or sitting. Tearing in the knees (evening). Piercing pain in the right great toe (evening). [60] Cold feet. Generalities. Trembling (with the fever). Sensation as if ants were running through the whole body (in the evening, with anxious, difficult breathing). Fever. Chilliness. Cold feeling in the abdomen, larynx. [65] Chill, followed by fever, with trembling, accompanied by a quick swelling and great redness or the glands below the ear and in the throat. Heat, with thirst (drinks frequently). Sleep. Very restless at night. Sleeplessness because of the dryness of the throat. Night sweats. Skin. [70] Itching all over the body without eruption (abdomen, navel, scrotum). Vesicular erysipelas on the face. Tetter (cars, hands). Lupus on the face. Hard swelling around the mercurial, syphilitic ulcers on the lower limbs. Conditions. [75] Aggravation . Evening ; during the night ; in the morning. Cold air (sore throat). When lying down (difficulty of breathing). From drinking coffee (diarrha). From motion. [80] Amelioration . Fresh air (difficult breathing). Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Bone affections; Cancer; Diarrhœa; Erysipelas; Follicular pharyngitis; Glandular swellings; Hip-joint disease; Hospital gangrene; Lupus; Panaritium; Parotitis; Scorbutus; Scrofula; Sore-throat; Ulcers; Zona",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Stitches in l. hypochondrium. Cool feeling in whole abdomen. Pain in groin coming from back. Thin, greyish-yellow, hot stools, squirting out; irresistible urging, from midnight until noon. Diarrhœa: from coffee; fruits; with goître; chronic; in wet weather; in scrawny scrofulous children. Chronic dysentery. Larynx and trachea: inhaled air feels cool; itching in; feeling as if windpipe had not space enough. Asthmatic in evening after lying down and at night. Cough: by mental agitation; from stitches in throat; with painful tearing in throat. Raw feeling in upper chest extending into throat. Expectoration of bitter mucus. After raising phlegm feels very much relieved. In evening, pains in knees, in r. hand, in l. shoulder. Drawing pains in muscular parts of hands and of lower extremities, with pains in joints, fingers, and knees. Tearing and drawing pains in all the joints, knees and fingers. Sprained pain in wrists. Pain in fingers (r. hand) while writing. Tearing in finger-joints. Tips of fingers very sensitive to cold. Tetter on hands. Pains in knee and r. thigh when walking or sitting. Tearing in knees. Piercing pain in r. great toe (evening). Cold feet.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Neuralgia. Involuntary drawing and trembling feeling in muscular parts of hands and lower extremities, with pain in wrists, fingers and knee joints. Trembling with fever. A feeling of lassitude and depression through whole body. Very sensitive to a draught of air. Frequent : sneezing ; nausea ; diarrhœa ; drinking. Spasmodic : piercing pain in middle of upper rim of right orbit. All day : coolness in throat ; dryness of throat. From noon until 3 A. M. : dryness in throat <. After supper until bedtime : cheerfulness. After part of night until noon : diarrhœa and urging <. All night : sick headache in right side, with chilliness and piercing pain in eye. Periodical : itching in throat ; pain in arm, extending to tip of little finger, drawing it up. Intermittent fever. Continuous : feeling of dryness and heat in throat ; swallowing of saliva. Chronic : diarrhœa ; dysentery ; itching in larynx and trachea ; catarrh ; scrofulous inflammation. Right : sick headache with piercing pain in eye ; spasmodic, piercing pain in middle of upper rim of orbit, with some headache on side ; sharp shooting, intolerable itching, and thick crusts, with burning on zygoma ; below shoulder blade, extending around to front of body, an inflamed spot, about as large as palm of hand, painfully sore to touch ; pain in front of shoulder ; arm and back of hand painfully sensitive to least touch ; bad pain in hand so that he cannot use it ; pain in fingers of hand while writing ; pain in knee and thigh, walking or sitting ; piercing in great toe. Left : eye most affected ; stitches in eye ; intense and deep itching in ear ; side of nose inflamed and swollen ; burning sensation in nostril ; toothache in upper decayed molar ; stitches in hypochondrium ; mamma inflamed, suppurating ; rheumatoid pain in hip and groin, extending from inflamed spot below right shoulder blade ; violent pain in shoulder and chest ; pain as from a shock or blow in buttock, going down on inside of thigh bone, felt in knee joint, and spasmodic drawing together of calf of leg ; swelling of leg, ulcer thereon, skin copper colored. As if paralyzed ; as of coolness inside of forehead ; as of weight above eyes ; as if something was passing around in eye ; as if facial muscles would be drawn to one side ; surface of tongue as if raw ; as of softness, in throat ; as if sand was in throat ; as if windpipe had not space enough ; as if ants were running through whole body ; as if eructation would relieve violent pain in left shoulder and chest ; as from a blow or shock in left buttock, going down on inside of thigh bone, distinctly felt at knee joint, and spasmodic drawing together of calf of leg ; as of lassitude and depression through whole body. Pain : in head violent ; in tip of nose ; in all joints of face ; in sinciput, > by eating and drinking ; in stomach, after eating ; in hypochondria ; in groin, coming from back ; in trachea ; in chest, with desire to eructate ; in chest and shoulder ; in front of right shoulder ; violent in l. shoulder and chest ; on right hand ; in fingers ; (r. hand) while writing ; in knee and right thigh ; in wrists, fingers, and knee joints ; under hypochondria on awaking ; in head. Piercing : in eye ; in arm, extending to tip of little finger ; in right great toe. Spasmodic piercing : in middle of upper rim of right orbit. Stitches : in throat ; from temple into ears ; in left eye ; in upper left decayed molar ; in left hypochondrium ; sharp shooting on right zygoma. Scraping : in wrists. Scratching : in larynx ; on outside of throat near larynx. Tearing : in all joints of face ; in throat when coughing ; in nerves of shoulder ; in finger joints ; in sciatic nerve ; in knees ; in joints. Drawing : in all joints of face ; in ulnar nerve ; pain extending to point of little finger ; in wrists ; in hands ; in lower extremities. Involuntary drawing feeling in muscular parts of hands and lower extremities. Burning : in nose ; in left nostril ; in face and bones of face ; on right zygoma ; in throat high up in cavity posterior to uvula ; in inflamed spot about as large as palm of hand below right shoulder blade ; in os coccygis. Soreness : of tongue ; in throat. Rawness : from chest into throat. Pressing pain : at root of nose. Pressure : in forehead above eyes ; on chest. Sprained pain : in wrists. Bruised pain : under hypochondria ; in hypochondria at evening and at night ; in os coccygis ; in limbs. Rheumatoid pain : from inflamed spot below right shoulder blade, into left hip and groin. Sensitive pain : in arm, extending to tip of little finger. Fulness : in chest, with inflammation and suppuration of l. mamma. Twitching : in upper left decayed molar. Trembling feeling : in hands ; in lower extremities ; in muscular parts of hands and lower extremities. Crawling-itching : in throat and fauces. Tickling : in throat. Itching : in ears ; intense and deep in left ear ; intolerable on right zygoma ; in throat ; of belly and umbilicus ; of scrotum ; in larynx ; at night ; on outside of throat near larynx ; on back ; all over body. Dryness : of tongue and roof of mouth ; in throat ; of small spot in gullet ; in larynx ; in trachea. Heat : in face and bones of face ; in throat. Cool feeling : in throat ; of eructations ; in stomach ; in whole abdomen ; of inhaled air in larynx and trachea ; inside forehead. Cold feeling : in nose ; in stomach ; in abdomen ; in larynx ; of tongue and trachea. Glands swollen, inflamed, indurated, or suppurating ; scrofula ; caries ; old ulcers. Chronic catarrh, with strumous disease of glands. Chronic diarrhœa and dysentery. (OBS :) Hospital gangrene, phagedenic ulcers, bites of rabid animals, poisoned wounds, etc., a wash to arrest fetid discharges, ozæna, leucorrhœa, gonorrhœa, gargle in diphtheria. TOUCH. PASSIVE MOTION. INJURIES. [45] [Cist.]. When touched : chest hurts. Touch : below right shoulder blade, extending around to front of body, a very much inflamed spot, about size of palm of hand, painfully sore to ; pain in os coccygis ; right arm and back of hand painfully sensitive to least. Scratching : oozing from blisters on hand after. Scrofulous subjects with great sensitiveness to cold air. A lad, æt. 7 years ; scrofulous hip disease. Mrs. C., æt. 19 ; delicate constitution ; cough with neck thickly studded with tumors.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Bad effects from vexation. All mental excitement ; (stitches in throat; cough).",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Cheerfulness after supper, until bedtime. All mental excitement increases the suffering. Bad effects of vexation ; feels as if paralyzed. Every mental excitement is followed by stitches in throat, producing cough. Mental agitation increases cough. Vertigo.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "head": [
+      {
+        "text": "Headache in sinciput after being kept waiting for dinner; > eating; towards evening and lasts all night; in r. side, with piercing pain in eye. Forehead cold, and sensation of coolness inside forehead, in a very warm room. Pressive pain at root of nose with headache. Head drawn to one side by swellings in neck.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Headache in sinciput after being kept waiting for dinner ; > after eating, < towards evening and lasts all night ; in right side, with piercing pain in eye. Pressure above eyes in forehead. Violent pain in head ; stitches from temples into ears. θ Intermittent fever. Sick headache with chilliness. Forehead cold, and sensation of coolness inside forehead, in a very warm room. Pressing pain at root of nose with headache. Head drawn to one side by swellings in neck.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Stitches in eyes; scrofulous inflammation; feeling as if something were passing around in the eye, with stitches. Weight above eyes.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pressure above eyes and feeling of weight. Stitches in left eye. Left eye most affected. Scrofulous inflammation of long standing ; feeling as if something was passing around in eye, with stitches. Spasmodic, piercing pain in middle of upper rim of right orbit, with some headache on that side.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Cold feeling, or burning in nose. Chronic catarrh; frequent and violent sneezing evening and morning. Inflammation, swelling and burning l. side of nose. Tip of nose painful. Eczema.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Cold feeling or burning in nose. Frequent and violent sneezing, mostly evening and morning ; chronic nasal catarrh. Left side inflamed and swollen ; burning sensation in left nostril. Tip of nose painful. Eczema of nose.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "male": [
+      {
+        "text": "Itching in scrotum.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Itching on scrotum.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "Glands of neck and throat swollen; suppuration. Itching on back. Eruption like zona. Burning, bruised pain in coccyx preventing sitting, from contact.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Scrofulous swelling and suppuration of glands of throat. Itching and scratching on outside of throat near larynx. Itching on back. Below right shoulder blade, extending around to front of body, a very much inflamed spot, about size of palm of hand, painfully sore to touch ; soon after pimples appear on this spot in a large group, causing violent burning ; later, rheumatoid pain from this spot into l. hip and groin, < from motion. Eruption on back like zoster. Scrofulous ulcers on back. Burning, bruised pain in os coccygis, preventing sitting ; < from touch.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chilliness; followed by heat with trembling, accompanied by a rapid swelling and great redness of glands below ear and in throat. Heat with thirst, causing to drink frequently. Night sweats. Sweats easily. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Chilliness ; chill succeeded by heat, with trembling, accompanied by a rapid swelling and great redness of glands below ear and in throat. Cold feeling : in abdomen ; in larynx. Cold feet. Heat in face. Heat with thirst, causing to drink frequently. Intermittent fever, with violent pain in head, and swelling below and behind ears. In a warm room, skin grows moist ; forehead externally cool, with an internal feeling of coolness. Night sweats. Sweats very easily.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "hering-guiding-1879",
+      "kent-lectures-1905",
+      "kent-mm-1911",
+      "lippe-textbook-mm-1866"
+    ]
+  }
+}

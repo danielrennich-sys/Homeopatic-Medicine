@@ -1,0 +1,32 @@
+{
+  "id": "blatta-blatta",
+  "names": {
+    "primary": "Blatta. Blatta orientalis",
+    "latin": "Blatta. Blatta orientalis",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Occurrence—This is the powder of the dried bodies of the common cockroach.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "This has been a common remedy in Russia for dropsy. It produces an immense flow of the urine. At the same time it also acts freely upon the skin as a diaphoretic. It so influences the functional activity of the circulatory organs, and of the kidneys, that the entire character of the urine is changed and a normal condition obtained. It will reduce the quantity of albumen in the urine, often very quickly. With children from five to ten grains are given during the course of the day. From five to ten grains may be given three times a day to an adult.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919"
+    ]
+  }
+}

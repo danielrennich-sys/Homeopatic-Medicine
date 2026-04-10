@@ -1,0 +1,24 @@
+{
+  "id": "manganum-acet",
+  "names": {
+    "primary": "MANGANUM ACET",
+    "latin": "MANGANUM ACET",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Cough better lying down.",
+        "source_id": "nash-leaders-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "nash-leaders-1899"
+    ]
+  }
+}

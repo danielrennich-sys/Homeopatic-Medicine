@@ -1,0 +1,209 @@
+{
+  "id": "acidum-salicylicum",
+  "names": {
+    "primary": "Acidum Salicylicum",
+    "latin": "Acidum Salicylicum",
+    "common": [
+      "Salicylic Acid"
+    ],
+    "synonyms": [
+      "Acidum Salicylicum (U. S. P.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Related entry: Gaultheria - Sodium salicylate - Salol- Aspirin - Salicin",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonym—Salicylic Acid. Dose, from three to fifteen grains.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Physiological Action—Taken into the system, salicylic acid produces a roaring in the head similar to that produced by quinine, an uncomfortable fullness of the head, a sensation of distention with deafness and impaired vision. There is trembling or muscular uncertainty, and reduction of reflex action.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "From over-doses, Bartholow says strabismus or ptosis may occur, and complete amaurosis has been temporarily induced. It has induced delirium, restlessness, difficult breathing, feeble pulse, loss of control of the natural evacuations. It induces general depression of the functions of the central nervous system. It depresses the action of the heart, and the temperature in large doses, to the extent in health of more than one and one-half degrees. In elevated temperatures its influence is more conspicuous, but if the synthetic agent is used its influence is irregular and not to be relied upon. It is destructive of the red blood corpuscles, destroying their oxygen carrying power. It produces flushing of the face in its first influence, a suffusion of the eyes and sweating which continues even if the temperature falls. Its protracted use produces pallor and prostration with lowering of the vital forces.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The agent is eliminated by all the natural emunctories, the natural form much more freely than the synthetic acid. It has appeared in the urine in fifteen minutes after its ingestion. It is usually, however, slow of absorption and its elimination is correspondingly protracted.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The influence of the agent upon the kidneys must be watched, as it sometimes acts as an irritant, producing congestion and hematuria, with partial suppression, or slight albuminuria.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In examining the urine of patients taking salicylic acid or its salts, it must be borne in mind that a reaction occurs from their presence with tests for sugar, similar to that of sugar itself, and is often misleading.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Chemical changes occur in the intestinal canal by the action of the digestive and intestinal juices upon it, and the effete products of large doses produce an alteration in the character of the urine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Salicylic acid is used in medicine largely in combination with the alkaline bases, through its action on the neutral salts of these substances, because of their superior solubility. It was advised when the acid first came into general use to dissolve it, by the addition of the phosphate, acetate, carbonate, or other salt of sodium. This, of course, resulted in the formation of the salicylate of sodium with phosphoric, acetic or carbonic acids as the products. The sodium salt is now more universally used than any other compound of the acid.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The bromides or hydrobromic acid in small doses will correct the unpleasant roaring in the head induced by this acid or by the salicylates, and will permit their protracted use in cases where, when indicated, the patient is susceptible to this influence.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—The therapeutic influence of salicylic acid in internal use is largely comprehended in the therapeutics of the salicylate of sodium and the other salicylates.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Salicylic acid is specifically a remedy for rheumatism. It is used to best advantage in the acute and sub-acute forms, but will serve an excellent purpose in the chronic forms of whatever character. It is now given in the form of its soluble salts. Relapses are, however, more liable to occur after this agent than after almost any other remedy.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is advised by Ringer as of especial value in sciatica and lumbago, and in some cases of migraine. It will serve a good purpose in many of these cases.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The antiseptic, deodorant, stimulating and healing properties of the agent are promptly and satisfactorily exhibited. It may be dissolved in hot water and used as a mouth-wash in all conditions of ulceration of the mucous membranes of the mouth or throat. It was commonly used in diphtheria at one time, and. was superior to other then known remedies.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In tonsilitis it seems to exercise a specific influence, operating efficiently in small doses of one or two grains every two hours. It can be applied directly to the tonsils if there is an exudate.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In the form of a spray it is useful in ozoena and fetid catarrh. It can be finely pulverized, combined with a non-irritating powder and used as an insufflation, or with a powder blower.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Internally the unaltered acid has been given in the treatment of ulcerations and cancerous conditions of the stomach and of the lungs, in all conditions wherein there was persistent foul breath or offensive expectoration. From two to five grains are given as a dose in these cases. It corrects the bad breath and quiets much of the discomfort present in ulcerative disease of these organs.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is of value in old indolent ulcers, in chronic tibial ulcers, in unhealthy -granulating sores, and in cold abscesses. It is either dusted directly on these sores or incorporated into an ointment, with a healing base.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is used in pruritus, especially if accompanied with a moist discharge from the part, similar to eczema. It is useful in a large number of skin diseases and has been especially advised in some tubercular and epitheliomatous conditions of the skin.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is in universal use as a constituent of corn salves and other bunion and corn cure remedies, and is useful in the treatment of chilblains and frost bites.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Salicylic acid is an efficient agent in preventing fermentation. It is used to prevent this process in canned fruits, in cider and grape juice, and in other liquids subject to rapid decomposition. It is useful in preventing decomposition in urine preserved for future observation or analysis.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Preparations: Ointment of Salicylic Acid - Glycerite of Salicylic Acid Related entry: Methyl Salicylas (U. S. P.)—Methyl Salicylate",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "FORMULA: HC7H5O3. MOLECULAR WEIGHT: 137.67. SYNONYMS: Oxybenzoic acid, Ortho-oxybenzoic acid. \"An organic acid, existing naturally, in combination, in various plants, but most largely prepared synthetically from carbolic acid\"—(U. S. P.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Source and History.—In the year 1839, an article, from the pen of M. Piria, stated that by heating salicin, with mixtures of bichromate of potassium and sulphuric acid, an oily product was obtained, which he named hydruret of salicyle (since known as salicylous acid). When this substance was heated with caustic potash, the mass dissolved in water, and then treated with excess of hydrochloric acid, a white substance crystallized, which Piria named salicylic acid. Soon afterward, Cahours and Gerhard obtained it, by decomposing wintergreen oil. Kolbe and Lautemann (Ann. de Chim. et Pharm., cxiii.) succeeded in preparing salicylic acid, by passing carbonic acid gas through carbolic acid, at the same time adding fragments of metallic sodium. The residuum was dissolved in water and an excess of hydrochloric acid added, when impure salicylic acid separated. Afterward, Kolbe found that by preparing dry carbolate of sodium, and heating it to the temperature of 100° C. (212° F.), gradually increased to 220° C. (428° F.) [not to exceed 250° C. (482° F.)], while at the same time a constant stream of carbonic acid gas is kept passing through the retort, phenol will distill over, and disodium salicylate remain in the retort, thus: 2(C6H5ONa)+ CO2 = C6H4ONa.CO2Na+C6H5OH.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "This preparation was very impure, however, and it was not until after the year 1875 that, from this source, white salicylic acid became an article of commerce. Rautert (1875) found that pure salicylic acid would distill with a current of steam, thus enabling chemists to easily purify Kolbe's dark-colored or yellow preparation; and Dr. Squibb recommends this process in practice. At present, the bulk of salicylic acid found in commerce is prepared from carbolic acid. The following process, devised by R. Schmitt, was patented in 1885. Phenolsodium is acted upon by a current of carbon dioxide (CO2) at ordinary temperature, resulting in the formation of sodium phenyl carbonate as follows: C6H5ONa + CO2 = C6H5O.COONa. This substance is then heated in closed vessels to a temperature of 120° C. to 140° C. (248° F. to 284° F.), an intramolecular change taking place, whereby monosodium salicylate (C6H4OH.COONa) is produced; from this salt salicylic acid is easily liberated by hydrochloric acid. Salicylic acid is likewise found in the leaves of wintergreen (Gaultheria procumbens), and in allied plants, as methyl-salicylate (C6H4[OH].COCH3). Cahours and Gerhard discovered it in the former about 1843. Cahours also obtained it while fusing a mixture of indigo and hydrate of potassium at high temperature; and Delandes, by a somewhat similar action, upon coumarin. Distilled oil of meadow sweet (Spiraea ulmaria. readily yields it, as this oil is, mainly, salicylous acid (C7H6O2). Prof. E. S. Wayne obtained salicylic acid, from an oil, distilled from buchu leaves, and Prof. J. U. Lloyd (1877) from an oil, obtained by distillation from senega root. [This oil proved to be identical, in character, with oil of wintergreen]. Mandelin (1881) proved its existence in several species of violets.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Preparation.—To prepare salicylic acid, dissolve, in an evaporating dish, 2 ½ parts of white hydrate of potassium, by means of a similar amount of distilled water, and raise the temperature of the solution to 82.2° C. (180° F.); then add, with constant stirring, 3 parts of oil of wintergreen (Gaultheria procumbens.. When effervescence ceases, pour the solution into a mixture, composed of hydrochloric acid, 4 parts, and distilled water 10 parts; stir well, and allow the mixture to remain in a cool place for 24 hours; then pour it upon a muslin strainer, drain the crystalline magma, redissolve it in boiling water, and crystallize by cooling; or, dissolve the precipitate in alcohol, and then reprecipitate, by the addition of water. Pure wintergreen oil must be employed in this process, because, if adulterated with sassafras oil, as is often the case, much trouble will be experienced in purifying the acid.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Description and Tests.—Salicylic acid separates from concentrated solutions, when rapidly cooled, in the form of small, crystalline tufts of minute acicular crystals. It is inodorous, but the crude salicylic acid in course of preparation, from wintergreen oil, possesses, from the presence of foreign matters, the peculiar odor of fresh willow bark, an odor familiar to those who have visited willow plantations, and have become impressed with the exhalation from freshly-stripped willows. When pure, this acid imparts, at first, a sweetish taste, which quickly becomes acrid and disagreeable. It sublimes, when gradually heated, but, according to Biel, after sublimation it has a tendency to spontaneously decompose into carbolic acid and carbonic acid gas. It unites with alkalies to form salts, the sodium salicylate being considerably employed in medicine. The dust of salicylic acid is irritating, if inhaled, exciting coughing and a sense of suffocation. in making solutions of salicylic acid in water, phosphates or acetates of the alkalies are often added, as salicylic acid is very soluble in these solutions. It is stated that a compound of borax with salicylic acid, Na(B.OH)2C7H5O3 may be formed, and in practice, it is customary for physicians to add borax when desiring to make an aqueous solution of the acid. This solution soon acquires a bitter, unpleasant taste. The official acid is thus described: \"Light, fine, white, prismatic needles, or a light, white, crystalline powder; odorless, having a sweetish, afterward acrid taste, and permanent in the air. Soluble at 15° C. (59° F.), in about 450 parts of water, and in 2.4 parts of alcohol; in 14 parts of boiling water, and very soluble in boiling alcohol. Also soluble in 2 parts of ether, 2 parts of absolute alcohol, and 80 parts of chloroform. When heated to 156° C. (312.8° F.), the acid begins to melt, and is completely melted at 157° C. (314;6° F.); at a higher temperature it is gradually dissipated without leaving more than 0.6 per cent of fixed residue. The saturated aqueous solution has an acid reaction, and is colored intensely bluish-violet (in high dilution violet-red) by ferric chloride T.S.\"—(U. S. P.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "CRESOTIC ACID, C8H8O3,—is a homologue of salicylic acid, and the properties of commercial salicylic acid are said to be often considerably modified by its presence. It is more soluble in boiling water, but likewise, produces the violet reaction with ferric chloride. This impurity, as well as phenol, is liable to be found only in salicylic acid artificially prepared from carbolic acid. That made from wintergreen oil may contain chloride of potassium, recognized by remaining insoluble, when the acid is washed with excess of alcohol. For medicinal use, the acid from wintergreen is often preferred by physicians.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"On adding to a small portion of salicylic acid, in a test-tube, about 1 Cc. of concentrated sulphuric acid, then, cautiously, about 1 Cc. of methylic alcohol, in drops, and heating the mixture to boiling, the odor of methyl salicylate will be evolved. On allowing a saturated alcoholic solution of the acid to evaporate spontaneously in a glass or porcelain capsule, in a place protected from dust, a perfectly white, crystalline residue should remain (absence of iron, carbolic acid, or coloring matter). If 1 Gm. of the acid be dissolved in an excess of cold sodium carbonate T.S., the liquid agitated with an equal volume of ether, and the ethereal solution allowed to evaporate spontaneously, the residue, if any, should be free from the odor of carbolic acid. On treating about 0.5 Gm. of the acid, in a clean test-tube, with 10 Cc. of concentrated sulphuric acid, no color should be imparted to the latter within 15 minutes (absence of readily carbonizable, organic impurities). A solution of 0.5 Gm. of the acid in 10 Cc. of alcohol, mixed with a few drops of nitric acid, should remain unaffected upon the addition,of a few drops of silver nitrate T.S. (absence of hydrochloric acid)\"—(U. S. P.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action.—According to MM. Chirone and Petrucei, animals subjected to the daily ingestion of this acid, rapidly emaciate, and lose much of their weight. With frogs and mammifers, it always diminishes the number of pulsations; in large doses it elevates the temperature of the body, and diminishes the number of respirations; in small doses it lowers the temperature. According to others, its use is apt to occasion more or less deafness, tinnitus, pain in the forehead, manual tremors, and accelerated respiration; and very large doses induce intense cephalalgia, tremors, excessive debility, hurried respiration, some lesion of the kidneys, and tingling sensations in the extremities, and, in some instances, rapid collapse, and cerebral symptoms, varying from those resembling cinchonism to nearly acute delirium. Sudden temporary amaurosis (partial or total loss of sight without pathology of the eye) (Gatti) with recovery in 10 hours, occurred in an individual to whom 125 grains of sodium salicylate had been administered. Dimness of vision, ptosis, and strabismus are not uncommon results from its use. H. Kohler states that it depresses the respiratory activity, and may even occasion death by asphyxia. Auger observes that its prolonged use in large doses, especially with women, is very apt to occasion nausea, vomiting, pyrosis, diarrhoea, angina, tinnitus, and even deafness, redness of the face, and slight congestion; and that, with inebriates, it may determine a furious delirium. These results, he adds, may sometimes be prevented or mitigated, by administering it in milk, or in unleavened bread with a cup of milk. Pye Smith has observed that the urine of a patient who had been taking salicylic acid, gave the characteristic saccharine reaction, with the copper test; while Muller and others have found its sodium salt to temporarily, or permanently, as the case may be, cause the diabetic sugar to completely disappear. M. Gubler observes, that when the kidneys are normal the use of salicylic acid occasions diuresis, while, on the contrary, the urine is in diminished amount and even albumen is present in, more or less, considerable quantity, when there is a lesion of these organs. Salicylic acid imparts to the urine a characteristic olive-green tint. M. Bucquoy cites a case in which abortion, at the sixth month, followed the administration of this acid; and he also inquires whether the rapid deaths of certain patients, treated with this acid, and especially when the doses were large, may not be due to uremia, occasioned by its use. One or two writers have stated that the osseous system is affected by its use, and we are aware of several instances in which caries of the teeth occurred after a treatment with salicylic acid; but whether due to this acid is a question yet to be determined. Many of the serious symptoms following its employment have been attributed to an impure preparation; yet as such symptoms have been observed, it behooves the medical practitioner, not only to be certain that he is employing the pure acid, but, likewise, to be careful in its administration, and to closely watch its effects, that he may be the better prepared to promptly remove any undesirable symptoms that may arise therefrom. The irritating action of this acid, upon the mucous membrane of the mouth, pharynx, oesophagus, etc., is said to be due to impurities; but the pure acid will occasion a dryness of the mucous membrane, followed by slight burning and increased saliva.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "If a solution of salicylic acid be sprayed upon plants they quickly die. Added to milk and beer it prevents organic changes by checking the fermentative processes. If added to urine it will stop all putrefactive processes, and if it be ammoniacal, it will be promptly deodorized. Fermentation of urine within the bladder may be checked by the internal administration, or by injection, of solutions of this acid or one of its alkaline salts.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Medical Uses and Dosage.—The therapeutical virtues of salicylic acid are not satisfactorily determined; while many physicians highly extol it, as possessing certain valuable properties, as many others, on the other hand, emphatically deny this, and attribute the results following its employment to other causes. By various investigators, it has been claimed that salicylic acid is an antiseptic and germicide; by others, that it is a disinfectant, a deodorizer, an astringent, and an antipyretic. Kohler and some others consider it an antiseptic and germicide only when locally applied, because when taken internally it becomes united with an alkali, loses its antiseptic action, and produces effects similar to those following the ingestion of sodium salicylate. MM. See, Laborde, and others, state that the good effects following its internal administration are entirely due to its action as an analgesiant, and deny that it has any antiseptic, antipyretic, or antiperiodic action, when thus employed. Prideaux speaks highly of its efficiency in smallpox, when in combination with ammonium and sodium salts; his formula is a mixture of carbonate of ammonium, carbonate of sodium, each 5 grains, salicylic acid 20 grains, water 1 fluid ounce; the dose is one-half, or the whole, of this solution, given every 4 or 6 hours. It is pleasant to the taste, unirritating to the intestinal canal, and modifies the disease so as to arrest it in its second and third stages, and also to prevent pitting, after recovery, in consequence of the absence of pus formation (Braithwaite's Retrospect, January, 1878, p. 188, from Med. Exam.). Letzerich states that upon the addition of salicylic acid to the diphtheritic organisms in the urine of children affected with severe diphtheria, and which consisted of bacteria, micrococci, and protoplasmic masses, the bacteria were destroyed, and the corpuscles of the plasmic substance became dim, presented a double margin, and apparently contained air-bubbles. He considers it a powerful anti-diphtheritic agent, and has successfully treated several cases of the disease, using a solution of the acid as a gargle, and applying the pulverized acid over the affected surface. Others, again, have derived no benefit whatever from its employment in diphtheria. But it is useless to continue these discordant statements, from which it will readily be seen that even its acknowledged partisans are not agreed as to its therapeutical virtues, and that our knowledge concerning its value is still very imperfect; and until more satisfactory information concerning its action shall be had, it will be advisable to employ it with great care and prudence, to closely watch its effects, and to at once suspend its administration whenever any unexpected symptoms appear, or when any doubt exists as to its influences upon the system, or any of its organs. Salicylic acid, and its salts, appear in the urine, partly free, partly in the form of salicyluric acid, in from 20 to 30 minutes after its ingestion, and may be known by the violet color produced when a solution of ferric chloride has been added to this fluid; also, by its deviating to the left the plane of polarization, from the presence of salicin.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Salicylic acid, as well as its salts, as salicylate of sodium, of calcium, of lithium, of ammonium, of quinine, have undoubtedly been found of great value in acute articular rheumatism, rapidly reducing the temperature and the pulsations, and mitigating the pain, thus tending to prevent serious complications, allowing the excretory organs to eliminate any nocuous substance, and lessening the intensity and duration of the disease. As with all remedies, failures may occur, chiefly owing to the treatment with the acid not having been commenced until after the existence of complications, or from want of perseverance in following up the treatment, as from the rapid elimination of the acid from the system, it requires to be frequently and persistently administered in order to be of any avail. The acid may be given in doses of from 5 to 10 grains, repeated every hour or two. Without doubt the drug is practically useless in chronic cases. Prof. John M. Scudder believed the drug useful in cases of acute, or sub-acute rheumatism, with but little febrile reaction, the tongue being full, moist, purplish, or leaden-colored, and where the rheumatic area exhibits local redness, with slight purplish discoloration, especially when pressed upon; as an antirheumatic he preferred 2-grain doses every 2 hours. According to Prof. F. J. Locke, it is always contraindicated by a pointed, red tongue. He prefers to use it in combination with potassium acetate. It has likewise been used in gout, to lessen pain and favor the elimination of the sodic biurate present in the blood in excess, but it should not be administered to gouty patients whose urine contains albumen; though Dr. S. J. Sharkey and some others doubt whether the medicine has anything to do with the presence of albumen in the urine, as this substance is encountered in the urine of rheumatic patients with high temperature; still, it is better to observe caution until the matter is settled definitely. In acute diseases, intermittents, etc., it has failed as frequently as it has proved successful; and, indeed, doubts exist as to whether the successful results can be attributed to its action. It has been proclaimed useful in aphthae, thrush, lumbago, neuralgia, diabetes, hectic fever, etc., but further investigations are necessary before any reliance can be placed upon its use in these affections. As the rule, the administration of one of its salts is preferable to the pure acid, especially its sodium salt, on account of its more perfect solubility, its milder action, and its more agreeable taste. When salicylic acid, or any of its salts, is found to disagree with the stomach, occasioning uneasiness, nausea, or other unpleasant feelings, these may be prevented or mitigated by the administration of an aromatic tincture or infusion, with each dose. It is a good remedy in dyspepsia with yeasty fermentation. Given internally it removes lumbricoides, and by injection destroys the ascaris vermicularis.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "As a local application, a spray of solution of salicylic acid has been found serviceable in ozena, fetid bronchitis, chronic pharyngitis, aphthae, pulmonary gangrene, and other maladies attended with offensive odor, as bad breath from carious teeth; and it is a very efficient agent in fetid perspiration, especially of the feet and axillae. In phthisis its use should be extremely guarded, as it has even produced hemoptysis in the healthy man. In diarrhoea and dysentery, also in leucorrhoea and gleet, used in injection, it has proven useful, especially in removing fetor; in these cases it should be used in solution considerably diluted, as a strong solution is apt to be quite irritating.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "In diseases due to or attended with minute organizations (fungi), as diphtheria, parasitic cutaneous maladies, hay fever, coryza, etc., its application in solution, or in dry powder, has been productive of benefit; in ulcers, suppurating wounds, and gangrene, it forms a very useful dressing, though probably inferior to thymol, or carbolic acid. Prof. Scudder regarded this agent as an antipyic, and considered it one of our best antiseptic agents. He employed it in open wounds to prevent the formation of pus, and to correct offensive odors. Typhlitis and perityphlitis, with or without suppuration, are benefited by it. It is valuable in septicemia to correct blood dyscrasia, and especially so in puerperal fever (Webster). Mixed with an ointment base, it has removed freckles, and combined with collodion and cannabis indica, has been recommended for the removal of corns. On account of its corrosive action on steel, it is not a good agent with which to cleanse surgical instruments. Dr. W. N. Mundy (Annual of Eclectic Med. and Surg., Vol. 1), is authority for the statement that this acid is an excellent local application for rhus poisoning, and that a saturated solution with collodion will cure ringworm, a second application being rarely needed. Prof. A. J. Howe valued it in pruritis ani and rectal fissures. Lithium salicylate has given good results in chronic cystitis, and calcium salicylate has been highly raised for its action on syphilitic chancre.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Foltz reports good results in the scaly and exudative forms of eczema of the eyelids by the use of an ointment (salicylic acid [Lloyd's] grs. v to xx, petrolatum ℥j), and also employed a 4 per cent glycerin solution to destroy the false membrane in diphtheritic conjunctivitis; while, Webster regards it curative in rheumatic ophthalmia and in myalgia of the ocular region (Dynam. Therapeutics).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "While salicylic acid and the salicylates are excellent remedies when indicated, they should be very cautiously employed where there is any existing cardiac trouble. In fact, the main objection to the use of these drugs is their dangerously depressant action on the heart. They are also contraindicated in diseased conditions of the kidneys, and especially so if disintegration of the renal structures is taking place. Typhoid fever and typhoid states are not benefited by this acid or its salts, but on the contrary their action is often deleterious. The untoward effects of the salicylates are said to be somewhat mitigated by the administration of ergot.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The following formulae have been given for the administration and application of salicylic acid; the solutions, it will be observed, are salicylates of the alkalies entering into them:",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Specific Indications and Uses.—Antirheumatic; rheumatic pain, with but little fever; sub-acute rheumatism. Tongue, broad, full, purplish, or leaden-colored, showing spots where the fur is detached; chronic catarrh of mucous tissues.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Products.—ACIDUM SALICYLACETICUM, Salicylacetic acid.—Salicylacetic acid is obtained by heating 169 parts of dry sodium salicylate with 100 parts of a 40 per cent solution of caustic soda. After the mixture is cold add to it 130 to 140 parts of sodium monochloracetate, heat to 120° C. (248° F.), and then neutralize the mixture with diluted hydrochloric acid. It is insoluble in ether, which removes from it remaining traces of salicylic acid; and it is generally irresponsive to the common solvents. It is antiseptic, forming also an antiseptic salt when combined with antipyrin.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "CRESOTIC ACID, Cresotinic acid, Homosalicylic acid, Oxytoluic acid (C6H3CH3OHCOOH). Many isomers of this acid exist, four of which are homologues to salicylic acid. Three of these are known as ortho-, meta-, and para-cresotic acids, according to their preparation from ortho-, meta-, or para-cresol, in the same manner as salicylic acid is obtained from phenol. Only the para compound is used medicinally, and that has been replaced by sodium cresotate. Paracresotic acid occurs in long prisms, fusing at 151° C. (303.8° F.), scarcely soluble in cold, but more readily in hot water, and easily soluble in alcohol, chloroform, and ether. Sodium cresotate is a fine, white powder, bitterish, but not unpleasant to the taste, and soluble in 24 parts of hot water, the solution being permanent. Divided doses of from 60 to 90 grains have been given daily, and it is said to act better as an antipyretic and antirheumatic than salicylic acid. On the other hand, it has been charged with causing cutaneous erythema and dangerous collapse.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "SULPHOSALICYLIC ACID, Sulpho-sulphonic acid, Salicyl-sulphonic acid (C6H3SO3H.OH.COOH).—Produced by acting upon salicylic acid with concentrated sulphuric acid. Colorless needles soluble in water and alcohol. A delicate test for proteids—fibrin, globulins, peptones, and albumen, 1/12500 part of the latter being detected by it. A dense white precipitate falls, which, when boiled, dissolves and reappears when the solution is allowed to cool, if the substance be an albumose or peptone. With the other bodies the precipitate does not redissolve on boiling.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "ACIDUM PHENYLO-SALICYLICUM.—An acid whose salts are said to be less poisonous than those of salicylic acid, and possessing the germicidal properties of the latter. A powder, whitish, readily soluble in alcohol, glycerin, and ether, and sparingly in water.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "ACIDUM ORTHO-AMIDO-SALICYLICUM.—A nearly odorless, non-crystalline, grayish powder, feebly sweetish, and not soluble in alcohol, water, or ether. Has been used by Neisser (Inaug. Dissertation, Bern, 1892) in sub-acute forms of rheumatism, with apparent success.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919",
+      "kings-american-1898"
+    ]
+  }
+}

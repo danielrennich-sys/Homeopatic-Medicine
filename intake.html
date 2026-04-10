@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Homeopathic Intake Form</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #0f1419;
+    color: #e7e9ea;
+    min-height: 100vh;
+}
+.header {
+    background: linear-gradient(135deg, #1a3a2a 0%, #0f1f2f 100%);
+    border-bottom: 1px solid #2f3336;
+    padding: 16px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header h1 { font-size: 1.2rem; color: #7ec8a0; }
+.header a { color: #6bb3d9; text-decoration: none; font-size: 0.85rem; }
+.container { max-width: 860px; margin: 0 auto; padding: 16px; }
+
+/* Progress bar */
+.progress-bar { display: flex; gap: 4px; margin-bottom: 20px; }
+.progress-step {
+    flex: 1; height: 4px; border-radius: 2px; background: #2f3336;
+    transition: background 0.3s;
+}
+.progress-step.done { background: #7ec8a0; }
+.progress-step.active { background: #4a9a6e; }
+
+/* Step labels */
+.step-nav {
+    display: flex; gap: 2px; margin-bottom: 20px; flex-wrap: wrap;
+}
+.step-label {
+    padding: 6px 12px; border-radius: 8px; font-size: 0.78rem;
+    background: #16202a; color: #71767b; cursor: pointer;
+    border: 1px solid #2f3336; transition: all 0.2s;
+}
+.step-label.active { background: #1d3a2d; color: #7ec8a0; border-color: #4a9a6e; }
+.step-label.done { color: #4a9a6e; }
+
+/* Form sections */
+.form-step { display: none; }
+.form-step.active { display: block; }
+.form-step h2 {
+    color: #7ec8a0; font-size: 1.15rem; margin-bottom: 12px;
+    border-bottom: 1px solid #2f3336; padding-bottom: 6px;
+}
+.form-step h3 {
+    color: #6bb3d9; font-size: 0.95rem; margin: 14px 0 8px;
+}
+
+/* Form controls */
+.field {
+    margin-bottom: 12px;
+}
+.field label {
+    display: block; color: #b0b3b8; font-size: 0.85rem; margin-bottom: 4px;
+}
+.field select, .field input[type="text"], .field textarea {
+    width: 100%; padding: 10px 12px;
+    background: #16202a; color: #e7e9ea;
+    border: 1px solid #2f3336; border-radius: 8px;
+    font-size: 0.9rem; outline: none;
+}
+.field select:focus, .field input:focus, .field textarea:focus {
+    border-color: #7ec8a0;
+}
+.field textarea { min-height: 70px; resize: vertical; }
+.field select { cursor: pointer; }
+.field select[multiple] { min-height: 120px; }
+
+/* Checkbox/radio grid */
+.check-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 4px;
+}
+.check-item {
+    display: flex; align-items: center; gap: 6px;
+    padding: 4px 8px; border-radius: 6px; cursor: pointer;
+    font-size: 0.82rem; color: #b0b3b8;
+    transition: background 0.15s;
+}
+.check-item:hover { background: #1a2a34; }
+.check-item input { accent-color: #7ec8a0; }
+
+/* Two-column layout */
+.two-col {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 12px;
+}
+@media (max-width: 600px) { .two-col { grid-template-columns: 1fr; } }
+
+/* Buttons */
+.btn-row {
+    display: flex; gap: 10px; margin-top: 20px; justify-content: flex-end;
+}
+.btn {
+    padding: 10px 24px; border-radius: 10px; font-size: 0.9rem;
+    cursor: pointer; border: none; font-weight: 500;
+    transition: opacity 0.2s;
+}
+.btn:hover { opacity: 0.85; }
+.btn-next { background: #7ec8a0; color: #0f1419; }
+.btn-back { background: #2f3336; color: #e7e9ea; }
+.btn-submit { background: #6bb3d9; color: #0f1419; }
+
+/* Symptom adder */
+.symptom-entry {
+    background: #16202a; border: 1px solid #2f3336; border-radius: 10px;
+    padding: 14px; margin-bottom: 10px;
+}
+.symptom-entry .remove-btn {
+    float: right; background: none; border: none; color: #71767b;
+    cursor: pointer; font-size: 1.1rem;
+}
+.add-symptom-btn {
+    background: #1d3a2d; color: #7ec8a0; border: 1px dashed #4a9a6e;
+    border-radius: 10px; padding: 12px; width: 100%; cursor: pointer;
+    font-size: 0.85rem; margin-top: 8px;
+}
+.add-symptom-btn:hover { background: #244a3a; }
+
+/* Results */
+.results-panel {
+    display: none;
+}
+.results-panel.active { display: block; }
+.result-card {
+    background: #16202a; border: 1px solid #2f3336; border-radius: 12px;
+    padding: 14px; margin-bottom: 10px; cursor: pointer;
+    transition: border-color 0.2s;
+}
+.result-card:hover { border-color: #7ec8a0; }
+.result-name { font-weight: 600; color: #e7e9ea; }
+.result-latin { color: #7ec8a0; font-style: italic; font-size: 0.88rem; }
+.match-bar {
+    height: 6px; border-radius: 3px; background: #2f3336; margin-top: 8px;
+    overflow: hidden;
+}
+.match-fill { height: 100%; border-radius: 3px; background: #7ec8a0; }
+.match-details {
+    margin-top: 6px; font-size: 0.8rem; color: #8b8f94;
+}
+.match-tag {
+    display: inline-block; padding: 1px 6px; border-radius: 4px;
+    margin: 2px; font-size: 0.72rem;
+}
+.match-tag.hit { background: #1d3a2d; color: #7ec8a0; }
+.match-tag.miss { background: #2f3336; color: #71767b; }
+.badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 0.72rem; }
+.badge-cat { background: #1d3a2d; color: #7ec8a0; }
+.badge-src { background: #1d2d3a; color: #6bb3d9; }
+
+/* Modal */
+.modal-overlay {
+    display: none; position: fixed; top:0;left:0;right:0;bottom:0;
+    background: rgba(0,0,0,0.75); z-index: 1000; overflow-y: auto;
+}
+.modal-overlay.active { display: block; }
+.modal {
+    max-width: 900px; margin: 30px auto;
+    background: #16202a; border: 1px solid #2f3336;
+    border-radius: 16px; padding: 24px;
+}
+.modal-close {
+    float: right; background: none; border: none; color: #71767b;
+    font-size: 1.5rem; cursor: pointer;
+}
+.modal h2 { color: #7ec8a0; font-size: 1.3rem; margin-bottom: 8px; }
+.modal h4 { color: #d9a86b; font-size: 0.9rem; margin: 10px 0 4px; }
+.section-text {
+    color: #b0b3b8; font-size: 0.85rem; line-height: 1.5;
+    max-height: 300px; overflow-y: auto; margin: 4px 0 8px;
+    white-space: pre-wrap;
+}
+.source-tag {
+    display: inline-block; background: #1d2d3a; color: #6bb3d9;
+    padding: 2px 8px; border-radius: 8px; font-size: 0.72rem; margin: 2px;
+}
+.tab-bar { display: flex; gap: 0; margin: 14px 0 10px; border-bottom: 2px solid #2f3336; }
+.tab {
+    padding: 7px 18px; cursor: pointer; color: #71767b; font-size: 0.85rem;
+    border-bottom: 2px solid transparent; margin-bottom: -2px;
+}
+.tab.active { color: #7ec8a0; border-bottom-color: #7ec8a0; }
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+</style>
+</head>
+<body>
+
+<div class="header">
+    <h1>Homeopathic Intake Assessment</h1>
+    <div>
+        <a href="index.html">Search</a> &nbsp;|&nbsp;
+        <a href="settings.html">Settings</a>
+    </div>
+</div>
+
+<div class="container">
+    <!-- Progress -->
+    <div class="progress-bar" id="progressBar"></div>
+    <div class="step-nav" id="stepNav"></div>
+
+    <form id="intakeForm">
+
+    <!-- STEP 0: Chief Complaint -->
+    <div class="form-step active" data-step="0">
+        <h2>Chief Complaint</h2>
+        <p style="color:#71767b;font-size:0.85rem;margin-bottom:14px">Describe your main concern. You can add multiple symptoms.</p>
+        <div id="symptomList">
+            <div class="symptom-entry" data-idx="0">
+                <button type="button" class="remove-btn" onclick="removeSymptom(this)" style="display:none">&times;</button>
+                <div class="field">
+                    <label>Describe your main symptom</label>
+                    <textarea name="sx_desc_0" placeholder="e.g. Throbbing headache on the right side that gets worse in the afternoon"></textarea>
+                </div>
+                <div class="two-col">
+                    <div class="field">
+                        <label>Body Location</label>
+                        <select name="sx_location_0">
+                            <option value="">-- Select --</option>
+                            <optgroup label="Head">
+                                <option>Head - Forehead</option>
+                                <option>Head - Temples</option>
+                                <option>Head - Vertex (top)</option>
+                                <option>Head - Occiput (back)</option>
+                                <option>Head - Sides</option>
+                                <option>Head - Whole head</option>
+                            </optgroup>
+                            <optgroup label="Face & Senses">
+                                <option>Eyes</option><option>Ears</option>
+                                <option>Nose</option><option>Face - Cheeks</option>
+                                <option>Face - Jaw</option><option>Face - Lips</option>
+                                <option>Mouth</option><option>Teeth</option>
+                                <option>Tongue</option><option>Throat</option>
+                            </optgroup>
+                            <optgroup label="Neck & Back">
+                                <option>Neck - Cervical</option>
+                                <option>Back - Upper (thoracic)</option>
+                                <option>Back - Between scapulae</option>
+                                <option>Back - Lower (lumbar)</option>
+                                <option>Back - Sacral</option>
+                                <option>Back - Coccyx</option>
+                            </optgroup>
+                            <optgroup label="Chest & Torso">
+                                <option>Chest - General</option>
+                                <option>Chest - Heart region</option>
+                                <option>Chest - Lungs</option>
+                                <option>Chest - Sternum</option>
+                                <option>Chest - Breasts</option>
+                                <option>Abdomen - Upper (epigastric)</option>
+                                <option>Abdomen - Umbilical</option>
+                                <option>Abdomen - Lower (hypogastric)</option>
+                                <option>Abdomen - Right side</option>
+                                <option>Abdomen - Left side</option>
+                                <option>Abdomen - Liver region</option>
+                            </optgroup>
+                            <optgroup label="Digestive">
+                                <option>Stomach</option><option>Rectum</option>
+                            </optgroup>
+                            <optgroup label="Urinary & Reproductive">
+                                <option>Bladder</option><option>Kidneys</option>
+                                <option>Urethra</option>
+                                <option>Genitalia - Male</option>
+                                <option>Genitalia - Female</option>
+                            </optgroup>
+                            <optgroup label="Upper Extremities">
+                                <option>Shoulder - Right</option>
+                                <option>Shoulder - Left</option>
+                                <option>Upper arm</option><option>Elbow</option>
+                                <option>Forearm</option><option>Wrist</option>
+                                <option>Hand</option><option>Fingers</option>
+                            </optgroup>
+                            <optgroup label="Lower Extremities">
+                                <option>Hip</option><option>Thigh</option>
+                                <option>Knee</option><option>Calf / Shin</option>
+                                <option>Ankle</option><option>Foot</option>
+                                <option>Heel</option><option>Toes</option>
+                            </optgroup>
+                            <optgroup label="General">
+                                <option>Skin</option><option>Joints - General</option>
+                                <option>Muscles - General</option><option>Bones</option>
+                                <option>Whole body / General</option>
+                            </optgroup>
+                        </select>
+                    </div>
+                    <div class="field">
+                        <label>Side</label>
+                        <select name="sx_side_0">
+                            <option value="">N/A</option>
+                            <option>Right</option><option>Left</option>
+                            <option>Both sides</option>
+                            <option>Alternating sides</option>
+                            <option>Crosses from side to side</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="field">
+                    <label>Type of sensation</label>
+                    <select name="sx_sensation_0">
+                        <option value="">-- Select --</option>
+                        <option>Aching / Dull</option>
+                        <option>Boring / Drilling</option>
+                        <option>Bruised / Sore</option>
+                        <option>Burning</option>
+                        <option>Bursting</option>
+                        <option>Constricting / Band-like</option>
+                        <option>Cramping</option>
+                        <option>Crushing / Heavy</option>
+                        <option>Cutting</option>
+                        <option>Drawing / Pulling</option>
+                        <option>Gnawing</option>
+                        <option>Itching</option>
+                        <option>Lancinating / Piercing</option>
+                        <option>Numb / Tingling</option>
+                        <option>Pressing</option>
+                        <option>Pulsating / Throbbing</option>
+                        <option>Raw / Excoriated</option>
+                        <option>Sharp</option>
+                        <option>Shooting</option>
+                        <option>Splinter-like</option>
+                        <option>Stitching / Stabbing</option>
+                        <option>Stinging</option>
+                        <option>Tearing</option>
+                        <option>Wandering / Moving</option>
+                    </select>
+                </div>
+                <div class="two-col">
+                    <div class="field">
+                        <label>Better from (amelioration)</label>
+                        <select name="sx_better_0" multiple>
+                            <option>Rest</option><option>Motion</option>
+                            <option>Continued motion</option>
+                            <option>Pressure / Firm pressure</option>
+                            <option>Cold applications</option>
+                            <option>Warmth / Warm applications</option>
+                            <option>Open air / Fresh air</option>
+                            <option>Warm room</option>
+                            <option>Lying down</option>
+                            <option>Lying on painful side</option>
+                            <option>Eating</option>
+                            <option>After sleep</option>
+                            <option>Bending forward</option>
+                            <option>Stretching</option>
+                            <option>Rubbing</option>
+                        </select>
+                    </div>
+                    <div class="field">
+                        <label>Worse from (aggravation)</label>
+                        <select name="sx_worse_0" multiple>
+                            <option>Morning</option><option>Afternoon</option>
+                            <option>Evening</option><option>Night</option>
+                            <option>Motion</option><option>Rest</option>
+                            <option>Touch / Light touch</option>
+                            <option>Pressure</option>
+                            <option>Cold / Cold air</option>
+                            <option>Warmth / Heat</option>
+                            <option>Damp / Wet weather</option>
+                            <option>Before storms</option>
+                            <option>Lying down</option>
+                            <option>Rising / Standing up</option>
+                            <option>Stooping</option>
+                            <option>Walking</option>
+                            <option>Exertion</option>
+                            <option>Eating</option>
+                            <option>During menses</option>
+                            <option>Jarring / Stepping</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <button type="button" class="add-symptom-btn" onclick="addSymptom()">+ Add another symptom</button>
+    </div>
+
+    <!-- STEP 1: Mental / Emotional -->
+    <div class="form-step" data-step="1">
+        <h2>Mental & Emotional State</h2>
+        <div class="field">
+            <label>Current emotional state (select all that apply)</label>
+            <div class="check-grid" id="emotionsGrid">
+            </div>
+        </div>
+        <div class="field">
+            <label>Fears (select all that apply)</label>
+            <div class="check-grid" id="fearsGrid">
+            </div>
+        </div>
+        <div class="field">
+            <label>What triggered or caused this condition?</label>
+            <select name="ailments_from">
+                <option value="">-- Select if applicable --</option>
+                <option>Grief / Loss</option><option>Anger / Vexation</option>
+                <option>Fright / Shock</option><option>Disappointment</option>
+                <option>Humiliation</option><option>Worry / Anxiety</option>
+                <option>Overwork / Mental exertion</option>
+                <option>Physical injury / Trauma</option>
+                <option>Suppressed emotions</option>
+                <option>Love disappointment</option>
+                <option>Financial stress</option><option>Bad news</option>
+                <option>Vaccination</option><option>Surgery</option>
+                <option>Getting cold/wet</option><option>Sun exposure</option>
+            </select>
+        </div>
+    </div>
+
+    <!-- STEP 2: Constitutional -->
+    <div class="form-step" data-step="2">
+        <h2>Constitution & Generals</h2>
+        <div class="two-col">
+            <div class="field">
+                <label>Temperature preference</label>
+                <select name="thermal">
+                    <option value="">-- Select --</option>
+                    <option>Chilly / Cold person - prefers warmth</option>
+                    <option>Warm / Hot person - prefers cool</option>
+                    <option>Variable / No strong preference</option>
+                </select>
+            </div>
+            <div class="field">
+                <label>Thirst pattern</label>
+                <select name="thirst">
+                    <option value="">-- Select --</option>
+                    <option>Very thirsty - large quantities</option>
+                    <option>Thirsty - small sips frequently</option>
+                    <option>Normal thirst</option>
+                    <option>Thirstless / Low thirst</option>
+                    <option>Thirst for ice-cold water</option>
+                    <option>Thirst for warm drinks</option>
+                </select>
+            </div>
+        </div>
+        <div class="two-col">
+            <div class="field">
+                <label>Body build</label>
+                <select name="build">
+                    <option value="">-- Select --</option>
+                    <option>Thin / Lean</option><option>Average</option>
+                    <option>Stout / Overweight</option><option>Muscular</option>
+                    <option>Tall and thin</option><option>Short and stout</option>
+                </select>
+            </div>
+            <div class="field">
+                <label>Appetite</label>
+                <select name="appetite">
+                    <option value="">-- Select --</option>
+                    <option>Normal</option><option>Increased / Ravenous</option>
+                    <option>Decreased / Poor</option><option>Variable</option>
+                    <option>Feels full quickly</option>
+                </select>
+            </div>
+        </div>
+        <h3>Food Desires</h3>
+        <div class="check-grid" id="foodDesiresGrid"></div>
+        <h3>Food Aversions</h3>
+        <div class="check-grid" id="foodAversionsGrid"></div>
+    </div>
+
+    <!-- STEP 3: Sleep -->
+    <div class="form-step" data-step="3">
+        <h2>Sleep & Perspiration</h2>
+        <div class="two-col">
+            <div class="field">
+                <label>Sleep position preference</label>
+                <select name="sleep_position">
+                    <option value="">-- Select --</option>
+                    <option>On back</option><option>On right side</option>
+                    <option>On left side</option><option>On abdomen</option>
+                    <option>Knees drawn up (fetal)</option>
+                    <option>Hands over head</option><option>Sitting up</option>
+                </select>
+            </div>
+            <div class="field">
+                <label>Sleep quality</label>
+                <select name="sleep_quality">
+                    <option value="">-- Select --</option>
+                    <option>Deep / Heavy</option><option>Light / Easily disturbed</option>
+                    <option>Restless</option><option>Unrefreshing</option>
+                    <option>Difficulty falling asleep</option>
+                    <option>Waking frequently</option>
+                    <option>Early waking (3-5am)</option>
+                    <option>Sleepless after midnight</option>
+                </select>
+            </div>
+        </div>
+        <div class="field">
+            <label>Recurring dream themes (select any)</label>
+            <div class="check-grid" id="dreamsGrid"></div>
+        </div>
+        <h3>Perspiration</h3>
+        <div class="two-col">
+            <div class="field">
+                <label>Perspiration pattern</label>
+                <select name="sweat_pattern">
+                    <option value="">-- Select --</option>
+                    <option>Profuse / Excessive</option>
+                    <option>Scanty / Little</option>
+                    <option>Normal</option>
+                    <option>Cold sweat</option>
+                    <option>Night sweats</option>
+                    <option>On slight exertion</option>
+                </select>
+            </div>
+            <div class="field">
+                <label>Perspiration location</label>
+                <select name="sweat_location">
+                    <option value="">-- Select --</option>
+                    <option>Whole body</option><option>Head / Scalp</option>
+                    <option>Face</option><option>Palms</option>
+                    <option>Soles of feet</option><option>Armpits</option>
+                    <option>Chest / Back</option><option>One-sided</option>
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <!-- STEP 4: Systems Review -->
+    <div class="form-step" data-step="4">
+        <h2>Systems Review</h2>
+        <p style="color:#71767b;font-size:0.85rem;margin-bottom:14px">Note any ongoing or recurring issues in these areas.</p>
+        <div class="field">
+            <label>Digestive</label>
+            <div class="check-grid" id="digestiveGrid"></div>
+        </div>
+        <div class="field">
+            <label>Respiratory</label>
+            <div class="check-grid" id="respiratoryGrid"></div>
+        </div>
+        <div class="field">
+            <label>Skin</label>
+            <div class="check-grid" id="skinGrid"></div>
+        </div>
+        <div class="field">
+            <label>Urinary</label>
+            <div class="check-grid" id="urinaryGrid"></div>
+        </div>
+        <div class="field">
+            <label>Female-specific (if applicable)</label>
+            <div class="check-grid" id="femaleGrid"></div>
+        </div>
+    </div>
+
+    <!-- STEP 5: History -->
+    <div class="form-step" data-step="5">
+        <h2>History & Additional Info</h2>
+        <div class="field">
+            <label>Past medical conditions or significant illnesses</label>
+            <textarea name="past_medical" placeholder="e.g. childhood eczema, pneumonia at age 12, appendectomy"></textarea>
+        </div>
+        <div class="field">
+            <label>Family history (diseases in parents, siblings, grandparents)</label>
+            <textarea name="family_history" placeholder="e.g. father - diabetes, mother - arthritis, grandmother - cancer"></textarea>
+        </div>
+        <div class="field">
+            <label>Current medications or supplements</label>
+            <textarea name="medications" placeholder="e.g. blood pressure medication, vitamin D, fish oil"></textarea>
+        </div>
+        <div class="field">
+            <label>Anything else you feel is important about your condition</label>
+            <textarea name="additional" placeholder="Describe any peculiar or unusual symptoms, or anything that doesn't fit the categories above"></textarea>
+        </div>
+    </div>
+
+    </form>
+
+    <!-- Navigation buttons -->
+    <div class="btn-row" id="btnRow">
+        <button type="button" class="btn btn-back" id="btnBack" onclick="prevStep()" style="display:none">Back</button>
+        <button type="button" class="btn btn-next" id="btnNext" onclick="nextStep()">Next</button>
+        <button type="button" class="btn btn-submit" id="btnSubmit" onclick="submitForm()" style="display:none">Find Matching Remedies</button>
+    </div>
+
+    <!-- Results -->
+    <div class="results-panel" id="resultsPanel">
+        <h2 style="color:#7ec8a0;margin-bottom:4px">Matching Remedies</h2>
+        <p style="color:#71767b;font-size:0.82rem;margin-bottom:14px" id="resultsInfo"></p>
+        <div id="resultsList"></div>
+    </div>
+</div>
+
+<!-- Detail Modal -->
+<div class="modal-overlay" id="modalOverlay">
+    <div class="modal" id="modalContent">
+        <button class="modal-close" onclick="closeModal()">&times;</button>
+        <div id="modalBody">Loading...</div>
+    </div>
+</div>
+
+<script src="js/engine.js"></script>
+<script>
+// === CONFIG ===
+const STEPS = [
+    'Chief Complaint', 'Mental / Emotional', 'Constitution',
+    'Sleep & Perspiration', 'Systems Review', 'History'
+];
+const EMOTIONS = [
+    'Anxiety','Irritability','Anger','Sadness / Depression','Weeping easily',
+    'Restlessness','Apathy / Indifference','Fear','Mood swings',
+    'Impatience','Jealousy','Guilt','Despair','Oversensitivity',
+    'Desire for solitude','Desire for company','Excitement','Confusion',
+    'Difficulty concentrating','Forgetfulness','Suspiciousness','Obstinacy'
+];
+const FEARS = [
+    'Death','Disease / Illness','Being alone','Dark','Heights','Crowds',
+    'Narrow/closed spaces','Thunder/storms','Animals','Insects/spiders',
+    'Future','Failure','Going insane','Poverty','Robbers/intruders',
+    'Cancer','Heart disease','Needles','Flying','Water','Ghosts',
+    'Something bad happening','Losing control','Public speaking'
+];
+const FOOD_DESIRES = [
+    'Salt/salty','Sweets/sugar','Sour/acids','Spicy/hot','Bitter',
+    'Fat/rich food','Milk','Cheese','Eggs','Bread','Meat','Fish',
+    'Chocolate','Coffee','Tea','Alcohol/wine','Cold drinks','Warm drinks',
+    'Ice/ice cream','Fruit','Vegetables','Raw food','Smoked food',
+    'Pickles','Oysters','Onions','Garlic','Potatoes','Rice','Butter'
+];
+const FOOD_AVERSIONS = [
+    'Meat','Fat/rich food','Milk','Eggs','Bread','Coffee','Salt',
+    'Sweets','Fish','Fruit','Vegetables','Butter','Cheese','Alcohol',
+    'Warm food','Cold food','Cooked food','All food'
+];
+const DREAMS = [
+    'Falling','Being chased','Death/dying','Snakes','Water','Flying',
+    'Fire','Animals','Teeth falling out','Vivid/intense','Anxious',
+    'Fighting/quarrels','Traveling','Dead people','Nakedness',
+    'Pleasant','Nightmares','Prophetic','Work/business'
+];
+const DIGESTIVE = [
+    'Nausea','Vomiting','Heartburn / Acid reflux','Bloating','Gas / Flatulence',
+    'Constipation','Diarrhea','Alternating constipation & diarrhea',
+    'Hemorrhoids','Mucus in stool','Blood in stool','Cramping / Colic',
+    'Belching / Eructations','Loss of appetite','Excessive hunger'
+];
+const RESPIRATORY = [
+    'Dry cough','Loose/rattling cough','Cough at night','Cough on lying down',
+    'Wheezing','Shortness of breath','Chest tightness','Asthma',
+    'Nasal congestion','Runny nose','Sneezing','Sinus pain/pressure',
+    'Post-nasal drip','Hoarseness','Sore throat'
+];
+const SKIN = [
+    'Dry skin','Eczema','Psoriasis','Hives / Urticaria','Acne','Boils',
+    'Itching without eruption','Itching with eruption','Warts',
+    'Burning skin','Cracked skin','Discoloration','Rash','Ulcers'
+];
+const URINARY = [
+    'Frequent urination','Urgency','Burning during urination',
+    'Weak stream','Incontinence','Night urination (nocturia)',
+    'Cloudy urine','Dark urine','Blood in urine'
+];
+const FEMALE = [
+    'Painful periods','Heavy periods','Scanty periods','Irregular periods',
+    'PMS - emotional','PMS - physical','Clotted menstrual blood',
+    'Dark menstrual blood','Hot flashes','Vaginal discharge','Breast tenderness'
+];
+
+// === STATE ===
+let currentStep = 0;
+let symptomCount = 1;
+
+// === INIT ===
+function init() {
+    buildCheckGrid('emotionsGrid', EMOTIONS, 'emotion');
+    buildCheckGrid('fearsGrid', FEARS, 'fear');
+    buildCheckGrid('foodDesiresGrid', FOOD_DESIRES, 'desire');
+    buildCheckGrid('foodAversionsGrid', FOOD_AVERSIONS, 'aversion');
+    buildCheckGrid('dreamsGrid', DREAMS, 'dream');
+    buildCheckGrid('digestiveGrid', DIGESTIVE, 'digestive');
+    buildCheckGrid('respiratoryGrid', RESPIRATORY, 'respiratory');
+    buildCheckGrid('skinGrid', SKIN, 'skin');
+    buildCheckGrid('urinaryGrid', URINARY, 'urinary');
+    buildCheckGrid('femaleGrid', FEMALE, 'female');
+    renderProgress();
+}
+
+function buildCheckGrid(containerId, items, prefix) {
+    const el = document.getElementById(containerId);
+    el.innerHTML = items.map((item, i) =>
+        `<label class="check-item"><input type="checkbox" name="${prefix}_${i}" value="${item}"> ${item}</label>`
+    ).join('');
+}
+
+function renderProgress() {
+    const bar = document.getElementById('progressBar');
+    const nav = document.getElementById('stepNav');
+    bar.innerHTML = STEPS.map((_, i) =>
+        `<div class="progress-step ${i < currentStep ? 'done' : ''} ${i === currentStep ? 'active' : ''}"></div>`
+    ).join('');
+    nav.innerHTML = STEPS.map((name, i) =>
+        `<div class="step-label ${i === currentStep ? 'active' : ''} ${i < currentStep ? 'done' : ''}" onclick="goToStep(${i})">${name}</div>`
+    ).join('');
+    document.getElementById('btnBack').style.display = currentStep > 0 ? '' : 'none';
+    document.getElementById('btnNext').style.display = currentStep < STEPS.length - 1 ? '' : 'none';
+    document.getElementById('btnSubmit').style.display = currentStep === STEPS.length - 1 ? '' : 'none';
+}
+
+function showStep(n) {
+    document.querySelectorAll('.form-step').forEach((el, i) => {
+        el.classList.toggle('active', i === n);
+    });
+    currentStep = n;
+    renderProgress();
+    window.scrollTo({top: 0, behavior: 'smooth'});
+}
+
+function nextStep() { if (currentStep < STEPS.length - 1) showStep(currentStep + 1); }
+function prevStep() { if (currentStep > 0) showStep(currentStep - 1); }
+function goToStep(n) { showStep(n); }
+
+// === SYMPTOMS ===
+function addSymptom() {
+    const idx = symptomCount++;
+    const template = document.querySelector('.symptom-entry').cloneNode(true);
+    template.dataset.idx = idx;
+    template.querySelector('.remove-btn').style.display = '';
+    // Reset values
+    template.querySelectorAll('select').forEach(s => s.selectedIndex = 0);
+    template.querySelectorAll('textarea').forEach(t => t.value = '');
+    // Fix names
+    template.querySelectorAll('[name]').forEach(el => {
+        el.name = el.name.replace(/_\d+$/, '_' + idx);
+    });
+    document.getElementById('symptomList').appendChild(template);
+}
+
+function removeSymptom(btn) {
+    btn.closest('.symptom-entry').remove();
+}
+
+// === SUBMIT ===
+function submitForm() {
+    const form = document.getElementById('intakeForm');
+    const data = new FormData(form);
+    const payload = {};
+    for (const [key, val] of data.entries()) {
+        if (val) {
+            if (key in payload) {
+                if (Array.isArray(payload[key])) payload[key].push(val);
+                else payload[key] = [payload[key], val];
+            } else {
+                payload[key] = val;
+            }
+        }
+    }
+    // Collect checked items
+    form.querySelectorAll('input[type=checkbox]:checked').forEach(cb => {
+        const name = cb.name.replace(/_\d+$/, '');
+        if (!payload._checked) payload._checked = [];
+        payload._checked.push(cb.value);
+    });
+
+    if (!HomeopathyDB.ready) {
+        alert('Database is still loading. Please wait a moment.');
+        return;
+    }
+
+    const btn = document.getElementById('btnSubmit');
+    const hasAI = HomeopathyDB.Settings.hasApiKey;
+    btn.textContent = hasAI ? 'AI Agent analyzing...' : 'Searching...';
+    btn.disabled = true;
+
+    HomeopathyDB.intakeMatch(payload)
+        .then(data => {
+            btn.textContent = 'Find Matching Remedies';
+            btn.disabled = false;
+            renderIntakeResults(data);
+        })
+        .catch(err => {
+            btn.textContent = 'Find Matching Remedies';
+            btn.disabled = false;
+            alert('Error: ' + err.message);
+        });
+}
+
+function renderIntakeResults(data) {
+    const panel = document.getElementById('resultsPanel');
+    panel.classList.add('active');
+
+    let infoHtml = `Found ${data.results.length} matching remedies based on ${data.keywords_used} symptom analysis groups`;
+    if (data.ai_analysis) {
+        infoHtml += `<div style="background:#1d3a2d;border:1px solid #4a9a6e;border-radius:10px;padding:12px;margin:10px 0">
+            <div style="color:#7ec8a0;font-weight:600;font-size:0.85rem;margin-bottom:4px">AI Repertorization Analysis</div>
+            <div style="color:#b0b3b8;font-size:0.84rem;line-height:1.5">${esc(data.ai_analysis)}</div>
+            ${data.ai_reasoning ? `<div style="color:#8b8f94;font-size:0.8rem;margin-top:6px;border-top:1px solid #2f3336;padding-top:6px"><strong style="color:#6bb3d9">Reasoning:</strong> ${esc(data.ai_reasoning)}</div>` : ''}
+        </div>`;
+    }
+    document.getElementById('resultsInfo').innerHTML = infoHtml;
+
+    const list = document.getElementById('resultsList');
+    const maxScore = data.results.length ? data.results[0].score : 1;
+    list.innerHTML = data.results.map(r => {
+        const pct = Math.round((r.score / maxScore) * 100);
+        return `
+        <div class="result-card" onclick="showDetail('${r.id}')">
+            <div style="display:flex;justify-content:space-between;align-items:baseline">
+                <div>
+                    <span class="result-name">${esc(r.primary)}</span>
+                    ${r.latin !== r.primary ? `<span class="result-latin"> ${esc(r.latin)}</span>` : ''}
+                </div>
+                <span style="color:#7ec8a0;font-size:0.85rem;font-weight:600">${r.score} hits</span>
+            </div>
+            <div style="margin-top:4px">
+                <span class="badge badge-cat">${r.category}</span>
+                <span class="badge badge-src">${r.n_sources} sources</span>
+                ${r.has_traditional ? '<span class="badge" style="background:#3a2d1d;color:#d9a86b">Traditional</span>' : ''}
+                ${r.has_evidence ? '<span class="badge" style="background:#2d1d3a;color:#b36bd9">Evidence</span>' : ''}
+            </div>
+            <div class="match-bar"><div class="match-fill" style="width:${pct}%"></div></div>
+            <div class="match-details">
+                ${r.matched_keywords.map(k => `<span class="match-tag hit">${esc(k)}</span>`).join('')}
+            </div>
+        </div>`;
+    }).join('');
+
+    panel.scrollIntoView({behavior: 'smooth'});
+}
+
+function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+
+// === DETAIL MODAL ===
+async function showDetail(id) {
+    document.getElementById('modalOverlay').classList.add('active');
+    document.getElementById('modalBody').innerHTML = '<div style="color:#71767b;padding:20px">Loading...</div>';
+    const d = await HomeopathyDB.loadRemedyDetail(id);
+    {
+            if (!d || d.error) { document.getElementById('modalBody').innerHTML = '<p style="color:#ff6b6b">Not found</p>'; return; }
+            const names = d.names || {};
+            const sources = (d.provenance||{}).sources||[];
+            let html = `<h2>${esc(names.primary||d.id)}</h2>`;
+            if (names.latin && names.latin !== names.primary)
+                html += `<div style="color:#7ec8a0;font-style:italic">${esc(names.latin)}</div>`;
+            const common = (names.common||[]).join(', ');
+            if (common) html += `<div style="color:#8b8f94;font-size:0.82rem;margin:4px 0">Common: ${esc(common)}</div>`;
+            html += `<div style="margin:8px 0">${sources.map(s=>`<span class="source-tag">${esc(s)}</span>`).join('')}</div>`;
+
+            const trad = d.traditional||{};
+            const ev = d.evidence||{};
+            const hasTrad = Object.keys(trad).length>0;
+            const hasEv = Object.keys(ev).length>0;
+            const tabs = [];
+            if (hasTrad) tabs.push({id:'trad',label:'Traditional'});
+            if (hasEv) tabs.push({id:'ev',label:'Evidence'});
+            if (!tabs.length) tabs.push({id:'empty',label:'Info'});
+
+            html += `<div class="tab-bar">${tabs.map((t,i)=>`<div class="tab ${i===0?'active':''}" onclick="switchTab('${t.id}')" data-tab="${t.id}">${t.label}</div>`).join('')}</div>`;
+            if (hasTrad) html += `<div class="tab-content ${tabs[0].id==='trad'?'active':''}" id="tab-trad">${renderBlock(trad)}</div>`;
+            if (hasEv) html += `<div class="tab-content ${!hasTrad?'active':''}" id="tab-ev">${renderBlock(ev)}</div>`;
+            if (!hasTrad&&!hasEv) html += `<div class="tab-content active" id="tab-empty"><p style="color:#71767b">No details.</p></div>`;
+            document.getElementById('modalBody').innerHTML = html;
+    }
+}
+function closeModal() { document.getElementById('modalOverlay').classList.remove('active'); }
+document.getElementById('modalOverlay').addEventListener('click', e => { if(e.target===document.getElementById('modalOverlay')) closeModal(); });
+document.addEventListener('keydown', e => { if(e.key==='Escape') closeModal(); });
+
+function renderBlock(block) {
+    let html = '';
+    for (const [key,val] of Object.entries(block)) {
+        const label = key.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase());
+        if (Array.isArray(val)) {
+            html += `<h4>${esc(label)}</h4>`;
+            val.forEach(item => {
+                if (typeof item==='object'&&item.text) {
+                    const src=item.source_id||item.source||'';
+                    html += `<div class="section-text">${esc(item.text.substring(0,3000))}${src?` <span style="color:#6bb3d9;font-size:0.72rem">[${esc(src)}]</span>`:''}</div>`;
+                } else if (typeof item==='object'&&item.section) {
+                    html += `<div style="color:#d9a86b;font-size:0.8rem;margin-top:6px">${esc(item.section)}</div>`;
+                    if(item.text) html += `<div class="section-text">${esc(item.text.substring(0,3000))}</div>`;
+                } else if (typeof item==='string') html += `<div class="section-text">${esc(item)}</div>`;
+            });
+        } else if (typeof val==='string'&&val.length>5) {
+            html += `<h4>${esc(label)}</h4><div class="section-text">${esc(val.substring(0,3000))}</div>`;
+        } else if (typeof val==='object'&&!Array.isArray(val)) {
+            html += `<h4>${esc(label)}</h4>${renderBlock(val)}`;
+        }
+    }
+    return html;
+}
+function switchTab(id) {
+    document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active',t.dataset.tab===id));
+    document.querySelectorAll('.tab-content').forEach(c=>c.classList.toggle('active',c.id==='tab-'+id));
+}
+
+init();
+
+// Load the database engine
+HomeopathyDB.loadSearchIndex().then(ok => {
+    if (ok) {
+        const statusDiv = document.createElement('div');
+        statusDiv.style.cssText = 'text-align:center;font-size:0.8rem;padding:4px;color:#71767b';
+        const hasAI = HomeopathyDB.Settings.hasApiKey;
+        statusDiv.innerHTML = `${HomeopathyDB.remedyCount} remedies loaded` +
+            (hasAI
+                ? ' &mdash; <span style="color:#7ec8a0">AI Agent active</span>'
+                : ' &mdash; <span style="color:#d9a86b">Keyword mode</span> (<a href="settings.html" style="color:#6bb3d9">add API key for AI</a>)');
+        document.querySelector('.container').prepend(statusDiv);
+    }
+});
+</script>
+</body>
+</html>

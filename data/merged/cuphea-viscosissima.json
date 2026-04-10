@@ -1,0 +1,42 @@
+{
+  "id": "cuphea-viscosissima",
+  "names": {
+    "primary": "CUPHEA VISCOSISSIMA",
+    "latin": "CUPHEA VISCOSISSIMA",
+    "common": [
+      "Flux-weed (CUPHEA)"
+    ],
+    "synonyms": [
+      "Cuphea Viscosissima"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Tincture"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CUPHEA VISCOSISSIMA Flux-weed (CUPHEA) Vomiting of undigested food. Cholera infantum, much acidity; frequent green, watery, acid stools. Tenesmus and great pain. High fever; restlessness, and sleeplessness. Obstinate constipation.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "This is a popular remedy in some parts of U.S. for summer diarrhœa and dysentery, as one of its names, \"Fluxweed,\" would imply. The entire plant has a clammy, sticky feel, and contains tannin. It was first introduced to homœopathic practice by Dr. A. A. Roth, of Frederick, Maryland, who was induced to try it in his practice by a lady patient (H. R., iii. 242), and his experience has been confirmed by S. G. A. Brown (Med. Cent.). Dr. Roth gave from 5 to 10-drop doses, according to age. The two chief forms on which it is successful are: (1) Cases arising from acidity of milk or food; vomiting of undigested food or curdled milk, with frequent green, watery, acid stools, varying in number from five to thirty a day; child fretful and feverish; can retain nothing on stomach; food seems to pass right through the child. (2) Stools decidedly dysenteric, small, frequent, bloody, with tenesmus and great pain; high fever, restlessness, and sleeplessness. Dr. Roth considers it has \"tonic\" properties, as children rally rapidly under it. In ordinary diarrhœas, especially diarrhœa from cold, he found it useless. Brown says: \"If you have a child that is fretful and feverish; vomits curdled milk; from a hyper-acidity of the stomach; has frequent green, watery, acid stools or even if the stools are dysenteric, with great tenesmus and colic high fever and restlessness, give Cuphea.\" Compare: Æthusa. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Cholera infantum; Dysentery",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

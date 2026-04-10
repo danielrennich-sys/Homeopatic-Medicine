@@ -1,0 +1,41 @@
+{
+  "id": "glycine-max",
+  "names": {
+    "primary": "Soy",
+    "latin": "Soy",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "This fact sheet focuses on the use of soy by adults for health purposes. Soybeans have long been cultivated in Asia. Currently, they are also produced in other parts of the world, including the United States. Common soy foods include tofu, miso, tempeh, edamame, and soy milk. In addition to its food uses, soy is available in dietary supplements. Soy supplements may contain soy protein, isoflavones (compounds similar in structure to the hormone estrogen), or other components. Soy products are promoted for high cholesterol, high blood pressure, diabetes, symptoms of menopause, and many other health conditions.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "Many studies have been conducted on the safety and usefulness of soy products. We know enough to conclude that there are potential beneficial effects on blood cholesterol levels, menopausal hot flashes, breast cancer risk, bone density, and blood pressure. However, effects may vary for different types of soy products and in different populations.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "Consuming soy protein in place of other proteins may lower cholesterol levels to a small extent. Soy isoflavones may not have the same effect. Soy isoflavone supplements or soy protein may help to reduce the frequency and severity of menopausal hot flashes, but the effect may be small, and research results have not been completely consistent. Observational studies indicate that among Asian and Asian-American women, higher dietary intakes of soy are associated with a lower risk of breast cancer. The amounts of soy in Western diets, even among the highest consumers of soy, may be too low for this association to be observed. Soy products in supplement form have not been shown to reduce breast cancer risk. Soy isoflavones probably have a beneficial effect on bone density in postmenopausal women. Consumption of soy isoflavones may lead to a modest decrease in blood pressure. People who consume diets high in soy may have a lower risk of type 2 diabetes. It’s uncertain whether soy products improve control of blood sugar in people who already have type 2 diabetes. It’s uncertain whether soy has beneficial effects on cognitive function; studies have had conflicting results.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Some people are allergic to soy. In the United States, the presence of soy in packaged foods and dietary supplements must be indicated on the product label. In research studies, soy protein supplements have been safely used for up to 16 weeks, and soy extracts containing concentrated isoflavones have been used safely for up to 6 months. Side effects of soy may include bloating, constipation, diarrhea, and nausea. Interactions between certain soy products containing high amounts of tyramine (such as tofu and soy sauce), and monoamine oxidase inhibitors (a group of antidepressant drugs) have been reported (i.e., dangerously high blood pressure). If you take any type of medicine, talk with your health care provider before using soy or other herbal products; some herbs and medicines interact in harmful ways. The use of soy during pregnancy may be unsafe in amounts greater than those commonly found in foods. Little is known about whether it is safe to use soy in amounts greater than those commonly found in foods while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "weak_support"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

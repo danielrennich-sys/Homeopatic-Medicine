@@ -1,0 +1,35 @@
+{
+  "id": "a-summary",
+  "names": {
+    "primary": "A Summary and Comparison of the Action of Heart Remedies",
+    "latin": "A Summary and Comparison of the Action of Heart Remedies",
+    "common": [],
+    "synonyms": [
+      "A Summary and Comparison of the Liver Remedies",
+      "A Summary and Comparison of Remedies Acting on the Reproductive Organs of Women"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919"
+    ]
+  }
+}

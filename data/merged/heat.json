@@ -1,0 +1,24 @@
+{
+  "id": "heat",
+  "names": {
+    "primary": "HEAT",
+    "latin": "HEAT",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY HEAT. Heat, fever, burning, etc . : Aco., Ap., Ars., Bell., Bry., Canth., Caps., Carb-v., Caust., Cham., Chin., Gels., Ign., Lach., Lyc., Med., Merc-c., Merc., Nat-m., Nux-v., Op., Pho., Pul., Rhus-t., Sang., Sul. Heat, dry , burning : Aco., Ap., Ars., Bell., Bry., Carb-v., Mur-ac., Nux-v., Op., Pul., Sec-c. Heat, external : Aco., Bell., Canth., Ign. Heat, internal : Aco., Ars., Bell., Nux-v., Ver-a. Heat, flushes , in : Calc-c., Lach., Pho., Sang., Sep., Sul-ac., Sul. Heat, partial : Aco., Ap., Ars., Bell., Bry., Calc-c., Canth., Caps., Carb-v., Caust., Cham., Lyc., Merc., Nux-v., Pho., Pul., Rhus-t., Sep., Sul., Ver-v. Heat, partial, external : Ars., Bell., Merc., Pho-ac., Pho., Sul. Heat, partial, internal : Aco., Bell., Bry., Canth., Laur., Pho., Sul. Heat, nightly : Ars., Bell., Calc-c., Cham., Hep., Iod., Petr., Pho., Pul., Sil., Sul. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

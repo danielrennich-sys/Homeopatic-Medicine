@@ -1,0 +1,117 @@
+{
+  "id": "magnesium-muriaticum",
+  "names": {
+    "primary": "MAGNESIUM MURIATICUM",
+    "latin": "MAGNESIUM MURIATICUM",
+    "common": [
+      "Muriate of Magnesia (MAGNESIA MURIATICA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Sensitive to noise; bursting headache; worse, motion, open air; better, pressure, and wrapping up warmly (Sil; Stront). Much sweating of head (Calc, Sil). Facial neuralgia pains, dull, aching, worse damp weather, slightest draft, better pressure heat",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Nostrils ulcerated, Coryza. Nose stopped and fluent. Loss of smell and taste, following catarrh. Cannot lie down. Must breathe through mouth",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Blisters on lips. Gums swollen, bleed easily. Tongue feels burnt and scalded. Throat dry, with hoarseness",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Appetite poor, had taste in mouth. Eructations like rotten eggs. Continued rising of while froth into mouth Cannot digest milk. Urine can be passed only by pressing abdominal muscles",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pressing pain in liver; worse lying on right side. Liver enlarged with bloating of abdomen; yellow tongue. Congenital scrotal hernia. Must use abdominal muscles to enable him to urinate",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urine difficult to void. Bladder can only be emptied by straining and pressure",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Bowels] Constipation of infants during dentition; only passing small quantity; stools knotty, like sheep's dung, crumbling at verge of anus. Painful smarting hæmorrhoids",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "[Respiration] Spasmodic dry cough; worse forepart of night, with burning and sore chest",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menses black, clotted. Pain in back and thighs. Metrorrhagia; worse at night. Great excitement at every period. Leucorrhœa with every stool and after exercise. Tinea ciliaris, eruptions in face and forehead worse before menses",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Palpitation and cardiac pain while sitting; better by moving about (Gels). Functional cardiac affections with liver enlargement",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Pain in back and hips; in arms and legs. Arms \"Go to sleep\" when waking in morning",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleep during day; restless at night on account of heat and shock: anxious dreams",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "from pressure, motion: open air, except headache",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "immediately after eating, lying on right side: from sea bathing",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "antidoted_by": [
+        "Camph",
+        "Cham"
+      ]
+    },
+    "dosing": {
+      "notes": "5 drops of tincture. Third to 200th potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">MAGNESIUM MURIATICUM Muriate of Magnesia (MAGNESIA MURIATICA) A liver remedy with pronounced characteristic constipation. Chronic liver affections with tenderness and pain, extending to spine and epigastrium, worse after food. Especially adapted to diseases of women, with a long history of indigestion and uterine disease; children who cannot digest milk. Evil effects of sea bathing.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

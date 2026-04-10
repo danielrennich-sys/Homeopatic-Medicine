@@ -1,0 +1,81 @@
+{
+  "id": "ranunculus-repens",
+  "names": {
+    "primary": "Ranunculus Repens",
+    "latin": "Ranunculus Repens",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T RANUNCULUS REPENS. Ranunculus repens, L. Natural order , Ranunculaceæ. Common names , Creeping Buttercup. Preparation , Tincture of the whole plant. Authority. Franz, Archiv. f. Hom., 7, 3, 215. MIND. ► (In the evening, in bed, he dreams while yet awake that he is in a large city, and sees well-dressed people, masquerades, Turks, etc). HEAD. ► In the evening, in bed, he experiences a sensation in the forehead and in the region of the hair, as if a May-bug were crawling about; less when sitting up. EYE. ► Smarting in the eyes, while preparing the juice, and for two days afterwards. ► Profuse lachrymation. BACK. ► In the evening, in bed, he experiences a beating in the region of the os sacrum, resembling a strong and full pulsation. SLEEP. ► Wide awake and feeling extremely well in the morning, although he slept but a few hours. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Back, pulsation in; Eyes, smarting of; inflammation of. (Feet, weakness of.) Sleep, short but refreshing",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Great weakness of feet remained behind (sheep). Fell as if struck by lightning (sheep). Died with heads bent towards l. groin (sheep). Raised themselves, reeled, fell again, bleated piteously (sheep).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Franz reports a number of symptoms experienced from preparing the juice of this plant. The symptom of phantasmagoria appears in brackets as though there were a doubt about it, and I therefore leave it so. There is quoted in Jahr an account of the effects of eating R. rep. observed in a flock of sheep. Several fell down as if struck by lightning; eyes rolled; breathing hurried. Some reeled and died with their heads bent towards left groin. Mucous membranes of eyes injected; mouth dry; abdomen slightly distended; ruminations ceased. Some raised themselves, reeled, fell down again, bleated piteously; most were in profound coma. Bleeding ; ether in milk gave much >. Great weakness in feet remained behind. R. rep. has furrowed flower-stalks like R. bulb., but it has a spreading calyx and creeping scions.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "(In evening, in bed, he dreams while yet awake that he is in a large city, and sees well-dressed people, masquerades, Turks, &c.). Profound coma (sheep).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Evening in bed, crawling sensation on forehead and region of hair, > sitting up.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Smarting in eyes; profuse lachrymation. Eyes rolled; conjunctiva injected (sheep).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Mouth dry (sheep).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Abdomen sligthly distended (sheep). Reeled and died with heads bent towards l. groin (sheep).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Evening in bed, beating like full, strong pulsation in sacral region.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Wide awake and feeling extremely well in morning, though he slept only a few hours. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

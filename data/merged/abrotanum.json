@@ -1,0 +1,351 @@
+{
+  "id": "abrotanum",
+  "names": {
+    "primary": "ABROTANUM",
+    "latin": "ABROTANUM",
+    "common": [
+      "Southernwood"
+    ],
+    "synonyms": [
+      "Abrotanum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Cross, irritable, anxious, depressed",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Great anxiety and depression. Child cross, depressed, very peevish. Feels she would like to do something cruel; no humanity. Thinking difficult. Feels as if brain softening. Excited, loquacious, like shouting, good-humoured, happy (secondary, after ceasing the drug).",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Feebleness and dulness of mind. No capacity for thinking, as if all bodily and mental power were gone. Thinks her brain is softening. Excited, loquacious, feels like shouting. Taciturnity. Indolence, aversion to physical exercise. Good humored, happy. Gloomy, desponding. Great anxiety and depression. θ Gastralgia. The child is cross and depressed. θ Marasmus. Ill-natured, irritable, violent. Exceedingly peevish, feels as if she would like to do something cruel ; no humanity. Easily fatigued by conversation or mental effort.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "face": [
+      {
+        "text": "Wrinkled, cold, dry, pale. Blue rings around dull-looking eyes. Comedones, with emaciation. Nosebleed. Angioma of the face",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Face wrinkled, as if old. Comedones, with emaciation.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Face wrinkled, old, pale. θ Marasmus. Comedones with emaciation. Face feels cold. Drawing pains in upper maxilla.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Slimy taste. Appetite good, but emaciation progresses. Food passes undigested. Pain in stomach; worse at night; cutting, gnawing pain. Stomach feels as if swimming in water; feels cold. Gnawing hunger and whining. Indigestion, with vomiting of large quantities of offensive fluid",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Hard lumps in abdomen. Distended. Alternate diarrhœa and constipation. Hæmorrhoids; frequent urging; bloody stools; worse as rheumatic pains abate. Ascarides. Oozing from umbilicus. Sensation as if bowels were sinking down",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Gnawing hunger, craves bread boiled in milk. Ravenous appetite, and all the while emaciating. Gastralgia with loss of appetite. Sensation as if stomach were hanging or swimming in water, with coldness. Pains cutting, gnawing, burning; at night. Great distension of abdomen. Weak, sinking feeling in bowels. Hard lumps in different parts of abdomen.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Abrot.]. Gnawing hunger ; craves bread boiled in milk. Appetite great ; ravenous while emaciating ; marasmus. Loss of appetite. θ Gastralgia. Burning in stomach as from acidity. Fulness and bloating in region of stomach. Sensation as if stomach was hanging or swimming in water, with a peculiar feeling of coldness and a dulness to all irritants. θ Gastralgia. Pains cutting, gnawing, burning, sometimes contracting and stinging, mostly < at night ; never entirely free from pain, even in intervals. θ Gastralgia. Disturbed digestion. θ Chlorosis. Weak, sinking feeling in bowels. Frequent colicky pain. θ Marasmus. Distended abdomen. θ Chlorosis ; marasmus ; colic. Hard lumps in different parts of abdomen.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Raw feeling. Impeded respiration. Dry cough following diarrhœa. Pain across chest; severe in region of heart",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Abrot.]. Sudden hoarseness ; weak voice. Impeded breathing. Troublesome cough. θ Rheumatism.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "Neck so weak cannot hold head up. Back lame, weak, and painful. Pain in lumbar region extending along spermatic cord. Pain in sacrum, with hæmorrhoids",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pains in sacrum.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Weak back, with ovarian pains. Pains in sacrum. θ Hemorrhoidal colic.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Pain in shoulders, arms, wrists, and ankles. Pricking and coldness in fingers and feet. Legs greatly emaciated. Joints stiff and lame. Painful contraction of limbs (Amm mur)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Fugitive pains in shoulders all night, preventing sleep. Aching from shoulder joints to elbow. Arms very weak. Numb sensation in fingers. Dull aching in first finger of right hand, followed by similar pain in other fingers of right and left hand. Pricking and coldness of finger tips. Emaciation, mostly of legs. θ Marasmus. Drawing sensation in ankle joint. Deadness and coldness of feet. Sticking, tearing and itching sensations in old foot-sores. Inability to move arms ; legs only with difficulty. θ Rheumatism. Frost-bitten limbs.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Eruptions come out on face; are suppressed, and the skin becomes purplish. Skin flabby and loose. Furuncles. Falling out of hair. Itching chilblains",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Flabby; hangs loose; marasmus. Furunculus; after Hep. s.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Furuncles, if Hepar sulph. is insufficient. The skin is flabby and hangs loose. θ Marasmus. Itching chilblains.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "motion",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "cold air, checked secretions",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Third to thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ABROTANUM Southernwood A very useful remedy in marasmus, especially of lower extremities only, yet with good appetite. Metastasis. Rheumatism following checked diarrhœa. Ill effects of suppressed conditions especially in gouty subjects. Tuberculous peritonitis. Exudative pleurisy and other exudative processes. After operation upon the chest for hydrothorax or empyæmia, a pressing sensation remains. Aggravation of hæmorrhoids when rheumatism improves. Nosebleed and hydrocele in boys. Great weakness after influenza (Kali phos).",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The most prominent symptom of Abrot. is the wasting it causes, most marked in lower extremities. It has also an intense indigestion and morbid appetite. There are burning, gnawing, constricting pains, and sometimes vomiting of offensive matters. A peculiar sensation is as if the stomach were hanging or swimming its water. After a checked diarrhœa, rheumatism may ensue. Another great characteristic of Abrot. is metastasis; metastatic rheumatism. Metastasis of rheumatism from joints to heart; to spine. There is a sudden aching pain in back > by motion. Symptoms are at night and in cold air. The face is wrinkled, pale, old-looking; feels cold; blue rings round eyes. It is suited to affections of newborn children, and especially little boys; hydrocele; epistaxis; emaciation. Oozing of blood and moisture from navel of newborn. I have cured with it indigestion with vomiting of large quantities of offensive fluid in a middle-aged woman.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. ABROTANUM. Natural order.- Compositae. Common name.- Southern Wood. General Analysis.- Acts profoundly upon the vegetative ere, depressing nutrition to a remarkable degree, giving rise to symptoms of disturbed digestion, great emaciation, and marasmus, in which latter affection is its chief clinical use. It also acts upon fibrous and serous tissues. Characteristic symptoms. Mind.- (Abrotanum) Anxious, depressed. Child cross, depressed, very peevish. Head.- (Abrotanum) Cannot hold the head up. (Natr. mur., Verat. alb.) Scalp sore ; itching. Eyes.- (Abrotanum) Blue rings around the eyes ; dull look. Nose.- (Abrotanum) Nose dry ; nosebleed in youths. Face.- (Abrotanum) Face wrinkled, as if old. (Baryta.) Comedones, with emaciation. (Sulph.) Mouth.- (Abrotanum) Slimy taste, acid. Stomach.- (Abrotanum) Gnawing hunger ; ravenous appetite, and all the while emaciating. Sensation as if stomach were hanging or swimming in water, with coldness. Pains cutting, gnawing, burning ; worse at night. Abdomen.- (Abrotanum) Great distension of abdomen. Hard lumps in different parts of abdomen. Stool.- (Abrotanum) Food passes undigested. Rheumatism after suddenly checked diarrhoea. Alternate diarrhoea and constipation. (Ant. crud.) Protruding piles, with burning, from touch or when passing stool. Male Organs.- (Abrotanum) Hydrocele of children, especially after scarlet fever. Female Organs.- (Abrotanum) Darting pains in left ovary. Blood and moisture oozing from navel of new-born. Respiratory Organs.- (Abrotanum) Cold air causes a raw feeling. (Hyd.) Pressing sensation remains in affected side, impeding free breathing ; after pleurisy. Heart and Pulse.- (Abrotanum) Pain across chest sharp and severe in region of heart ; rheumatism. Metastasis of rheumatism to heart. Pulse weak and small. Back.- (Abrotanum) Pains in sacrum. Limbs.- (Abrotanum) Inability to move. Emaciation, especially of legs. Soreness and lameness ; worse mornings. Generalities.- (Abrotanum) Weak, sickly feeling ; when excited, trembling. Lame and sore all over. Weak and prostrated after influenza. Sleep.- (Abrotanum) Restless ; frightful dreams. Limbs.- (Abrotanum) Chilblains itch ; frost-bitten limbs. (Agar.) Gout in wrists and ankles. Fever.- (Abrotanum) High fever during rheumatism. Hectic fever, with chilliness, after influenza ; very weakening ; marasmus. Skin.- (Abrotanum) Flabby ; hangs loose ; marasmus. Furunculous ; after Hep, s. Therapeutic Range.- (Abrotanum) Marasmus of children ; wasting diseases from mal-nutrition ; rheumatism, especially inflammatory, before swelling ; gout ; gastralgia ; also bad effects from suppressed gastralgia ; hydrocele of children ; chlorosis. Conditions.- (Abrotanum) Especially useful in children ; more in boys. Compare.- (Abrotanum) Agar., Baryt., Bry., Calc., Nux v. Copyright © Robert Séror 2003",
+        "source_id": "cowperthwaite-textbook-1891"
+      },
+      {
+        "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T ABROTANUM This remedy is displayed most prominently in the chylopoietic viscera. It is found peculiarly adapted to children with marasmus, worms, etc., though adults require its use often. Mental.-- The child is cross and depressed--marasmus or worms. Face.-- Face wrinkled, old, pale. Blue rings around dull looking eyes. Comedones with emaciation. Gastric.-- Appetite very great, though emaciation progresses. Sensation as if the stomach were hanging or swimming in water, with a peculiar feeling of coldness. Cutting pains in stomach, gnawing, burning, sometimes contracting and stinging, mostly worse at night. Little Boys.-- Epistaxis. Hydrocele. Emaciation. Generalities.-- Blood and moisture oozing from the navel of new-born children. A peculiar symptom is marasmus of lower extremities only. Great weakness and prostration after influenza. Itching chilblains. Gout, wrists and ankle-joints. Inflammatory rheumatism before swelling begins. Darting or twitching in either or both ovaries. Copyright © Médi-T 2000",
+        "source_id": "guernsey-keynotes-1887"
+      },
+      {
+        "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Abrotanum",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Introduction:This a very valuable remedy should be more frequently used. It is indicated in such conditions as are cured by Bryonia and Rhus tox., but its symptoms mark out its own individual cases.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Rheumatic conditions with heart irritation; epistaxis; bloody urine; anxiety and trembling, when there has been a history of diarrhoea. A suddenly checked diarrhoea will be followed by violent cardiac symptoms; it is much like Ledum, Aurum and Kalmia.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Marasmus: In marasmus of children it is a very useful remedy and not unfrequently indicated. The emaciation begins in the lower limbs and gradually spreads upward, so that the face is the last affected; that is the opposite of Lycopodium, Natrum mur. and Psorinum.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Chest: It has cured pleurisy after Bryonia, which seemed indicated, had failed. A woman lying in bed with dyspnoea, anxiety, cold sweat and pain in the heart was surrounded by friends to see her die.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It was learned that she had suffered for many months with a rheumatism in one knee, that she had used crutches to get about the house, and that she had recently been speedily cured (?) by a strong liniment only a few days before this attack. Abrot. restored her to health promptly.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It has caused and cured burning ulcerative pains in the stomach with suspicious vomiting.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Metastasis: Metastasis is a marked feature in Abrot. The changing of one so called disease into another always calls attention to Abrotanum. Inflammation of the parotid (mumps) changing to tests or mammae is generally cured by Carbo v. or Pulsatilla, but Abrot, has cured when these remedies have failed.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Suppression: A suddenly checked diarrhea followed by piles and acute rheumatism, with bleedings, as mentioned above, is further argument in favor of this idea.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The Abrot. patient is sensitive to cold air and cold damp weather. He suffers much from backaches, and his symptoms are worse during the night.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "In boys it cures hydrocele.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "In infants it cures bleeding from the navel.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "LECTURES ON HOMOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror Abrotanum Introduction :This a very valuable remedy should be more frequently used. It is indicated in such conditions as are cured by Bryonia and Rhus tox ., but its symptoms mark out its own individual cases. Rheumatic conditions with heart irritation; epistaxis; bloody urine; anxiety and trembling, when there has been a history of diarrhoea. A suddenly checked diarrhoea will be followed by violent cardiac symptoms; it is much like Ledum, Aurum and Kalmia. Marasmus : In marasmus of children it is a very useful remedy and not unfrequently indicated. The emaciation begins in the lower limbs and gradually spreads upward, so that the face is the last affected; that is the opposite of Lycopodium, Natrum mur. and Psorinum. Chest : It has cured pleurisy after Bryonia , which seemed indicated, had failed. A woman lying in bed with dyspnoea, anxiety, cold sweat and pain in the heart was surrounded by friends to see her die. It was learned that she had suffered for many months with a rheumatism in one knee, that she had used crutches to get about the house, and that she had recently been speedily cured (?) by a strong liniment only a few days before this attack. Abrot . restored her to health promptly. It has caused and cured burning ulcerative pains in the stomach with suspicious vomiting. Metastasis : Metastasis is a marked feature in Abrot . The changing of one so called disease into another always calls attention to Abrotanum. Inflammation of the parotid (mumps) changing to tests or mammae is generally cured by Carbo v. or Pulsatilla , but Abrot , has cured when these remedies have failed. Suppression : A suddenly checked diarrhea followed by piles and acute rheumatism, with bleedings, as mentioned above, is further argument in favor of this idea. The Abrot. patient is sensitive to cold air and cold damp weather. He suffers much from backaches, and his symptoms are worse during the night. In boys it cures hydrocele. In infants it cures bleeding from the navel. Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-mm-1911"
+      },
+      {
+        "text": "Marasmus most pronounced in lower extremities, from malnutrition; diarrhœa; diarrhœa alternating with rheumatism.",
+        "source_id": "nash-leaders-1899"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Boils; Chilblains; Epilepsy; Gout; Hæmorrhoids; Hectic fever; Hydrocele; Indigestion; Lienteria; Marasmus; Myelitis, chronic; Nose-bleed; Paralysis; Rheumatism; Umbilicus, oozing from; Worms",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Cold air causes a raw feeling in respiratory tract. In pleurisy when a pressing sensation remains in affected side, impeding free breathing (after Acon. and Bry.). Inability to move. Marasmus of lower extremities only. Soreness and lameness; worse mornings. Chilblains itch; frost-bitten limbs. Gout in wrists and ankles. Inflammatory rheumatism before swelling begins. Weak, sickly feeling when excited, trembling. Lame and sore all over. Weak and prostrated after influenza. Inability to move. Numbness.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Remains very much relaxed and incapacitated. Disposed to lie prone. A weak, sickly feeling continued many days, with internal trembling when excited. Very lame and sore all over. θ Rheumatism. Great weakness and prostration, and a kind of hectic fever with children, after influenza. Head so weak, cannot hold it up. Hysteria. Suddenly : hoarseness. Piles < as rheumatism gets >. Alternating : diarrhœa and constipation. Left : brain seems weak ; scalp sore ; darting in ovary ; sharp pains in region of heart. Right to left : dull aching in fingers. Right and left : twitching in ovarian region ; aching in fingers. As of creeping chills along convolutions of brain, with prickling ; as if stomach was hanging or swimming in water ; weak with internal trembling. Aching : in shoulder joints and first finger of right hand. Pain : across chest, sharp in region of heart ; in sacrum. Darting : in left ovary. Cutting : in stomach. Sticking : in foot-sores. Stinging : in stomach. Pricking : in brain ; in stiff joints ; finger tips. Tearing : in teeth ; in foot-sores. Burning : in stomach and hemorrhoids. Soreness : of scalp all over. Aching : from shoulder joints to elbow ; in fingers. Contracting : in stomach. Gouty pains : in wrists and ankle joints. Fugitive pains : in shoulders. Gnawing : in stomach. Drawing : in upper maxilla, carious teeth, chest muscles ; ankle joint. Pressing : in pleurisy. Scraping : in throat. Rawness : in respiratory tract. Twitching : in ovaries. Numbness : in fingers. Deadness : of feet. Coldness : in face, stomach, finger tips ; feet. Weak sinking feeling : in bowels. Dryness : of inner nose. Itching : of scalp, foot-sores, chilblains. Gout : painful and inflamed wrists and ankle joints. Joints stiff, with pricking sensation. Painful, inflammatory rheumatism before swelling. Chlorosis. (OBS :) In phagedenic diseases. Rheumatism from suddenly checked diarrhœa, cannot move her head, arms or limbs, and suffers much pain, no swelling. After suppressed gout. θ Gastralgia. Marasmus of children. Contractions of limbs from cramps or following colic. Children : emaciation, especially of legs. θ Marasmus. Boys : epistaxis ; hydrocele.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Absinth., Cham., Cina, Gnaphal., and other Compositæ; Nux and Agar. (chilblains); Bry., Bar. c. Follows well: Acon. and Bry. (pleurisy); Hep. (boils).",
+        "After Acon. and Bryon., in pleurisy ; after Hepar sulph., in furuncle",
+        "Itching chilblains ; compare Nux vom. and Amanita",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "head": [
+      {
+        "text": "Cannot hold the head up. The l. brain seems esp. weak, easily tired by conversation or mental effort. Sensation as of creeping chills along the convolutions of the brain, accompanied by prickling sensation. Scalp sore, esp. l. side; itching.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "The left brain seemed especially weak ; easily fatigued by conversation or mental effort. Sensation as of creeping chills along convolutions of brain, accompanied by prickling. Head weak, could not hold it up. Scalp sore, especially side. Itching of scalp.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Blue rings around dull-looking eyes.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Blue rings around dull looking eyes. θ Chlorosis. Inflamed eyes.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Nose dry. Nose-bleed with boys.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Dryness of inner nose. Nosebleed with boys.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Slimy taste; acid.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Drawing and tearing pains in carious teeth. Slimy taste. θ Gastralgia. Acid taste. Scraping in throat.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Food passes undigested. Rheumatism after suddenly checked diarrhœa. Alternate diarrhœa and constipation. Protruding piles, with burning, from touch or when pressing. Piles appeared, and became worse as rheumatic pains abated, with frequent inclination to stool, hardly anything but blood being passed. Destroys worms, esp. ascarides.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "After sudden checking of diarrhœa, rheumatism. Piles appear and become < as rheumatic pains abate ; frequent inclination to stool ; hardly anything but blood passes. Constipation. θ Gastralgia. (OBS :) Worms, especially ascarides. θ Marasmus. Alternate diarrhœa and constipation ; food passes undigested. θ Marasmus. Protruding hemorrhoidal tumors, burning when touched and when pressing.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "male": [
+      {
+        "text": "Hydrocele of children.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Hydrocele of children.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Darting pain in left ovary. Twitching in both ovarian regions, seems to extend to back. Blood and moisture oozing from navel of newborn.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Darting pain in region of left ovary. Twitching in ovarian regions, seems to extend to back. (OBS :) Ulcers on os tincæ. Dysmenorrhœa ; suppressed catamenia. PREGNANCY. PARTURITION. LACTATION. [24] [Abrot.]. Difficult parturition. Blood and moisture oozing from navel of newborn children.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pain across chest sharp and severe in region of heart; rheumatism. Metastasis of rheumatism to heart. Pulse weak and small.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Raw feeling in respiratory tract from cold air. In pleurisy (after Acon. and Bryon.), when a pressing sensation remains in affected side, impeding free breathing. Pain across chest, sharp and severe in region of heart. θ Rheumatism. Pulse weak and small. θ Chlorosis. Ebullitions, with general heat and distended veins on forehead and hands. θ Hemorrhoidal colic. Drawing pains in chest-muscles, especially from motion.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Restless; frightful dreams.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sleepless and restless. θ Hemorrhoidal colic.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "High fever (rheumatism). Hectic fever, with chilliness, very weakening; (marasmus). Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "High fever. θ Rheumatism. Hectic fever, very weakening. θ Marasmus.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Bladder full, urging to urinate. Urine scanty.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "cowperthwaite-textbook-1891",
+      "guernsey-keynotes-1887",
+      "hering-guiding-1879",
+      "kent-lectures-1905",
+      "kent-mm-1911",
+      "nash-leaders-1899"
+    ]
+  }
+}

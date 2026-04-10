@@ -1,0 +1,76 @@
+{
+  "id": "mercurius-sulphocyanatus",
+  "names": {
+    "primary": "Mercurius Sulphocyanatus",
+    "latin": "Mercurius Sulphocyanatus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "The well-known scientific toy called \"Pharaoh's serpents\" is composed of the sulphocyanide of mercury. A boy ate one \"serpent,\" and a man took one in water. The symptoms were observed on these two.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Diphtheria. Œsophagus, stricture of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Voice rough and hoarse. Tenacious expectoration. Pain in shoulder-joint. General prostration for some days. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Excessive anxiety.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo on attempting to rise.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Pallor, great weakness, cold skin, and frequent shivering.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Constant salivation. Disgusting metallic taste. Extreme redness of throat, with white membrane on tonsils. Most violent burning in fauces. Heat and constriction in œsophagus, with difficulty in swallowing and burning in epigastric region and nausea.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Vomiting. Epigastrium painful to pressure.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Bloody stools.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pulse intermitting every three beats.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

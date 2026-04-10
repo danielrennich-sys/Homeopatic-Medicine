@@ -1,0 +1,174 @@
+{
+  "id": "lachesis-mutus",
+  "names": {
+    "primary": "LACHESIS MUTUS",
+    "latin": "LACHESIS MUTUS",
+    "common": [
+      "Bushmaster or Surucucu (LACHESIS)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Great loquacity. Amative. Sad in the morning; no desire to mix with the world. Restless and uneasy; does not wish to attend to business; wants to be off somewhere all the time. Jealous (Hyos). Mental labor best performed at night. Euthanasia. Suspicious; nightly delusion of fire. Religious insanity (Verat; Stram). Derangement of the time sense",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Pain through head on awaking. Pain at root of nose. Pressure and burning on vertex. Waves of pain; worse after moving. Sun headaches. With headache, flickerings, dim vision, very pale face. Vertigo. Relieved by onset of a discharge (menses or nasal catarrh)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Defective vision after diphtheria, extrinsic muscles too weak to maintain focus. Sensation as if eyes were drawn together by cords which were tied in a knot at root of nose",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Tearing pain from zygoma into ear; also with sore throat. Ear-wax hard, dry",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Bleeding, nostrils sensitive. Coryza, preceded by headache. Hay asthma; paroxysms of sneezing (Silica; Sabad)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "Pale. Trifacial neuralgia, left side, heat running up into head (Phos). Tearing pain in jaw-bones (Amphisbæna; Phos). Purple, mottled, puffed; looks swollen, bloated, jaundiced, chlorotic",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Gums swollen, spongy, bleed. Tongue swollen, burns, trembles, red, dry and cracked at tip, catches on teeth. Aphthous and denuded spots with burning and rawness. Nauseous taste. Teeth ache, pain extends to ears. Pain in facial bones",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Sore, worse left side, swallowing liquids. Quinsy. Septic parotiditis. Dry, intensely swollen, externally and internally. Diphtheria; membrane dusky, blackish; pain aggravated by hot drinks; chronic sore throat, with much hawking; mucus sticks, and cannot be forced up or down. Very painful; worse slightest pressure, touch is even more annoying. In diphtheria, etc, the trouble began on the left side. Tonsils purplish. Purple, livid color of throat. Feeling as if something was swollen which must be swallowed; worse, swallowing saliva or liquids. Pain into ear. Collar and neck-band must be very loose",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Craving for alcohol, oysters. Any food causes distress. Pit of stomach painful to touch. Hungry, cannot wait for food. Gnawing pressure made better by eating, but returning in a few hours. Perceptible trembling movement in the epigastric region. Empty swallowing more painful than swallowing solids",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Liver region sensitive, cannot bear anything around waist. Especially suitable to drunkards. Abdomen tympanitic, sensitive, painful (Bell)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Constipated, offensive stool. Anus feels tight, as if nothing could go through it. Pain darting up the rectum every time be sneezes or coughs. Hæmorrhage from bowels like charred straw, black particles. Hæmorrhoids protrude, become constricted, purplish. Stitches in them on sneezing or coughing. Constant urging in rectum, not for stool",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Climacteric troubles, palpitation, flashes of heat, hæmorrhages, vertex headache, fainting spells; worse, pressure of clothes. Menses too short, too feeble; pains all relieved by the flow (Eupion). Left ovary very painful and swollen, indurated. Mammæ inflamed, bluish. Coccyx and sacrum pain, especially on rising from sitting posture. Acts especially well at beginning and close of menstruation",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Intense excitement of sexual organs",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Upper part of windpipe very susceptible to touch. Sensation of suffocation and strangulation on lying down, particularly when anything is around throat; compels patient to spring from bed and rush for open window. Spasm of glottis; feels as if something ran from neck to larynx. Feels he must take a deep breath. Cramp-like distress in præcordial region. Cough; dry, suffocative fits, tickling. Little secretion and much sensitiveness; worse, pressure on larynx, after sleep, open air. Breathing almost stops on falling asleep (Grind). Larynx painful to touch. Sensation as of a plug (Anac) which moves up and down, with a short cough",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Palpitation, with fainting spells, especially during climacteric. Constricted feeling causing palpitation, with anxiety. Cyanosis. Irregular beats",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Neuralgia of coccyx, worse rising from sitting posture; must sit perfectly still. Pain in neck, worse cervical region. Sensation of threads stretched from back to arms, legs, eyes, etc",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Sciatica, right side, better lying down. Pain in tibia (may follow sore throat). Shortening of tendons",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Patient sleeps into an aggravation. Sudden starting when falling asleep. Sleepiness, yet cannot sleep (Bell; Op). Wide-awake in evening",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chilly in back; feet icy cold; hot flushes and hot perspiration. Paroxysm returns after acids. Intermittent fever every spring",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Hot perspiration, bluish, purplish appearance. Boils, carbuncles, ulcers, with bluish, purple surroundings. Dark blisters. Bed-sores, with black edges. Blue-black swellings. Pyemia; dissecting wounds. Purpura, with intense prostration. Senile erysipelas. Wens. Cellulitis. Varicose ulcers",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "appearance of discharges, warm applications",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "after sleep, (Kali bich). Lachesis sleeps into aggravation; ailments that come on during sleep (Calc); left side, in the spring, warm bath, pressure or constriction, hot drinks. Closing eyes",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "complementary": [
+        "Crotalus cascavella often completes curative work of Lachesis (Mure",
+        "Lycop",
+        "Hep",
+        "Salamandra)"
+      ],
+      "antidoted_by": [
+        "Ars",
+        "Merc",
+        "Heat",
+        "Alcohol",
+        "Salt"
+      ]
+    },
+    "dosing": {
+      "notes": "Eighth to 200th potency. Doses ought not be repeated too frequently. If well indicated, a single dose should be allowed to exhaust its action"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">LACHESIS MUTUS Bushmaster or Surucucu (LACHESIS) Like all snake poisons, Lachesis decomposes the blood, rendering it more fluid; hence a hæmorrhagic tendency is marked. Purpura, septic states, diphtheria, and other low forms of disease, when the system is thoroughly poisoned and the prostration is profound. The modalities are most important in guiding to the remedy. Delirium tremens with much trembling and confusion. Very important during the climacteric and for patients of a melancholic disposition. Ill effects of suppressed discharges. Diphtheritic paralysis (Botulinum). Diphtheria carriers. Sensation of tension in various parts. Cannot bear anything tight anywhere.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

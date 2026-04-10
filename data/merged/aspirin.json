@@ -1,0 +1,56 @@
+{
+  "id": "aspirin",
+  "names": {
+    "primary": "Aspirin",
+    "latin": "Aspirin",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Related entry: Gaultheria - Salicylic acid - Sodium salicylate - Salol - Salicin",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonym—Acetylsalicylic Acid.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Aspirin is an intestinal antiseptic which by virtue of the salicylic acid which it contains is used more for its influence upon the blood and metabolic conditions.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The dose is from five to fifteen grains; the larger dose to be given three times a day, the smaller dose more frequently.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is crystalline needle-shaped in character, white and somewhat unpleasant to taste.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—It is used as a remedy for headaches and also as a sedative in excitable and mild febrile conditions, but it is found that its best influences are exercised through the action of its salicylic derivative upon the urates and uric acid—lithemic conditions.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "This is one of the safer of the synthetics, and is proving to be quite useful for the purposes above mentioned.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The Salicylate of Strontium is advised in the treatment of rheumatism as sometimes a superior agent. It may be combined with bryonia, phytolacca, or rhus, according to the indications. Dr. Bliss claims to get better results from this than from other agents. He dissolves about six drams in a quart of distilled water, adding to this two grains of the hyposulphate of iron, and gives one or two teaspoonfuls three or four times a day.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919"
+    ]
+  }
+}

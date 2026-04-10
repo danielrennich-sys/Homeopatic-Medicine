@@ -1,0 +1,415 @@
+{
+  "id": "kalium-bichromicum",
+  "names": {
+    "primary": "KALIUM BICHROMICUM",
+    "latin": "KALIUM BICHROMICUM",
+    "common": [
+      "Bichromate of Potash (KALI BICHROMICUM)"
+    ],
+    "synonyms": [
+      "Kalium Bichromicum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Vertigo with nausea when rising from seat. Headache over eyebrows, preceded by blurred vision. Aching and fullness in glabella. Semilateral headache in small spots, and from suppressed catarrh. Frontal pain; usually over one eye. Bones and scalp feel sore",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Supra-orbital neuralgia, right side. Eyelids burn, swollen, œdematous. Discharge ropy and yellow. Ulcers on cornea; no pain or photophobia. Descemetitis, with only moderate irritation of eye. Croupous conjunctivitis; granular lids, with pannus. Iritis, with punctuate deposits on inner surface of cornea. Slight pain, with severe ulceration or inflammation (Conium opposite)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Swollen, with tearing pains. Thick, yellow, stringy, fetid discharge. Sharp stitches in left ear",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Snuffles of children, especially fat, chubby babies. Pressure and pain at root of nose, and sticking pain in nose. Septum ulcerated; round ulcer. Fetid smell. Discharge thick, ropy, greenish-yellow. Tough, elastic plugs from nose; leave a raw surface. Inflammation extends to frontal sinuses, with distress and fullness at root of nose. Dropping from posterior nares (Hydr). Loss of smell. Much hawking. Inability to breathe through nose. Dryness. Coryza, with obstruction of nose. Violent sneezing. Profuse, watery nasal discharge. Chronic inflammation of frontal sinus with stopped-up sensation",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "Florid complexion. Blotchy, red appearance. Acne (Juglans; Kal ars). Bones sensitive, especially beneath orbits",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Dry; viscid saliva. Tongue mapped, red, shining, smooth, and dry, with dysentery; broad, flat, indented, thickly coated. Feeling of a hair on tongue",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Fauces red and inflamed. Dry and rough. Parotid glands swollen. Uvula relaxed, œdematous, bladder-like. Pseudo-membranous deposit on tonsils and soft palate. Burning extending to stomach. Aphthæ. Diphtheria, with profound prostration and soft pulse. Discharge from mouth and throat, tough and stringy",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea and vomiting after beer. Load immediately after eating. Feels as if digestion had stopped. Dilatation of stomach. Gastritis. Round ulcer of stomach. Stitches in region of liver and spleen and through to spine. Dislikes water. Cannot digest meat. Desire for beer and acids. Gastric symptoms are relieved after eating, and the rheumatic symptoms reappear. Vomiting of bright yellow water",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Cutting pain in abdomen, soon after eating. Chronic intestinal ulceration. Soreness in right hypochondrium, fatty infiltration of liver and increase in soft fibrous tissue. Painful retraction, soreness and burning",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Jelly-like, gelatinous; worse, mornings. Dysentery; tenesmus, stools brown, frothy. Sensation of a plug in anus. Periodic constipation, with pain across the loins, and brown urine",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Burning in urethra. After urinating a drop seems to remain which cannot be expelled. Ropy mucus in urine. Urethra becomes clogged up. Congestion of kidneys; nephritis, with scanty, albuminous urine and casts. Pyelitis; urine mixed with epithelial cells, mucus, pus, or blood. Hæmatochyluria",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Itching and pain of penis, with pustules. Ulcers, with paroxysmal stitches; aggravated at night. Constriction at root of penis, at night on awakening. Syphilitic ulcers, with cheesy, tenacious exudation. Erections (Picric ac)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Yellow, tenacious leucorrhœa. Pruritus of vulva, with great burning and excitement. Prolapsus uteri; worse in hot weather",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Voice hoarse; worse, evening. Metallic, hacking cough. Profuse, yellow expectoration, very glutinous and sticky, coming out in long, stringy, and very tenacious mass. Tickling in larynx. Catarrhal laryngitis cough has a brassy sound. True membranous croup, extending to larynx and nares. Cough, with pain in sternum, extending to shoulders; worse when undressing. Pain at bifurcation of trachea on coughing; from mid-sternum to back",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Dilatation, especially from coexisting kidney lesion. Cold feeling around heart (Kali nit)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Cutting through loins; cannot walk; extends to groins. Pain in coccyx and sacrum extending up and down",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Pains fly rapidly from one place to another (Kali sulph; Puls). Wandering pains, along the bones; worse cold. Left-sided sciatica; better, motion. Bones feel sore and bruised. Very weak. Tearing pains in tibia; syphilitic rheumatism (Mez). Pain, swelling and stiffness and crackling of all joints. Soreness of heels when walking. Tendo Achilles swollen and painful. Pains in small spots (Oxalic ac)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Acne. Papular eruptions. Ulcer with punched-out edges, with tendency to penetrate and tenacious exudation. Pustular eruption, resembling smallpox, with burning pains. Itching with vesicular eruption",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "from heat",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "beer, morning, hot weather, undressing",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "antidoted_by": [
+        "Ars",
+        "Lach"
+      ]
+    },
+    "dosing": {
+      "notes": "Third trituration, also thirtieth attenuation and higher. The lower preparations of this salt should not be kept too long"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">KALIUM BICHROMICUM Bichromate of Potash (KALI BICHROMICUM) The special affinities of this drug are the mucous membrane of stomach, bowels, and air-passages; bones and fibrous tissues. Kidneys, heart, and liver are also affected. Incipient parenchrymatous; nephritis. Nephritis with gastric disturbances. Cirrhosis of liver. Anæmia and absence of fever are characteristic. General weakness bordering on paralysis. It is especially indicated for fleshy, fat, light complexioned persons subject to catarrhs or with syphilitic or scrofulous history. Symptoms are worse in the morning; pains migrate quickly, rheumatic and gastric symptoms alternate. More adapted to subacute rather than the violent acute stage. Mucous membranes everywhere are affected. Catarrh of pharynx, larynx, bronchi and nose, and a tough, stringy, viscid secretion is produced, which condition is a very strong guiding symptom for this drug. Perforation of the septum. Chronic atonic catarrh. Polypus. Dilatation of stomach and heart.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. KALIUM BICHROMICUM . Common name.- Bichromate of Potash.- K 2 Cr 2 O 7 General Analysis.- Acts prominently upon the mucous membranes, especially of the respiratory and alimentary tracts, and to a less extent of the uterus, producing catarrhal inflammations, characterized by an excessive secretion of mucus, which is viscid and tough in its character. This action at times goes on to ulceration ; or, in the respiratory tract, to the formation of false membranes. The drug also acts to a considerable extent upon the glandular system, especially the liver and kidneys, and upon the skin and fibrous tissues and cartilages, its action in general representing congestion, disorganization, and even destruction of the parts. The chief characteristic of Kali bi. is the secretion of the tough, viscid, stringy mucus, before mentioned. Characteristic symptoms. Head.- (Kalium bichromicum) Vertigo, with nausea and inclination to vomit, when rising from a seat. (Bry., Sulph.) Confusion and heaviness in the head. In morning, on awaking ( Natr. mur .), pain in the forehead and vertex ; later extends to the back of the head. Violent shooting pain from root of nose along left orbital arch to extreme angle of eye, with dim sight, like a scale on the eye ; begins in morning, increases till noon, and ceases toward evening. Frontal headache, usually over one eye. (Sang.) Bones of the head feel sore. (Merc., Nitr. ac., Phos. ac.) Eyes.- (Kalium bichromicum) Inflammation, with yellow discharge, and agglutination in the morning, (Merc., Puls., Sulph .) In the eyes itching ; heat ; burning ; pressure. (Acon., Ars., Merc., Sulph.) Photophobia, with lachrymation and burning. (Ars.) Margins of lids very red. Redness of conjunctiva, with lachrymation. Pustules on conjunctiva ; on cornea. (Merc., Nitr. ac., Sil.) Long-lasting dense opacities of the cornea. Ears.- (Kalium bichromicum) Violent stitches in the left ear (Ars., Sulph .), extending into roof of mouth, side of head, and neck ; glands swollen ; neck painful to touch. (Hep. s., Merc.) Nose.- (Kalium bichromicum) Ulceration of the septum narium (Alum., Aur ., Nitr. ac.) ; purulent inflammation of the whole nasal mucous membrane . (Graph., Merc., Nitr. ac., Sil.) Formation of hard plugs in the nostrils. Tough, stringy discharge from the nose. ( Kali iod .) Coryza, fluent, excoriating nose and lips. (Ars., Cepa.) Great dryness of the nose (Bell., Graph.), with a feeling of pressure in nasal bones. Sensation as if the nose were swollen and stiff ; must blow out a thick substance, but no discharge ; feels as if a heavy weight were hanging from it. Pressure or pressive pain at root of nose . (Acon., Merc. iod., Natr. ars.) On blowing nose, violent stitches in right side of nose, as though two loose bones were rubbed against each other. Soreness in the nose ; scabs on the septum. (Alum., Ant. crud., Aur., Graph., Nitr. ac.) Face.- (Kalium bichromicum) Pale, yellowish complexion. Bones of face sensitive, painful, as if bruised. (Carb., Hep. s., Nitr. ac.) Mouth.- (Kalium bichromicum) Tongue smooth, red, and cracked ( Bell., Rhus tox .) ; dry and red (Bapt.) ; coated thick whitish-yellow (Podo., Merc., Nux v.) ; ulcerated. (Merc.) Dryness in the mouth. (Ailanth., Ant. crud., Ars., Bry., Nux m ., Hyos.) Viscid, sticky saliva in mouth and upper part of throat. (Merc. cor.) Throat.- (Kalium bichromicum) Hawking of much thick, tenacious mucus in the morning . (Alum., Amm. carb.) Deep excavated sore, with a reddish areola, and containing a yellow, tenacious matter, at the root of the uvula. Uvula and tonsils red, swollen, painful ( Bell .), and finally ulcerated (Apis, Merc.) ; surrounding tissues dark, livid, and swollen. ( Ailanth., Bapt .) Oedematous uvula. Sensation of a hair in the fauces. (On tongue, Natr. mur.) Sensation of a plug in the throat ; not relieved by swallowing. (Baryt. c., Bell., Hep. s.) Sharp shooting pains in left tonsil, extending toward the ear (Bell., Hep. s.) ; relieved by swallowing. Stomach.- (Kalium bichromicum) Complete loss of appetite . (Alum., Ars., Cinch ., Natr. mur., Sulph .) Great thirst, especially for acid drinks. ( Cinch., Hep. s .) Sudden nausea. Vomiting of a thin, pinkish, glairy fluid ; sour, undigested ; bile. Pressure and heaviness in the stomach immediately after eating. ( Bry., Nux v., Puls.) Pains, uneasiness in stomach, alternate with pains in limbs. Gastric symptoms supersede the rheumatic. Abdomen.- (Kalium bichromicum) Stitches in right hypochondrium (Bry., Kali c.) ; in region of spleen (Bry., Kali c.) ; through abdomen, extending to spinal column. Distention of the abdomen. Stool.- (Kalium bichromicum) Dysentery ; stool consisting of brown, frothy water ( Ars., Rumex ), or bloody, with painful pressure, urging, and tenesmus. Periodical dysentery every year. Constipation ; stool scanty and lumpy, followed by burning and pressure in the anus. Urinary Organs.- (Kalium bichromicum) Scanty red urine, with pain across the back. Scanty urine, with copious whitish or mucous deposit. Male Organs.- (Kalium bichromicum) Absence of sexual desire. Chancres ulcerating deeply. Stitches in prostate when walking ; must stand still ; prostatic fluid escapes at stool. Gleet, with stringy or jelly-like profuse discharge. Female Organs.- (Kalium bichromicum) Menses too early, with giddiness, nausea, and headache. Leucorrhoea, yellow, ropy ( Hydras .) ; pain and weakness across the small of back, and dull, heavy pains in hypogastrium. Respiratory Organs.- (Kalium bichromicum) Hoarseness and accumulation of large quantities of mucus in the larynx ( Rumex , Samb.), in the morning. Rough, hoarse voice. (Carb. v.) \" Stuffing \" cough, with pain at the chest and expectoration of yellow or yellowish-green tough matter. Expectoration of very tough mucus (Phos.), so viscid that it drew in strings down to the feet. Cough, hoarse, metallic ; false membrane formed, difficult to detach (Brom., lod.), with expectoration of stringy mucus ; coughs up casts of elastic fibrinous nature ; loud mucous rales ; wheezing, rattling in sleep. Dyspnoea ; wheezing and panting ; with tightness at bifurcation of bronchia ; as if mucous membrane were thickened. Cough worse undressing ; morning on waking ; after eating ; deep inspiration ; better after getting warm in bed. Back.- (Kalium bichromicum) Pain in small of back, especially in the morning. Pain in coccyx while sitting. Limbs.- (Kalium bichromicum) Rheumatic pains in limbs. Upper Limbs.- (Kalium bichromicum) Bones of hand as if bruised, when pressed ; ulcers on fingers, with caries. Lower Limbs.- (Kalium bichromicum) Pain in course of left sciatic nerve, from behind great trochanter to calf ; pressure on nerve causes shooting along whole leg. Tearing in right tibia. Soreness in heels when walking. Ulcers on previously inflamed feet. Generalities.- (Kalium bichromicum) Great prostration. (Ars., Cinch., Phos .) Pains in small spots, which can be covered by point of finger. Pains fly rapidly from one place to another. (Benz. ac., Led., Puls .) Bones feel bruised ; caries. (Asaf., Hep. s., Mez., Phos. ac.) Diphtheritic formations on mucous membranes ; also plastic exudations of ropy, stringy mucus. Skin.- (Kalium bichromicum) Papular eruptions, especially on forearms. Ulceration deep, as if cut out with a punch ; edges regular. Ulcers especially painful in cold weather. Aggravation.- (Kalium bichromicum) In the morning ; from cold ; after eating. Amelioration.- (Kalium bichromicum) From heat ; toward evening. Therapeutic Range.- (Kalium bichromicum) Catarrhal affections in general ; nasal ; bronchial ; membranous croup ; diphtheria ; diarrhoea ; leucorrhoea, etc. ; scrofulous diseases ; ophthalmia, chronic ulcers ; syphilitic ulcers ; rheumatism ; dyspepsia ; bilious conditions ; ailments from vapors of arsenic ; from Merc., especially Merc. iod. Conditions.- (Kalium bichromicum) Especially useful in fat, light-haired persons ; fat, chubby children. Compare.- (Kalium bichromicum) Ars., Ant. crud., Brom., Hep. s., Iod., Kali iod., Lach., Merc., Mez., Nitr. ac., Phytol., Puls., Spong., Sil. Antidotes.- (Kalium bichromicum) Ars., Lach., Puls. Copyright © Robert Séror 2003",
+        "source_id": "cowperthwaite-textbook-1891"
+      },
+      {
+        "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Kalium Bichromicum",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This remedy is recognized by most physicians by the copious ropy mucous discharges from all mucous membranes, but it is also a most important remedy in rheumatic affections of the joints with swelling, heat and redness, whenever these conditions wander around from joint to joint.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The bones all over the body feel bruised, and caries is reckoned among its symptoms. A marked feature of this remedy is the alternation between catarrhal symptoms and rheumatic pains. Exudations from mucous membranes, somewhat like croup, are found in the larynx, trachea and in the rectum. it is not surprising, therefore, that it has proved a very effective remedy in diphtheria. It emaciates, like the rest of the Kali salts. We have running through it the cachectic conditions, or malignant diseases with ulceration; and especially is it indicated when the ulceration period is present.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ulceration: is a striking feature of this remedy. Its ulcers are deep; are said to be as if punched out and are very red. Gouty conditions are as common in this remedy as in the other Kalis. It is especially like Causticum with its cracking in the joints. Syphilitic conditions have been cured in the most advanced stages. It has the sharp stitching pains like Kali carb., it has one feature quite its own very severe pain in small spots that could be covered by the end of the thumb.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pains: It has wandering pains from place to place, and wandering rheumatism in from joint to joint. There are pains in all parts. Pains are sometimes very violent; sometimes shooting; sometimes stitching stinging; again aching. Burning is a very marked symptom of the remedy. The pains appear rapidly and disappear suddenly.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Cold and warm: The patient is sensitive to cold. There is a lack of vital heat. In fact, he wants to be wrapped up and covered warmly, and many of his complaints are much better when he is perfectly warm in bed. All the pains and his cough are relieved from the warmth of the bed, and yet there are other complaints, like rheumatic conditions, that come on in hot weather.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The cough is better in warm weather and worse in winter. Catarrhal conditions of the larynx and trachea are worse in winter, especially in the cold, damp weather, like Calc. phos. when the snow melts. Sensitive to cold winds. Causticum, it ill be remembered, is sensitive to cold, dry winds.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The Kalis generally are sensitive to cold, dry weather, but Kali bichromicum throat troubles are continuous in the winter and during cold, damp weather, and are worse in cold, damp winds. It is a most useful remedy in septic and zymotic fevers.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Many of its symptoms are aggravated about 2 or 3 A.M., like Kali carb. Most of the symptom are worse in the morning yet some come on in the night. A marked feature of Kali. bichromicum is a feeling of great weakness and weariness. When the pain has passed off, if in the limbs, the limbs are felt very weary. Great prostration and cold sweat.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It has neuralgia every day at the same hour, showing its periodicity. Like the rest of the Kalis it has cured epilepsy. Ropy saliva and mucous discharges from the mouth during the convulsion has led to its use in epilepsy. The symptoms generally, especially the pains, are worse from motion, except the sciatic and some of the pains in the lower limbs, which are better from motion. The patient pulsates all over the body.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There are very few mental symptoms owing to the fact that the remedy has been proved only in crude form. It needs to be proved in potencies to bring out the mental symptoms.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Head: It has violent headaches and its headaches are mostly associated with catarrhal conditions. A Kali bichromicum patient always suffers more or less from catarrh of the nose, and if he is exposed to cold weather the catarrhal condition will turn to dryness; then will come on violent headache; also headaches during coryza.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Headaches during coryza when the discharge of the coryza slacks up a little. Headaches often begin with dim vision. Pains are violent. Headaches are better from warmth, especially warm drink; better from pressure; worse from stooping; worse from motion and walking; worse at night and still much worse in the morning. Pain is pulsating, shooting and burning. Headaches come on with vertigo. Headaches are often one-sided. It has been a very useful remedy in syphilitic head pains.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pains over the eyes and in the forehead. It is very useful when the headaches are with retching and vomiting; when the pain is confined to a very small spot that could be covered with the thumb and is violent; when the headaches come periodically and with dizziness. Headaches are somewhat ameliorated in open air if it is not too cold. It has cured eczema of the scalp with thick, heavy crusts from which ooze a yellow, thick, gluey substance.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Eyes: Daylight brings on photophobia, There are sparks before the eyes; dim vision before the headache, as mentioned above. Rheumatic conditions affecting the eyes, hence it is said rheumatic affections of the eyes. Granular lids. Ulceration of the cornea. The ulcer is deep with pulsation in it. The eyes are much inflamed and red. The lids are red and swollen. Eyes and lids are injected.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Croupous inflammation of the eyes. Burning and itching in the eyes. Inflammation of the mucous membrane of the eyes with copious flow of thick mucus. Margins of the lids are red and swollen. It has cured polypus on the conjunctiva, swelling of the lids and stringy mucus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ears: There are yellow, viscid discharges from the ears, with stitching pains and pulsating in the ears. Chronic suppuration of the middle, ear with perforated tympanum; eczematous eruptions on the ears, itching of the whole external ear.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Nasal passages: The symptoms of the nasal passages are very numerous. The most prominent are the catarrhal symptoms. It has catarrhal symptoms both acute and chronic, with copious, thick, viscid, yellow or white mucus. Foetid odor from the nose.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Troubled much with a sensation of dryness in the nose. Loss of smell, and the nose is obstructed nights with thick yellow mucus, too viscid to be blown out. Accompanying this catarrhal condition there is a hard pain at the root of the nose.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ulcers form all over the nasal mucous membrane. There are ulcers, crusts, mucous plugs; must blow the nose constantly without success, but finally blows out large green crusts or scabs from high up in the nose. Sometimes they are drawn into the posterior nares.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There is burning and pulsating in the nasal cavities. When the nasal cavity is in this state of ulceration and catarrh there is shooting pain from the root of the nose to the external angle of the eye through the whole forenoon. Extreme soreness inside of the nose.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Expired air feels hot and causes a sensation of burning. He has snuffles and increased catarrhal conditions in damp weather. There are also burning. excoriating, watery discharges from the nose, as in acute catarrhal conditions. Coryza is fluent, excoriating, with loss of smell. With the chronic condition there comes perforation of the septum and pressing pains of the frontal sinus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "A very strange condition then is observed. Scabs form upon the nasal septum; when these are removed there comes photophobia, then dimness of vision, followed by hard frontal headache. The septum is sometimes destroyed by ulceration. Much thick blood is blown out of the nose. Now, it has cured these conditions when they were syphilitic. It has cured nasal polypus. It has cured lupus of the nose.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Face: The bones of the face are often very sore, with shooting pains in the malar bones. Pain in the malar bones on coughing. With the catarrhal conditions there is much suffering from the malar bones, like Merc. It has cured lupus exedens. It has cured ulceration of the lip. Swollen parotid is quite a common feature in its proving. It has cured impetigo.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The tongue: is smooth, shiny, sometimes cracked. This is especially observed in low forms of fever, like typhoid. The tongue is often coated, thick and yellow at. the base. Papillae raise on the dorsum of the tongue, making it look like strawberry tongue. Again the tongue is coated a thick brown. The provers seemed to be much annoyed by a sensation of a hair on the base of the tongue. It has produced and cured ulceration of the tongue; even when syphilitic, it is a useful remedy. Ulcers deep as if punched out; with stinging pains.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There is great dryness of the mouth; ropy saliva and mucus ulcers anywhere in the mouth; aphthous patches; ulcers of the roof of the mouth; even when these are syphilitic it is a most useful remedy; deep punched out ulcers.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The throat: symptoms are very numerous. I will only mention a few of the most characteristic ones. Inflammation of the throat in general, involving all the tissues in it, extending up into the nose, and down into the larynx, even with a high degree of ulceration with copious, ropy mucus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It has cured diphtheria exudation in the throat when it is confined to the throat, and also when it has extended to the larynx. A marked feature of the Kali bichromicum throat is its oedematous uvula: This symptom, is also found in Apis, Kali i., Lach., Mur. ac., Nit ac., Phos., Sulph. ac., and Tab.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Deep ulcers in the throat and ulcers on the tonsils. Ulceration so extensive that it has destroyed the whole soft palate. Inflammation of the tonsils when they are swollen and very red, when the neck is swollen; inflammation of the tonsils with suppuration. In this sore throat there is quite commonly a shooting pain extending to the ears.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Throat: There are also enlarged veins in the throat. Like the sensation of the tongue as if a hair in various places in the fauces and nose. Dry, burning sensation in the throat is very common. Quite a characteristic symptom of Kali bichromicum is the intense pain in the root of the tongue, when putting the tongue out. It has much exudation in the throat that is not diphtheria, but resembles it.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The stomach: symptoms are also very numerous. There is aversion to meat and strange to say, he craves beer, which makes him sick, brings on diarrhoea. Food lies like a load in the stomach; digestion seems suspended; there is a pressure as of a load after eating and much foods eructations. Nausea comes on very suddenly, sometimes while eating, soon after eating; vomits all food and it is sour as if it had turned sour very rapidly; so that there is vomiting of sour, undigested food, bile, bitter mucus, blood, yellow mucus and ropy mucus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It is a very useful remedy in nausea and vomiting of drunkards and beer drinkers. When a beer drinker has arrived at a point where he can no longer tolerate his beer but it makes him sick, Kali bichromicum is a useful remedy. In the stomach there is also soreness and coldness. It is a very useful remedy in ulceration of the stomach; and when such ulcer is cancerous it relieves the pain, stops the vomiting, makes the patient comfortable for a long time.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "In other words, it palliates him. There are some pains in the stomach that are ameliorated by eating; nausea sometimes is ameliorated, but such is the exception. He has a faintness in the stomach which drives him to eat often. Chronic catarrh of the, stomach is a strong feature and perhaps is a condition that is generally present with Kali bichromicum patients.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Liver: There is pain in the liver, hard contracting pain extending to the shoulder, resembling Crot. h. Pain in the liver from motion. Dull, aching pain in the liver. It is a useful remedy in liver conditions associated with gall stones. It corrects the action of the liver so that healthy bile is formed and the gall stones are dissolved. Stitching pain in the liver, and also in the spleen, on motion.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The abdomen is very tympanitic, with tenderness. There are stitching, cutting pains. Sinking in the abdomen with nausea after eating, then comes vomiting, then comes diarrhoea. This is the order in which these symptoms generally appear. It is a very useful remedy in gastro-intestinal cases. Ulcers of the intestines in typhoid conditions.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This remedy has also a morning diarrhoea like Sulphur. It has diarrhoea in phthisis. It has diarrhoea in typhoid fever. Watery Stools. Stools are brown and watery, or may be blackish watery. There is often much tenesmus at stool. Chronic diarrhoea in the morning. Diarrhoea after beer like Aloe, China, Gamb., Lyc., Mur. ac., and Sulph.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Frequently there are clay colored stools. Again there are bloody stools, as in dysentery. It has both diarrhoea and dysentery after rheumatism has disappeared. It seems rheumatic conditions are inclined to alternate with diarrheic conditions. In hot weather it has diarrhoea and dysentery; in winter it has chest troubles and catarrh of the air passages.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There is pain in the abdomen before the stool much pain during the stool, cramping and tenesmus. After stool it has tenesmus like Merc. It has constipation with hard, knotty stool, followed by severe burning in the parts. Burning in the anus after stool. Prolapsus of the rectum. After dry hard stool there is burning in the rectum. Patient suffers from a sensation of a large plug in the rectum and there is great soreness in the anus. He suffers much from hemorrhoids which protrude after stool and are very painful.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Urines: Pain in the back with bloody urine. Shooting pains in the region of the kidneys, also aching in the region of the kidneys with urging to urinate in the day time. There is suppressed urine with aching in the kidneys. Ropy mucus in the urine. Pain in the coccyx before urination, relieved afterwards. Burning in the fossa navicularis during urination.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "In the male the sexual desire is generally absent. There is a strong constricting or contracting pain in the end of the penis and much itching of the pubes. Deep punched, out chancres, very hard. Stitching in the prostate gland when walking. Ropy, viscid, mucous discharge from the urethra.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "As there is much relaxation in the remedy during hot weather, it especially affects the woman. She suffers from prolapsus in the summer time, during hot weather.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It is a very useful remedy in the woman for subinvolution. In the menstrual flow there are often membranes that cause her to suffer. The menstrual flow is too soon, excoriates the parts, causes the labia to swell and itch. Like the catarrhal conditions of other mucous membranes, there is leucorrhoea that is yellow and ropy.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It has been a most useful remedy in the vomiting of pregnancy when the other symptoms agree and also where the milk becomes stringy.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There are numerous symptoms connected with the larynx and as is usual copious, thick, ropy mucus. Chronic hoarseness, rough voice, dry cough, swollen feeling in the larynx and sensation as if there was a rag in the larynx. Catarrh of the larynx, croup, cough when breathing, membranous croup, diphtheria, burning, smarting and rawness of the larynx, rattling in the trachea.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Now these symptoms come in the cold, damp weather, in the winter. They are associated with much coughing and uneasiness. Sometimes these symptoms are entirely relieved and he is comfortable in a warm bed at night; and he is worse always in cold weather; they come on when the cold weather comes in the fall and last all winter.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Chest: He has much wheezing when breathing; tightness at the bifurcation of the trachea.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Quite a characteristic pain in the chest is the pain from the sternum to the back, associated with catarrhal conditions and with cough. Cough is caused from tickling in the larynx and at the bifurcation; dry, frequent, hard cough; great soreness in the chest when coughing and breathing deep.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Cough with pain in the sternum through to the back. Cough with stitching pain in the chest. Loud, hard cough. When he wakes up in the morning he begins this hard coughing. He is often ameliorated by lying down and is ameliorated by the warm bed; is worse undressing, from exposure to the air, worse after eating, aggravated by taking a deep breath, ameliorated by getting warm in bed.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The irritation and the cough is increased very much exposure to cold air. The cough is also a choking cough at times; sometimes a hoarse cough. It is sometimes much like whooping cough, spasmodic and constrictive.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The expectoration connected with the chest cough is ropy, yellow, or yellowish green, sometimes bloody; sometimes expectorates quantities of clotted blood. There is much rattling in the chest, catarrhal conditions in the winter, last all winter, with rattling catarrhal conditions in old people, rattling in the chest.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It is a most useful remedy in phthisis and hemorrhages from the lungs and cavities in the lungs. There is a cold sensation in the chest which is generally felt in the region of the heart. There is a pressure in the chest after eating also near the heart or supposed to be about the heart and there is palpitation.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It has cured and been a very useful remedy in hypertrophy of the heart with palpitation. In all parts of the body there is chilliness, in the back, especially in the back of the neck. Stabbing pains in the neck and in the dorsal region. Sharp pains in the region of the kidneys. Dull ache in the back. Many of the symptoms in the back are of a rheumatic character and wander from place to place. The rheumatic pains are worse stooping, and, like other pains, worse from motion.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pains: An exception to this is in the sacrum where there is an aching pain at night when lying and is better in the day time on motion. There is pain in the sacrum on straightening up from sitting. Pain in the coccyx from rising after sitting; pain in the coccyx on first sitting down and in the act of sitting down.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The limbs are stiff in the morning on rising and the pains wander about, especially in the joints. Rheumatic pains that wander about. Pains in the limbs are worse from cold and worse from motion. They are better from heat and better in rest. Periodical pains, coming at regular times. The bones feel sore to the touch or on deep pressure.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There is cracking in the joints. Rheumatic pains are very common in the shoulders; lameness; there is burning in the forearms; rheumatic pains in the elbows; weak feeling in the hands and fingers with much clumsiness; spasmodic contraction of the fingers. Bones. in the hands and fingers feel bruised and very tender to hard pressure. Rheumatic pains of the fingers are very common to this remedy. In the lower limbs we have marked rheumatic pains through to hips and knees, worse walking and on motion.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Then comes the exception: pains in the sciatic nerves very, severe, worse in hot weather; these are better in motion, better in the warmth of the bed, worse from changes in the weather and better on flexing the leg. Drawing pains in the tibia are very common. It has cured ulcers on the legs, deep as if punched out.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Burning on the ankles, soreness of the heels. It has cured ulcers on the heels.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The sleep is most restless. Starting in sleep and turning and tossing. Its chest symptoms are worse on walking.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Upon the skin we have pustules, boils, eczema, blisters, herpes, shingles, ulcers on the skin, tubercles, suppurating tubercles and eruptions that are syphilitic in character.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "LECTURES ON HOMOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror Kalium Bichromicum This remedy is recognized by most physicians by the copious ropy mucous discharges from all mucous membranes, but it is also a most important remedy in rheumatic affections of the joints with swelling, heat and redness, whenever these conditions wander around from joint to joint. The bones all over the body feel bruised, and caries is reckoned among its symptoms. A marked feature of this remedy is the alternation between catarrhal symptoms and rheumatic pains. Exudations from mucous membranes, somewhat like croup, are found in the larynx, trachea and in the rectum. it is not surprising, therefore, that it has proved a very effective remedy in diphtheria. It emaciates, like the rest of the Kali salts. We have running through it the cachectic conditions, or malignant diseases with ulceration; and especially is it indicated when the ulceration period is present. Ulceration : is a striking feature of this remedy. Its ulcers are deep; are said to be as if punched out and are very red. Gouty conditions are as common in this remedy as in the other Kalis . It is especially like Causticum with its cracking in the joints. Syphilitic conditions have been cured in the most advanced stages. It has the sharp stitching pains like Kali carb ., it has one feature quite its own very severe pain in small spots that could be covered by the end of the thumb. Pains : It has wandering pains from place to place, and wandering rheumatism in from joint to joint. There are pains in all parts. Pains are sometimes very violent; sometimes shooting; sometimes stitching stinging; again aching. Burning is a very marked symptom of the remedy. The pains appear rapidly and disappear suddenly. Cold and warm : The patient is sensitive to cold. There is a lack of vital heat. In fact, he wants to be wrapped up and covered warmly, and many of his complaints are much better when he is perfectly warm in bed. All the pains and his cough are relieved from the warmth of the bed, and yet there are other complaints, like rheumatic conditions, that come on in hot weather. The cough is better in warm weather and worse in winter. Catarrhal conditions of the larynx and trachea are worse in winter, especially in the cold, damp weather, like Calc. phos . when the snow melts. Sensitive to cold winds. Causticum , it ill be remembered, is sensitive to cold, dry winds. The Kalis generally are sensitive to cold, dry weather, but Kali bichromicum throat troubles are continuous in the winter and during cold, damp weather, and are worse in cold, damp winds. It is a most useful remedy in septic and zymotic fevers. Many of its symptoms are aggravated about 2 or 3 A.M., like Kali carb . Most of the symptom are worse in the morning yet some come on in the night. A marked feature of Kali. bichromicum is a feeling of great weakness and weariness. When the pain has passed off, if in the limbs, the limbs are felt very weary. Great prostration and cold sweat. It has neuralgia every day at the same hour, showing its periodicity. Like the rest of the Kalis it has cured epilepsy. Ropy saliva and mucous discharges from the mouth during the convulsion has led to its use in epilepsy. The symptoms generally, especially the pains, are worse from motion, except the sciatic and some of the pains in the lower limbs, which are better from motion. The patient pulsates all over the body. There are very few mental symptoms owing to the fact that the remedy has been proved only in crude form. It needs to be proved in potencies to bring out the mental symptoms. Head : It has violent headaches and its headaches are mostly associated with catarrhal conditions. A Kali bichromicum patient always suffers more or less from catarrh of the nose, and if he is exposed to cold weather the catarrhal condition will turn to dryness; then will come on violent headache; also headaches during coryza. Headaches during coryza when the discharge of the coryza slacks up a little. Headaches often begin with dim vision. Pains are violent. Headaches are better from warmth, especially warm drink; better from pressure; worse from stooping; worse from motion and walking; worse at night and still much worse in the morning. Pain is pulsating, shooting and burning. Headaches come on with vertigo. Headaches are often one-sided. It has been a very useful remedy in syphilitic head pains. Pains over the eyes and in the forehead. It is very useful when the headaches are with retching and vomiting; when the pain is confined to a very small spot that could be covered with the thumb and is violent; when the headaches come periodically and with dizziness. Headaches are somewhat ameliorated in open air if it is not too cold. It has cured eczema of the scalp with thick, heavy crusts from which ooze a yellow, thick, gluey substance. Eyes : Daylight brings on photophobia, There are sparks before the eyes; dim vision before the headache, as mentioned above. Rheumatic conditions affecting the eyes, hence it is said rheumatic affections of the eyes. Granular lids. Ulceration of the cornea. The ulcer is deep with pulsation in it. The eyes are much inflamed and red. The lids are red and swollen. Eyes and lids are injected. Croupous inflammation of the eyes. Burning and itching in the eyes. Inflammation of the mucous membrane of the eyes with copious flow of thick mucus. Margins of the lids are red and swollen. It has cured polypus on the conjunctiva, swelling of the lids and stringy mucus. Ears : There are yellow, viscid discharges from the ears, with stitching pains and pulsating in the ears. Chronic suppuration of the middle, ear with perforated tympanum; eczematous eruptions on the ears, itching of the whole external ear. Nasal passages : The symptoms of the nasal passages are very numerous. The most prominent are the catarrhal symptoms. It has catarrhal symptoms both acute and chronic, with copious, thick, viscid, yellow or white mucus. Foetid odor from the nose. Troubled much with a sensation of dryness in the nose. Loss of smell, and the nose is obstructed nights with thick yellow mucus, too viscid to be blown out. Accompanying this catarrhal condition there is a hard pain at the root of the nose. Ulcers form all over the nasal mucous membrane. There are ulcers, crusts, mucous plugs; must blow the nose constantly without success, but finally blows out large green crusts or scabs from high up in the nose. Sometimes they are drawn into the posterior nares. There is burning and pulsating in the nasal cavities. When the nasal cavity is in this state of ulceration and catarrh there is shooting pain from the root of the nose to the external angle of the eye through the whole forenoon. Extreme soreness inside of the nose. Expired air feels hot and causes a sensation of burning. He has snuffles and increased catarrhal conditions in damp weather. There are also burning. excoriating, watery discharges from the nose, as in acute catarrhal conditions. Coryza is fluent, excoriating, with loss of smell. With the chronic condition there comes perforation of the septum and pressing pains of the frontal sinus. A very strange condition then is observed. Scabs form upon the nasal septum; when these are removed there comes photophobia, then dimness of vision, followed by hard frontal headache. The septum is sometimes destroyed by ulceration. Much thick blood is blown out of the nose. Now, it has cured these conditions when they were syphilitic. It has cured nasal polypus. It has cured lupus of the nose. Face : The bones of the face are often very sore, with shooting pains in the malar bones. Pain in the malar bones on coughing. With the catarrhal conditions there is much suffering from the malar bones, like Merc . It has cured lupus exedens. It has cured ulceration of the lip. Swollen parotid is quite a common feature in its proving. It has cured impetigo. The tongue : is smooth, shiny, sometimes cracked. This is especially observed in low forms of fever, like typhoid. The tongue is often coated, thick and yellow at. the base. Papillae raise on the dorsum of the tongue, making it look like strawberry tongue. Again the tongue is coated a thick brown. The provers seemed to be much annoyed by a sensation of a hair on the base of the tongue. It has produced and cured ulceration of the tongue; even when syphilitic, it is a useful remedy. Ulcers deep as if punched out; with stinging pains. There is great dryness of the mouth; ropy saliva and mucus ulcers anywhere in the mouth; aphthous patches; ulcers of the roof of the mouth; even when these are syphilitic it is a most useful remedy; deep punched out ulcers. The throat : symptoms are very numerous. I will only mention a few of the most characteristic ones. Inflammation of the throat in general, involving all the tissues in it, extending up into the nose, and down into the larynx, even with a high degree of ulceration with copious, ropy mucus. It has cured diphtheria exudation in the throat when it is confined to the throat, and also when it has extended to the larynx. A marked feature of the Kali bichromicum throat is its oedematous uvula: This symptom, is also found in Apis, Kali i., Lach., Mur. ac., Nit ac., Phos., Sulph. ac., and Tab . Deep ulcers in the throat and ulcers on the tonsils. Ulceration so extensive that it has destroyed the whole soft palate. Inflammation of the tonsils when they are swollen and very red, when the neck is swollen; inflammation of the tonsils with suppuration. In this sore throat there is quite commonly a shooting pain extending to the ears. Throat : There are also enlarged veins in the throat. Like the sensation of the tongue as if a hair in various places in the fauces and nose. Dry, burning sensation in the throat is very common. Quite a characteristic symptom of Kali bichromicum is the intense pain in the root of the tongue, when putting the tongue out. It has much exudation in the throat that is not diphtheria, but resembles it. The stomach : symptoms are also very numerous. There is aversion to meat and strange to say, he craves beer, which makes him sick, brings on diarrhoea. Food lies like a load in the stomach; digestion seems suspended; there is a pressure as of a load after eating and much foods eructations. Nausea comes on very suddenly, sometimes while eating, soon after eating; vomits all food and it is sour as if it had turned sour very rapidly; so that there is vomiting of sour, undigested food, bile, bitter mucus, blood, yellow mucus and ropy mucus. It is a very useful remedy in nausea and vomiting of drunkards and beer drinkers. When a beer drinker has arrived at a point where he can no longer tolerate his beer but it makes him sick, Kali bichromicum is a useful remedy. In the stomach there is also soreness and coldness. It is a very useful remedy in ulceration of the stomach; and when such ulcer is cancerous it relieves the pain, stops the vomiting, makes the patient comfortable for a long time. In other words, it palliates him. There are some pains in the stomach that are ameliorated by eating; nausea sometimes is ameliorated, but such is the exception. He has a faintness in the stomach which drives him to eat often. Chronic catarrh of the, stomach is a strong feature and perhaps is a condition that is generally present with Kali bichromicum patients. Liver : There is pain in the liver, hard contracting pain extending to the shoulder, resembling Crot . h . Pain in the liver from motion. Dull, aching pain in the liver. It is a useful remedy in liver conditions associated with gall stones. It corrects the action of the liver so that healthy bile is formed and the gall stones are dissolved. Stitching pain in the liver, and also in the spleen, on motion. The abdomen is very tympanitic, with tenderness. There are stitching, cutting pains. Sinking in the abdomen with nausea after eating, then comes vomiting, then comes diarrhoea. This is the order in which these symptoms generally appear. It is a very useful remedy in gastro-intestinal cases. Ulcers of the intestines in typhoid conditions. This remedy has also a morning diarrhoea like Sulphur . It has diarrhoea in phthisis. It has diarrhoea in typhoid fever. Watery Stools. Stools are brown and watery, or may be blackish watery. There is often much tenesmus at stool. Chronic diarrhoea in the morning. Diarrhoea after beer like Aloe, China, Gamb., Lyc., Mur. ac., and Sulph. Frequently there are clay colored stools. Again there are bloody stools, as in dysentery. It has both diarrhoea and dysentery after rheumatism has disappeared. It seems rheumatic conditions are inclined to alternate with diarrheic conditions. In hot weather it has diarrhoea and dysentery; in winter it has chest troubles and catarrh of the air passages. There is pain in the abdomen before the stool much pain during the stool, cramping and tenesmus. After stool it has tenesmus like Merc . It has constipation with hard, knotty stool, followed by severe burning in the parts. Burning in the anus after stool. Prolapsus of the rectum. After dry hard stool there is burning in the rectum. Patient suffers from a sensation of a large plug in the rectum and there is great soreness in the anus. He suffers much from hemorrhoids which protrude after stool and are very painful. Urines : Pain in the back with bloody urine. Shooting pains in the region of the kidneys, also aching in the region of the kidneys with urging to urinate in the day time. There is suppressed urine with aching in the kidneys. Ropy mucus in the urine. Pain in the coccyx before urination, relieved afterwards. Burning in the fossa navicularis during urination. In the male the sexual desire is generally absent. There is a strong constricting or contracting pain in the end of the penis and much itching of the pubes. Deep punched, out chancres, very hard. Stitching in the prostate gland when walking. Ropy, viscid, mucous discharge from the urethra. As there is much relaxation in the remedy during hot weather, it especially affects the woman. She suffers from prolapsus in the summer time, during hot weather. It is a very useful remedy in the woman for subinvolution. In the menstrual flow there are often membranes that cause her to suffer. The menstrual flow is too soon, excoriates the parts, causes the labia to swell and itch. Like the catarrhal conditions of other mucous membranes, there is leucorrhoea that is yellow and ropy. It has been a most useful remedy in the vomiting of pregnancy when the other symptoms agree and also where the milk becomes stringy. There are numerous symptoms connected with the larynx and as is usual copious, thick, ropy mucus. Chronic hoarseness, rough voice, dry cough, swollen feeling in the larynx and sensation as if there was a rag in the larynx. Catarrh of the larynx, croup, cough when breathing, membranous croup, diphtheria, burning, smarting and rawness of the larynx, rattling in the trachea. Now these symptoms come in the cold, damp weather, in the winter. They are associated with much coughing and uneasiness. Sometimes these symptoms are entirely relieved and he is comfortable in a warm bed at night; and he is worse always in cold weather; they come on when the cold weather comes in the fall and last all winter. Chest : He has much wheezing when breathing; tightness at the bifurcation of the trachea. Quite a characteristic pain in the chest is the pain from the sternum to the back, associated with catarrhal conditions and with cough. Cough is caused from tickling in the larynx and at the bifurcation; dry, frequent, hard cough; great soreness in the chest when coughing and breathing deep. Cough with pain in the sternum through to the back. Cough with stitching pain in the chest. Loud, hard cough. When he wakes up in the morning he begins this hard coughing. He is often ameliorated by lying down and is ameliorated by the warm bed; is worse undressing, from exposure to the air, worse after eating, aggravated by taking a deep breath, ameliorated by getting warm in bed. The irritation and the cough is increased very much exposure to cold air. The cough is also a choking cough at times; sometimes a hoarse cough. It is sometimes much like whooping cough, spasmodic and constrictive. The expectoration connected with the chest cough is ropy, yellow, or yellowish green, sometimes bloody; sometimes expectorates quantities of clotted blood. There is much rattling in the chest, catarrhal conditions in the winter, last all winter, with rattling catarrhal conditions in old people, rattling in the chest. It is a most useful remedy in phthisis and hemorrhages from the lungs and cavities in the lungs. There is a cold sensation in the chest which is generally felt in the region of the heart. There is a pressure in the chest after eating also near the heart or supposed to be about the heart and there is palpitation. It has cured and been a very useful remedy in hypertrophy of the heart with palpitation. In all parts of the body there is chilliness, in the back, especially in the back of the neck. Stabbing pains in the neck and in the dorsal region. Sharp pains in the region of the kidneys. Dull ache in the back. Many of the symptoms in the back are of a rheumatic character and wander from place to place. The rheumatic pains are worse stooping, and, like other pains, worse from motion. Pains : An exception to this is in the sacrum where there is an aching pain at night when lying and is better in the day time on motion. There is pain in the sacrum on straightening up from sitting. Pain in the coccyx from rising after sitting; pain in the coccyx on first sitting down and in the act of sitting down. The limbs are stiff in the morning on rising and the pains wander about, especially in the joints. Rheumatic pains that wander about. Pains in the limbs are worse from cold and worse from motion. They are better from heat and better in rest. Periodical pains, coming at regular times. The bones feel sore to the touch or on deep pressure. There is cracking in the joints. Rheumatic pains are very common in the shoulders; lameness; there is burning in the forearms; rheumatic pains in the elbows; weak feeling in the hands and fingers with much clumsiness; spasmodic contraction of the fingers. Bones. in the hands and fingers feel bruised and very tender to hard pressure. Rheumatic pains of the fingers are very common to this remedy. In the lower limbs we have marked rheumatic pains through to hips and knees, worse walking and on motion. Then comes the exception: pains in the sciatic nerves very, severe, worse in hot weather; these are better in motion, better in the warmth of the bed, worse from changes in the weather and better on flexing the leg. Drawing pains in the tibia are very common. It has cured ulcers on the legs, deep as if punched out. Burning on the ankles, soreness of the heels. It has cured ulcers on the heels. The sleep is most restless. Starting in sleep and turning and tossing. Its chest symptoms are worse on walking. Upon the skin we have pustules, boils, eczema, blisters, herpes, shingles, ulcers on the skin, tubercles, suppurating tubercles and eruptions that are syphilitic in character. Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-mm-1911"
+      },
+      {
+        "text": "KENT'S NEW REMEDIES Présenté par le Dr Robert Séror KALIUM BICHROMICUM The following symptoms have recently been cured by Kali-bi . They are found under Kali-bi . in Allen's Encyclopaedia, of Pure Materia Medica, page 237. Weakness of digestion, so that the stomach was disordered by any but the mildest food (chrome washers). Incarceration of flatulence in stomach and whole lower portion of abdomen. ( Zlatarovich ). Great feebleness of stomach in the morning. ( Lackner ). Feeling of emptiness in the stomach, though want of appetite at dinner. ( Marenzetler ). Feeling a sinking in the stomach before breakfast. (Dr. R. Dudgeon ). The patient wakes in the night with great uneasiness in the stomach, and soreness and tenderness in a small spot to the left of the xiphoid appendix, which is very similar to symptoms in Drysdale's proving. Sudden violent pain in the stomach, in its anterior surface, a burning constrictive pain. ( Zlatarovich ). The same patient complains of repletion after a mouthful of food, and he had taken Lycopodium without benefit. There was also cutting as with knives, and he was unable to digest potatoes or any starchy food. There were no catarrhal symptoms of nose or chest, and no thick, ropy, mucous discharges, therefore Kali-bi . was neglected. The stomach symptoms alone guided to as use as he had no other symptoms of importance. The relief is marked, and I think permanent. It will be seen that I have made use of the language of the prover mostly, as it so perfectly describes the symptoms of the patients. In looking over the proving, the patient underscored such symptoms as he had suffered from, and the remedy was furnished on these symptoms, which really lends value to the provings. Especially are these provings the more beautiful, as they are by several provers. Numérisation, découpage, valorisation, et commentaires Copyright © Robert Séror 1999 Mise en page Copyright © Sylvain Cazalet 1999",
+        "source_id": "kent-new-remedies-1926"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "cowperthwaite-textbook-1891",
+      "kent-lectures-1905",
+      "kent-mm-1911",
+      "kent-new-remedies-1926"
+    ]
+  }
+}

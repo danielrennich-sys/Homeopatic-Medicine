@@ -1,0 +1,30 @@
+{
+  "id": "ferrum-pyrophosphoricum",
+  "names": {
+    "primary": "Ferrum Pyrophosphoricum",
+    "latin": "Ferrum Pyrophosphoricum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "This preparation has not been proved, but it has been used clinically in low attenuations in cases of brain congestion and congestive headache, following great losses of blood. If Fe. ph. fails to remove tarsal cysts, Cooper says give Fe. pyroph. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Brain, congestion of; Headache; Tarsal cysts",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

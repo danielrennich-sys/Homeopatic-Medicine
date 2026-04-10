@@ -1,0 +1,50 @@
+{
+  "id": "copaifera-langsdorffii",
+  "names": {
+    "primary": "Copaifera Langsdorffii (DESF.)",
+    "latin": "Copaifera Langsdorffii (DESF.)",
+    "common": [
+      "Copaiba"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Brazil and north of South Africa.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "An oleoresin obtained from a South American species of Copaiba, by an incision in the trunk. It was first noticed in England in 1625, in a work published by Purchas. There are many species in South America, all yielding Copaiba- a single tree is said to yield about 40 litres. The first yield is clear, colourless and very thin, but in contact with the air its consistency soon becomes thicker and yellower. It is most largely collected from Para and Maranhao in Brazil, and is brought to this country in small casks and barrels; large quantities also come from Maracaibo in Venezuela, and it is also exported from Angostura, Cayenne, Rio Janeiro and some of the West Indian Islands. The variety that comes from Venezuela is more viscid and darker in colour.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Volatile oil, resin. Amorphous resin acids and resenes. Copaiba is a clear transparent liquid of the consistency of olive oil, pale yellow with a peculiar but not unpleasant odour, taste bitterish, hot and nauseous; the substance it most closely resembles is turpentine. As it contains no benzoic acid, it cannot properly be called a resin.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Stimulant, diuretic, carminative, laxative; in large doses purgative, causing nausea, vomiting, strangury, bloody urine and fever. A good remedy for chronic catarrh and bronchitis, as it assists expectoration and is antiseptic; is given with advantage in leucorrhoea, chronic cystitis, diarrhoea and haemorrhoids. It is chiefly used in gonorrhoea (though not advocated for chronic cases), often combined with cubebs and sandal. It has also been recommended externally for chilblains. Both the volatile oil and resin are greatly altered when expelled in the urine, and when precipitated by nitric acid might be mistaken for albumen; it is considered a valuable hydragogue diuretic in obstinate dropsy. It creates an irritant action on the whole mucous membrane, imparts a peculiar odour to the urine and breath, causes an eruption resembling measles attended with irritation and tingling; it is the resin, not the oleoresin, that is used as a diuretic.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Oil, B.P., 5 to 20 drops. For obstinate dropsy, 15 to 20 grains three times daily. Usually taken in pill or capsule form (10 to 15 minims), or in the form of an emulsion.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

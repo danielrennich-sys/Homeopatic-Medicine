@@ -1,0 +1,44 @@
+{
+  "id": "pterocarpus-santalinus",
+  "names": {
+    "primary": "Pterocarpus santalinus",
+    "latin": "Pterocarpus santalinus",
+    "common": [
+      "Saunders, Red"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Madras Presidency and Ceylon.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "A tree of 20 to 25 feet high, covered with rough bark resembling that of the Common Alder, and bearing spikes of yellow flowers. Plantations have been formed for its cultivation in Southern India, where it is very rare. The name Santalinus refers to its name of red Sandalwood, which all its Indian titles signify, though it bears no relationship to Santalum . It is imported, usually from Ceylon, in the form of irregular logs or billets, without bark and sapwood, and about 3 to 5 feet in length. They are heavy, dense, reddish or blackish brown outside, and, if cut transversely, a deep blood-red inside, variegated with zones of a lighter red colour. In pharmacy the wood is in the form of chips, raspings, or coarse red powder. When rubbed, the wood has a faint peculiar odour, but is otherwise odourless, with a slight, astringent taste. Gum Kino is obtained from other species of Pterocarpus . The chief use of Red Saunders wood is as a dye-stuff. In India it is employed mixed with sapan wood, for dyeing silk, cotton and wool, the shade of red varying according to the mordant used.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The colouring principle, called Santalin, is readily soluble in alcohol (90 per cent), but almost insoluble in water. Ether, alkalis, and three other crystalline principles have also been described as being present: Santal, Pterocarpin, and Homopterocarpin. A small quantity of tannin, probably kino-tannic acid, has also been found in the wood. The colouring principle is partially soluble in some of the essential oils, such as lavender, rosemary, cloves, and oil of bitter almonds, and as a colouring agent it forms part of the official Comp. Tincture of Lavender. The colouring principles of the West African Barwood ( Pterocarpus angolensis ) and Camwood ( Baphia nitida ) are closely allied with that of Red Saunders, if not identical.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Astringent, tonic. Chiefly used medicinally in India, and employed in pharmacy for colouring tinctures. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

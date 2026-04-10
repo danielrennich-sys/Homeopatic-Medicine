@@ -1,0 +1,120 @@
+{
+  "id": "rhamnus-californica",
+  "names": {
+    "primary": "RHAMNUS CALIFORNICA",
+    "latin": "RHAMNUS CALIFORNICA",
+    "common": [
+      "California Coffee-tree"
+    ],
+    "synonyms": [
+      "Rhamnus Californica"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Nervous, restless, irritable. Lassitude; mentally dull and dazed; unable to concentrate mind on studies",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Dizzy full feeling. Heavy bruised sensation; better from pressure. Bursting feeling with every step. Soreness, especially in occiput and vertex, worse, bending over. Dull pain in left temple. Dull aching in frontal region (left), extending backwards and over forehead. Deep, right-sided frontal headache. Twitching eyelids",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Dullness of hearing. Soreness, deep under right tragus on swallowing",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "Flushed, hot and glowing. Outward pressure from malar processes",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Canker sore between gums and lips. Tongue coated, with clean, pink central patch",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Dry, rough. Soreness on right side and tonsil",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Bowels] Constipation with some flatus. Tenesmus and dry stool. Flatulent diarrhœa",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "[Genito-Urinary] Increased urination. Tickling in anterior urethra, small morning drop (no previous gonorrhœa). Sexual desire increased",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "[Modality] Symptoms worse in evening",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Substernal oppression. Tenderness on pressure of right intercostal muscles",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Variation of pulse. Slow pulse",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Unable to control muscular action. Legs sore. Walked like a drunken man",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture in 15-drop doses every four hours"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">RHAMNUS CALIFORNICA California Coffee-tree One of the most positive remedies for rheumatism and muscular pains. Pleurodynia, lumbago, gastralgia. Vesical tenesmus; dysmenorrhœa of myalgic origin; pain in head, neck, and face. Inflammatory rheumatism, joints swollen, painful; tendency to metastasis; profuse sweat. Rheumatic heart (Webster). Provings of students. 2x potency.",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Related entry: Rhamnus frangula - Rhamnus purshiana",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The bark of Rhamnus californica, Eschscholtz (Frangula californica, Gray), (Nat. Ord. Rhamnaceae). Sparingly in northern California and more abundant southerly in the Sierras, and easterly, especially in Mexico and Arizona. Common Names: California Buckthorn, California Coffee Tree.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Principal Constituents.—Probably similar to those of Cascara Sagrada. Preparations.—1. Specific Medicine Rhamnus Californica. Dose, 10 to 30 drops. 2. Decoctum Rhamni Californici, Decoction of Rhamnus Californica (½ ounce to 16 fluidounces). Dose, 3 to 6 fluidrachms every 3 or 4 hours.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—Rhamnus californica is cathartic and antirheumatic. It sometimes is indiscriminately gathered with cascara sagrada (Rhamnus Purshiana. and is known to coast dealers as \"thin cascara bark.\" As a domestic medicine it has long been used in rheumatic disorders, and its introduction into Eclectic medicine for that purpose is due to Webster, who regards it as one of the best of antirheumatics. Given short of producing a laxative effect, he employs it (in the decoction, tincture, and the specific medicine) as the most positive remedy he has ever used for rheumatism and muscular pain of rheumatoid character. He also advises it in longstanding and obstinate dysmenorrhea, not requiring surgical rectification. The remedy may be administered for months, provided it is used short of catharsis.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "felter-eclectic-1922"
+    ]
+  }
+}

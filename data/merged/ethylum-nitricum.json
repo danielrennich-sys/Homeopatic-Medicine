@@ -1,0 +1,53 @@
+{
+  "id": "ethylum-nitricum",
+  "names": {
+    "primary": "Ethylum Nitricum",
+    "latin": "Ethylum Nitricum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "This is one of the anæsthetics experimented on by J. Y. Simpson and later by B. W. Richardson. It has produced a few definite symptoms.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Heart, hypertrophy of; Vertigo",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Glon., Amyl. nit."
+      ]
+    },
+    "head": [
+      {
+        "text": "A tendency to pitch forward. Sense of fulness in vessels of brain. Much headache and giddiness for some time after its employment.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Extreme suffusion of face.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Excessive over-action of the heart. Rapid and painful respiration. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

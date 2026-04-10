@@ -1,0 +1,117 @@
+{
+  "id": "solanum-oleraceum",
+  "names": {
+    "primary": "Solanum Oleraceum",
+    "latin": "Solanum Oleraceum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T SOLANUM OLERACEUM. Solanum oleraceum, Velloz. Natural order , Solanaceæ. Common names (Brazilian), Gyquerioba, Juquerioba. Preparation , Tincture of the flowers. Authority. Mure, Pathogénésie Brésilienne. MIND. ► Mental dejection. ► Irritable and impatient. EYE. ► Inflammation of the left upper eyelid. ► Stye on the left lower eyelid. ► Pain in the inner canthi. NOSE. ► Acute catarrh. ► Discharge of offensive mucus from the left nostril. FACE. ► Constant redness of face. ► Pain and swelling of the face and throat with inflammation. [10.] ► Pain in the face. ► Violent pain in the left cheek, extending all over the face. MOUTH. ► Toothache. ► Toothache at night. ► White-coated tongue. ► Ptyalism. THROAT. ► Inflammation of the throat . ► Swelling of a cervical gland. STOMACH. ► Loss of appetite. ► Difficult digestion. [20.] ► Short-lasting lancinating pain in the stomach. URINARY ORGANS. ► Scanty micturition. SEXUAL ORGANS. ► Discharge of milk-white mucus from the vagina. ► Short-lasting menses. RESPIRATORY ORGANS. ► Suffocating cough. CHEST. ► Cold feeling in the left side of the chest, after drinking. ► Swelling of the mammary gland, with profuse effusion of milk (second day). GENERALITIES. ► Soon after taking, the breasts of a colored woman of sixty became swollen and discharged a great deal of milk. SKIN. ► Pustular eruption all over, first white, then red, and itching intolerably at times. ► Urticaria febrilis. [30.] ► Herpetic eruption on the ankle. ► Itching. ► Itching of the legs. SLEEP. ► Drowsiness with headache. ► Drowsiness for four hours, in the middle of the day. ► Sleepiness, all day. ► Sleeplessness. ► Sleeplessness, for two nights. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Breasts, swelling of; Catarrh; Glands, swelling of; Herpes; Lactation, profuse; Leucorrhœa; Pustules; Sleep excessive; Stye; Urticaria",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Suffocating cough. Tickling at the lower limbs. Herpetic eruption on ankle.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "This plant, says Mure, is herbaceous, stem somewhat woody, the upper branches being covered with short and crooked thorns. It grows on the shores round Rio Janeiro in damp and shady places. The most remarkable symptom of the proving was \"Swelling of the mammary gland with profuse effusion of milk\" occurring in a negro woman of 60. Other symptoms were: \"Pain and swelling of face and throat with inflammation.\" \"Cold feeling in left chest after drinking.\" There was drowsiness with headache, and the generally deranged sleep of the other Solanaceæ.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Sad. Irritable.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Drowsy with headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Stye on r. lower eyelid. Pain at internal canthi of eyes. Inflammation of l. upper lid.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Discharge of fetid, yellow mucus from l. nostril. Acute catarrh.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Pain in face. Pain and swelling of face and throat with inflammation. Continual redness of face. Violent pain in l. cheek, spreading over whole face.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Toothache. Toothache at night. Tongue coated white. Ptyalism. Sore throat.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "No appetite. Difficult digestion. Lancinating pain in stomach not lasting long.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Scanty urine.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Short-lasting menses. Discharge of white mucus from vagina. Swelling of mammary glands with profuse effusion of milk, on the second day. Shortly after taking the drug the breasts of a negro woman of 60 began to swell and discharged a quantity of milk.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Sense of chilliness in l. side of chest, after drinking.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Swelling of cervical glands.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Pustules all over, first white, then red, with an intolerable itching now and then. Nettle-rash with fever. Itching.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "No sleep for two nights. Drowsy for four hours in the middle of the day. Drowsy all day. Drowsy with headache. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

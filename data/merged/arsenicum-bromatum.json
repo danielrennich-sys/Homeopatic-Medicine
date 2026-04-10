@@ -1,0 +1,48 @@
+{
+  "id": "arsenicum-bromatum",
+  "names": {
+    "primary": "ARSENICUM BROMATUM",
+    "latin": "ARSENICUM BROMATUM",
+    "common": [
+      "Bromide of Arsenic"
+    ],
+    "synonyms": [
+      "Arsenicum Bromatum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "face": [
+      {
+        "text": "Acne rosacea, with violet papules on nose; worse in the spring. Acne in young people",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture, two to four drops daily in water. In diabetes, three drops three times a day in a glass of water"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ARSENICUM BROMATUM Bromide of Arsenic Has proven a great anti-psoric and anti-syphilitic remedy. Herpetic eruptions, syphilitic excrescences, glandular tumors and indurations, carcinoma, locomotor ataxia, and obstinate intermittents, and diabetes are all greatly influenced by this preparation.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "\"Acne rosacea, with violet papules on the nose. Diabetes mellitus\" (Hansen). Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Acne; Diabetes",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

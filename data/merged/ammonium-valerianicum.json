@@ -1,0 +1,35 @@
+{
+  "id": "ammonium-valerianicum",
+  "names": {
+    "primary": "AMMONIUM VALERIANICUM",
+    "latin": "AMMONIUM VALERIANICUM",
+    "common": [
+      "Valerianate of Ammonia"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "chest_heart": [
+      {
+        "text": "Pains in cardiac region. Functional disturbances, tachycardia",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Lower triturations"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">AMMONIUM VALERIANICUM Valerianate of Ammonia A remedy for nervous, hysterical people, suffering with neuralgia headaches and insomnia. Great nervous erethism is always present.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "pestinum",
+  "names": {
+    "primary": "Pestinum",
+    "latin": "Pestinum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "The prophylaxis and treatment of plague with injections of more or less modified virus of plague by old-school practioners affords evidence that the nosode of plague is available, like other nosodes, for the treatment of cases of the disease from which it is derived. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Bubo; Plague; Typhus",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

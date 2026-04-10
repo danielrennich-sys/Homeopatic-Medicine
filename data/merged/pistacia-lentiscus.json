@@ -1,0 +1,44 @@
+{
+  "id": "pistacia-lentiscus",
+  "names": {
+    "primary": "Pistacia Lentiscus (LINN.)",
+    "latin": "Pistacia Lentiscus (LINN.)",
+    "common": [
+      "Mastic"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "preparation": [
+      {
+        "text": "Resin. Mastic Tree (Pistacia lentiscus LINN.) Click on graphic for larger image",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "A shrub rarely growing higher than 12 feet, much branched, and found freely scattered over the Mediterranean region, in Spain, Portugal, France, Greece, Turkey, the Canary Islands, and Tropical Africa. It has been cultivated in England since 1664. It is principally exported from Scio, on which island it has been cultivated for several centuries. The trees there are said to be entire male. The best Mastic occurs in roundish tears about the size of a small pea, or in flattened, irregular pear-shaped, or oblong pieces covered with a whitish powder. They are pale yellow in colour, which darkens with age. The odour is agreeable and the taste mild and resinous, and when chewed it becomes soft, so that it can easily be masticated. This characteristic enables it to be distinguished froma resin called Sanderach, which it resembles, but which when bitten breaks to powder.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Mastic contains a small proportion of volatile oil, 9 per cent of resinsoluble in alcohol and ether, and 10 per cent of a resin insoluble in alcohol.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Stimulant, diuretic. It has many of the properties of the coniferous turpentines and was formerly greatly used in medicine. Of late years it has chiefly been used for filling carious teeth, either alone or in spirituous solution, and for varnishes, and in the East in the manufacture of sweets and cordials. In the East it is still used medicinally in the diarrhoea of children and masticated to sweeten the breath. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

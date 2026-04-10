@@ -1,0 +1,93 @@
+{
+  "id": "benzoin",
+  "names": {
+    "primary": "Benzoin",
+    "latin": "Benzoin",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T BENZOIN. Lidera Benzoin, Meisner (Laurus Benzoin, L.; Benzoin odoriferum, Nees). Natural order , Lauraceæ. Common names , Spice-bush, Fever-bush. Preparation , Tincture of twigs. Authority. J. S. Wright, U. S. Med. Invest., New Ser., vol. iv, 1876, p. 575, took a tablespoonful of tincture made from small limbs at 8 A.M., 2 P.M., and 6 P.M. (first day); 2 tablespoonfuls (second day). ► Hair oily (second day, and afterward). ► Wake from sleep with a sick feeling in stomach and bowels; tired feeling; turn often in bed (first night). ► Empty feeling in stomach and lower part of bowels (first day). ► Urine more frequent, and small quantity, of dark color, had to be up in the night to urinate twice. Bed swims, with sinking sensation, which made lying down on bed unpleasant. Had unpleasant, fearful feeling (third day). ► Stool soft, with pain before, in lower bowels (third day). ► Finger-joints swelled and lame (third day). ► Sense of touch fine, quick, and pleasant (second day). ► Hips feel crushed (first day). ► Pains in knees (third day). [10.] Skin cold; feet and legs cold up to knees; remained cold in bed (first day). ► Feverish during the second night. ► Skin moist (second day). Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Fever; Hair, oiliness of; Vertigo",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Hips feel crushed. Pains in knees. Feet and legs cold up to knees; remained cold in bed. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The symptoms of Benzoin as shown in a short proving somewhat resemble those of Laurocerasus. Empty sensation at the stomach and lower part of bowels. On lying down: head swims, with sinking sensation which makes lying down in bed unpleasant. The hair is oily. Feverish. After sleep. Sense of touch fine, quick and pleasant.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare. Lach ( after sleep)."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Unpleasant, fearful feeling.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Hair oily. 11.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Wakes from sleep with a sick feeling in stomach and bowels; tired feeling; turns often in bed at night. Empty feeling in stomach and lower part of bowels.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Soft stool, with pain before stool in lower bowel.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urine more frequent, small quantity, dark colour; had to rise twice in night to urinate.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Related entry: Benzoic acid",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The Tincture of Benzoin has been a popular remedy in the past. It is given in doses of from one-half to one dram. The compound tincture, composed of benzoin, storax, balsam of tolu, and purified aloes with alcohol is advised for its influence in laryngeal and bronchial difficulties. The dose is from one-half to two fluid drams of the official U. S. P. preparation.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The Compound Tincture is vaporized in hot water, and the vapor is inhaled in chronic and acute laryngitis. It is useful in many forms of bronchial irritation without secretion. Its antiseptic properties are not great, but are apparent where there is a scanty, fetid expectoration.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900",
+      "ellingwood-1919"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "garrya-fremonti",
+  "names": {
+    "primary": "Garrya fremonti (TORR.)",
+    "latin": "Garrya fremonti (TORR.)",
+    "common": [
+      "Fever Bush"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "California, Oregon, Mexico, Cuba, Jamaica.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "This is a small evergreen bush. The leaves are broad, leathery, grey green on the upperside; on the underside mealy and lighter grey green. It has grown in the Author's garden, but needs care in the winter. The leaves are intensely bitter, and are largely used in California as an antiperiodic and tonic. A new alkaloid has been found in it called garryine. It is best administered as a fluid extract.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Powder, 10 to 30 grains - leaves. Fluid extract, 10 to 30 minims - leaves.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

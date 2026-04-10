@@ -1,0 +1,63 @@
+{
+  "id": "myosotis",
+  "names": {
+    "primary": "Myosotis",
+    "latin": "Myosotis",
+    "common": [],
+    "synonyms": [
+      "Myosotis. (Myosotis Arvensis.)"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Hale has collected some clinical experiences with Myosotis (which differs from M. Palustris in having large Symphytum-like leaves), showing it to have a strong affinity for the respiratory organs. The left lower lung was most affected. Copious expectoration, emaciation, night-sweat. During the cough there was gagging or vomiting; cough during or immediately after eating; pain in left side (lower lung) not in any position, but while coughing and sensitive to percussion. Profuse sweat day and night.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Bronchitis, chronic; Cough; Lungs, affections of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Left : pain in side (lower lung). Pain in left side (lower lung). D., æt. 26 ; chronic bronchitis. K., æt. 15, after typhus ; affection of lungs.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Symphytum (botan.). Stann. (lung disease). Copyright © Médi-T ® 2000 Main",
+        "Compare : Stannum in lung disease",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "respiratory": [
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Myos. a.]. Chronic bronchitis ; patient nearly in a dying condition. Bronchorrhœa. Obstinate old coughs with profuse muco-purulent expectoration ; gagging or vomiting during cough, < while or immediately after eating ; expectoration most profuse in morning ; pain in left side (lower lung) not < by lying in any position, but painful while coughing and sensitive to percussion. After typhus, progressive emaciation with severe cough, sometimes dry and again with scanty expectoration ; profuse sweats day and night ; eyes and cheeks sunken ; nose pointed and whitish.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Copious sputa, emaciation, night sweat.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "Morning : expectoration most profuse. Day and night : profuse sweats.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900",
+      "hering-guiding-1879"
+    ]
+  }
+}

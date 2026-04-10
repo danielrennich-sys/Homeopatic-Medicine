@@ -1,0 +1,77 @@
+{
+  "id": "xantoxylum-fraxineum",
+  "names": {
+    "primary": "XANTOXYLUM FRAXINEUM",
+    "latin": "XANTOXYLUM FRAXINEUM",
+    "common": [
+      "Prickly Ash (XANTHOXYLUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Nervous, frightened. Mental depression",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Feels full. Weight and pain on vertex. Pain over eyes, throbbing pressure over nose, pressure in forehead; head seems divided; ringing in ears. Occipital headache. Sick headache with dizziness and flatulence",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "Neuralgia of lower jaw. Dryness of mouth and fauces. Pharyngitis (Wyethia)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Griping and diarrhœa. Dysentery, with tympanites, tenesmus; inodorous discharges",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menses too early and painful. Ovarian neuralgia, with pain in loins and lower abdomen; worse, left side, extending down the thigh, along genito-crural nerves. Neuralgic dysmenorrhœa, with neuralgic headaches; pain in back and down legs. Menses thick, almost black. After-pains (Arnica; Cup; Cham). Leucorrhœa at time of menses. Neurasthenic patients who are thin, emaciated; poor assimilation with insomnia and occipital headache",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Aphonia. Constant desire to take a long breath; oppression of chest. Dry cough, day and night",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Paralysis of left side following spinal disorders. Numbness of left side; impairment of nerves of motion. Hemiplegia. Pain in nape, extending down back. Sciatica; worse, hot weather. Anterior, crural neuralgia (Staph). Left arm numb. Neuralgic shooting pain, as from electricity, all over limb",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Hard and unrefreshing; dreams of flying. Sleeplessness in neurasthenics",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "First to sixth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">XANTOXYLUM FRAXINEUM Prickly Ash (XANTHOXYLUM) Its specific action is on the nervous system and mucous membranes. Paralysis, especially hemiplegia. Painful hæmorrhages, after-pains, neuralgic dysmenorrhœa, and rheumatic affections, offer a therapeutic field for this remedy, especially in patients of spare habit and nervous, delicate organization. Indigestion from over-eating or from too much fluid. Sluggish capillary circulation. Neurasthenia, poor assimilation, insomnia, occipital headache. Increases mucous secretion of mouth and stimulates the secretion from all glands with ducts opening in the mouth.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

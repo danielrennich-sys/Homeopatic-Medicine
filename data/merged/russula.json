@@ -1,0 +1,75 @@
+{
+  "id": "russula",
+  "names": {
+    "primary": "Russula",
+    "latin": "Russula",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T RUSSULA. Russula ftens, Fries. Natural order , Fungi. Authority. Alphonse Barrelet, N. Z. f. Hom. Klin., 18, 147, effects of eating the cooked mushrooms. Nausea, colic, vomiting, diarrha, cold extremities, and cyanosis of the face. Pupils at one time normal, at another dilated, at another contracted; constant trembling of the muscles, at times interrupted by tonic contractions, increasing to general clonic spasms, with complete loss of consciousness. Involuntary micturition. Pulse at first small and contracted, rose after emetics to 100, but soon again fell to 80. Consciousness returned on the third day, the patient could hear but was completely blind. The muscular spasms, the deathly anxiety, and the dyspna gradually disappeared, but for three days there were constant hallucinations of mind. This attack was followed by pseudo-erysipelas on the elbows and painless furuncles over the whole body, especially on the scapulæ and small of the back. The patient recovered after two or three weeks. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Blindness; Chorea; Convulsions; Enuresis",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Nausea, colic, vomiting, diarrhœa, cold extremities. Dyspnœa. Constant trembling of muscles, at times interrupted by tonic contractions, increasing to general clonic spasms with complete loss of consciousness. Patient recovered after two or three weeks.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Some species of Russula are edible, and are much esteemed as a food on the Continent. Alphonse Barrelet observed the effects of eating cooked Russula fœtens, which produced a very severe poisoning. Hallucinations, muscular tremors, and clonic spasms recall the effects of Agaric. The eye symptoms were even more pronounced, complete blindness lasting many days occurred, with this peculiarity of the pupil, that it was sometimes normal, sometimes dilated, and sometimes contracted.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Unconsciousness. Muscular spasms, deathly anxiety, dyspnœa. Hallucinations constant for three days after spasms ceased.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Pupils at one time normal, at another: dilated, at another contracted. Consciousness returned on third day, patient could hear but was completely blind.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Cyanosis. 11, 12.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Involuntary micturition.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pulse small and contracted.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "The attack was followed by pseudo-erysipelas on elbows and painless furuncles over whole body, esp. on scapulæ and small of back. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

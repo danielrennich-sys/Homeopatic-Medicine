@@ -1,0 +1,50 @@
+{
+  "id": "frankenia-grandifloria",
+  "names": {
+    "primary": "Frankenia grandifloria (CHAM. and SCHLECHT)",
+    "latin": "Frankenia grandifloria (CHAM. and SCHLECHT)",
+    "common": [
+      "Yerba Reuma"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "California, Nevada, Arizona and Northern Mexico.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "A small, shrubby plant, with a prostrate, much-branched stem, about 6 inches long, growing in sandy places. It is salty to the taste, leaving an astringent aftertaste. It has no odour.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "It contains about 6 per cent of tannin.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Astringent. The herb is used as a remedy in catarrhal affections, especially of the nose and genitourinary tract. When diluted with from two to five times its volume of water, it may be used as an injection or spray. It may also be taken internally.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Of fluid extract, 10 to 20 minims. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

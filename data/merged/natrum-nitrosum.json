@@ -1,0 +1,105 @@
+{
+  "id": "natrum-nitrosum",
+  "names": {
+    "primary": "Natrum Nitrosum",
+    "latin": "Natrum Nitrosum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Ringer and Murrell (Lancet, November 3, 1883─C. D. P.) administered ten grains of Na. ntrs., dissolved in an ounce of water, to fourteen men and four women. To twelve men and four women it was given in five-gr. doses. In almost all it produced alarming symptoms of the apoplectic order. A cat had 4 c.c. of a 10 per cent. aqueous solution injected under the skin, and died of the effects. Collischorm (quoted H. P., x. 469) relates two cases of accidental poisoning with Nat. nitros. (1) The first patient was affected with: Diarrhœa and fainting, bitter eructations, heavily coated tongue, and on the chest an eruption like syphilitic roseola. Traces of albumen in urine. During the night, copious alvine discharges with faintishness. The following day, intense cyanosis. Urine dark yellow, containing copious urates. Next day he took 2.5 grin.; cyanosis diminished and the measly eruption spread all over the body except the face. (2) The second patient had the cyanosis, diarrhœa, and faintings in an aggravated form so that collapse threatened. Strong Coffee and omission of the drug removed the symptoms. Motion. > Lying down. The concomitance of fainting with other affections may prove a keynote: \"Copious liquid stools at night with faintness.\"",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Angina pectoris; Apoplexy; Cyanosis; Fainting; Gastro-enteritis",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Took all his strength away. Trembling sensation all over and suddenly fell on the floor. The women were more severely affected than the men. Ten minutes after the dose felt a trembling sensation all over and suddenly fell on the floor; whilst lying there she perspired freely; face and head felt swollen, throbbed violently; felt sick. Faintness, nervousness. Went off in hysterics, could not hold a limb still.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Antidoted by: Coffee. Compare: Amyl. nit. Glon. By motion, Bry."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Thought she would have died. So much upset she feared she would never get over it.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Giddy, as if he would become insensible; lips, face, hands became blue, had to lie down half an hour before he dared move. Face and head seemed swollen throbbed violently till she thought they would burst. Head felt as if it would split in two. Terrible headache, on motion, esp. going up stairs.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Staring eyes and livid lips. Pupils widely dilated (cat).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Face lips, hands turned blue. Lips turned black and throbbed for hours. Deadly pale.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue protruded, dark colour (cat). Heavily coated tongue.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Bitter eructations. Feels very sick, but did not actually vomit. Nausea and eructations. Vomiting (two cases from 5-gr. doses). The medicine kept rising, so he could not keep it down. Stomach firmly contracted (cat). Intestines firmly contracted (cat). Liver of dark colour (cat).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Diarrhœa; copious stools with fainting; in the night.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Bladder firmly contracted (cat). Urine: dark yellow; copious urates; trace of albumen; methæmoglobin.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Heart came on beating very fast; he throbbed all over. L. ventrical contracted, r. dilated (cat). Blood very dark, almost like treacle (cat).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Rash like roseola syphilitica on chest, measly, spreading to abdomen and thighs, covered gradually all the body except the face.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Violent perspiration. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

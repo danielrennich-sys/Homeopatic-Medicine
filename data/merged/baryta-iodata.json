@@ -1,0 +1,42 @@
+{
+  "id": "baryta-iodata",
+  "names": {
+    "primary": "BARYTA IODATA",
+    "latin": "BARYTA IODATA",
+    "common": [
+      "Iodide of Baryta"
+    ],
+    "synonyms": [
+      "Baryta Iodata"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Second and third trituration"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">BARYTA IODATA Iodide of Baryta Acts on the lymphatic system, increased leucocytosis. Quinsy. Indurated glands, especially tonsils and breasts. Strumous ophthalmia, with tumefaction of cervical glands and stunted growth. Tumors.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Baryt. iod. has been used empirically, especially in cases of glandular enlargement and new growths, on indications suggested by its two elements. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Breast, cancer of; Cancer; Glands, enlargement of; Tumours",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

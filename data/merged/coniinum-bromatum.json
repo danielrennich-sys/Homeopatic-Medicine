@@ -1,0 +1,47 @@
+{
+  "id": "coniinum-bromatum",
+  "names": {
+    "primary": "Coniinum Bromatum",
+    "latin": "Coniinum Bromatum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T CONIINUM BROMATUM. Authority. Dr. Dujardin-Beaumetz, Bull. Gén. De Thérap., vol. xci, p. 8. Dr. S. took 15 centigrams of the crystallized Bromo-hydrate, representing 5 centigrams liquid Bromine and 8 centigrams Coniinum; the next day, at 7 A.M., took another dose. After two hours I experienced vertigo, difficulty in intellectual work, and a state of cerebral emptiness, symptoms which attained their maximum about noon. There followed great muscular feebleness, but the predominating symptoms were vertigo and emptiness in the head. There was a state of inactivity rather than a tendency to sleep. The trouble disappeared after coffee. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Head, empty sensation in; Inactivity; Mental apathy",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Conii. bro. has produced symptoms of mind and head. Coffee dissipated them.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Difficulty in intellectual work. State of inactivity, rather than a tendency to sleep.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Cerebral emptiness and vertigo. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

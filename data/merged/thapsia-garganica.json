@@ -1,0 +1,38 @@
+{
+  "id": "thapsia-garganica",
+  "names": {
+    "primary": "Thapsia garganica",
+    "latin": "Thapsia garganica",
+    "common": [
+      "Thapsia"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Southern Europe, from Spain to Greece, also Algeria.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The plant was well known to the Ancients who gave it its peculiar name, believing it to be obtained originally from the Isle of Thapsus. It is considered by the Algerians to be a specific against pain, every part of the plant being efficacious, though deadly poisonous to Camels. The root is a strong purgative. Thapsia Silphion is thought to be identical with Thapsia Garganica , is found on the mountains near the site of Ancient Cyrene, and is said to have yielded the gum resin to the Ancients as Laser Cyrenaicum or Asa Dulces , the Greek name being Silphion . Representations of it occur on Cyrene coins.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Theophrastus speaks of the purgative and emetic properties of the root, and modern French doctors recognize its value and include it in their Codex as Resin Thapsiae . An extract is made from the bark of the root with alcohol, the moisture is evaporated and made into a plaster with 7 per cent of the resin combined with yellow wax, turps and colophony. Great caution has to be exercised in unpacking the commercial bales of the roots because the dust or powder arising in the process causes itching and swelling of the face and hands. The French Thapsia plaster is a very drastic counter-irritant, creating much inflammation with an eczematous eruption (and intolerable itching) which leaves scars. Another variety, T. Villosa , also contains in its root a vesicant resin which acts more gently than T. Garganica .",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

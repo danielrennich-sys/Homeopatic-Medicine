@@ -1,0 +1,50 @@
+{
+  "id": "manihot-utilissima",
+  "names": {
+    "primary": "Manihot utilissima (POHL.), Jatropha Manihot (LINN.)",
+    "latin": "Manihot utilissima (POHL.), Jatropha Manihot (LINN.)",
+    "common": [
+      "Tapioca"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "preparation": [
+      {
+        "text": "The starch grains obtained from the Bitter and Sweet Cassara Root.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Brazil and tropical America.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Irregular hard white rough grains possessing little taste, partially soluble in cold water and affording a fine blue colour when iodine solution is added to its filtered solution. Many of the starch grains are swollen by the heat of drying. The root of the Sweet Cassara may be eaten with impunity; that of the Bitter, which is the more extensively cultivated, contains an acrid milky juice, which renders it highly poisonous if eaten in the recent state; this poison is entirely eliminated in the process of washing and drying for the production of Tapioca. The name 'Tapioca' is that used by the Brazilian Indians.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "A nutritious diet for invalids; is baked into bread by the natives of Central America; it is used to adulterate arrowroot.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Arum arrowroot derived from Arum Dracunculus ( see ARUM ). East India arrowroot, or Aircuma arrowroot, is derived from the tubers of Aircuma angustifolia and C. Leucophiza , belonging, like the true arrowroot, to the order Marantaceae, according to some botanists, and by others assigned to the same order as the ginger, viz. Zingiberaceae. See MANDIOCA .",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

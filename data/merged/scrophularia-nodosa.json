@@ -1,0 +1,102 @@
+{
+  "id": "scrophularia-nodosa",
+  "names": {
+    "primary": "SCROPHULARIA NODOSA",
+    "latin": "SCROPHULARIA NODOSA",
+    "common": [
+      "Knotted Figwort",
+      "Figwort, Knotted"
+    ],
+    "synonyms": [
+      "Scrophularia nodosa"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "head": [
+      {
+        "text": "Vertigo felt in vertex, greater when standing; drowsiness; pain from forehead to back of head. Eczema behind ear. Crusta lactea",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Distressing photophobia (Conium). Spots before eyes. Stitches in eyebrow. Sore eyeballs",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Inflammation about auricle. Deep ulcerated auricle. Eczema around ear",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Pain in liver on pressure. Colic below navel. Pain in sigmoid flexure and rectum. Painful, bleeding, protruding piles",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Violent dyspnœa, oppression of chest with trembling. Pain about bifurcation of trachea. Asthma in scrofulous patients",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Prickling itching, worse back of hand",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Great drowsiness; in morning and before and after meals with weariness",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "lying on right side. Compare: Lobel erinus; Ruta; Carcinosin; Conium; Asterias",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Tincture and first potency. Apply locally to cancerous glands also Semper viv"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">SCROPHULARIA NODOSA Knotted Figwort A powerful medicine whenever enlarged glands are present. Hodgkin's disease. A valuable skin remedy. Has a specific affinity for the breast; very useful in the dissipation of breast tumors. Eczema of the ear. Pruritus vaginæ. Lupoid ulceration. Scrofulous swellings (Cistus). Painful hæmorrhoids. Tubercular testis. Epithelioma. Nodosities in the breasts (Scirrhinum). Pain in all flexor muscles.",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "preparation": [
+      {
+        "text": "Herb. The Knotted Figwort, common throughout England, is similar in general habit to the Water Figwort, but differs both in the form of its root and in having more acutely heartshaped leaves. The stem, too, is without the projections or wings at its angles, and the lobes of the calyx have only a very narrow membraneous margin. The plant, also, though found in rather moist, bushy places, either in cultivated or waste ground, and in damp woods, is not distinctly an aquatic, like the Water Figwort. The flowers, which resemble in appearance and character the Water Figwort, are in bloom during July and are specially visited by wasps. During the thirteen months' siege of Rochelle by the army of Richelieu in 1628, the tuberous roots of this Figwort yielded support to the garrison for a considerable period, from which circumstance the French still call it Herbe du siège . The taste and smell of the tubers are unpleasant, and they would never be resorted to for food except in times of famine.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "It has been called the Scrofula Plant, on account of its value in all cutaneous eruptions, abscesses, wounds, etc., the name of the genus being derived from that of the disease for which it was formerly considered a specific. It has diuretic and anodyne properties. The whole herb is used, collected in June and July and dried. A decoction is made of it for external use and the fresh leaves are also made into an ointment. Of the different kinds of Figwort used, this species is most employed, principally as a fomentation for sprains, swellings, inflammations, wounds and diseased parts, especially in scrofulous sores and gangrene. The leaves simply bruised are employed by the peasantry in some districts as an application to burns and swellings. The Welsh so highly esteem the plant that they call it Deilen Ddu ('good leaf'). In Ireland, it is known as Rose Noble and as Kernelwort. Gerard tells us, referring to what he evidently considered an exaggerated estimate of its worth: 'Divers do rashly teach that if it be hanged about the necke or else carried about one, it keepeth a man in health.' The herb was said to be curative of hydrophobia, by taking 'every morning while fasting a slice of bread and butter on which the powdered knots of the roots had been spread and eating it up with two tumblers of fresh spring water. Then let the patient be well clad in woollen garments and made to take a long, fast walk until in a profuse perspiration, the treatment being continued for seven days.' A decoction of the herb has been successfully used as a cure for the scab in swine. Cattle, as a rule, will refuse to eat the leaves, as they are bitter, acrid and nauseating, producing purging and vomiting if chewed.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "BALM-LEAVED FIGWORT ( Scrophularia Scorodoma ), found only in Cornwall, and at Tralee, in Ireland; it is distinguished by its downy, wrinkled leaves. YELLOW FIGWORT ( S. vernalis ) is a plant of local occurrence and is well distinguished by its remarkably bright green foliage and yellow flowers. It appears early in spring and is the only British species which can be called ornamental. Gerard speaks of the 'yellow-flowered Figwort' as growing in his time 'in the moist medowes as you go from London to Hornsey.' He also speaks of the 'rare whiteflowered Betony.' [ Top ] Purchase from Richters Chinese Figwort (Scrophularia buergeriana) Seeds",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "sorbus",
+  "names": {
+    "primary": "Sorbus",
+    "latin": "Sorbus",
+    "common": [
+      "Mountain Ash"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "The fruit of Pyrus aucuparia, Gaertner (Sorbus aucuparia, Linné; Mespilus aucuparia, Scopoli).Nat. Ord.—Rosaceae.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—This tree, which is of medium size, bears odd-pinnate leaves composed of obtuse leaflets, which are pubescent or downy upon their under surface. The fruit, or part employed, is bright-red, globular, berry-like, and of small size. The remains of the calyx-limb cap the fruit, which is acid to the taste, and contains 3 or 4 two-seeded cells.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History and Chemical Composition.—The tree yielding mountain ash berries is indigenous to Europe and the western portions of Asia. It is known as the Rowan tree, and is sometimes cultivated in America for its landscape effects. The ripe fruits contain much malic acid, with citric acid. The unripe fruits contain tartaric acid (Liebig). In addition, the following principles were found: (1) The sugar sorbin (sorbinose, C6H12O6), discovered by Pelouze (1852) in fermented juice of the berries; it is isomeric with dextrose, as sweet as cane-sugar, non-fermentable, crystallizing in rhombic prisms, laevo-rotatory, and capable of reducing Fehling's solution; remains unaffected by boiling with diluted acids; (2) sorbite (C6H14O6) isomeric with mannite and dulcite, insoluble in water, soluble in boiling alcohol, optically inactive, not reducing Fehling's solution; discovered by Boussingault (1872), (3) sorbic acid (C6H8O2) is an unsaturated crystallizable acid, volatile with the vapors of water; discovered by A. W. Hoffmann (1859) in the juice of the unripe berries. A peculiar tannin (sorbitannic acid of Vincent and Delachanal) is also present in the fruits. Wicke (1852) found bitter amygdalin in the bark and the buds.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—The ripe fruit of sorbus, when infused with water, furnishes an acidulous and astringent gargle for acute diseases of the pharyngeal vault and tonsils, with excessive secretion. The bark and the unripe fruit are employed in infusion, or decoction in scurvy and diarrhoea, and topically to relaxations of the anal or vaginal walls and throat, all with profuse secretion. The very astringent qualities of sorbus render it a good agent for poultices when one of such a character is desired.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Species.—Pyrus Americana, De Candolle (Sorbus Americana, Marshall), and the Pyrus sambucifolia, Chamisso et Schlechtendal (Sorbus sambucifolia, Roemer), are two indigenous species resembling the European tree but bearing smaller fruits. Both are known as American mountain ash.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Crataegus.—The bark, fruit, and leaves of this genus of plants are sometimes employed as astringents and tonics. (See also Crataegus Oxyacantha.)",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Pyrus coronaria, Linné, Crab apple, Pyrus arbutifolia, Linné filius, Chokeberry. Both of these species have the properties of sorbus.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "kings-american-1898"
+    ]
+  }
+}

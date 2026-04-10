@@ -1,0 +1,41 @@
+{
+  "id": "alnus-rubra",
+  "names": {
+    "primary": "ALNUS RUBRA",
+    "latin": "ALNUS RUBRA",
+    "common": [
+      "Red Alder (ALNUS)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "female": [
+      {
+        "text": "Leucorrhœa, with erosions of cervix, bleeding easily. Amenorrhœa, with burning pains from back to pubis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Chronic herpes. Enlarged sub-maxillary glands. Eczema, prurigo. Purpura hæmorrhagica. Poison-oak. Use locally",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture to third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ALNUS RUBRA Red Alder (ALNUS) Has some reputation as a remedy for skin affections, glandular enlargements, and indigestion from imperfect secretion of gastric juice. It stimulates nutrition, and thus acts favorably upon strumous disorders, enlarged glands, etc. Ulcerated mucous membranes of mouth and throat. Fingers covered by crust caused by pustules, disagreeable odor. Indigestion from imperfect secretion of gastric juice.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "canchalagua",
+  "names": {
+    "primary": "Canchalagua",
+    "latin": "Canchalagua",
+    "common": [
+      "Erythraea venusta-Centaury"
+    ],
+    "synonyms": [
+      "CANCHALAGUA"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T CANCHALAGUA. Erythræa chironioides, Griesb. [This plant is figured in the U. S. Report on the Mexican Boundary, Botany, Tab. XLII. The same name is applied in South America to Erythræa Chilensis, but the plant above mentioned was doubtless gathered by our authority; as it is in common use in California as a domestic remedy, and popularly known as \"Canchalagua\".] Nat. order , Gentianaceæ. Common name (Californian), Canchalagua. Preparation , Tincture of the whole plant when in flower. Authority. Dr. Richter, proving with the tincture, N. Am. J. of Hom., 3, 532. HEAD. ► Head feels congested. ► Pressive pains in forehead. ► Fulness, tightness of scalp; it feels as if drawn together by india-rubber. EYE. ► Burning in the eyes, first in the left, and then in the right. EAR. ► Slight pain in the ears. ► Piercing or stitches in the ears. ► Increased buzzing and roaring. MOUTH. ► Spitting of white mucus, with trembling and nervousness. STOMACH. ► Increase of appetite. [10.] ► Ructus. ► Regurgitations. ► Waterbrash. ABDOMEN. ► Flatus. ► Slight pain, relieved by pressure. STOOL. ► Several loose stools a day. ► *Constipation . ► Hard, knotty morning stool. CHEST. ► Alleviating a catarrh, produced by influenza. GENERALITIES. ► That kind of pain in head and fingers which is concomitant with the attacks of intermittent fever. SLEEP AND DREAMS. [20.] ► Sleeplessness (from 1st trit.). FEVER. ► Chills repeatedly, down the spine, and all over, especially in bed, at night. ► Heat in whole body; I could bear, after the proving, the cool trade-wind, usually setting in, in San Francisco, in the afternoon, better than before. CONDITIONS. ► Aggravation. ► ( Morning ), Hard stool. ► ( Night ), In bed, chills. ► Amelioration. ► ( Pressure ), Pain in abdomen. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Influenza; Intermittents",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "That kind of pain in head and fingers which is concomitant with the attacks of intermittent fever.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Congested. Scalp feels tight; head feels as if bound; burning in eyes; buzzing in ears",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Head feels congested. Pressive pains in forehead. Scalp feels tight, as if drawn together with indiarubber.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chill all over; worse in bed at night. Sensitive to cold trade-winds on Pacific Coast. General sore and bruised feeling; nausea and retching",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Chills repeatedly, down the spine and all over, esp. in bed at night. Heat in whole body; I could bear, after the proving, the cool trade wind, usually setting in, in San Francisco, in the afternoon, better than before. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Wrinkled like a washer-woman's. Scalp feels tight, as if drawn together by India-rubber",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture, in drop doses. Must be made from the fresh plant. Its medicinal properties are lost in the dry"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CANCHALAGUA Erythraea venusta-Centaury Used extensively as a fever remedy and bitter tonic (Gentiana), antimalarial and antiseptic. Of use in severe type of intermittent fever in hot countries; also, in influenza. Sore, as if bruised all over. Sensation of drops falling from and upon different spots.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "This is a popular Californian remedy. It is indicated in intermittents of most severe type of hot countries; general sore, bruised feeling, nausea and retching, the skin becomes wrinkled like a washerwoman's. It was proved by Dr. Richter, who experienced the following among other symptoms: Head feels congested. Scalp tight; feels as if drawn together by indiarubber. Stitches, pain, buzzing and roaring in ears. Constipation, hard, knotty stools. Chills repeatedly down back in bed, at night. Sleeplessness. After the proving, a cold wind could be borne better than before.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: The Gentians, Chi., Ipec."
+      ]
+    },
+    "eyes": [
+      {
+        "text": "Burning in eyes, first l. then r.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Piercing or stitches in ears. Increased buzzing and roaring.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Spitting of white mucus, with trembling and nervousness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Increased appetite. Eructations. Regurgitations. Water-brash. Flatus. Slight pain > by pressure.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Several loose stools a day. Constipation. Hard, knotty, morning stool.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "It alleviated a catarrh produced by influenza.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleeplessness (from 1st trit.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

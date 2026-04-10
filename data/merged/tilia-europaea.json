@@ -1,0 +1,74 @@
+{
+  "id": "tilia-europaea",
+  "names": {
+    "primary": "TILIA EUROPAEA",
+    "latin": "TILIA EUROPAEA",
+    "common": [
+      "Linden (TILIA EUROPA)"
+    ],
+    "synonyms": [
+      "Tilia europæa"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Neuralgia (first right, then left side), with veil before eyes. Confusion, with dimness of vision. Much sneezing, with fluent coryza. Bleeding from nose",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Sensation as of gauze before eyes (Calc; Caust; Nat m). Binocular vision imperfect",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Intense sore feeling about uterus; bearing-down, with hot sweat, but without relief. Much slimy leucorrhœa when walking (Bov; Carb an; Graph). Soreness and redness of external genitals (Thuj; Sulph). Pelvic inflammation, tympanites, abdominal tenderness and hot sweat which does not relieve",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Urticaria. Violent itching, and burning like fire after scratching. Eruption of small, red itching pimples. Sweat warm and profuse soon after falling asleep. Sweat increases as rheumatic pains increase",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "cool room, motion",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "in afternoon and evening; in warm room, heat of bed",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Tincture, to sixth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">TILIA EUROPAEA Linden (TILIA EUROPA) Of value in muscular weakness of the eye; hæmorrhage o thin, pale blood. Puerperal metritis. Diseases of the antrum (Kali hyd; Chelid).",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Tilia europæa. Mind and Disposition. Melancholy, disposed to weep. Head. Vertigo, with staggering, and like gauze before the eyes. Stinging pain in the forehead, with heat in the head and face. Ears. Stinging in the ears. Nose. [5] Bleeding from the nose ; the blood is thin and pale, but coagulates quickly. Mouth and Throat. Shifting pain in all the teeth, aggravated by cold water. Burning in the throat. Sensation of swelling of the palate, with desire to swallow, and hoarse voice. Stomach and Abdomen. Putrid eructations. [10] Bloated abdomen ; pain as from incarcerated flatulence ; repeated noisy discharges of it, with much relief. Abdomen painful when touched, especially around the navel. Sensitiveness, soreness, and sensation of subcutaneous ulceration in the upper part of the abdomen. Stitches suddenly appearing in the abdomen, extending into the pelvis, and impeding breathing. Sexual Organs. Women . Frequent pressing on the uterus, as if everything would fall out of the pelvis. [15] Spasmodic labor-like drawing from the abdomen down the small of the back, as if the catamenia, would set in. Great sensitiveness and soreness of the whole uterus, as after parturition. Redness, soreness, and burning of the external parts. Menstruation too late and very scanty (blood pale). Sleep. Sleeplessness, with restlessness ; the bed seems to be too hard to him. Fever. [20] Pulse full, hard, and quick. Chilliness in the evening. Heat all over, but most in the head and cheeks. Night-sweat. Conditions. Especially suitable for women after parturition, and for children during dentition. [25] The left side of the body is most affected. Aggravation ; in the afternoon and evening ; in the warm room ; in the heat of the bed (skin symptoms) ; during motion (the rheumatic symptoms). Amelioration ; in the cool room, and from motion. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "lippe-textbook-mm-1866"
+    ]
+  }
+}

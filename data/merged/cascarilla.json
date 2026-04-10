@@ -1,0 +1,254 @@
+{
+  "id": "cascarilla",
+  "names": {
+    "primary": "Cascarilla",
+    "latin": "Cascarilla",
+    "common": [
+      "Sweet Bark",
+      "Cascarilla"
+    ],
+    "synonyms": [
+      "CASCARILLA",
+      "Cascarilla (U. S. P.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T CASCARILLA. Croton Eleuteria, Bennett. Nat. order , Euphorbiaceæ. Common name , (Spanish) Cascarilla. Preparation , Tincture of the bark. Authority. Stapf, Archiv. f. Hom., 15, 1, 184. MIND. ► Disinclined to think, [1] . HEAD. ► Confusion of the head, [1] . ► Heat and confusion of the head, [1] . ► Dull drawing pain in the right temporal region, lasting two days, [1] . MOUTH. ► Bitter, rough taste, when smoking, [1] . THROAT. ► A sensation of deep swelling deep down in the throat, when not swallowing, and especially when swallowing, as if he has swallowed the stone of a fruit, [1] . STOMACH. ► Hunger at 3 P.M., though he had eaten a few hours previously, [1] . ► Eructations with bitter taste, [1] . ► Frequent empty eructations (after one hour), [1] . [10.] ► Slight empty eructations at times; at times ineffectual attempts at eructations, [1] . ► Burning in the pit of the stomach, [1] . ► Severe pressure in the stomach, [1] . ► Slight tensive pressure in the epigastric region, as if one had eaten too much; every step caused a painful shattering in the epigastric region, which did not feel tense and was not hard (worse when walking than when sitting), [1] . ABDOMEN. ► Troublesome sensation of pressure and tension in the hypochondria, almost like incarcerated flatus, though associated with a sensation of hardness, [1] . ► Movings about the abdomen like flatulence, with slight painful sensation, without passage of flatus (after one hour and a quarter), [1] . ► Unusual griping in the abdomen before the usual morning stool, followed by the normal stool (after one hour), [1] . ► Pressure and rumbling in the abdomen; passage of flatus (after two hours), [1] . STOOL. ► The usual evening stool omitted, and the customary morning stool was passed with great exertion, consisting at first of large brownish lumps, mingled here and there with masses of mucus, followed by a naturally formed and colored stool, which was here and there mixed with much bright blood , [1] . URINARY ORGANS. ► Momentary painful sensation in the orifice of the urethra after urinating, as from a soreness, as if a few drops would still pass, which caused a burning, [1] . RESPIRATORY ORGANS. [20.] ► Short dry cough, from tickling in the trachea, [1] . CHEST. ► A stitch extends up towards the left breast, as if caused by incarcerated flatulence, [1] . EXTREMITIES IN GENERAL. ► Weariness and indolence of all the limbs, [1] . ► A pressive-tensive pain in the right shoulder-joint, during rest and motion, [1] . SLEEP AND DREAMS. ► Sleep, with semiconsciousness; he thought he was awake, though he still slept; he lay in various places during sleep, dreamed much, though without anxiety, and remembered distinctly his dreams after waking in the morning, [1] . FEVER. ► Anxious heat of the whole body and a slight sweat, followed by sleepiness (after half an hour), [1] . ► Slight sweat on the back, when walking in the open air, with slight chilliness, which immediately disappeared on standing still, but returned after walking again, [1] . CONDITIONS. ► Aggravation. ► ( When smoking ), Bitter, etc., taste in mouth. ► ( Walking ), Pressure in epigastric region. ► Amelioration. ► ( On standing still ), Chilliness disappears. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Anæmia; Anus, bleeding from; Constipation; Cough; Diarrhœa; Dropsy; Hæmoptysis; Hæmorrhages; Intermittents",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Hæmoptysis. Stitch upwards on l. side.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Great fatigue and lassitude, with weariness in the limbs. The whole day greatest degree of lassitude, had to lie down, but was not refreshed. Left : stitch in side. Right : drawing in temporal region ; pain in shoulder-joint. As of swelling in throat. Stitch : on left side. Drawing : in temporal region. Pain : in joints. Burning : of ears ; in orifice of urethra. Burning pressure : in pit of stomach. Pressive tensive pain : in right shoulder joint. Tensive pressure : in epigastric region ; in hypochondria. Pressure : in abdomen. Gnawing pain : high up in rectum. Griping : in abdomen, preceding stool. Soreness : in orifice of urethra. Heat : of head. Formicating pain : in calves. Tickling : in trachea. Itching : about eyes ; of skin. Hemorrhages. Anemia ; dropsy. TOUCH. PASSIVE MOTION. INJURIES. [45] [Casc.]. Concussion of step is felt in region of stomach.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Hunger after meals. Desire for hot drinks. Nausea and vomiting. Pain in stomach as from a shock. Pressing colic",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Heat with thirst and desire for hot drinks. Aversion to smell of tobacco smoke. Abortive risings. Pressure on the stomach, as if from fulness. Pain in the stomach as from concussion. Heat in the stomach and burning pain in the epigastrium. Tension and pressure on the hypochondria. Movement in the abdomen as if hot water were undulating there. Flatulent, aching colic.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Casc.]. No appetite, especially early in the morning. Thirst for hot tea during heat. θ Intermittent. Aversion to smell of tobacco smoke. Eructations : with bitter taste ; empty ; ineffectual. Burning pressure in pit of stomach. Slight tensive pressure in epigastric region, as after eating too much ; the concussion of every step taken is painfully felt in region of stomach. Uncomfortable pressure and tension in hypochondria, almost like incarcerated flatus, though associated with a feeling of hardness. Pressure and rumbling in abdomen. Griping preceding morning stool. Boils in the inguinal region.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Constipation; stools hard, covered with mucus (Graph). Bright blood with stool. Diarrhœa alternating with hard, lumpy stool, with backache and lassitude, preceded by griping. Gnawing pain high up in rectum",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Evacuations difficult, hard, broken, and covered with mucus, preceded by pinchings in the abdomen. Discharge of clear blood from the rectum, with the evacuations, during and after hard, brown stool in large lumps; and without stool. Diarrhœa alternating with hard, lumpy stool.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Occasional diarrhœa, becoming gradually worse and more frequent, with backache and lassitude. Constant slight urging, often with pain high up in rectum, gnawing in character. Diarrhœa alternating with hard, lumpy stools. Constipation ; stool hard, in pieces, covered with mucus. Passes bright blood with or without stool, in large quantities, causing weakness.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "dosing": {
+      "notes": "First to third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CASCARILLA Sweet Bark Acts on the digestive tract; constipation. Aversion to smell of tobacco. Inclination to vomit very marked.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Cascarilla has a family resemblance to the other Euphorbians. It acts prominently on the digestive tract. Its leading symptoms are: Sensation of swelling deep down in throat. Accumulation of mucus in throat. Hunger after meals and feeling of emptiness. Aversion to smell of tobacco smoke. The concussion of every step is felt painfully in stomach. Griping preceding morning stool. The abdominal symptoms are > by warm drinks. Movings about in abdomen as if hot water undulating there. Boils in inguinal region. Diarrhœa with backache and lassitude. Lassitude and muscular weakness are marked throughout. Constant slight urging with gnawing pain high up in rectum. Constipation, stools hard, in pieces, covered with mucus. Passes bright blood with or without stool, in large quantities, causing weakness. Short, dry cough from tickling in trachea. Hæmoptysis. Stitch upward in l. side of chest. Backache and weakness. Inclination to lie down. Sleep with clear consciousness. Heat with thirst for warm drinks (intermittents).",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Cascarilla. Ears. Burning heat of the inner and outer ear. Stool and Anus. Constipation ; stool hard ; in pieces, covered with mucus. Frequent and excessive discharges of light-colored blood from the rectum, during and after hard, brown stool in large lumps ; and without stool. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Crot. t. (> from warm drinks); Chi. (effects of loss of blood; intermittents); Graph. (mucus with stools).",
+        "Compare : Cinchona (effects of loss of blood intermittents) ; Graphit. (mucus mingled with stools)",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "ears": [
+      {
+        "text": "Buzzing in the ears. Internal and external heat of the ears.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Burning heat of inner and outer ear.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Roughness of the tongue. Bitter taste in the mouth and of tobacco smoke, for which a repugnance is felt. Sore throat on swallowing, as if from an internal swelling.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Bitter, rough taste, when smoking. Gangrenous aphthæ of children. Sensation of swelling deep down in throat. Accumulation of mucus in throat.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "After the emission of urine, pain resembling excoriation in the glans.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Soreness and burning in orifice of urethra after urinating. Involuntary micturition.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "Backache and weakness; muscles pained violently. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Backache and weakness, inclination to lie down ; a distaste for business. Backache, muscles of both sides pained violently.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Disinclination to think.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "head": [
+      {
+        "text": "Heat and confusion of head. Dull drawing pain in right temporal region.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Itching about eyes.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "face": [
+      {
+        "text": "Faceache.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "male": [
+      {
+        "text": "Spermatorrhœa.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Casc.]. Tickling in trachea causing short dry cough. Short dry cough, from tickling in trachea. Hæmoptysis.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Stitch upward on left side.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Pressive tensive pain in right shoulder joint, during rest and motion. Formicating pain in calves. Pain in joints.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "REST. POSITION. MOTION. [35] [Casc.]. Walking : in open air, sweat on back. During rest and motion : pains in shoulder joint. In open air : sweat on back, while walking.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleep with clear consciousness. Horrible dreams, wakes up frightened.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Anxious heat of whole body and slight sweat, followed by drowsiness. Sweat on back when walking in open air, with chilliness, > when standing still. Heat, with thirst from warm drinks. θ Intermittent.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching of skin.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Preparation: Tinctura Cascarillae.—Tincture of CascarillaRelated entry: Oleum Tiglii (U. S. P.)—Croton Oil",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"The bark of Croton Eluteria, Bennett \"(U. S. P.) (Clutia Eluteria, Linné).Nat. Ord.—Euphorbiaceae.COMMON NAMES AND SYNONYMS: Sweet-wood tree, Cascarilla-bark tree, Eleuthera-bark tree; Cascarillae cortex (Br.), Cortex eluteriae, Cortex thuris.ILLUSTRATION: Bentley and Trimen, Med. Plants, 238.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—Croton Eluteria is a small tree, said to rise to the height of 20 feet, and branching thickly at the top. The branches and twigs are angular, rather compressed, striated, downy, and ferruginous. The leaves are petiolated, alternate, ovate, with a short, but obtuse point, entire, slightly nerved, bright-green above, with a few scattered leprous dots, silvery, and very downy beneath. The petioles are short and scurfy. The racemes are axillary and terminal, branched or compound; the branches short, divaricating, and covered with numerous, closely-parted, subsessile, whitish, monoecious flowers. The sterile flowers are above and smallest; the fertile ones below, few, and on short stalks. The stamens, 10 to 12. The capsule is roundish, minutely warted, scurfy, and not much larger than a pea, with 3 furrows, 3 cells, and 6 valves (L.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History.—The tree from which cascarilla is obtained is a native of the West Indies, and is found plentifully in the island of Eleutheria, from which it derives its name. It was, for a time, supposed to have been derived from the Croton Cascarilla, a small tree growing in the Bahamas, Hayti, Peru, and Paraguay, but this is now ascertained by botanists to have been an error. Cascarilla bark is imported from the Bahama Islands, Jamaica, etc. At one time it was known as China nova, on account of the resemblance of the external portion of the bark to that of cinchona, the latter having been adulterated and even substituted with cascarilla bark. The name China nova was subsequently applied to the bark of Beuna magnifolia, Weddell, a South American tree, noted for the magnificence of its foliage and the fragrance of its flowers (Pharmacographia). Our Pharmacopoeial name—Cascarilla—is scarcely known in the Bahama Isles, the drug being there known as Eleutheria, or Sweet-wood bark. The name Cascarilla was first used in connection with cinchona bark, to which, by priority, it should apply, but it is now applied wholly to the sweet-wood bark. It signifies (Spanish) \"little bark\" (Ibid).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Description.—Cascarilla bark occurs \"in quills, or curved pieces, about 2 Mm. (1/12 inch) thick, having a grayish, somewhat fissured, easily detached, corky layer, more or less coated with a white lichen, the uncoated surface being dull brown, and the inner surface smooth. It breaks with a short fracture, having a resinous and radially striate appearance. When burned, it emits a strong, aromatic, somewhat musk-like odor; its taste is warm and very bitter\"—(U. S. P.). On account of its agreeable odor when burned, resembling that of musk, vanilla, or amber when heated, it is often added in small portions to tobacco, by smokers, to render the fumes more fragrant, but it produces unpleasant symptoms if used too freely. Water or spirit readily extracts its active principles, but diluted alcohol is the preferable menstruum.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chemical Composition.—Trommsdorff found the bark to contain volatile oil, bitter resin, gum, and bitter matter with a trace of chloride of potassium, and woody fiber. Messner found oxide of copper in its ashes. Brandes detected a peculiar substance, cascarilline, which he took to be an alkaloid. Duval has found a neutral principle which he calls cascarillin, a disagreeable, fatty substance, an acid very much resembling tannic acid, etc. Cascarilla resembles salicin in many respects (Amer. Jour. Pharm., Vol. XVII, 1845). In 1882, Alessandri, by abstracting the bark with a 2 or 3 per cent solution of oxalic acid, obtained a substance similar in behavior to Duval's cascarillin, with the difference, however, that Alessandri's substance was basic, evolving ammonia by warming with caustic potash, and forming salts with acids. R. A. Cripps, in 1886, could not obtain such a body. C. and E. Mylius, in 1873, confirmed Duval's observation as to the absence of nitrogen in cascarilline, for which they establish the formula C12H18O4. Naylor and Littlefield obtained a purified cascarillin, having a melting point of 203.5° C. (398.3° F.), and the formula C16H24O5. It yields a distillate related to anthracene (C14H10), when heated with zinc dust (Amer. Jour. Pharm., 1896). Conrady found vanillin in cascarilla bark (1895).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Tonic and stimulant. Used in dyspepsia, flatulency, chronic diarrhoea, in debility attending chronic diseases, convalescence from acute diseases, and to arrest vomiting. When cinchona produces nausea, the addition of cascarilla will prevent it. Dose of the powder, from 20 to 40 grains; of the tincture, from 1 to 4 fluid drachms; of the infusion, from 1 to 4 fluid ounces. On account of its musky odor, it is a common ingredient of fumigating pastiles.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Species.—Croton pseudo-china, Schlechtendal (see Aspidosperma)",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Croton Malambo, Karsten, Malambo bark. Venezuela. Bark resembles cascarilla in taste and odor. It is quilled, brown externally, and transversely grooved, grayish-brown internally, and finely marked with striae. The cork-layer is nearly white, soft, riot thick, and fissured lengthwise. It has an abrupt splintery fracture. Used by the natives in dysentery, atonic dyspepsia, worms, spasms, yellow and intermittent fevers, asthma and trismus nascentium.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "hering-guiding-1879",
+      "kings-american-1898",
+      "lippe-textbook-mm-1866"
+    ]
+  }
+}

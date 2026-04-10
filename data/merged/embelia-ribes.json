@@ -1,0 +1,50 @@
+{
+  "id": "embelia-ribes",
+  "names": {
+    "primary": "Embelia Ribes and robusta (BURM.)",
+    "latin": "Embelia Ribes and robusta (BURM.)",
+    "common": [
+      "Embelia"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "India, Indian Archipelago, Tropical Asia, Southern China, East Africa.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "A straggling shrub, almost a climber. The plant possesses petiolate leaves and has small, whity-pink flowers in racemes at ends of the branches. The berries (the drug) are minute, round, spherical fruits (not unlike peppercorns) and vary in colour from red to black - those of E. Ribes have ovate, lanceolate smooth leaves and warty fruits, and are often sold to traders to adulterate pepper, which they so much resemble as to render it almost impossible to distinguish them by sight, or by any other means, as they possess a considerable degree of the spice flavour. The fruits of E. robusta , however, are longitudinally finely striated. Both fruit have often a short stalk and calyx fivepartite, removing this, a small hole is found in the fruit. The reddish seed, enclosed in a brittle pericarp, is covered by a thin membrane; when this is taken off, the seed is seen covered with light spots which disappear after immersion in water. The seed is horny, depressed at the base and has a ruminated endosperm. Taste, aromatic and astringent, with a slight pungency, owing to a resinous substance present in them.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Embelic acid, found in golden-yellow lamellar crystals (this acid is soluble in chloroform, alcohol and benzene, but not in water) and a quinone, Embelia.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Anthelmintic, specially used to expel tapeworm, which are passed dead. In India and the Eastern Colonies the drug is given in the early morning, fasting, mixed with milk, and followed by a purgative. The dose is 1 to 4 drachms. The seeds are also made into an infusion, or ground to powder and taken in water or syrup, and being almost tasteless are not an unpleasant remedy. Ammonium embelate is an effective taenicide for children: dose, 3 grains; adult dose, 6 or more grains. The berries of E. robusta are considered cathartic.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "E. Basaal , an Indian variety, with larger elliptical leaves, more or less downy, is useful in various ways. The young leaves, in combination with ginger, are used as a gargle for sore throats, the dried bark of the root as a remedy for toothache, and the ground berries, mixed with butter or lard, made into an ointment and laid on the forehead for pleuritis. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

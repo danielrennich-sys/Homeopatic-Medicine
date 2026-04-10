@@ -1,0 +1,35 @@
+{
+  "id": "epihysterinum",
+  "names": {
+    "primary": "Epihysterinum",
+    "latin": "Epihysterinum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "This is one of Dr. Burnett's nosodes, used by him in cases of hæmorrhage and obtained, as I conclude, from a case of hæmorrhage in a patient suffering from fibrous tumour, possibly with malignant elements. At any rate, I have found it of great value in controlling uterine hæmorrhage, whether connected with fibrous growth or not. I have used it in the 30th upwards, giving one or two doses weekly.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Fibroma; Menorrhagia; Metrorrhagia",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: The cancer nosodes; in fibrous tumours and uterine hæmorrhages, Thlaspi b. p., Fraxin., Hydrastis and its alkaloids. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

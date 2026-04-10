@@ -1,0 +1,438 @@
+{
+  "id": "calcarea-fluorica",
+  "names": {
+    "primary": "Cell Salt #1 - Calcarea Fluorica",
+    "latin": "Calcarea Fluorica",
+    "common": [
+      "Fluoride of Lime (FLUOR SPAR)",
+      "Calc Fluor",
+      "Calcium Fluoride",
+      "Fluoride of Lime"
+    ],
+    "synonyms": [
+      "Calcarea Fluorica",
+      "Calcarea Fluorata",
+      "CALCAREA FLUOR",
+      "Cell Salt #1",
+      "Schuessler Salt #1",
+      "Tissue Salt #1"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Great depression; groundless fears of financial ruin",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "All day an unusual tendency to look on the dark side of things ; with much depression of spirits. Depression of spirits and disposition to set a higher value on money than natural to him (avarice ?). Feeling of anxiety about money matters ; thought he would come to want or would soon be \"running astern\" financially (entirely without occasion). Indecision.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Indecision. Anxiety about money matters; fear of want.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Creaking noise in head. Blood-tumors of new-born infants. Hard excrescences on the scalp. Ulcers on the scalp with callous, hard edges",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Dull headache over whole head, with a faintish nausea at stomach, all afternoon, > in evenings. On left side of head (corresponding to os temporale) a flat swelling about a quarter of an inch high and one and a half inches in diameter ; skin of unaltered color ; no pain in it ; by gently pressing, a fluid could be felt ; pressing hard, a rough, jagged, hard mass, growing on bone. Enlargement or swelling on parietal bones of newborn children, with an apparent osseous wall. Cephalematoma.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Exostosis. Cephalhæmatoma. A sort of creaking, straining, and drawing, like the noise of a corn-stalk fiddle, greatly interfering with sleep.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Flickering and sparks before the eyes, spots on the cornea; conjunctivitis; cataract. Strumous phlyctemular keratitis. Subcutaneous palpebral cysts",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Flickering and sparks before eyes, mostly left. After writing some time was no longer able to see distinctly, because of a blur or mist before eyes, with some aching in eyeball ; > when closing eyes and pressing tightly upon them. Spots on cornea ; opacities. Conjunctivitis.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Flickering and sparks before eyes. Spots on cornea. Cataract. Eye balls ache; > closing eyes and pressing tightly.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Calcareous deposits on tympanum; sclerosis of ossicula and petrous portion of temporal bone, with deafness, ringing and roaring. Chronic suppuration of middle ear",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Calcareous deposits on the tympani.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Calcareous deposits on tympanic membrane.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Cold in the head; stuffy cold; dry coryza; ozæna. Copious, offensive, thick, greenish, lumpy, yellow nasal catarrh. Atrophic rhinitis, especially if crusts are prominent",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Blowing of much mucus from nose, with ineffectual desire to sneeze. Ozæna. Copious, offensive, thick, greenish-yellow nasal catarrh. θ Osseous growths.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Copious, offensive, thick, greenish-yellow nasal catarrh; with bony growths. Post-nasal catarrh.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Hard swelling on the cheek, with pain or toothache, hard swelling on jaw-bone",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "A hard swelling on jaw bone. Swelling of size of a pigeon egg under lower jaw, very hard and jagged. A \"cold sore\" commences at left corner of mouth ; after two days it is quite extensive, but no cold with it ; never had a cold sore before. Cold sores rather small ; hard herpetic sores on lips, from colds, not diffused like Natr. mur.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Hard swelling on jaw; under jaw. Cold sores, rather small, hard, on lips. 7.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Gum-boil, with hard swelling on the jaw. Cracked appearance of the tongue, with or without pain. Induration of the tongue, hardening after inflammation. Unnatural looseness of the teeth, with or without pain; teeth become loose in their sockets. Toothache, with pain if any food touches the tooth",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Follicular sore throat; plugs of mucus are continually forming in the crypts of the tonsils. Pain and burning in throat; better by warm drinks; worse, cold drinks. Hypertrophy of Luschka's tonsil. Relaxed uvula, tickling referred to larynx",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Deficient enamel of teeth. Desire to swallow from a tickling in larynx as from a small foreign body, but without relief. Hawking of mucus. See 16. Prickling, burning, suffocative sensation in throat ; < at night and from cold drinks, > from warm drinks.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Deficient enamel of teeth. Great dryness of mouth and throat, and dryness and harshness of skin. Prickling, burning, suffocative sensation in throat; at night and from cold drinks; > from warm drinks. Increased mucus in posterior nares.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Vomiting of infants. Vomiting of undigested food. Hiccough (Cajup; Sulph ac). Flatulency. Weakness and daintiness of appetite, nausea and distress after eating in young children who are overtaxed by studies. Acute indigestion from fatigue and brain-fag; much flatulence",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Soon after dinner hacking cough. Hawking of mucus in morning caused an attack of hiccough, which was long and weakening, and recurred frequently during day. Faintish nausea at stomach, with headache. See 3. About midnight, or soon after, was awakened by a sharp lancinating pain in right hypochondrium under eleventh rib, occurring in paroxysms ; < when lying on painful side ; so much so as to cause a feeling of bursting outward ; > when lying on painless side and when doubling up ; accompanied by restlessness. At 8 A. M., frequent attacks of lancinating pains in hepatic region ; < when sitting, > when walking about. For some days much wind in lower part of abdomen ; < when riding and towards evening ; > after lying down at night.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Vomits undigested food. Hiccough. Flatulence. Paroxysm of lancinating pains in r. hypochondrium under 11th rib, awaking him about midnight; lying on painful side, which causes a feeling of bursting outward; > lying on painless side, and by doubling up; with restlessness. At 8 a.m. frequent attacks of lancinating pain in hepatic region; when sitting; > after lying down at night. Dull weight and discomfort in r. hypochondrium.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Diarrhœa in gouty subjects. Itching of anus. Fissure of the anus, and intensely sore crack near the lower end of the bowel. Bleeding hæmorrhoids. Itching of anus as from pin-worms. Internal or blind piles frequently, with pain in back, generally far down on the sacrum, and constipation. Much wind in lower bowels. Worse, pregnancy",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Slight diarrhœa, with painful urging before stool ; first part of stool natural, last part loose. Constipation with dizziness and dull headache. During night awakened by itching at anus from pin worms, not felt to that degree since childhood and rarely felt at all. Bleeding piles. θ Osseous tumors.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Slight diarrhœa with painful urging before stool. Constipation with dizziness and dull headache. Itching in anus awakening him at night. Bleeding piles. Fissure; fistula.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Hydrocele; indurations of the testicles",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Induration of testicles.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Induration of testes. Hydrocele. Hunterian chancre.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Hoarseness. Croup. Cough with expectoration of tiny lumps of yellow mucus, with tickling sensation and irritation on lying down. Spasmodic cough. Calc. Fluor removes fibroid deposits about the endocardium and restores normal endocardial structure (Eli G. Jones, M. D)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Calc. f.]. Some tickling in larynx and occasional hawking, with desire to clear larynx. Occasional attacks of tickling-itching in larynx, inducing a hacking cough ; < from 3 to 4 P. M. Slight feeling of oppression, with tickling in larynx. Soon after itching at anus, itching-tickling in larynx, forcing a spasmodic cough, which was relieved after a few hours by hawking a little mucus from larynx. Dryness in larynx. The tickling extends from larynx 3 inches down trachea. Towards night, dryness in larynx, with desire to clear it, and some hoarseness, but no cough. Hoarseness after laughing or reading aloud. Oppression of breath, as from taking cold. Difficulty of breathing ; as if epiglottis was nearly closed. Hacking cough. See 25. Soon after dinner a hacking cough occurring in one or two paroxysms at a time, caused by a tickling in larynx, as from a small foreign body ; not relieved by coughing. Spasmodic cough from itching in larynx. See 25.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Circulatory] Chief remedy for vascular tumors with dilated blood-vessels, and for varicose or enlarged veins. Aneurism. Valvular disease. When the tuberculous toxins attack the heart and blood-vessels",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Restlessness, with pain in liver ; tired backache. Feeling of fatigue all day. Attacks of tickling-itching in larynx ; hiccough < from 3 to 4 P. M., and all day. Fever : lasting a week or more, with thirst, brown tongue, sleepless and weak. Hiccough : from hawking mucus. Lancinating pains : in hepatic region. Right : sharp pain in hypochondrium ; osseous growth at angle of eighth rib. Left : swelling on side of head ; cold sore on corner of mouth ; thumb, fistulous ulcers. Piercing, darting, grinding pains in all joints ; crampy knotting of leg muscles. θ Osseous growth. Lancinating : in hepatic region. Burning : in throat. Prickling : in throat. Smarting : along urethra. Dull pain : in head. Aching : in eyeball. Tired aching : small of back. Bursting outward : in hepatic region. Suffocative : in throat. Oppression : of breath. Tickling : in larynx ; in trachea. Itching : at anus ; in larynx. Dryness : in larynx. Corresponds to solidified infiltrations. Indurated enlargements in fascia and capsular ligaments of joints. Exudation from surface of bones which quickly harden and assume a nodular or jagged form. Nodes and hard bone swellings. Suppuration of bones ; similar to Silic. and Calc. phosph. Osseous growths in tarsal and carpal articulations. Supernumerary bones (rice bodies ?). Indurated glands, of stony hardness. TOUCH. PASSIVE MOTION. INJURIES. [45] [Calc. f.]. Better from slight pressure : eyes. Following an injury : osseous growth. Relieved by rubbing : osseous growth. JBB., æt. 29, sanguine mental bilious temperament, dark brown fine hair and beard, blue eyes ; proved the 15th and 30th. JUW, æt. 23, sanguine temperament, light hair, bald in front, blue eyes, reddish beard ; proved 15th. JSH, æt. 22, bilious sanguine temperament, black rather dark beard, dark hazel eyes ; proved 15th. A man, æt. 30, pale and lean. θ Osseous tumor. Strong healthy girl, æt. 3. θ Cephalematoma. After Calc. fluor. [3] in a few weeks it had entirely disappeared. A negro, æt. 28, after an injury received 12 years ago, a bunch on angle of 8th right rib, increasing rapidly, within 3 months as large as a man's fist. Calc. fluor. [12] every 12 hours for 3 days, then omitting 3 days ; in 2 weeks diminished two-thirds ; 3 months afterwards an inconsiderable roughness only left. θ Exostosis. A man, æt. 50, blonde, lymphatic ; for 10 years rheumatic arthritis ; articular exostoses on fingers, feet and knees ; after partial relief by Bryon. and Calc. ostr., Calc. fluor. [12], the supernumerary bones disappeared. θ Osseous growths.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T CALCAREA FLUORATA. Calcium fluoride, CaF2. Fluor-spar. Preparation , Triturations. Authorities. 1 , A. J. Murch, M.D., Am. Hom. Obs., 1864, p. 123, took 1/2 grain three times per day, before meals, for three days, without effect; several days later took 1/2 grain 3d dec. as before; ( 2 to 5 , J. B. Bell, M.D., N. E. Med. Gaz., 1874, p. 300); 2 , J. B. B., æt. twenty-nine years, took 4 drops 15 th; 2 a , same, took 10 drops 30th; 3 , J. U. W., æt. twenty-three years, took 4 drops 15th at 8.45 A.M.; 3 a , same, took 1 drop 15th at 8 A.M.; 3 b , same, took 1 powder 15th at 9 P.M. (first day); same at 6.30 A.M. (second day); 4 , I. S. H., æt. twenty-two years, took 5 drops 15th at 12M.; 4 a , same, took 1 powder of 15th. MIND. ► Some depression of spirits through the day (fourth day). All day an entirely unusual tendency to look on the dark side of things, with much depression of spirits. Feeling of anxiety about money matters, or thought would come to want, or would soon be \"running astern\" financially (entirely without occasion), (fifth day). Depression of spirits, and disposition to set a higher value on money than natural to him ( avarice ?). Indecision (sixth day). Still low-spirited (seventh day). Thoughts still more upon financial matters than usual (eighth and ninth days), [2] . HEAD. ► Dull headache over the whole head, with faintish nausea at the stomach all the afternoon, better in the evening, [3] . EYE. ► After writing some time, was no longer able to see distinctly, because of a blur or mist before the eyes, with some aching in the eyeballs, better when closing the eyes and pressing lightly upon them, [3] . NOSE. ► Sneezing twice (soon), [2] . ► Blowing of much mucus from the nose, with ineffectual desire to sneeze (second day). Occasional sneezing through the day (third day), [2] . THROAT. ► Hawking of mucus in the morning caused an attack of hiccough, which was long and weakening, and recurred frequently all day (second day), [4] . ABDOMEN. ► About midnight, or soon after, was awakened by a sharp pain in the right hypochondrium, under the eleventh rib, occurring in paroxysms of lancination; worse when lying on the painful side, so much so as to cause a feeling of bursting outward; better when lying on the painless side and when doubling up, and accompanied with restlessness, 8 A.M. Frequent attacks of the lancinating pains in the liver region, worse when sitting, better when walking about (fourth day), [4b] . ► For some days much wind in lower bowels, worse when riding and towards evening, better after lying down at night (sixth day), [4a] . ANUS AND STOOL. ► During the night awakened by itching at the anus from pin-worms, not felt to that degree since childhood, and rarely felt at all (tenth night), [2] . [10.] ► Slight diarrha; first part of stool natural, last part loose, with urging pain before stool (seventh day), [4a] . URINARY ORGANS. ► Increased secretion of pale urine (fourth day); urine scanty, high-colored, and turbid (sixth day), [4] . ► Rose twice in the night to pass urine profusely, which he never did before (first night); profuse emission of pale, watery urine from 8 A.M. to 3 P.M. (second day), [2a] . RESPIRATORY ORGANS. ► Dryness in the larynx, [3] . ► Towards night dryness in the larynx, with desire to clear it, and some hoarseness, but no cough, [3a] . ► Some tickling in the larynx and occasional hawking, with desire to clear the larynx, in the forenoon. Occasional attacks of tickling itching in larynx, inducing a hacking cough; worse from 3 to 4 P.M. (second day). Slight feeling of oppression and tickling in the larynx (third day). In the night itching tickling in the larynx, forcing a spasmodic cough, which was relieved, after a few turns, by hawking a little mucus from the larynx (tenth night), [2] . ► Itching tickling in the larynx, passing off after hawking up mucus from that spot (in ten minutes). The same tickling in the larynx, and hacking once or twice in the forenoon (second day), [2a] . ► The tickling extends from the larynx about three inches down the trachea, [3] . ► Very hoarse after laughing (eighth and ninth days), [2] . ► Slight hoarseness. Reading aloud during the evening for about twenty minutes caused hoarseness and desire to clear the larynx (first day); hoarseness but less cough (second day), [3] . [20.] ► At 4 P.M. cough and hoarseness came on slightly (third day), [4] . ► Soon after dinner a hacking cough, occurring in one or two paroxysms at a time, caused by tickling in the larynx, as from a small foreign body. Not relieved by coughing. Desire to swallow from the same cause, but without relief, [3] . BACK. ► During the afternoon much pain and tired aching in the lower part of the back, with bodily restlessness; must walk about (second day). Tired aching in the back, with restlessness (third day), [3b] . ► Tired aching in the small of the back, as after a long ride, but did not ride far. Can sit in no position to relieve the back (third day), [2a] . GENERALITIES. ► On the afternoon of the second day there was oppression of breath, such as arises from taking cold, this continued throughout the proving, subject to fluctuations of intensity; at the end of a week there was a prickling, burning, suffocative sensation in the throat, which grew worse at night; cold drinks seemed to aggravate and warm drinks to palliate only for a short time; this feeling was less in the morning, but exacerbation occurred in the latter part of the day; much thirst, constipation, and consequent dizziness of head and dull headache; experienced irritability of bladder, frequent urging to urinate; urine causing smarting along the urethra, particularly at its external orifice; urine emitted pungent odor. On the eighth day discontinued the drug, but there was an increase of all the symptoms, the difficulty of breathing was such that it seemed as though the epiglottis was nearly closed, or that I was breathing through some thick substance, which permitted but slight ingress of air to the lungs, [1] . ► Feeling of fatigue all day (third day), [2a] . SKIN. ► Two days ago a \"cold sore\" commenced at the left corner of the mouth; to-day it is quite extensive. Had no cold and cannot recall ever having had a \"cold sore\" in his life before (twelfth day), [4a] . SLEEP. ► Since last dose has not slept well; has dreamed constantly. Last night jumped from bed in a dream, and tried to get out of the window, which woke him (fourth day), [4a] . ► Vivid and distinct dreams, also natural and connected, of the death of a relative, causing much grief and weeping (first night). Sleep unrefreshing on account of indistinct dreams of unsuccessful efforts to do various things, leaving an unpleasant impression on waking (second night). Dreams vivid and distinct of new scenes, places, books, etc. (third night). Vivid and distinct dreams of wholly new scenes and places, not unpleasant, but with a sense of impending danger (fourth night). Dreams not as distinct nor well remembered (fifth night). Dreams of death of his little daughter, and of great grief and weeping (sixth night). Dreams less (seventh and eighth nights), [2] . ► Dreamed much, unremembered (first night). Dreamed of cutting a woman in pieces, as an animal for salting. The details very distinct, and the dream seemed to continue a long time (second night), [2a] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Adenoids; Aneurism; Bone affections; Breast, indurations of; Cataract; Catarrh; Cold sores; Corneal opacities; Cough; Exostosis; Flatulence; Glands, indurated; Hæmoptysis; Herpes; Hodgkin's disease; Joints, cracking of; Liver, affections of; Lumbago; Nodes; Ozæna; Parturition; Postnasal catarrh; Spavin (horses); Strains; Syphilis",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Hoarseness after laughing or reading aloud. Soon after itching at anus, itching tickling in larynx, forcing a spasmodic cough, which was relieved after a few hours by hawking, a little mucus from larynx. Hacking cough, from tickling in larynx as of a foreign body; not > by coughing. Difficulty of breathing, as if epiglottis was nearly closed. Cracking in joints. Synovial swellings. Easy dislocations. Exostoses. (Spavili).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Chronic lumbago; aggravated on beginning to move, and ameliorated on continued motion. Osseous tumors. Rachitic enlargement of femur in infants. Pain lower part of back, with burning",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Small goitres improved. Indurated cervical glands of stony hardness. Tired aching of small of back, as after long ride, but did not ride far ; can sit in no position to relieve back. During afternoon much pain and tired aching in lower part of back with bodily restlessness ; must walk about. Lumbago, from strains ; pains < after rest, > after moving a little, and from warmth (when Rhus tox. did no good).",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Goître. Indurated cervical glands of stony hardness. Lumbago from strains; severe backache after a long ride; after rest, > after moving a little and from warmth. Tired aching, as from a long ride; with restlessness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Ganglia or encysted tumors at the back of the wrist. Gouty enlargements of the joints of the fingers. Exostoses on fingers. Chronic synovitis of knee-joint",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Osseous tumor on spine of scapula. Swelling of elbow joint ; after maltreatment improved by Ferr. phosph., until jerks and starting led to an examination of joint and discovery of crepitation, showing a want of synovial fluid ; one grain each morning and evening improved it so much that the opening closed and some motion became possible. The left thumb, after being wounded and badly treated, had fistulous ulcers and a crepitation of joint of first phalanx ; after Silic. had been given. Exostoses on fingers. See 47. Swelling on lower limb of a young lady (formerly treated for periostitis of humerus) ; a rough, hard, bony swelling, covering whole width of shin bone, several inches long, had lasted 6 weeks ; 3d cured in 3 weeks. Spavin of horses. Patellæ surrounded by supernumerary bones, irregular in shape, varying from size of mullet-seeds to marbles ; also abounding at various depths in tendons under knees and in tarsal and carpal articulations. θ Osseous growths.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Vivid dreams, with sense of impending danger. Unrefreshing sleep",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Sleep unrefreshing on account of indistinct dreams of unsuccessful efforts to do various things, leaving an unpleasant impression on waking. Dreams in siesta, vivid and distinct, of new scenes, places, books, etc. Vivid and distinct dreams of wholly new scenes and places, not unpleasant, but with a sense of impending danger. Vivid and distinct dreams, also natural and connected ; of death of a relative, causing much grief and weeping. Vivid dreams and dreams with weeping abut such as had died seven years before. Dreamed of cutting up a woman in pieces as an animal for salting ; the details very distinct and the dream seemed to continue a long time. Last night jumped from bed in a dream and tried to get out at window, which woke him. During night awakened by itching in anus from pin worms.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Vivid and distinct dreams, with weeping. Jumped from bed in a dream and tried to get out of a window, which woke him. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Marked whiteness of skin. Scar tissue; adhesions after operations. Chaps and cracks. Fissures or cracks in the palms of the hands, or hard skin. Fissure of the anus. Suppurations with callous, hard edges. Whitlow. Indolent, fistulous ulcers, secreting thick, yellow pus. Hard, elevated edges of ulcer, surrounding skin purple and swollen. Knots, kernels, hardened glands in the female breast. Swellings or indurated enlargements having their seat in the fasciæ and capsular ligaments of joints, or in the tendons. Indurations of stony hardness",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Occasional erysipelas. θ Osseous growths. A warty growth the size of a pea in bend of right elbow, of 30 years' standing, disappeared while taking Calc. fluor. C12 for indurated testicle.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Skin harsh and dry. Chaps; fissures. Fistulæ.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "heat, warm applications",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "during rest, changes of weather",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Third to twelfth trituration. A \"chronic\" remedy. Needs some time before manifesting its effects. Should not be repeated too frequently"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CALCAREA FLUORICA Fluoride of Lime (FLUOR SPAR) A powerful tissue remedy for hard, stony glands, varicose and enlarged veins, and malnutrition of bones. Hard knots in female breast. Goitre. Congenital hereditary syphilis. Induration threatening suppuration. Many cases of cataract have undoubtedly been influenced favorably by it. Congenital syphilis manifesting itself in ulcerating of mouth and throat, caries and necrosis with boring pains and heat in parts. Arterio-sclerosis; threatened apoplexy. Tuberculosis. Used after operations, the tendency to adhesions is reduced.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Calcarea Fluorica",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This chemical union of lime and fluoric acid gives us a remedy with a new nature and properties. However conversant one may be with either or both of these elements, he could not predict the curative powers held in this double remedy.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "I refer to its ability to cure indurated infiltrations of glands, cellular tissues and bony formations.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "A nodule in the course of a tendon and exostosis, a stony bard gland, bony infiltration in the periosteum, rice bodies in cartilages have been cured by this remedy wonderful to tell, when there was a paucity of symptoms. It will cure of course when symptoms agree, but it needs proving in order that individualization may be oftener possible.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "A recurrent fibroid in the hallow of the knee was removed once by the knife, but returned, and grew to the size of a fist. The leg was drawn up to forty-five degrees, and the knee became immovable.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This wonderful remedy was prescribed on the symptoms of the case and the hardness of the tumor.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The tumor gradually dwindled, the limb became normal and as good as ever; this patient has since born a healthy child is still perfectly free from the trouble. It is now ten years since she was cured.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The patient is sensitive to cold, to drafts, to changes in the weather, and to damp weather. The symptoms are ameliorated by heat and by warm applications. The symptoms are worse during rest.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This is a useful remedy in gout, with copious pale urine and diarrhea. The patient is sad and miserable. This remedy has cured a fluctuating tumor on the cranium of infants known as Cephalaematoma.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Blur before the eyes after exerting the vision. Cataract. It cures ulceration of the cornea if the edges are hard; also hard, small spots and conjunctivitis. It has cured adenoids and thick, yellowish green discharge from the nose.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Offensive catarrh of long standing. Scanty enamel of the teeth.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain, ulceration and granulation of the throat, worse from cold, and better from warm drinks. Pain worse at night. Large indurated tonsils will be cured after Baryta carb. has failed.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain in the liver at night, worse lying on the painful side, better from motion. Cutting pains in the liver, better walking.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Diarrhea in gouty subjects. Itching of anus and hemorrhoids, painful and hard bleeding. Fissure of anus. Constipation.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copious watery urine. Strong smelling urine. Urine causes smarting when passing.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Indurated testes. Nodular testes.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Varicose veins of the vulva. Uterine fibroid.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Hard nodules in the mammae.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Dryness and tickling in the larynx. Desire to clear the vocal cords. Hoarseness after reading aloud. Hacking cough after eating, and in cold air, from tickling in the larynx. Spasmodic cough.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It cured an exostosis at the angle of the eighth rib.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It cured a lumbago, worse during rest, and better from heat, after Rhus had failed. Pain in back, extending to the sacrum. Indurated cervical glands.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Vivid dreams, and unrefreshing sleep. jumps out of bed in a dream. it is similar to Silica in suppuration.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "LECTURES ON HOMOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror Calcarea Fluorica This chemical union of lime and fluoric acid gives us a remedy with a new nature and properties. However conversant one may be with either or both of these elements, he could not predict the curative powers held in this double remedy. I refer to its ability to cure indurated infiltrations of glands, cellular tissues and bony formations. A nodule in the course of a tendon and exostosis, a stony bard gland, bony infiltration in the periosteum, rice bodies in cartilages have been cured by this remedy wonderful to tell, when there was a paucity of symptoms. It will cure of course when symptoms agree, but it needs proving in order that individualization may be oftener possible. A recurrent fibroid in the hallow of the knee was removed once by the knife, but returned, and grew to the size of a fist. The leg was drawn up to forty-five degrees, and the knee became immovable. This wonderful remedy was prescribed on the symptoms of the case and the hardness of the tumor. The tumor gradually dwindled, the limb became normal and as good as ever; this patient has since born a healthy child is still perfectly free from the trouble. It is now ten years since she was cured. The patient is sensitive to cold, to drafts, to changes in the weather, and to damp weather. The symptoms are ameliorated by heat and by warm applications. The symptoms are worse during rest. This is a useful remedy in gout, with copious pale urine and diarrhea. The patient is sad and miserable. This remedy has cured a fluctuating tumor on the cranium of infants known as Cephalaematoma. Blur before the eyes after exerting the vision. Cataract. It cures ulceration of the cornea if the edges are hard; also hard, small spots and conjunctivitis. It has cured adenoids and thick, yellowish green discharge from the nose. Offensive catarrh of long standing. Scanty enamel of the teeth. Pain, ulceration and granulation of the throat, worse from cold, and better from warm drinks. Pain worse at night. Large indurated tonsils will be cured after Baryta carb . has failed. Pain in the liver at night, worse lying on the painful side, better from motion. Cutting pains in the liver, better walking. Diarrhea in gouty subjects. Itching of anus and hemorrhoids, painful and hard bleeding. Fissure of anus. Constipation. Copious watery urine. Strong smelling urine. Urine causes smarting when passing. Indurated testes. Nodular testes. Varicose veins of the vulva. Uterine fibroid. Hard nodules in the mammae. Dryness and tickling in the larynx. Desire to clear the vocal cords. Hoarseness after reading aloud. Hacking cough after eating, and in cold air, from tickling in the larynx. Spasmodic cough. It cured an exostosis at the angle of the eighth rib. It cured a lumbago, worse during rest, and better from heat, after Rhus had failed. Pain in back, extending to the sacrum. Indurated cervical glands. Vivid dreams, and unrefreshing sleep. jumps out of bed in a dream. it is similar to Silica in suppuration. Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-mm-1911"
+      },
+      {
+        "text": "Calc. fluor. is Schüssler's \"bone salt.\" It is found in the surface of bones, the enamel of teeth, in elastic fibres and in the cells of the epidermis. It has been principally used for dispersing bony growths; ulcerations of bone; and for fistula. A giant-celled sarcoma of upper maxilla causing the deformity known as \"frog-face\" was very greatly relieved by Calc. fluor. in a short space of time, after Silica had failed to make much impression. W. P. Wesselhœft cured two cases of syphilitic periosteal swelling, one on right radius, one on left ulna, one sensitive, one not, one patient male dark, the other blonde female. Each case received a dose of Calc. fl. c.m. G. P. Hale, with the 3x, has removed induration after typhlitis, also encysted tumour of eyelids. He regards induration threatening suppuration as a marked indication. Induration in epigastric region after a kick from a horse was cured. Also indurated glands (of neck; of breast, &c.) of stony hardness. The mental condition is one of depression; anxiety; indecision. Cephalhæmatoma. Spots on cornea. Senile cataract has been cured by it. Ozæna. Herpes (hard, small) on lips. Deficient enamel of teeth. Prickly, burning, suffocating sensation in throat. Bleeding piles. One prover, Dr. Sarah N. Smith, had among other symptoms this peculiar and constant one in the head: A sort of creaking, straining, and drawing, like the noise of a corn-stalk fiddle, greatly interfering with sleep. Dr. Sarah Hogan gave Calc. fluor. with complete success in a case of flatulency in a pregnant woman. The patient passed through the labour quite easily, whereas the previous labour had been very difficult. In many other cases Dr. Hogan found the remedy facilitate labour. She found flatulency a marked indication for the remedy independently of pregnancy. In hæmoptysis it has been used with success, its effect being apparently to cause contraction of the blood-vessels. Lumbago from strains; after rest, > after moving a little and from warmth. Vivid dreams of death. Warmth >; warm drinks >, cold drinks throat pain. From damp weather, but > from fomentations. > By rubbing.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Indurated swellings, of a stony hardness; in glands, or fasciæ or ligaments.",
+        "source_id": "nash-leaders-1899"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Profuse emission of pale watery urine, from 8 A. M. to 3 P. M. Arose twice during night to pass urine profusely, which he never did before. Increased secretion of pale urine ; 3d day. Urine scanty, high colored and turbid ; 5th day. Urine emits a pungent odor. Urine causes smarting along urethra, particularly at its external orifice.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Urine causes smarting along urethra, particularly at external orifice. Urine diminished, high-coloured, offensive.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "PREGNANCY. PARTURITION. LACTATION. [24] [Calc. f.]. Hard knots in breasts.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Excessive menses. Prolapsus uteri. Bearing-down; dragging pains in uterus and thighs. Hard knots in breasts. Flatulence in pregnant women. Favours parturition. After-pains from feeble contractions.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Osseous growth at angle of eighth right rib, size of a man's fist. θ Exostosis.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Attacks of fever, lasting a week or more, with thirst ; dry, brown tongue ; sleepless unrest. θ Osseous growths.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compatibles : Calc. phosph. ; Natr. mur., which has similar cold sores ; Silica, in affection of thumb, 32",
+        "Useful : after failure of Rhus tox. in lumbago ; after Ferr. phosph. in synovitis ; after Silica in suppuration ; after Bryon. and Calc. ostr. in arthritis",
+        "Compare : in ozæna, Calc. phosph. ; in cold sore, Natr. mur. ; in swelling on skulls of infants, Silica ; in suppuration of bones, Calc. phosph., Silica ; in spavin of horses, Phosph. ac., Silica",
+        "Copyright © Médi-T ® 2002",
+        "Main",
+        "Compare: Calc. ph. (ozæna; suppuration of bones); Nat. m. (cold sores); Sil. (swellings on skulls of infants; suppuration of bones; spavin); Phos. ac. (spavin). It cured lumbago by rest, > by motion, after failure of Rhus."
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "hering-guiding-1879",
+      "kent-lectures-1905",
+      "kent-mm-1911",
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900",
+      "nash-leaders-1899"
+    ]
+  },
+  "cell_salt_number": 1
+}

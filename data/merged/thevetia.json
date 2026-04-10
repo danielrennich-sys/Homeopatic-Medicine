@@ -1,0 +1,58 @@
+{
+  "id": "thevetia",
+  "names": {
+    "primary": "Thevetia",
+    "latin": "Thevetia",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T THEVETIA. Thevetia nereifolia, Juss. (Cerbera thevetia, Linn.) Natural order , Apocynaceæ. Common names , Ahovai-baum (of the Antilles). Authority. Dr. John Balfour, Edin. Med. Journ., 1856, p. 1094, effects of eating some seeds in two boys, aged eight years and six years and a half. ► A tendency to sleep, disturbed every three to five minutes by irritation in the throat, and the discharge of a mouthful of frothy mucus with a sort op gulp; this action was very peculiar, I have never seen anything like it before; then the child would lie down and close his eyes until again disturbed. ► Vomiting. ► Bowels of both moved twice or thrice. ► Pulse of the older, 60; of the younger, 70. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Diarrhœa; Somnolence; Throat, affections of; Vomiting",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "J. Balfour observed the effect of eating the seeds on two boys, 8 and 6 1/2. This peculiar symptom was noted: \"A tendency to sleep, disturbed every three to four minutes by irritation in the throat, and the discharge of a mouthful of frothy mucus with a sort of gulp; then the child would lie down and close his eyes until again disturbed.\"",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Apocy. Stroph. Upas."
+      ]
+    },
+    "mouth_throat": [
+      {
+        "text": "Tendency to sleep, disturbed every three to four minutes by irritation in the throat and discharge of a mouthful of frothy mucus with a sort of gulp; then the child would lie down and close his eyes again until again disturbed.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Vomiting.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Bowels moved twice or thrice. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

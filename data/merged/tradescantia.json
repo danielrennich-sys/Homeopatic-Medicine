@@ -1,0 +1,69 @@
+{
+  "id": "tradescantia",
+  "names": {
+    "primary": "Tradescantia",
+    "latin": "Tradescantia",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T TRADESCANTIA. Tradescantia diuretica, Mart. Natural order , Commelyneæ (Liliaceæ). Preparation , Tincture of the leaves. Authority. Mure, Pathogénésie Brésil. HEAD. ► Vertigo. STOOL. ► Diarrha. URINARY ORGANS. ► Whitish discharge from the urethra. ► Pain when urinating. ► Thin stream of urine. ► The urine has an acrid smell (second day). ► Yellowish, copious urine, depositing at the bottom of the vessel an ash-colored, copious sediment (second day). SEXUAL ORGANS. ► Inflammation of the scrotum, which is painful and very red (second day). ► The inflammation of the scrotum decreases since the twelfth day. [10.] ► The testicles return by the inguinal ring. RESPIRATORY ORGANS. ► The breathing is very painful. ► The breathing is embarrassed, as when one is affected with catarrh (first day). ► Difficult breathing, sighing, as from want of air (second day). CHEST. ► Pain in the left side of the chest (first day). GENERALITIES. ► The symptoms continue from the third to the fifteenth day. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Gonorrhœa; Orchitis",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Breathing: very painful; embarrassed, difficult, sighing, as from want of air.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Mure proved Trad., which belongs to a genus of lily-like plants. It produced disorder of the genito-urinary organs, urethral discharge, and inflammation of the scrotum; also embarrassed breathing.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Diarrhœa.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Whitish discharge from urethra. Pain when urinating. Stream thin. Urine: acid smelling; yellowish, copious, ash-coloured sediment.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Scrotum inflamed, painful and red.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pain in l. side of chest. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

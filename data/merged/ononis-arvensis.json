@@ -1,0 +1,32 @@
+{
+  "id": "ononis-arvensis",
+  "names": {
+    "primary": "Ononis arvensis",
+    "latin": "Ononis arvensis",
+    "common": [
+      "Rest-Harrow"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A troublesome weed, with a root that affords a sweet, viscid juice. Common in arable land. Its long, thicklymatted root will arrest the progress of the harrow, hence its name. It is a favourite food of the donkey, from which the generic name is derived, onos being the Greek word for an ass. A tradition exists that this was the plant from which the crown of thorns was plaited for the Crucifixion. The plant is obnoxious to snakes.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The young shoots were much used at one time as a vegetable, being boiled, eaten in salad or pickled. In medicine it was used for stone in the bladder and to subdue delirium. Purchase from Richters Restharrow (Ononis spinosa) Seeds",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

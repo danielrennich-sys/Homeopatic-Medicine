@@ -1,0 +1,41 @@
+{
+  "id": "red-clover",
+  "names": {
+    "primary": "Red Clover",
+    "latin": "Red Clover",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Like peas and beans, red clover is a legume. It is native to Europe, central Asia, and northern Africa, and is also grown in many other areas. Red clover contains substances called isoflavones that are structurally similar to estrogen. Dietary supplements containing red clover are promoted for women’s health conditions.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "Red clover has been studied in people, but the research hasn’t shown conclusive evidence of benefits for any health condition. Some of the research on red clover for hot flashes associated with menopause was not high in quality, findings on cholesterol levels were conflicting, and only a few studies have been done on bone density.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "Studies on the effects of red clover on hot flashes associated with menopause have had inconsistent results, and some of the studies had a high risk of bias. Red clover may have a beneficial effect on cholesterol levels in postmenopausal women, but more research is needed before definite conclusions can be reached. Only a small number of studies have been done on the effects of red clover on bone density in postmenopausal women, and the results have been inconsistent.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Red clover extracts have been used in clinical studies for as long as 2 years with apparent safety, and they appear to be well tolerated. Red clover supplements may be unsafe for use during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

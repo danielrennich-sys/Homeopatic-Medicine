@@ -1,0 +1,39 @@
+{
+  "id": "cineraria-maritima",
+  "names": {
+    "primary": "CINERARIA MARITIMA",
+    "latin": "CINERARIA MARITIMA",
+    "common": [
+      "Dusty Miller (CINERARIA)"
+    ],
+    "synonyms": [
+      "Cineraria Maritima"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CINERARIA MARITIMA Dusty Miller (CINERARIA) Has some reputation in the cure of cataract and corneal opacities. Is used externally, by instilling into the eye one drop four or five times a day. This must be kept up for several months. Most effective in traumatic cases. Compare in cataract Phosph; Platanus; Cannabis; Causticum; Naphthalin; Ledum; Nat mur; Silica.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "This is an unproved drug, but it has been used with a good deal of success in cases of cataract as an external application. The method adopted is to instil one drop, four or five times a day, into the eye affected, and to keep this up for several months. Traumatic cataract and corneal opacities, as well as senile cataract, have been removed in this way. I have seen no reports of cures by internal use of the remedy alone, but in some cases it was given internally as well as used externally. Generally the patients have received specific homœopathic treatment internally at the same time. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Cataract; Corneal opacity",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

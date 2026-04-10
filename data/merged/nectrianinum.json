@@ -1,0 +1,35 @@
+{
+  "id": "nectrianinum",
+  "names": {
+    "primary": "Nectrianinum",
+    "latin": "Nectrianinum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Nectrianinum is a clear liquid of a yellowish-brown hue which was prepared by Bra and Chaussé (Med. Rev. of Rev., April, 1900, quoted H. M., xxxv. 533) as follows: Cultures (of Nectria) of two months of age, on grape broth, are evaporated on a water bath until reduced to one-third of their original volume. They are filtered through paper and again through porcelain. The liquid is then taken to the autoclave at a temperature of 120° C. This assures that all spores are killed. Injected into healthy animals in 5 c.c. doses several times a week no result is observed. In cancerous men and animals, on the contrary, the injections cause a rise of temperature in from two to four hours of 1° to 3°. If the dose is increased the hyperthermia is accompanied by chills, sensation of cold, accelerated pulse, palpitation, headache, thirst. The crisis terminates after some hours in polyuria and profound sleep. In very advanced cancer reaction may not occur. In a summary of the results the observers say that Nectrianinum has caused: \"Arrest or diminution of hæmorrhages; suppression of fetid discharges; a tendency at times to epidermisation of the neoplasm with a corresponding well-defined arrest in its evolution.\" The patients were when treatment was discontinued and > when it was resumed. A maximum of 4 c.c. per day was never exceeded.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Carcinoma; Epithelioma",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Scirrh., Epitheliomin. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "bovista-puffball",
+  "names": {
+    "primary": "Bovista. Puffball (Fungi.)",
+    "latin": "Bovista. Puffball (Fungi.)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Persons who suffer from tettery eruptions, dry or moist. Adapted to old maids; with palpitation. Stammering children (Stram.). Discharge from nose and all mucous membranes; very tough, stringy, tenacious (Kali bi.). Usually deep impression on finger, from using blunt instruments, scissors, knife, etc. Intolerence of tight clothing around the waist (Calc., Lach., Sulph.). Sweat in axilla, smells like onions. Haemorrhage: after extraction of teeth (Ham.); from wounds, epistaxis. Great weakness of joints and weariness of hands and feet. Awkwardness, inclined to drop things from hand (Apis); objects fall from powerless hands. Menses: flow only at night; not in the daytime (Mag. c. - only in the day, ceases lying, Cac., Caust., Lil.); every two weeks, dark and clotted; with painful bearing down (Sep.). Intolerable itching at tip of coccyx; must scratch til parts become raw and sore.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Compare: Am. c., Bell., Calc., Mag. s., Sep., in menstrual irregularities. Bovista antidotes, effects of local applications of tar; suffocation from gas. When Rhus seems indicated, but fails to cure, in chronic urticaria.",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

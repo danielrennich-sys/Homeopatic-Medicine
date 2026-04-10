@@ -1,0 +1,30 @@
+{
+  "id": "clinical-outcomes",
+  "names": {
+    "primary": "Clinical Outcomes",
+    "latin": "Clinical Outcomes",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "",
+    "documented_adverse_effects": [],
+    "hepatotoxicity": [
+      {
+        "section": "LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet].",
+        "text": "Show details Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases ; 2012-. Drug Records Search term < Prev Next > Clinical Outcomes Last Update: November 20, 2019 . Most cases of drug induced liver injury ultimately resolve completely without residual liver injury or liver test abnormalities. Three major exceptions include the progression to acute liver failure, the evolution to vanishing bile duct syndrome, and development of chronic liver injury and cirrhosis. These serious consequences of drug induced liver injury are fortunately rare, but they can develop even though the causative agent is stopped promptly. Importantly, these outcomes can result in death or need for liver transplantation. Acute Liver Failure Vanishing Bile Duct Syndrome Cirrhosis Copyright Notice Bookshelf ID: NBK548116 PMID: 31643446 Drug Records < Prev Next > Share Views PubReader Print View Cite this Page LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet]. Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases; 2012-. Clinical Outcomes. [Updated 2019 Nov 20]. PDF version of this page (49K) New and Updated In PubMed Bulk Download Bulk download LiverTox data from FTP Overviews Introduction Clinical Course Clinical Outcomes Immune Features Phenotypes Causality Likelihood Scale Severity Grading Writing a Case Report Support Links LiverTox Homepage Master List of LiverTox Drugs [with Metadata] LiverTox Drugs by Drug Class About LiverTox Editors and Review Committee Meetings and News Abbreviations Used Glossary Information Resources User/Medical Advice Disclaimer Contact Us Recent Activity Clear Turn Off Turn On Clinical Outcomes - LiverTox Clinical Outcomes - LiverTox Your browsing activity is empty. Activity recording is turned off. Turn recording back on See more... --> Follow NCBI Twitter Facebook LinkedIn GitHub NCBI Insights Blog Connect with NLM Twitter Facebook Youtube National Library of Medicine 8600 Rockville Pike Bethesda, MD 20894 Web Policies FOIA HHS Vulnerability Disclosure Help Accessibility Careers NLM NIH HHS USA.gov -->",
+        "source": "LiverTox-NIH"
+      }
+    ],
+    "regulatory": [
+      "LiverTox - NIH Drug-Induced Liver Injury Database"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      "livertox-nih"
+    ]
+  }
+}

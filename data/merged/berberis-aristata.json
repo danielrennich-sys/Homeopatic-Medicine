@@ -1,0 +1,32 @@
+{
+  "id": "berberis-aristata",
+  "names": {
+    "primary": "Berberis aristata",
+    "latin": "Berberis aristata",
+    "common": [
+      "Barberry, Nepal"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "A shrub indigenous to India and Ceylon. It is known as 'Darlahad,' under which names are included the dried stems of Berberis Iycium and B. asiatica , but only the stem of B. aristata is official in the Indian and Colonial Addendum for use in India and the Eastern Colonies, in intermittent fevers.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "A bitter tonic antiperiodic and diaphoretic. The chief constituents are those of common Berberiabark, the bitter principle being the alkaloid Berberine, which is present in considerable quantity, together with tannin, resin, gum, starch and other alkaloidal matter. When dried, it occurs in undulating, cylindrical pieces, 1 to 2 inches in diameter. The drug has a faint odour and a bitter taste.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

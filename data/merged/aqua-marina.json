@@ -1,0 +1,46 @@
+{
+  "id": "aqua-marina",
+  "names": {
+    "primary": "Aqua Marina (Sea-Water)",
+    "latin": "Aqua Marina (Sea-Water)",
+    "common": [],
+    "synonyms": [
+      "Aqua Marina"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "AQUA MARINA (SEA-WATER).",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Aq. mar. has been principally used (in high potencies) for the effects of residence near the sea (as biliousness, constipation, headache, &c.). It has been used in wineglassful doses and also in potencies as a remedy for sea-sickness. It has been proved by C. Wesselhœft. Among the symptoms were: Neuralgic pains down right temple and forehead. Faceache left side; cold water intolerable. Sensation of a hair or fishbone in throat, tickling and urging to swallow, causing cough, which does not relieve. Pain on swallowing, extending to ear and temples. Nausea; and nauseous sensation in stomach and abdomen. This symptom seems peculiar: \"Constant hawking and raising of phlegm, tough and white like cotton.\" The leading indication for it is: at seaside; or on the sea.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T AQUA MARINA (SEA-WATER). Authority. C. Wesselhft, Trans. Am. Inst. of Hom., 1871, sec. 2, p. 178, four provers. HEAD. ► Acute, paroxysmal, neuralgic pain in right anterior portion of head all the afternoon and evening (from inhalation by atomizer), [1] . ► Acute, tensive, neuralgic pain above right frontal portion of head (from inhalation by an atomizer), [1] . ► Severe neuralgic pains down right temple, and above right frontal protuberance, very acute, and vanishing without a trace; appearing after ten or thirty minutes in left side of neck (near edge of trapezius muscle), (immediately from inhalation by an atomizer), [1] . EARS. ► Stinging pain (transient stitches), in right ear in the evening, [8] . FACE. ► Faceache on left side of upper and lower jaw, extending under lower jaw to right side. The pain was acute, like toothache. ► Cold water was intolerable (4th dil.), [2] . THROAT. ► Sore throat, with sensation of foreign substance in throat (5th dil.), [4] . ► Sensation as if a small substance were in the throat, not unlike a hair or fishbone, tickling and urging to swallow, and causing a desire to cough, but not benefited by coughing (5th dil.), [4] . ► Pain on swallowing, extending into ear and temples (4th dil.), [2] . STOMACH. ► Nausea, and nauseous sensation in stomach and abdomen, with eructation of wind for two hours. (From a glassful of sea-water), [1] . CONDITIONS. ► Aggravation. ► ( Afternoon and evening ), Neuralgic pain in anterior portion of head. ► ( Evening ), Pain in right ear. ► ( Cold water ), Faceache. SUPPLEMENT: AQUA MARINA. Authority. C. Wesselhft, M.D., Pub. Mass. Hom. Med. Soc., vol iv, p. 31. ► Sea-water causes constant hawking and raising of phlegm, white and tough, like cotton. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Biliousness; Constipation; Headache; Sea-sickness; Seaside, effects of",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Nat. mur., Chlorum (but in addition to its chief ingredient, sea-water contains in solution every inorganic substance in the world); also Silica marina. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

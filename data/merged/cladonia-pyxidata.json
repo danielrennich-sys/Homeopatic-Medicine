@@ -1,0 +1,50 @@
+{
+  "id": "cladonia-pyxidata",
+  "names": {
+    "primary": "Cladonia Pyxidata (FRIES.)",
+    "latin": "Cladonia Pyxidata (FRIES.)",
+    "common": [
+      "Moss, Cup"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "North-west America, but now a common weed in many counties in Britain.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Cladonia is one of a numerous genus of lecidineous lichens. It grows abundantly in the woods and hedges and is a common species; it has no odour; taste sweetish and mucilagenous.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Expectorant, a valuable medicine in whooping cough.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "2 OZ. of the plant decocted and mixed with honey makes a good expectorant and a safe medicine for children's coughs.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Cladonia rangiferina . The badge of the Clan McKenzie. Makes excellent food for reindeer. C. sanguinea . In Brazil is rubbed down with sugar and water and applied in the thrush of infants. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

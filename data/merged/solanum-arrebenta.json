@@ -1,0 +1,93 @@
+{
+  "id": "solanum-arrebenta",
+  "names": {
+    "primary": "Solanum Arrebenta",
+    "latin": "Solanum Arrebenta",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T SOLANUM ARREBENTA. Solanum rebenta, Vell. Natural order , Solanaceæ. Common name (Brazilian), Arrebenta cavallos. Preparation , Trituration of the leaves. Authority. Mure, Pathogénésie Brésilienne. MIND. ► Impatient and irritable about trifles. HEAD. ► Vertigo after bathing. ► Headache. FACE. ► Red face, with determination of blood to the head. MOUTH. ► Clammy mouth in the morning. STOMACH. ► Loss of appetite. ► Constant thirst. ► Swelling of the stomach. ► Difficult digestion. CHEST. [10.] ► Pain in the pectoralis major. ► Glandular swelling in the right breast. ► Lancinations in the breasts. SUPERIOR EXTREMITIES. ► Swelling of the axillary glands. SKIN. ► Pale-green color of the skin (after a few days). ► Urticaria. ► Superficial ulcer below the left nipple. ► Painful boil under the right axilla. ► Suppuration of the boils. SLEEP. ► Waking with a start. [20.] ► Dreams about quarrels and murder. FEVER. ► Slight fever. ► Flying heat all over. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Apoplexy; Boils; Breasts, swelling of; Glands, swelling of; Urticaria; Vertigo",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Painful boil below r. axilla. Swelling of axillary glands.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Mure, who proved Sol. arr., says of it: \"The bush grows spontaneously in the provinces of Rio Janeiro, along roads and in cultivated places. It is from ten to sixteen inches high.\" Among the symptoms \"Redness of face and rush of blood to brain\" recalls Bell., as do the swelling and pains in breasts.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Impatient and irritated by trifling causes.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo after bathing. Headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Redness of face, and rush of blood to brain.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Doughy mouth in morning.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Loss of appetite. Constant thirst. 1l. Stomach. Swelling of stomach. Difficult digestion.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Superficial ulceration below l. nipple. Pain at pectoralis major. Glandular swelling in r, breast. Lancinations in breasts.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Suppuration of boils. Urticaria. Paleness and greenish colour of the skin after a few days of proving.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Waking with a start. Dreams about quarrels and murders.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Slight fever. Flash of heat all over. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

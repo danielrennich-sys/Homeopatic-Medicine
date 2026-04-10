@@ -1,0 +1,121 @@
+{
+  "id": "lonicera-xylosteum",
+  "names": {
+    "primary": "LONICERA XYLOSTEUM",
+    "latin": "LONICERA XYLOSTEUM",
+    "common": [
+      "Fly-woodbine"
+    ],
+    "synonyms": [
+      "Lonicera Xylosteum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Congestion of head and chest; coma. Contraction of one pupil and dilatation of the other. Sopor, eyes half open red face",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Great congestion of head and chest.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Jerking of limbs. Trembling of whole body. Violent convulsions. Limbs and head fall over as if paralyzed. Extremities cold. Cold perspiration",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Third to sixth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">LONICERA XYLOSTEUM Fly-woodbine Convulsive symptoms. Uræmic convulsions. Albuminuria. Syphilis.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Lon. xylost. is known from the effect of poisoning by its berries. Vomiting and purging; trembling and jerking of the limbs, convulsions and coma were the chief symptoms. Peculiar symptoms were: Contraction of one pupil and dilatation of the other. Abdomen retracted especially in umbilical region. Slow pulse.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Coma vigil; Convulsions",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Respiration rapid and deep. Frequent jerking of limbs. Trembling and jerking of whole body. Violent convulsions. Seemed neither to hear nor see; unable to make answer. When raised from bed, limbs and head fall over as if paralysed.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Dig. (slow pulse). Cad. s. and Rhod. (one pupil contracted, the other dilated). For botan. relations see Lon. peri."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Stupefaction. Coma.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Conjunctiva red. Pupils dilated. Contraction of one pupil, dilatation of the other. Everything foggy and indistinct to vision for half an hour. Photophobia.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Face red. Pallor. Lips dry.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue moist; coated with mucus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Excessive thirst. Profuse vomiting; and purging. Abdomen retracted, esp. in umbilical region; soft. Violent colic.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Bloody stools.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Violent impulse of heart. Pulse: slow; small, soft, irregular.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleepy. Constant deep sleep with half-open eyes; red face.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Extremities cold. Fever. Profuse cold sweat. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

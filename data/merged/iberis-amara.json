@@ -1,0 +1,183 @@
+{
+  "id": "iberis-amara",
+  "names": {
+    "primary": "IBERIS AMARA",
+    "latin": "IBERIS AMARA",
+    "common": [
+      "Bitter Candytuft (IBERIS)",
+      "Candytuft, Bitter"
+    ],
+    "synonyms": [
+      "Iberis amara",
+      "Iberis Amara"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Sad and sighing; fearful and trembling. Irritable",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Sad, downhearted, oppressed, with desire to sigh. Very irritable, with dulness of mind and lack of memory. Nervous and irritable on rising in morning. Feels as if frightened ; an indefinable dread with trembling. An excited, frightened feeling, with cold sweat on face. Peculiar inability to fix mind on any one thing. Vertigo : with dull pain and chilliness ; when rising, morning, had to lie down ; when making any exertion, with nausea ; when standing, < on stooping ; in back part of head, as if occiput was turning around. Entering the house after walking felt faint. Heat and fulness in neck and head, with flushed face and cold feet and hands. Heaviness of head, with roaring in ears.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo and pains around heart. Constant hawking of thick, stringy mucus until after a meal. Hot, flushed face. Vertigo, as if occiput were turning around; eyes feel forced outwards",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pain in right side of head. Frontal headache : on rising in morning ; with nausea and loss of appetite. Heat in head and neck and flushed face. Dull pain in head, with vertigo and feverish chilliness.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Conscious of heart's action. On turning on left side, stitching pain as of needles through ventricles felt at each systole. Palpitation, with vertigo and choking in throat. Stitching pains in cardiac region. Pulse full, irregular, intermittent. Worse, least motion and in warm room. Sensation of weight and pressure, with occasional sharp, stinging pains. Dropsy, with enlarged heart. Violent palpitation induced by slightest exertion, or by laughing, or coughing. Darting pains through heart. Cardiac dyspnœa. Dilation of heart. Wakes with palpitation about 2 am. Throat and trachea fills up with mucus. Cough causes redness of face. Tachycardia",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Slight pain under sternum, at articulation of third rib. Fulness and constriction under sternum, with lancinating pain through chest. Continued feeling of weight and anxiety in chest. Fulness in chest, with fulness and heat in head and neck, and flushed face. Increased action of heart, full feeling in neck and head. Palpitation : with flushed hot face and red eyes ; with dull headache and flashes before eyes ; with heaviness of head, roaring, slight nausea ; on going up stairs. Stabbing pains in heart with constriction in throat. Palpitation, with vertigo and choking in throat after walking, and on entering house felt faint ; tingling and numbness commencing in fingers of left hand, gradually extending up arm, with irregular, tremulous and not well defined pulse ; dull, heavy aching in left arm. Increase of heart's action from 72 to 88, after fifteen minutes. A wavy, tremulous sensation in radial artery, felt by finger, pulse intermitting every third beat, easily compressible. Pulse has peculiar double beats, which seem to run into each other, full, soft and easily compressed. Palpitation of heart on slight exertion (pulling down a window). Palpitation plainly visible over whole chest, < by walking, > sitting still, but renewed by slightest exertion. Much pain over base of heart with dull, heavy pain in left arm, and tingling and numbness in tips of fingers. Sensation of weight and pressure in region of heart, with occasional sharp, stinging pains, passing from before backwards ; heart's action from 70 to 96. Hypertrophy of heart. Pulse rises from 60 to 94 after fifteen minutes, with slight pains in region of heart. Pains darting through heart at night, in bed ; < lying on l. side. Dull, dragging pain in heart not > by any position nor by pressing with hand. Sharp, sticking pain in heart, with constriction in throat, red eyes, flushed face. Pain as if needle were crosswise in ventricles, and pricked at each contraction. Palpitation with marked increase of force of apex beat, with irregular, jerking pulse, and a peculiar thrill under finger. Strong palpitation, with forcible impulse ; hand placed on heart was visibly moved. Palpitation when going up stairs, obliged to lie down, with dyspnœa and weak feeling. Constant dull pain in heart < lying down. Distressing palpitation with increase of dull pain, caused by coughing, laughing or slight exertion. With the full, intermittently irregular pulse auscultation revealed great excitement of heart. Contractions at intervals of three or four beats, after which there was a much longer interval. Near end of proving sounds of heart increased in intensity, especially region of semilunar valves. Force of apex beat visibly increased, heart impulse raised the touching hand ; pulse hard, jerking, intermitting every third beat ; rising from 70-90. Heart's action apparently weakened for the first few moments, in ten minutes pulse rose to 100, full, strong, somewhat irregular. Heart's action weak and fluttering, with small weak pulse.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Numbness and tingling in left hand and arm. Whole body sore, lame and trembling",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Tingling and numbness commencing in fingers of left hand, gradually extending up left arm, with irregular, tremulous pulse, not well defined. Dull, heavy aching in left arm. Tingling and numbness in finger tips, < lying on left side. Dull aching in left arm, as if he had slept on it all night. Rheumatic pains in right shoulder. Trembling of lower limbs after exercise. Cold feet and hands.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "lying down; on left side; motion, exertion; warm room",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Tincture and first potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">IBERIS AMARA Bitter Candytuft (IBERIS) State of nervous excitement. Has marked action upon the heart. Possesses great efficacy in cardiac diseases. Control vascular excitement in hypertrophy with thickening of the heart's walls. Cardiac debility after influenza. Liver region full and painful. White stools.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "This plant is an erect, rather stiff, very bitter annual, 6 to 12 inches high; flowers milky white, forming a terminal flat corymb; leaves oblong, lanceolate, acute, toothed; pod nearly orbicular, the long style projecting from notch at top; it flowers with the corns.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Leaves, stem, root, seeds.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Feels weary, with desire to lie down. Feeling of general nervous excitement. Feeling of inability to move even a finger ; great weakness and debility. Nervous and irritable on rising in morning. Feeling of lameness and soreness through whole body, as from a cold. Looks as if he had been ill a long while. Trembling sensation all over, had to lie down. Desire for stimulants. Quickly passing febrile attacks. After ten minutes : pulse rose from weak to 100. After fifteen minutes : a wavy, tremulous sensation in radial artery, with pulse intermitting every third beat ; pulse rises from 60 to 94. For many hours : dryness of larynx and throat, with hawking up of thin, stringy mucus. Right : pain in side of head ; fulness and oppression in hypochondriac region ; rheumatic pain in shoulder. Left : tingling and numbness commencing in fingers, extending up arm ; dull, heavy aching in arm. From before backward : sharp, stinging pains in heart. As if frightened ; as if occiput was turning around ; as if eyes were being forced out ; as if throat was filled with dust ; as if both tonsils were enlarged ; as if needles were crosswise in ventricles ; as if he had been asleep on left arm all night. Pain : in right side of head ; in region of liver. Much pain : over base of heart. Stabbing pains : in heart. Lancinating pain : through chest. Darting pains : through heart. Sharp, sticking pain : in heart. Sharp, stinging pain : passing from before heart backwards. Pricking pain : at each contraction of heart. Dull, dragging pain : in heart. Dull, heavy aching : in left arm. Dull pain : in head ; in heart. Rheumatic pains : in right shoulder. Slight pain : under sternum at articulation of third rib ; in region of heart. Feeling of lameness and soreness : all over body. Heat and fulness : in neck and head ; in throat ; Fulness and distension : of bowels. Fulness and constriction : under sternum. Fulness and oppression : in right hypochondriac region. Fulness : in chest. Tenderness of bowels. Great weakness and debility. Faint feeling : after walking. Weary feeling. Choking sensation : in throat. Constrictive sensation : in throat ; in larynx. Tightness : in larynx. Tickling : in throat. Dryness : in larynx and throat. Sensation of weight and pressure : in region of heart. Continued feeling of weight and anxiety : in chest. Heaviness : of head. Roaring : in ears. Tingling and numbness : commencing in fingers of left hand, extending up arm. Wavy, tremulous sensation : in radial artery. Trembling : of lower limbs ; all over. Chilly feelings : over body. Cardiac affections ; bronchitis ; asthma ; dropsy. TOUCH. PASSIVE MOTION. INJURIES. [45] [Iber.]. Pressure : by hand does not > pain in heart.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Found in various parts of Europe and in English and Scotch cornfields, specially in limestone districts.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "A tincture made from the ripe seeds is much used in homoeopathy, but the plant is more generally used by American herbalists. All parts of the plant are used, leaves, stem, root and seeds, more particularly the latter. It has always been used for gout, rheumatism and kindred ailments, and is now usually combined with other plants for the same diseases in their acute form, and as a simple to allay excited action of the heart, especially when it is enlarged. For asthma, bronchitis and dropsy it is considered very useful.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Red eyes with flushed face. Feeling in eyes as if being forced outward. Flashes before eyes, with dull headache and palpitation of heart.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Dulness of hearing and comprehension. Dull hearing and labored breathing. Roaring in ears, with heaviness of head, slight nausea and palpitation of heart.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "face": [
+      {
+        "text": "Looks as if he had been ill a long while. Flushed hot face and red eyes, with palpitation. Cold sweat on face, with fearfulness.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Throat dry as if filled with dust. Throat feels as if both tonsils were enlarged. Constant hawking up of thick, viscid, stringy mucus > after a meal. Choking sensation : in throat, with fulness and heat ; just above cricoid cartilage. Constrictive sensation in throat, with stabbing pains in heart, dyspnœa and palpitation.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Iber.]. Loss of appetite, with feeling of indigestion. Desire for stimulants. After eating : sour belching ; hawking of stringy mucus >. Hiccough, Belching, Nausea and Vomiting. Nausea, with cold, chilly feelings over body. Fulness and oppression in right hypochondriac region. Pain in region of liver with clay colored stool. Fulness and distension of bowels. Tenderness of bowels, with thin, whitish stool.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Stool : clay colored ; thin, whitish ; large, white.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Frequent but scanty urination. Excessive evacuation of urine.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Iber.]. Choking sensation just above cricoid cartilage. Dryness in larynx and throat, with hawking up of thin, stringy mucus, for many hours ; > after eating. Tickling in throat, with expectoration of stringy mucus. Tightness and constrictive feeling in larynx. Dyspnœa and palpitation on going up stairs. Constant desire to draw a long breath, without relief. Respiration more frequent and labored.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "Sensation of fulness in neck and head.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "At night in bed darting through heart. Sleep at night disturbed by all sorts of dreams. Restless, turning in bed, with ludicrous dreams. Restless nights with horrid dreams.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Heat and fulness in neck and head with flushed face and cold feet and hands. Feverish chilliness. Cold, chilly feeling with nausea. Quickly passing febrile paroxysms.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare : Amyg. amara, Bellad., Cact. grand., Digit",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "grieve-modern-herbal-1931",
+      "hering-guiding-1879"
+    ]
+  }
+}

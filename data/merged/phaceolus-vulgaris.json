@@ -1,0 +1,44 @@
+{
+  "id": "phaceolus-vulgaris",
+  "names": {
+    "primary": "Phaceolus vulgaris",
+    "latin": "Phaceolus vulgaris",
+    "common": [
+      "Bean, Kidney"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Native of Indies; cultivated all over Europe; also said to be found in ancient tombs in Peru.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "This well-known plant has been cultivated from remote times. Because of the seeds close resemblance to the male testicle, the Egyptians made it an object of sacred worship and forbad its use as food. In Italy at the present day beans are distributed among the poor, on the anniversary of a death. The Jewish high priest is forbidden to eat beans on the day of Atonement.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Starch and starchy fibrous matter, phaseoline, extractive albumen mucilage, pectic acid, legumin fatty matter, earthy salts, uncrystallizable sugar, inosite, sulphur.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "When bruised and boiled with garlic Beans have cured otherwise uncurable coughs. If eaten raw they cause painful severe frontal headache, soreness and itching of the eyeball and pains in the epigastrium. The roots are dangerously narcotic.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

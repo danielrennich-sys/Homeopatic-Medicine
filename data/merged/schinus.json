@@ -1,0 +1,58 @@
+{
+  "id": "schinus",
+  "names": {
+    "primary": "Schinus",
+    "latin": "Schinus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T SCHINUS. Schinus molle, Linn. Natural order , Anacardiaceæ. Common names . This evergreen shrub, a native of Mexico and South America, is frequently cultivated in Southern California under the names \"Pepper tree,\" \"Chili pepper,\" etc. Preparation , Tincture of the berries. Authorities. 1 , Dr. P. W. Poulson, Med. Invest., 1875, 1, p. 449, Miss --- ate three or four berries after dinner; 2 , effects on Dr. P. of eating leaves and berries. ► She was shortly after attacked with pain in the bowels and long-continued vomiting. She expressed herself to me, \"It was if all my bowels should be emptied out.\" When the gastric symptoms abated a little, a profuse diarrha continued all night. The vomiting was extremely painful, but the diarrha was painless, [1] . ► Heartburn, dryness of the sophagus and breath, rolling and flatulence of the bowels, and a griping sensation in the liver; also a kind of drawing sensation as in the spinal cord and cerebellum, [2] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Diarrhœa; Liver, griping pain in. Œsophagus, dryness of; Spinal cord, drawing in; Vomiting",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Allen says Schinus is an evergreen shrub, native of Mexico and South America, and frequently cultivated in Southern California under the names \"Pepper tree\" and \"Chili pepper.\" The symptoms were observed by Dr. P. W. Poulson on a young lady who ate a few berries after dinner, and on himself. Poulson ate leaves as well as berries, and he had heartburn, griping in liver, and \"a kind of drawing sensation as in the spinal cord and cerebellum.\"",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Anac., Rhus, Comoc."
+      ]
+    },
+    "stomach_abdomen": [
+      {
+        "text": "Long-continued vomiting, \"as if all the bowels would be emptied out\"; vomiting very painful, as the vomiting subsided diarrhœa came on, the diarrhœa being painless. Heart burn, dryness of œsophagus. Rolling and flatulence in the bowels, and a griping sensation in the liver.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Painless diarrhœa following painful vomiting. Profuse diarrhœa continuing all night.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Drawing sensation as in the spinal cord and cerebellum. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

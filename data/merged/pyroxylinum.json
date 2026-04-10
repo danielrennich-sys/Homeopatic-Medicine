@@ -1,0 +1,50 @@
+{
+  "id": "pyroxylinum",
+  "names": {
+    "primary": "Pyroxylinum (U. S. P.)",
+    "latin": "Pyroxylinum (U. S. P.)",
+    "common": [
+      "Pyroxylin"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "SYNONYMS: Soluble gun-cotton, Colloxylin, Collodion cotton, Lana collodii.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Preparation.—\"Purified cotton, one hundred grammes (100 Gm.) [3 ozs. av., 231 grs.]; nitric acid, fourteen hundred cubic centimeters (1400 Cc.) [47 fl℥, 163♏︎]; sulphuric acid, twenty-two hundred cubic centimeters (2200 Cc.) [74 fl℥, 187♏︎]; alcohol, ether, water, each, a sufficient quantity. Mix the acids gradually in a glass or porcelain vessel, and, when the temperature of the mixture has fallen to 32° C. (90° F.), add the purified cotton. By means of a glass rod imbue it thoroughly with the acids, and allow it to macerate, until a sample of it, taken out, thoroughly washed with a large quantity of water, and subsequently with alcohol, and pressed, is found to be soluble in a mixture of one (1) volume of alcohol and three (3) volumes of ether. Then remove the cotton from the acids, transfer it to a larger vessel, and wash it, first, with cold water, until the washings cease to have an acid taste, and then with boiling water, until they cease to redden blue litmus paper. Finally, drain the pyroxylin on filtering paper, and dry it in small, detached pellets, by means of a water-bath or steam-bath, at a temperature not exceeding 60° C. (140° F.). Keep the pyroxylin, loosely packed, in well-closed vessels containing not more than about 25 Gm., in a cool and dry place, remote from lights or fire\"—(U. S. P.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "In this process, the cellulose of the cotton is converted into cellulose nitrates of variable composition. If nitric acid of the highest concentration (specific gravity 1.48 to 1.5) be used, a cellulose hexa-nitrate (C12H14[NO3]6O10) is formed, which, together with the penta-nitrate, constitutes gun-cotton proper. These nitrates are insoluble in a mixture of alcohol and ether, also in methyl alcohol and acetic ether, hence can not be used in the preparation of collodium (which see). When the nitric acid is allowed to act upon the cotton for a shorter time, or if a weaker acid be used for a correspondingly longer time, as in the above U. S. P. process, the di-, tri-, and tetra-nitrates of cellulose are formed, which are soluble in the above alcohol-ether mixture, also in acetic ether and in methyl alcohol. It is important regarding the keeping qualities of both gun-cotton and pyroxylin, that the nitric acid or the potassium nitrate (which is sometimes employed in the place of the acid) be free from chlorides, and the cotton be absolutely deprived of its fatty and waxy matter previously, otherwise slow decomposition, with evolution of red, nitrous vapors, or even dangerous explosions will occur. For the same reason the finished product must be absolutely freed from its adhering acid by thorough washing.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Description and Uses.—Pyroxylin does not materially differ in appearance from ordinary cotton. It is, perhaps, somewhat rougher to the touch. Pyroxylin and gun-cotton were formerly termed nitro-cellulose, which name is inappropriate, because these products do not contain the nitro group (NO2) as does, for example, nitrobenzol (C6H5NO2). They are cellulose ethers of nitric acid—2, 3, or 4 atoms of hydrogen of the cellulose molecule (C12H20O10) being replaced by the nitric radical; thus the tri-nitrate has the formula C12H17(NO3)3O10. Cellulose hexa-nitrate differs from cellulose also by being insoluble in cupric ammonium sulphate (Schweitzer's reagent).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The various cellulose nitrates, when treated with warm alkalies, are gradually deprived of their nitric acid. Cold, concentrated sulphuric acid also expels nearly all nitric acid. Treatment of these nitrates with reducing agents, such as potassium sulphydrate (KSH) or ferrous acetate, etc., likewise denitrates these compounds with regeneration of cellulose (see Durand Woodman, Amer. Jour. Pharm., 1892, p. 481). When the nitrate is boiled with ferrous sulphate and hydrochloric acid, all of the nitrogen is expelled in the form of nitric oxide (NO), the volume of which may be measured (Schloesing's method) by means of this reaction; the degree of nitration of pyroxylin or gun-cotton may, therefore, be determined.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Pyroxylin should be kept free from moisture, and should be put loosely into the container. Gun-cotton, when subjected to a sudden percussion, especially by the intervention of fulminating mercury, explodes violently. When ignited in small quantities, it quietly, although rapidly, burns off; when thoroughly saturated with water, it is perfectly harmless. The chief products of its combustion are nitrogen, nitric oxide, carbon monoxide, carbon dioxide, water vapor, methane, etc. As it leaves no residue upon burning, the combustion may be said to be practically smokeless; for this reason gun-cotton is used in the preparation of smokeless powder. Gun-cotton has also been recommended as a filtering medium for strong oxidizers, such as solution of potassium permanganate, nitric acid, chromic acid, etc. Pyroxylin is not used in medicine, but is chiefly employed in preparing collodion (which see).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "kings-american-1898"
+    ]
+  }
+}

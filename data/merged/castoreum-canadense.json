@@ -1,0 +1,52 @@
+{
+  "id": "castoreum-canadense",
+  "names": {
+    "primary": "CASTOREUM CANADENSE",
+    "latin": "CASTOREUM CANADENSE",
+    "common": [
+      "The Beaver (CASTOREUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mouth_throat": [
+      {
+        "text": "Swollen. Rounded elevation size of a pea in center, with drawing sensation from center to hyoid bone",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Dysmenorrhœa; blood discharged in drops with tenesmus. Pain commences in middle of thighs. Amenorrhœa, with painful tympanites",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Predominant chilliness. Attacks of chilliness with ice-coldness in back",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "relationships": {
+      "antidoted_by": [
+        "Colch"
+      ]
+    },
+    "dosing": {
+      "notes": "Tincture, and lower potencies"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CASTOREUM CANADENSE The Beaver (CASTOREUM) A great remedy for hysteria. Prostration marked. Hysterical symptoms. Day-blindness; cannot endure the light. Nervous women who do not recover fully, but are continually irritable, and suffer from debilitating sweats. Spasmodic affections after debilitating diseases. Constant yawning. Restless sleep with frightful dreams and starts.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

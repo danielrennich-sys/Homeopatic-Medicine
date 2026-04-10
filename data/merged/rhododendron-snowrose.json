@@ -1,0 +1,36 @@
+{
+  "id": "rhododendron-snowrose",
+  "names": {
+    "primary": "Rhododendron. Snowrose. (Ericaceae)",
+    "latin": "Rhododendron. Snowrose. (Ericaceae)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Nervous persons who dread a storm and are particularly afraid of thunder; change of weather, thunderstorm, windy weather. Acute inflammatory swelling of joints, wandering from one joint to another; severe at night; worse at rest and in wet, cold windy weather (Rhus). Cannot get sleep or remain asleep unless legs are crossed. Gout with fibrous deposit in great toe-joint, rheumatic, often mistaken for bunion (Colch., Led.). Induration and swelling of the testicle after gonorrhoea or rheumatic exposure (Clem.); orchitis, sensation in gland as if it were being crushed (Aur., Cham.).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Compare: Bry., Con., Cal., Led., Lyc., Sep., Rhus.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - Stormy, windy weather, electrical changes in the atmosphere; on approach of thunderstorm; symptoms reappear with rough weather.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Amelioration. - Better from wrapping the head warmly; dry heat and exercise.",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

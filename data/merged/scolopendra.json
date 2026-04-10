@@ -1,0 +1,69 @@
+{
+  "id": "scolopendra",
+  "names": {
+    "primary": "Scolopendra",
+    "latin": "Scolopendra",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T SCOLOPENDRA. Scolopendra (various species). Animal kingdom: Class , Myriopoda; Order , Chilopoda; Sub-order , Scolopendridæ. Common name , Centipede. Authorities. 1 , Dr. H. C. Wood, Jr., Am. J. of Med. Sc., 1866, 2, p. 575, a girl of four years was bitten by \"S. heros,\" death in six hours; 2 , Rounsarelle, Nashville J. of Med. (Am. Obs., 1870, p. 31), a man bitten on the arm; 3 , Sebastiany, Gaz. des Hôp., 1870 (S. J., 153, 314), two cases of bite by \"S. morsitans,\" a girl on the finger and a man on the arm. ► Vertigo, [3] . ► Headache, [3] . ► Nausea (after one hour and a half), [2] . ► Vomiting of a pale-yellow glairy matter, which continued at short intervals with increasing violence, until the child, in a convulsive struggle, ceased to breathe, [1] . ► Vomiting, [3] . ► Præcordial anxiety, [3] . ► Arm greatly swollen, erysipelatous blush extending over half the arm; black dotted impressions in two rows, three-quarters of an inch apart, elevated with dark lines, extending across from dot to dot, five and a half inches in length, thus showing the entrance of every foot; pain deep and dull (after one hour and a half), [2] . ► Instant complaint, which grew rapidly worse, which was described by the child as being all over, [1] . ► A large red spot, becoming black, in the middle of which there forms an eschar as large as a five-franc piece, [3] . [10.] ► The whole affection resembled a malignant pustule, and was associated with swelling of the lymphatic glands, [3] . ► Violent itching, followed by violent pain in the bitten part, [3] . ► No perspiration of the right arm for three months , [2] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Angina pectoris; Convulsions; Malignant pustule",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Arm greatly swollen; erysipelatous blush extending half over arm; black dotted impression in two rows three-quarters of an inch apart, raised in dark lines extending from dot to dot, 51 inches long, thus showing the entrance of every foot; pain deep and dull; no perspiration on r. (bitten?) arm for three months. Instant complaint which grew rapidly worse, which was described by the child as being all over (from S. heros. The child, a girl of four, died in 8 h.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The effects of Centipede bites have been observed on several persons. Swelling, pain, inflammation, and gangrene of the bitten part, with appearance like malignant pustule in one case, were constant symptoms. Vomiting and præcordial anxiety occurred, and in one fatal case the paroxysms of vomiting increased in intensity till the child in a convulsive struggle ceased to breathe. A symptom worth noting is \"No perspiration of the right arm for three months.\"",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo. Headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea. Vomiting of a pale yellow, glairy matter, continued at short intervals with increasing violence, till the child in a convulsive struggle ceased to breathe.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Præcordial anxiety.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "A large red spot, becoming black, in the middle of which an eschar forms as large as a five-franc piece. The whole affection resembled a malignant pustule, and was associated with swelling of lymphatic glands. Violent itching, followed by violent pain in bitten part.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "No perspiration of r. arm for three months. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

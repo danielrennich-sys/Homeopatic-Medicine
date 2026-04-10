@@ -1,0 +1,35 @@
+{
+  "id": "antimonium-muriaticum",
+  "names": {
+    "primary": "Antimonium Muriaticum",
+    "latin": "Antimonium Muriaticum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "This remedy is unproved. It has been used in cancer of lower lip. Poisoning symptoms show-stupor, insensibility, collapse and cold, clammy surface. Pupils inactive, eyes sunken, lustreless. Nausea, vomiting, burning pains in throat and stomach; frequent abortive efforts to defecate. Mucous membranes destroyed.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Cancer of lip",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Other antimony salts; Acids; Arsen., Carb. v., Conium (cancer of lower lip and ineffectual urging to stool). Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "quillaya-saponaria",
+  "names": {
+    "primary": "QUILLAYA SAPONARIA",
+    "latin": "QUILLAYA SAPONARIA",
+    "common": [
+      "Chile Soap-bark"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "[Squamous] Compare: Kali hyd; Gels; Cepa; Squilla. Saponaria (sore throat, involuntary urination). Senega",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture and first potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">QUILLAYA SAPONARIA Chile Soap-bark Produces and cures symptoms of acute catarrh, sneezing and sore throat. Most effective in the beginning of coryza, checking its further development. Colds with sore throat; heat and dryness of throat. Cough with difficult expectoration.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

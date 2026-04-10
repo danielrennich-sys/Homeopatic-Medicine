@@ -1,0 +1,36 @@
+{
+  "id": "alumina-pure",
+  "names": {
+    "primary": "Alumina. Pure Clay. (Al2O3.)",
+    "latin": "Alumina. Pure Clay. (Al2O3.)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Adapted to persons who suffer from chronic diseases; \"the Aconite of chronic diseases.\". Constitutions deficient in animal heat (Cal., Sil.). Spare, dry, thin subjects; dark complexion; mild, cheerful disposition; hypochondriacs; dry, tettery, itching eruption, worse in winter (Petr.); intolerable itching of whole body when getting warm in bed (Sulph.); scratches until bleeds, then becomes painful. Time passes too slowly; an hour seems half a day (Can. Ind.). Inability to walk, except with the eyes open, and in the daytime; tottering and falling when closing eyes (Arg. n., Gels.). Abnormal appetite; craving for starch, chalk, charcoal, cloves, coffee or tea grounds, acids and indigestible things (Cic., Psor.); potatoes disagree. Chronic eructations for years; worse in evening. All irritating things - salt, wine, vinegar, pepper - immediately produce cough. Constipation: no desire for and no ability to pass stool until there is a large accumulation (Melil.); great straining, must grasp the seat of closet tightly; stool hard, knotty, like laurel berries, covered with mucus; of soft, clayey, adhering to parts (Plat.). Inactivity of rectum, even soft stool requires great straining (Anac., Plat., Sil., Ver.). Constipation: of nursing children, from artificial food; bottle-fed babies; of old people (Lyc., Op.); of pregnancy, from inactive rectum (Sep.). Diarrhoea when she urinates. Has to strain at stool in order to urinate. Leucorrhoea: acrid and profuse, running down to the heels (Syph.); worse during the daytime; > by cold bathing. After menses: exhausted physically and mentally, scarcely able to speak (Carbo an., Coc.). Talking fatigues; faint and tired, must sit down.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relationship. - Complementary: to Bryonia. Follows: Bry., Lach., Sulph. Alumina is the chronic of Bryonia. Similar: to Bar. c., Con., in ailments of old people.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - In cold air; during winter; while sitting; from eating potatoes; after eating soups; on alternate days; at new and full moon.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Amelioration. - Mild summer weather; form warm drinks; while eating (Psor.); in wet weather (Caust.). Alumina is one of the chief antidotes for lead poisoning; painter's colic; ailments from lead.",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

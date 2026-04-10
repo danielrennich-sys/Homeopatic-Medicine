@@ -1,0 +1,41 @@
+{
+  "id": "chasteberry",
+  "names": {
+    "primary": "Chasteberry",
+    "latin": "Chasteberry",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "The chasteberry plant, also called chaste tree or shrub, is native to the Mediterranean and Central Asia regions. Extracts of chasteberry may be prepared from the herb’s leaves, stems, flowers, and seeds. The name “chasteberry” may reflect the traditional belief that the plant promoted chastity. In the Middle Ages, chasteberry was reportedly used by monks to decrease sexual desire. Chasteberry was also traditionally used for psychological illnesses, gynecological disorders, and hormone-associated skin conditions. Today, chasteberry is promoted as a dietary supplement for symptoms of premenstrual syndrome (PMS), breast pain or tenderness associated with the menstrual cycle, infertility, menopause symptoms, and other conditions.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "Several studies of low-to-moderate quality in people have evaluated chasteberry for alleviating PMS symptoms such as breast pain or tenderness. There isn’t a lot of strong research on the effectiveness of chasteberry for other conditions. Much research has been conducted on the safety of this herb and has determined that chasteberry supplementation may not be safe for women with hormone-sensitive conditions, such as breast, uterine, or ovarian cancer. Some preclinical evidence states that the use of chasteberry during pregnancy or while breastfeeding may be unsafe.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "Some research has suggested that chasteberry might reduce PMS symptoms such as breast pain or tenderness, but higher-quality evidence is needed to reach any definitive conclusions. One study suggested that chasteberry might reduce heavy menstrual bleeding related to an intrauterine device (IUD), but the evidence is of low quality. There isn’t enough reliable evidence to know if chasteberry would help with sexual dysfunction or infertility (but chasteberry may be unsafe during pregnancy). A preliminary study suggested that chasteberry might help with some menopausal symptoms, but more research is needed to study this potential effect. Initial reports have suggested that some chasteberry extracts might have antifungal effects, but more research is needed to explore this potential in people.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Chasteberry is generally well tolerated in the short term. Chasteberry fruit extract has been used safely in research studies for up to 3 months. Side effects are generally mild and may include nausea, stomach pain, diarrhea, headache, or itching. Chasteberry supplementation may not be safe for women with hormone-sensitive conditions, such as breast, uterine, or ovarian cancer. The use of chasteberry during pregnancy or while breastfeeding may be unsafe.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

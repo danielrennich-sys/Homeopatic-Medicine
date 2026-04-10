@@ -1,0 +1,106 @@
+{
+  "id": "voeslau",
+  "names": {
+    "primary": "Voeslau",
+    "latin": "Voeslau",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Rosenberg observed the effects of Voeslau on the healthy. His symptoms constitute the Schema. The waters produce: Orgasm of blood; pressure and tension. The throat was sensitive to swallowing warm food and drink. Nettlerash with desquamation. In males there was sexual excitement and emissions; and in females increased secretion of mucus in genitals and many troubles connected with menses.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Menstruation, disorders of; Seminal emissions; Urticaria; Vertigo",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Hoarseness and dryness in throat, painful sensitiveness on swallowing warm food and drink. Dry cough with slight pains in chest. Weakness and falling asleep of limbs. Emaciation of young people. Uneasiness and unsteadiness at work. Increased sensitiveness, esp. to external air.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Mind restless and excited. Irritability, peevishness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo and whirling in head. Reeling and tottering of whole body two or three hours after a bath. Congestion to head and orgasm of blood. Heaviness of head.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Hoarseness and dryness in throat, painful sensitiveness swallowing warm food or drink.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Appetite is increased after the first bath. Heaviness and sensation of fulness in stomach. Sensitiveness and pressure in stomach after eating. Pressure and tension in hepatic region, extending to r. shoulder.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Thin stools, increasing to diarrhœa, with a slight degree of tenesmus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Frequent desire and frequent micturition. Urine: first days red, afterwards watery and copious. Increased secretion from prostate.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Erections. Rush of blood to genitals. Nocturnal emissions.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Increased secretion of mucus from genitals. Menses: delayed; diminished, accompanied with numerous troubles; offensive; too frequent and copious.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Congestion to chest and other organs. Oppression; respiration difficult, rapid, short.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching nettlerash on whole body after fourteen baths, ending in desquamation. Itching, heat, biting, esp. towards midnight, previous to the outbreak of perspiration.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Overpowering sleepiness during day; esp. afternoon.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Coldness and chilliness at times changing to heat, with increased thirst. Flushes of heat without thirst. Perspiration in bed towards morning. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

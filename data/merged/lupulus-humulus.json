@@ -1,0 +1,59 @@
+{
+  "id": "lupulus-humulus",
+  "names": {
+    "primary": "LUPULUS HUMULUS",
+    "latin": "LUPULUS HUMULUS",
+    "common": [
+      "Hops"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Morbid vigilance. Highly excited. Dull, heavy headache with dizziness. Drawing and twitching in every muscle",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Drowsy during the day. Sopor",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Painful erections. Emissions, depending on sexual weakness and after organism. Spermatorrhœa",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Scarlatina-like eruption on face. Feels like insects crawling under skin; feels chapped, skin peels",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "relationships": {
+      "antidoted_by": [
+        "Coffea",
+        "Vinegar"
+      ]
+    },
+    "dosing": {
+      "notes": "Tincture, to third potency. Lupulin 1X trit (Best in seminal emissions. Locally in painful cancers)"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">LUPULUS HUMULUS Hops Is a good remedy in unstrung conditions of the nervous system attended with nausea, dizziness, headache following a night's debauch. Infantile jaundice, Urethral burning. Drawing and twitching in almost every muscle. Nervous tremors; wakefulness and delirium of drunkards. Giddiness and stupefaction. Slow pulse. Perspiration profuse, clammy, greasy.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

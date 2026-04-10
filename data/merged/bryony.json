@@ -1,0 +1,30 @@
+{
+  "id": "bryony",
+  "names": {
+    "primary": "Bryony, European White",
+    "latin": "Bryony, European White",
+    "common": [
+      "Bryony, European White"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "preparation": [
+      {
+        "text": "Root. The Black-berried White Bryony is a plant very similar in general appearance to Bryonia dioica , having also palmate rough leaves and similar unisexual flowers, which are succeeded, however, by globular black berries. The root is very similar to that of Bryonia dioica and contains the same substances, but it is stated also to contain a glucoside Brein , which causes the drug to produce a somewhat different physiological effect. The tincture is used by homoeopathists, and is said to be one of the best diuretics in medicine. It is an excellent remedy in gravel and all other obstructions and disorders of the urinary passages, and has also been used for relieving coughs and colds of a feverish, bronchial nature.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Fluid extract, 1/6 to 1 drachm Bryonin, 1/4 to 2 grains.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

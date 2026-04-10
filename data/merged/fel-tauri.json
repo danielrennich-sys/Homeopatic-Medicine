@@ -1,0 +1,120 @@
+{
+  "id": "fel-tauri",
+  "names": {
+    "primary": "Fel Tauri",
+    "latin": "Fel Tauri",
+    "common": [
+      "Ox-gall"
+    ],
+    "synonyms": [
+      "FEL TAURI"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T FEL TAURI. Ox-gall. (Bilis Bovina.) Preparation , The inspissated or desiccated gall may be triturated with sugar of milk, or lower dilutions may be made with water. Authority. Dr. Buchner, A. H. Z., 20, 304, effects of small doses. MIND. ► Peevish, irritable mood. ► Greatly inclined to all kinds of business; unpleasant impressions did not affect him. HEAD. ► Confusion of the head. ► Violent headache in the morning, on pressure upon the right temple, extending towards the occiput and to the nape of the neck. MOUTH. ► Tongue white. STOMACH. ► Increased thirst. ► Odorless and tasteless eructations. ► Gurgling in the stomach and epigastric region. ABDOMEN. ► Rumblings and motions in the abdomen. [10.] ► Violent peristaltic movements of the intestines. STOOL. ► Stool thin, with urging and sensation of warmth in the anus. ► Stool thin, pasty, followed by pressing, although with crumbling fæces. URINARY ORGANS. ► Urging to urinate. ► Urine offensive. SEXUAL ORGANS. ► The scrotum itches and afterwards becomes moist. CHEST. ► Anxiety in the chest. ► Constriction of the chest, on waking at 3 A.M., he is unable to sleep again on account of the tightness of the breath, and cannot remain lying; it seems as though something in the throat prevented the free passage of the air; relieved by deep inspiration and sitting upright. NECK. ► Tension in the nape of the neck. EXTREMITIES. ► Some tearings in the left shoulder-joint, extending up to the nape of the neck. [20.] ► Cramp in the right great toe. SLEEP. ► Sound sleep in the morning, with some perspiration. ► No inclination to sleep after eating. ► Unable to sleep after eating, as he was accustomed to do. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Asthma; Constipation; Diarrhœa; Gall-stones; Headache; Indigestion; Rheumatism",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Some tearings in l. shoulder-joint, extending up to nape of neck. Cramp in r. toe.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Eructations, gurgling in stomach and epigastric region. Violent peristaltic movements. Tendency to sleep after eating",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Increased thirst. Odourless and tasteless eructations. Gurgling in stomach and epigastric region. Rumblings and motions in abdomen. Violent peristaltic movements.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "dosing": {
+      "notes": "Lower triturations. Purified oxgall 1 to 10 gr"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">FEL TAURI Ox-gall Increases the duodenal secretion, emulsifies fats and increases the peristaltic action of the intestines. Liquefies bile and acts as a purgative and chologogue. Disordered digestion, diarrhœa, and pain in nape of neck are among its chief symptoms. Obstruction of gall ducts. Biliary calculi. Jaundice.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Ox gall is a remedy of very ancient use. It is used in the old-school mostly as a purgative; for preventing putrefactive changes in the intestines, and for increasing peristalsis. It is sometimes given along with Opium to prevent the constipating effect of that drug. In the stomach bile is a foreign body, precipitating pepsin and causing irritation of the stomach. It does not aid the digestion either of albumen or of farinaceous substances. Fel. t. has been proved homœopathically by Buchner, and has produced a few characteristic symptoms: disordered digestion, diarrhœa, headache, pains in joints, and cramps. It removed a tendency to sleep after eating. Several symptoms were noticed in nape of neck.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Cholesterinum, Merc. dulc."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Peevish, irritable mood. Greatly inclined to all kinds of business; unpleasant impressions did not affect him.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Confusion. Violent headache in morning, on pressure upon r. temple, extending on to occiput and nape of neck.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue white. 11.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Stool thin with urging and sensation of warmth in anus. Stool thin, pasty, followed by pressing although with crumbling fæces.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urging. Urine offensive.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Scrotum itching and afterwards becomes moist.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Anxiety in chest. Constriction; on waking at 3 a.m. cannot sleep again for tightness of breath and cannot remain lying; it seems as though something in throat prevented free passage of the air; > by deep inspiration and sitting upright.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Tension in nape.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sound sleep in morning with some perspiration. No inclination to sleep after eating, as he was accustomed to do. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

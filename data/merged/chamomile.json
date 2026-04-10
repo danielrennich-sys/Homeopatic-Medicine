@@ -1,0 +1,41 @@
+{
+  "id": "chamomile",
+  "names": {
+    "primary": "Chamomile",
+    "latin": "Chamomile",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "There are two types of chamomile: German chamomile and Roman chamomile. This fact sheet focuses on German chamomile. Chamomile was described in ancient medical writings and was an important medicinal herb in ancient China, Egypt, Greece, and Rome. Today, chamomile is promoted for the common cold, indigestion, anxiety, insomnia, excessive crying in infants (colic), respiratory disorders such as cough and bronchitis, and many other conditions. It is also used topically for some skin conditions and as a mouthwash.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "Studies of the effectiveness of chamomile for a variety of specific conditions have not produced sufficient reliable evidence to rate clinical usefulness. Also, some studies look at products made of chamomile plus other herbs, so it is difficult to know chamomile’s exact role from those studies.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "Some preliminary studies suggest that a chamomile dietary supplement might be helpful for generalized anxiety disorder and associated depression. Some research has found that products containing certain combinations of herbs that include chamomile may be of benefit for diarrhea in children and for infants with colic. But chamomile alone has not been shown to be helpful for these conditions. Small studies suggest that mouthwashes containing chamomile might prevent or treat swelling or irritation in the mouth resulting from radiation therapy, chemotherapy, or stem cell transplantation. There’s very little information on chamomile’s effect on insomnia. A 2019 review of chamomile use found one study on insomnia, which found no benefit from its use for this sleep disorder.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Chamomile is likely safe when used orally in amounts commonly found in teas and other foods. It is possibly safe when used by adults and children orally for medicinal purposes over the short term. Using chamomile on the skin in adults and children or as an oral rinse for medicinal purposes is possibly safe at certain doses and over the short term. Side effects are uncommon and may include nausea, dizziness, and allergic reactions, including severe hypersensitivity reactions and anaphylaxis, in some people. If used near the eyes, chamomile might cause eye irritation. People are more likely to experience allergic reactions to chamomile if they’re allergic to related plants such as ragweed, chrysanthemums, marigolds, or daisies. Chamomile might have some of the same effects as estrogen. Preliminary studies suggest that taking chamomile along with birth control pills might decrease the effects of birth control pills. In addition, chamomile might worsen any condition that is sensitive to exposure to estrogen, such as breast or uterine cancer. Interactions between chamomile and some drugs metabolized by the liver and warfarin (a blood thinner) have been reported, and there are theoretical reasons to suspect that chamomile might interact with other drugs as well, such as sedatives. If you take any type of medicine, talk with your health care provider before using chamomile or other herbal products; some herbs and medicines interact in harmful ways. Little is known about whether it’s safe to use chamomile during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "oenanthe",
+  "names": {
+    "primary": "Oenanthe",
+    "latin": "Oenanthe",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "The root of Oenanthe crocata, Linné (Nat. Ord. Umbelliferae). A poisonous swamp plant of western and southern Europe. Dose, ⅛ to ½ grain. Common Names: Water Hemlock, Water Lovage, Hemlock Dropwort, Dead Tongue, Water Dropwort.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Principal Constituent.—An exceedingly toxic resin, soluble in alcohol but not in water. Preparation.—Specific Medicine Oenanthe. Dose, 1/20 to ½ drop.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—Small doses of oenanthe (5 drops of the specific medicine) may cause violent headache, dizziness, delirium, and other unpleasant symptoms. The fresh plant produces gastro-enteritis and convulsions, often with fatal results. It has been advocated for use in epilepsy, but its exact symptomatology has never been satisfactorily determined. It must be used in fractional doses, never to exceed ½ minim. It probably acts best when there is anemia of the brain, and has been suggested in maladies resulting from malnutrition and anemia of the cerebrum and cord.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "felter-eclectic-1922"
+    ]
+  }
+}

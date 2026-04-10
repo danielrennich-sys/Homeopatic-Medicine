@@ -1,0 +1,529 @@
+{
+  "id": "ailanthus-glandulosa",
+  "names": {
+    "primary": "AILANTHUS GLANDULOSA",
+    "latin": "AILANTHUS GLANDULOSA",
+    "common": [
+      "Chinese Sumach",
+      "Tree of Heaven"
+    ],
+    "synonyms": [
+      "Ailanthus Glandulosa",
+      "Ailanthus glandulosa (DESF.)",
+      "Ailanthus glandulosa"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "head": [
+      {
+        "text": "General stupor, with sighing. Confused mind, mental depression. Headache, frontal, with drowsiness. Passive congestion headaches. Suffused, dilated eyes; photophobia. Face dusky. Thin, copious, ichorous, bloody nasal discharge",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Severe headache, delirium, with fever and anxiety. Severe headache, with dizziness, and red, hot face; cannot sit up. Dizzy when rising up. Dull, heavy pressing in forehead; disinclined to think or act. Darting through temples and occiput, with confusion of ideas. Head burning hot with piercing pains.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Severe headache and giddiness ; face red and hot. Headache, with nausea. Dull headache : with burning in eyes ; with great oppression of chest ; with heavy feeling in sternal region ; with tingling in left arm and hand. Dull compressed feeling, confusion and pain in forehead. Dull heavy pressing in forehead ; disinclined to think or act. Darting through temples and back part of head, with confusion of ideas ; beating in occiput. Thick, heavy feeling in base and right side of head. Severe pain through temple on awaking. Pain in occiput, with dizziness and ringing ; pain in forehead ; also swelling under left eye from cheek. Head burning hot, with piercing pains. Severe headache, interrupted by delirium of a frightful kind, with fever and anxiety. θ Typhoid scarlatina. Beating in occipital arteries. Tender, bruised feeling over parieto-frontal sutures.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Inflamed, œdematous, dusky red. Much swelling, internal and external. Dry, rough, scraping, choking feeling. Neck tender and swollen. Hoarse, croupy voice. Tongue dry and brown. Teeth covered with sordes. Pain in swallowing extends to the ears",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Teeth covered with sordes. Tearing in teeth (l.) and face lying down, > walking about, and by external pressure. Tongue dry, parched, cracked. Tongue moist; furred white; tip and edges livid. Throat tender and sore on swallowing, or on admission of air. Throat sore on swallowing, hawks up a greenish purulent matter. Diphtheria, with extreme prostration. Throat livid, almost purple; swollen; tonsils prominent, and studded with many deep, angry-looking ulcers, oozing a scanty, fetid discharge; external neck swollen and sensitive. Irritability of the throat, and hawking up of mucus; puruloid; hard white lumps. Thick, œdematous and dry choky feeling in throat. Throat dry, rough and scrapy; in morning.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Teeth covered with sordes. θ Scarlatina. Tearing in upper and lower teeth, left side, also in face ; < lying down, forcing him to walk about ; external pressure relieves. Great bitterness (chewing the bark). Taste insipid, flat, feverish. θ Bronchial catarrh. Tongue dry, parched, cracked. Tongue moist and covered with white fur ; tip and edges livid. θ Scarlatina. Tongue thickly covered with a whitish coat, brown in centre. Fetid discharge from throat. Thick, œdematous and dry choky feeling in throat. Throat dry, rough and scrapy ; worse in morning. Irritability of throat and hawking up of mucus. Hawks up greenish puruloid matter. Throat tender and sore on swallowing, or on admission of air. Throat livid, swollen ; tonsils prominent and studded with deep ulcers, oozing a fetid, scanty discharge ; external neck swollen, sensitive. θ Scarlatina. Hawking of mucus, constant effort to raise hard lumps of whitish matter. Thyroid gland enlarged and tender. Diphtheria, with extreme prostration. Refused to swallow anything for 12 hours. θ Scarlatina. Throat much swollen, dark red, almost purple in color. θ Scarlatina.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Hurried breathing; irregular. Dry, hacking cough. Lungs sore and tired",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Ail.]. Aphonia preceding cough. Voice hoarse, failing ; almost lost on awaking in morning. Croupy choking. Oppression of bronchia, with dull headache. Breathing hurried, irregular, heavy. θ Scarlatina. Equable oppression as if chest was strapped ; feels as though air cells were stuck together. Sensation of fulness and smothering before expectorating. Wheezing, fluent coryza and sneezing ; asthmatic oppression in bronchi ; dyspnœa. θ Bronchial catarrh. Cough : deep, exhausting, with asthmatic expansion of lungs ; deep and painful ; dry, hacking ; in violent fits before retiring and on rising until sputum is raised ; dry, constant, with oppression, burning and pains in chest ; preceded by aphonia for a day or two. Cough with headache and congestion of face. θ Bronchial catarrh. Sputa : blood-mixed ; twice raised a mouthful of blood ; bitter, yellow, more mornings ; muco-purulent sputum, free in morning, sticky and scanty during day.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Drowsy, restless. Heavy, disturbed, unrefreshing",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Drowsy, restless, soon passes into insensibility. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sleep heavy or disturbed and unrefreshing. Sleepy : morning and forenoon ; after a glass of wine, with fulness of head. Drowsiness, followed by insensibility. During sleep : talks, moans, has sweat, is restless. Sleeps best on right side. θ Bronchial affections. Worse on waking. Restless and incoherent, most at night ; kept in bed with difficulty. θ Scarlatina.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Miliary, livid rash, returns annually. Large blisters filled with dark serum. Irregular, patchy, livid eruption, disappearing on pressure. Cold. Raynaud's disease",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Skin cold, dry, livid. Eruption scanty with sore throat; of a bluish tint; livid; forehead and face of a purplish colour. Body and limbs covered with an irregular patchy eruption of a livid colour disappearing on pressure, returning very slowly. Large blisters filled with dark serum. Eruptions of miliary rash in patches of dark, almost livid colour; most on forehead and face.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Skin cold, dry, livid. Itching around left ear, face, back and neck at night ; felt as if she would go crazy. Skin dry, but not hot. θ Scarlatina. Rash returns annually when the Ailantus tree blossoms (after poisoning). Eruption of miliary rash in patches of a dark, almost livid color. Rash looking like measles, but without catarrh (looks like syphilis). Irregular patchy, livid eruption, disappearing on pressure and returning very slowly ; interspersed with small vesicles ; < on forehead, neck and chest. θ Scarlatina. Eruption appeared scantily for two days, with sore throat and mild fever. θ Scarlatina. Large bullæ filled with a claret-colored serum. Petechiæ. θ Scarlatina. Malignant scarlet fever. Purple rash, with stupor. θ Scarlet fever. A livid miliary eruption. θ Scarlatina. Eruption plentiful, of a bluish tint. θ Typhoid scarlatina. Eruption is slow to make its appearance, remains livid, and even forehead and face take on a rather purplish color. θ Typhoid scarlatina. Body and limbs covered with an irregular patchy eruption of a very livid color, disappearing on pressure and returning very slowly. θ Scarlatina.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "antidoted_by": [
+        "Rhus",
+        "Nux"
+      ],
+      "_raw": [
+        "Ailanth. is related botanically to: Ptelea and the Xanthoxyleæ. It is antidoted by: Alcohol, Rhus t., Nux. Compare: Am. c., Arn., Arum tr., Aloe (dull frontal headache), Bap., Bry., Gels., Hyo., Lach., Nit. ac., Nux v., Phytol., Hydrocy. ac., Rhus t., Stram., Echin. a.",
+        "The nearest relation is Ptelea, proved by G. Bute, and the Zanthoxyleæ, if any ever should be proved",
+        "Similar are : Amm. carb. ; Arnic. (sore lungs) ; Arum. triph. ; Aloes ; Baptis. ; Bryon. Gelsem. ; Hyos. ; Laches. ; Nitr. acid ; Nux. vom. ; Phytol. ; Prussic acid ; Rhus tox. ; Stramon",
+        "Antidoted by : Bourbon whiskey (poisoning) ; Rhus tox. (headache and erysipelatous face, nausea, heavy sleepy feeling) ; Nux vom. (general effects)",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "dosing": {
+      "notes": "First to sixth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">AILANTHUS GLANDULOSA Chinese Sumach This remedy shows by its peculiar skin symptoms its pronounced power of disorganizing the blood, causing conditions we meet with in low fevers, low types of eruptive diseases, diphtheria, follicular tonsillitis, Streptococcus infection, Hæmorrhagic diathesis, etc. The skin appears livid or purplish; face dark as mahogany, hot; sordes; throat swollen, purple, livid; semi-conscious, delirious; weak pulse, general torpor and prostration. Symptoms remarkably alike to malignant scarlatina. Diarrhœa, dysentery and great weakness are very marked. Adynamia characterizes all its conditions. Lividity, stupor and malignancy. Mucous membranes hæmorrhagic and ulcerative (Lach. Ars).",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Corresponds to conditions characterised by certain livid or purpled appearances of the skin. Rash coming out in patches. Eruptions which are slow in appearing. Low adynamic forms of disease with extreme prostration, torpor, vomiting. Prostration at the outset of a disease is a leading indication for it. The patient is stupid, dull, delirious, weak. It has proved of signal service in cases of malignant and suppressed scarlatina. The head is burning hot, with piercing pains. The parotid glands are sensitive and enlarged. The attacks are characterised by fulness of head with heat; pains burning, darting in temples and occiput; vertigo and nausea. The rash of Ailanth. often returns annually. A feeling of fulness everywhere, and a sensation of passage of electric current from head into limbs are prominent in the provings. With the low fever of Ailanth. there is stupor or indifference with sighing. There is constant frontal headache of a neuralgic character. Paroxysmal headache with drowsiness during day, confused mind, depression. The throat is severely affected: thick, œdematous, dry, choky feeling. Dry, rough, scrapy, morning. Livid, swollen, with ulcers oozing a fetid discharge. The symptoms are > lying on right side (bronchial affections). Sitting up = vomiting, dizziness. Motion = staggering. Walking about > toothache. It is suited to nervous, sensitive persons. Bilious temperament. Stout and robust.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "A large, handsome tree of rapid growth, bearing leaves from 1 to 2 feet long, and greenish flowers of a disagreeable odour. Was introduced into England in 1751 and is frequently found in gardens as a shade tree. The Ailanthus imberiflora occurs in Australia, and in India the A. excelsa has a bark used as a bitter tonic. In France it is cultivated for its leaves, on which the caterpillar of the silk-spinning Ailanthus Moth ( Bombyx Cynthia ) is fed, yielding a silk more durable and cheaper than Mulberry silk, though inferior to it in fineness and gloss. Its name of Japan Varnish shows that it was mistaken for the true Japanese Varnish Tree, a species of Sumach. At one time it was classed as a Rhus. The wood is satiny, yellowish-white, and well suited for cabinet-making when climates permit of adequate growth. The bark has a nauseating, bitter taste, and, when fresh, a sickening odour. The leaves have been found in commerce adulterated with those of senna.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ailanthus Glandulosa",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Generalities: This medicine is especially suitable in the low zymotic forms of sickness, such as we find in diphtheria and scarlet fever, in blood poisoning and in symptomatic typhoids, especially those cases that are characterized by capillary congestion in spots, red mottled spots.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Scarlet: Perhaps the most striking manifestation of such a low type of sickness is malignant scarlet fever. The regular rash does not come out, but in its place red spots, roseola-like, make their appearance; the usual uniform spread of the eruption has failed, or has been suppressed, and there is bleeding from the gums and nose, and dreadful tumefaction in the throat.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The countenance is purple and besotted, the eyes are congested and there is even bleeding from the eyes. There is an appearance of great prostration, but it is really stupefaction; he seems stupid and benumbed.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "If you look at the throat you see it is covered with little purple patches, intermingled with an oedematous appearance similar to that found in Baptisia. It is a low depressed type of sickness.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "De composition of the blood is going on rapidly. The blood that oozes is black. The child is going into a state of stupor and it is with difficulty that he can be aroused. Sometimes blisters are formed on the ends of fingers, or here and there over the body. From the mouth and nose come foetid odors. The child is going as rapidly as possible into a form of malignant disease.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sometimes the disease comes on as a light febrile attack, but from taking cold and suppressing some of the natural manifestations the case takes on a low typhoid form and whereas you had at first only a simple remittent, the case has now assumed a state of prostration with a very rapid heart, foetor, purpleness or blueness, a passive congestion with purple blotches of the skin, causing a mottled appearance.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "When a disease turns so suddenly blood poisoning is going on and a symptomatic typhoid state appears. A remittent that turns into a sharp zymotic state in the course of twenty-four hours, a diphtheria that takes on this form with stupidity and mottled skin are examples of such a type of sickness.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Mind: The mental symptoms accompanying this state are interesting. I read from some nows I have made. A continued dreamy state of mind though awake. Child cries all the time. Sees little animals like rats running around.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Feels a rat or something small crawling up the limb and over the body. There seems to be constant loss of memory, even the things spoken of a moment ago go right out of the mind. Constant forgetfulness. All past events are forgotten. Past events are forgotten or remembered as belonging to someone else, or as matters read.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "That is in keeping with the dreamy state, it seems as though those things that are past appear as in a dream, as if he had dreamed them. Cannot concentrate the mind in any mental effort; cannot answer questions correctly; is as if in a semi-conscious state, and finally he goes into complete unconsciousness.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There is in the earlier stages of this zymotic state great anxiety and restlessness, later there is stupor and indifference to everything. Continual sighing with depression of spirits; extremely irritable, semi-conscious, finally unconsciousness, stupor, delirium and insensibility; muttering delirium with sleeplessness and restlessness.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This mental state is such as occurs in zymotic sickness; the chronic illness has not been well brought out. Dr. Wells used this remedy in a number of cases, as it was at that time an epidemic remedy for scarlet fever, in Brooklyn, and many patients were saved by it. It seemed to be able to change the character of the malignant forms of scarlet fever into a mild type.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Face: In addition to the symptoms of the text it has been observed that the hair falls out and flashes of light play before the eyes on closing the lids at night.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Pupils widely dilated; copious, thin, ichorous and bloody, discharge from the nose.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "That is in the zymotic states in scarlet fever.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Nostrils congested. Great prostration and a countenance indicating much distress. Face dark as mahogany.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "That is in suppressed scarlet fever. Purple, bloated and puffed, besotted face. This remedy is one not very much used, and it is not very often indicated, but it is very useful when indicated. You will not very often see this particular type even in malignant scarlet fever. You will often see such a scarlet fever running to a number of other remedies, but this remedy corresponds to one of the most malignant types, and its commonest use will be in an epidemic in which the cases largely run to the malignant type.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There are three common types of scarlet fever. In one season you find the cases are mild and simple, the typical eruption is present and comes on speedily without any great amount of fever. Such cases will often run their course with good nursing, a warm room and plenty of clothing without much medicine.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Skin: The skin is bright red, smooth and shiny. The case is not serious. In other epidemics you will find only an isolated case of this kind, while the majority of cases present marked trouble in the throat; the rash is scanty when present, and congestion of the head and spinal symptoms come on with pain in the back of the neck.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Throat: The throat is dreadfully swollen and inflamed, bright red and very painful. Then there is a third type in which the throat is severely swollen, all the mucous membranes are swollen, and the whole tendency is toward ad poisoning or zymosis with enlargement of the glands, puffiness of the skin and a great deal of fetor; the skin is dusky and the eruption is scanty, sometimes hardly visible from beginning to end.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "These cases will almost all die if let alone; they are very serious. The old authors call these three forms \"scarlatina simplex, scarlatina anginosa,\" and \"scarlatin. maligna.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "In some epidemics you will see all three of the appearances; in some families you will see two forms.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "One child will have a mild in type, and another will have it more severely with zymotic blisters here and there, on the ends of the fingers, and these will be attended with foetor; as soon as the blisters break ulceration will take place if the child live long enough; but these are the deadly cases, the malignant type.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Even when the rash does not come out in the low forms of scarlet fever, the impression of the finger makes a white mark which will be slow to fill up. The more marked that is, the lower the type. The more zymotic the type the more sluggish the circulation, and in this remedy especially is this state present.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The congested condition of the skin is present even when there is no rash, a passive congestion of the veins.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Quite a number of medicines have that, but Veratrum viride produces such a vaso-motor paralysis that a line upon the skin made by pressure will remain a long time. In all these zymotic complaints there is a foetid odor that is sometimes cadaveric, sometimes like stinking meat; this will be found in the low types of disease where this remedy is indicated.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Throat much swollen, dark red, almost purple in color. Diphtheria with extreme prostration. Throat livid, swollen; tonsils prominent and studded with deep ulcers.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The throat and tonsils very often appear as if they would pit upon pressure like a dropsical state. In some of these zymotic cases where a reaction ought to take place a diarrhea sets in that is horribly offensive; a critical diarrhea. With these zymotic states there is pain in the back of the neck and head no matter what the name of the disease is.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Breathing hurried, irregular, heavy. Burning in the palms and soles, hunts to find a cool place to put them. Feels a rat running up the leg. Feeling as if a snake crawled up the leg.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "These mental symptoms occurred in one of my provers. In low, adynamic forms of disease characterized by sudden and extreme prostration,",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Vomiting, pulse small and rapid purplish appearance of skin.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Electric thrill from brain to extremities.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Chill at 8 A.M. with chill, heat and sweat.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "During the chill vomiting of food and piercing pain over the hip. Chill is preceded by malignant eruption, especially on the face and forehead.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"During chill hunger, empty feeling, intolerable pain in back of neck, upper part of back and hip joint.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "That pain in the back of the neck is a common forerunner of low types of fever. It generally precedes a congestive attack of great violence characterized by fullness of the head with heat.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Skin: This miliary rash spoken of in the text, looking like measles, is when the scarlet fever rash or the measles rash does not come out in its uniform fashion, but in patches, little circles here and there and is dark.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Irregular, patchy, livid eruption, disappearing on pressure and return ing very slowly; interspersed with small vesicles, worse on forehead, head, neck and chest. Eruption appeared scantily for two days with sore throat and mild fever\" .",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This eruption is like the petechiae that we see, in typhoid forms of disease. The record of this remedy in scarlet fever makes it worthy of further study; it ought to be reproved that we may have a fuller understanding of it.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Eruption plentiful, of a bluish tint. Typhoid scarlatina.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Eruption is slow to make its appearance, remains livid.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Body and limbs covered with an irregular patchy eruption of a very livid color.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Here you see but one type of scarlet fever. This low type of fever sometimes needs Sulphur or Phosphorus, or Belladonna, or Baptisia, or Lachesis. That you may be able to distinguish one from the other and keep the picture of each remedy clearly in mind requires a prolonged study of the Materia Medica.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It is an easy matter to compare remedies for yourself after you have first studied each one separately.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "You can then bring out many comparisons, and especially in this case at the bed side. If you go to the bedside with a good knowledge of the generals of Materia Medica you will be surprised at the number of symptom pictures which will come into your mind, called up by the signs of the sickness.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "When you go to the bedside of scarlet fever you should not call to mind the names of these medicines you may have heard recommended for scarlet fever; let the appearance of the patient bring to mind such remedies as appear like this patient, regardless of whether they have been associated with scarlet fever or not.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "When you see the rash perhaps you will say that looks like an Aconite rash but there is such scanty zymosis in the nature of Aconite that it is no longer thought of.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Belladonna is not suitable, for in that remedy the rash is shiny and smooth, the typical Sydenham rash.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "On the other hand, you will say Pulsatilla has a measly rash, and often associated with a low form of fever, but not so low as the typhoid type, so Pulsatilla goes out of your mind.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "You now think of the remedies that are typical of all zymotic states; the prostration, the aggravation after sleep, general stupor and delirium, and almost at a glance you see Lachesis, the type of such forms of disease.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Its picture comes into your mind speedily. You see another case of scarlet fever where there is a scanty rash, the child before you keeps on picking the skin from the lips and nose, lies in a state of pallor and exhaustion, no rash to speak of, urine nearly suppressed; almost in a moment you think of Arum triph.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It is the aspect of things that will call the remedy to the mind. In another case you have all the purple appearance I have spoken of in this remedy; horrible foetor a good deal of sore throat, and the child cannot get water cold enough, wants a stream of water running down the throat all the time; you may safely trust to Phosphorus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "In these low types of sickness there is always something to tell the story if you will only listen, study and wait long enough.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "LECTURES ON HOMOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror Ailanthus Glandulosa Generalities : This medicine is especially suitable in the low zymotic forms of sickness, such as we find in diphtheria and scarlet fever, in blood poisoning and in symptomatic typhoids, especially those cases that are characterized by capillary congestion in spots, red mottled spots. Scarlet : Perhaps the most striking manifestation of such a low type of sickness is malignant scarlet fever. The regular rash does not come out, but in its place red spots, roseola-like, make their appearance; the usual uniform spread of the eruption has failed, or has been suppressed, and there is bleeding from the gums and nose, and dreadful tumefaction in the throat. The countenance is purple and besotted, the eyes are congested and there is even bleeding from the eyes. There is an appearance of great prostration, but it is really stupefaction; he seems stupid and benumbed. If you look at the throat you see it is covered with little purple patches, intermingled with an oedematous appearance similar to that found in Baptisia . It is a low depressed type of sickness. De composition of the blood is going on rapidly. The blood that oozes is black. The child is going into a state of stupor and it is with difficulty that he can be aroused. Sometimes blisters are formed on the ends of fingers, or here and there over the body. From the mouth and nose come foetid odors. The child is going as rapidly as possible into a form of malignant disease. Sometimes the disease comes on as a light febrile attack, but from taking cold and suppressing some of the natural manifestations the case takes on a low typhoid form and whereas you had at first only a simple remittent, the case has now assumed a state of prostration with a very rapid heart, foetor, purpleness or blueness, a passive congestion with purple blotches of the skin, causing a mottled appearance. When a disease turns so suddenly blood poisoning is going on and a symptomatic typhoid state appears. A remittent that turns into a sharp zymotic state in the course of twenty-four hours, a diphtheria that takes on this form with stupidity and mottled skin are examples of such a type of sickness. Mind : The mental symptoms accompanying this state are interesting. I read from some nows I have made. A continued dreamy state of mind though awake. Child cries all the time. Sees little animals like rats running around. Feels a rat or something small crawling up the limb and over the body. There seems to be constant loss of memory, even the things spoken of a moment ago go right out of the mind. Constant forgetfulness. All past events are forgotten. Past events are forgotten or remembered as belonging to someone else, or as matters read. That is in keeping with the dreamy state, it seems as though those things that are past appear as in a dream, as if he had dreamed them. Cannot concentrate the mind in any mental effort; cannot answer questions correctly; is as if in a semi-conscious state, and finally he goes into complete unconsciousness. There is in the earlier stages of this zymotic state great anxiety and restlessness, later there is stupor and indifference to everything. Continual sighing with depression of spirits; extremely irritable, semi-conscious, finally unconsciousness, stupor, delirium and insensibility; muttering delirium with sleeplessness and restlessness. This mental state is such as occurs in zymotic sickness; the chronic illness has not been well brought out. Dr. Wells used this remedy in a number of cases, as it was at that time an epidemic remedy for scarlet fever, in Brooklyn, and many patients were saved by it. It seemed to be able to change the character of the malignant forms of scarlet fever into a mild type. Face : In addition to the symptoms of the text it has been observed that the hair falls out and flashes of light play before the eyes on closing the lids at night. \"Pupils widely dilated; copious, thin, ichorous and bloody, discharge from the nose.\" That is in the zymotic states in scarlet fever. \"Nostrils congested. Great prostration and a countenance indicating much distress. Face dark as mahogany.\" That is in suppressed scarlet fever. Purple, bloated and puffed, besotted face. This remedy is one not very much used, and it is not very often indicated, but it is very useful when indicated. You will not very often see this particular type even in malignant scarlet fever. You will often see such a scarlet fever running to a number of other remedies, but this remedy corresponds to one of the most malignant types, and its commonest use will be in an epidemic in which the cases largely run to the malignant type. There are three common types of scarlet fever. In one season you find the cases are mild and simple, the typical eruption is present and comes on speedily without any great amount of fever. Such cases will often run their course with good nursing, a warm room and plenty of clothing without much medicine. Skin : The skin is bright red, smooth and shiny. The case is not serious. In other epidemics you will find only an isolated case of this kind, while the majority of cases present marked trouble in the throat; the rash is scanty when present, and congestion of the head and spinal symptoms come on with pain in the back of the neck. Throat : The throat is dreadfully swollen and inflamed, bright red and very painful. Then there is a third type in which the throat is severely swollen, all the mucous membranes are swollen, and the whole tendency is toward ad poisoning or zymosis with enlargement of the glands, puffiness of the skin and a great deal of fetor; the skin is dusky and the eruption is scanty, sometimes hardly visible from beginning to end. These cases will almost all die if let alone; they are very serious. The old authors call these three forms \"scarlatina simplex, scarlatina anginosa,\" and \"scarlatin. maligna.\" In some epidemics you will see all three of the appearances; in some families you will see two forms. One child will have a mild in type, and another will have it more severely with zymotic blisters here and there, on the ends of the fingers, and these will be attended with foetor; as soon as the blisters break ulceration will take place if the child live long enough; but these are the deadly cases, the malignant type. Even when the rash does not come out in the low forms of scarlet fever, the impression of the finger makes a white mark which will be slow to fill up. The more marked that is, the lower the type. The more zymotic the type the more sluggish the circulation, and in this remedy especially is this state present. The congested condition of the skin is present even when there is no rash, a passive congestion of the veins. Quite a number of medicines have that, but Veratrum viride produces such a vaso-motor paralysis that a line upon the skin made by pressure will remain a long time. In all these zymotic complaints there is a foetid odor that is sometimes cadaveric, sometimes like stinking meat; this will be found in the low types of disease where this remedy is indicated. \"Throat much swollen, dark red, almost purple in color. Diphtheria with extreme prostration. Throat livid, swollen; tonsils prominent and studded with deep ulcers.\" The throat and tonsils very often appear as if they would pit upon pressure like a dropsical state. In some of these zymotic cases where a reaction ought to take place a diarrhea sets in that is horribly offensive; a critical diarrhea. With these zymotic states there is pain in the back of the neck and head no matter what the name of the disease is. \"Breathing hurried, irregular, heavy. Burning in the palms and soles, hunts to find a cool place to put them. Feels a rat running up the leg. Feeling as if a snake crawled up the leg.\" These mental symptoms occurred in one of my provers. In low, adynamic forms of disease characterized by sudden and extreme prostration, \"Vomiting, pulse small and rapid purplish appearance of skin.\" \"Electric thrill from brain to extremities.\" \"Chill at 8 A.M. with chill, heat and sweat.\" During the chill vomiting of food and piercing pain over the hip. Chill is preceded by malignant eruption, especially on the face and forehead. \"During chill hunger, empty feeling, intolerable pain in back of neck, upper part of back and hip joint.\" That pain in the back of the neck is a common forerunner of low types of fever. It generally precedes a congestive attack of great violence characterized by fullness of the head with heat. Skin : This miliary rash spoken of in the text, looking like measles, is when the scarlet fever rash or the measles rash does not come out in its uniform fashion, but in patches, little circles here and there and is dark. \"Irregular, patchy, livid eruption, disappearing on pressure and return ing very slowly; interspersed with small vesicles, worse on forehead, head, neck and chest. Eruption appeared scantily for two days with sore throat and mild fever\" . This eruption is like the petechiae that we see, in typhoid forms of disease. The record of this remedy in scarlet fever makes it worthy of further study; it ought to be reproved that we may have a fuller understanding of it. \"Eruption plentiful, of a bluish tint. Typhoid scarlatina.\" \"Eruption is slow to make its appearance, remains livid.\" \"Body and limbs covered with an irregular patchy eruption of a very livid color.\" Here you see but one type of scarlet fever. This low type of fever sometimes needs Sulphur or Phosphorus, or Belladonna, or Baptisia, or Lachesis . That you may be able to distinguish one from the other and keep the picture of each remedy clearly in mind requires a prolonged study of the Materia Medica. It is an easy matter to compare remedies for yourself after you have first studied each one separately. You can then bring out many comparisons, and especially in this case at the bed side. If you go to the bedside with a good knowledge of the generals of Materia Medica you will be surprised at the number of symptom pictures which will come into your mind, called up by the signs of the sickness. When you go to the bedside of scarlet fever you should not call to mind the names of these medicines you may have heard recommended for scarlet fever; let the appearance of the patient bring to mind such remedies as appear like this patient, regardless of whether they have been associated with scarlet fever or not. When you see the rash perhaps you will say that looks like an Aconite rash but there is such scanty zymosis in the nature of Aconite that it is no longer thought of. Belladonna is not suitable, for in that remedy the rash is shiny and smooth, the typical Sydenham rash. On the other hand, you will say Pulsatilla has a measly rash, and often associated with a low form of fever, but not so low as the typhoid type, so Pulsatilla goes out of your mind. You now think of the remedies that are typical of all zymotic states; the prostration, the aggravation after sleep, general stupor and delirium, and almost at a glance you see Lachesis , the type of such forms of disease. Its picture comes into your mind speedily. You see another case of scarlet fever where there is a scanty rash, the child before you keeps on picking the skin from the lips and nose, lies in a state of pallor and exhaustion, no rash to speak of, urine nearly suppressed; almost in a moment you think of Arum triph . It is the aspect of things that will call the remedy to the mind. In another case you have all the purple appearance I have spoken of in this remedy; horrible foetor a good deal of sore throat, and the child cannot get water cold enough, wants a stream of water running down the throat all the time; you may safely trust to Phosphorus . In these low types of sickness there is always something to tell the story if you will only listen, study and wait long enough. Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-mm-1911"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Acne; Cerebro-spinal meningitis; Chancre; Coryza; Diphtheria; Headache; Mumps; Puerperal fever; Rheumatic fever; Scarlatina; Syphilis; Typhoid fever; Typhus fever",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Breathing hurried, irregular, heavy. Cough deep, exhausting, dry, hacking: in violent fits, before retiring or on rising, until sputum is raised. Sputa: blood-mixed; yellow; bitter; morning. Aphonia. Croupy choking. In low adynamic forms of disease, with extreme prostration, torpor, vomiting, pulse small and rapid, purplish appearance of the skin. Prostration at very onset of the disease. Stupid, dull, delirious, weak. Puerperal fever characterised as above.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Inner bark of tree, root.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Jerking cramps of limbs during sleep. θ Bronchial catarrh. Electric thrill from brain to extremities. Great debility, tottering gait, cannot stand long. Heaviness of limbs. Limbs feel as if they were asleep. General malaise, increasing weakness. In low, adynamic forms of disease, characterized by sudden and extreme prostration, torpor, vomiting, pulse small and rapid, purplish appearance of skin. Kills canary birds, if cage is hung over night in tree while in flower. Attacks characterized by fulness of head, with heat ; pains burning, darting in temples and occiput ; vertigo and nausea. Every forenoon : ichorous nasal discharge. Rash returns annually. Right : heaviness of side of head ; tenderness over liver ; burning in lung ; pain in scapula, pain in hip joint. Left : electric current through head ; tingling in arm and hand ; swelling under eye ; sore pain side of nose ; tearing in teeth and face ; burning under shoulder ; pain and contraction in lung ; pain under scapula ; arm and fingers feel numb and as if asleep ; leg feels numb, foot and toes tingle and prick ; pain in foot ; tension in foot while walking ; itching around ear. Above downward : electric current from head to extremities ; stitching and aching in chest. As if she would go crazy ; drunken feeling in brain ; thick, heavy feeling in head ; as if an electric current was passing through left side of head, or down extremities ; uneasy feeling around nose ; throat rough and scrapy ; sense of general emptiness during chill ; peculiar feeling of emptiness in stomach ; as if chest was strapped ; as if air cells were stuck together ; aching restlessness in limbs ; as if limbs were asleep ; electric thrill from brain to extremities. Pain : in forehead ; in occiput ; in open air when swallowing ; in left side of nose ; in hypogastrium and hips ; through left lung ; under left shoulder blade ; deep in right scapula. Severe pain : through temple ; in stomach ; in left foot. Sharp pain : through small of back and hips. Burning : in eyes ; in stomach ; in bowels ; in chest ; in right lung ; under left shoulder. Smarting : in eyes. Rawness : in nostrils. Darting : through temples and back part of head. Jerking cramps : of limbs. Piercing pains : in head. Stitching : in chest. Griping : in bowels. Aching : in eyes ; in chest ; between shoulders. Soreness : on left side of nose ; of throat ; of lungs ; in glands. Tearing : in face and head, with toothache ; in upper and lower teeth. Oppression : of bronchia ; of chest. Beating : in occiput. Bruised feeling : over parieto-frontal sutures. Dull pain : in region of heart. Contracted feeling : through centre of left lung ; in region of base of heart. Compressed feeling : in forehead. Pressure : in forehead ; in chest. Uneasy feeling : about nose ; in bowels ; in legs. Thick feeling : in head. Confusion : in forehead. Heaviness : in head ; in sternal region ; in base of brain in right side of head ; of limbs. Fulness : on chest. Weak feeling : in bowels. Tired feeling : in lungs. Tingling : in left arm and hand ; in left foot and toes. Numbness : of left arm ; of fingers ; of left leg. Heat : in head. Coldness : of skin. Itching : around nose ; left ear ; face, back and neck. Dryness : of nose ; of tongue ; of throat ; of skin. TOUCH. PASSIVE MOTION. INJURIES. [45] [Ail.]. Touch : reddens ear ; lips become sore and puffy. Pressure : relieves heaviness in head, toothache ; pressure of clothes on chest uncomfortable ; causes eruptions to disappear. Scratching : reddens ear. The odor affects the asthmatic ; also women and children more than men, and old people least of all. Nervous, sensitive persons. Bilious temperaments ; stout and robust.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Anxiety and restlesness. Low-spirited; continually sighing. Extreme irritability. Semi-conscious, cannot comprehend what is said to him. Stupor, delirium, and insensibility. Constant muttering delirium, with sleeplessness and restlessness. Since the poisoning all antecedents are forgotten; or remembered as matters belonging to another, or read about. Raging delirium with brilliant eyes.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Past events are forgotten, remembered as belonging to some one else, or as matters read. Cannot concentrate mental effort ; compelled to read a subject several times to get even a dim understanding of it. Great anxiety and restlessness. Stoical indifference to what happens. Low-spirited. θ Bronchial catarrh. Continual sighing, with depression of spirits. Stupor ; mental indifference and weakness. Great anxiety. Restlessness, with great anxiety. Extremely irritable. Confusion of intellect ; found it almost impossible to add columns of figures correctly ; had to go over it several times to get it right. Loss of memory. Mental alienation. Recklessness in regard to present and future events. Semi-conscious, evidently cannot comprehend what is said to him. θ Scarlatina. Stupor, delirium and insensibility. θ After suppressed scarlatinal eruption. Muttering delirium with sleeplessness and restlessness. θ Typhoid scarlatina. Dizzy and throat dry. Vertigo, with nausea, faintness and cold sweat. Vertigo when stooping. Dizzy, face hot, cannot sit up ; drowsy, yet very restless and anxious ; later insensible, with muttering delirium ; recognizes no one. θ Scarlatina. Staggers when rising or moving. Drunken feeling in brain, with fulness. Thick, heavy feeling in head ; figures look blurred. Feeling as if an electric current was passing through left side of head or down to extremities. Apoplectic fulness of head. Dizziness when rising up. θ Typhoid scarlatina.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Eyes suffused and congested; startled look when aroused; pupils dilated and sluggish. Photophobia. Conjunctivitis; smarting, aching, lachrymation, purulent discharge.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Uncertainty in seeing. Figures and letters look blurred ; thick feeling in head. Shunning light. Wild-looking eyes with intolerance of light. Pupils widely dilated. θ Scarlatina. Eyes suffused and congested ; startled look when aroused ; pupils dilated and sluggish. θ Scarlatina. Burning in eyes. Conjunctivitis, with redness and inflammation extending around external canthus. Purulent discharge agglutinating lids in morning. Smarting and aching eyes. Lachrymation in open air or brilliant light.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Pain in ear when swallowing. Parotid gland sensitive and enlarged.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pain in ear when swallowing. The ear, when touched or scratched, gets red all over. Parotid gland sensitive and enlarged. θ Scarlatina.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Copious, thin, ichorous, and bloody discharge from the nose. Nostrils congested. Nose dry; secretion suppressed. Coryza, with rawness in nostrils; sneezing. Loss of smell.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Loss of smell. Copious thin, ichorous discharge without fetor. θ Coryza. Coryza, with rawness in nostrils ; nose and upper lip covered with thick grey-brown scabs ; ichorous pus discharged every forenoon. Fluent catarrh, with sneezing. Copious, thin, ichorous and bloody discharge from nose. Chronic catarrh, difficult breathing through nose. Dryness of nose ; secretion suppressed. Itching and uneasy feeling around nose. Nostrils congested. θ Scarlatina.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "face": [
+      {
+        "text": "Face sallow, jaundiced; blue circles round eyes. Face red and hot, covered with a rash. Face mahogany-coloured. Great prostration, and countenance indicative of much distress. Purplish face. Irregular spots. Lips swollen, cracked; ulcers near commissures.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Face sallow, jaundiced ; pale ; blue circles around eyes. Irregular spots of capillary congestion, as after a debauch. Face red and hot, covered with a rash. θ Scarlatina. Face dark as mahogany. θ Suppressed scarlatina. Face puffed, erysipelatous ; soreness and pain on left side of nose. Tearing in face and head, with toothache. Chronic speckled, spotted face ; a sort of acne. Eruption miliary, more on forehead and face. Great prostration and a countenance indicating much distress. θ Typhoid scarlatina. Lips cracked. Lip becomes puffed and sore when touched. Small but deep, ragged ulcer near angle of mouth. Inflamed vesicles on lower lip ; chin bright red.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Vomits food speedily during the chill; suddenly and violently when sitting up; with stupor. Thirst for cold drinks; for brandy. Peculiar feeling of emptiness in stomach. Tenderness over liver region. Burning in stomach and bowels. Tympanites.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Ail.]. No appetite, everything tastes insipid ; sight of food makes her worse ; disgust for food. Hunger and distressing sense of general emptiness during chill. Thirst for cold drinks, for brandy. After wine, sleepy. Water tastes brackish and flat ; no desire for drink except when eating. Frequent belching, with sick-headache. Nausea : with giddiness ; similar to that in pregnancy ; with vomiting diarrhœa and spasmodic pains in abdomen. Vomits food speedily during chill ; suddenly and violently when sitting up ; with stupor. Stomach inactive, as though its contractive power was impaired. Constant violent increasing pain in stomach. Peculiar feeling of emptiness in stomach. Debilitating oppression like a stricture below hypochondria, with nausea. Tenderness over hepatic region. Weak, burning, uneasy feeling in bowels, as of approaching diarrhœa. Tympanitis. Burning in stomach and bowels. Colicky, griping pains in bowels. Pains in hypogastrium and hips.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Thin, watery, offensive diarrhœa, passing involuntarily with the urine. Stools frequent, watery, forcibly expelled. Tapeworm.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Stools frequent, watery, forcibly expelled ; burning in stomach and bowels with griping (from smoking). Frequent painful stool, little fecal matter, much bloody mucus, with very little fever (from odor of blossoms). Bowels for days too freely moved ; thin, watery, offensive, passing involuntarily with the urine. θ Scarlatina. Tapeworm.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Scanty or suppressed urine passed unconsciously; acid.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Urine suppressed or scanty ; passed unconsciously ; acid. Suppression of urine, impending uræmia, stupor or delirium, with dusky red face. θ Scarlatina.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "male": [
+      {
+        "text": "Sore on prepuce, looking like incipient chancre.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sore on prepuce looking like an incipient chancre.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Malignant puerperal fever. Vomiting of pregnancy.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "PREGNANCY. PARTURITION. LACTATION. [24] [Ail.]. Malignant puerperal fever.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Stitching and aching in chest. Lungs sore and tender. Tired feeling in lungs, almost too much exertion to breathe. Burning in r. lung; contracted feeling in l. Chest feels strapped; or as if air-cells stuck together. Rapid, small pulse, weak, frequent, and irregular. Dull pain and contracted feeling in region of base of heart and through centre of l. lung.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Stitching and aching in chest, under the clavicle, sometimes extending to sternum. Pressure on chest and sense of fulness. Lungs feel excessively sore and tender. Burning in right lung and under left shoulder. Pain and contracted feeling especially through centre of l. lung, sternal edge. Tired feeling in lungs, too much exertion to breathe. Dull pain and contracted feeling in region of base of heart and through centre of l. lung. Pulse : so rapid and small as scarcely to be counted, surface cold and dry ; weak, frequent, irregular. θ Scarlatina. Pulse accelerated. Rapid small pulse. θ Typhoid scarlatina. Pressure of clothes on chest is uncomfortable. θ Bronchial catarrh.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "Neck tender, and very much swollen. Constant sharp pains through small of back and hips.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Soreness in glands, with pain under left shoulder blade. Thickened swollen feeling of muscles of neck. Constant aching between shoulders. Neck tender and very much swollen. θ Scarlatina. Subacute congestion of cord, leading to paralysis ; limbs heavy, feel as if asleep. Constant sharp pain through small of back and hips.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "China and India. Cuitivated throughout Europe and the United States.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Lignin, chlorophyll, a yellow colouring matter, a gelatinous substance (pectin), quassin, an odorous resin, traces of a volatile oil, a nitrogenous, fatty matter, and several salts. A later analysis found starch, tannin, albumen, gum, sugar, oleoresin, and a trace of volatile oil, potash, phosphoric acid, sulphuric acid, iron, lime, and magnesia. All the characteristic properties of eitherthe fresh or carefully dried bark can be exhausted by alcohol, to which a deep, green colour will be imparted, changing to yellowish-brown with age and more quickly if exposed to air. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Antispasmodic, cardiac depressant, astringent. The effect produced by Hetet when experimenting on dogs, was copious stools and the discharge of worms. The resin purges, but rarely acts as an anthelmintic. In China the bark is popular for dysentery and other bowel complaints. A smaller dose of the oleoresin produces similar results, and keeps better than the bark. The vapours of the evaporating extract have a prostrating effect, as have the emanations from the blossoms, while the action upon patients of powder or extract is disagreeable and nauseating, though they have been successfully used in dysentery and diarrhoea, gonorrhoea, leucorrhoea, prolapsus ani, etc., and also as a taenifuge. The infusion may be given in sweetened orange-flower or other aromatic water, to lessen the bitterness and resultant sickness. Though it produces vomiting and great relaxation, it is stated not to be poisonous. A tincture of the root-bark has been used successfully in cardiac palpitation, asthma and epilepsy. The action of the trees in malarial districts is considered to resemble that of the Eucalyptus. The statement that the resin is purgative has been disputed, some asserting that it is inert.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Pain deep in right scapula, hindering motion of arm. Numbness of left arm ; fingers feel as if asleep ; tingling of arm and fingers on awaking. Large water-blisters on end of thumb, with smaller ones at side of finger nails. Feeling of uneasiness and aching restlessness in limbs. Left leg feels numb, with tingling and pricking pain in foot and toes. Limbs feel as if they were asleep. Severe pain in left foot ; a tension while walking.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "REST. POSITION. MOTION. [35] [Ail.]. Lying on right side : can sleep better in bronchial affections. Lying down : aggravates toothache. Sitting up : vomits violently. Cannot sit up : owing to dizziness. Rising : staggers ; cough. Motion : staggers ; prevented by pain in scapula. While walking : tension in foot. Must walk about : with toothache. Standing : debility. Night : itching of skin. Morning : eyes agglutinated ; throat < ; voice lost on awaking ; free expectoration ; yellow, bitter expectoration < ; sleepy ; dry hot skin. Forenoon : ichorous nasal discharge ; sleepy ; skin dry and hot. Day : sticky and scanty expectoration. Air : throat more tender. Open air : lachrymation.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chill preceded by a miliary eruption, < on forehead and face. During chill : hunger, empty feeling ; intolerable pain in back of neck, upper part of back and hip joint. After chill : flushes of heat, severe pain in head and soreness of lungs. During heat ; delirium, urgent thirst, longing for brandy. Skin dry and hot, especially in morning, until midday. Cold sweat and nausea. Cold sweat. θ Cholera.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "grieve-modern-herbal-1931",
+      "hering-guiding-1879",
+      "kent-lectures-1905",
+      "kent-mm-1911"
+    ]
+  }
+}

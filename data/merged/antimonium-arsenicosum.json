@@ -1,0 +1,29 @@
+{
+  "id": "antimonium-arsenicosum",
+  "names": {
+    "primary": "ANTIMONIUM ARSENICOSUM",
+    "latin": "ANTIMONIUM ARSENICOSUM",
+    "common": [
+      "Arsenite of Antimony"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "Third trituration"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ANTIMONIUM ARSENICOSUM Arsenite of Antimony Found useful in emphysema with excessive dyspnœa and cough, much mucous secretion. Worse on eating and lying down. Catarrhal pneumonia associated with influenza. Myocarditis and cardiac weakness. Pleurisy, especially of left side, with exudation and pericarditis, with effusion. Sense of weakness. Inflammation of eyes and œdema of face.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

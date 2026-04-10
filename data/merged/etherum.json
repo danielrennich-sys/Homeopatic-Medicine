@@ -1,0 +1,82 @@
+{
+  "id": "etherum",
+  "names": {
+    "primary": "Etherum",
+    "latin": "Etherum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Ether is the well-known anæsthetic, and the effects are those observed in patients under the action of its vapour, administered for the purpose of operation, in habitual ether drinkers (of whom there are numbers in Ireland), and on some who have voluntarily experimented with the drug upon themselves. Closely allied to alcohol, it possesses very similar intoxicating properties, produces visions frequently pleasurable, hallucination, and, in some instances, a persistent maniacal condition. Convulsions, spasms, and a cataleptic state have also been observed. Bronchitis is a not uncommon after-result of ether anæsthesia, and for this Belladonna has been observed to be the best antidote. Chilliness is complained of by many. Macfarlan reports the cure of a woman of 60, who had been confined to bed for weeks with severe neuralgia of the head, raised welts on scalp like ridges accompanying the pain. Ether 200 cured quickly.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Bronchitis; Catalepsy; Convulsions; Cough; Delirium tremens; Hiccough; Mania; Meningitis; Nausea; Vomiting",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Violent cough from stinging or heat in bronchia. Expectoration of blood. Breathing quickened; stertorous. Congestion of lungs and brain. Extreme coldness of the chest, wants it covered. Tightness; irritation and pain. Paralysis of lower extremities. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Exhilaration; furious excitement; flushed face. Pleasant dreams of rapid flight through the air, gorgeous visions and unearthly music. Frightful dreams; fancied he heard the ringing of his own funeral bell. Low-spirited, fearful of some disease, desponding (lasting some months). Complete loss of consciousness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Muzziness; dizziness; headache with partial blindness follow ether anæsthesia. Meningitis. Temporal arteries enlarged; beat violently. Head drops to one side or is thrown back. Severe neuralgia of head with raised welts on scalp.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Eyes suffused; lids closed; conjunctivæ injected. Pupils dilated. Dim vision as if mist or thin cloud before eyes.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Sounds indistinct; seem far off, yet resound violently in the ears.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Face flushed.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Mouth often open. Salivation; slight frothing at mouth. Pronunciation difficult and indistinct.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Hiccough persistent. Nausea. Vomiting.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Excitement and invigoration of heart's action. Pulse full and bounding.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

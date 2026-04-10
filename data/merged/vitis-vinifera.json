@@ -1,0 +1,41 @@
+{
+  "id": "vitis-vinifera",
+  "names": {
+    "primary": "Grape Seed Extract",
+    "latin": "Grape Seed Extract",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Grape seed extract, which is made from the seeds of wine grapes, is promoted as a dietary supplement for various purposes, including reducing blood cholesterol and blood pressure, and as an ingredient in topical products for promoting wound healing and preventing tooth decay. Grape seed extract contains proanthocyanidins, which have a variety of effects that might be beneficial in managing health conditions.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "There are some well-controlled studies of people using grape seed extract dietary supplements for certain health conditions, particularly high blood cholesterol levels and high blood pressure. Not much is known about grape seed extract’s effects on other conditions.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "A 2020 review of 11 studies (536 participants) showed that grape seed extract may have desirable effects on levels of low-density lipoprotein (LDL) cholesterol and triglycerides but not on total cholesterol and high-density lipoprotein (HDL) cholesterol levels. These conclusions should not be considered definite because the studies were small, and the composition of the products varied from study to study. A 2022 review of 19 studies (1,080 participants) showed that grape seed extract reduced diastolic blood pressure (the lower number in a blood pressure reading) but not systolic blood pressure (the higher number). Results of individual studies differed, and the differences may have been related to the dose and duration of grape seed extract supplementation and characteristics of the study participants. Studies in experimental models suggest that application of grape seed extract to the skin may promote wound healing, but only a very small amount of research has been done on this topic in people, and there isn’t enough evidence to conclude whether grape seed extract is helpful for this purpose. Although laboratory studies suggest that grape seed extract, used in a mouthrinse, might help to prevent tooth decay, there hasn’t been enough research in people to allow its effects to be evaluated.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Grape seed extract is generally well tolerated when taken orally or used topically. If you take any type of medicine, talk with your health care provider before using grape seed extract or other herbal products; some herbs and medicines interact in harmful ways. Little is known about whether it’s safe to use grape seed extract during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

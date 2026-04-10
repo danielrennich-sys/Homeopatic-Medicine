@@ -1,0 +1,53 @@
+{
+  "id": "hura-crepitans",
+  "names": {
+    "primary": "Hura Crepitans",
+    "latin": "Hura Crepitans",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "\"The curious, rounded, hard-shelled fruits are about the size of an orange, and have as many deep furrows as there are cells, each cell containing a single flattened seed. When the fruit is ripe and exposed to a dry atmosphere, it bursts with great force, accompanied by a loud, sharp crack like the report of a pistol, for which reason it is often called the Monkey's Dinner-bell. The seeds are emetic, in a green state violently purgative, but when dry, according to Lunan, they lose this property. An oil is extracted from them, and sometimes used as a purgative, about twenty drops of it being equal in action to a tablespoonful of castor oil. A venomous milky juice is abundant in all parts of the plant, and if it be applied to the eye causes almost immediate blindness.\" The Treasury of Botany, from which I quote the above, only recognises one species of Hura, H. crepitans. But Mure compares his Hura with H. crepitans. They are probably varieties of the same species, the properties of the milk of the two being the same. The observed effects of H. crep. were from eating the seeds. Burning in throat; vomiting and purging; suffocation; headache, were the main symptoms complained of.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Blindness; Diarrhœa; Sore-throat; Vomiting",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare:─Hur. bras., Ricinus, Croton.; Caps. (burning in throat not > by water). Antidoted by: Camph., Op."
+      ]
+    },
+    "head": [
+      {
+        "text": "The one who had eaten the shell with the seed was seized with violent vomiting with headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "It soon began to warm and scald his palate and throat. Violent burning in throat.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "If a person eats even a single kernel he is usually attacked with severe vomiting and purging within a very few minutes. After a few hours, they experienced suffocation, nausea, violent burning in the throat, not > by water. Those who ate the seed without the shell, only suffered from nausea and violent pain in stomach, vomiting once, and violent diarrhœa. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

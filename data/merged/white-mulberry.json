@@ -1,0 +1,41 @@
+{
+  "id": "white-mulberry",
+  "names": {
+    "primary": "White Mulberry Leaf",
+    "latin": "White Mulberry Leaf",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "White mulberry (Morus alba) is native to China but can be found throughout the world in temperate and tropical climates. In parts of Asia, mulberry leaves have been used for tea, wine, bean curd, and noodles. In traditional Chinese medicine, mulberry leaves are used to treat diabetes (“Xiao-ke”) as well as cough, sore throats, fever, and bronchitis. Preparations from white mulberry leaves are sold as dietary supplements for controlling weight and blood glucose. While beyond the scope of this fact sheet, preliminary research suggests that morusin, a compound in the bark of white mulberry, may have antioxidant, antitumor, anti-inflammatory, anti-allergic, and neuroprotective activity. However, further study is needed to determine its efficacy.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "There have been several studies on the potential health benefits and safety of using white mulberry leaf, but most of the studies have been preliminary, and clinical studies (research in people) are limited.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "Several studies suggest that white mulberry may reduce elevated blood glucose levels, but some of these studies have been preliminary or were not conducted in humans. Other trials have found no effect on blood glucose levels. Some studies have shown that white mulberry leaves contain numerous chemical compounds that act as antioxidants and may provide therapeutic benefits.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "White mulberry leaf has been used in studies lasting up to 12 weeks without serious harmful effects. The most common side effect is digestive upset, including bloating, constipation, gas, and loose stools. There is a potential risk for low blood sugar when taken with diabetes medications. There is insufficient reliable information available about the safety of white mulberry berries. Little is known about whether it’s safe to use white mulberry leaf during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "weak_support"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

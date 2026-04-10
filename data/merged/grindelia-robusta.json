@@ -1,0 +1,116 @@
+{
+  "id": "grindelia-robusta",
+  "names": {
+    "primary": "GRINDELIA ROBUSTA",
+    "latin": "GRINDELIA ROBUSTA",
+    "common": [
+      "Rosin-wood (GRINDELIA)"
+    ],
+    "synonyms": [
+      "Grindelia Robusta"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Feels full, as from quinine. Pain in eyeballs, running back to brain; worse, moving eyes. Pupils dilated. Purulent ophthalmia and iritis",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Terrible fulness in head, as though he had taken ten or more grains of quinine.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "An efficacious remedy for wheezing and oppression in bronchitic patients. The sibilant rales are disseminated with foamy mucus, very difficult to detach. Acts on the pulmonary circulation. Asthma, with profuse tenacious expectoration, which relieves. Stops breathing when falling asleep; wakes with a star, and gasps for breath. Must sit up to breathe. Cannot breathe when lying down. Pertussis, with profuse mucous secretion (Coccus). Bronchorrhœa, with tough, whitish, mucous expectoration. Sibilant rales. Weak heart and respiration. Cannot breathe lying down. Cheyne-Stokes respiration",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Fear of going to sleep on account of loss of breath, which awakens him. On falling asleep respiratory movement ceases, and is not resumed until awakened by the suffocation resulting. Mucous asthma depending on an abnormal accumulation of mucus in the smaller bronchi, tenacious and difficult to detach ; patient feels and knows that expectoration brings relief. Humid asthma, originating in catarrhal bronchitis. After an attack of pneumonia vital forces so greatly reduced that recovery was despaired of ; patient almost in a sitting position in bed, with a peculiar interrupted breathing, which entirely prevented sleep ; every time he dropped into a doze breathing would become so interrupted that he would have to be aroused ; pneumogastric nerve appeared half paralyzed and action of heart was very weak. Cardiac asthma. Cough from reflex causes ; a cough maintained by habit ; chronic bronchitis and bronchorrhœa. Mucus tenacious and difficult to detach.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Spleen] Cutting pain in region of spleen, extending to hips. Spleen enlarged (Ceanoth; Carduus)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Right : pain in knee-joint ; flatness of lung. Left : pain in eye ; flatness of lung. As though he had taken ten or more grains of quinine, such terrible fulness in head. Pain : in eyeballs ; in left eye and right knee-joint. Pains with soreness, like that of rheumatism. Unbearable pain : in region of liver and spleen. Severe pain : in limbs. Burning : of chin. Terrible fulness : in head. Soreness : in region of liver. Itching : of skin. Woman, æt. 48, for two years ; chronic pneumonia. Man, æt. 60, after injury to left eye ; iritis. Man, æt. 60, suffering for twenty years ; ulceration of leg. Old man, broken down with years of sickness, with organic disease of heart, just rallying from an attack of pneumonia ; paresis of pneumogastric.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Rash, like roseola, with severe burning and itching. Vesicular and papular eruptions. Herpes zoster. Itching and burning. Poison oak (locally as a wash). Ulcers, with swollen, purplish skin",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Epidemic rash like roseola, suffusing face, neck and often whole body, with severe burning and itching. Irritable eruptions, papular or vesicular. Rhus tox. poisoning. Bites of insects ; flea-bites.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture in 1 to 15 drop doses, also lower potencies"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">GRINDELIA ROBUSTA Rosin-wood (GRINDELIA) Both Grindelia robusta and Grindelia squarrosa have been used for the symptoms here recorded. There is practically no difference in their action, although the G. Squarrosa is credited with more splenic symptoms, dull pains and fullness in left hypochondrium; chronic malaria; gastric pains associated with splenic congestion. Induces paralysis, beginning in extremities Its action is shown on the heart first quickening, then retarding it. Acts on the cardio-pulmonary distribution of the pneumo-gastric in dry catarrh (Tart Emetic in muco-purulent). Produces a paresis of the pneumo-gastric, interfering with respiration. Smothering after falling asleep. Asthmatic conditions, chronic bronchitis. Bronchorrhœa with tough mucus, difficult to detach. Raises the blood pressure. Nausea and retching of gastric ulcer. Sugar in urine. An effective antidote to Rhus-poisoning, locally and internally; also for burns, blisters, vaginal catarrh and herpes zoster. Hyperchlorhydria when attended with asthmatic and other neurotic symptoms. Hyperæmia of gastric mucous membrane with difficult respiration.",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Conjunctiva injected, eyes presenting appearance noticed in congestion of brain. Pain in eyeballs running directly back to brain, < from moving eyes. Pain in left eye and right knee-joint, like rheumatism ; pain in knee did not last longer than half an hour ; pain in eye became more intense, pupil becoming dilated ; two hours afterward right eye became affected. Conjunctivitis and purulent ophthalmia. Iritis, traumatic, or arising from cold or a metastasis of rheumatism ; the pain is intense and the fever runs high.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Unbearable pain in region of liver and spleen, so severe that he cannot lie still a moment ; soreness like that of acute rheumatism.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "male": [
+      {
+        "text": "(OBS :) Pruritus affecting vulva and vagina ; whether arising from leucorrhœa, or of venous origin, or aphthæ.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Chronic bronchitis, and cough with muco-purulent expectoration after pneumonia. Bronchitis accompanying heart disease. Severe cough with considerable purulent expectoration ; on examination, flatness of entire left lung ; dyspnœa. θ Chronic pneumonia. Cough, dyspnœa ; flatness of right lung and partial consolidation at base of lung. Asthma ; chronic bronchitis ; hay-fever ; pneumonia.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Leg greatly swollen, especially about ankle-joint ; purplish-black color ; two large ulcers over tibia, two and three inches long and half an inch in depth ; abundant fetid secretion ; severe pain ; can hardly get about. θ Chronic ulceration of leg.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "REST. POSITION. MOTION. [35] [Grin.]. Sitting position in bed ; on account of difficulty of breathing. Cannot lie still a moment on account of pain. Can hardly move on account of pain in legs. Moving eyes : < pain.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "It antidotes : Rhus tox",
+        "Compare : Am. mur., Ant. tart., Kali. bich",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "hering-guiding-1879"
+    ]
+  }
+}

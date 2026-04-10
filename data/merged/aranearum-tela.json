@@ -1,0 +1,30 @@
+{
+  "id": "aranearum-tela",
+  "names": {
+    "primary": "Aranearum Tela",
+    "latin": "Aranearum Tela",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Cobweb has been used as a remedy from ancient times. It has also been experimented with on healthy persons. It very rapidly lowers the frequency of the pulse rate. In some it has produced \"a calm and delightful state of feeling, followed by a disposition to sleep.\" \"The most delicious tranquillity, resembling the action of opium, and followed by no bad effects.\" Twenty grains given to an old and infirm asthmatic produced \"slight but pleasant delirium.\" Muscular energy is increased, could not be kept in bed, but danced and jumped about the room all night. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Sleeplessness",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

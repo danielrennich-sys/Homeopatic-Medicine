@@ -1,0 +1,72 @@
+{
+  "id": "phellandrium-aquaticum",
+  "names": {
+    "primary": "PHELLANDRIUM AQUATICUM",
+    "latin": "PHELLANDRIUM AQUATICUM",
+    "common": [
+      "Water Dropwort (PHELLANDRIUM)"
+    ],
+    "synonyms": [
+      "Phellandrium aquaticum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Weight on vertex; aching and burning in temples and above eyes. Crushing feeling in vertex. Vertigo, dizzy when lying down",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Ciliary neuralgia; worse any attempt to use eyes: burning in eyes. Lachrymation. Cannot bear light. Headache; involving nerves going to eye",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Pain in milk ducts; intolerable between nursing. Pain in nipples",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Sticking pain through right breast near sternum, extending to back near shoulders. Dyspnœa, and continuous cough, early in morning. Cough, with profuse and fetid expectoration; compels him to sit up. Hoarseness",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Hectic; profuse and debilitating perspiration; intermittent, with pain in arms. Desire for acids",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Tired feeling when walking",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture, to sixth potency. In phthisis not below the sixth"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">PHELLANDRIUM AQUATICUM Water Dropwort (PHELLANDRIUM) The respiratory symptoms are most important, and have been frequently verified clinically. A very good remedy for the offensive expectoration and cough in phthisis, bronchitis, and emphysema. Tuberculosis, affecting generally the middle lobes. Everything tastes sweet. Hæmoptysis, hectic and colliquative diarrhœa.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Phellandrium aquaticum. Intolerable pains in the lactiferous tubes ; much worse during the act of nursing. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "lippe-textbook-mm-1866"
+    ]
+  }
+}

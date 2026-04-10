@@ -1,0 +1,41 @@
+{
+  "id": "mugwort",
+  "names": {
+    "primary": "Mugwort",
+    "latin": "Mugwort",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Mugwort is native to Europe and parts of Asia and Africa. It now grows in many parts of the world, including North America. Mugwort was used in traditional Chinese, Hindu, and European medicine for gastrointestinal and gynecological problems. During the Middle Ages, mugwort was known as the “mother of herbs.” Today, mugwort is promoted for oral use for a variety of conditions such as anxiety, menstrual cramps, high blood pressure, and insomnia. It is promoted for topical use in combination with other ingredients for hypertrophic scars (raised scars that may occur as a complication of burn injuries and that may restrict movement).",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "Very little research has been done on mugwort in people. There is not enough evidence to determine whether mugwort is safe or useful for any health condition; therefore, more studies are needed before definitive conclusions can be reached.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "One preliminary study showed that a topical lotion containing mugwort and menthol relieved itching associated with hypertrophic scars. Because the product contained more than one ingredient, it is not clear whether mugwort was responsible for the effect. There’s not enough evidence to say whether mugwort is helpful for any other conditions.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "There’s not enough evidence to know whether it’s safe to take mugwort orally or to use it topically. Mugwort should not be used during pregnancy. Little is known about whether it’s safe to use mugwort while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

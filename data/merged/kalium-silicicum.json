@@ -1,0 +1,56 @@
+{
+  "id": "kalium-silicicum",
+  "names": {
+    "primary": "KALIUM SILICICUM",
+    "latin": "KALIUM SILICICUM",
+    "common": [
+      "Silicate of Potash (KALI SILICATUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Absent-minded, anxious, indolent, timid. Feeble will power. Head congested, blood surges from body to head. Vertigo, coldness of head; photophobia. Nasal catarrh, discharge bloody, excoriating, offensive nose, swollen, ulcerated",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Gastric] Weight in stomach after eating, nausea, pain, flatulence. Pain in liver region. Constipation. Construction of anus during stool",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Stiffness over body and limbs. Creeping sensation over limbs. Twitching of muscles. Weak and weary",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "open air, drafts, cold, exertion, motion uncovering, bathing",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Higher potencies"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">KALIUM SILICICUM Silicate of Potash (KALI SILICATUM) A deep-acting remedy. Lassitude is very marked. Desire to lie down all the time. Emaciation.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

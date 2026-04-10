@@ -1,0 +1,24 @@
+{
+  "id": "oxalic-acid",
+  "names": {
+    "primary": "OXALIC ACID",
+    "latin": "OXALIC ACID",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Complaints Helon., Calc. phos.)",
+        "source_id": "nash-leaders-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "nash-leaders-1899"
+    ]
+  }
+}

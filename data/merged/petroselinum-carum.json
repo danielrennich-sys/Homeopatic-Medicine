@@ -1,0 +1,40 @@
+{
+  "id": "petroselinum-carum",
+  "names": {
+    "primary": "Petroselinum. Carum petroselinum",
+    "latin": "Petroselinum. Carum petroselinum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Synonym—Parsley.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—An infusion of parsley is beneficial when, with nephritis or cystitis, the specific gravity of the urine is high, and the urination painful and irritating to the mucous membranes. It is useful in gonorrhea and strangury, with great irritation of the parts, with heat, or a scalding sensation on passage of urine, and can be given during the inflammatory stage. It has also been given in dropsy with good results.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Apiol is a specific in amenorrhea. Five or six minims in a capsule, three times daily, for six or eight days before the menstrual epoch will restore the flow in many stubborn cases. It has no marked abortive influence. In persistent dysmenorrhea it has cured many cases intractable to other agents.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Active anti-periodic properties have been ascribed to apiol. It is a nerve stimulant. It controls excessive night sweats, either from phthisis, or following protracted malarial disease.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919"
+    ]
+  }
+}

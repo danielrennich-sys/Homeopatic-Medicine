@@ -1,0 +1,56 @@
+{
+  "id": "gillenia-trifoliata",
+  "names": {
+    "primary": "Gillenia trifoliata (MOENCH.)",
+    "latin": "Gillenia trifoliata (MOENCH.)",
+    "common": [
+      "Indian Physic"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Eastern United States.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "A perennial herb, indigenous to the United States, its irregular, brownish root gives rise to several stems 2 or 3 feet in height, and has depending from it many long, thin fibres. The leaves and leaflets are of various shapes, and the white, reddish-tinged flowers grow in a few loose, terminal panicles. The dried root is reddish brown, the bark being easily removed and pulverized. Within, it is light, ligneous, and comparatively inert. The bitterness of the bark is extracted by alcohol, or by water at 212 degrees F., to which a red colour is given. It grows well in the author's garden, in slightly moist, rich soil, not in the full blaze of the mid-day sun.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The roots have been found to contain gum, starch, gallotannic acid, fatty matter, wax, resin, lignin, albumen, salts and colouring matter. Gillenin was obtained by W. B. Stanhope by exhausting coarsely powdered bark with alcohol, evaporating the resulting red tincture to the consistency of an extract, dissolving this in cold water, filtering, evaporating, and finally drying on glass. Half a grain caused nausea and retching. Two glucosides were found, Gillein, from the ethereal extract, and Gilleenin, from the aqueous infusion.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Tonic, emetic, slightly diaphoretic, cathartic, and expectorant. The American Indians and early colonists knew the uses of the roots, the action of which resembles Ipecacuanha. Recommended in dyspepsia, dropsy, rheumatism, chronic costiveness, and whenever an emetic is required. It is safe and reliable.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Of powdered root, as an emetic, 20 to 30 grains. In dyspepsia, as a tonic, 2 to 4 grains. As a sudorific, in cold water, 6 grains at intervals of two or three hours. It may be combined with opium. Frequent large doses of the infusion cause vomiting and purging.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Gillenia stipulata , taller and more bushy,with fewer flowers and roots more like those of Ipecac; grows as far west as Kansas. It is, equally with G. trifoliata , the source of Gillenia. See: MEADOWSWEET HARDHACK [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

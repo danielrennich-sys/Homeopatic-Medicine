@@ -1,0 +1,35 @@
+{
+  "id": "stigmata-maydis",
+  "names": {
+    "primary": "STIGMATA MAYDIS",
+    "latin": "STIGMATA MAYDIS",
+    "common": [
+      "Corn-silk (ZEA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "urinary": [
+      {
+        "text": "Suppression and retention. Dysuria. Renal lithiasis; nephritic colic; blood and red sand in urine. Tenesmus after urinating. Vesical catarrh. Gonorrhœa. Cystitis. Shucks (as a decoction used for chronic malaria, teaspoonful doses freely. Dr. E. C. Lowe, England)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture in tent-to fifty-drop doses"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">STIGMATA MAYDIS Corn-silk (ZEA) Has marked urinary symptoms, and has been used with success in organic heart disease, with much œdema of lower extremities and scanty urination. Enlarged prostate and retention of urine. Uric and phosphatic Gonorrhœa. Cystitis.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "caffeina",
+  "names": {
+    "primary": "Caffeina (U. S. P.)",
+    "latin": "Caffeina (U. S. P.)",
+    "common": [
+      "Caffeine"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "FORMULA: C8H10N4O2+H2O. MOLECULAR WEIGHT: 211.68. \"A feebly basic, proximate principle, obtained from the dried leaves of Thea sinensis, Linné (Nat. Ord.—Ternstroemiaceae, or from the dried seeds of Coffea arabica, Linné (Nat. Ord.—Rubiaceae), and found also in other plants\"—(U. S. P.). SYNONYMS: Theine, Coffeine, Caffeia, Guaranine, Methyl-theobromine, Trimethyl-xanthine.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Preparation.—H. J. Versman states the following to be a very profitable and simple mode of obtaining caffeine. Ten parts of bruised coffee are mixed with 2 parts of caustic lime, previously slaked. This mixture is placed in an ordinary percolator, with alcohol of 80°, until the fluid which passes through no longer furnishes evidence of the presence of caffeine. The coffee is then roughly ground and brought nearly to the state of a powder, and the refuse of the already once digested mixture from the percolator dried, and ground again, and, mixed with hydroxide of calcium, is once more macerated. The grinding is more easily effected after the coffee has been subjected to the operation of the alcohol, having lost its horny quality, and the caffeine is thus certainly extracted. The clear alcoholic fluid thus obtained is then to be distilled, and the refuse in the retort to be washed with warm water to separate the oil. The resulting fluid is then evaporated until it forms a crystalline mass, which is to be placed on a thick filter, and the moisture expressed. The moisture, after evaporation, still furnishes some caffeine. The impure caffeine is freed from oil by pressure between folds of blotting paper, and purified by solution in water with animal charcoal, and then crystallized by evaporation. Good Brazilian coffee thus yielded 0.57 per cent of caffeine.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "A former Hanoverian Pharmacopoeia directed caffeine to be made by precipitating a decoction of coffee with acetate of lead, filtering and washing the precipitate, evaporating the liquids to dryness, and, after mixing the powdered extract with sand, the mass is sublimed in Mohr's apparatus, just as in making benzoic acid (A. J. P.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "With a view of extracting all the caffeine from coffee, M. Pucetti tried the following method: He brought the decoction of coffee to the consistence of an extract, and treated it with alcohol, which left undissolved a resinous substance; he then dissolved a slight excess of pulverized caustic lime in the alcoholic fluid, which, when filtered and evaporated to the necessary degree, furnished crystals of impure caffeine. This was pressed between thick linen, to get rid of the adherent mother liquor, and then dissolved in well-water, and treated with animal charcoal, by which means the alkaloid was obtained pure. One pound of coffee yielded 1/20 of an ounce (about 1.5 gramme) of caffeine. He also obtained it in larger quantity from tea.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Vogel's process for procuring caffeine is to treat ground coffee with benzin; this dissolves out the caffeine and fixed oil. Distill the benzin solution to dryness, and boil the residue in water, which dissolves the caffeine, and deposits it on filtering and concentrating the liquid.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Wayne's method is to boil finely ground coffee or tea (2 parts) in washed litharge (3 parts) and water. On filtering, an almost colorless filtrate is obtained, which, by means of sulphide of hydrogen, is freed from lead, and, when sufficiently concentrated, yields caffeine in colorless crystals. Some of the alkaloid still remains in the mother liquor, and, after treatment with bone charcoal, colorless crystals may again be obtained. Another common method is that of Garot: Precipitate a coffee decoction with acetate of lead; filter; treat the filtrate with sulphide of hydrogen, to remove the lead in excess; add ammonia to neutralization; evaporate and recrystallize.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Description and Tests.—According to the U. S. P. caffeine occurs as \"fleecy masses of long, flexible, white crystals, possessing a silky lustre, without odor, having a bitter taste, and permanent in the air. Soluble, at 16° C. (59° F.), in 80 parts of water, 33 parts of alcohol, 555 parts of ether, or 7 parts of chloroform. Also soluble in 9.5 parts of boiling water, and very soluble in boiling alcohol. When heated to 100° C. (212° F.), caffeine loses its water of crystallization, and at 229° C. (444.2° F.) it melts, forming a colorless liquid. When ignited, caffeine is completely volatilized without charring or leaving a residue. Caffeine is neutral to litmus paper. On dissolving a small quantity of caffeine in concentrated sulphuric acid, and adding a minute fragment of potassium dichromate to the liquid, the latter will acquire a yellowish-green color, which gradually becomes green. If a small quantity of caffeine be dissolved in about 1 Cc. of hydrochloric acid, a little potassium chlorate added, the whole evaporated to dryness on a water-bath, and the capsule then inverted over a vessel containing a few drops of ammonia water, the residue will acquire a rich purple color, which is destroyed by alkalies. Caffeine should dissolve in strong sulphuric or nitric acid without producing a color (absence of organic impurities). Its aqueous solution should not be precipitated by mercuric potassium iodide T.S. (absence of other alkaloids)\"—(U. S. P.). At an elevated temperature it sublimes in needles similar to those of benzoic acid. Tannic acid precipitates it from aqueous solution. According to the analysis of theine from tea by M. Jobst, caffeine proves to be identical with it. Caffeine exists in other substances, as tea (containing 2 to 4 per cent), maté (Paraguay tea), kola nut, guarana, etc. (in the latter to the extent of 5 per cent). The taste of caffeine, though bitter, is not very unpleasant. The alkaloid may be obtained in an anhydrous state by crystallization from ether or alcohol; but, if crystallized from water, it contains a molecule of H2O, which is expelled at, or above the boiling point of water (100° C. [212° F.]).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chemical Composition.—It has been shown by Strecker, who produced it synthetically (1861), that caffeine is methyl-theobromine. When heated in the presence of barium hydroxide solution, or with solution of caustic potash in alcohol, beside a barium or potassium salt, ammonia and methylamine are produced, and from the residual matter may be obtained an amorphous basic body, soluble in both alcohol and water, but very sparingly soluble in ether, and which is known as caffeidine (C7H12N4O). By prolonged heating the caffeidine is further decomposed and results in the production of formic acid, methylamine, ammonia, and sarkosine (methylglycocoll [NHCH3.CH2.COOH]). J. E. Walter (Pharm. Rec., 1890), from an analysis of several kinds of unroasted coffee berries, found Costa Rica coffee to contain the largest amount of caffeine (1.24 per cent), and Mocha the least (0.54 per cent); other grades were: Rio, 1.12; Liberian Java, 1.08; Java, 0.89; Peaberry (Fenroll), 0.77 (also compare Coffea).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—To the nervous system caffeine is stimulant, its effects being rapidly developed. It produces a characteristic wakefulness, and a state of nervous unrest. Mental activity is pronounced, thought is rapid, and so great is the cerebral stimulation, that an enormous amount of brain power is developed, so that individuals are capable of prolonged and severe mental application. The reasoning faculties are sharpened, and there is also a marked capacity for physical labor. There is a great variability in its effects, as much as 23 grains having been given without marked toxicity, while doses of 8 or 9 grains have induced symptoms quite like those from alcoholic intoxication—giddiness, tinnitus, headache, tremors, unrest, wakefulness, mental confusion, delirium, and a state of drowsiness being among the phenomena observed. Diuresis is also increased. It seems not to affect the blood, though readily absorbed. Varying reports are given of its effects upon the heart. The cardiac contractions, however, are increased in force, the systole being sustained while the diastole is shortened. In consequence, there is a rise in the blood pressure. It is not thought, as formerly, that caffeine acts directly upon the cardiac muscles, like digitalis, but that it stimulates the nervous centers, thus striking at the source of cardiac power. Under its action the regularity of the heart-action is restored when disordered; the pulse rate is increased, and blood pressure augmented. These are the effects of medicinal doses, while in large amounts the heart is paralyzed by caffeine and its salts. Small doses scarcely affect the temperature, which is somewhat increased by large doses. Large doses also depress the breathing organs, while, in therapeutic doses, it acts upon the medulla, causing mere respiratory excitation. Upon the muscular structures its action is decided, increasing the power of contractility. Caffeine acts upon the secreting cells of the kidneys, stimulating them and causing diuresis—a function greatly augmented by overdoses of the drug. Both the liquid and solid constituents of the urine are increased by it, thus proving it one of the best diuretics. Partial elimination takes place by the kidneys, chiefly when toxic amounts are ingested, but in therapeutic doses the drug is destroyed in the system. That both coffee and caffeine enables one to stand severe mental and physical service is well known, and, though a question still in dispute, it is believed that this is due to its power of limiting the excretion of nitrogenous products, thus acting as a restrainer of tissue waste—a conservator of both tissue and force. This was pointed out by Lehmann (1853) and Böcker (1854), the former showing that, after the administration of a daily quantity of 6 grains of caffeine, the elimination of urea diminished from 12 to 20 per cent. Citrated caffeine, in a dose of 18 grains, caused in a woman of 30, delirium, semi-insensibility, but no headache. The feet, hands and tongue trembled, and the patient walked with a reeling gait. A cold and clammy perspiration covered the surface and the extremities were cold; the temperature remained unaffected, but the pulse was irregular and slow (55); the legs cramped; the hands and feet were slightly paralyzed; and tetanoid convulsions ensued, as well as vomiting Intestinal pain added to the unpleasantness, but no action from the bowels was provoked. The vision was dulled though the pupils were unaffected. As is characteristic of the drug, free and frequent urination took place. In another instance an experimenter (Dr. Pratt) experienced, from 12 grains of caffeine, great mental anxiety and restlessness, persistent and rapid thinking, tremors, obstinate insomnia, and urination was frequent. These effects were developed in 2 hours after taking the drug.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Caffeine may be used to fulfil many of the uses for which coffee itself is used. It should be remembered, however, that neither fully represents the other, their effects being somewhat different, and, indeed, it is very doubtful if much caffeine remains in coffee which has been subjected to heat. The chief uses for caffeine are as a cardiac and cerebral stimulant, and as a remedy for dropsy of cardiac origin. As opium and coffee, and morphine and caffeine, are directly antagonistic to each other, it seems a plausible remedy for opium narcosis, and coffee has for years occupied the place of a standard remedy for this condition. Other and more active treatment should be instituted at the same time. Caffeine and its salts are among the most powerful of heart energizers, and may be thought in feeble and irregular action of that organ, when not due to obstruction or valvular lesions. It is preferable to digitalis in that it does not derange the stomach, is not cumulative, and acts primarily upon the nerve centers, presiding over the cardiac movements and not like digitalis upon the heart muscle alone.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Cardiac paralysis, or heart failure, may be averted by administering 5 grains every 2 hours. It is particularly adapted to that failure of cardiac power depending upon heart dilatation, typhoid fever, pneumonia, la grippe, and other diseases tending to implicate the heart. Administer 2 grains every 2 or 3 hours. It is more prompt than digitalis and yet more fugacious, though its diuretic power is greater. It is a valuable remedy in dropsy, due to feeble and irregular cardiac action, and will even act independently of its effects upon the circulation, as it has been shown to directly affect the secretory epithelial structures of the uriniferous tubules. Other forms of dropsy than the cardiac variety are little benefited by it. While it should be avoided in acute albuminuria, it is of signal value in the chronic form, with weak heart, provided no marked irritation of the kidneys be present. It corrects the deficient action of the renal structures. It is not without value in uremic coma. Caffeine, or the citrate, may be given in doses of from 1 to 5 grains every 4 hours, increasing the dose as necessary. If it tends to produce obstinate wakefulness at night, the doses may be given at short intervals in the early part of the day. It is of value in the pulmonary congestion and pneumonia of the aged, assisting both the heart-action an the pulmonic circulation.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Caffeine, and especially the citrated form, has attained a reputation in migraine. The cases most benefited are those of a hyperemic character with flushed countenance and cerebral fullness. Purely neuralgic pain, with cerebral anemia, is said to be made worse by caffeine.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The dose of caffeine ranges from ½ to 9 grains, mixed with sugar, though the intermediate doses are to be preferred. Sodium benzoate, sodium salicylate, and antipyrin render it more soluble, and it should not be given in pill. Tanret's solution for hypodermatic use consists of sodium benzoate, Gm. 3.60 (55.5 grains); caffeine, Gm. 3 (46.3 grains); and distilled water, q. s. 10 Cc. (162.3 minims). Each cubic centimeter contains Gm. 0.30, or about 5 grains of caffeine.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Specific Indications and Uses.—Cardiac insufficiency; renal torpor, depending upon a weak heart, and dropsy from a like cause. Headache (migraine), with cerebral hyperemia, as evidenced by flushed face; hyperemic states of the cerebrum; opium narcosis.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Derivative of Caffeine.—ETHOXY-CAFFEINE.—This product has a somewhat narcotic effect upon both the brain and the spinal cord. Without materially interfering with the motor centers, or the circulation, it may cause stupor and paralysis. Diuresis, diaphoresis, and quickened heart-action, with flushed countenance, result from its physiological doses. Moderate doses induce sleep, while larger doses seem to disturb it. It may produce vomiting. In broken doses it may be administered to the extent of from 4 to 12 grains daily for the relief of migraine.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "kings-american-1898"
+    ]
+  }
+}

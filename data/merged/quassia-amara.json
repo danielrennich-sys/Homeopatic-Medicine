@@ -1,0 +1,47 @@
+{
+  "id": "quassia-amara",
+  "names": {
+    "primary": "QUASSIA AMARA",
+    "latin": "QUASSIA AMARA",
+    "common": [
+      "Quassia-wood (QUASSIA - PICRAENA EXCELSA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "stomach_abdomen": [
+      {
+        "text": "Atonic dyspepsia, with gas and acidity. Heart-burn and gastralgia. Regurgitation of food. Abdomen feels empty and retracted. Dyspepsia after infectious diseases; especially grip, dysentery. Tongue dry or with brown sticky coating. Cirrhosis of liver with ascites",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Excessive desire-impossible to retain urine; copious micturition day and night. As soon as the child wakes up the bed is drenched",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Inclination to yawn and stretch (Rhus). Sensation of coldness over back. Prostration, with hunger. Cold extremities, with sensation of internal coldness (Helo-derma)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "First to third potency, or spoonful doses of Aqua Quassiae"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">QUASSIA AMARA Quassia-wood (QUASSIA - PICRAENA EXCELSA) Acts on gastric organs as a tonic (Gentian; Hydr). Seems to possess marked action on eyes, producing amblyopia and cataract. Pain in right intercostal muscles above the liver. Pressure and stitches in liver, and sympathetically in spleen.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "capsicum-cayenne",
+  "names": {
+    "primary": "Capsicum. Cayenne Pepper (Solanaccae)",
+    "latin": "Capsicum. Cayenne Pepper (Solanaccae)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Persons with light hair, blue eyes, nervous but stout and plethoric habit. Phlegmatic diathesis; lack of reactive force, especially with fat people, easily exhausted; indolent, dreads any kind of exercise; persons inclined to be jovial, yet angry at trifles. Children; dread open air; always chilly; refractory, clumsy, fat, dirty, and disinclined to work or think. Desires to be let alone; wants to lie down and sleep; Homesickness (of indolent, melancholic), with red cheeks and sleeplessness. Constriction: in fauces; throat; nares; chest; bladder; urethra; rectum. Burning and smarting sensation, as from cayenne pepper, in throat and other parts, not > heat. Tonsillitis: with burning, smarting pain; intense soreness; constriction of throat with burning; inflamed, dark red, swollen. The burning spasmodic constriction and other pains, worse between acts of deglutition (Ign.). Painful swelling behind ear (mastoid), extremely sore and sensitive to touch. Every stool is followed by thirst and every drink by shuddering. As the coldness of the body increases, so also does the ill-humor. Nervous, spasmodic cough; in sudden paroxysms; as if head would fly to pieces. With every explosive cough (and at no other time) there escapes a volume of pungent, fetid air. Pain in distant parts on coughing (bladder, knees, legs, ears).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Compare: Apis, Bell., Bry., Calad., Puls. Cina follows well in intermittent fever. The constricting, burning, smarting pains differentiate from Apis and Belladonna.",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

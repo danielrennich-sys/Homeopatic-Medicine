@@ -1,0 +1,108 @@
+{
+  "id": "tartaricum-acidum",
+  "names": {
+    "primary": "TARTARICUM ACIDUM",
+    "latin": "TARTARICUM ACIDUM",
+    "common": [
+      "Tartaric Acid"
+    ],
+    "synonyms": [
+      "Tartaricum Acidum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "stomach_abdomen": [
+      {
+        "text": "Excessive thirst, continued vomiting burning in throat and stomach. Dyspepsia with copious secretions of mucus",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pain around umbilicus and region of loins. Stool color of coffee-grounds (worse at night), with brown and dry tongue, and dark-green vomiting",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Very urgent thirst. Eructations. Nausea. Vomiting, repeated and almost continuous. Vomited matter, deep green. Pain in umbilical region. Pinching below navel with emission of flatulence; cold feeling in abdomen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "dosing": {
+      "notes": "Third trituration. The pure acid 10-30 grains dissolved in water"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">TARTARICUM ACIDUM Tartaric Acid Found in grapes, pineapple, sorrel and other fruits. It is an antiscorbutic antiseptic, stimulating the mucous and salivary secretions. Dullness and lassitude. Great weakness, with diarrhœa, with dry and brown tongue. Pain in heels (Phytol).",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "A proving by Nenning and some poisonings have furnished the pathogenesis of Tart. ac. One of the most marked symptoms was intense burning in throat and stomach, feeling \"as if on fire.\" Tongue brown and dry. Almost constant vomiting; vomited matter of deep green colour. Fæces coffee-ground colour. Difficult respiration. Paralytic debility: \"Weakness in the evening, can scarcely drag himself along.\" This should prove useful: \"Tearing pain on the soles of the feet, near the heel, which prevents him putting his foot on the ground, after luncheon.\" All the symptoms were > in open air. The pasty taste is > after eating.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Gastritis; Heels, pain in",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Hoarseness and scraping in larynx. Respiration: accelerated; then laborious and slow. Paralysis of thighs and legs. Tearing pains at soles, near the heel, which prevents him setting his foot on the ground, after luncheon. Convulsions just before death. Extreme weakness. In evening feels very tired, can scarcely drag himself along. General bruised sensation, esp. of lower limbs.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Confusion in head; dizziness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Face instantly became red as fire, and having exclaimed that he was poisoned, became speechless; died on tenth day (drank 2 oz. in solution). Lips turn brown and blackish on their inner edges. Constant dryness of lips, must moisten them continually. Burning of lips.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Teeth set on edge. Brown and dry tongue. Taste, pasty, in morning, ceases on eating. Burning sensation in throat and stomach as if on fire.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Many stools during night. Stools of colour of coffee grounds.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Very weak action of heart. Feeble pulse.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Sharp pain in region of loins.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Yawning and stretching. Frequent yawning.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "General cold feeling, evening in bed. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

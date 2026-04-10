@@ -1,0 +1,32 @@
+{
+  "id": "cinnamodendron-corticosum",
+  "names": {
+    "primary": "Cinnamodendron corticosum",
+    "latin": "Cinnamodendron corticosum",
+    "common": [
+      "Winter's Bark, False"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "This is pungent like Winter's Bark, but a much paler brown colour, resembling canella bark, but without its chalky white inner surface. It has a ferruginous grey-brown colour, darker externally, with scars of the nearly circular subereous warts smooth and finely striated on the inner surface. Like canella bark in odour and pungent taste but is not bitter.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Volatile oil and tannic acid, it may be distinguished from canella bark by its decoction becoming blackened by a persalt of iron, can be used for the same diseases as Winter's Bark. In South America it is much used for diarrhoea, etc.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

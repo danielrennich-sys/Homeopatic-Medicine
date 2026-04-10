@@ -1,0 +1,30 @@
+{
+  "id": "phlorizinum",
+  "names": {
+    "primary": "Phlorizinum",
+    "latin": "Phlorizinum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Phloriz. exists in fine, silky, four-sided, colourless needles, soluble in water. It has a bitter and slightly astringent taste, and has been used in old-school practice as a remedy for intermittent fever, and whilst being administered for this it has produced glycosuria. This observation has led to its successful use by homœopaths in cases of diabetes. Successes with the 3x and 6 have been reported. A patient to whom it was given by Burnett accused him of having given him a preparation of apples. The man discovered it because it produced herpes along the dorsum of the penis, an effect which invariably occurred whenever he ventured to eat apples. V. Mering. (H. W., xxiv. 535) produced glycosuria in dogs with Phlor.; but. if Syzyg. was given simultaneously with Phlor., no glycosuria appeared. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Diabetes; Herpes preputialis; Intermittent fever",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

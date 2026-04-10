@@ -1,0 +1,44 @@
+{
+  "id": "veronal",
+  "names": {
+    "primary": "Veronal",
+    "latin": "Veronal",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Synonym—Diethylmalonylurea, Barbital.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The agent is given in capsules of from five to ten grains. It is best given an hour before its influence is needed, as its action is slow. Long continued use demands an increased dose as it seems to lose its effect.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The agent is comparable with sulphonal. It is devoid of some of the objectionable influences of the other drug, and is more prompt in its action. Its free solubility contributes to this. Insomnia induced by nervous excitability of any character is relieved by it. Overdoses induce protracted sleep in proportion to the amount taken. Two or two and one-half drams will produce death, though a fatal ending is slow in occurring. Sleep has been prolonged ten days with recovery.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "If combined with sodium, veronal becomes a safer remedy with a somewhat wider influence. It is usually preferred in this form.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Trional and Tetronal so closely resemble sulphonal and veronal in their influence that we do not deem it necessary to introduce them as separate agents. They have gained no ground in the past seventeen years, while the two latter have increased in favor.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919"
+    ]
+  }
+}

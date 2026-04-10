@@ -1,0 +1,50 @@
+{
+  "id": "strychnos-ignatii",
+  "names": {
+    "primary": "Strychnos Ignatii (BERG.)",
+    "latin": "Strychnos Ignatii (BERG.)",
+    "common": [
+      "Ignatius Beans"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A large woody climbing shrub, introduced into Cochin China, and highly esteemed there as a medicine. It attracted the attention of the Jesuits, hence its name. In commerce the beans are about one full inch long; ovate, a dull blacky brown colour, very hard and horny, covered in patches with silvery adpressed hairs; endosperm translucent, enclosing an irregular cavity with an oblong embryo; no odour; taste extremely bitter. Each fruit contains about twelve to twenty seeds embedded in the pulp from which they have to be separated.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The beans have the same properties as Nux Vomica, but contain more strychnine, also brucine, a volatile principle extractive, gum, resin, colouring matter, a fixed oil, and bassorin; they contain no albumen or starch.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Tonic and stimulant in action like Nux Vomica, which, being cheaper, is nearly always used as a substitute. Old writers lauded these beans as a remedy against cholera. They are useful in certain forms of heart trouble, but must be used with the greatest caution, as they are a very active and powerful poison.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Same as for strychnine, chloroform, belladonna, aconite, tobacco, chloral hydrate 1 drachm doses, morphia.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Tincture of Ignatia, 5 to 20 minims. Alkaline Tincture of Ignatia ( syn . Goute Ameres de Beaume), 5 to 20 minims. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

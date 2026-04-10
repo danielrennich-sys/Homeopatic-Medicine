@@ -1,0 +1,76 @@
+{
+  "id": "chloralum-hydratum",
+  "names": {
+    "primary": "CHLORALUM HYDRATUM",
+    "latin": "CHLORALUM HYDRATUM",
+    "common": [
+      "Chloral Hydrate (CHLORALUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Morning headache; worse in forehead, also in occiput, on motion; better in open air. Passive cerebral hyperæmia (use 30th). Feeling as if hot band were drawn from temple to temple. Hears voices",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Eyes blood-shot and watery. Circles of light, black spots. Illusions of sight where eyes are closed or at night. Dim vision. Conjunctivitis, burning in eye and lids; eyeball feels too large; everything looks white",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Red blotches, like measles. Urticaria, worse, spirituous liquors, hot drinks. Erythema aggravated by alcoholic drinks, with palpitation; causes pain in tendons and extensors. Intense itching. Surface of body stone-cold. Wheals come on from a chill; better, warmth. Purpura (Phos; Crotal)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Extreme dyspnœa, with sensation of weight and constriction of chest. Asthma, with sleeplessness",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Insomnia, hallucinations, horrid dreams. Somnolence",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "after hot drinks, stimulants, eating, night",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "antidoted_by": [
+        "Ammon",
+        "Atrop",
+        "Dig",
+        "Mosch"
+      ]
+    },
+    "dosing": {
+      "notes": "First trituration in hives, otherwise, higher potencies. Locally, in offensive foot-sweat, bathe with one per cent solution. For its physiological effects, five to twenty grains. Use cautiously"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CHLORALUM HYDRATUM Chloral Hydrate (CHLORALUM) This drug, used in physiological doses, is a powerful hypnotic and cardiac depressant. It has a marked effect on the skin, producing erythema, ecchymosis, etc, which symptoms have been utilized homeopathically with much success, especially in the treatment of hives. Emotional excitability, hallucinations. Night terrors in children. Muscular prostration.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

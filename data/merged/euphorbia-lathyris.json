@@ -1,0 +1,169 @@
+{
+  "id": "euphorbia-lathyris",
+  "names": {
+    "primary": "Euphorbia Lathyris",
+    "latin": "Euphorbia Lathyris",
+    "common": [
+      "Gopher-Plant, Caper Spurge"
+    ],
+    "synonyms": [
+      "EUPHORBIA LATHYRIS"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T EUPHORBIA LATHYRIS. Euphorbia lathyris, Linn. Natural order , euphorbiaceæ. Common name , Caper-spurge. Preparation , Tincture of whole plant. Authorities. 1 , Bennewitz, A. H. Z., 7, 257, effects of the seeds on two children; 2 , M. Jacob, Am. J. Med. Sc., Jan. 1845, a man was poisoned by the bruised seeds. EYE. ► Brilliant eyes (after five hours), [1] . ► Staring look, [1] . ► Pupils dilated, with wide-open eyes, [1] . FACE. ► Face deadly pale, [1] . STOMACH. ► Retching and vomiting, [1] . ► Suddenly seized with violent vomiting and bloody stools, [2] . ABDOMEN. ► Abdomen drawn inward, [1] . STOOL. ► Stools copious, frequent, [1] . PULSE. ► Pulse small, irregular, [1] . GENERAL SYMPTOMS. [10.] ► Whole body stiff, icy cold, [1] . ► Uneasiness (after five hours), [1] . FEVER. ► Skin burning hot (after five hours), [1] . ► Glowing hot cheeks (after five hours), [1] . SUPPLEMENT: EUPHORBIA LATHYRIS. Authority. 3 , Journ. de Méd. de Toulouse and Répert. de Pharm., Paris (Pharm. Journ., 2d ser., vol. ii, 1861, p. 435), one man took eighteen seeds, another twenty, and a third took twenty-five. ► A short time after ingestion of the seeds they produced violent purgation, vomiting, frequent diarrha, and a general pallidness and coldness spread over the body, [3] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Cholera; Diarrhœa; Dysentery",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Copious, frequent; violent purgation. Bloody stools.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Delirium and hallucinations. Stupor, coma",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Almost closed from œdema of lids",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Brilliant eyes. Staring look. Pupils dilated with wide-open eyes.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "End of nose very much inflamed externally. Very sensitive and œdematous mucous membranes with ulceration",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "At first ruddy glow on cheeks, afterwards death-like pallor. Cold perspiration in beads on forehead. Red, puffed, and in spots suppurating. Erythema, beginning on face, gradually extending into the hair parts, and then spreading over whole body, taking eight days to do so; eruption glossy, rough œdematous, with burning and smarting; aggravated by touch and cold air; ameliorated by close room and sweet-oil applications. Fine bran-like desquamation. Sensation of cobwebs. Stinging, smarting, and burning of face when touched",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Deadly pale. Glowing hot cheeks.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue coated, slimy; acrid taste. Breath cold, musty odor",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea and vomiting of copious clear water, intermingled with white, gelatinous lumps",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Retching and vomiting. Sudden violent vomiting with bloody stools. Abdomen drawn inward.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Drastic purgation from large doses; mild laxative condition from smaller doses; followed several weeks afterwards by obstinate constipation. Stools of white, transparent, gelatinous mucus; later mingled with blood",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Copious flow of urine",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Inflammation of scrotum resulting in deep acrid ulcers, with intense itching and burning; worse, touching the parts from washing",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Labored breathing. Breath cold, musty odor. Cough; first, a hacking, as from inhalation of sulphur; later on, paroxysmal, like whooping-cough, in regular paroxysms, ending in diarrhœa and vomiting, with sleepiness between each paroxysm",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Weak and fluttering heart-action. Pulse 120, full, bounding, somewhat irregular",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pulse small, irregular.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Restlessness at night. Sleep disturbed, anxious dreams",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Temperature increased. Body bathed in profuse perspiration, standing out like beads on forehead; later, cold, clammy perspiration on forehead",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pallor and coldness of surface. Skin burning hot; glowing hot cheeks. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Erythema, beginning on uncovered parts, on face, and spreading over whole body; glossy, rough, œdematous, with burning and smarting. Fine bran-like desquamation following in the wake of the erythema. Eruption rough, scaly, smarting, and burning; when scratched forms deep, ragged ulcers; skin where ulcerated remains red",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "close room and sweet-oil application",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "touch and cold air",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Third to thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">EUPHORBIA LATHYRIS Gopher-Plant, Caper Spurge The fresh milky juice is exceedingly acrid when applied to the skin and the fruit is highly purgative and poisonous. The juice causes redness, itching, pimples, sometimes gangrene. The symptoms point to its use in erysipelas. Poison Oak, etc. Rheumatic pains during rest. Paralytic, weakness in joints.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The chief symptoms of E. lath. are: Retching and vomiting and bloody stools with brilliant eyes, flushed face; the abdomen is drawn inward. The whole body is stiff and icy cold. Uneasiness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

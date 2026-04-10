@@ -1,0 +1,107 @@
+{
+  "id": "fraxinus-americana",
+  "names": {
+    "primary": "FRAXINUS AMERICANA",
+    "latin": "FRAXINUS AMERICANA",
+    "common": [
+      "White Ash"
+    ],
+    "synonyms": [
+      "Fraxinus Americana"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Throbbing pain in back of head. Depression, with nervous restlessness, anxiety. Hot spot on top of head",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Headache with vertigo followed by fever. Throbbing pain in back of head and neck.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Uterus enlarged, and patulous. Watery, unirritating leucorrhœa. Fibroids with bearing-down sensation, cramping in feet, worse in afternoon and night. Dysmenorrhœa",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Uterine prolapse. (Bearing-down pains. Painfulness and heaviness of uterus. Fibroid tumours.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Tenderness in left inguinal region; bearing-down pain, extending down thigh",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Ten to fifteen drops of tincture, three times a day"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">FRAXINUS AMERICANA White Ash Enlargement of the uterus. Fibrous growths, subinvolution, and prolapse. Uterine tumors, with bearing-down sensations. Fever sores on lips. Cramps in feet. Cold creeping and hot flashes. Infantile eczema.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Fraxinus has had a fragmentary proving, but the chief clinical authority for its use is Dr. Burnett, who regards it as a uterine tonic in all heavy states of the uterus with prolapse, bearing-down, and relaxed ligaments. He calls it \"the medicinal pessary.\" I have repeatedly verified his indications. It is an organ-remedy of the first rank. It is also indicated in uterine tumours, especially fibroids, with bearing-down sensations.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Uterus, affections of; prolapse of; Uterus, tumours of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Cramp in feet after midnight, lasting three nights after the fever.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Sepia, Lil. t., Nat. hyperchlor., Secale, Hydrast."
+      ]
+    },
+    "face": [
+      {
+        "text": "Fever sores on lips.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Bowels constipated.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urine scanty and brown.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Wakefulness first part of night; last part dreamed that two rough men came into the house; in putting them out I was cut with a knife; I called for police, and that awoke me; I was breathing quick, with a fearful feeling.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Cold creeping and hot flushes. Fever two days after the medicine was stopped. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

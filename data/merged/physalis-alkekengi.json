@@ -1,0 +1,110 @@
+{
+  "id": "physalis-alkekengi",
+  "names": {
+    "primary": "PHYSALIS ALKEKENGI",
+    "latin": "PHYSALIS ALKEKENGI",
+    "common": [
+      "Alkekengi-Winter Cherry (PHYSALIS - SOLANUM VESICARIUM)",
+      "Cherry, Winter"
+    ],
+    "synonyms": [
+      "Physalis alkekengi (LINN.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "head": [
+      {
+        "text": "Vertigo, hazy feeling; memory weakness; desire to talk constantly. Throbbing pain, heavy over eyes in forehead. Facial paralysis. Dryness of mouth",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Stiff limbs; tonic cramps. Paralysis. When walking, every jar seems repeated in the head",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chilly in open air. Feverish in evening. Sweat during stool, with creeping sensation, with abundant urine. Pain in liver during, fever",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Cough. Hoarse voice; throat irritated; chest oppressed, causing insomnia. Stabbing in chest",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Acrid, foul, retained, abundant. Polyuria. Sudden inability to hold it in women. Nocturnal incontinence. Enuresis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Excoriation between fingers and toes; pustules on thighs; nodes on forehead",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "cold camp evening. After going heated",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Tincture to third attenuation. The juice of the berries is used in dropsical conditions and irritable bladder"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">PHYSALIS ALKEKENGI Alkekengi-Winter Cherry (PHYSALIS - SOLANUM VESICARIUM) Marked urinary symptoms confirming its ancient uses in gravel, etc. Lithiasis; marked diuretic action. Languor and muscular weakness.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The name of Physalis is derived from the Greek phusa (a bladder), for the five-cleft calyx greatly increases in size after the corolla falls off, thus enclosing the fruit in a large, leafy bladder. The plant bears smooth, dark-green leaves and yellowish-white flowers. The fruit is a round, red berry, about the size of a cherry, containing numerous flat seeds, kidney-shaped. It will grow freely in any garden, but sufficient is found growing wild for medicinal purposes. The leaves and capsules are the most bitter parts of the plant. The epicarp and calyx include a yellow colouring matter which has been used for butter. The berries are very juicy, with a rather acrid and bitter flavour. In Germany, Spain and Switzerland they are eaten freely, as are other edible fruits. By drying they shrink, and fade to a brownish-red.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "The fruits and the leaves.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "P. viscosa (Ground Cherry or Yellow Henbane) can be used in a similar manner. P. somnifera is a narcotic. The leaves are used in India, steeped in warm castoroil, as an application to carbuncles and other inflammatory swellings. The seeds are used to coagulate milk. Kunth states that the leaves have been found with Egyptian mummies. The plant sold in pots as Winter Cherry is Solanum pseudo-capsicum . [ Top ] Purchase from Richters Chinese Lantern (Physalis alkekengi) Seeds and Plants",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Europe. China and Cochin-China. An escape in the United States.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Physalin, a yellowish, bitter principle, has been isolated by extracting an infusion of the plant with chloroform. Lithal is sold as an extract of the berries to which lithium salt has been added. The fruit contains citric acid.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The berries are aperient and diuretic, are employed in gravel, suppression of urine, etc., and are highly recommended in fevers and in gout. Ray stated that a gouty patient had prevented returns of the disorder by taking eight berries at each change of the moon. Dioscorides claimed that they would cure epilepsy. The country people often use them both for their beasts and for themselves, and especially for the after-effects of scarlet fever. The leaves and stems are used for the malaise that follows malaria, and for weak or anaemic persons they are slightly tonic. A strong dose causes heaviness and constipation, but sometimes they have cured colic followed by diarrhoea. While not so prompt in its action as sulphate of quinine, the powder is a valuablefebrifuge. The leaves, boiled in water, are good for soothing poultices and fomentations.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

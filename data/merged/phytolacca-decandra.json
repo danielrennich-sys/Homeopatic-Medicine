@@ -1,0 +1,242 @@
+{
+  "id": "phytolacca-decandra",
+  "names": {
+    "primary": "PHYTOLACCA DECANDRA",
+    "latin": "PHYTOLACCA DECANDRA",
+    "common": [
+      "Poke-root (PHYTOLACCA)",
+      "Poke Root"
+    ],
+    "synonyms": [
+      "Phytolacca decandra (LINN.)",
+      "Phytolacca decandra"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Loss of personal delicacy, disregard of surrounding objects. Indifferent to life",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo on rising. Brain feels sore. Pain from frontal region backward. Pressure in temples and over eyes. Rheumatism of scalp; pains come on every time it rains. Scaly eruption on scalp",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Smarting. Feeling of sand under lids. Tarsal edges feel hot. Fistula lachrymalis (Fluor ac). Abundant lachrymation, hot",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Coryza; flow of mucus from one nostril and from posterior nares",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Teething children with irresistible desire to bite the teeth together. Teeth clenched; lower lip drawn down; lips everted; jaws firmly set; chin drawn down on sternum. Tongue red tip, feels rough and scalded; bleeding from mouth; blisters on side. Mapped, indented, fissured, with yellow patch down center. Much stringy saliva",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Dark red or bluish red. Much pain at root of tongue; soft palate and tonsils swollen. Sensation of a lump in throat (Bell; Lach). Throat feels rough, narrow, hot. Tonsils swollen, especially right; dark-red appearance. Shooting pain into ears on swallowing. Pseudo-membranous exudation, grayish white; thick, tenacious yellowish mucus, difficult to dislodge. Cannot swallow anything hot (Lach). Tension and pressure in parotid gland. Ulcerated sore throat and diphtheria; throat feels very hot; pain at root of tongue extending to ear. Uvula large, dropsical. Quinsy; tonsils and fauces swollen, with burning pain; cannot swallow even water. Mumps. Follicular pharyngitis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Sore spot in right hypochondrium. Rheumatism of abdominal muscles. Colic at navel. Burning griping pains. Bruised feeling through epigastrium and abdomen. Constipation of the aged and those with weak heart. Bleeding from rectum",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Scanty, suppressed, with pain in kidney region. Nephritis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Mastitis; mammæ hard and very sensitive. Tumors of the breasts with enlarged axillary glands. Cancer of breast. Breast is hard, painful and of purple hue. Mammary abscess. When child nurses, pain goes from nipple all over body. Cracks and small ulcers about nipples. Irritable breasts, before and during menses. Galactorrhœa (Calc). Menses too copious and frequent. Ovarian neuralgia of right side",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Painful induration of testicles. Shooting along perineum to penis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Feeling as if heart leaped into throat (Pod). Shock of pain in cardiac region alternating with pain in right arm",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Aphonia. Difficult breathing; dry hacking, tickling cough; worse at night (Mentha; Bellad). Aching pains in chest, through mid-sternum; with cough. Rheumatism of lower intercostals",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Aching pains in lumbar region; pains streaking up and down spine into sacrum. Weakness and dull pain in region of kidneys. Back stiff, especially in morning on rising and during damp weather",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Shooting pain in right shoulder, with stiffness and inability to raise arm (see Heart). Rheumatism pains; worse in morning. Pains fly like electric shocks, shooting, lancinating, shifting rapidly (Puls; Kali bich). Pain in under side of thighs. Syphilitic sciatica. Aching of heels; relieved by elevating feet. Pains like shocks. Pain in legs, patient dreads to get up. Feet puffed; pain in ankles and feet. Neuralgia in toes",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "High fever, alternating with chilliness and great prostration",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itches, becomes dry, shrunken, pale. Papular and pustular lesions. Most useful in early stages of cutaneous diseases. Disposition to boils, and when sloughing occurs. Squamous eruptions. Syphilitic eruptions. Swelling and induration of glands. Venereal buboes. Scarlatina-like rash. Warts and moles",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "warmth, dry weather, rest",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "sensitive to electric changes. Effects of a wetting, when it rains, exposure to damp, cold weather, night exposure, motion, right side",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "antidoted_by": [
+        "Milk and salt",
+        "Bellad",
+        "Mezer"
+      ]
+    },
+    "dosing": {
+      "notes": "Tincture, to third potency. Externally for mastitis"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">PHYTOLACCA DECANDRA Poke-root (PHYTOLACCA) Aching, soreness, restlessness, prostration, are general symptoms guiding to Phytolacca. Pre-eminently a glandular remedy. Glandular swellings with heat and inflammation. Has a powerful effect on fibrous and osseous tissues; fasciæ and muscle sheaths; acts on scar tissue. Syphilitic bone pains; chronic rheumatism. Sore throat, quinsy, and diphtheria. Tetanus and opisthotonos. Decrease of weight. Retarded dentition.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "This is regarded as one of the most important of indigenous American plants, and one of the most striking in appearance. The perennial root is large and fleshy, the stem hollow, the leaves alternate and ovate-lanceolate, and the flowers have a white calyx with no corolla. The fruit is a deep purple berry, covering the stem in clusters and resembling blackberries. The young shoots make a good substitute for asparagus, and poultry eat the berries, though large quantities give the flesh an unpleasant flavour, also causing it to become purgative, when eaten. In Portugal the use of the juice of the berries to colour port wines was discontinued because it spoilt the taste. The stain of the juice is a beautiful purple, and would make a useful dye if a way of fixing it were found. A decoction of the roots has been used for drenching cattle. As found in commerce the roots are usually sliced either longitudinally or transversely, are grey in colour, hard and wrinkled. The fracture is fibrous. It is inodorous, and the taste is acrid and slightly sweet. It is often used to adulterate belladonna, but may be recognized by the concentric rings of wood bundles in the transverse section. The leaves are used for the same purpose, requiring microscopical identification.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Phytolacca decandra. Mind and Disposition. Great indifference. Head. Vertigo and dimness of vision. One-sided headache above the eyes with sickness of the stomach. Shooting pain from the left eye to the vertex. Eyes. [5] Burning and smarting sensation in the eyes and lids, with profuse lachrymation, which is relieved in the open air. Purple-colored swelling of the eyelids (left eye in the morning). Ears. Shooting pains in the (right) ear. Face. Pale face. Heat in the face (left side) after dinner ; with redness of the face, coldness of the feet, eruption in the upper lip (left side). Mouth and Throat. [10] The mouth fills with water, the saliva is yellowish and has a metallic taste. The tongue feels rough, with blisters on both sides, with a very red tip ; great pain at the root of the tongue on swallowing. The teeth feel elongated and are very sore. Sensation of dryness in the throat and the posterior fauces. Sensation of a lump in the throat, causing a continuous desire to swallow. [15] Roughness and rawness in the throat. Stomach and Abdomen. Nausea followed by violent vomiting of mucus, bile, of the ingesta, worms, blood. Soreness and pain in the right hypochondrium (during pregnancy). Stool and Anus. Constipation, hard stools. Stool with mucus and straining. Urinary Organs. [20] Violent urging to pass urine. Copious nocturnal urination. Sediment like chalk ; the dark-red urine leaves a stain in the chamber of a mahogany color. Albuminous urine. Sexual Organs. Women . Menstruation too profuse and too frequent. [25] Inflammation, swelling and suppuration of the mammæ. Generalities. Pains are pressing, shooting and sore. Syphilitic and mercurial rheumatism ; nightly pains in the tibia, with nodes and irritable ulcers on the lower leg. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      },
+      {
+        "text": "Tonsils red, swollen, with white spots, which sometimes coalesce and form patches; pains run up into the ears, and aching, bruised, sore feeling in head, back and limbs; < on motion, but must move; he aches and is so sore.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Irresistible inclination to bite the teeth or gums together. (Dentition).",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Breasts very hard, swollen, hot and painful; pain radiates all over the back when the child nurses.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Phytolacca decandra is one of our most valuable remedies for sore throat, and the indications are plain. The throat becomes generally inflamed; the tonsils swell and become very red at the first, and then white spots appear which (unless checked) soon spread and coalesce and form patches of a diphtheritic appearance. There are sharks pains often running up into one or both ears. These are the local throat symptoms, and the constitutional symptoms are:",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Intense head and backache, and a sore, aching, bruised feeling all over the body, causing the patient to groan, and while, like Rhus toxicodendron, he feels as if he must move, the act of moving greatly aggravates all his pains and soreness. The patient is also greatly prostrated, and sitting upright makes him faint and dizzy like Bryonia. There is high fever, for the pulse is very quick; but the heat, like that of Arnica, is mostly in the head and face while the body and limbs are cool.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Now these symptoms present, it makes no difference whether the case is called tonsilitis, diphtheria or scarlatina. Abundant experience in my own person and observation with my patients has proven Phytolacca to be a remedy of inestimable value. Nor is it necessary to give it in twenty drop doses of the mother tincture, and gargle in addition, as some advise, but it will in the potentized dose do much better, the same as other homœopathic remedies. I have done some good work with this remedy in follicular pharyngitis, especially when in public speakers the voice gave out from over-work and there was much burning in the throat, as of a hot substance there. In this kind of sore throat I have the best success with the remedy very high.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Now let me call attention to a symptom of this remedy that has been of great value to me: \"Irresistible inclination to bite the teeth or gums together.\" On this indication I have often relieved the complaints of various kinds incident to the period of dentition. I once had a case that was sent up to the country from New York City. The child had been sick a long time, with cholera infantum (entero-colitis), and its physicians said it must leave the city or die. But country air and change of diet brought no relief. The little fellow was greatly emaciated, having frequent loose stools of dark brown color, mixed with slime or mucus of the same color. After trying various remedies I discovered that the child wanted to bite its gums together, or to bite on everything that it could get into its mouth, and the mother then told me that this had been the case all through its sickness. Phytolacca produced immediate relief of the symptoms and rapid recovery followed.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "I have since verified this symptom several times. Phytolacca is also one of our best remedies for mastitis. The breasts are very hard, greatly swollen, hot and painful. When the child nurses the pain radiates all over the body. There is fever, great pain in the head and back, and if it is a bad case, unless checked, is very liable to go on to suppuration. Every time the child nurses the pains spread all over the body.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "The choice often lies between this remedy and Bryonia, and they complement each other. Almost every case of swollen breasts with the milk fever, when the breasts fill for the first time after confinement, may be speedily relieved with one or the other of these two remedies. If the case should have gone on to suppuration, with large fistulous, gaping and angry ulcers discharging a watery or fœtid pus, Phytolacca is still the remedy; and will often do more good than Hepar sulphur. and Silicea. But the choice sometimes has to be made between other remedies such as:",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Croton tiglium. The pain runs through to the back when child nurses. (Silicea, Pulsatilla).",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Phellandrium. Pain runs along the milk ducts between the acts of nursing.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Lac caninum. The breasts are greatly filled and so sore that their own weight hurts the patient, who wants to hold them up and shrinks from the least jar. Of course Aconite, Apis and Belladonna must not be forgotten, and have as positive indications for their use as any of the above remedies. (See also Castor equorum.)",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "I have removed a great many suspicious lumps or tumors in the breasts, some of them of years' standing, by giving a dose of Phytolacca c. m., once a month, during the wane of the moon. What has the moon to do with it? I do not know. I cure goître the same way (but not with Phytolacca), and was led to that way of administration by a suggestion of Jahr. That some diseases have their aggravations in certain times of the moon I know, and that certain remedies act better then, I know just as well. Do not forget that the bruised, sore feeling of Phytolacca that we noticed at length when writing of Arnica is sometimes markedly present in sciatica, for which it is one of our successful remedies. The characteristic symptom for Phytolacca in this painful affection is, that the pain runs down the outer side of the limb. Sciatica is one of the complaints in which Homœopathy has scored some of its most brilliant victories over the anodyne treatment of the old school. Periosteal rheumatism, where the pains are especially worse in wet weather, sometimes finds a remedy in Phytolacca. This drug seems to resemble in its action on the periosteum, glands, bones and skin Kali hydroiodicum, and the two remedies complement each other, of course, with indications, or the choice may sometimes lie between them. H. C. Allen says: Phytolacca occupies a place midway between Bryonia and Rhus tox., and will often help when these seem indicated but fail. It is curious to note that almost every chemical remedy has a closely resembling relative from the vegetable kingdom. Kali hydroiodicum and Phytolacca, Aloes and Sulphur, Cepa and Phosphorus, Chamomilla and Magnesia carb., China and Ferrum, Belladonna and Calcarea ost., Ipecac and Cuprum, Bryonia and Alumina, Mezereum and Mercury, Pulsatilla and Kali sulphuricum. This has been before mentioned by Hering.",
+        "source_id": "nash-leaders-1899"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Indigenous to North America. Common in Mediterranean countries.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Phytolaccic acid has been obtained from the berries, and tannin. In theroot a non-reducing sugar, formic acid, and a small percentage of bitter resin have been found. The alkaloid Phytolaccin may be present in small quantities, but it has not been proved. A resinoid substance is called phytolaccin. The virtues are extracted by alcohol, diluted alcohol, and water. The powder is said to be sternutatory. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "A slow emetic and purgative with narcotic properties. As an alterative it is used in chronic rheumatism and granular conjunctivitis. As an ointment, in the proportion of a drachm to the ounce, it is used in psora, tinea capitis, favus and sycosis, and other skin diseases, causing at first smarting and heat. The slowness of action and the narcotic effects that accompany it render its use as an emetic inadvisable. It is used as a cathartic in paralysis of the bowels. Headaches of many sources are benefited by it, and both lotion and tincture are used in leucorrhoea. As a poultice it causes rapid suppuration in felons. The extract is said to have been used in chronic rheumatism and haemorrhoids. Authorities differ as to its value in cancer. Great relief towards the close of a difficult case of cancer of the uterus was obtained by an external application of 3 OZ. of Poke Root and 1 OZ. of Tincture used in the strength of 1 tablespoonful to 3 pints of tepid water for bathing the part. It is also stated to be of undoubted value as an internal remedy in cancer of the breast. The following prescription has been recommended: Fluid extracts of Phytolacca (2 OZ.), Gentian 1 OZ.) and Dandelion 1 OZ.), with Simple Syrup to make a pint. One teaspoonful may be taken after each meal. Infused in spirits, the fruit is used in chronic rheumatism, being regarded as equal to Guaicum. It is doubtful if the root will cure syphilis without the help of mercury.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Phytolacca drastica of Chile is a violent purgative. [ Top ] Purchase from Richters Pokeroot (Phytolacca americana, aka Pokeweed) Seeds, Plants, and Bulk Dried Root",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {
+    "documented_adverse_effects": [
+      {
+        "text": "In the lower animals convulsions and death from paralysis of respiration may be caused. Overdoses may produce considerable vomiting and purging, prostration, convulsions and death.",
+        "source": "Grieve"
+      }
+    ]
+  },
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "grieve-modern-herbal-1931",
+      "lippe-textbook-mm-1866",
+      "nash-leaders-1899"
+    ]
+  }
+}

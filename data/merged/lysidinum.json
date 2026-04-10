@@ -1,0 +1,35 @@
+{
+  "id": "lysidinum",
+  "names": {
+    "primary": "Lysidinum",
+    "latin": "Lysidinum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Lysidin. occurs in red-white crystals. The solution is a thick pinkish liquid. Clifford Mitchel (H. W., xxxiii. 277) has given the 50 per cent. solution in ten-drop doses well diluted in aerated water, thrice daily, in two cases of oxaluria, one recent in a young man, one in an old man and of long standing. In the second case the distressing lumbar pain was removed by a few doses though it had persisted for a number of days.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Gout; Lithiasis; Oxaluria; Uric acid diathesis",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Nitro-mur. ac., Oxal. ac., Sars., Urotrop. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

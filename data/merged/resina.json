@@ -1,0 +1,40 @@
+{
+  "id": "resina",
+  "names": {
+    "primary": "Resina",
+    "latin": "Resina",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Rosin, Colophony.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The residue left after distilling the volatile oil from the concrete oleoresin derived from Pinus palustris, Miller, and other species of Pinus (Nat. Ord. Pinaceae). United States and Europe.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Description.—Amber-colored, brittle, sharp, angular, translucent fragments, usually covered with a yellow dust, and having a slight terebinthinate taste and odor. Freely soluble in alcohol, ether, benzene, glacial acetic acid and oils, both fixed and volatile; also by the dilute solutions of the hydroxides of the alkalies.Preparations.—1. Ceratum Resinae, Rosin Cerate (Basilicon Ointment). (Rosin, Yellow Wax, and Lard.)2. Emplastrum Resinae, Rosin Plaster (Rosin Adhesive Plaster). (Rosin, Lead Plaster, and Yellow Wax.)3. Emplastrum Elasticum, (Rubber Plaster, Rubber Adhesive Plaster). Rubber, resins, and waxes with a farinaceous absorbent filler, mixed and spread upon cloth or other fabric.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Therapy.—External. Rosin is used chiefly in ointment or plaster, and seldom internally. Rosin cerate is a useful application in sluggish ulcers, promoting granulation and healing.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "felter-eclectic-1922"
+    ]
+  }
+}

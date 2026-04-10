@@ -1,0 +1,57 @@
+{
+  "id": "solanum-pseudo",
+  "names": {
+    "primary": "Solanum Pseudo-Capsicum",
+    "latin": "Solanum Pseudo-Capsicum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "SOLANUM PSEUDO-CAPSICUM.",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "The few symptoms of this medicine were observed on a child who ate three or four of the berries.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T SOLANUM PSEUDO-CAPSICUM. Solanum pseudo-capsicum, Linn. Natural order , Solanaceæ. Common names , Jerusalem cherry; (Fr.), Cerisette. Preparation , Trituration of the fruit. Authority. Dr. Montane, Journ. de Méd. de Bordeaux (Journ. de Chim. Méd. 1862, vol. viii, p. 34), effects on a child, of eating the fruit, three or four berries. EYE. ► Dilatation of the pupils. STOMACH. ► Nausea. ABDOMEN. ► Very acute pains in the lower part of the abdomen. SLEEP. ► Somnolence. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Pupils, dilated; Somnolence",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Dilatation of the pupils.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea. Very acute pains in lower abdomen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Somnolence. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

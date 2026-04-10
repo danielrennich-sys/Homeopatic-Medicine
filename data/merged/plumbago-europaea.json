@@ -1,0 +1,50 @@
+{
+  "id": "plumbago-europaea",
+  "names": {
+    "primary": "Plumbago Europaea (LINN.)",
+    "latin": "Plumbago Europaea (LINN.)",
+    "common": [
+      "Plumbago"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "China, Southern Europe, and cultivated in England in hot-houses.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "A half-hardy herbaceous climbing, half-shrubby plant, with large trusses of pale-blue flowers, which are in bloom continuously through the summer. This variety is also known under the name of Plumbago Capensis , and is greatly used in German gardening.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Plumbagin, a crystallizable acrid principle obtained from the root.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "It is acrid, and when chewed creates a free flow of saliva, particularly if root is used; said to be of benefit to relieve toothache, and has long been used in France for that purpose, hence its name, dentalaire; also useful for itch - a decoction of the root in olive oil is much used.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "P. Zeylanica is said to be a strong diaphoretic.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

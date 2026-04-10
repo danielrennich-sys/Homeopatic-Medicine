@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Settings - Homeopathy Database</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #0f1419; color: #e7e9ea; min-height: 100vh;
+}
+.header {
+    background: linear-gradient(135deg, #1a3a2a 0%, #0f1f2f 100%);
+    border-bottom: 1px solid #2f3336; padding: 16px 20px;
+    display: flex; justify-content: space-between; align-items: center;
+}
+.header h1 { font-size: 1.2rem; color: #7ec8a0; }
+.header a { color: #6bb3d9; text-decoration: none; font-size: 0.85rem; }
+.container { max-width: 640px; margin: 0 auto; padding: 24px 16px; }
+.card {
+    background: #16202a; border: 1px solid #2f3336; border-radius: 12px;
+    padding: 20px; margin-bottom: 16px;
+}
+.card h2 { color: #7ec8a0; font-size: 1.1rem; margin-bottom: 12px; }
+.card p { color: #8b8f94; font-size: 0.85rem; line-height: 1.5; margin-bottom: 12px; }
+.field { margin-bottom: 14px; }
+.field label { display: block; color: #b0b3b8; font-size: 0.85rem; margin-bottom: 4px; }
+.field input {
+    width: 100%; padding: 10px 12px;
+    background: #0f1419; color: #e7e9ea;
+    border: 1px solid #2f3336; border-radius: 8px;
+    font-size: 0.9rem; font-family: monospace; outline: none;
+}
+.field input:focus { border-color: #7ec8a0; }
+.btn {
+    padding: 10px 20px; border-radius: 8px; font-size: 0.9rem;
+    cursor: pointer; border: none; font-weight: 500; margin-right: 8px;
+}
+.btn-save { background: #7ec8a0; color: #0f1419; }
+.btn-clear { background: #3a2020; color: #e07070; }
+.btn:hover { opacity: 0.85; }
+.status {
+    display: inline-block; padding: 4px 10px; border-radius: 6px;
+    font-size: 0.82rem; margin-bottom: 12px;
+}
+.status-ok { background: #1d3a2d; color: #7ec8a0; }
+.status-missing { background: #3a2d1d; color: #d9a86b; }
+.info-box {
+    background: #1a2a34; border: 1px solid #2f3336; border-radius: 8px;
+    padding: 12px; margin-top: 12px; font-size: 0.82rem; color: #8b8f94; line-height: 1.6;
+}
+.info-box a { color: #6bb3d9; }
+.info-box code { background: #0f1419; padding: 1px 5px; border-radius: 3px; color: #7ec8a0; }
+</style>
+</head>
+<body>
+<div class="header">
+    <h1>Settings</h1>
+    <div>
+        <a href="index.html">Search</a> &nbsp;|&nbsp;
+        <a href="intake.html">Intake Form</a>
+    </div>
+</div>
+
+<div class="container">
+    <div class="card">
+        <h2>AI Repertorization Agent</h2>
+        <p>
+            The AI agent uses Claude (by Anthropic) to intelligently analyze your
+            intake form responses. It understands homeopathic context — for example,
+            it knows "worse from running" is a modality, not "running nose."
+        </p>
+        <div id="statusBadge"></div>
+
+        <div class="field">
+            <label>Anthropic API Key</label>
+            <input type="password" id="apiKeyInput" placeholder="sk-ant-...">
+        </div>
+
+        <button class="btn btn-save" onclick="saveKey()">Save Key</button>
+        <button class="btn btn-clear" onclick="clearKey()">Remove Key</button>
+
+        <div class="info-box">
+            <strong>How to get an API key:</strong><br>
+            1. Go to <a href="https://console.anthropic.com" target="_blank">console.anthropic.com</a><br>
+            2. Create an account or sign in<br>
+            3. Go to <strong>API Keys</strong> in the sidebar<br>
+            4. Click <strong>Create Key</strong> and copy it<br><br>
+            <strong>Cost:</strong> Each intake analysis costs ~$0.003 (one third of a penny).
+            Anthropic gives $5 free credits on signup (~1,500 searches).<br><br>
+            <strong>Privacy:</strong> Your API key is stored only in your browser's
+            local storage. It is sent directly to Anthropic's API — never to any
+            other server. The intake form data is sent to Claude for analysis and
+            is not stored by Anthropic per their API data policy.
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>Without an API Key</h2>
+        <p>
+            The database search and intake form work without an API key using
+            keyword-based matching. The AI agent adds contextual understanding
+            but is not required. You can always use the full database search at
+            <a href="index.html" style="color:#6bb3d9">the search page</a>.
+        </p>
+    </div>
+</div>
+
+<script>
+function updateStatus() {
+    const key = localStorage.getItem('homeopathy_api_key') || '';
+    const badge = document.getElementById('statusBadge');
+    const input = document.getElementById('apiKeyInput');
+
+    if (key && key.startsWith('sk-ant-')) {
+        badge.innerHTML = '<span class="status status-ok">API Key configured</span>';
+        input.value = key.substring(0, 12) + '...' + key.substring(key.length - 4);
+        input.placeholder = 'Key saved — enter a new one to replace';
+    } else {
+        badge.innerHTML = '<span class="status status-missing">No API key — AI agent disabled, keyword matching active</span>';
+        input.value = '';
+    }
+}
+
+function saveKey() {
+    const input = document.getElementById('apiKeyInput');
+    const val = input.value.trim();
+    if (!val.startsWith('sk-ant-')) {
+        alert('Invalid key format. Anthropic API keys start with "sk-ant-"');
+        return;
+    }
+    localStorage.setItem('homeopathy_api_key', val);
+    updateStatus();
+}
+
+function clearKey() {
+    localStorage.removeItem('homeopathy_api_key');
+    updateStatus();
+}
+
+updateStatus();
+</script>
+</body>
+</html>

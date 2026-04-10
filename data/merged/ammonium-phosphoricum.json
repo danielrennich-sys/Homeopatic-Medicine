@@ -1,0 +1,69 @@
+{
+  "id": "ammonium-phosphoricum",
+  "names": {
+    "primary": "Ammonium Phosphoricum",
+    "latin": "Ammonium Phosphoricum",
+    "common": [
+      "Phosphate of Ammonia"
+    ],
+    "synonyms": [
+      "AMMONIUM PHOSPHORICUM"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "AMMONIUM PHOSPHORICUM.",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "color=\"#800000\">AMMONIUM PHOSPHORICUM Phosphate of Ammonia A remedy for chronic gouty patients uric acid diathesis, indicated in bronchitis and nodosities of the joints of the fingers and backs of the hands. Facial paralysis. Pain in shoulder-joint. Tightness around chest. Heaviness of limbs, unsteady, tottering gait. Coldness from least draft of air.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "This salt has been used in cases of chronic gout with nodes of urate of soda on the joints. C. Voigt took three grains of Am. Phos., with this result: In about an hour, attacked by a sense of tightness in the precordia and around the chest; nausea; thirst; a hard, small, frequent pulse; and a collapsed state of the circulation. Afterwards, fulness and tension in head; heaviness in limbs; unsteady, tottering gait. Allen says it has been used with success in some cases of facial paralysis. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T AMMONIUM PHOSPHORICUM. Authority. C. Voigt, M.D., Med. Examiner (Bost. Med. and Surg. Journ., vol. xxxiv, p. 308), effects of about 3 grains. ► In about an hour attacked by a sense of tightness in the præcordia and around the chest; nausea; thirst; a hard, small, frequent pulse; and a collapsed state of the circulation. These disturbances were followed by a fulness and tension in the head; heaviness in the limbs; and an unsteady tottering gait. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Facial paralysis; Gout; Joints, concretions on",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Sneezing with excessive running from nose and eyes, only in morning",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Deep rough cough with greenish expectoration",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Rose-colored sediment",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Third decimal trituration"
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

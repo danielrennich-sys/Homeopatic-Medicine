@@ -1,0 +1,56 @@
+{
+  "id": "coffea-arabica",
+  "names": {
+    "primary": "Coffea arabica (LINN.)",
+    "latin": "Coffea arabica (LINN.)",
+    "common": [
+      "Coffee"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Seeds, leaves, caffeine.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "South-west point of Abyssinia. and cultivated throughout the tropics.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The name Coffee is derived from Caffa, a province of Abyssinia. In its wild state the tree grows to a height of 30 feet, but in cultivation it is kept shorter to expedite picking; it has evergreen leaves, smooth and shiny on the upper side, dark green under and paler, 6 inches long, 2 1/2 inches wide; flowers in dense clusters at base of leaves, white and very decorative, but only lasting in bloom two days; berries red and fleshy like small cherries, each berry two-seeded, convex on one side, flat on the other with a long furrowed line running lengthways and covered with a thin parchment which has to be winnowed or milled before roasting, after the outer pulp has been removed by a machine. The roasting develops the volatile oil and peculiar acid to which the aromas and flavours are due. The Coffee shrub was introduced into Arabia early in the fifteenth century from Abyssinia, and for two centuries Arabia supplied the world's Coffee; at the end of the seventeenth century the Dutch introduced the plant into Batavia, and from there a plant was presented to Louis XIV in 1714. All the Coffee now imported from Brazil has been imported from that single plant. The European use of Coffee dates from the sixteenth century when it was introduced into Constantinople, and a century later in 1652 the first Coffee shop was opened in London. In 1858 the quantity imported into the United Kingdom was over sixty million pounds. In Turkey the consumption is enormous, and so necessary is it considered that the refusal to supply a reasonable amount to a Turk's wife is considered a legal cause for divorce.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Oil, wax, caffeine, aromatic oil, tannic acid, caffetannic acid, gum, sugar, protein.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "An active brain stimulant, which produces sleeplessness, hence its great value in narcotic poisoning; in acute cases is injected into the rectum. Very valuable in cases of snake-bite, helping to ward off the terrible coma. It also exerts a soothing action on the vascular system, preventing a too rapid wasting of the tissues of the body; these effects are not only due to the volatile oil but to the caffeine it contains. The Malays infuse the leaves, which contain even more caffeine than the berries. Caffeine is valuable for heart disease, ascites and pleuritic effusion and combines well with digitalis; also valuable in cases of inebrity; is a powerful diuretic, but loses its effect with use.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Preparation Caffeine, 1 to 5 grains. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "id": "onosmodium-virginianum",
+  "names": {
+    "primary": "ONOSMODIUM VIRGINIANUM",
+    "latin": "ONOSMODIUM VIRGINIANUM",
+    "common": [
+      "False Gromwell (ONOSMODIUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Loss of memory. Nose feels dry. Confused. Dull, heavy, dizzy, pressing upward in occiput. Occipito-frontal pain in morning on waking, chiefly left side. Pain in temples and mastoid (Capsic)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Vision blurred; optic disc hyperæmic, and retinal vessels enlarged. Strained feeling in eyes; worse, using eyes. Eyes heavy and dull, muscular asthenopia; ocular muscles tense. Internal eye muscles paretic. Pain in eyeballs between orbit and ball, extending to left temple",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Severe dryness. Discharge from posterior nares. Raw, scraping. Stuffed feeling in posterior nares. Symptoms worse by cold drinks",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Craving for ice-water and cold drinks; wants to drink often",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pain in dorsal and lumbar regions. Numbness and tingling in feet and legs",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Sore, aching in breasts; feels swollen and sore. Pain in heart; pulse, rapid, irregular, weak",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Constant sexual excitement. Psychical impotence. Loss of desire. Speedy emissions. Deficient erections",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Severe uterine pains; bearing-down pains; old pains return. Sexual desire completely destroyed. Feels as if menses would appear. Aching in breasts. Nipples itch. Menses too early and too prolonged. Soreness in uterine region. Leucorrhœa, yellow, acrid, profuse",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Pain in back. Tired and numb feeling in legs, popliteal spaces, and below knees. Staggering gait. Sidewalk seems too high. Pain in left scapular region. Great muscular weakness and weariness",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "when undressed, when lying down on back, from cold drinks, and eating",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "from motion, jar, and tight clothing",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Thirtieth attenuation"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ONOSMODIUM VIRGINIANUM False Gromwell (ONOSMODIUM) Want of power of concentration and co-ordination. Vertigo, numbness and muscular prostration. Marked association of head and eye symptoms, with muscular tiredness and weariness. A remedy for migraine. Headaches from eyestrain and sexual weakness. It produces diminution of sexual desire in both sexes; hence its homeopathicity, in sexual neurasthenia. Depressed or lost sexual life in women. Neuralgic pains. General prostration. Acts as if born tired.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

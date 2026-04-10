@@ -1,0 +1,180 @@
+{
+  "id": "trillium-pendulum",
+  "names": {
+    "primary": "Trillium Pendulum. Wake Robin (Smilaceae)",
+    "latin": "Trillium Pendulum. Wake Robin (Smilaceae)",
+    "common": [
+      "White Beth-root",
+      "Bethroot"
+    ],
+    "synonyms": [
+      "TRILLIUM PENDULUM",
+      "Trillium pendulum (WILLD.) Trillium erectum (LINN.)",
+      "Trillium Pendulum"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Haemorrhage: copious, both active and passive, usually bright red; from nose, lungs, kidneys and uterus (Ipec., Mill.). Tendency to puterescence of fluids. Epistaxis; profuse, passive, bright red. Bleeding from cavity after extraction of a tooth (Ham., Kreos.). Menses: profuse, every two weeks, lasting a week or longer (Calc. p.); after over-exertion or too long a ride. Flooding, with fainting. Menorrhagia: flow, profuse, gushing, bright red; at least movement (Sab.); from displaced uterus; at the climacteric; every two weeks, dark, clotted (Thlas., Ust.). Haemoptysis: incipient phthisis, with bloody sputa; in advanced stages with copious, purulent expectoration and troublesome cough. Sensation as if hips and small of back were falling to pieces; as if sacro-iliac synhrondroses were falling apart, wants to be bound tightly; as if bones of pelvis were broken (Aesc.); with haemorrhage. Profuse uterine haemorrhage t climacteric; flow every two weeks; pale, faint, dim sight, palpitation, obstruction and noises in ears (Fer.); painful sinking at pit of stomach.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Complementary: to Cal. p., in menstrual and haemorrhagic affections. Compare: Cinch., Bell., Kali c., Mill., Lach., Sep., Sulph., Thlas., Ust.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "color=\"#800000\">TRILLIUM PENDULUM White Beth-root A general hæmorrhagic medicine, with great faintness and dizziness. Chronic diarrhœa of bloody mucus. Uterine hæmorrhage. Threatened abortion. Relaxation of pelvic region. Cramp-like pains. Phthisis with purulent and copious expectoration and spitting of blood.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "All the seventeen species of the genus are North American plants, distinguished by their possession of three green, persistent sepals and three larger withering petals, of varying colour. Trillium erectum or T. pendulum , perennial, smooth herb, has an erect stem of from 10 to 15 inches in height, bearing three leaves, broad, almost rhomboid, and drooping white flowers, terminal and solitary. Grows in the rich soil of damp and shady woodlands, flowering in May and June. The official description of the rhizome is 'oblique, globular, oblong or obconical, truncate below., terminated by a small bud surrounded by a sheath of scarious leaf bases annulated by leaf scars and fissured by stem scars. It is from 0.6 to 5 cm. in length, and from 0.6 to 3.5 cm. in width, more or less compressed laterally, rootlet scars in several concentrie rows on the underside in the upper portions. Externally yellowish to reddish brown; internally of a pale yellow; fracture somewhat uneven with a more or less spongy appearance. Odour distinct; taste bitter and acrid, with a sensation of warmth in the throat, and when chewed causing an increased flow of saliva. Trillium yields not more than 5 per cent. of ash.' The drug is one of those prepared by the Shakers.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "head": [
+      {
+        "text": "Pain in forehead; worse, noise. Confused; eyeballs feel too large. Vision blurred; everything looks bluish. Nose-bleed (Millef; Melilot)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Hæmorrhage from gums. Bleeding after tooth extraction",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Bleeding from cavity after extraction of tooth. Hemorrhage from gums and mouth. Cancrum oris. Putrid sore throat.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Heat and burning stomach rising up in œsophagus. Hæmatemesis",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Sinking in stomach. θ Hemorrhage. Heat and burning in stomach ; rising up in œsophagus. Hematemesis, with erosion of mucous coat of stomach. Constipation ; hard, dry stool.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Chronic diarrhœa; discharge bloody. Dysentery,; passage almost pure blood",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Dysentery, passages almost pure blood. Chronic diarrhœa of bloody mucus.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Uterine hæmorrhages, with sensation as though hips and back were falling to pieces; better tight bandages. Gushing of bright blood on least movement. Hæmorrhage from fibroids (Calc; Nitr ac; Phos; Sulph ac). Prolapse, with great bearing-down. Leucorrhœa copious, yellow, stringy (Hydras; Kali b; Sabin). Metrorrhagia at climacteric. Lochia suddenly becomes sanguinous. Dribbling of urine after labor",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Displaced uterus with consequent menorrhagia ; profuse flow. Gushing of bright-red blood from uterus, at least movement, later blood pale from anemia ; at times dark clots ; frequent desire to urinate. Great bearing-down feeling in pelvis when walking and standing ; backache ; sore pains in vaginal and uterine regions ; copious discharge of yellowish, stringy leucorrhœa ; constipation ; menstruation inclined to menorrhagia ; monthly flow lingers several days longer than usual. Sallow face with white lips and tongue ; tossing in bed from evening until after midnight, with a feeling as if hips and small of back were falling in pieces and a desire to bind them up tightly. θ Metrorrhagia. Excessive flooding with fainting ; face pale and anxious ; extremities cold ; no pain ; flabby subjects. Passive internal uterine hemorrhages, with occasional clots and much fetor. Flooding with fainting. Profuse uterine hemorrhage, at climacteric period, with prostration, vertigo, dimness of sight, palpitation and painful sinking at pit of stomach. Hemorrhage in abortion at third month. Ante-partum hemorrhage ; os uteri dilated to size of half dollar ; no pains ; flooding excessive. Menses come on after overexertion, too long a ride, etc., profuse flow. Profuse flow every two weeks, lasting a week or longer ; yellow and thick leucorrhœa between periods. Leucorrhœa : bloody, with great prostration ; yellow, creamy, profuse, between menses. Climaxis with weak sight, anxious look ; pale ; faint ; flow returns every two weeks. PREGNANCY. PARTURITION. LACTATION. [24] [Tril.]. Threatened abortion ; profuse hemorrhage. Lochia too profuse ; lasts too long. Post-partum hemorrhage.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Cough, with spitting of blood. Copious, purulent expectoration. Hæmoptysis. Aching at end of sternum. Suffocative attack of irregular breathing with sneezing. Shooting pains through chest",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Cough troublesome, copious purulent sputa ; hectic ; hæmoptysis. Catarrhal cough ; chronic bronchitis or laryngitis.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture and lower potencies"
+    },
+    "generalities": [
+      {
+        "text": "The dried root and rhizome. The leaves.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Most of the genus Trillium have medicinal properties, especially T. erythrocarpum, T. grandiflorum, T. sessile , and T. nivale . The acrid species are useful in fevers and chronic affections of the air-passages. Merely smelling the freshly-exposed surface of the red Beth roots will check bleeding from the nose.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Every two weeks : profuse menses. Third month : hemorrhage in abortion. Between menstrual periods : leucorrhœa. Climacteric period : uterine hemorrhage ; weak sight ; pale ; faint ; flow every two weeks. As if hips and small of back were falling to pieces ; as if sacro-iliac synchondroses were falling apart ; as if bones were broken. Pain : through chest ; in back. Burning : in stomach, rising into œsophagus. Sore pain : in vaginal and uterine region. Bearing down : in pelvis. Sinking : in stomach, with hemorrhage. Heat : in stomach, rising into œsophagus. Copious hemorrhages, especially of nose, kidneys and uterus ; active and passive, usually bright-red, profuse. Tendency to putrescence of fluids ; fetor of critical discharges. Mrs. ---, æt. 45, nervosanguine temperament, suffering a year and a half ; menorrhagia. Miss A. J., æt. 21, bilious temperament ; prolapsus uteri.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Middle and Western United States.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "There have been found in it volatile and fixed oils, tannic acid, saponin, a glucoside resembling convallamarin, an acid crystalline principle coloured brown tinged with purple by sulphuric acid, and light green with sulphuric acid and potassium dichromate, gum, resin, and much starch. The fluid extract is an ingredient in Compound Elixir of Viburnum Opulus . Professor E. S. Wayne isolated the active principle, calling it Trilline, but the preparation sold under that name has no medicinal value, while the Trilline of Professor Wayne has not been used.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Is said to have been in use among the aborigines and early settlers of North America. It is antiseptic, astringent and tonic expectorant, being used principally in haemorrhages, to promote parturition, and externally, usually in the form of a poultice, as a local irritant in skin diseases, or to restrain gangrene. The leaves , boiled in lard, are sometimes applied to ulcers and tumours. The roots may be boiled in milk, when they are helpful in diarrhoea and dysentery.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Profuse epistaxis, passive.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Hæmaturia, passive. Chronic catarrh of bladder. Diabetes.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Incipient stage of phthisis with bloody sputa, or in advanced stages with copious purulent expectoration, hectic fever and troublesome cough. Pains through chest.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "Pain in back, with uterine hemorrhages. Sacro-iliac synchondroses feel as if falling apart, wants to be bound tightly. θ Hemorrhage.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Legs cold with hemorrhages. Feels as if bones were broken ; with hemorrhages.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "REST. POSITION. MOTION. [35] [Tril.]. Standing : bearing down in pelvis. Motion : hemorrhages <. Walking : bearing down in pelvis.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare : Cinchon., Bellad., Kali carb., Sepia, Laches",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899",
+      "boericke-1927",
+      "grieve-modern-herbal-1931",
+      "hering-guiding-1879"
+    ]
+  }
+}

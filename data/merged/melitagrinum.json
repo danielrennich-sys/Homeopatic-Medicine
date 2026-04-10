@@ -1,0 +1,30 @@
+{
+  "id": "melitagrinum",
+  "names": {
+    "primary": "Melitagrinum",
+    "latin": "Melitagrinum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Dr. Skinner has given a brief account of this nosode, introduced by him, in H. W., xvii. 89. He prepared it from the lymph and blood of a case of eczema capitis. Cases treated by Dr. Theobald with Melit., given to him by Dr. Skinner, were published in H. W., xvii. 19. Very severe cases were cured with Melit. c.m. (F.C.) given in single doses at considerable intervals. In one case there was an initial aggravation. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Crusta lactea; Eczema capitis",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

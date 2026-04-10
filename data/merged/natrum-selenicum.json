@@ -1,0 +1,30 @@
+{
+  "id": "natrum-selenicum",
+  "names": {
+    "primary": "Natrum Selenicum",
+    "latin": "Natrum Selenicum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "This is an unproved remedy, but it has a decided affinity for the larynx. According to Hansen its use in homœopathy was first suggested by Meyhoffer, who gave the indication in laryngeal phthisis as: \"Expectoration of small lumps of bloody mucus with slight hoarseness.\" It is best suited to the early stage of the disease. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Laryngeal phthisis; Laryngitis, chronic",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

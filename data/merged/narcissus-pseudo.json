@@ -1,0 +1,67 @@
+{
+  "id": "narcissus-pseudo",
+  "names": {
+    "primary": "Narcissus Pseudo-narcissus",
+    "latin": "Narcissus Pseudo-narcissus",
+    "common": [
+      "Daffodil"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Bulb, leaves, flowers.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "The bulbs of N. poeticus, N. odorus , and N. jonquilla possess similar acrid and emetic properties. See NARCISSUS . [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Europe, including Britain.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The Common Daffodil, a representative of the Ajax group, grows wild in most European countries. Its green, linear leaves about a foot long, and golden, terminal flowers, are familiar in moist woods and country gardens. The bulbs should be gathered during the winter, and the flowers when in full bloom, in dry weather, and dried quickly. The bulbs and not the flowers of other species are used.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Professor Barger has given the following notes on the alkaloid of Narcissus Pseudo-narcissus . 'In 1910 Ewins obtained from the bulbs a crystalline alkaloid, to which he gave the name of narcissine , and on analysis found the formula to be C 16 H 17 ON.' He notes that the alkaloid is characterized by great stability and cannot easily be decomposed. Ringer and Morshead found the alkaloid from resting bulbs acted like pilocarpine, while that from the flowering bulbs resembled atropine. Laidlaw tested Ewins' alkaloid on frogs and cats, but found no action similar to pilocarpine or atropine. 0.125 gram given by mouth to a cat caused vomiting, salivation and purgation. In 1920 Asahtna, Professor of Chemistry in the Tokyo College of Pharmacy, showed that narcissine is identical with Iycorine isolated from Lycoris radiata in 1899. The name narcissine has therefore been dropped. Lycorine is quite common in the N.O. Amaryllidaceae. It was found in Buphane disticha by Tutin in the Mellome Research Laboratory in 1911 ( Journ. Chem. Soc. Transactions 99, page 1,240). It is generally present in quite small quantities, at most 0.1 to 0.18 per cent of the fresh material. Chemically, Iycorine or narcissine has some resemblance to hydrastine, and like it, contains a dioxymethylene group. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The following is a quotation from Culpepper: 'Yellow Daffodils are under the dominion of Mars, and the roots thereof are hot and dry in the third degree. The roots boiled and taken in posset drink cause vomiting and are used with good success at the appearance of approaching agues, especially the tertian ague, which is frequently caught in the springtime. A plaster made of the roots with parched barley meal dissolves hard swellings and imposthumes, being applied thereto; the juice mingled with honey, frankincense wine, and myrrh, and dropped into the ears is good against the corrupt and running matter of the ears, the roots made hollow and boiled in oil help raw ribed heels; the juice of the root is good for the morphew and the discolouring of the skin.' It is said by Galen to have astringent properties. It has been used as an application to wounds. For hard imposthumes, for burns, for strained sinews, stiff or painful joints, and other local ailments, and for 'drawing forth thorns or stubs from any part of the body' it was highly esteemed. The Daffodil was the basis of an ancient ointment called Narcissimum. The powdered flowers have been used as an emetic in place of the bulbs, and in the form of infusion or syrup, in pulmonary catarrh.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Of powder, from 20 grains to 2 drachms as an emetic. Of extract, 2 to 3 grains.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {
+    "documented_adverse_effects": [
+      {
+        "text": "It may be noted that Henry states that Iycorine or narcissine in warm-blooded animals acts as an emetic causing eventually collapse and death by paralysis of the central nervous system. There have been several cases of poisoning by Daffodil bulbs which have been eaten in mistake for onions. In one case the points observed were: (1) the speedy action of the poison; (2) the fact that the high temperature did not destroy the toxicity of the poison; and (3) the relatively small quantity of Daffodil bulbs which caused the trouble.",
+        "source": "Grieve"
+      }
+    ]
+  },
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

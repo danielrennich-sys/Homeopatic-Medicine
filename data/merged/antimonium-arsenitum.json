@@ -1,0 +1,90 @@
+{
+  "id": "antimonium-arsenitum",
+  "names": {
+    "primary": "Antimonium Arsenitum",
+    "latin": "Antimonium Arsenitum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "ANTIMONIUM ARSENITUM.",
+        "source_id": "allen-encyclopedia-1874"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T ANTIMONIUM ARSENITUM. Arsenite of antimony. Formula , (Sb 2 O 3 ) AsO 5 + 3 p. c. (For chemical preparation, see All. Hom. Zeit., 79, 76) Preparation , Triturations. Authority. Isnard (A. H. Z., 79, 76, Review of Therap. Andw. des Arsen.) took daily increasing doses of .01 to 0.10 of centigramme; symptoms began on the sixth day. ► Congestion of the head. ► Pain in the forehead. ► Pressure in the temples. ► Pain in the orbits. ► Conjunctivitis. ► dema of the face. ► General sick feeling. ► Sense of weakness. ► Wandering pains along the sciatic nerves. ► Loss of appetite. ► Nausea. ► Diarrha slight, without pain in abdomen. ► Pulse 90. ► (*Excessive dyspna in cases of emphysema) , Dr. Payr, A. H. Z., 79. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "General sick feeling. Sense of weakness.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "head": [
+      {
+        "text": "Rush of blood to head. Pain in forehead. Pressure in temples.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Pain in orbits. Inflammation of eyes.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "face": [
+      {
+        "text": "Œdema of face.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Ant. ar.]. Loss of appetite. Nausea.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Slight diarrhœa, without pain in abdomen.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "(OBS :) Excessive dyspnœa. θ Emphysema.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pulse 90.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Wandering pains along sciatic nerves.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Similar to : other antimony salts ; Ammon. carb. ; Arsen. ; Aurum ; Laches. ; Merc. sulph. ; Phosphor. ; Pulsat. (ischias, wandering pains) ; Sulphur",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "hering-guiding-1879"
+    ]
+  }
+}

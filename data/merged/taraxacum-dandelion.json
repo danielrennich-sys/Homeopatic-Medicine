@@ -1,0 +1,32 @@
+{
+  "id": "taraxacum-dandelion",
+  "names": {
+    "primary": "Taraxacum. Dandelion. (Compositae.)",
+    "latin": "Taraxacum. Dandelion. (Compositae.)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "For gastric and bilious attacks, especially gastric headaches. Mapped tongue (Lach., Mer., Nat. m.); covered with a white film with sensation of rawness. This film comes off in patches, leaving dark red, tender, very sensitive spots (Ran. s.). Jaundice with enlargment and induration of liver (mapped tongue). Debility, loss of appetite, profuse night sweats, especially when convalescing from bilious or typhoid fever. Restlessness of limbs in typhoid (Rhus, Zinc.).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Compare: Bry., Hydr., Nux, in gastric and bilious affections.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - Almost all symptoms appear when sitting; lying down; resting.",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

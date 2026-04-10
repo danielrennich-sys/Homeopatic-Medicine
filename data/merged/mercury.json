@@ -1,0 +1,200 @@
+{
+  "id": "mercury",
+  "names": {
+    "primary": "Mercury",
+    "latin": "Mercury",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Other tomes: Potter - Petersen",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonyms—Hydrargyrum, Quicksilver.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonyms—Hydrargyri Chloridum Corrosivum, Corrosive Mercuric Chloride, Corrosive Chloride of Mercury, Corrosive Sublimate, Bichloride of Mercury, Perchloride of Mercury.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "OCCURRENCE—Prepared by the sublimation and condensation of a mixture of manganese dioxide, mercuric sulphate and sodium chlorate.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "DESCRIPTION—A crystalline body, colorless, odorless, with an acrid persistent metallic taste; soluble in sixteen parts of cold water, in two parts of boiling water, and in three parts of alcohol.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Dose, from the one-five-hundredth to the one-eighth of a grain.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonyms—Hydrargyri Chloridum Mite, Mild Chloride of Mercury, Calomel.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "OCCURRENCE—This is obtained from subliming the product of a trituration of the mercuric sulphate, mercury and sodium chloride in boiling water.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "DESCRIPTION—An impalpable white powder, odorless, tasteless, and permanent, insoluble in water and alcohol and entirely volatile. Dose, from the one-sixtieth of a grain to fifteen grains.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonyms—Hydrargyri Iodidum Rubrum, Red Mercuric Iodide, Bin-Iodide of Mercury, Red Iodide of Mercury.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "This salt precipitates from solutions of the corrosive mercuric chloride and potassium iodide. It is without odor or taste, permanent and comparatively insoluble in water; soluble in 130 parts of alcohol. Dose, from the one-one-hundredth to the one-eighth of a grain.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonyms—Hydrargyri Oxidum Rubrum, Red Oxide of Mercury, Red Precipitate.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The substance results from dissolving mercury in dilute nitric acid, the product being triturated with mercury. Dose, from one-one-hundredth to one-tenth of a grain.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonyms—Blue Ointment, Unguentum Hydrargyri.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "OCCURRENCE—This is formed of mercury, oleate of mercury, suet and lard rubbed thoroughly together.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonym—Salicylate of Mercury.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Dose, from the one-thirty-second to the one-eighth of a grain.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonym—Hydrargyrum cum Creta.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "OCCURRENCE—This substance is prepared by triturating prepared Chalk and mercury together, and adding clarified honey and water.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "DESCRIPTION—It is a gray, moist powder, without odor and should be free from grittiness. Dose, from two to ten grains.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonyms—Massa Hydrargyri, Pilula Hydrargyri, Blue Mass, Blue Pill.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "OCCURRENCE—This is composed of mercury, powdered licorice, marshmallow and glycerine. Dose, from one-fourth of a grain to five grains.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Physiological Action—Notwithstanding the very general use of Mercury for more than two centuries, its action is not yet clearly defined and its use is entirely empirical. It is classed as a universal stimulant, and has been used perhaps in every known disease. All authorities now admit that it has been a greatly over-used remedy.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Taken into the system in the milder forms it produces fetid breath, spongy gums and tender, \"sore\" teeth. The gums bleed readily and the flow of saliva is greatly increased, finally to an inordinate quantity. The inhalation of the vapor of mercury produces the above symptoms rapidly and in a marked manner. These are conspicuous in workers with the metal in the arts in which it is employed. It affects all the special senses in a marked and serious manner; the teeth loosen and drop out, the patient becomes feeble, debilitated, with general physical and mental weakness; the corpuscular elements of the blood are destroyed, this fluid becoming greatly impoverished. The bones, especially the maxillaries, are subject to necrosis, and there is a general disintegration of tissue.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "There are muscular trembling, paralysis agitans, chorea, and in some cases locomotor ataxia. The bichloride of mercury—corrosive sublimate—is violently poisonous and produces the most violent gastro-intestinal irritation, vomiting and purging of mucus and blood with the intestinal contents, collapse, with all of its phenomena and death.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In the consideration of mercury, and its compounds as therapeutic agents, the Eclectic school has in the past taken a unique position. The promiscuous, unscientific and excessive use of the agent in the latter part of the last and the early part of the present century, for any and every condition, with the dire results that occurred from such indiscriminate use, caused our earlier investigators to assume a position at the opposite extreme, and to declare that its deleterious influences greatly overbalanced any possible good that could result from its use and they decided to exclude it entirely from the list of medical agents, a course adopted in the matter of venesection. With this complete ostracism, they at once set about seeking for vegetable and other remedies to take the place of these agents, and so well have they succeeded that many of our physicians, eminently successful in practice, have never given a dose of mercury in any form or never opened a vein.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "We have so thoroughly replaced mercury in the treatment of syphilis, that we expect even in the \"saturated\" cases to remove every trace of the disease in a year, and in cases taken at the onset, we expect only mild manifestations if any at all. In the experience of fifty years, in the practice of nearly ten thousand active vigilant practitioners, these results are constantly confirmed, and ninety-five per cent of our physicians do not know from cases developed in their own practice, as the fully developed cases have been brought under their observation, what the developing characteristics of bad cases are. Our physicians know but little of the constitutional effects of mercury, and have had opportunities of treating mercurial conditions, only as the deeply seated cases have come to them for treatment, and not as the results of their own use of the agent. The advantages of our method of treatment are that the patient quickly regains his full tone, is not kept from business, and usually after three or four months' treatment, he is with difficulty persuaded to continue the treatment, as he considers himself cured.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In its influence as a liver stimulant and as a cholagogue cathartic, mercury is now superseded to a great extent in all schools by agents more easily managed, and of more rapid and perfect elimination. For no condition is it given in such excessive doses, and by far the larger part of the profession who use it, use it in minute or fractional doses.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The antiseptic properties of the bichloride of mercury are generally acknowledged, and this agent as a germ destroyer is in constant use in surgery.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In the treatment of intestinal disorders and as a liver remedy, mercury with us is almost entirely replaced by such agents as podophyllum, leptandra virginica, iris versicolor, chelidonium and sodium phosphate. In the treatment of syphilis our most potent remedy is echinacea. The other well known vegetable alteratives are used in various combinations with iodide of potassium. Other specific conditions appearing during the course of the disease are promptly met with specific remedies.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—In a systematic consideration of the conditions under which mercury is now used in medicine, they are found to be capable of division into three classes: First, the use of the agent as a purgative and liver stimulant. Second, its use in the treatment of syphilis. Third, its use as an antiseptic and germicide. A fourth class has been considered, that of an antiphlogistic, but this influence is exercised by virtue of its antiseptic properties.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "If the inflammation abates and the temperature falls after its use in typhoid fever and in diphtheria, it is because of the destruction of the bacillus in each case. This statement, however, is open to question in its application to all inflammatory conditions.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In the treatment of inactivity of the liver, and of the intestinal glands and intestinal obstructions, calomel has been long in use. In the past, calomel and blue mass were given in large doses for these conditions, but their use is now superseded by milder agents and is discouraged by almost the entire profession. Large doses of these agents were given, and then the bowel. was cleared with large doses of salts or other alkaline purgatives. One of the most pernicious uses of these agents, which is still countenanced in certain localities, is their use in the forming stage of typhoid to produce violent evacuation of the bowels, the avowed object being to clear the canal of disease germs. The theory is fallacious in the extreme, and the results have been most serious in many cases which the writer has observed. In cases where so used the fever is apt to run from five to seven weeks. In such cases an absolutely non-irritating laxative only should be used which should be followed by a thorough colonic flushing by an antiseptic solution. The bichloride in dilute solution can be used to good advantage, but one of peroxide of hydrogen is preferable and devoid of danger. The internal use of the one-sixtieth of a grain of the corrosive chloride afterwards three or four times daily will keep up the effects, but the peroxide or a vegetable antiseptic, will as effectually preserve asepis with no danger.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In the treatment of syphilis, this agent or its salts are considered by the old school to be specific. It is a matter of surprise that so much confidence is placed in it, to the exclusion of all other measures, when every writer narrates so long a train of dire results occurring from even its careful use. The time advised for its continuance is from two to five years, and measures are usually suggested for the treatment of its untoward effects, and for the treatment of the extreme debility in which the patient is left. A method entirely devoid of untoward effects, and completely successful in six months, in the worst cases in one year, that increases the vital tone of the patient from the first and leaves him in vigorous health, is much preferable and will ultimately receive general adoption.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In the treatment of syphilis blue mass and calomel are given internally; but the agent most popular, and used most persistently is probably the protiodide of mercury. The bichloride is advised in this disease hypodermically, in doses of one-twelfth to one-sixth of a grain.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Inunctions of mercury are made use of in all sanitariums and very generally in private practice. These are made of the oleate or the common ointment, and are applied in the axilla, or in the groins or over the abdomen.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Fumigations or inhalations of the vapor of calomel are also administered is the treatment of syphilis, a method that has been received with more or less general favor, but which must be used with caution.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Inhalations of the vapor of mercury are administered in the treatment of membranous croup and diphtheria, and if any internal use of the agent be considered rational, this method certainly could be so considered.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "As antiseptics the bichloride and the bin-iodide of mercury are in common use. The argument of quickness of action and thoroughness is applicable to both, but the bichloride is in most common use. The strength of the solutions vary from one part in one thousand of water to one part in five thousand. Of the bin-iodide one part in four thousand to one part in twenty thousand of water is sufficient. The latter has the virtues of the former , and is less liable to produce poisonous effects because of the large quantity of water used.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The bichloride of mercury is less used as an antiseptic in surgical cases, than formerly.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is considered a potent germicide in those cases in which it can be safely used. It will coagulate albumen and form with that substance inert compounds. The addition of a small quantity of a sodium chloride solution to the mercuric chloride solution will prevent such a decomposition. It is most commonly used upon the skin, to render it aseptic in preparation for surgical operation. It is used in the strength of one part to five hundred where a small surface only is to be dressed or where it is to be applied to the unbroken skin; where extensive use is to be made on open surfaces, from one part in five thousand, to one part in two thousand of water may be used. In some cases it will produce a characteristic mercurial dermatitis, some individuals being especially sensitive to its irritating influence. It is not used upon surgical instruments in any strength because of its corrosive action. It may be used as a gargle for the throat and mouth, and to wash putrid abscess cavities, as well as the vagina and bladder.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The bichloride in doses of from one-sixtieth to one-thirtieth of a grain every two hours has been used successfully in malignant sore throat and diphtheria. The patches are soon removed and the fever abates. We have so many other agents of equal efficiency that have no depressing influence upon the system that our practitioners seldom if ever use it for that purpose.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is also used as an intestinal antiseptic in typhoid and other conditions of this character, as has been previously stated.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Triturated minutely with. sugar of milk , the corrosive chloride is efficacious in cholera infantum with watery discharges and green stools. The one five hundredth of a grain is a sufficient dose. It is especially indicated where the choleric character is distinctly pronounced. It is similar in its action to arsenite of copper.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919"
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "id": "guarana",
+  "names": {
+    "primary": "GUARANA",
+    "latin": "GUARANA",
+    "common": [
+      "Guarana (PAULLINIA SORBILIS)",
+      "Guarana"
+    ],
+    "synonyms": [
+      "Guarana",
+      "Guarana (U. S. P.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "head": [
+      {
+        "text": "Intellectual excitement. Sick headache in persons who have used tea and coffee in excess. Throbbing headache after use of liquor",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Sick headache in those who have abused tea and coffee, or in whom nervous headaches followed by vomiting are excited by any error in diet or depression of mind. Throbbing, congestive headache after excessive use of alcohol.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sick headache in persons who have used tea and coffee to excess, or in whom nervous headaches, followed by vomiting, are excited by any error in diet or depression of mind. Frequent attacks of sick headache. Megrim. Throbbing, congestive headache after excessive use of liquor.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Bowels] Stools profuse, bloody, bright green; flakes inter-mixed; odorless. Cholera infantum",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Clinical: Alcohol, effects of; Coffee, effects of; Diarrhœa; Eyelids, twitching of; Headache",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Restlessness, nervousness, weariness. Neuralgia. Reduced vital powers; grief; depression of spirits; loss of appetite. Debility after prostrating diseases. Paralysis. Chlorosis.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Restlessness. Nervousness and weariness. Neuralgia. Rheumatic neuralgia. Reduced vital powers ; grief ; depression of spirits ; anorexia ; nervous hemicrania. Convalescence from prostrating diseases. Paralysis. Frequent attacks of sick headache. Rheumatic neuralgia. Throbbing, congestive headache. Twitching : of eyelids. Spasm of bladder. Chlorosis.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Chloasmata on temples and arms. Urticaria (Dulc; Apis; Chloral)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Urticaria. Prurigo. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Urticaria ; prurigo.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Uncontrollable sleepiness and heaviness of head, with flushed face after eating",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Unpleasant and uncontrollable sleepiness, drowsiness and heaviness of head, with flushed face, in persons of sedentary habits, after eating. Sleeplessness.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "dosing": {
+      "notes": "Must be given in material doses-fifteen to sixty grains of the powder"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">GUARANA Guarana (PAULLINIA SORBILIS) Contains a large percentage of Caffeine, which may explain its use as a remedy for certain forms os sick headache.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Guarana is a climbing shrub of Brazil, the seeds of which contain Coffeine, and are used by the natives for making a beverage. In medicine it has found its principal use in conditions of nervous exhaustion; sick headache in those who have abused tea and coffee, the headache being followed by vomiting and excited by any error in diet or depression of mind. Throbbing, congestive headache after excessive use of liquor. Persistent twitching of eyelids is one of its indications. Diarrhœa.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Agar. (twitching of eyelids); Ign., Nux in sick headache; Coff., Coca., Thea.",
+        "Compare : Agar. (in twitching of eyelids) ; Ignat., Nux vom., especially latter, in sick headache, etc",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Gaiety; extravagant behaviour. Mental hyperæsthesia; intellectual excitement.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Gayety ; extravagant behavior. Mental hyperesthesia ; intellectual excitement.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Persistent twitching of eyelids.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Persistent twitching of eyelids.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Profuse, green, odourless mucous stools. Diarrhœa of phthisis.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Profuse, green, odorless, mucous stools. θ Infantile diarrhœa. Summer complaints of children ; diarrhœa from teething ; diarrhœa and vomiting from improper food. Cholera infantum. Chronic diarrhœa, nearly to marasmus, in a child. Diarrhœa of phthisis.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Spasm of bladder.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Spasm of the bladder.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "indications": [
+      {
+        "text": "A dried paste, chiefly consisting of the crushed or pounded seeds of Paullinia Cupana, Kunth (Nat. Ord. Sapindaceae), yielding not less than 4 per cent of caffeine. A shrubby vine of northern and western Brazil.Common Name: Guarana.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Description.—Cylindrical, dark reddish-brown sticks, paler internally, and admixed with fragments of seeds and integuments. Slight odor, and feeble astringent, bitter taste. Partly soluble in water and in alcohol. Dose, 15 to 30 grains.Principal Constituents.—Caffeine, volatile oil, saponin, and tannin.Preparation.—Specific Medicine Guarana. Dose, 10 to 30 drops.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Specific Indications.—Headache with pallor, weak circulation, the pain aggravated by exertion; sick headache (migraine), with cerebral anemia; menstrual headache, with cerebral anemia; mental exhaustion or depression; headache from dissipation.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—Guarana is a gentle excitant acting very much like tea and coffee. It is valuable where the brain becomes exhausted or depressed through mental overwork, or when the body is fatigued or exhausted. It must be carefully used as it sometimes causes difficult urination. Neither should it be employed in neuralgias that are aggravated by stimulation of the heart. It is indicated only in atonic conditions.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Guarana is a remedy for the relief of nervous headache, or those forms following menstruation or drunkenness. The face is pale, the pulse feeble, the eyes dull and expressionless, and nausea is prominent. Every movement causes an aggravation of the pain, the patient is mind-weary, and cerebral anemia is always present. It sometimes relieves lumbago, and while contraindicated in sthenic neuralgias it sometimes relieves occipital neuralgia when the indications are as given above. Temporary paralysis of the motor oculi nerve, followed by headache, has been relieved by it. In headaches the doses of 20 to 30 drops of the specific medicine should be given.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Preparation: Fluid Extract of Guarana Related entries: Caffea.—Coffee - Thea.—Tea - Theobroma.—Cacao - Ilex paraguayensis, Yerba maté - Kola.—Kola",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"A dried paste chiefly consisting of the crushed or pounded seeds of Paullinia Cupana, Kunth (Paullinia sorbilis, Martius)\"—(U. S. P.). Nat. Ord.—Sapindaceae. COMMON NAMES: Guarana, Uaranazeiro, Uabano. ILLUSTRATION: Bentley and Trimen, Med. Plants, 67.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—The genus Paullinia comprises about 80 species, natives of tropical America, with a single African exception. The Paullinia Cupana (Paullinia sorbilis) is a climbing, shrubby vine, growing in northern Brazil, in moist, sandy locations. The flexible stem is very long, and takes root readily wherever it touches the ground, so that a single plant often extends over considerable space. In the wild state the vine attaches itself to large trees, and the fruit is difficult to collect, and of small yield; the vine is cultivated without support. The leaves are alternate, stipulate, and consist each of 5 smooth leaflets; the leaflets have the same shape and dentation as those of Rhus Toxicodendron, and look very much like them. The flowers are small, numerous, and disposed in erect, axillary, close panicles; the sepals are 5, the petals are 4, and have each a large pubescent scale on the inside, near the base; the stamens are 8, attached to a thick column. The pistil has a 3-lobed ovary, and a sessile, 3-parted stigma. The fruit is pear-shaped, and generally has a single brownish seed attached to the base, and nearly filling the pericarp.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History and Preparation.—This plant is of interest to the medical profession from the fact that the drug known as Guarana is prepared from the seeds. Guarana was introduced into France in the year 1817, by a French officer, and was described in the same year by Gassicourt in the Journal de Pharmacie, the botanical source, however, being then unknown. It was called \"guarana,\" after the tribe of South American Indians (Guaranis), who prepared it, and in 1826, Martins, after identifying the plant, gave it the name of Paullinia sorbilis, in allusion to the fact that guarana is employed to produce a drink. The preparation of guarana from the cultivated plant is described by Prof. H. H. Rusby (Amer. Jour. Pharm., 1888, p. 267), as follows: \"When the ripe pods begin to open the seeds are shelled from the husk by band, washed to remove a phlegmy substance, and subjected for 6 hours to a roasting process whereby a papery shell is loosened, which is removed by placing the seeds in sacks and beating them with clubs. A small amount of water is then added and the seeds kneaded by hand into a mass of the consistence of dough. The mass is then rolled into cylinders, spread out on the upper floors of large buildings erected for that purpose, and subjected to a slow fire, as nearly free from smoke as possible. The temperature is kept equable for several weeks, and the product as known in commerce is then ready for the market.\" Sometimes, it is said, the moistened magma of the coarsely powdered seed is incorporated with cocoa and tapioca before kneading and rolling, but in Prof. Rusby's experience such is not the case.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Description.—Guarana appears in our market, generally in cylindrical sticks, from 6 to 12 inches in length, and from 1 ¼ to 2 inches in diameter, rounding at the ends, and averaging from 8 to 20 ounces in weight. Throughout the roll are fissures caused by contraction in drying. It leaves a sweetish after-taste resembling that of dulcamara. The U.S. P. thus describes it: \"Subglobular or elliptic cakes, or cylindrical sticks, hard, dark, reddish-brown; fracture uneven, somewhat glossy, pale reddish-brown, showing fragments of seeds invested with blackish-brown integuments; odor slight, peculiar, resembling that of chocolate; taste astringent and bitter. It is partly soluble in water, and in alcohol\"—(U. S. P.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chemical Composition.—Guarana was first analyzed in 1826, by Th. Martius, who discovered in it a crystallizable substance and named it guaranine; but the fact of its identity with caffeine became known by the researches of Berthemot and Deschastelus (Jour. Pharm. Chim., 1840, p. 518), who concluded that it existed in guarana in combination as tannate of caffeine, and that it was obtainable in greater quantity from guarana than from any source of caffeine hitherto known. Subsequent researches confirmed the presence of caffeine; Stenhouse (Pharm. Jour. Trans., 1856, Vol. XVI, p. 212), found 5.07 per cent of this substance in guarana, and Mr. F. V. Greene (Amer. Jour. Pharm., 1877, pp. 338 and 388), obtained about the same amount. Still others claim that the average is only about 3 per cent. The standard established by J. U. Lloyd as proper for fluid extract of guarana, is 4 per cent.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The tannic acid of guarana was believed by Fournier (Jour. Pharm. Chim., 1861, p. 291), to be identical with caffeotannic acid, and Peckolt (1866), stated that it resembled kinotannic acid; F. V. Greene (1877), termed it paullinitannic acid. Recently the tannic acid of guarana was more closely studied by Ernst Kirmsse (Dissert., Strassburg, 1897), who established its non-glucosidal nature, hence its nonidentity with kino- or caffeo-tannic acids, and pointed out its close relationship to catechu-tannic acid (see Catechu). The same author confirmed the observation of Peckolt as to the presence of saponin in guarana. By exhausting guarana paste of its caffeine by repeated extraction with chloroform, and subsequently extracting with absolute ether, Dr. Kirmsse furthermore obtained 0.05 per cent of a micro-crystalline substance anticipated by Prof. Schaer in 1890 (Archiv der Pharm., Vol. CCXXVIII, p. 279), which proved to be catechin (catechuic acid), and was distinguished by its discoverer as Paullinia catechin (see Catechu). This substance was mistaken by Peckolt, in 1866, for gallic acid, as Dr. Kirmsse proved by employing Wackenroder's test to distinguish between gallic acid and catechin. This test is based on the fact that the green coloration produced by gallic acid in a freshly prepared solution of ferrous sulphate containing some sodium acetate, does not disappear upon adding acetic acid, while the color produced by catechin disappears under the same conditions. For methods recorded and results obtained in assay of guarana, see Kirmsse's dissertation, H. W. Snow (Amer. Jour. Pharm., 1886, p. 483), Chas. A. La Wall (ibid., 1897, p. 350), and method by J. U. Lloyd.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—It is very probable that from the tannin contained in guarana, it has effected recovery from diarrhoea, leucorrhoea, etc., of a very mild form; but as we have more prompt and efficient articles for these affections, in which this agent was at first so loudly heralded, it is no longer employed therapeutically, except chiefly for the relief of certain forms of headache. Like coffee and tea, it appears to be a gentle excitant, and is serviceable in cases where the brain becomes irritated or depressed by mental over-exertion, and when there is a sensation of fatigue or exhaustion during very warm seasons, as it has practically the same chemical composition as caffeine and theine, we find it has likewise precisely the same physiological action. It is chiefly in nervous headache, in the cephalalgia sometimes accompanying menstruation and that following a course of dissipation, in which the most benefit is derived from it. Its use appears to be contraindicated in most cases of neuralgia, neuralgic headache, and chronic headache, and in all cases in which it is not desirable to excite the heart, increase arterial tension, or increase the temperature. Its administration is often followed by dysuria. The dose of guarana, in powder, is from 10 grains to 1 drachm, but this is an unpleasant and objectionable form of administration. The indications for its use are a feeble pulse, pallid countenance, and expressionless eyes, with sick headache. It is asserted by Foltz to relieve the temporary paralysis of the third nerve, which occasionally succeeds headache. The smaller doses act better than the excessively large doses, the medium dose of specific guarana being 10 drops. Webster claims that it is serviceable in occipital neuralgia and lumbago. The fluid extract and specific guarana are probably the most eligible preparations for use; the former may be given in doses of from ½ to 1 teaspoonful, in syrup or sweetened water, repeated 3 times a day; the latter in from 1 to 30-drop doses. M. Gubler states that guaranine possesses diuretic properties, having tested it with several patients; in doses of about 7 ½ grains daily, it increased the urine from 27 to 67 and 107 fluid ounces in the course of 24 hours.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Specific Indications and Uses.—Headache, with pallor of the face, weak circulation, and the pain aggravated by exertion; sick headache (migraine), with cerebral anemia; headache of menstruation, with cerebral anemia; mental exhaustion or depression; headache from dissipation.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Species.—TIMBO. Several leguminous plants of Brazil are known by this name. They are used to stupefy fish. An alkaloid, timbonine, has been obtained from Paullinia pinnata by Stanislas Martin (Pharm. Jour. Trans., Vol. VII, 1877, p. 1020). From another timbo Pfaff obtained two crystalline substances, one timboïn, being a nerve poison, and chemically neutral; the other anhydro-timboin, a non-poisonous substance. Crude timboïn yielded to a light petroleum timbol, an oily compound, probably a poisonous constituent of the stem and branches of the plant (Amer. Jour. Pharm., 1891, p. 544).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Guar.]. Loss of appetite.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Diminution of the heart-beats.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "felter-eclectic-1922",
+      "hering-guiding-1879",
+      "kings-american-1898"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "limulus-cyclops",
+  "names": {
+    "primary": "LIMULUS CYCLOPS",
+    "latin": "LIMULUS CYCLOPS",
+    "common": [
+      "Horse-foot-King-crab (LIMULUS - XIPHOSURA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Mental depression. Difficult to remember names, confused with heat of face, rush of blood to face, worse when meditating. Pain behind left eye-ball",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Fluent coryza. Sneezing worse drinking water. Constant nasal dropping. Pressure above nose and behind eyes",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Colic with heat. Cramp-like pain with watery stools. Abdomen hot and constricted. Piles, constriction of anus",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Husky voice. Dyspnœa after drinking water. Oppression of chest",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Crural neuralgia. Soles of feet ache, feel numb. Pain in right hip-joint. Heels sore",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching spots and vesicles on face and hands. Burning in palms",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Sixth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">LIMULUS CYCLOPS Horse-foot-King-crab (LIMULUS - XIPHOSURA) Limulus was introduced by C. Hering and partially proved by him and Lippe. Hering was surprised to see the blood of the King-crab that he dissected, blue, which on investigation, was found to contain copper as he had surmised and which he thought would prove to be another medicine for Cholera. Further provings are necessary to establish this, though symptoms so far observed make this probable. Hering's fertile mind always lead him to pioneer paths into practical therapeutics. Bodily and mental exhaustion; drowsiness after sea bathing. Gastro-enteric symptoms. Painful fullness of whole right side of body.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

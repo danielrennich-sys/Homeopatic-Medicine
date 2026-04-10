@@ -1,0 +1,53 @@
+{
+  "id": "vipera-berus",
+  "names": {
+    "primary": "VIPERA BERUS",
+    "latin": "VIPERA BERUS",
+    "common": [
+      "The German Viper (VIPERA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "face": [
+      {
+        "text": "Excessively swollen. Lips and tongue swollen, livid, protruding. Tongue dry, brown, black. Speech difficult",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Liver] Violent pain in enlarged liver, with jaundice and fever; extends to shoulder and hip",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Patient is obliged to keep the extremities elevated. When they are allowed to hang down, it seems as if they would burst, and the pain is unbearable (Diad). Varicose veins and acute phlebitis. Veins swollen, sensitive; bursting pain. Severe cramps in lower extremities",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Livid. Skin peels in large plates. Lymphangioma, boils, carbuncles, with bursting sensation, relieved by elevating parts",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Twelfth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">VIPERA BERUS The German Viper (VIPERA) Viper poisoning causes a temporary increase in reflexes, paresis supervenes, a paraplegia of the lower extremities extending upwards. Resembles acute ascending paralysis of Landry (Wells). Has special action on kidneys and induces hæmaturia. Cardiac dropsy. Indicated in inflammation of veins with great swelling; bursting sensation. Enlargement of liver. Ailments of menopause. Œdema of glottis. Poly-neuritis, polio-myelitis.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

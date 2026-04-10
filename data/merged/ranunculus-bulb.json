@@ -1,0 +1,24 @@
+{
+  "id": "ranunculus-bulb",
+  "names": {
+    "primary": "RANUNCULUS BULB",
+    "latin": "RANUNCULUS BULB",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Blister-like eruptions (eczema) in the palms of the hands.",
+        "source_id": "nash-leaders-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "nash-leaders-1899"
+    ]
+  }
+}

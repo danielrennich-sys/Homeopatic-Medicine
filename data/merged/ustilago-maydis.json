@@ -1,0 +1,65 @@
+{
+  "id": "ustilago-maydis",
+  "names": {
+    "primary": "USTILAGO MAYDIS",
+    "latin": "USTILAGO MAYDIS",
+    "common": [
+      "Corn-smut"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Very depressed. Full feeling. Nervous headache from menstrual irregularities. Aching in eyeballs, with much lachrymation",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Uncontrollable masturbation. Spermatorrhœa, with erotic fancies and amorous dreams. Emissions, with irresistible tendency to masturbation. Dull pain in lumbar region, with great despondency and mental irritability",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Vicarious menstruation. Ovaries burn, pain, swell. Profuse menses after miscarriage; discharge of blood from slightest provocation; bright red; partly clotted. Menorrhagia at climaxis (Calc c; Lach). Oozing of dark blood, clotted, forming long black strings. Uterus hypertrophied. Cervix bleed easily. Postpartum hæmorrhage. Profuse lochia",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Abundant sweat. Pulse at first accelerated then enfeebled. Palpitations",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Muscular debility, sensation of boiling water along the back. Clonic and tetanic movements. Muscular contractions, especially of lower limbs",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Alopecia. Tendency to small boils. Skin dry; eczema; copper-colored spots. Pruritus; sunburn. Psoriasis (Internally and externally)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture, to third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">USTILAGO MAYDIS Corn-smut Flabby condition of uterus. Hæmorrhage. Congestion to various parts, especially at climacteric. Crusta lactea (Vioia tric).",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

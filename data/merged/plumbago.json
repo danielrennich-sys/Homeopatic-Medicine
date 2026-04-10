@@ -1,0 +1,111 @@
+{
+  "id": "plumbago",
+  "names": {
+    "primary": "Plumbago",
+    "latin": "Plumbago",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Mure proved this plant. The most peculiar symptoms were: Saliva profuse, milky. Ulceration of commissures of lips. Costiveness with red urine. Vertigo after eating. Pain in humerus on lifting anything. Hot arms with cold hands. \"Many of the plants of this genus are acrid and caustic in the highest degree. The root of P. scandens, the Herbe du Diable of San Domingo, is a most energetic blistering agent when fresh; so also is that of P. rosea. The beggars employ P. europea to raise ulcers on their body to excite pity; and used internally it is said to be as effectual an emetic as Ipecacuanha\" (Treas. of Bot.). In Mure's proving \"Aversion to everything\" is noted; also \"ulceration of commissures of lips,\" which is an evidence of its acridity.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Costiveness; Eyes, inflammation in; Fever; Kidneys, pain in; Saliva, milky",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Violent sexual desire. Pain in r. shoulder; burning and pricking. Pain in humerus when lifting anything. Weakness of joints of lower limbs. Prostration. Darting pains here and there. Pain in joints. Acute pains all over for three hours.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Costiveness with red urine, Lyc. The Plumbaginaceæ are allied to the Primulaceæ and the Plantaginaceæ (the root of Plumb. europ. is used dried as a remedy for toothache)."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Taciturn.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo; after eating. Excessive heat about head. Dartings in head. Pain in temples. Frontal headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Heat in eyes. Inflammation and running of l. eye.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Acute pain l. ear.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Sensitive smell all day.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Saliva: profuse; milky. Ulceration of commissures of lips. Bitter mouth. Painful constriction of throat. Sore throat.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Aversion to everything. Heaviness at stomach. Pain in iliac region. Pain behind false ribs when inspiring.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Costiveness with red urine. 15.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pain: at r. ribs; sides of chest. Prickings in chest. Pain at heart. Painful stitch in heart region. Palpitation. Pulse hard and small.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Pain in kidneys as if pinched. Pain in back.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Drowsy. Dreams of dead bodies.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chilliness when moving. Hot arms with cold hands. Internal heat coming and going. Very hot internally at night. Heat in limbs. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

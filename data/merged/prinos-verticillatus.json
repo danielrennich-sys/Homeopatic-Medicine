@@ -1,0 +1,89 @@
+{
+  "id": "prinos-verticillatus",
+  "names": {
+    "primary": "Prinos Verticillatus",
+    "latin": "Prinos Verticillatus",
+    "common": [
+      "Alder, Black American"
+    ],
+    "synonyms": [
+      "Prinos verticillatus (LINN.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "The genus Prinos is very closely, allied to the hollies. \"The bark of P. vertic. is bitter, and has been used in the treatment of fever, and in the form of a lotion as an application in cases of gangrene. The berries are tonic and emetic \"(Treas. of Bot.). The only recorded experiment with Pri. v., the effects of swallowing twenty berries, bears out the last statement: the effect was to cause vomiting (and also an extremely profuse greenish diarrhœa); increased appetite and tense feeling of well-being in spite of great loss of weight.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "This shrub is the most ornamental of the American deciduous hollies. It grows from 6 to 1O feet in height, with thin, oval or lanceolate leaves, white flowers and bright scarlet berries the size of a large pea, causing it to be very conspicuous in the autumn, when the surrounding vegetation is leafless. The bark is found in thin fragments, the outer surface brownish, with whitish patches and black dots and lines, the cork layer easily separating from the pale-greenish or yellowish white inner tissue. The fracture is short, the odour almost imperceptible, and the taste bitter and slightly astringent. It was widely used by the aborigines of North America for its astringent properties.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Diarrhœa; Fever",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Felt remarkably well after the diarrhœic stool though had lost ten pounds in weight. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "The fresh bark and fruit.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Acrimony in fauces.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Appetite and digestion better than usual after the liquid stools. Sensation of commotion in stomach, not exciting nausea, ate heartily in spite of it; walking precipitated vomiting of a little bile. Inclination to stool; had natural stool which > all sensations.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Natural stool; half an hour later, most profuse stool consisting of natural fæces diluted with an immense quantity of greenish liquid; without pain or uneasiness; in another hour and a half similar stool but less in quantity.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "The United States, from western Florida northwards.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The bark contains about 4-8 per cent tannin, two resins, the one soluble and the other insoluble in alcohol, albumen, gum, sugar, and a bitter principle and a yellow colouring matter not yet isolated. There is no berberine. The fresh bark and fruit are gathered before the first autumnal frost.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Cathartic, antiseptic, tonic, and astringent bitter. The decoction of the bark is prepared by boiling 2 ounces of bark in 3 pints of water down to 2 pints, this being given internally in diarrhoea and malarial disorders, and externally in indolent sores and chronic skin disease. The berries should not be used as a substitute for the bark. In intermittent fever it can be used like Peruvian Bark, and is valuable in jaundice, gangrenous affections, dropsy, and when the body is devitalized by discharges. The bark is well known as an ingredient in several alternative syrups. The berries are cathartic, and with Cedar apples form a mild anthelmintic for children. An observed case, after eating twenty-five berries, had a sensation of nausea, not interfering with appetite, vomiting of bile without retching, painless and profuse evacuation of the bowels, followed by a second evacuation in half an hour, and as a result, a feeling of great lightness and well-being, with appetite and digestion better than usual. For dyspepsia, 2 drachms of the powdered bark, and 1 drachm of powdered Golden Seal infused in a pint of boiling water, taken, when cold, in the course of one day in wine-glassful doses, will be found very helpful.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Of the decoction, 2 to 3 fluid ounces. Of the powdered bark, 1/2 to 1 drachm.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900",
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

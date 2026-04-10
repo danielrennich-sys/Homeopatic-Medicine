@@ -1,0 +1,50 @@
+{
+  "id": "taraktogenos-kurzii",
+  "names": {
+    "primary": "Taraktogenos kurzii (KING)",
+    "latin": "Taraktogenos kurzii (KING)",
+    "common": [
+      "Chaulmoogra"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "preparation": [
+      {
+        "text": "The oil from the seeds.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Seeds are ovoid, irregular and angular, 1 to 1 1/4 inches long, 1 inch wide, skin smooth, grey, brittle; kernel oily and dark brown. A fatty oil is obtained by expression, known officially as Gynocardia oil in Britain, as Oleum Chaulmoograe in the U.S.A.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The oil contains chaulmoogric acid and palmitic acid, and the fatty oil has been found to yield glycerol, a very small quantity of phytosterol and a mixture of fatty acids.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Employed internally and externally in the treatment of skin diseases, scrofula, rheumatism, eczema, also in leprosy, as a counterirritant for bruises, sprains, etc., and sometimes applied to open wounds and sores. Also used in veterinary practice. Dose of oil, 5 or 10 to 60 minims. Gynocardia Ointment, I.C.A.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "The seeds of Gynocardia odorata have been erroneously given as the source of the oil. Some of the commercial oil on the market probably comes from the allied species Hydnocarpus . [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

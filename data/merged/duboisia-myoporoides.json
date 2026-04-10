@@ -1,0 +1,91 @@
+{
+  "id": "duboisia-myoporoides",
+  "names": {
+    "primary": "DUBOISIA MYOPOROIDES",
+    "latin": "DUBOISIA MYOPOROIDES",
+    "common": [
+      "Corkwood Elm (DUBOISIA)",
+      "Corkwood Tree"
+    ],
+    "synonyms": [
+      "Duboisia myoporoides"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Absent-minded, incoherent, silly and nonsensical, memory impaired",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Impossible to stand with eyes shut, tendency to fall backwards",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Conjunctivitis, acute and chronic. Mydriasis. Paralysis of accommodation. Hyperæmia of retina with weakness of accommodation, fundus red, blood-vessels full and tortuous; pupils dilated, with dim vision. Pain over eye, between it and brow",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Larynx dry, voice hoarse, phonation difficult. Dry cough with oppressed breathing",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Loss of power in limbs, staggers; feels as if he stepped on empty space. Trembling, numbness and weakness",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "relationships": {
+      "antidoted_by": [
+        "Morphia",
+        "Pilocarp"
+      ]
+    },
+    "dosing": {
+      "notes": "Third to twelfth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">DUBOISIA MYOPOROIDES Corkwood Elm (DUBOISIA) Acts chiefly on the nervous system, eyes, upper respiratory tract. Recommended in pharyngitis sicca, with black, stringy mucus. It dilates the pupil, dries the mouth, checks perspiration, causes headache and drowsiness. On the eye it acts more promptly than Atropia, much stronger as a mydriatic. Red spots floats in the field of vision. Sensation as if stepping on empty space. Vertigo with pale face; not gastric in origin. Scarlet fever; locomotor ataxia. Palliative in exophthalmic goitre.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "A tall glabrous shrub or small tree, flowers, axillary clusters, white with two-lipped calyx; corolla, funnel-shaped; limb, five parted; five stamens within the corolla (two long and two short); one rudimentary ovary, two many-ovalled compartments and fruit berry-like; leaves, inodorous and bitter taste. Another species, Duboisia Hoopwoodii , contains an acrid liquid alkaloid, Piturine, which is said to be identical with nicotine; it is largely used by the natives of Central Australia rather in the same way that the Indians use Coca leaves. It is obtained from the leaves and twigs, which are collected while the flowers are in bloom in August; the natives smoke and chew it for its stimulating effect, which enables them to work at high pressure without food.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "New South Wales and Queensland, Australia; New Caledonia.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Alkaloidal sulphates, mainly hyoscyamine and hyoscine.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Sedative, hypnotic and mydriatic (of variable strength), which augments the activity of the respiratory system. Its alkaloid, Sulphate of Duboisia, is sometimes used as a substitute for atropine. The homoeopaths use the tincture and the alkaloid for paralysis and eye affections; a red spot interfering with vision is an indication for its use. It is antidoted by coffee and lemon-juice.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

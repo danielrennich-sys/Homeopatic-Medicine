@@ -1,0 +1,84 @@
+{
+  "id": "benzolum",
+  "names": {
+    "primary": "BENZOLUM",
+    "latin": "BENZOLUM",
+    "common": [
+      "Benzol, C6, H6 (BENZENUM - COAL NAPHTHA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Sense of falling through bed and floor. Pains from below upward. Tired and nervous. Frontal headache to root of nose. Dizzy. Pressing feeling in head. Right sided headache",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Illusion of vision with wide open eyes. Twitching of lids. Photophobia, objects blurred. Aching in eyes and lids. Marked dilation of pupils. Failure to react to light, particularly daylight",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Profuse fluent coryza. Especially in afternoon. Violent sneezing",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Swelling of right testicle. Severe pain in testicles. Itching of scrotum. Profuse urination",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Heavy limbs, cold legs, exaggerated knee-jerk. Pains from below upward",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Eruption like measles. Perspiration on side not lain upon. Itching all over back",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "at night",
+          "source_id": "boericke-1927"
+        },
+        {
+          "text": "right side",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "generalities": [
+      {
+        "text": "[Benzin] Petroleum ether-not as pure a compound as Benzene (Benzol). It is the same, but with a mixture of hydrocarbons. It seems to exercise a special influence on the nervous system and on the blood. Oxyhemoglobinemia. Physical weakness, cramps, exaggeration of knee jerks, nausea, vomit, dizziness, heaviness and coldness of limbs. Tremor of eyelids and tongue. Benzin, dinitricum--D. N. B.--(The most obvious results of poisoning by skin absorption are changes in the red blood corpuscles and liver degeneration in amblyopia, color-blindness, retinitis. Field of vision contracted. Black urine). Benzin nitricum. Mirbane (Dark, black blood, coagulates with difficulty; venous hyperæmia of the brain and general venous engorgement. Burning taste in mouth. Blue lips, tongue, skin, nails and conjunctivæ. Cold skin, pulse small, weak, breathing slow and irregular, unconsciousness, symptoms of apoplectic coma. Rolling of eyeballs in their vertical axis; pupils dilated. Nystagmus. Respiration very slow, difficult, sighing). Trinitrotoluene (T. N. T), Trotyl-is a high explosive, obtained by nitrating toluene-a product of coal tar distillation. When the skin or hair is exposed to T.N.T by contact a characteristic yellow or tawny-orange stain is produce, which lasts for some weeks. Indicated in graver forms of anæmia (pernicious) and jaundice. Produces fatal toxic jaundice",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Sixth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">BENZOLUM Benzol, C6, H6 (BENZENUM - COAL NAPHTHA) The most striking fact in the proving of Benzol seems to be the influence it had on the circulatory system. It caused a slowing of the pulse stream which in the guinea-pigs brought about the formation of infarcts. In the human provers it resulted in a decrease of the red and increase of white cells (R. F. Rabe, M. D). It ought to be of use in Leucæmia. Eye symptoms striking. Hallucinations-Epileptiform attacks, coma, and anæsthesia.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

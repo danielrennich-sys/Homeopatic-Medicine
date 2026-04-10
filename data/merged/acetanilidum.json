@@ -1,0 +1,47 @@
+{
+  "id": "acetanilidum",
+  "names": {
+    "primary": "ACETANILIDUM",
+    "latin": "ACETANILIDUM",
+    "common": [
+      "Antifebrinum"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Enlarged sensation. Fainting. Moral depravity",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Pallor of optic discs, contracted visual field and shrinking retinal vessel; mydriasis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Weak, irregular, with blue mucous membranes, albuminuria, œdema of feet and ankles",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Used as a sedative and antipyretic for various forms of headache and neuralgia in doses of one to three grains. For the homeopathic indications use the third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ACETANILIDUM Antifebrinum Depresses heart, respiration and blood pressure, lowers temperature. Cyanosis and collapse. Increased susceptibility to cold. Destroys red blood corpuscles; pallor.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

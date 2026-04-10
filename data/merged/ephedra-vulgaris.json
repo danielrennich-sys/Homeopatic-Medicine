@@ -1,0 +1,87 @@
+{
+  "id": "ephedra-vulgaris",
+  "names": {
+    "primary": "Ephedra Vulgaris",
+    "latin": "Ephedra Vulgaris",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Ephedra has been proved in Russia by Dr. B. H. Mouravow (Universal Homœopathic Annual, p. 56). It produced symptoms when twenty drops of a strong alcoholic extract were taken five times a day; fifteen drops four times a day having been taken without apparent effect. Extreme apathy was produced, stiff-neck, and backward pulling of whole body on turning the head. There was also starting of the eyes from the orbits as if pushed out. This suggested exophthalmic goître to Mouravow, who considered that the drug acted on the ganglions of the sympathetic nerve, and caused congestion of the spinal cord.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Exophthalmic goître; Headache",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Towards evening heaviness in all the limbs. Numbness of entire l. arm, with l. side hemicrania. General weakness; from early morning great fatigue.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Ferr., Iod., Lycopus v., Spong., Thyroid. (exophthalmos)."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Extreme apathy.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Violent headache, nausea, general weakness; slow pulse. L. side hemicrania with numbness of entire l. arm.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Heavy eyes, starting from their orbits, as if pushed out, pain in the eye (after second dose on third day. On fifth day exophthalmos was increased).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Dull pain in region of spleen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "From early morning great fatigue, retention of the urine (fourth day).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Abatement of pulse (from 68 to 62 in one case), notwith standing increased rapidity of action of heart. Strong heart-beat with weakening of pulse; respiration accelerated.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Stiffness of neck (with exophthalmos). Stiffness of neck and backward pulling of all the body on turning head and a dull pain in region of spleen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Longing for sleep. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

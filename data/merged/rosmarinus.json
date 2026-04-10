@@ -1,0 +1,103 @@
+{
+  "id": "rosmarinus",
+  "names": {
+    "primary": "Rosmarinus",
+    "latin": "Rosmarinus",
+    "common": [
+      "Rosemary"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T ROSMARINUS. Rosmarinus officinalis, Linn. Natural order , Labiatæ. Common names , Rosemary, Rosmarin. Preparation , Tincture of the whole plant. Authorities. 1 , Thierfelder, Summarium, 1842 (S. J., 35, 31), a pregnant woman took for eight days a strong infusion; 2 , Knorre, A. H. Z., 6, 37, fragmentary symptoms. MIND. ► Anxiety, [1] . HEAD. ► Vertigo, [1] . ► Headache, [1] . ► Heaviness and dulness in the head, [2] . SEXUAL ORGANS. ► Violent pains, followed by uterine hæmorrhage and miscarriage, succeeded by faintness spasms in the chest, cold hands and feet, small, rapid, irregular pulse, [1] . ► Menses four days too early, [2] . RESPIRATORY ORGANS. ► Oppression of breath, [1] . SLEEP. ► Overpowering sleepiness, with yawning, [2] . ► Sleeplessness, [1] . FEVER. [10.] ► Chill over the whole body, with icy coldness of the legs, without thirst and no subsequent heat, lasting several hours, [2] . ► Coldness, so that she could not leave the bed, [1] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Abortion; Baldness; Menses, too early",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Oppression of breathing. Spasms in chest.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The most violent of the symptoms of Rosm. were observed on a woman who took a strong infusion for eight days, with the result that miscarriage occurred. In another woman it brought on the menses four days too soon. Chilliness predominated, the chill not being followed by heat. Oil of Rosemary has an ancient reputation as a remedy for baldness, headache, and flagging mental powers. Hence it has been called \"Herb of Memory.\" This Shakespere alludes to when he makes Ophelia say, \"There's Rosemary, that's for remembrance.\"",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Hedeo., Menth. pul."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Anxiety. (Memory deficient.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo. Headache. Heaviness and dulness of head. Weight and tension round head. (Baldness.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Violent pains followed by uterine hæmorrhage and miscarriage, succeeded by faintness, spasms of chest, cold hands and feet, small, rapid, irregular pulse. Menses four days too early.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Overpowering sleepiness with yawning. Sleeplessness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Coldness so that she could not leave the bed. Chill over whole body, legs icy cold, no thirst and no subsequent heat. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Preparations: Spirit of Rosemary Related entries: Oleum Rosmarini (U. S. P.)—Oil of Rosemary",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The tops and leaves of Rosmarinus officinalis, Linné. Nat. Ord.—Labiatae. COMMON NAME AND SYNONYMS: Rosemary; Folia rosmarini, Folia roris marini, Folia anthos. ILLUSTRATION: Bentley and Trimen, Med. Plants, 207.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—Rosemary is an erect, perennial, evergreen shrub, 2 to 4 feet high, with numerous branches of an ash color, and densely leafy. The leaves are sessile, opposite, linear, over an inch in length, and about 2 lines broad, entire, obtuse at the summit, revolute at the margins, of a firm consistence, dark-green and shining above, and downy and sometimes whitish beneath. The flowers are few, bright-blue or white, subsessile, and borne in short, opposite, axillary, and terminal racemes; the bracts are shorter than the calyx; the calyx purplish, campanulate, and villose; the corolla not ringed in the inside, somewhat inflated in the throat, with 2 equal lips, the upper of which is erect and emarginate, the lower trifid, with the middle lobe very large, concave, and hanging down. Stamens 2; filaments minutely toothed near the base; anthers linear, with 2 divaricating, confluent cells. Upper lobe of style very short. Seeds 4, oblong, naked at the base of the calyx (L.—W.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History.—Rosemary is a native of the countries surrounding the Mediterranean, and is cultivated in nearly every garden for its beauty and fragrance, flowering in April and May. The parts used in medicine are the flowering tops, which have a powerful, diffusive, camphoraceous odor, and an aromatic, bitter taste; they yield their properties to water or spirits, but more effectually to alcohol. The leaves are likewise used. Age and drying impair their odor and virtues, which are due to a volatile oil (Oleum Rosmarini), and which may be procured by distillation. On standing for some time, the oil deposits crystals of stearopten (rosemary camphor). Tannin, a bitter body, and resin are also constituents.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Rosemary is stimulant, antispasmodic, and emmenagogue; seldom used in this country, except as a perfume for ointments, liniments, embrocations, etc. The oil is principally employed. Dose, internally, from 3 to 6 drops.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900",
+      "kings-american-1898"
+    ]
+  }
+}

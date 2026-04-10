@@ -1,0 +1,87 @@
+{
+  "id": "nothera",
+  "names": {
+    "primary": "Œnothera",
+    "latin": "Œnothera",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "There is a proving recorded by T. Riker Nute on a woman who took on two occasions─(1) a teaspoonful, (2) 30 drops of the liquid extract for the relief of a wearisome feeling of mental and physical oppression, and on each occasion, notably the first, distinct poisoning symptoms were developed. A kind of general paralysis of mental and bodily forces was induced, and at the same time copious and easy evacuations of bowels and bladder, followed by relief of the general symptoms. It is in effortless diarrhœa that Œnoth. has been most successfully used in homœopathic practice. Farrington gives the indications: Exhausting, watery diarrhœa without effort; with nervous exhaustion; even incipient hydrocephaloid. Hurd (H. R., x. 419) cured a man, 65, who had \"severe pains in his stomach after meals for over two years\" with 25-drop doses of the tincture. General numbness; general warm sweat with urgent desire to micturate; > after evacuation of bowels and bladder, are noteworthy symptoms.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Cholera infantum; Diarrhœa; Hydrocephaloid",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Cramps in muscles of extremities. Weakness of extremities. Violent vertigo preventing movement; numbness and prickling of entire surface, nearly driving her mad; severe rigors and cramps; desire to be covered, rubbed, and have a warm drink. Dizziness with weakness in limbs, fluttering about heart, with numbness and prickling on skin, griping under umbilicus, all passes off with free action of bowels and copious discharge of urine.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: In diarrhœa, Ipec., Gnaphal, Nuphar. In > from copious urination, Ign., Gels. In > after stool, Bry., Colch., Colo., Crot., Oxyt., Rhus, Spi., Sul. Paralytic symptoms, Gels."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Half-unconscious; unable to think, raise head, move or speak.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Light-headed. Violent vertigo with swimming sensation. Dizziness with weakness of limbs and fluttering about heart, > by free action of bowels and copious discharge of urine.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Unable to raise eyelids.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Cramps in muscles of extremities and abdomen, with a wringing, twisting pain beneath umbilicus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Pressing desire to evacuate bowels, and a copious, consistent, and apparently natural stool promptly evacuated, without least pain or muscular effort; three hours later another, and still another about midnight.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "With the appearance of a warm perspiration over entire surface came an urgent desire to micturate; passed without effort a large quantity of light-coloured, bland, unirritating urine; an hour later again passed water freely; and again 9 p.m., and after midnight.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Numbness and prickling of entire surface.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Rigors. Warm sweat on entire surface with urgent desire to micturate. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

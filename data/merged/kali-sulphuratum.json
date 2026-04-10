@@ -1,0 +1,75 @@
+{
+  "id": "kali-sulphuratum",
+  "names": {
+    "primary": "Kali Sulphuratum",
+    "latin": "Kali Sulphuratum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Observations have been made on two persons with large doses, and violent effects ensued, which are recorded by Allen. The violence of the gastric intestinal irritation was the chief feature. An accompanying redness of the face may prove a guiding symptom. The vomiting was at first ineffectual, and afterwards convulsive. Great chilliness at first, followed tardily by fever and sweat with burning skin and very strong and rapid pulse.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Gastric fever; Gastritis; Hiccough. Œsophagitis",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Copious stools. Suffocation; could not expand chest. Great weakness and paleness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Hep. s. calc."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Stupid and unconscious, with small, contracted, irregular pulse, deathlike paleness, and sunken face.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Redness of face gradually came on, at first momentary and partial, afterwards persistent and general, with symptoms of violent inflammation of stomach.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Great heat in mouth, throat, œsophagus, and stomach. Throat and fauces dry and reddish brown, with burning pain. Constriction in throat. Œsophagus painful to pressure on neck.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Thirst. Hiccough. Constant inclination to vomit without being able; followed by vomiting of contents of stomach; afterwards frothy substances streaked with blood; afterwards clots of blood, even purulent pieces of membrane 2 1/2 inches long seemingly detached from walls of stomach. Constant efforts to evacuate, up and down. Convulsive vomiting. Violent pain and heat (burning) in stomach; and round navel.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pulse irregular, very small, almost suppressed, slower than natural.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Skin and limbs extremely cold. Fever developed only after several hours, when patient became restless with all the symptoms of inflammation of the bowels. Violent fever, soon. General profuse sweat, burning skin, very strong pulse. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

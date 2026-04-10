@@ -1,0 +1,30 @@
+{
+  "id": "plumbum-iodatum",
+  "names": {
+    "primary": "Plumbum Iodatum",
+    "latin": "Plumbum Iodatum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Plumb. iod. is used in old-school practice as an external application in cases of enlarged glands, chronic ulcers, and porrigo capitis. It has also been given internally for enlarged glands and chronic enlargement of the spleen. Hansen mentions \"arterio-sclerosis; atrophiæ; pellagra; paralyses,\" as conditions relieved by it. A combination of Plumb. and Iod. indications will be the chief guide. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Arterio-sclerosis; Atrophiæ; Crusta lactea; Glands, enlarged; Paralysis; Pellagra; Scrofula; Spleen, enlargement of; Tonsils enlarged; Ulcers",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

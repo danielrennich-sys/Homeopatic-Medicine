@@ -1,0 +1,44 @@
+{
+  "id": "fucus-helminthocorton",
+  "names": {
+    "primary": "Fucus helminthocorton (KÜTZ.)",
+    "latin": "Fucus helminthocorton (KÜTZ.)",
+    "common": [
+      "Moss, Corsican"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Mediterranean coast, specially Corsica.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The drug is obtained from twenty to thirty species of Algae, chiefly Sphaerococcus helminthocorton . It is cartilaginous, filiform repeatedly forked, colour varies from white to brown, it has a nauseous taste, bitter and salt, odour rather pleasant.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "In Europe as an anthelmintic and febrifuge, it acts very successfully on lumbricoid intestinal worms. A decoction is made of it from 4 to 6 drachms to the pint. Dose, a wineglassful three times daily.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Ten to 60 grains in syrup or in infusion.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

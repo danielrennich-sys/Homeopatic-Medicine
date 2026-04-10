@@ -1,0 +1,29 @@
+{
+  "id": "fuchsinum",
+  "names": {
+    "primary": "FUCHSINUM",
+    "latin": "FUCHSINUM",
+    "common": [
+      "A Coloring Substance Used in Adulteration of Wine (FUCHSINA - MAGENTA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "6x to 30th potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">FUCHSINUM A Coloring Substance Used in Adulteration of Wine (FUCHSINA - MAGENTA) Produces redness of ears, deep red discoloration of mouth swollen gums, with burning and tendency to salivation; deep red urine, albuminous, and light red, profuse diarrhœa, with abdominal pains. Cortical substance of kidneys degenerated. Useful in cortical nephritis with albuminuria.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

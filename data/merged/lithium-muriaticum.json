@@ -1,0 +1,98 @@
+{
+  "id": "lithium-muriaticum",
+  "names": {
+    "primary": "Lithium Muriaticum",
+    "latin": "Lithium Muriaticum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T LITHIUM MURIATICUM. Authority. C. Hering, M.D., Hom. Vjs., vol. xiv, 1863, p. 97. Diluted Muriatic acid was saturated with the caustic and Carbonate of lithium and evaporated. In the morning a drop was placed upon the tongue. It had a salt taste, but different from common salt. The upper surface of the tongue became numb, as if fat were on it. After three to five minutes, a throbbing pain in the left humerus, extending upward from the middle, at different intervals, as if something were dropping or slipping outward. Painful dulness in the right side of the head, though not sharply defined, also in the upper part of the left side, with heat of the face, worse in the upper part and right side. Painful dulness in the left lower back teeth. Unusual weariness after exerting the arms; burning in the arms. The fatty-salt taste lasted more than half an hour. After an hour, throbbing pain in the right ankle. After two hours and a half, pain in the heart, in the upper and inner part. The same taste in the mouth. Frequent heat in the face. (C. Hering). Dr. Gobrwisch took 1/4 drop of Lithium muriate, 3d, with sugar of milk. After about two hours he had several slight sensations, for example, feeling of warmth in the pit of the stomach, more towards the left side; pain in the middle of the vertex; pain in the forehead above the right eye; prickling in the anus; dull pain through the whole head; frequent eructations of gas. Uprising of something acid and stinging in the throat, frequently; feeling as after a purge, as though diarrha would ensue; dull pressive pain between the shoulders, and lower down, on each side of the spine between the shoulders and small of the back; constant pain in the back. Hot, burning uprising in the throat and pit of the stomach, like heartburn. Pain in the lower hollow teeth of the left side. On the second day, in the morning, feeling of heat and weakness in the stomach, as after a purge. Pain in the back in only felt on remaining seated in one position for a long time. On the third day spasmodic twitching of the right upper lid. Difficult breathing through the nose, as in catarrh. Uprisings of food and sour water. An aching between the shoulders extending through to the chest. Sharp but not violent pain in the lower portion of the left side of the chest, transient, but frequently recurring. The same day, in the afternoon, dull pain in the same back teeth, at the same time as yesterday. Tip of the nose red, sore, and somewhat swollen, with a rather sensitive pain; this, however, disappeared on the second day without suppurating. R., the same man who proved Lithium carb. with such effect, took Lithium mur. 2d in solution, without noticing anything except increased appetite. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Heartburn; Heart, pains in; Nose, sore; Tongue, numb",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Trembling pain in l. humerus, extending upward from middle, at different intervals, as if something were dropping or slipping outward. Throbbing in r. ankle. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Hering, who proved Li. c., proved also this salt. He put one drop on his tongue. It had a salt taste, but different from common salt; a fatty-salt taste. The tongue became numb as if fat were on it. Pains in the head, back teeth, and heart. Gohrwisch, who took the 3rd dilution, had pains in heart region and notably: Hot, burning uprising in the throat and pit of stomach like heartburn. He also had pains in teeth. The tip of the nose was red, sore, and somewhat swollen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Li. carb."
+      ]
+    },
+    "head": [
+      {
+        "text": "Painful dulness r. side of head; also l.; with heat of face. Pain in middle of vertex. Pain in forehead above r. eye. Dull pain through whole head.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Spasmodic twitching of r. upper lid.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Difficult breathing through nose as in catarrh. Tip of nose red, sore, and somewhat swollen, with a rather sensitive pain, disappeared without suppurating.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Frequent heat in face.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Painful dulness in l. lower back teeth. Pains in hollow teeth l. side. Salty taste but not like common salt. Upper surface of tongue numb, as if fat were on it. Uprising of something acid and stringy in throat, frequently.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Increased appetite. Uprising of food and sour water. Warmth in stomach, more l. side. Frequent eructations. Hot, burning uprising in throat and pit of stomach like heartburn. Feeling of heat and weakness of stomach, as after a purge, as though diarrhœa would ensue.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Prickling in anus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Sharp but not violent pain in lower l. chest, transient, frequently recurring. Pain in upper and inner part of heart.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Dull pressure from between shoulders and lower down on each side of spine between shoulders and small of back. Constant pain in back; after remaining seated long in one position. Aching between shoulders extending through to chest.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

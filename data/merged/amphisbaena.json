@@ -1,0 +1,99 @@
+{
+  "id": "amphisbaena",
+  "names": {
+    "primary": "Amphisbæna",
+    "latin": "Amphisbæna",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Amphisbæna is a snake-like lizard, without limbs, and progressing (as its name implies) either backwards or forwards. Mure is the authority for its effects. It is prepared from the jaw as well as the poison of the animal, and has symptoms indicating action on bone like that of Sil. It acts most markedly on the jaws, causing swelling and pain, especially in the right jaw, by air and dampness. Many kinds of severe headaches are complained of, one with a sensation \"as if the feet were in the head.\" Lancinating pains are frequent. Eruptions of vesicles and pimples. It is a right-side medicine. There is generally from motion.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Constipation; Cramps; Headache; Hernia; Jaw, pains in; Toothache",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Breaking out of little pimples, esp. on forearm. Painful swelling of arm. Painless drawing up of the legs. Cramp in l. leg; it remains behind in walking, as if paralysed.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Heloderma, Silica."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Ennui. Sadness and lassitude in the morning. Impatience.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo. Tendency to fall to one side and then to the other; when turning round. Horrible headache, with sensation as if the feet were in the brain. Beating as if from hailstones r. side of forehead. Lancination and pain all through r. side of head. Sweat about head.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Constriction of r. eye, as if strung together with a cord. Constant twitching of upper eyelids, esp. l.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Pain in meatus auditorius, as if air were rushing in.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Painful large pimple l. side of upper lip, suppurating. Pains in r. lower jaw with swelling by air and dampness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Teeth feel elongated and set on edge, esp. r. lower molars. Toothache afternoon and evening. Chewing is painful, but not contact with liquids.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Chilliness and pains at epigastrium. Protrusion of umbilical hernia. Tearing pain at navel; lancination as from stiletto. Suppuration of inguinal hernia. Hernia is painful and air is felt in it.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Constipation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Violent pain in whole of vertebral column, walking, moving arms, or stooping.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Wakes at midnight for ten consecutive nights. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

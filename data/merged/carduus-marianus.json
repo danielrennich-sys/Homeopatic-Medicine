@@ -1,0 +1,411 @@
+{
+  "id": "carduus-marianus",
+  "names": {
+    "primary": "Carduus Marianus",
+    "latin": "Carduus Marianus",
+    "common": [
+      "St. Mary's Thistle"
+    ],
+    "synonyms": [
+      "CARDUUS MARIANUS"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T CARDUUS MARIANUS. C. marianus, Gærtn. Nat. order , Compositæ. (Old generic name, Silybum.) Preparation , Tincture of the seeds. Authority. Reil, proving with 5 to 50 drops of the tincture, and with repeated doses of an infusion of the seeds, Hom. Vierteljahrschrift, 3, 453 (translated in N. Am. J. of Hom., 3, 379). HEAD. ► Slight dulness of the head. ► Dulness of the head , the whole day. ► Occasionally transitory headache in the forehead and temples. ► A dull headache in the forehead might have been referred to some catarrhal affection, but no catarrh followed (fourteenth day). MOUTH. ► Tongue coated white in the middle; red at the tip and edges. ► Accumulation of saliva in the mouth, after taking coffee and milk, half an hour after the first dose. ► Bitterness in the mouth after the dose. STOMACH. ► Appetite small . ► Loss of appetite. [10.] ► Empty eructations, after food taken against inclination. ► Nausea and inclination to vomit. ► Some nausea immediately after the morning dose, repeated after every subsequent one, and ending in a feeling of inflation in the stomach; a horseback ride of three hours in the afternoon increased the inflated feeling of the abdomen. ► Very decided nausea after the first dose, which compelled me to take the remaining three each in a wineglassful of water, which moderated the symptom very much. ► Great nausea, but no vomiting. ► Violent nausea (very soon after). ► Such severe and persistent nausea that I was obliged to produce vomiting by means of warm water and tickling the fauces. ► Painful retching and vomiting of acid, green fluid (after ten minutes). ► Increased sensation of uneasiness in the epigastric region, but no pain. ► Pains in the stomach, lasting two hours, aggravated by bread and milk; meat-broth sat well at noon. [20.] ► Painful griping in the stomach and cutting in the bowels, here and there, with rumbling. ABDOMEN. ► The feeling of fulness in the hypochondrium became less after stool, but was still perceptible enough, obliging me to draw a long breath. ► The feeling of inflation in the abdomen was so strong, especially in the right side, that I expected to discover a great enlargement of the liver by percussion, but it was not so; but pressure was painful over the whole hepatic region. RECTUM AND ANUS. ► No stool , but inclination to one. STOOL. ► Stool at 8 A.M., of moderate size, pappy, loamy, destitute of bilious coloring (twenty-second day). ► The morning evacuation was harder than usual. ► A hard stool at 9 P.M.; formerly it took place between 7 and 8 A.M., and was rather pappy. ► At 10 A.M. a hard scanty stool; at 11 a copious pappy one, but little colored by bile, more of a chocolate color, preceded by violent rumbling, with pains in the abdomen. ► A very hard evacuation at a quarter to 9; a similar one, unsatisfactory, at a quarter before 7 P.M. ► A very hard, unsatisfactory, difficult evacuation of brown knotty fæces ; immediately after dinner. [30.] ► Unsatisfactory, hard, loamy stool at 6 P.M. ► No stool (seventeenth, nineteenth, twentieth, and twenty-third days). URINARY ORGANS. ► Urine scanty, brownish; two experiments, both with syrup and sulphuric and nitric acids, indicated the presence of the coloring matter of the bile in the urine. ► Urine cloudy, without sediment, golden-yellow, acid . ► Urine wheyey, yellowish-brown, diminished in quantity , acid (twentieth day); the next day the same, but after standing from six to eight hours, it deposited a sediment, consisting chiefly of common salt and lime; experiments with solution of sugar and sulphuric acid gave traces of the coloring matter of the bile in the urine . RESPIRATORY ORGANS. ► Frequent urging to deep breathing, followed by painful sensations of an undefined sort in the abdomen. CHEST. ► Every sudden and violent movement of the body was painful, both in the chest and abdomen. GENERALITIES. ► Great debility all day. SLEEP AND DREAMS. ► Restless at night, with frequent waking; lying on the back produced nightmare, which woke me twice. ► Restless, dreamy night. CONDITIONS. ► Aggravation. ► ( Bread and milk ), Pains in stomach. ► ( After coffee with milk ), Accumulation of saliva. ► ( Lying on back ), Produced nightmare. ► ( Riding on horseback ), Inflated feeling of abdomen. ► Amelioration. ► ( After stool ), Feeling of inflation of abdomen. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Bronchitis; Dropsy; Epistaxis; Fever; Gall-stones; Hæmoptysis; Hæmorrhages; Hæmorrhoids; Influenza; Intermittents; Jaundice; Liver, affections of; Metrorrhagia; Neuralgia; Phthisis; Pleurisy; Rheumatism; Sciatica; Spleen, affections of; Typhlitis; Varicose veins",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Irritation in posterior part of larynx causing cough. Expectoration: pure blood; mucus mixed with blood. Violent rheumatic pains in r. deltoid; in r. arm. Drawing pain in muscles covering l. radius, alternating with pain in muscles of r. side. Cramp-like pain in muscles of arms; hands; fingers; calves, and feet. Pain in hip-joints through buttocks, causing difficulty in rising, from stooping. Rheumatism and spasm of extremities. Pain: in l. tibia; dorsum of foot; muscles of sole r. foot; lower part r. heel. Varicose ulcers.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "General feeling of discomfort, lassitude and malaise. Great fatigue after eating, and fatigue with frequent yawning. Left : parietal bone, pain ; eyelids, difficult to open ; nostril, watery discharge ; tension, lying on side ; pressure of flatus, under ribs ; lobe of liver, swelling, sensitiveness ; small intestine, pressure ; chest, drawing pain ; in chest, oppression ; in side, stitches ; pectoral region, drawing pain ; in neck and shoulder blade, pressing pain ; upper arm, tearing ; forearm, burning pain ; in radius, drawing pain ; index finger, burning pain ; fourth finger, rheumatic drawing ; in fingers, cramplike pain ; in knee, drawing pain ; in tibia, paralyzed pain. Right : in eye, pain ; auricle, pain ; nostril, burning ; under margin of ribs, pressure of flatus ; in hypochondria, dull pain ; abdominal wall, drawing pain ; abdomen, near hip, pains ; in lumbar region, pain ; side of abdomen, drawing sensation ; nipple, stitching pain ; pectoral region, drawing pain ; in neck, pressure, pressing pain ; side of back, drawing pain ; shoulder blade, drawing pain ; shoulder joint, pans ; in deltoid, violent pain ; in arm, violent pains ; in radius, drawing pain ; muscles of hand, cramp-like drawing ; index finger, rheumatic drawing ; fourth finger, drawing pain ; in fingers, cramplike pain ; in thigh, drawing pain ; in dorsum of foot, pain ; in heel, pain. From right to left : crawling in liver ; pain in abdominal wall. Left to right : drawing pain through pit of stomach ; stitches in nipples. As if eyeballs were pressed against side of orbits ; as though palate was covered with fat ; as of a band around knees. Stitches : in scrobiculum ; in stomach ; hepatic region ; region of spleen ; hypochondrium ; small intestine ; near sixth rib, left side ; over right nipple ; in abdomen ; in r. side. Cutting : in bowels. Colicky pains : in stomach. Griping : in stomach ; in intestines. Tearing : left upper arm ; in left shoulder blade. Rheumatic pains : in shoulder ; fourth finger, left hand ; r. index finger ; in right deltoid. Drawing pain : in scalp of occiput ; in teeth ; through pit of stomach ; hepatic region ; about umbilicus ; through r. inguinal region ; in bladder ; in inguinal region ; in testicles ; in vagina ; margin of left rib ; in hypogastric region ; in chest ; region of heart ; through right pectoral region ; in entire back ; in right upper arm ; in superficial nerves about knee ; lower thigh ; right thigh ; in skin of outer left knee joint ; in muscles of left radius ; inner side of right hand ; fingers ; in muscles covering radius. Burning : in eyeballs ; edges of lids ; in nostrils ; in œsophagus ; above umbilicus ; pain in small intestine ; in rectum and anus ; in meatus, after urination ; in bladder ; l. shoulder blade ; in skin ; left index finger ; pain in urethra ; in forearm. Dull pain : in right hypochondrium. Pressing pain : inner surface of skull ; in occiput ; in stomach ; in abdomen ; pain in speaking ; small of back. Pressure : in forehead ; in eyeballs ; in eyelids ; hepatic region ; under ribs ; small intestine ; on bladder ; in nape of neck ; in back, below shoulder blades ; in wrist joints ; in glans ; in right pectoral muscle. Tensive pressure : in scalp ; pain in liver. Bruised feeling : in arms ; in buttocks and legs. Paralyzing pain : left tibia. Pain : in stomach ; in auricle ; in urethra ; in right lumbar region ; in chest ; in shoulder joint ; in hollow of knees ; violent in abdomen ; in hip joints ; in dorsum of r. foot ; right heel ; in left parietal bone ; in right eye ; in orbits. Roughness : in palate. Scraping : in throat. Fulness : of head ; in hypochondria. Swelling : in larynx ; sensation of in female urinary organs. Heaviness : of head and eyelids. Emptiness : in stomach. Constriction : over eyebrows. Band : around calves. Cramplike : muscles left radius ; inner side right hand ; in fingers ; pain in calves ; right foot. Motion : in intestines. Tickling : at edge of nostrils. Crawling : in posterior side of liver. Coldness : in knees ; in toes and soles. Uncomfortable sensation : of epigastric region. Warmth : in small intestines. Heat : in face ; about umbilicus. Dryness : in palate and lips ; in larynx. Itching : in anus ; in front of heel. Portal hyperemia ; catarrh of biliary ducts ; tardy peristaltic movements in large intestines ; hemorrhoids. Dropsical diseases, depending on organic affections of the liver ; frequently of long standing. Passive hemorrhages, connected with diseased liver or spleen. TOUCH. PASSIVE MOTION. INJURIES. [45] [Card. m.]. Pressure : hepatic region, sensitive ; < rheumatic pain in stomach. Riding : fatigue ; pressing pain in abdomen. Woman who was exhausted by much suffering and repeated hemorrhages from womb after abortion, with frequent attacks of bilious colic. θ Typhlitis stercoralis.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Despondency; forgetful, apathetic",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Forgets what he has just intended to do. Disposition to become angry. Melancholy with liver affections. Joyless; apathetic.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Forgets what he has just intended to do. Sadness with tendency to weep. Fulness in head with disposition to become angry.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "head": [
+      {
+        "text": "Contractive feeling above eyebrows. Dull heavy, stupid, with foul tongue. Vertigo, with tendency to fall forward. Burning and pressure in eyes. Nose-bleed",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Great giddiness, with tendency to fall forward, > by epistaxis. Fulness in head with dull headache, esp. in forehead or temples, confusion, vertigo. Pressure in forehead, over eye, in occiput. Constriction around skull; over eyebrows. Pain in l. parietal bone.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sensation of fulness and heaviness in head. Pressing pain on inner surface of skull, in region of coronal suture. Pressure in forehead, most marked directly over eyes. Pressing pain in occiput. Transient headache in forehead and temples. Pressive headache, as in incipient coryza. Headache shortly before meals, disappearing after eating. Tensive pressure in scalp, as if constricted around skull. Fulness of head, with tensive pain in scalp, over left parietal bone. Feeling of constriction over eyebrows. Pain in left parietal bone. Drawing pain in scalp of occiput. Great sensitiveness of head to cold.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Taste bitter. Aversion to salt meat. Appetite small; tongue furred; nausea; retching; vomiting of green, acid fluid. Stitches in left side of stomach, near spleen (Ceanoth). Gallstone disease with enlarged liver",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pain in region of liver. Left lobe very sensitive. Fullness and soreness, with moist skin. Constipation; stools hard, difficult, knotty; alternates with diarrhœa. Stools bright yellow. Swelling of gall bladder with painful tenderness. Hyperæmia of liver, with jaundice. Cirrhosis, with dropsy",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Intense nausea, painful retching and vomiting of some greenish fluid. Stitches in scrobiculum. Contents of stomach and intestines sour. Pressure in stomach; with eructation of air; at night on awakening; lasting all day; coming and disappearing during day. Sensation of emptiness with headache before dinner, goes off after dinner. Burning as of acidity with transient pressure. Stitches in l. of stomach (spleen?) on inspiration. Fulness in hypochondria necessitating deep inspiration. Liver region sensitive to pressure. Pressure, tension, and stitches in liver on lying on l. side. Stitches in spleen on inspiration and on stooping. Swelling, sensitiveness, and induration of l. lobe of liver, causing by compression respiratory embarrassment, and cough with thick expectoration. Liver disease affecting lungs and causing hæmoptysis. Drawing pain between umbilicus and pit of stomach, coming and going, in peritoneum of abdominal wall, from r. to l., followed by pain and sensation of heat in spots as large as a hen's egg between umbilicus and inguinal region to l. Sensation of motion in intestines on expiration, and extending breadth of a hand around umbilicus. Distension; rumbling; cutting.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Card. m.]. Smoking, though usually repugnant in evening, is agreeable. Want of appetite. Voracity. (In sick :) Sour eructations. Empty eructations, after food taken with aversion. Nausea, with collection of water in mouth. Continual nausea with desire to vomit. Intense nausea, painful retching and vomiting of sour, greenish fluid. Stitches in scrobiculum. Pressing pains at pit of stomach. Drawing pains from left to right through pit of stomach. Contents of stomach and intestines sour. θ Epidemic affection. Pain in stomach, lasting for two hours, preceded by vomiting. Pressure in stomach : with eructation of air ; at night awakening ; lasting all day ; coming and disappearing during day. Sensation of emptiness in stomach, as before meals. Burning in stomach, as of acidity, with transient pressure in stomach. Stitches in left of stomach, < on inspiration. Uncomfortable sensation in epigastrium region. Painful griping in stomach. Colicky pains in stomach, with waterbrash. Hematemesis ; cardialgia ; vomiting of pregnancy ; melena. Feeling of fulness in hypochondria, necessitating deep inspiration. Hepatic region sensitive to pressure. Pressure, drawing pain and stitches in hepatic region. Sensation of tension and pressure in liver, on lying on left side. Crawling sensation, like passage of a small body size of a pea through a narrow canal, on posterior side of liver from right to left extending to pit of stomach, on a level with border of ribs ; repeated three times after a pause of one minute, and lasting three seconds each time. Feeling of pressure as of flatus, under margin of ribs to left, lasting ten minutes, then to right, then to right posteriorly, finally posteriorly to left. Stitching pains in region of spleen, especially on inspiration and stooping. Liver complaint ; icterus ; gall stones. Plethora in portal circulation ; hyperemia of liver ; catarrh of gall passages ; sluggish peristalsis in colon. Swelling, sensitiveness and induration of left lobe of liver ; causing, by compression, respiratory embarrassment and cough with thick expectoration. Dull pain in right hypochondrium, from time to time, with stitches ; short, dry cough ; difficult breathing ; bitter taste and yellowish complexion ; subacute fever. θ Liver complaint. The diseased liver has either already implicated the lungs, showing itself by hæmoptysis, as in simple congestion, or as inflammation of liver and lungs ; vomiting of blood. Typhlitis. Painful sensation of an undefined character in abdomen, necessitating deep inspiration, increased by vigorous movements of body. Drawing pain between umbilicus and pit of stomach, coming and going, in peritoneum of abdominal wall, from right to left, followed by pain, with sensation of heat in a sport as large as a hen's egg, between umbilicus and inguinal region to left. Violent pain in right side of abdomen, < by pressure, continuing uniform until sleep sets in. Pressing pain in abdomen on right side, between margin of ribs and hip, while riding in a carriage, lasting for one hour. Drawing pain in hypogastric region. Pulsation in abdomen. Awakens with pains in abdomen, near right hip bone. Stitching pain in abdomen, one hand's breadth to left of r. hip bone. Pressing pain in abdomen to right ; body in a horizontal position, with sensation of heat. Drawing pain extending through right inguinal region. Burning pain in small intestine, in hypogastrium. Sensation of motion in intestines on expiration, extending breadth of a hand around umbilicus. Pressure with sensation of warmth in small intestine, on l. side of abdomen. Stitches in small intestine, > by pressure. Griping pain in intestines, on left side. Painless flatulency in small intestine. Distension of abdomen, especially on right side. Rumbling in small intestine. Violent, painful rumbling in hypogastrium. Cutting pain in bowels, changing from place to place. Passage of flatus, unusually copious. Ascites ; peritonitis puerperalis ; typhlitis stercorales.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Hæmorrhagic piles, prolapse or rectum, burning pain in anus and rectum, hard and knotting, clayey stools. Profuse diarrhœa due to rectal cancer. 10 drops doses (Wapler)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Melæna. Stool very hard and knotty; insufficient. Paste-like, clayey stool. Burning pain in rectum and anus which interferes with sitting. Itching. Hæmorrhoids with acidity of stomach and distension of bowels.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Melena. Stools now hard, now soft. Constipation. Stool hard and knotty. Stool very hard and insufficient. Hard stool, followed after an hour by a soft chocolate colored passage, slightly colored with bile. Paste-like, clayey stool, without bilious coloring. Sluggish stool. After drinking weiss-bier, is taken on the way by the most violent urging to stool. Burning pain in rectum and anus, which interferes with sitting. Itching in anus. Hemorrhoids, with acidity of stomach and distension of bowels. Visceral obstruction.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Cloudy; golden-colored",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Urging to urinate, without necessity of passing water. Pressure on bladder, producing dribbling of urine after unavailing urging to stool. Burning at meatus; in urethra. Urine turbid, golden yellow, and acid. Strangury; calculi.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Urging to urinate, without necessity of passing water. Pressure on bladder, producing dribbling of urine, after unavailing urging to stool. Chilliness on awakening, with vigorous urging, to urinate, with voiding of only two tablespoonfuls of normally colored urine. Burning at meatus after urination. Burning pain in urethra, with sensation as of swelling of neighboring parts, compelling her to arise from sitting posture. Drawing pain : with burning sensation in bladder ; in bladder while sitting. Awakening by pain in urethra, with pain in right lumbar region. Copious passage of urine of a golden yellow color, with drawing sensation in inguinal region. Drawing sensation in right side of abdomen during urination. Copious passage of urine, with deposit of red sediment. Urine turbid, golden yellow, and acid. Urine like whey, yellowish-brown, and diminished in quantity. Urine diminished in quantity ; depositing sediment and containing traces of bilious coloring matter. Urine scanty ; brownish in color, and containing bilious coloring matter. Strangury ; calculi.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Stitching pains in lower right ribs and front; worse, moving, walking, etc. Asthmatic respiration. Pain in chest, going to shoulders, back, loins and abdomen, with urging to urinate",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Drawing pain on margin of l. rib, with pain during breathing. Cough with stitches in sides of chest and bloody sputa. Splenic or hepatic cough. Pains in chest, going to front part, to shoulders, back, loins, and abdomen combined with urging to urinate. Drawing pains through l. pectoral and l. intercostal muscles below axillæ. Stitches in chest; from l. nipple to r. downward. Pains extend over entire front of chest, motion almost impossible. Pain pressure and stitches in region of heart; oppression on deep breathing.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pains in chest going to front part, to shoulders, back, loins and abdomen, combined with urging to urinate. θ Epidemic affection. (In sick :) Drawing pains in left side of chest. Stitches in side, with fever, cough and spitting of blood, in affections of liver, and jaundiced complexion. Drawing pains in chest, left side ; increased by pressure in stomach. Oppression in left side of chest, with pain, especially during deep breathing. Pleuritis ; chronic bronchial catarrh ; phthisis ; hæmoptysis ; asthma. Pain, pressure and stitches in region of heart. Drawing pain in region of heart, with oppression on deep inspiration. Stitching pain at a small spot in neighborhood of sixth rib ; in line of axilla to left, with continued drawing pain ; stitching pain passes gradually to front and interferes with inspiration. Drawing pain on margin left rib, with pain during breathing, especially during expiration. Short stitches behind short ribs of left side. Stitching pain extending breadth of a hand over right nipple, on stooping and on raising right arm. Stitches at margin of lower ribs, between both mammary lines, at each inspiration. Stitches during inspiration, between mammary and axillary lines on sixth rib. Drawing pain through left pectoral muscle, and left intercostal muscles, below axilla. Drawing pain through right pectoral muscle. Pressure in right pectoral muscle. Stitches from left nipple to right and downward, lasting several seconds. Stitches in right side, near the seventh rib, on deep inspiration and on stooping. Continual drawing pain in left side of chest, extending to axilla, with stitching pain in same place near fifth rib on expiration ; < after deep inspiration. Drawing sensation from left side of chest to back. Pains extend over entire front of chest, and are so violent as to make motion of arms, walking and stooping almost impossible.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching on lying down at night. Varicose ulcers (Clematis vitalba). Eruption on lower part of sternum",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Varicose ulcers. Itching on lying down at night.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Itching on lying down at night.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Pain in hip-joint, spreading through buttocks and down thigh; worse from stooping. Difficult rising. Weakness felt in feet, especially after sitting",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Bruised feeling in arms. Pain in shoulder joint on raising right arm. Rheumatic pain in shoulder, radiating from neck. Pressure in shoulders. Drawing pain in right upper arm. Violent pains of a rheumatic character in right deltoid. Pains in right arm are at times so violent that groaning cannot be suppressed. Tearing in left upper arm. Burning pain in skin, on inner side of lower half of left forearm. Drawing pain in muscles covering left radius, alternating with pain in same muscles of right side. Cramplike pain in muscles covering left radius. Pressure in wrist joints. Cramplike, drawing pains, in inner side of right hand, extending to first two joints of fourth finger. Burning pain on outer surface of left index finger, in skin. Rheumatic, drawing sensation, in first joint of fourth finger on left hand. Rheumatic, drawing sensation, in first joint of right index finger. Drawing pain in fourth finger of right hand, on outer side. Cramplike pain in fingers of left hand, lasting for ten minutes. Cramplike pain in second, third and fourth fingers of right hand, on outer side. Pain in hip joints, spreading through buttocks, causing difficulty in arising, < from stooping. Bruised pain in buttocks and legs. (In sick :) Drawing pain in right thigh. Drawing pain in skin on outer side of left knee. Drawing pain in left knee joint. Stiffness in knees while walking, of patella and in tendons of popliteal space, with sensation of lameness in lower parts of thighs, causing unsteady and stumbling gait. Sensation of coldness in knees. Pain in hollow of knees while walking, more especially in left. Sensation while walking as of a band around calves, or of pantaloons being too tight a few inches below knee. Drawing pain : in superficial nerves, below patella on outer side of lower thigh, over a space of four fingers in breadth ; from outer side of knees to outer malleolus ; from inner side of lower thigh to inner malleolus ; from left knee into lower thigh. Paralyzing pain in left tibia. Cramplike pain in calves. Pain in dorsum of right foot. Sudden, cramplike pain in muscles of sole of right foot, flexing the toes ; after disappearance of same, intense itching in front of heel. Pain on lower part of right heel, < from walking. Sensation of coldness in toes and soles. Sciatica. Rheumatism and spasms of the extremities. Varicose ulcers. Œdema of the feet. Lassitude in arms and legs in morning after rising, not > by walking in open air.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture and lower potencies"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CARDUUS MARIANUS St. Mary's Thistle The action of this drug is centered in the liver, and portal system, causing soreness, pain, jaundice. Has specific relation to the vascular system. Abuse of alcoholic beverages, especially beer. Varicose veins and ulcers. Diseases of miners, associated with asthma. Dropsical conditions depending on liver disease, and when due to pelvic congestion and hepatic disease. Disturbs sugar metabolism. Influenza when liver is affected. Debility. Hæmorrhages, especially connected with hepatic disease.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "To Rademacher we are principally indebted for this remedy. It is with him primarily an hepatic: all its manifestations originating in some disorder of the liver. According to Burnett the greatest effect of Card. m. is felt on the spleen and liver, especially the splenic end of the liver. G. F. Laidlaw (H. M., xxxiv. 686) gives a condensed translation of Rademacher's remarks about Card. m.: He regards hæmatemesis as most frequently due to chronic disease of the spleen; less frequently to disease of the liver. People who have long suffered from pains in left hypochondrium are apt to vomit blood, after which they are relieved. Rademacher regards the bleeding as often beneficial, and says it should not be checked too soon. In the treatment of hæmatemesis he says it is best to use a remedy that acts on the epigastric region without irritating the stomach and interfering with the healing of the lesion. Such a remedy he found in a decoction of the seeds of Card. mar. He used to give Opium before, but this, he says, in some people \"produces an array of symptoms similar to those seen in severe hæmorrhage, and might aggravate the condition.\" He adds: \"It is probable that many small hæmorrhages of the stomach escape notice because there is no vomiting, and that it is in this manner that obscure abdominal complaints are sometimes suddenly relieved or cured.\" The liver enlargement of Carduus m. is in the transverse direction (that of Chel. being more vertical). Burnett relates the case of a girl of sixteen who had had severe attacks of vomiting for three months, with pains in abdomen. The vomiting was relieved by remedies symptomatically related, but the pains were not. An examination showed \"liver and spleen both very much enlarged so that they seem to fill the abdomen.\" Card. m. Ø gtt. v. night and morning soon cured the patient. Dudgeon has given an account of Windelband's and Kunze's experience with the remedy. Windelband in treating a woman for chronic swelling of the liver with Card. m., incidentally cured at the same time some \"colossal\" varicose ulcers. This experience led him to cure a large number of like cases with the same remedy. He also cured gastro-intestinal catarrh; epistaxis; metrorrhagia; hæmorrhoidal flux; dependent on portal congestion. Tenderness of the liver; bilious fever; symptoms resembling peritonitis and stitch-in-the-side have been cured by it. Kunze commends the remedy, in addition, in cases of spasm of the stomach, pains contractive, vomiting occurring at the climax, cold rising from precordium to throat; feeling of spasmodic constriction; pressive, shooting pain right side of abdomen spreading to back or shoulder. He has cured with it pains in hepatic and splenic regions accompanied with hæmoptysis, or expectoration of viscid, lumpy mucus, and evening fever. Even phthisis pituitosa has been cured by it. Local muscular rheumatisms dependent on liver disease. E. A. Cook (formerly of Richmond) gave Card. m. 1 to a patient suffering from liver congestion, swollen veins of legs, piles, and headache, with great benefit to all the symptoms. On the second day the patient developed these new symptoms, which she had never had before and which alarmed her greatly: \"Great giddiness with inclination to fall forward; and a sudden and profuse epistaxis followed by great relief.\" A striking cure by Card. m. in \"Miner's Disease\" is recorded by Proell.: An old miner in the gold mines of Bockstein suffered from the so-called \"Bergsucht\" (miner's disease). \"His chief symptoms were: earthy complexion, eyes dim, hardness of hearing, mucous coating on tongue, loss of appetite even for his favourite food and tobacco; great dyspnœa and palpitation on going up-hill; spleen and stomach distended; much wind eructated, constant borborygmus, constipation alternating with diarrhœa, but the latter more frequent, evacuations grey, urine scanty and pale, skin dry as if withered, great weakness, pulse slow and weak. Especially remarkable was the disposition of this man. Formerly cheerful, he is now joyless and apathetic; the most important events he took no notice of, I gave him tinct. Card. mar., a few drops four times a day. I was unable to effect any alteration in his food, drink, or regimen. A month after this he returned looking much better. On asking him how he was, he replied: \"You have made a new man of me.\" Almost all the former symptoms had disappeared and given place to the opposite. His complexion was fresh, his eyes sparkled, he was cheerful, wished to live and work, had good appetite, motions brown, more urine passed, pulse normal. He said he now for the first time knew what it was to be well, and he remained so for many years.\" (Zeit., Berl. Ver.─Amer. Hom., December 15, 1895) Proell also recommends it in affections of liver, spleen, and kidneys caused by abuse of alcoholic beverages and especially beer. He relates two cases: one in a cook who had symptoms of cirrhosis of the liver and general dropsy which made her features unrecognisable; and one in a worker in a brewery who developed dropsy. Both were cured by the tincture. The brewery man, thinking the remedy was intended to be purgative, and thinking the 4 drops prescribed would not be sufficient, took the whole amount, 2 1/2 drachms, at one dose, without markedly bad effects, and was quickly cured. Proell adds that Card. m. is indicated where there is a relaxed state of the mucous membrane of the stomach as evidenced by flatulence and diarrhœa, especially when the stools are clay-coloured. Much fatigue is experienced, after eating; when riding; on awaking; frequently accompanied by yawning. Chilliness is prominent, on awaking; at night; uncovering. Coldness of knees. Head very sensitive to cold. Sweating of forehead and back after meals. Stitches, drawing pressure are prominent among the sensations, also radiating pains; constriction, band-sensation and cramps. Motion most complaints.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. CARDUUS MARIANUS. Natural order.- Compositae. Common name.- St. Mary's Thistle. General Analysis.- Acts upon the liver and portal system, giving rise to jaundice and other bilious disturbances ; and for the removal of similar conditions it has been used with marked results. Characteristic symptoms. Head.- (Carduus marianus) Dullness of the head. Vertigo, with confusion of the mind. Stomach.- (Carduus marianus) Bitter taste ; loss of appetite. Nausea ; eructations ; pyrosis, and distension of the bowels. Abdomen.- (Carduus marianus) Swelling and painfulness of the liver ; feeling of fullness in hepatic region ; jaundice. ( Chel., Merc .) From hyperaemia of liver, or from duodenal catarrh. Stitches in the side. Stool.- (Carduus marianus) Bile deficient in the evacuations. (Calc. c., Hep. s.) Constipation alternating with diarrhoea. ( Ant. crud ., Nux v., Podo.) Urine.- (Carduus marianus) Coloring matter of bile in urine. ( Chel .) Urine scanty, brownish, and turbid. (Ant. tart., Chel.) Fever.- (Carduus marianus) Chills and fever, with above symptoms of jaundice (one marked cure). Therapeutic Range.- (Carduus marianus) Jaundice ; bilious disturbance ; hyperaemia of liver ; duodenal catarrh ; gallstones. Compare.- (Carduus marianus) Cinch., Merc., Phos., Podo. Copyright © Robert Séror 2003",
+        "source_id": "cowperthwaite-textbook-1891"
+      },
+      {
+        "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Carduus Marianus",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This is one of the most important liver remedies, if a homoeopathic author can be excused for the expression. There are many pains, pressing, dragging, drawing, burning; worse from motion.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The patient is very sensitive to cold, and is subject to attacks of bilious vomiting at regular or irregular intervals. The author has cured many violent sick headaches ending in vomiting bile, and cases in the habit of taking calomel, with this remedy (Sang.).",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Dropsical effusions with liver diseases. It is useful in hemorrhages and jaundice, when symptoms agree.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sadness, irritability and weeping. Congestive headaches; pressing pains coming periodically. Fullness and heaviness in the head. Sensitiveness of the scalp to cold air. Pressing outward of the eyeballs.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Yellow sclerotics. Burning in margins of lids. Burning inside of the nose. Epistaxis.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Taste bitter, insipid, or wanting. Foul tongue. No desire for food. Nausea, and vomiting mucus, then bile. Painful retching, and then vomiting sour greenish fluid. Drawing pains from left to right in the stomach. Burning in the stomach. Vomiting blood, very black.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The most important of all the liver symptoms. Dragging pain in right hypochondrium when lying on left side; like Arn., Mag. m., Nat. s. and Ptelea.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pressing, drawing, stitching in right lobe of liver. This remedy establishes a healthy flow of bile, and thereby cures the condition that favors the formation of gall stones. It has many times broken up the tendency to gall stone colic.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Portal congestion and hemorrhoids. Sore, bruised, hard liver; sometimes the left lobe, but oftener the right. When complicated with lung and heart symptoms with expectoration of blood.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Drawing, stitching or burning pains in the abdomen. Distended abdomen. Cutting pains. The stool is black. Stool hard and knotty. Clay-like, bileless stool. Burning in rectum, and anus. Itching piles. Bleeding piles. Inveterate constipation.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Burning in the urethra. Copious high-colored urine, with copious sediment. Turbid urine. Retention of urine.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Menses copious. Menses suppressed. Uterine haemorrhage with portal congestion. Drawing in vagina, and leucorrhoea.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Liver cough, when lower portion of right lung is affected, with chronic congestion of the liver.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pains in the chest with liver pains. Stitching pains. Drawing pains, aggravated by motion.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain in the back under the right scapula (much like Chel. and Aesc.). Drawing pains in the back. Sensitive spine.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Cramping, drawing, pressing, rheumatic pains in the limbs. Violent pain in the right deltoid. Pain in the hip joints, aggravated from rising, stooping, and motion.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Neuralgic pains in the lower limbs, worse from motion. (Edema of the feet. Varicose veins. Ulcers. Rheumatism, and jerking of the muscles. Cramps in the calves and feet. Walking almost impossible.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Gastric and bilious fevers.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "LECTURES ON HOMOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror Carduus Marianus This is one of the most important liver remedies, if a homoeopathic author can be excused for the expression. There are many pains, pressing, dragging, drawing, burning; worse from motion. The patient is very sensitive to cold, and is subject to attacks of bilious vomiting at regular or irregular intervals. The author has cured many violent sick headaches ending in vomiting bile, and cases in the habit of taking calomel, with this remedy ( Sang .). Dropsical effusions with liver diseases. It is useful in hemorrhages and jaundice, when symptoms agree. Sadness, irritability and weeping. Congestive headaches; pressing pains coming periodically. Fullness and heaviness in the head. Sensitiveness of the scalp to cold air. Pressing outward of the eyeballs. Yellow sclerotics. Burning in margins of lids. Burning inside of the nose. Epistaxis. Taste bitter, insipid, or wanting. Foul tongue. No desire for food. Nausea, and vomiting mucus, then bile. Painful retching, and then vomiting sour greenish fluid. Drawing pains from left to right in the stomach. Burning in the stomach. Vomiting blood, very black. The most important of all the liver symptoms. Dragging pain in right hypochondrium when lying on left side; like Arn., Mag. m., Nat. s. and Ptelea. Pressing, drawing, stitching in right lobe of liver. This remedy establishes a healthy flow of bile, and thereby cures the condition that favors the formation of gall stones. It has many times broken up the tendency to gall stone colic. Portal congestion and hemorrhoids. Sore, bruised, hard liver; sometimes the left lobe, but oftener the right. When complicated with lung and heart symptoms with expectoration of blood. Drawing, stitching or burning pains in the abdomen. Distended abdomen. Cutting pains. The stool is black. Stool hard and knotty. Clay-like, bileless stool. Burning in rectum, and anus. Itching piles. Bleeding piles. Inveterate constipation. Burning in the urethra. Copious high-colored urine, with copious sediment. Turbid urine. Retention of urine. Menses copious. Menses suppressed. Uterine haemorrhage with portal congestion. Drawing in vagina, and leucorrhoea. Liver cough, when lower portion of right lung is affected, with chronic congestion of the liver. Pains in the chest with liver pains. Stitching pains. Drawing pains, aggravated by motion. Pain in the back under the right scapula (much like Chel. and Aesc .). Drawing pains in the back. Sensitive spine. Cramping, drawing, pressing, rheumatic pains in the limbs. Violent pain in the right deltoid. Pain in the hip joints, aggravated from rising, stooping, and motion. Neuralgic pains in the lower limbs, worse from motion. (Edema of the feet. Varicose veins. Ulcers. Rheumatism, and jerking of the muscles. Cramps in the calves and feet. Walking almost impossible. Gastric and bilious fevers. Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-mm-1911"
+      },
+      {
+        "text": "Is a so-called liver remedy, and I have seen good results from it in liver troubles, yet I do not know of any special indications for its use. I have known cases of habitual colic from gall stones checked and the further formation of the stones prevented by this remedy. One of them was a very bad case, for which old Dr. Pulte, of Cincinnati, prescribed Carduus. Her daughter inherited the trouble, and I saw her, in consultation with another physician, at one of these terrible attacks of gall stone colic. She could not lie down, but sat in her chair, bent over forward, for forty-eight hours, and during this time she passed two hundred gall stones, very hard and nearly the size and shape of a beech-nut, which were found by washing the fæces. I have a dozen or so now in a little vial in my office. Carduus was also a help to her, but she takes, right along for years at a time, olive oil, thinking that it dissolves the stones or keeps them from forming.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "When other remedies fail for pain in the region of the liver, with dizziness, bad-tasting mouth, jaundiced skin and the usual symptoms called \"bilious\", if I have no special indications for other remedies, I have given Carduus and several time with good results. But, as I said before, I can give no special indications for its use. I can do better for.",
+        "source_id": "nash-leaders-1899"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Bry. (epistaxis, &c.); Chel., Merc., Nux, Pod., Chelone.",
+        "Compare : Bryon., Chelid., Mercur., Nux vom., and Podoph., in hepatic affections, especially jaundice",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "eyes": [
+      {
+        "text": "Burning and pressure in eyeballs and lids. Pressure as if eyeballs were pressed against side of orbits.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Burning and pressure in eyeballs. Pressure in eyeballs as if they were pressed against side of orbits. Pain in right eye. Redness of conjunctiva. Burning sensation in edges of upper and lower lids. Pressive, burning sensation in eyelids, with swelling and heaviness of same ; more especially in left eye, which can with difficulty be opened. Pressure over left eye. Pain in orbits.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Tickling first in r. then l. nostril with watery discharge from same. Burning in nostrils (r). Epistaxis; habitual in psoric young persons. Sudden profuse epistaxis, relieving vertigo.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Loss of smell. Tickling sensation at outer edge of nostrils. Tickling sensation at first in right, then in left nostril, with watery discharge. Burning in nostrils. Burning in right nostril, with watery discharge from same. Epistaxis.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "face": [
+      {
+        "text": "Heat in face. Earthy, yellowish-grey, dirty or florid complexion. 8.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sensation of heat in face. Complexion dirty or florid.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Bitter taste. Tongue white; white centre; red tip and edges; white-coated on side. Collection of water in mouth. Smooth sensation of mucous membrane of palate as though covered with fat. Repeated eructations of air with burning in œsophagus.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Drawing pains in carious teeth. A hollow tooth is painful to contact of tongue. Whitish coating of middle of tongue, with redness of edges. Metallic taste, constricting palate and pharynx. Bitter taste in mouth. Soups salted as usual tasted insipid ; at other times well salted food is repugnant. Collection of water in mouth. Feeling of roughness and dryness in palate. Smooth sensation of mucous membrane of palate, as though it was covered with fat. Sensation of dryness in palate and on lips. Repeated eructation of air, with burning in œsophagus like heartburn. Dysphagia.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Catamenia too profuse or suppressed. Chronic uterine hæmorrhage with portal derangement.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Menstruation too profuse or suppressed. Chronic uterine hemorrhage, with derangement of portal circulation. Drawing pain in vagina. Leucorrhœa ; amenorrhœa ; metrorrhagia. PREGNANCY. PARTURITION. LACTATION. [24] [Card. m.]. Vomiting of pregnancy. Agalactia. Simple inflammatory irritation of mamma.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "Sensitiveness in dorsal and cervical vertebræ. Drawing pains in back; drawing; tearing; burning in l. shoulder-blade.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pressing pain in a spot about size of a small coin in nape of neck to left, and on a level with the mastoid process ; after a few moments the pain subsides and occurs on corresponding part of right side. Pressure in nape of neck. Drawing pains in entire back, followed by fatigue. Drawing pain on right side of back, from shoulder blade to lumbar region, changing locality. Drawing pains : in muscles of back ; in lumbar region ; in small of back ; on inner margin of right shoulder blade ; in left shoulder blade. Pressure in back below shoulder blades. Drawing sensation on outer margin of left shoulder blade. Tearing sensation in left shoulder blade. Burning and sore pain in region of left shoulder blade, < by inspiration, pressure and reclining. Sensitiveness of dorsal and cervical vertebræ.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Restless sleep with frequent awakening and many dreams. Nightmare from lying on back. Fatigue with yawning. Uncontrollable yawning.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Restless sleep, with frequent awakening and many dreams. Lying on back produces nightmare. Fatigue about 4 P. M., with sleep while riding, lasting ten minutes. Great fatigue with frequent yawning. On awakening, great fatigue with disinclination to rise. Uncontrollable yawning in quick succession. Irritation to cough, felt behind larynx on awakening, with chilliness.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chilliness on awakening with strong urging to urinate. Chilliness at night uncovering. Sweat on forehead and back after meals. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Epidemic affection (See Chest and Stomach), lasting seven weeks, was lessened to a few days ; the longest seven days. Gastric, catarrhal, or rheumatic fever, with pain in stomach and region of liver, increased by pressing on it ; symptoms frequent in epidemic influenza. Chilliness on awakening, with strong urging to urinate. Chill, with pulse increased from 75 to 90. Chill, with sensation of a pulse beat in abdomen. Chilliness at night, < by uncovering ; pulse in morning 82. General sweating and lassitude on awakening. Sweating of forehead and back after meals.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Pain in right auricle, in circumference of meatus.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "male": [
+      {
+        "text": "Erection on awakening. Pressure in urethral portion of glans. Drawing pains in testicles.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Card. m.]. Pressing pain in speaking and swallowing, in neighborhood of hyoid bone on left side, increased by pressure from without, with sensation of swelling at this point. Sensation of dryness in larynx. Irritation in posterior part of larynx, causing cough. Drawing pain on margin left rib, with pain during breathing ; especially during expiration. Stitches at lower margin of ribs, between both linea mammalis, with each inspiration. Stitches in right side in neighborhood of seventh rib ; on deep inspiration and on bending. Stitches on inspiration between linea mammalis and axillaris at sixth rib. Sympathetic cough, dry, hacking, < at night. Cough with stitches in sides of chest, and bloody sputa. θ Epidemic affection. Hæmoptysis with frequent dry tickling. Irritation to cough, excited by roughness in fauces. Irritation to cough, on posterior side of larynx. Awakened by irritation to cough, behind larynx, with chilliness. Several attacks of short, dry cough, without tickling. Short, dry cough ; irritation proceeding from throat pit. Scraping sensation in throat producing cough. Cough with gastric symptoms, and painfulness of epigastrium to pressure. Cough dependent on old hepatic or splenetic troubles. Expectoration : pure blood ; mucus mixed with blood. θ Disease of liver.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "REST. POSITION. MOTION. [35] [Card. m.]. Lying on back : nightmare. Sitting : drawing pain in bladder. Stooping : stitches in right side and over right nipple ; in hip joints. Arising : difficult, pain in hip joints. Raisin arm : stitching pain over right nipple. Walking : almost impossible, with pains in chest ; stiffness of knees ; pain in hollow of knee ; as if a band around calves ; pain in heel. Motion : of arm, pains extend over the entire front of chest. Every sudden or violent movement of body is painful, both in chest and abdomen. θ Cough. Night : dry, hacking cough ; itching of skin ; coldness. Morning : lassitude of arms and legs. At 4 P. M. : fatigue with sleep while riding. All day : pressure of stomach, with eructation of air. Cold : great sensitiveness of the head.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The ripe seeds of Carduus marianus, Linné (Cnicus marianus, Silybum marianum, Gaertner). Nat. Ord.—Compositae. COMMON NAMES: Mary thistle, Milk thistle, St. Mary's thistle.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—Mary thistle is an annual, or biennial plant, glabrous, or but slightly wooly, growing to a height of 2 or 3 feet, and branching but little. Its leaves, which are shining and smooth above, are marked with white veins; the lower leaves are deeply pinnatifid, the lobes being broad and very prickly; the upper ones clasp the stem by prickly auricles, and are scarcely decurrent. The large, drooping flowerheads, with purple florets, are solitary and terminal upon the branches. The involucral bracts are very broad at the base and have a stiff, spreading leaf-like appendage, terminating in a long spine, and bordered at its base with prickles. The fruit is an achenium. The pappus hairs are simple.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History and Description.—Mary thistle is indigenous to southern Europe. The part used in medicine is the fruit known as Fructus silybi, or Semen cardui mariae. The achenia are from 1/6 to 1/5 of an inch long, obovate, smooth, shining, and pale-brown in color, with striae of a black, or blackish hue. At the apex they are oblique and have a marginal crown of a yellowish color, from the center of which the style-base projects. They have no odor, but a mucilaginous and oleaginous, as well as bitterish, taste. They yield their virtues to diluted alcohol. The Homoeopathic mother tincture is prepared by covering the whole ripe seeds (1 part by weight) with diluted alcohol (2 parts), and letting stand in a dark, cool place in a well-stoppered bottle for 8 days, shaking twice a day. It is then decanted, strained, and filtered. The introduction of this medicine into Eclectic therapeutics is due chiefly to Prof. H. T. Webster, M. D. (Dynam. Therap.), and to Prof. Finley Ellingwood, M. D. (Ecl. Annual, Vol. I).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Carduus marianus is an old remedy, which had nearly passed out of use and has more recently been revived. Rademacher valued the seeds in hemorrhages associated with splenic or hepatic disorders. That it influences the parts supplied by the coeliac axis, particularly the distribution of the hepatic and splenic arteries, especially the latter, seems well established. Congestive conditions of the splenic circulation are those most benefited by it. To a lesser extent, the whole venous apparatus is influenced by this drug, giving power to the veins, and preventing varicoses and other dilatations. But little effect, however, is observed upon the hemorrhoidal circulation, as piles do not seem to be directly benefited by it. Dull, aching, splenic pain passing up under the left scapula, and associated with pronounced general debility and despondency is the indication for its use. It controls splenic pain even where no enlargement can be detected, and it is the remedy for hypertrophy of the spleen when non-malarial in character. Congestion of the liver, spleen and kidneys is relieved by its use. Bilious states, with stitches in the side and pain in the abdomen, hard and tender right hypochondrium, gall stones, jaundice, hepatic pain and swelling, vomiting of pregnancy, and leucocythemia, are conditions in which it is reported useful. Amenorrhoea, with wrong of the portal circulation, melaena, hemoptysis, and uterine hemorrhage, have all been successfully treated with it. Hematuria, with weight and pain in the pelvis, has been promptly met by 25-drop doses in water, twice a day. Painful dysuria, from urethral caruncle, and pelvic congestion have also been quickly relieved by it. A strong tincture (seed, ℥viii to alcohol Oj), or the homoeopathic mother tincture, in doses of from 1 to 20 drops.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Specific Indications and Uses.—Splenic, hepatic and renal congestion, face sallow, appetite capricious; nervous irritability; despondency; physical debility; pain in either hypochondriac; pelvic tension and weight; congestion of the parts supplied by the coeliac axis; and non-malarial splenic hypertrophy.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "boericke-1927",
+      "clarke-dictionary-1900",
+      "cowperthwaite-textbook-1891",
+      "hering-guiding-1879",
+      "kent-lectures-1905",
+      "kent-mm-1911",
+      "kings-american-1898",
+      "nash-leaders-1899"
+    ]
+  }
+}

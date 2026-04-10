@@ -1,0 +1,86 @@
+{
+  "id": "thallium",
+  "names": {
+    "primary": "Thallium",
+    "latin": "Thallium",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T THALLIUM. An element. Authorities. 1 , Lamy, Gaz. des hôp.; 1863, 104, and Journ. de Chimie, 1863, vol. 9, p. 721, effects while experimenting; 2 , Dr. Marmé, of Göttingen (Raue's Rec., 1870, p. 21), effects of repeated small doses. EYE. ► Very frequent conjunctivitis, with abundant production of mucus (perhaps, also, disturbance of vision), [2] . MOUTH. ► Ptyalism, [2] . STOMACH. ► Loss of appetite, [2] . ► Nausea, [2] . ► Vomiting, [2] . ABDOMEN. ► Pains in the intestinal canal, [2] . STOOL. ► Diarrha, and even bloody stools, [2] . RESPIRATORY ORGANS. ► Slow and difficult respiration, [2] . HEART AND PULSE. ► Diminished frequency of pulse, [2] . GENERALITIES. [10.] ► Emaciation, [2] . ► Hyperæmia, swelling, and excessive secretion, especially on application to the conjunctiva, [2] . ► Anomalies of motion, trembling, and uncoordinated chorea-like movements, which often appear even before the appetite is involved, [2] . ► Pains accompanied by the greatest lassitude, especially in the lower extremities, [1] . ► In a memoir relating to Thallium, the author calls the attention of the academy to the danger that may be apprehended from dealing with such a powerful poison. The sulphate is an energetic poison the two principal symptoms of which are the *pain in the stomach and bowels, consisting of terribly severe lancinations, following each other with the rapidity of electric shocks; second, the trembling and more or less complete paralysis of the lower extremities . These symptoms, associated with constipation, retraction or depression of the abdomen, complete loss of appetite, represent a marked analogy to the phenomena of lead-poisoning, [1] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Baldness; Conjunctivitis; Locomotor ataxy; Paraplegia",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Slow and difficult breathing. Pain of tabes dorsalis. Trembling and more or less complete paralysis in lower extremities (Thal. sul.). Great lassitude. Paraplegia (dog). Emaciation. Hyperæmia, swelling, and excessive secretion. Anomalies of motion, chorea-like movements.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Thallium is a rare metal discovered by Crookes in the residuum left from the distillation of Selenium and named Thallium (θαλλός, a green shoot) from the green it gives in the spectrum (H. W., xxxiii. 242). It has been experimented with by Lamy and Marme. Some symptoms of Thal. sul., which is an energetic poison, are included (and distinguished) in the Schema. The symptoms observed on animals were from the sulphate, with which Lamy experimented (H. W., xxxiv. 82). Combermale, of Lille, used Thal. with success in the night-sweats of phthisis, but this treatment had the effect of causing profuse falling of the hair, so serious as to contraindicate its use. Huchard had patients become quite bald in several days. Hansen says Thal. relieves the violent pains of tabes dorsalis.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Thal. belongs to the Lead group of metals, and approaches Plumb. closest in its symptoms. Compare: Baldness, jabor., Pilo., Petr. Baldness and phthisis, Pho."
+      ]
+    },
+    "head": [
+      {
+        "text": "Hair falls off with great rapidity.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Very frequent conjunctivitis with abundant production of mucus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Ptyalism.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Loss of appetite. Nausea. Vomiting. Pain in stomach and bowels, terribly severe lancinations, following each other with the rapidity of electric shocks (Thal. sul.). Gall-bladder distended (dog). Coating of liver white and granular-looking (duck). Pain in intestinal canal. Retraction or depression of abdomen (Thal. sul.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Diarrhœa; bloody stools. Constipation (Thal. sul.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Diminished frequency of pulse.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Remedies profuse sweating in some cases of severe illness. Night-sweats of phthisis. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "aethiops-mineralis",
+  "names": {
+    "primary": "AETHIOPS MINERALIS",
+    "latin": "AETHIOPS MINERALIS",
+    "common": [
+      "Sulph and Quicksilver, or Black Sulphide Mercury (AETHIOPS MERCURIALIS-MINERALIS)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "skin": [
+      {
+        "text": "Eruptions. Favus-like, scrofulous, herpetic and eczematous",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "The lower triturations, especially the second decimal"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">AETHIOPS MINERALIS Sulph and Quicksilver, or Black Sulphide Mercury (AETHIOPS MERCURIALIS-MINERALIS) This preparation is of use in scrofulous affections, ophthalmia, otorrhœa, painful, irritating, scabby eruptions, hereditary syphilis.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

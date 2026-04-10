@@ -1,0 +1,49 @@
+{
+  "id": "epiphegus-virginiana",
+  "names": {
+    "primary": "EPIPHEGUS VIRGINIANA",
+    "latin": "EPIPHEGUS VIRGINIANA",
+    "common": [
+      "Beechdrop (EPIPHEGUS - OROBANCHE)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Pressing pain in temples from without inwards, worse, left side. Viscid salivation, constant inclination to spit. Sick headache coming on when deviating from ordinary pursuits. Headaches from nerve tire caused by mental or physical exhaustion, preceded by hunger",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "from sleep",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "from working in open air",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "First to thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">EPIPHEGUS VIRGINIANA Beechdrop (EPIPHEGUS - OROBANCHE) A remedy for sick, neurasthenic, and nervous headaches, especially in women, brought on or made worse by exertion, shopping, etc. Tongue coated yellow; bitter taste. Drowsy after meals. Loose stools. Subinvolution, with painful menstruation and congestion.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

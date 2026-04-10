@@ -1,0 +1,118 @@
+{
+  "id": "physostigma-venenosum",
+  "names": {
+    "primary": "PHYSOSTIGMA VENENOSUM",
+    "latin": "PHYSOSTIGMA VENENOSUM",
+    "common": [
+      "Calabar Bean"
+    ],
+    "synonyms": [
+      "Physostigma venenosum (EALF.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "head": [
+      {
+        "text": "Constant pain on top; vertigo, with constrictive feeling of head. Pain over orbits; cannot bear to raise eyelids. Cerebro-spinal meningitis; general tetanic rigidity. Spastic conditions of the face-muscles",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Night-blindness (Opposite: Bothrops); photophobia; contraction of pupils; twitching of ocular muscles. Lagophthalmus. Muscæ volitantes; flashes of light; partial blindness. Glaucoma; paresis of accommodation; astigmatism. Profuse lachrymation. Spasm of ciliary muscles, with irritability after using eyes. Increasing myopia. Post-diphtheritic paralysis of eye and accommodation muscles",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Fluent coryza; burning and tingling of nostrils; nose stuffed and hot. Fever-blisters around nostrils",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue feels sore on tip. Feeling as if a ball came up throat",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Strong heart-pulsation felt in throat",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Great pain immediately after eating. Sensitive to pressure in epigastric region. Pain extends into chest and down arms. Gastralgia; chronic constipation",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Irregular menstruation, with palpitation. Congestion of eyes. Rigid muscles",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Feeble pulse; palpitation; spasmodic action, with feeling pulsation through the whole body. Beats of heart distinctly perceptible in chest and head. Fluttering of heart felt in throat. Fatty degeneration (Cup ac)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Pain in right popliteal space. Burning and tingling in spine. Hands and feet numb. Sudden jerking of limbs on going to sleep. Tetanic convulsions. Locomotor ataxia. Numbness in paralyzed parts, crampy pains in limbs",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "relationships": {
+      "antidoted_by": [
+        "Atropia"
+      ]
+    },
+    "dosing": {
+      "notes": "Third potency. The neutral sulphate of Eserine is instilled into the eye, from one-half to four grains to one ounce distilled water, to induce contraction of pupil, in mydriasis, injuries to the eye, iritis, corneal ulcers, etc"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">PHYSOSTIGMA VENENOSUM Calabar Bean This remedy and its active principle, Eserine, form a valuable addition to Materia Medica. Stimulates heart, raises blood pressure, and increases peristalsis. Causes contraction of the pupil and of the ciliary muscles. Induces a condition of short-sightedness. Spinal irritation, loss of motility, prostration, with very sensitive vertebræ Fibrillary tremors. Rigidity of muscles; paralysis. Depresses the motor and reflex activity of the cord and causes loss of sensibility to pain, muscular weakness, followed by complete paralysis, although muscular contractility is not impaired. Paralysis and tremors, chorea. Meningeal irritation, with rigidity of muscles. Tetanus and trismus. Polymyelitis anterior. Eserine is used locally to produce contraction of pupil.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The plant came into notice in 1846 and was planted in the Edinburgh Botanical Gardens, where it grew into a strong perennial creeper. It is a great twining climber, pinnately trifoliate leaves, pendulous racemes of purplish bean-like flowers; seeds are two or three together in dark brown pods about 6 inches long and kidney-shaped thick, about 1 inch long, rounded ends, roughish but a little polished, and have a long scar on the edge where adherent to the placenta. The seeds ripen at all seasons, but are best and most abundant during the rainy season in Africa, June till September. The natives of Africa employ the bean as an ordeal owing to its very poisonous qualities. They call it esere , and it is given to an accused person to eat. If the prisoner vomits within half an hour he is accounted innocent, but if he succumbs he is found guilty. A draught of the pounded seeds infused in water is said to have been fatal to a man within an hour.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "West Africa, Old Calabar. Has been introduced into India and Brazil.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The chief constituent is the alkaloid physostigmine (eserine), with which are calabarines, eseridine, and eseramine. Eseridine is not employed medicinally.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Chiefly used for diseases of the eye; it causes rapid contraction of the pupil and disturbed vision.Also used as a stimulant to the unstriped muscles of the intestines in chronic constipation. Its action on the circulation is to slow the pulse and raise blood-pressure; it depresses the central nervous system, causingmuscular weakness; it has been employed internally for its depressant action in epilepsy, cholera, etc., and given hypodermically in acute tetanus. Physostigmine Salicylas is preferred for the preparation of eyedrops.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {
+    "documented_adverse_effects": [
+      {
+        "text": "In case of poisoning by the beans the stomach should be evacuated and atropine injected until the pulse quickens. With poisoning by physostigmine the stomach should be washed out with 0.2 per cent of potassium permanganate and atropine and strychnine administered hypodermically. [ Top ]",
+        "source": "Grieve"
+      }
+    ]
+  },
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

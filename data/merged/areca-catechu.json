@@ -1,0 +1,64 @@
+{
+  "id": "areca-catechu",
+  "names": {
+    "primary": "ARECA CATECHU",
+    "latin": "ARECA CATECHU",
+    "common": [
+      "Betel Nut (ARECA)",
+      "Areca Nut"
+    ],
+    "synonyms": [
+      "Areca catechu (LINN.)"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ARECA CATECHU Betel Nut (ARECA) Of use in Helminthiasis. Its alkaloid, Areolin Hydrobrom contracts the pupil, acting more promptly and energetically but of shorter duration than Eserine. Serviceable in glaucoma. Acts also as a salivatory like Pilocarpin. Also increases the amplitude of pulsations of the heart and promotes the contractility of the intestines.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "A handsome tree cultivated in all the warmer parts of Asia for its yellowish-red fruits the size of a hen's egg, containing the seed about the size of an acorn, conical shape with flattened base and brownish in colour externally; internally mottled like a nutmeg. The seeds are cut into narrow pieces and rolled inside Betel Pepper leaf, rubbed over with lime and chewed by the natives. They stain the lips and teeth red and also the excrement, they are hot and acrid when chewed.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "East Indies, cultivated in India and Ceylon.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Areca Nut contains a large quantity of tannin, also gallic acid, a fixed oil gum, a little volatile oil, lignin, and various saline substances. Four alkaloids have been found in Areca Nut - Arecoline, Arecain, Guracine, and a fourth existing in very small quantity. Arecoline resembles Pilocarpine in its effects on the system. Arecaine is the active principle of the Areca Nut.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Areca Nut is aromatic and astringent and is said to intoxicate when first taken. The natives chew these nuts all day. Whole shiploads are exported annually from Sumatra, Malacca, Siam and Cochin China. In this country Areca Nut is made into a dentrifrice on account of its astringent properties. Catechu is often made by boiling down the seeds of the plant to the consistency of an extract, but the proper Catechu used in Britain is produced from the Acacia catechu . The flowers are very sweet-scented and in Borneo are used in medicines as charms for the healing of the sick. In India the nut has long been used as a taenifuge for tapeworm. The action of Arecain resembles that of Muscarine and Pilocarpine externally, internally used it contracts the pupils. Arecoline Hydrobromide, a commercial salt, is a stronger stimulant to the salivary glands than Pilocarpine and a more energetic laxative than Eserine. It is used for colic in horses.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Of the powdered nut for tapeworm 1 to 2 teaspoonsful. Of the Fluid Extract of Areca Nut, 1 drachm. Of the Arecoline Hydrobromide, for colic in horses, 1 to 1 1/2 grains. Of the Arecoline Hydrobromide, for human use, 1/15 to 1/10 grains .",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "In Malabar Areca Dicksoni is found growing wild and is used by the poor as a substitute for the true Betel Nut ( A. aleraceae ). The Cabbage Palm, which grows profusely in the West Indies, derives its name from the bud topping the tall stem; this consists of leaves wrapped round each other as in the cabbage, the heart of which is white inside. It has a delicate taste and is cut and cooked as a vegetable, many of these beautiful palms being destroyed in this way. It is said that in the empty cavity a beetle lays its eggs. These turn into maggots which are eaten with great relish by the negroes of Guiana. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

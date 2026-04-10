@@ -1,0 +1,137 @@
+{
+  "id": "helianthus",
+  "names": {
+    "primary": "Helianthus",
+    "latin": "Helianthus",
+    "common": [
+      "Sunflower"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T HELIANTHUS. Helianthus annuus, Linn. Natural order , Compositæ. Common names , Sunflower; Sonnenrose; Le Tournesol. Preparation , Tincture of the flower heads. Authorities. 1 , Dr. Cessoles took expressed juice of the flowers, B. J. of Hom., 2, 169 (trans. from Bib. Hom. de Genève.); 2 , effects on a lady, aged 40, ibid.; 3 , A. H. Z., 31, p. 20 (apparently from Bib. Hom. de Genève., though the symptoms differ very materially from preceding; the original is not accessible), effets on a man; 4 , effects on a girl; 5 , Davey, from Med. Gaz., Oct. 1848; effects on a woman of eating a quantity of sunflower seeds. HEAD. ► Headache, [5] . EYE. ► Slight redness on the margin of the left upper lid, with smarting in the inner canthus (ninth day), [3] . ► Eyes suffused, [5] . NOSE. ► After a short time slight epistaxis occurred, and the nostrils became free, and during the ensuing winter the secretions were healthy, and discharged through the natural passages, [1] . [He was at the time in good health, with the exception of slight nasal obstruction, the secretion from the nose passing constantly through the posterior nares.] FACE. ► Anxious countenance, [5] . ► Face deeply flushed, [5] . MOUTH. ► Sticking in the upper back teeth, [4] . ► Tongue and fauces very red, and inclined to dryness, [5] . ► They had an unusually hot taste while eating, [5] . [10.] ► Difficulty in articulating, [5] . THROAT. ► Stiffness and dryness of the throat, [5] . ► Sensation of glowing in the throat and stomach, immediately, [5] . ► Severe burning sensation in the fauces, sophagus, and epigastrium, [5] . STOMACH. ► Thirst, [5] . ► Nausea, [5] . ► Vomiting, produced apparently by too powerful a dose of the medicine; this effect recurred frequently, though in slight degree when Helianthus had been administered for an ordinary cold, [2] . ► Symptoms increased in severity until she vomited freely, when she felt rather better, [5] . RECTUM AND ANUS. ► Hæmorrhoids (fourth day), [3] . STOOL. ► Stools soft, black, with emission of semen (seventh day), [3] . [20.] ► Hard, black stool every second day, [3] . RESPIRATORY ORGANS. ► Voice hoarse, [5] . ► Cough, in the forenoon, with gelatinous expectoration streaked with blood (eighth day), [3] . ► Breathing rather difficult and hurried, [5] . INFERIOR EXTREMITIES. ► Rheumatic pain in the left knee on descending stairs, [4] . SKIN. ► Skin generally of a scarlet redness, and very hot, [5] . ► Groups of red pimples on the inner side of the knee, with slight itching (sixth day), [3] . ► Many urticaria-like pimples, especially on the inner side of the forearm, and afterwards on the leg, afterwards itching in external warmth, in the morning and night, [4] . ► Small, red tetter to the right of the navel (seventh day), [3] . [30.] ► Tingling of the skin, [5] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Cold; Constipation; Epistaxis; Hæmorrhoids; Nasal obstruction; Spleen, affections of; Throat, sore; Urticaria; Vomiting; Wounds",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Voice hoarse. Cough, in forenoon, with gelatinous expectoration streaked with blood. Breath rather difficult and hurried. Rheumatic pain in l. knee on descending stairs.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Dr. Cessoles proved the expressed juice of the flowers; some observations have also been made on the effects of eating the seeds. In some parts of America the Indians use the seeds as an article of food. In the provers there were marked effects on stomach, nausea, and vomiting. In one hæmorrhoids appeared, the stools were black and soft, and with them there was an emission of semen; and later the stools were hard and black and occurred every other day. The skin was affected also. Burnett regards Helianth. as a great spleen remedy. Helianthus tuberosus is the Jerusalem artichoke. I know many persons who cannot eat these on account of the excessive flatulence they produce. The symptoms of Helianth. were > after vomiting. Skin is by external warmth. Hansen says it equals Arnica and Calendula (also yellow-flowered composites) as an application to wounds.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Lept. (black stools); Arn., Calend., Hyperic. (wounds); Cean. (spleen)."
+      ]
+    },
+    "head": [
+      {
+        "text": "Headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Slight redness on margin of l. upper lid, with smarting in inner canthus. Eyes suffused.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "(In a rover who had a slight nasal obstruction causing constant passage of secretion through the posterior nares), after a short time epistaxis occurred, and the nostrils became free, and during the ensuing winter the secretions were healthy, and discharged through the natural passages.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Anxious countenance. Face deeply flushed.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Sticking in upper back teeth. Tongue and fauces very red and inclined to dryness. Unusually hot taste when eating. Difficulty in articulation. Stiffness and dryness of the throat. Sensation of glowing in the throat and stomach immediately. Severe burning in fauces, œsophagus, and epigastrium.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Thirst; nausea. Vomiting, produced apparently by too powerful a dose of the medicine; this recurred frequently, though in slight degree, when Helian. was taken for an ordinary cold. Symptoms increased in severity till she vomited freely when she felt rather better. (Spleen enlarged and painful.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Hæmorrhoids. Stools: soft, black, with emission of semen; hard, black every second day.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Skin generally of scarlet redness and very hot. Groups of red pimples inner side of knee with slight itching. Many urticaria-like pimples, esp. inner side of forearm, afterwards on leg, afterwards itching in external warmth, in morning and night. Small red tetter to r. of navel. Tingling of skin. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Preparation: Syrupus Helianthi Compositus.—Compound Syrup of Sunflower Seed Related entries: Moxa",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The seeds and stems of Helianthus annuus, Linné. Nat. Ord.—Compositae. COMMON NAME: Sunflower.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—This is an annual plant, with an erect, rough stem, usually about 7 feet high, but which, under favorable circumstances, attains the height of 15 and even 20 feet. The leaves are large, cordate, and 3-nerved; the upper ones alternate, the lower ones opposite. Peduncles thickening upward. The flowers are large and nodding; the rays yellow; the disk dark-purple. The seeds are numerous and dark-purple when ripe. A splendid variety occurs with the flowers all radiate (W.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History and Description.—This well-known plant is a native of South America, and is extensively cultivated in the gardens of this country on account of its beautiful, brilliant, yellow flowers, which appear in July and August. The ripe seeds are the parts used; they are of a purplish color externally, about 4 or 5 lines long, between 2 and 3 wide, 2-angled, margins parallel, apex somewhat pointed, the base truncate, compressed, with longitudinal convex surfaces, so as nearly to present 4 angles; internally the testa is whitish, and the kernel is whitish, oily, rather sweetish, and edible. They contain a fixed oil which may be obtained by expression. The leaves are large, and when carefully dried, may be made into cigars, very much resembling in flavor that of mild Spanish ones. The virtue of the seeds chiefly depends upon the fixed oil they contain.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The finely prepared fiber of the stalks is said to be used in China to adulterate silks. Sunflower plants are now planted to some extent in malarial quarters under the belief that they have a beneficial influence in warding off miasmata. Its action in this direction, if effective at all, is probably due to its power of absorbing large amounts of water from damp grounds.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chemical Composition.—All parts of the plant are rich in mineral matters, 10.8 per cent of ash being yielded by the dry plant (Brandenburg). John found the fresh pith to contain 1.5 per cent of potassium nitrate, corresponding to 9 per cent of the dried pith. Asparagin occurs in the young plant (Dessaignes), and inulin, according to Braconnot, in the root (Archiv der Pharm., 1859, p. 1). The kernels of the seeds yield 40 per cent of a limpid, fixed oil, Sunflower oil. It is colorless or pale-yellow, odorless and almost without taste. Its specific gravity is 0.926; and at —15° C. (+5° F.), it congeals. It is an excellent burning fluid, and the plants are largely cultivated in China and some other countries for the purpose of obtaining the oil, of which an acre of ground will yield between 200 and 300 pounds. Sunflower oil dries slowly. Helianthic acid (C7H9O4), was obtained from the seeds by Ludwig and Kromayer (Archiv der Pharm., 1859, p. 1). It dissolves in water and alcohol; the aqueous solution is colored intensely yellow by alkalies. With ferric salts it strikes a deep-green color, but is not precipitated by gelatin. Boiling with diluted acids liberates a sugar, reducing alkaline cupric tartrate solution. Its reactions show it to be a peculiar tannic acid, differing at least from caffeotannic acid. A sunflower of Algerian growth yielded, according to Chardon, a distinctive oleoresin (Pharm. Jour. Trans., 1873, p. 322).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Sunflower seeds and leaves are diuretic and expectorant, and have been used in pulmonary affections with considerable benefit. The following preparation has been of much efficacy in bronchial and laryngeal affections, and even in the cough of phthisis; it acts as a mild expectorant and diuretic: Take of sunflower seeds, bruised, 2 pounds; water, 5 gallons; boil the two together until but 3 gallons of liquid remain, then strain, add 12 pounds of sugar, and 1 ½ gallons of good Holland gin. The dose of this is from 2 fluid drachm; to 2 fluid ounces, 3 or 4 times a day, or whenever tickling or irritation of the throat, or cough is excessive, or when expectoration is difficult. Various agents may be added to this preparation, according to indications, as tincture of stillingia, tincture of balsam of tolu, etc. An infusion of the pith of sunflower stem is diuretic, and may be used where this class of agents is indicated, also in many febrile and inflammatory forms of disease; it likewise makes a good local application in some forms of acute ophthalmia. The pith contains nitre, and has been recommended for the making of moxa; the quantity of nitre, however, varies, depending entirely upon the locality and character of soil in which the plant grows. The oil obtained from the seeds by expression, has been employed with benefit in cough, in dysentery, in inflammation of the mucous coat of the bladder, and in disease of the kidneys. To be given in doses of from 10 to 15 drops, 2 or 3 times a day. A teaspoonful of the oil taken at one dose, has produced active diuresis for four consecutive days, accompanied toward the termination with pain and debility in the lumbar region. The leaves are astringent.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Species.—Actinomeris helianthoides, Nuttall. Gravel or Diabetes weed.—This plant is diuretic and has been successfully employed in chronic cystitis, dropsy, and gravel.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Helianthus tuberosus, Linné. Jerusalem artichoke.—The tubers of this species resemble artichokes, and have been used as a substitute for potatoes. The carbohydrates of the tubers have been investigated repeatedly by O. Popp (1870 and 1878); Dieck and Tollens (Jahresb. der Pharm., 1878, p. 81), and more recently by Ch. Tanret (Jour. Pharm. Chim., 1893, p. 107). The latter author finds the juice of the tuber before its maturity to contain 16 per cent of the following carbohydrates: Saccharose, inulin, pseudo-inulin, inulenin, and two newly isolated substances, helianthenin and synanthrin. The formulae of all these substances have the nucleus C12H10O10 (also see Amer. Jour. Pharm., 1893, p. 498). A small quantity of laevulose and dextrose is formed when the tuber ripens.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900",
+      "kings-american-1898"
+    ]
+  }
+}

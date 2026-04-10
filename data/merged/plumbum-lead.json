@@ -1,0 +1,36 @@
+{
+  "id": "plumbum-lead",
+  "names": {
+    "primary": "Plumbum. Lead. (The Metal.)",
+    "latin": "Plumbum. Lead. (The Metal.)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Adapted to diseases from spinal origin (Phos., Pic. ac., Zinc.). Excessive and rapid emaciation; general or partial paralysis; extreme, with anaemia and great weakness. Muscular atrophy from scelorisis of spinal system. Lassitude; faints on going into a room full of company. Slow of perception; intellectual topor, gradually increasing apathy (in fevers, Phos. ac.). Weakness or loss of memory; unable to find the proper word (Anac., Lac c.). Delirium alternating with colic. Assumes strangest attitudes and positions in bed. Complexion: pale, ash-colored, yellow, corpse-like cheeks sunken; expressive of great anxiety and suffering. Skin of face, greasy, shiny (Nat. m., Sanic.). Distinct blue line along margin of gums; gums swollen, pale, show a lead-colored line. Excessive pain in abdomen, radiating to all parts of body. Sensation in abdomen at night, which causes patient to stretch violently for hours; must stretch in every direction (Amyl. n.). Violent colic, sensation as if abdominal wall was drawn as if by a string to the spine. Intussusception, with colic and faecal vomiting; strangulated hernia, femoral, inguinal or umbilical. Constipation: stools hard, lumpy, black like sheep-dung (Chel., Op.); with urging and terrible pain from spasm of anus; obstructed evacuation from indurated faeces, dryness of the excretions, paralysis or muscular atony; during pregnancy; from impaction of faeces; when Platina fails. Bright's disease: colic pain; abdomen retracted; rapid emaciation; excessive debility; contracted kidney. Feels a lack of room for foetus in uterus; inability of uterus to expand; threatening abortion. Spasm: clonic; tonic; from cerebral sclerosis or tumor; epilepsy or epileptiform convulsions. Yellow skin: dark brown \"liver spots\" in climacteric years; jaundice, the eyes, skin and urine yellow.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Compare: Alum., Plat., Op., in colic; Pod. in retraction of navel; Nux in strangulated hernia; Pod. the vegetable analogue. The bad effects of Plumbum are antidoted by Alum., Petr., Plat., Sulph. ac., Zinc.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - At night (pains in limbs).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Amelioration. - Rubbing; hard pressure.",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

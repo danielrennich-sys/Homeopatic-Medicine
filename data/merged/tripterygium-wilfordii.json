@@ -1,0 +1,41 @@
+{
+  "id": "tripterygium-wilfordii",
+  "names": {
+    "primary": "Thunder God Vine",
+    "latin": "Thunder God Vine",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Thunder god vine is a perennial plant commonly grown in southeast China. Extracts of thunder god vine have been used in traditional Chinese medicine for inflammation and fever, as well as a broad range of inflammatory and autoimmune diseases. Currently, thunder god vine is promoted for use orally (by mouth) for rheumatoid arthritis, kidney problems, Crohn’s disease, eczema, and other conditions. It is also promoted topically (applied to the skin) for rheumatoid arthritis.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "Many studies of low-to-moderate quality have been conducted on the safety and usefulness of oral thunder god vine for rheumatoid arthritis and some kidney disorders. We know enough to conclude that thunder god vine might have benefits for some health conditions. Some side effects of thunder god vine may be serious. Rare deaths related to its use have been reported.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "Some reports suggest that oral thunder god vine might be beneficial for some symptoms of rheumatoid arthritis. For joint swelling and tenderness, thunder god vine plus a conventional medical therapy might be more effective than a conventional therapy alone. However, a combination of conventional therapies might also be more effective than thunder god vine plus a conventional therapy. It’s unclear whether topical thunder god vine has any effect on the symptoms of rheumatoid arthritis, such as joint tenderness, stiffness, and swelling. Initial reports have indicated that oral thunder god vine might be helpful for some kidney disorders, such as nephrotic syndrome or immunoglobulin A nephropathy. There isn’t enough reliable evidence to conclude whether thunder god vine is helpful for other health conditions.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "In general, oral or topical thunder god vine seems to be well tolerated. Thunder god vine may have side effects, such as digestive problems, diarrhea, headache, dizziness, lowered white blood cell count, menstrual cycle changes, and skin redness. Adding thunder god vine to a conventional therapy might increase the risk of experiencing side effects, but some research disagrees. Serious side effects may include kidney damage and liver problems, among others. Rare deaths have been reported; these may be related to specific preparations of thunder god vine or high doses of the herb. Triptolide, a component found in thunder god vine, may be toxic in people. The use of thunder god vine during pregnancy is considered unsafe, as it may increase the risk of birth defects. Little is known about whether it’s safe to use thunder god vine while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

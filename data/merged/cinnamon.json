@@ -1,0 +1,41 @@
+{
+  "id": "cinnamon",
+  "names": {
+    "primary": "Cinnamon",
+    "latin": "Cinnamon",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Cinnamon is a spice that comes from the dried bark of various species of Cinnamomum trees. Ceylon cinnamon (Cinnamomum verum), known as “true” cinnamon, grows primarily in Sri Lanka. Cassia cinnamon (Cinnamomum aromaticum), grown in areas of southeastern Asia, is the most common type sold in North America. The bark, leaves, flowers, fruits, and roots of cinnamon have a long history of use in traditional medicine and cuisine in many parts of the world, including China, India, and Persia (Iran). Cinnamon was thought to help people with inflammation, nerve pain, heart disease, cough, and other conditions. Today, cinnamon products are promoted as a dietary supplement for diabetes and weight loss. Ceylon cinnamon is promoted for allergic rhinitis (hay fever). Cassia cinnamon is promoted for topical use (application to the skin) as a mosquito repellent.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "There have been many studies of cinnamon, especially for diabetes. However, the results of the studies are difficult to interpret because it’s often unclear which species or part of the cinnamon plant was tested.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "Research doesn’t clearly support using cinnamon for any health condition. It’s unclear whether cinnamon supplementation is helpful for diabetes or weight loss. Higher quality research would be needed to clarify any benefits. Preliminary research indicates that a nasal spray containing Ceylon cinnamon extract might improve symptoms of allergic rhinitis (hay fever), but more reliable evidence is needed to confirm this initial result. It’s unclear whether cassia cinnamon is effective as a mosquito repellant.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Cinnamon is likely safe when consumed in the amounts commonly used in foods as a spice or flavoring agent. When used in larger amounts or for long periods of time, cinnamon is sometimes associated with side effects, most commonly gastrointestinal problems or allergic reactions. Never consume cinnamon powder as part of the “cinnamon challenge,” an unsafe internet dare. Serious harm is possible. Cinnamon products may not clearly indicate which species (e.g., Ceylon, cassia) or parts (e.g., bark, leaves, roots) of cinnamon have been used in the making of a product. Research indicates that the types and parts of cinnamon have important differences in chemical composition, and these differences can affect the product’s impact on people. Interactions between coumarin, a chemical found in cassia cinnamon, and the liver have been reported. Consuming cassia cinnamon doesn’t usually include enough coumarin to cause significant problems; however, some cassia cinnamon products contain high levels of coumarin. Prolonged use of cassia cinnamon could be an issue for sensitive people, such as those with liver disease. Ceylon cinnamon may contain a trace amount of coumarin. Some types of topical cinnamon oil or powder may cause skin irritation or contact dermatitis, according to reports. According to research partially funded by the National Center for Complementary and Integrative Health, there are theoretical reasons to suspect that some components of cinnamon may interact with an anticancer medicine or nicotine. If you take any type of medicine, talk with your health care provider before using cinnamon or other herbal products; some herbs and medicines interact in harmful ways. Some studies of the use of Ceylon and cassia cinnamon during pregnancy suggest it is safe in amounts commonly found in foods, but Ceylon cinnamon in larger amounts during pregnancy is considered unsafe. Little is known about whether it’s safe to use Ceylon or cassia cinnamon in larger amounts while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

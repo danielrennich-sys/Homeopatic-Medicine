@@ -1,0 +1,312 @@
+{
+  "id": "opium-papaver",
+  "names": {
+    "primary": "Opium. Papaver somniferum",
+    "latin": "Opium. Papaver somniferum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Opium is the concrete milky exudation obtained by incising the unripe capsules of the white poppy of Asia Minor.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "A white or colorless crystalline body in shining prismatic crystals; soluble in thirty-six parts of hot alcohol, and in alkalies; almost insoluble in water. But little used in medicine. Dose, from one-eighth to one-fourth of a grain.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The following salts of morphine are in common use:",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "A yellowish-white crystalline body, or an amorphous powder, bitter, inodorous except a slight odor of the acetic acid; soluble in two and one-half parts of water. Dose, from one-twentieth to one-half of a grain.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In white feathery, silky crystals, without odor; of an intensely bitter taste; soluble in twenty-one parts of water and in seven hundred parts of alcohol. Dose, one-tenth to one-fourth of a grain.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Muriate of Morphine occurs in white needle-shaped, feathery, lustrous crystals; bitter and odorless; soluble in twenty-four parts of water and in sixty-two parts of alcohol. Dose, from one-twentieth to one-half of a grain.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "This is the product of the action of hydrochloric acid on a modified form of the alkaloid morphine. It may also be obtained from codeine. It occurs as white or grayish white crystals, without odor, bitter, turning slightly green upon exposure to the air; soluble in forty-five parts of either water or of alcohol. If it produces an emerald-green tint in solution in water it must be rejected. It may become changed in character and dangerous. Solutions must be freshly made.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Apomorphine was first used only as an emetic; usually hypodermically. The dose for this purpose is from one-twentieth to one-sixteenth of a grain, although one-eighth of a grain may be given. It is not safe in any dose with children. It may be given to eject bodies from the esophagus to evacuate the stomach after the injection of poisons, and in extreme asthmatic or catarrhal attacks.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "A field of action has developed for this remedy, outside of its influence as an emetic, which is important. There is a consensus of opinion among careful observers as to this influence. One writer says that in wild delirium, sleep may be induced with this remedy, and a restful quiet. It should be given in doses of from one one-hundredth to one-thirtieth of a grain, hypodermically injected. The dose is less than the emetic dose, and yet sufficient to produce a physiological effect. It is not given until after the patient is undressed and in bed ready to go to sleep.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Where it is used for its hypnotic effect alone, and the patient has not previously taken it, it might be well to beg in with a dose as small as the one one hundredth of a grain. In sthenic, cases, with much delirium, a little nausea need not be avoided. The influence of the agent is not protracted, and in some cases it must be repeated in two or three hours. In others it produces a restfulness, which results in sleep, independent of further action of the remedy.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In hysterical attacks, the agent is valuable, as it produces general quiet, and refreshing sleep. It may be used in the place of morphine and opium with those who are addicted to a habit for these drugs, and it will produce the same results. The drug is a treacherous one, and consequently dangerous, and must therefore be given with care.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In very minute doses, it is given in bronchitis, where there is a deficiency of secretion, or in croup, producing relaxation and expectoration. It is given as an expectorant in cough mixtures, with good results, but its emetic influence should not be induced. One one-hundredth of a grain, repeated every two hours, will be sufficiently large dosage. It produces a watery secretion of mucus, which is often undesirable.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It should be used only with adults, as stated, as children are too susceptible to its influence. Kinnett has used it in pain from spasms of the pyloris, and others mention its influence for spasmodic pain in severe, acute stomach disorder in sthenic cases.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Dr. Dice believes apomorphine given in small doses frequently repeated in the initial stage of appendicitis will prevent the development of many cases of this disease. He dissolves also a dram of sulphate magnesium in four ounces of water and gives a teaspoonful every two hours with it.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Apomorphine in doses of One-thirtieth of a grain or less, frequently repeated controls some very severe cases of vomiting.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In the treatment of alcoholism, this agent is given in sufficient quantity to produce mild nausea; then one-thirtieth of a grain of strychnine or other indicated stimulant is given for its influence upon the nervous system at the same time.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Occurrence—An alkaloid of opium closely related to morphine, often, if not carefully prepared, containing a certain proportion of morphine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Character—White octahedral crystals, bitter, odorless, permanent, soluble in eighty parts of water and in three parts of alcohol. The dose of codeine is from one-fourth to two grains.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Physiological Action—Its influence is that of an anodyne and antispasmodic, more active as an antispasmodic than morphine and much less narcotic. It controls pain without checking secretion to as great an extent as the other alkaloids of opium.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—It has a more marked influence upon pain in the abdomen and in the pelvic organs. Spasms, neuralgia and other painful conditions in these parts are well controlled by codeine. Cramp colic and spasmodic dysmenorrhea yield readily to its influence. It is advised in diabetes mellitus to control the excretion of sugar. It has been given in doses of fifteen or twenty grains daily for this purpose, in some cases with permanent results.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Codeine has a marked influence upon spasmodic cough. It is often given to soothe irritable conditions of the air passages and to control persistent annoying and exhausting cough.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The action of opium, and of morphine and its narcotic salts, is much the same. Opium is stimulant and narcotic, according to the dose and susceptibility of the patient. Infants and old people are easily poisoned by the drug, while those addicted to alcohol can take very large doses without any bad effects; and those accustomed to the drug can take a poisonous dose with impunity.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In the healthy adult a moderate dose of opium stimulates all the nervous functions of the body, raises the spirits and excites intellectual action; this gives way to a condition of placidity, freedom from care, and a state of quiet enjoyment. In an hour or less, con-sciousness is lost in sleep, which may continue for eight hours or longer. On waking there is evidence of disturbance of the functions of the organism, such as nausea, vomiting, headache, constipation and diminished secretion, except that of the skin.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In a dose sufficient to cause death the period of excitement is short, while the strength of the system rapidly gives way to drowsiness and apoplectic sleep. There is stertorous breathing, dusky countenance, slow pulse, nearly total insensibility, only responding slightly to violent agitation, with confusion of the mind, and an inclination to continue in a comatose state with increasing debility. After a few hours, six to twelve, according to the dose and the resisting power of the patient, the face becomes pale, the pulse from being full and strong becomes weak and thready, with cold extremities, a cool and clammy skin, a slow gasping respiration; a condition from which it is impossible to rouse the patient and death soon follows.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The pulse is first slow from stimulation of the vasomotor nerve centers, and becomes rapid as these become paralyzed. The pupil is first contracted by stimulation of the oculo-motor nerves, and dilates as death approaches and these become paralyzed. Death results from paralysis of respiration.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "With some individuals there appears to be an inherent and usually permanent idiosyncrasy against the action of opium and morphine. An exceedingly minute dose with such, will produce unpleasant symptoms. These are nausea or violent vomiting, spasm of the stomach and loss of appetite, obstinate constipation or abdominal pain. In others there is nervous excitement, restlessness, headache, tremors, general distress and an increase of pain. With others it produces extreme wakefulness instead of restful sleep. In some there is diarrhea instead of constipation. Given under the conditions we have named as contraindications, it will often produce these phenomena; where there is an absence of idiosyncrasy, and where given! u!nder the proper conditions, the effects would be desirable.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Itching of the skin, inducing an apparent miliary eruption, is one of the unpleasant effects of its use, which, like any one of the others, may be always greatly exaggerated in certain individuals.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "By using water as a solvent, or combining opium with ipecac or camphor, or in some cases with the bromides, these unpleasant effects can, in great measure, be overcome.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Its application to open wounds in childhood has produced marked narcotic effects. It has poisoned infants while nursing, the mother either taking it as medicine or habitually.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Caution—All of the effects of these agents are especially marked in infants and early childhood. The nervous system is profoundly impressed by them, and the dose, if given at all to very young babes, should be infinitesimal.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Its administration can be avoided in nearly all cases with these little patients, as we have access to many agents which, while not working actively in adults, produce most satisfactorily soothing, anodyne or pain-relieving properties in childhood.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Opium addiction is acquired by continued use of the agent, and is debasing and deadly in its effects.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Another serious objection to its administration in large doses often is that it conceals or obscures the actual condition, the diagnostic symptoms or the specific disease indications, and permits disease to advance to formidable proportions before its real character is known. This is true of appendicitis and other purulent inflammatory conditions.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "This agent is so convenient and produces such immediate effects that it is often used by the indolent, careless physician, when other agents would produce better after results, and would more speedily promote a permanent cure. It is, therefore, proper to caution the young physician, against depending, upon it to too great an extent, and to urge him to study well all other agents acting synergistically, so that when his knowledge of the other agents permits him to choose between them he will prefer them. He may thus be able to select an agent with a single direct influence, where, with the administration of this, he has undesirable side influences to overcome in addition to the treatment of the other conditions.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Administration—Opium may be administered by the mouth, by the rectum or vagina, by the hypodermic injection of its alkaloids, by application to a portion of the surface of the body after removal of the cuticle, by inhalation or by insufflation.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Where there is a temporarily apparent contraindication for its use, the aqueous extract or the deodorized tincture (aqueous) or other aqueous preparations, may be used, as water does not dissolve the narcotine, which is believed to be the irritating and depressing principle of the alkaloids.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Or it may be given in conjunction with some agent which will overcome the antagonizing conditions. The acidity of the stomach may be neutralized by an agreeable alkaline aperient. The inactive secretions may be partially reestablished by pilocarpine or jaborandi, or the bromides may be given in conjunction to soothe the nervous system, or ergot to unload the brain of an excess of blood.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The hypodermic use of morphine is demanded and is justifiable where great pain is present. In these cases the size of the dose must be determined by the circumstances. Its influence is prompt and satisfactory.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "This method is preferable because the chemical influences of the gastric secretions upon the salt are avoided.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Veterinarians find it necessary to always administer morphine in this manner, as often no desirable effects are produced if brought in contact with the stomach and intestinal secretions.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Specific Symptomatology—When opium is given carelessly or promiscuously, unfavorable results may occur. The conditions under which the administration of opium or its narcotic salts are admissible are as follows: There is pain without cerebral engorgement; there is an absence of flushed face, but not pallor; there is a relaxed, cool and perhaps moist skin; the tongue is moist and the pupils are not contracted.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Extreme wakefulness or restlessness, painful, spasmodic conditions, excessive passive discharges of whatever character and local inflammations with the above conditions all indicate the use of the agent.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Pain is the great and primary indication for opium. The agent can often be substituted in mild cases, and with children, and the causes of pain can often be removed by other agents; but severe, persistent, racking pain has no other antidote except anesthesia.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Contra-indications—In its primary influence it is a brain and nerve stimulant. It, is, therefore, contra-indicated where there is an irritated and overstimulated nervous system, with flushed face, bright eyes with contracted pupils, dry, hot skin, dry, coated tongue and inactivity of the excretory functions. Administered under these circumstances, it will increase the restlessness and induce general distress and painful wakefulness.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—In sudden acute pain, in pain from wounds or injury, or from burns, the contra-indications are seldom present, and morphine can be administered usually hypodermically.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Pain, like a persistent high temperature; will in time produce serious impressions upon the system which, in themselves, will be hard to overcome. When pain is not extreme equally good results, however, can be obtained in many cases from smaller doses of this agent, as from larger ones, with much less impression upon excretion.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In the successful and highly satisfactory treatment of peritonitis, appendicitis, pleuritis, ovaritis or metritis, this author early adopted the uniform method of giving the indicated remedies as indicated, and for general or local soreness or tenderness increased on pressure or on movement of the bed or clothes, he frequently gives from two to five drops of the deodorized tincture of opium every two hours; seldom more. This acts in harmony with bryonia, which is specifically indicated, especially if th!er!e be occasional quick, sharp darting or shooting pains, with the soreness. Heat may be applied. In from six to twelve hours the distress is relieved, and in twenty-four hours the patient is in every way improved. This is accomplished without producing dullness, drowsiness or undue sleep, or without locking up the secretions and excretions, in fact, without exhibiting but few if any of the physiological influences of the remedy.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Where distress or wakefulness is present, and of such a character that morphia is directly indicated, a small dose often repeated in the stomach will sometimes do better than large doses. In these cases, if half a grain be dissolved in two ounces of water, and a teaspoonful be given every fifteen minutes, the patient will soon become soothed and quiet and will sleep naturally without knowing what has induced it; a much smaller quantity than is usually given, being found necessary. In gastric hyperacidity add a grain or two of sodium bicarbonate to each dose.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It reduces congestion and engorgement of serous membranes most rapidly, and is thus specific in the above-named inflammatory conditions, when small, sharp, stabbing pains and diffused tenderness are the leading symptoms.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It has an especial action on mucous surfaces. Its influence tends to reduce excessive activity or hyper-secretion. It is for this latter effect that it is useful in catarrhs of all characters, in diarrheas and excessive activity of all secreting organs.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It controls irritation of the peripheral nerves in the intestinal canal, and thus arrests diarrhea and controls undue peristaltic action, which in these cases is often necessary. In surgical diseases of the intestinal canal and after operations this effect is quickly and essentially obtained.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Opium is a desirable diaphoretic. It promotes excretion from the skin to a marked degree, exercising this function often, while it locks up the intestinal and renal secretions. It is often given in combination with a relaxant or an emetic for this purpose, and is officinal in combination with camphor and ipecac, as Dover's powder. It is or it may be combined with powdered asclepias tuberosa with happy results.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is common practice to use opium or morphia in solution for eye washes—collyria. It is serviceable in many cases.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Opium and its alkaloids are powerful antispasmodics, and are of general use in local spasm and in convulsion. Specifically, it is useful in colic from biliary or renal calculi, in uterine and ovarian colic and in the pains of labor, properly adapted; also in lumbago, sciatica, angina pectoris, gastrodynia, pleurodynia and other forms of neuralgia.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In puerperal convulsions morphine, hypodermically, was by some considered a most superior agent, although those familiar with veratrum prefer the latter. The dose must be large and must be repeated if needed. It is now seldom relied upon in this serious condition. It locks the secretions preventing elimination, obscures actual conditions and encourages stasis.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Many physicians use opium to control passive hemorrhage, hemorrhages from the kidneys and womb, from the lungs and bronchi, and from the stomach, and from the bowels in typhoid.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It may, however, usually be dispensed with in these cases, as it is not desirable to lock up the natural secretions of these organs, a common result from the use of this agent.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It was advised by Pavy as an important agent in the treatment of diabetes, to control all unpleasant conditions, especially the elimination of sugar and the extreme thirst. Its influence is not permanent, and it does not cure.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is used also in spermatorrhea, and will temporarily reduce sexual erethrysin and unload the organs of blood and restrain abnormal losses and discharges, but it is not usually curative and cannot be persisted in without injury.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "For gonorrheal injections and as bladder washes and in leucorrhea, it is incorporated in liniments and is used as a cataphor.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In the form also of suppositoria, introduced into the rectum or vagina, it is useful for painful conditions in the rectum and lower bowel, and in painful pelvic disorders.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is also applicable in this manner to painful kidney and certain bladder troubles, in stone and gravel, and in obstinate vomiting.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Immediate relief from the tenesmus of dysentery is accomplished by the injection of a few drops of a liquid extract of opium in two ounces of a solution of starch, following the bowel movement.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In China, India, Persia and Turkey, in Mohammedan and Hindoo countries, where their religion prohibits the use of alcoholic intoxicants, opium was at one time smoked more generally than our own people use tobacco and alcohol. Its effects are fearful. To this may doubtless be ascribed much of the intellectual inactivity, the moral debasement and the lack of advancement of the civilization of these countries.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Toxicity—Opium has been used as much if not more than any other agent for suicidal or homicidal purposes. It is certainly a desirable agent for suicide if one desires a comfortable and painless death. It is also acceptable when euthanasia is desired.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Antidotes—It is antidoted by extreme heat, physical activity, increased nerve action and stimulation. Active mechanical emetics or the stomach pump should be used to evacuate the stomach. These are mustard in warm water, ipecac, lobelia in single full doses, or sulphate of zinc.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The direct antagonists are atropia in small doses hypodermically in the early stages of its toxication, strong coffee, or caffeine hypodermically in large doses-two to five grains, strychnine hypodermically and nitro-glycerine, alcohol, ammonium and digitalis. Potassium permanganate will neutralize the poisonous properties of morphine. The patient is kept moving with flagellation and electricity and in extreme cases artificial respiration.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonyms—Diacetylmorphine Hydrochloride.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "This is one of the recent derivatives of opium which has come into use because of its soothing influence over the respiration and the respiratory apparatus.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "This is a bitter, odorless powder, composed of minute white crystals. Unlike morphine, it does not stupefy the patient nor induce constipation. It is classed among, the opium preparations, and is therefore included in the Harrison Act, as one of the habit-forming drugs.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The agent is given in doses of from one twenty-fifth to one-sixth of a grain. Small doses frequently repeated will produce the best results.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is without doubt a powerful depressant to the nervous system and especially to the respiratory center. One of my patients, of his own accord, purchased a bottle of a mixture of heroin for a cough, and took it so frequently that a temporary but severe mania was induced, for which he was taken to a detention hospital, and received injuries from which be died. It is thought to be of some benefit in the treatment of certain coughs. It is an ingredient of several proprietary cough remedies.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "cocainum-hydrochloricum",
+  "names": {
+    "primary": "COCAINUM HYDROCHLORICUM",
+    "latin": "COCAINUM HYDROCHLORICUM",
+    "common": [
+      "An Alkaloid from Erythroxylon Coca (COCAINA)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Talkative. Constant desire to do something great, to undertake vast feats of strength. Cerebral activity. Frightful persecutory hallucinations; sees and feels bugs and worms. Moral sense blunted. Personal appearance neglected. Thinks he hears unpleasant remarks about himself. Hallucinations of hearing. Irrational jealousy. Insomnia",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Throbbing and bursting sensation. Pupils dilated. Hearing greatly increased. Roaring and noises in head",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Glaucoma, increased tension, decreased corneal sensibility. Eyes staring, expressionless",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Dry, burning, tickling, constricted, paralysis of muscles of deglutition. Speech difficult",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Loss of appetite for solid food. Likes sweets. Hæmorrhages from bowels, stomach",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Nervous] Chorea; paralysis agitans; alcoholic tremors and senile trembling. Local sensory paralysis. Formication and numbness in hands and forearms",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Restless, cannot sleep for hours after retiring",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Coldness with intense pallor",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Lower potencies. As a local application to mucous membranes, 2-4 %"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">COCAINUM HYDROCHLORICUM An Alkaloid from Erythroxylon Coca (COCAINA) Besides the great usefulness of Cocaine as a local anæsthetic, it has specific homeopathic uses, though the symptoms are mainly clinical only. Sensation as if small foreign bodies or worms were under the skin.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

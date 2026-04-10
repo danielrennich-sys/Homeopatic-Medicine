@@ -1,0 +1,47 @@
+{
+  "id": "iridium-metallicum",
+  "names": {
+    "primary": "IRIDIUM METALLICUM",
+    "latin": "IRIDIUM METALLICUM",
+    "common": [
+      "The Metal (IRIDIUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Difficult concentration of thought. Sensation as if mind were void. Though confused. \"Woodeny\" feeling in right side of head. Right side of scalp sensitive. Profuse, watery coryza, better indoors. Ozæna",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Hoarse cough, worse talking; posterior nares feel raw, inflamed, profuse, thick, yellowish discharge. Chronic laryngeal catarrh",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Weakness in the kidney region. Spinal paresis, especially for the aged and after disease. Pressing in groin and left thigh. Tension in both thighs, especially left. Dislocated feeling in left hip-joint and dull pain toward left gluteal region",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Sixth and higher"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">IRIDIUM METALLICUM The Metal (IRIDIUM) Intestinal putrefaction and septicæmia. Anæmia, increases red corpuscles. Epilepsy; lupus. Rheumatism and gout. Uterine tumors. Spinal paresis. Exhaustion after disease. Children who are puny, weak-limbed, and grow too fast. Nephritis of pregnancy.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

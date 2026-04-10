@@ -1,0 +1,28 @@
+{
+  "id": "muratic-acid",
+  "names": {
+    "primary": "Muratic Acid. Hydrochloric Acid. (HCl)",
+    "latin": "Muratic Acid. Hydrochloric Acid. (HCl)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Adapted to persons with black hair, dark eyes, dark complexion. Irritable, peevish, disposed to anger and chagrin (Nux); restlessness and vertigo. Diseases of an asthenic type, with moaning, unconsciouness, fretfulness. Ulceration with fungus-like growths and pseudo-like membranous deposits of intestinal tract. Great debility: as soon as he sits down his eyes close; lower jaw hangs down; slides down in bed. Mouth and anus are chiefly affected; the tongue and sphincter ani are paralyzed. Malignant affections of mouth; studded with ulcers, deep, perforating; have a black or dark base; offensive, foul breath; intense prostration; diphtheria, scarlatina, cancer. Cannot bear the thought or sight of meat (Nit. ac.). If the anus be very sensitive either with or without haemorrhoids; anus sore during menses. Haemorrhoids: swollen, blue, sensitive and painful to touch; appear suddenly in children; too sore to bear least touch, even the sheet is uncomfortable. Prolapse while urinating. Diarrhoea: stool involuntary while urinating; on passing wind (Aloe); cannot urinate without having the bowels move at the same time. Urine passes slowly; bladder weak, must wait a long time; has to press so that the anus protrudes. Cannot bear least touch, not even of sheet on genitals (Murex). Typhoid or typhus; deep stupid sleep; unconscious while awake; loud moaning or muttering; tongue coated at edges, shrunken, dry, leather- like, paralyzed; involuntary fetid stools while passing urine; sliding down in bed; pulse intermits every third beat. Palpitation of heart is felt in the face. Freckles; eczema solaris.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Follows well: after, Bry., Mer., Rhus. Cures the muscular weakness following excessive use of opium and tobacco.",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

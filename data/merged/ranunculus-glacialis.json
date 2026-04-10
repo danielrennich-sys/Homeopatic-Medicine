@@ -1,0 +1,67 @@
+{
+  "id": "ranunculus-glacialis",
+  "names": {
+    "primary": "Ranunculus Glacialis",
+    "latin": "Ranunculus Glacialis",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "RANUNCULUS GLACIALIS.",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Dr. Coddé, of Spoleto, proved the Ø tincture, and 3rd and 9th dilutions of this plant. It produced an enormous weight in the head with vertigo and feeling as if apoplexy were impending, > by Coffee; a right-sided early morning headache > by rising; dyspnœa lying down, and compression of chest; intolerance of weight of coverlet (the by touch and pressure of R. bulb.); coldness of thighs; general copious night-sweat, especially abundant on thighs.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T RANUNCULUS GLACIALIS. R. Glacialis, Linn. Natural order , Ranunculaceæ. Common names , Carlina or Cacline (mountaineers of Viq.). Preparation , Tincture of the whole plant. Authorities. Dr. Coddé, of Spoleto, Journ. de la soc. gal, 1855, vol. 6, p. 729; 1 , Mon. F., took tincture; 2 , Dr. Coddé, took 1 drop of the 3d dil., at 10 P.M.; 2 a , same, took a month later a drop of the 9th dil., at 11 P.M. HEAD. ► Towards 9.30 A.M., when walking in the open air, enormous weight in the head, vertigo; it seems to me that I an seized with an incipient fit of apoplexy. A cup of café au lait caused this sensation to cease, and the dizziness did not return, [2] . ► Headache, [1] . ► Behind the head, in the region of the cerebellum, sense of tension , [2] . ► Just before daybreak, drawing headache, more on the right side than the left, which ceased on my getting up, [2] . RESPIRATORY ORGANS. ► When lying in bed, breathing becomes difficult, [2a] . CHEST. ► When turning in bed, slight internal pain in the infero-posterior portion of the chest, [2a] . ► After three days, in the evening, feeling of compression in the whole chest, [2a] . ► A little before midnight I could not endure the weight of the corverlet on the chest, [2a] . ► Stitches in the right side, [1] . SLEEP. [10.] ► Sleeplessness at night, [2] . ► Broken sleep, at night, [2a] . FEVER. ► Coldness even on the thighs, [2a] . ► General perspiration, [1] . ► General and copious nocturnal sweat, more abundant on the thighs, [2] . ► At day-break slight perspiration all over, [2a] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Apoplexy; Cerebellum, pain in; Dyspnœa; Headache; Night-sweat; Thighs, sweat on",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "When lying in bed breathing became difficult.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Towards 9.30 a.m., when walking in open air, enormous weight in head, vertigo; as if seized with incipient apoplexy; > café au lait. Behind head in region of cerebellum, sense of tension. Just before daybreak, headache, r. side, ceased on getting up.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "On turning in bed, internal pain in infero-posterior chest. Compression in whole chest, evening. A little before midnight could not endure coverlet on chest. Stitches r. chest.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleeplessness at night. Broken sleep.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Coldness, even on thighs. General and copious nocturnal sweat, on thighs. At daybreak, slight general sweat. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

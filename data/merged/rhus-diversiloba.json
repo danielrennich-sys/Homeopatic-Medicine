@@ -1,0 +1,88 @@
+{
+  "id": "rhus-diversiloba",
+  "names": {
+    "primary": "Rhus Diversiloba",
+    "latin": "Rhus Diversiloba",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Murray Moore observed the effect of Rh. d. on three persons: (1) Miss M., 25, of brown hair and fair complexion, walked up a hill one warm morning, and whilst perspiring gathered ferns which grew among the Rh. d. trees, the leaves of which she must have touched, though she did not pull any. The result was a very severe poisoning, which provided the majority of the symptoms of the Schema. (2) J. W., light-haired, robust Englishman, 23, lay down whilst sweating among the bushes and was smartly poisoned. Ver. v. Ø internally and a lotion of Magnesia sulph. externally checked the spread of the disease. (3) Boy, 10, pure blond type with thin, freckled skin, plucked some of the leaves, and in eighteen hours the poisoning symptoms came on, facial esysipelas with extreme œdema, closing both eyes, itching and burning. The symptoms became general. M. Moore relates also the case of a man who was poisoned in California in September and returned to the Eastern States and there had an annual eruption for six successive years. During the seventh attack he was carried off with pneumonia, which Moore thinks would not have been the case but for the Rhus complication. (C. D. P.)",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Chicken-pox; Eczema; Erysipelas; Skin, sensitive",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Stiffness of limbs; of all joints on first moving them. Extreme languor. On rising from bed fainted; again later in day.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Dull frontal headache. Head hot.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "L. eye closed entirely by swelling; r. partially.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Vesicular erysipelatous rash with great œdema and swelling of glands in neck; vesicles dried into a crust so dense that movements of mouth and face were painful.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Loss of appetite; nausea; vomiting. Whole digestive system deranged for three weeks.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Bowels costive.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urine scanty, high-coloured; felt hot when passed.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Heat and itching of scrotum and adjacent surfaces of thigh, on hairy parts.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Eruption very like chicken-pox. After the erysipelatous condition of the skin subsided extreme irritability (to flannel) remained, and hypersensitiveness to cold air. Five months after the poisoning there was a recurrence (without fresh exposure) shortly after taking a bath rather too hot. The day after he had been among the bushes heat and itching commenced on scrotum and adjacent surfaces of thighs, on hairy parts; next day papules on red œdematous base appeared on forehead and neck, rapidly spreading in all directions, with heat, itching, and burning, but very little pyrexia; itching > by cold; by heat, warmth, rubbing, or scratching.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "In afternoon chills and feverishness by turns, and general malaise. Slight pyrexia. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

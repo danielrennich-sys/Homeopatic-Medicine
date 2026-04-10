@@ -1,0 +1,56 @@
+{
+  "id": "natrum-lacticum",
+  "names": {
+    "primary": "Natrum Lacticum",
+    "latin": "Natrum Lacticum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T NATRUM LACTICUM. Sodium lactate. Authorities. 1 , Preger, Centrabl. F. Med. Wiss., 35, 1875 (Amer. Obs., 1876, p. 307), effects of Natrum lacticum when subcutaneously injected, or given internally in large doses; the same from fresh, and especially sour milk, whey, and very concentrated sugar water; 2 , Botticher, Berlin Klin. Woch., 1877, p. 538, effects of large doses. ► Unusual hunger and thirst (in some cases), [2] . ► Vomiting (effects of very large doses), [2] . ► Great weakness of the lower extremities, analogous to the anxietas tibiarum noticed after great physical exertion, [2] . ► Rheumatoid pains have been noticed (Senator, Berlin Med. Woch., July, 1876), [2] . ► Hypnotic effects occur in about one-third of the cases, sometimes simply making the normal sleep more prolonged and sounder; in other cases it causes an abnormal sensation of fatigue, yawning, and sleepiness, [2] . ► Sleep, [1] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Gout; Gouty concretions; Rheumatism",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Great weakness of lower limbs, analogous to anxietas tibiarum after great physical exertion. Rheumatoid pains. Abnormal sense of fatigue, yawning and sleepiness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Allen has collected a few observations on the effects of large doses, which I have schematised below. Skinner has removed with it, in potencies, gouty or rheumatic concretions (\"chalk stones\") in fingers.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: The Lacs, Lact. ac. In \"chalk stones,\" Lyc., Calc."
+      ]
+    },
+    "stomach_abdomen": [
+      {
+        "text": "Unusual hunger and thirst. Vomiting (from very large doses).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleep more prolonged and sounder. Yawning and sleepiness. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

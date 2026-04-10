@@ -1,0 +1,40 @@
+{
+  "id": "datura-arborea",
+  "names": {
+    "primary": "Datura Arborea",
+    "latin": "Datura Arborea",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T DATURA ARBOREA. Datura arborea, Linn. Natural order , Solanaceæ. Preparation , Tincture of the flowers (?). Authorities. 1 , Dr. Poulson, Med. Invest., 9, 261, effects of the odor of the flowers left in the room two days. A very strange effect upon the cerebrum, as if my forehead was expanded and my ideas were floating outside of the brain (from the perfume). A very strange feeling of pleasant and easy comfort, and as if I scarcely touched the earth with my feet, and had to gather my ideas from afar, as if they were floating in the clouds (from the perfume). Slight vertigo (from the perfume). Found myself involved in a most beautiful atmosphere, bright and calm as the sunlight at noon (from the perfume). I felt a sensible confusion of ideas across the cerebrum, with drawing nervous irritation back to the cerebellum, and a spinal irritation or depletion of nervous circulation in the medulla oblongata, during the process of handling and cutting them. Buchner's Toxicologie, 1827, states that the odor of the flowers readily causes spasms. In Froriep's Notiz., iii, it is said that the juice, put into the eye, causes amaurosis. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Brain affections; Clairvoyance; Vertigo",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The odour of the flowers left in the room two days caused the following remarkable symptoms: Sensation as if forehead were expanded and as if his ideas were floating outside his brain. Strange feeling of pleasant and easy comfort, and as if he scarcely touched earth with his feet, and had to gather ideas from afar, as if they were floating in the clouds. Involved in a most beautiful atmosphere, bright calm as the sunlight at noon. Sensible confusion of ideas across the cerebrum, with drawing, nervous irritation back to cerebellum and a spinal irritation or depletion of nervous circulation in medulla oblongata (whilst handling and cutting the flowers). The odour is also said to have caused spasms; and the juice instilled into the eye causes amaurosis according to Froriep.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Stram. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

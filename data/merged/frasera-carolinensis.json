@@ -1,0 +1,56 @@
+{
+  "id": "frasera-carolinensis",
+  "names": {
+    "primary": "Frasera Carolinensis (WALT.)",
+    "latin": "Frasera Carolinensis (WALT.)",
+    "common": [
+      "Columbo, American"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Middle and Southern United States and west of the Alleghanies.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Frasera Carolinensis is chiefly known as an occasional substitute for Calurnba Root, or Jateorrhiza Colurnba , a native of Mozambique. The English name is derived from the African Kalumb . It is a plant of from 4 to 9 feet in height, with a smooth, erect stem, bearing lanceolate leaves in whorls, and yellowish-white flowers in terminal panicles. The roots are triennial, horizontal, long, and yellow. They should be collected in the autumn of the second or the spring of the third year and cut into transverse slices before being dried. When sliced longitudinally they have been put on the market as American Gentian, and when fresh, their properties closely resemble Gentiana Lutea , the European Yellow Gentian. The sliced root as found in the market has a reddish-brown epidermis, yellow cortex and spongy centre. The taste is slightly bitter and saccharine. It may be distinguished from true Colombo Root by the absence of concentric circles, and the smaller, thicker slices.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The root contains a peculiar acid, bitter extractive, gum, pectin, glucose, wax, resin, fatty matter, and yellowcolouring matter. It may be distinguished from Calumba by the absence of starch (though it contains tannin), and by its change of colour when treated with sulphate of iron, remaining unchanged by tincture of iodine or galls. It has not the pectine of gentians.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Tonic, cathartic, emetic stimulant. When dried it is a simple bitter that may be used in a similar way to gentian. In its fresh state it is cathartic and emetic.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Of powder, 1 to 3 grains. Of infusion of 1 fluid ounce to 1 pint of boiling water - 2 fluid ounces a day.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Coscinium fenestratum is the Columbowood or false Columbo of Ceylon. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

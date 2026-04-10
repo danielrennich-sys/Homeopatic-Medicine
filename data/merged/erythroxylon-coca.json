@@ -1,0 +1,63 @@
+{
+  "id": "erythroxylon-coca",
+  "names": {
+    "primary": "Erythroxylon Coca (LAMK.)",
+    "latin": "Erythroxylon Coca (LAMK.)",
+    "common": [
+      "Coca, Bolivian"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Bolivia and Peru; cultivated in Ceylon and Java.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Small shrubby tree 12 to 18 feet high in the wild state and kept down to about 6 feet when cultivated. Grown from seeds and requires moisture and an equable temperature. Starts yielding in eighteen months and often productive over fifty years. The leaves are gathered three times a year, the first crop in spring, second in June, and third in October; must always be collected in dry weather. There are two varieties in commerce, the Huanuco Coca , or Erythroxylon Coca , which comes from Bolivia and has leaves of a brownish-green colour, oval, entire and glabrous, with a rather bitter taste, and Peruvian Coca, the leaves of which are much smaller and a pale-green colour. Coca leaves deteriorate very quickly in a damp atmosphere, and for this reason the alkaloid is extracted from the leaves in South America before exportation . The Coca shrubs of India and Ceylon were originally cultivated from plants sent out there from Kew Gardens and grown from seeds. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Coca leaves contain the alkaloids Cocaine, Annamyl Cocaine, andTruxilline or Cocamine. As a rule the Truxillo or Peruvian leaves contain more alkaloid than the Bolivian, though the latter are preferred for medicinal purposes. Java Coca contains tropacocaine and four yellow crystalline glucosides in addition to the other constituents.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The actions of Coca depend principally on the alkaloid Cocaine, but the whole drug is said to be more stimulating and to have a mild astringency. In Peru and Bolivia the leaves are extensively chewed to relieve hunger and fatigue, though the habit eventually ruins the health. Coca leaves are used as a cerebral and muscle stimulant, especially during convalescence, to relieve nausea, vomiting and pains of the stomach without upsetting the digestion. A tonic in neurasthenia and debilitated conditions. The danger of the formation of the habit, however, far outweighs any value the drug may possess, and use of Coca in any form is attended with grave risks. Cocaine is a general protoplasmic poison, having a special affinity for nervous tissue; it is a powerful local anaesthetic, paralysing the sensory nerve fibres. To obtain local cutaneous anaesthesia the drug is injected hypodermically. Applied to the eye it dilates the pupil and produces complete local anaesthesia. It is a general excitant of the central nervous system and the brain, especially the motor areas producing a sense of exhilaration and an incitement to effort; large doses cause hallucinations, restlessness, tremors and convulsions. Those acquiring the Cocaine habit suffer from emaciation, loss of memory, sleeplessness and delusions.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Elixir Coca, B.P.C., 1 to 4 fluid drachms. Extract of Coca, B.P.C., 2 to 10 grains. Liquid extract of Coca, B.P., 1/2 to 1 fluid drachm. Fluid extract of Coca, U.S.P., 30 minims. Tincture of Coca, B.P.C., 1/2 to 1 fluid drachm. Coca Wine, B.P.C., 2 to 4 fluid drachms. Wine of Coca,, U.S.P., 4 fluid drachms. Cocaine, P.B., 1/20 to 1/2 grain.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Coca leaves have sometimes been adulterated with those of Jaborandi.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {
+    "documented_adverse_effects": [
+      {
+        "text": "Cocaine rarely enters the system through the alimentary canal, therefore the use of a stomach pump, emetics or chemical antidotes is not usual; strong coffee should be given as a stimulant by mouth or rectum and measures taken to prevent cardiac failure. [ Top ]",
+        "source": "Grieve"
+      }
+    ]
+  },
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fly-agaric",
+  "names": {
+    "primary": "Fly Agaric",
+    "latin": "Fly Agaric",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "This agent is closely allied to the above in its physical characteristics. Scudder advised its use, but it has never been generally adopted.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Physiological Action—From this species a common alkaloid has been obtained, Muscarine, which has been used an an antagonist to atropine. It produces ptyalism, vomiting, depression of the circulation, general muscular weakness, paralysis, difficult breathing, followed by death in extreme cases. The pupils contract to a pin point, and subsequently dilate. It produces tetanic contraction of the spleen, bladder and intestines, with violent peristaltic movement.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—Muscarine is used in the night sweats of phthisis, in a manner similar to the agaricin. Also in diabetes insipidus. Scudder gave as specific indications for the fly agaric, involuntary twitchings of the face, forehead and eyes, pressing pain in the occiput, with a lack of muscular control. It seems indicated in the typhoid conditions where there is tremor and great restlessness, with a desire to get out of bed.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919"
+    ]
+  }
+}

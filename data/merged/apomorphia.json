@@ -1,0 +1,24 @@
+{
+  "id": "apomorphia",
+  "names": {
+    "primary": "APOMORPHIA",
+    "latin": "APOMORPHIA",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Easy vomiting without previous nausea.",
+        "source_id": "nash-leaders-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "nash-leaders-1899"
+    ]
+  }
+}

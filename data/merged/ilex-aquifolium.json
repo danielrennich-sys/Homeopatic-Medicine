@@ -1,0 +1,43 @@
+{
+  "id": "ilex-aquifolium",
+  "names": {
+    "primary": "ILEX AQUIFOLIUM",
+    "latin": "ILEX AQUIFOLIUM",
+    "common": [
+      "American Holly"
+    ],
+    "synonyms": [
+      "Ilex Aquifolium"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "[Eye] Infiltration of cornea; staphyloma; nightly burning in orbits, rheumatic inflammation of eye; psilosis",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Clinical: Diarrhœa; Eyes, affections of; Intermittent fever; Jaundice; Psilosis; Spleen, pain in; Staphyloma",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ILEX AQUIFOLIUM American Holly Intermittent fever. Marked eye symptoms, spleen pain. All symptoms better in winter.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The best-known members of the Ilex genus are the common Holly and the Ilex Paraguayensis, or Paraguay tea, from which the drink called Maté is made. The leaves of Ilex aq. are reputed to be equal to Cinchona in the treatment of intermittent fever. Haller commended the juice of the leaves in jaundice, the berries are purgative and emetic. Hale quotes Rafinesque as saying, \"The decoction and wine have been used for cough, pleurisy, colic, gout, and rheumatism.\" Cooper has cured with it pain in spleen. His keynote indication for it is: \"Symptoms > in winter.\" He improved with it a bad case of chronic deafness having this peculiarity. A feeling of irritation in urethra with constant dropping from orifice, probably prostatic, in a man about 50, disappeared after a dose of Ø. Hale quotes an article by Dr. Hendricks in A. H. Z. on the effect of Ilex aq. on the eye. With 5-drop doses of the 1x, given four times a day, Dr. Hendricks cured several cases of \"rheumatic inflammation of the eye, with periostitis of the frontal bone, which almost always leads to staphylomatous degeneration of the cornea.\" Hendricks gives this case: A girl, 17, had been under the most renowned oculists since her fifth year. She had great infiltration of cornea, staphyloma; eyeball looked like a lump of flesh. Nightly burning pains in orbits. Ilex aq. cured completely in six days (B. J. H., xxxvii. 302). Cooper says the diarrhœa of Ilex. aq. is accompanied with mucous flux, and he suggests that it may be useful in psilosis (sprue). Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

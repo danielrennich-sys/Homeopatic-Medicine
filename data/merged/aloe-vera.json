@@ -1,0 +1,41 @@
+{
+  "id": "aloe-vera",
+  "names": {
+    "primary": "Aloe Vera",
+    "latin": "Aloe Vera",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Aloe is a cactus-like plant that grows in hot, dry climates. It is grown in subtropical regions around the world, including the southern border areas of Texas, New Mexico, Arizona, and California. Aloe was used in ancient Greece, Rome, Babylonia, and China. Historically, it was used for skin conditions and was thought to prevent premature graying of hair and promote wound healing. Aloe is used topically (applied to the skin) and orally. Topical use of aloe is promoted for acne, psoriasis, lichen planus (a very itchy rash on the skin or in the mouth), oral submucous fibrosis (a disease that causes scars and tissue fibrosis and can involve a burning sensation in the mouth), burns, and skin damage from radiation therapy. Oral use of aloe is promoted for weight loss, diabetes, and inflammatory bowel disease (a group of conditions caused by gut inflammation that includes Crohn’s disease and ulcerative colitis). Aloe products can be made from various parts of the aloe leaf, including the gel (from the inner leaf), latex (from the leaf’s outer layer), and whole crushed leaf (containing the gel and latex). In 2002, the U.S. Food and Drug Administration issued a ruling that required manufacturers to remove aloe latex from over-the-counter laxative products because of a lack of safety data. The International Agency for Research on Cancer has classified whole leaf extract of aloe vera as a possible carcinogen in humans. (This form, called non-decolorized, has not undergone activated carbon treatment to remove toxic anthraquinone components.)",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "A number of studies have investigated the usefulness of aloe as a dietary supplement or a topical product for various health purposes and conditions in people.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "Two small studies suggest that topical application of aloe gel, in combination with other forms of treatment, may improve acne. Clinical research suggests topical application of aloe gel may speed burn healing and reduce burn-related pain. A small amount of research suggests topical use of aloe also may help people with genital herpes, lichen planus, psoriasis, oral submucous fibrosis, skin damage from radiation therapy, or sores in the mouth from dental appliances. A small amount of research suggests that aloe taken orally may reduce blood sugar and HbA1c in people with diabetes. A small study showed that a specific aloe gel product taken orally for 8 weeks modestly reduced weight and fat mass in adults with obesity or overweight who had diabetes or prediabetes. There is interest in using aloe for many other conditions, but there isn’t enough reliable information to say whether it might be helpful for those conditions, which include eczema, diabetic foot ulcers, irritable bowel syndrome, and ulcerative colitis.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "Topical use of aloe gel is generally well tolerated; however, there have been occasional reports of burning, itching, rash, and eczema. Research studies suggest that short-term use of oral aloe gel up to 42 days is safe. Oral use of aloe latex can cause abdominal pain, cramps, and diarrhea. Oral consumption of aloe leaf extracts (for as little as 3 weeks and as long as 5 years) has been related to cases of acute hepatitis. Some animal studies have noted an association between a non-decolorized extract of aloe vera leaf taken orally and gastrointestinal cancer in rats and mice; most toxicity and safety studies in animals have tested non-decolorized whole leaf extract of aloe vera, which is not commonly used by consumers. A small amount of laboratory research suggests that even the decolorized extract might have the potential to damage DNA or chromosomes. A 2023 review looked at animal and laboratory studies of aloe vera inner leaf gel extract and decolorized whole leaf extract used in commercially available food-grade drinkable products containing no more than 10 parts per million of aloin (a type of anthraquinone). The authors of the review concluded that the drinkable products were not genotoxic. Overuse of aloe latex may increase the risk of adverse effects from cardiac glycosides, such as digoxin, which are used for some heart problems. If you take any type of medicine, talk with your health care provider before using aloe vera or other herbal products; some herbs and medicines interact in harmful ways. Aloe—in gel, latex, or whole leaf extract form—when taken by mouth may be unsafe during pregnancy and while breastfeeding. If you’re considering using aloe vera while pregnant or breastfeeding, consult your health care provider.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "weak_support"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

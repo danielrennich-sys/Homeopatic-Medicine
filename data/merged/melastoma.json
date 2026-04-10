@@ -1,0 +1,105 @@
+{
+  "id": "melastoma",
+  "names": {
+    "primary": "Melastoma",
+    "latin": "Melastoma",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T MELASTOMA. Melastoma (Ackermani, of Mure), (plant figured in Mure, Pathogén. Brésil.). Natural order , Melastomaceæ. Preparation , Tincture of the leaves. Authority. Mure, Pathogén. Brésil., p. 270. HEAD. ► Vertigo (first day). ► Headache, with sensitiveness of the scalp (second day). ► Lancination and prickings at the vertex (second day). EAR. ► Roaring in the left ear (first day). NOSE. ► Sneezing (first day). FACE. ► Pale face (second day). MOUTH. ► Looseness of the teeth (second day). ► Digging in the teeth (second day). ► White tongue (second day). [10.] ► Copious flow of saliva (first day). ► Bitter mouth (second day). STOMACH. ► Sour stomach (first day). ABDOMEN. ► Borborygmi (second day). ► Pain in the abdomen (second day). RECTUM AND ANUS. ► Tenesmus, with constriction of the sphincter (second day). ► Heat and pricking at the anus (second day). ► Pain at the perinæum (second day). ► Fearful pain and pulling from the perinæum to the anus, when sitting; not ceasing in any position; lasting six hours (second day). ► Lancinations in the perinæum, urethra, and testicles (second day). STOOL. [20.] ► (Cure of inveterate diarrha and colic), (second day). URINARY ORGANS. ► Pricking in the urethra (second day). ► Profuse urine (second day). ► Light-colored and foaming urine (second day). ► Red, odorless urine, with bloody clots (second day). ► Fetid urine (second day). ► Urine more cloudy and less foaming (second day). ► The urine deposits a white sediment (second day). ► Albuminuria (second day). SEXUAL ORGANS. ► Hardness of the penis, without erection (second day). CHEST. [30.] ► Pain in the sternal region, in the morning (first day). HEART. ► Palpitation of the heart (first day). BACK. ► Pain in the loins (second day). INFERIOR EXTREMITIES. ► Weakness of the thighs (second day). ► dema of the legs (second day). GENERAL SYMPTOMS. ► Prostration (second day). SKIN. ► Eruption on the lips, especially the upper (second day). ► Itching and heat at night (second day). ► Pricking over the feet, ankles, and wrists (second day). SLEEP. ► Drowsiness in the daytime (second day). FEVER. [40.] ► Chills, followed by sweat (first day). ► Violent chills for four hours, followed by heat without sweat (second day). ► General heat (first day). ► Internal heat (second day). Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Diarrhœa; Perinæum, pains in; Prostatic affections",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Weakness of thighs. Œdema of legs. Prostration.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Mure figures and describes this plant. He made a proving of the leaves. On the second day of the proving the prover lost an inveterate diarrhœa with colic. The most notable symptoms were a pain in the perinæum and testicles; and shuddering followed by heat without sweat.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo. Headache with sensitiveness of scalp.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Digging in teeth. White tongue. Copious saliva.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Sour stomach. Borborygmi. Pain in abdomen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Tenesmus with constriction of sphincter. Heat and pricking at anus. Fearful pain and pulling from perinæum to anus when sitting; not ceasing in any position, lasting six hours. Lancinations in perinæum, urethra, and testicles. (Inveterate diarrhœa and colic cured.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Pricking in urethra. Urine: profuse; light foaming; red, odourless, with bloody clots; fetid; white sediment; albuminous.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Hardness of penis without erection.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Palpitation of heart.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Pain in loins.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Eruption on lips, esp. upper. Itching and heat at night. Pricking over feet, ankles, and wrists.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Drowsy in daytime.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chills followed by sweat. Violent chills followed by heat without sweat. Intense heat. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

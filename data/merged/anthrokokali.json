@@ -1,0 +1,152 @@
+{
+  "id": "anthrokokali",
+  "names": {
+    "primary": "Anthrokokali",
+    "latin": "Anthrokokali",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "\"A very absurd combination,\" says Hering, \"proved on many people, but in a very superficial way.\" It has been principally used in skin affections, scabies, prurigo, chronic herpes, and chronic cracks and ulcerations of nostrils. Eruptions decrease with the full of the moon. The intense thirst and diuresis suggest a place for the remedy in diabetes.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Caries; Cracks; Diabetes; Diuresis; Ecthyma; Eczema impetigenoides; Gout; Herpes; Impetigo; Lichen; Nostrils, cracked; Priapism; Prurigo; Rheumatism; Scabies; Scrofula; Sycosis; Urticaria",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Debility of whole body, with restlessness and heavy head. Complete malaise. Sweats : return every night ; pressing headache. Three times a day : brown stool. Sweats continue for several days. A reaction takes place always before the eighteenth day. Pain : in pharynx. Hot feeling : in pharynx, going down into stomach. Burning : in pharynx. Cramplike pain : in stomach. Violent colic. Violent burning : deep in abdomen. Pressure : in stomach. (OBS :) Chronic rheumatism, gout, caries, scrofulosis.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: The Carbons; the Antimonies; Rhus, Dulc., Ferrum iod. (eczema impetigenoides).",
+        "Compare with the carbons",
+        "Similar to : Acon. (diarrhœa with copious flow of urine) ; Antim. crud. and Arsen. (thirst, burning and nausea, skin) ; Bryon., Carbo an., Carbo veg. and Kali carb. (in flatulency, etc.) ; Rhus tox. (in skin symptoms) ; Veratr. (in nausea, vomiting, colic and diarrhœa)",
+        "Given in connection with Dulcam. in sycosis, scabies, prurigo, and impetigo ; with Ferrum jod. in eczema, impetigonoides",
+        "Tapeworm has been removed by pulverized anthracite coal",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "nose": [
+      {
+        "text": "Chronic cracks and ulcerations of nostrils.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Chronic cracks and ulcerations of nostrils.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Dryness of the mouth; foul tongue. Dryness of the throat; internal heat, extending to the stomach; deglutition slightly impeded.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Taste : unpleasant, nauseous, disgusting. Dirty tongue, no appetite, nausea. Dirty tongue, with retching and colic. Dry mouth and pharynx. Warmth and hot feeling in pharynx, going down into stomach. Burning in pharynx : followed by anorexia ; with dysphagia. Pain in pharynx with a dirty tongue. Dysphagia with dry throat. Sensation of gnawing and scraping in œsophagus, soon disappearing and going down to stomach.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Want of appetite. Surfeit. Disagreeable taste in the mouth; great thirst; retching; vomiting of bile, and of black mucus; sensation of heat in the stomach; pressure within; cramps of the stomach. 12. Inflation of the abdomen, as in tympanitis; colic. Blackish stools; evacuations like pap, with colic and borborygmi; diarrhœa, which continues several days.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Anthraco.]. Anorexia, nausea, vomituritio. Increased appetite. Burning thirst ; before sweat. Insatiable thirst. At first no appetite, but soon after it grew sharper. After eating, nausea. After an error in diet, a gastro-bilious fever, with erysipelas. Anorexia, nausea, vomiting, colic and flatulence. Nausea and vomituritio. Vomiting and bilious stools. Bilious vomiting, with black phlegm, followed by too fluid stools. Cramplike pain in stomach. Warm sensation in stomach. Colic with flatulence. Violent colic at night > by a warm poultice. Violent burning deep in abdomen, in evening. Griping bellyache without diarrhœa. Tympanitic distension.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Increase in the secretion of urine; abundant flow of pale urine without sediment; burning in the urethra while passing water; or itching at the orifice; retention of urine. 15.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Tickling and burning in urethra and at orifice, while water passes. Ischuria, urine pale. Some diuresis. Copious evacuations of pale, clear urine, without a sediment. Urine pale, acrid, increased. Urine pale, honey-colored, of unpleasant odor, strongly alkaline reaction, rarely saturated and sharp, very seldom with a nubecula, never a sediment. When urinating orifice of urethra itches.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "male": [
+      {
+        "text": "Frequent erections. Catamenia beyond the usual period.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Very often long lasting painful erections. Frequent erections. (OBS :) Sycosis.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Increased activity of the skin; nettle-rash. Chronic erysipelas; purulent pimples, like papulæ, with considerable itching, appearing during the night and disappearing in the daytime; dropsy.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Itching at night. Eruptions increase with general sweat, get more red and ooze out more. Urticaria or erysipelas. (OBS :) Scabies : with ecthyma ; with prurigo. Scabies. Prurigo. Eczema impetiginoides. Impetigo scabida. (OBS :) Lichens. Useful in cases of chronic herpes. Herpes circumscriptus.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleeplessness, with agitation and excited pulse.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Febrile shivering, alternating with heat, followed by gentle perspiration, and quickness of the pulse. Redness and heat of the skin, disappearing on the supervention of sweat. Perspiration all over the body, with pain in the head, agitation, and bruise-like sensation, and quickness of the pulse; nocturnal sweat, sometimes general, sometimes limited to the parts affected; viscid sweating of the feet; before the sweat, oppression of the chest and violent palpitations of the heart; the skin continues moist for a long time after the perspiration has ceased. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Horripilation alternating with heat, followed by slight sweat and frequent pulse. Heat and pressure in stomach. Febris evanida, with disturbed digestion. After baring of skin, night sweats, continuing for several days. Skin moist for two successive days. Evening copious sweat lasting till morning. General night sweat, returning every night. Local cold or warm sweat on parts affected by an eruption. After a viscous night sweat remission of fever. Sweat viscous, skin remains shining, glistening. After heat and itching skin moist. Often a general sweat commencing at night and continuing till morning hours. Copious warm night sweat with dizzy head. Night sweat copious with sleeplessness and greatest restlessness, but less pain in bowels. With sweat restlessness, headache, debility and frequent pulse. Moderate night sweats beginning in evening with sleeplessness and excited pulse.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "After colic and rumbling several mushy stools. Copious diarrhœa with colic and rumbling. Diarrhœa for several days with increased secretion of urine. Three times during the day a brown stool with increased quantity of pale urine. (OBS :) Cholera.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Catamenia appeared before the time.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Orgasm with heat of skin. Slight vascular irritation. Pulse excited. In evening increased heat with frequent, full pulse. Pulse and temperature feverish. The beating of heart sometimes stronger, with oppression, pressing headache nightly, restlessness and no sleep. Pulse quicker, frequent and more full.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Eruption on hands.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "Eruptions decrease with full of moon. Evening : increased, heat with frequent full pulse ; night sweats begin. At night : colic ; copious warm sweat ; skin itches. Colic at night relieved by warm poultices. After baring skin night sweat.",
+        "source_id": "hering-guiding-1879"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900",
+      "hering-guiding-1879"
+    ]
+  }
+}

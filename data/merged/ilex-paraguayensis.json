@@ -1,0 +1,50 @@
+{
+  "id": "ilex-paraguayensis",
+  "names": {
+    "primary": "Ilex Paraguayensis (A. ST. HIL)",
+    "latin": "Ilex Paraguayensis (A. ST. HIL)",
+    "common": [
+      "Paraguay Tea"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Brazil, Argentina, Paraguay.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "This large, white-flowered shrub grows wild near streams, but is largely cultivated in South America for the drink obtained by infusing the leaves. The leaves are alternate, large, oval or lanceolate and broadly toothed. The fruit is a red drupe the size of pepper grains. Its name of Yerba signifies the herb par excellence , and the consumption in South America is vast, as it is drunk at every meal and hour. 'Maté' is derived from the name of the vessel in which it is infused in the manner of tea, burnt sugar or lemon-juice being added. It is sucked through a tube, usually of silver, with a bulb strainer at the end, and the cup is passed round. If the powder is dropped into water and stirred the mixture is called cha maté . Large sums are paid to the Government for permission to gather the leaves, which are dried by heat and powdered. The season is from December to August. Paraguay exports 5 to 6 million pounds annually. The tea is very sustaining, and sometimes it is the only refreshment carried for a journey of several days. The odour is not very agreeable, but is soon unnoticed. The taste is rather bitter.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Fresh leaves dried at Cambridge were found to contain caffeine, tannin, ash and insoluble matter.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Tonic, diuretic, diaphoretic, and powerfully stimulant. In large doses it causes purging and even vomiting. Fluid extract, 1/2 to 1 drachm.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "In South America the infusion of leaves ofdifferent species are used, such as Cassina paragua , Psoralea glandulosa and a Luxemburgia . Ilex vomitoria and I. Dahoon , Apalachin or Cassena and Dahoon holly, have emetic properties. A decoction is used by the North Carolina Indians as Yaupon, or ceremonial black drink, as well as in medicine.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "acacia-decurrens",
+  "names": {
+    "primary": "Acacia decurrens, Acacia arabica",
+    "latin": "Acacia decurrens, Acacia arabica",
+    "common": [
+      "Acacia Bark"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "The bark of A. decurrens is usually in curved pieces, externally greyish brown, darkening with age, often with irregular longitudinal ridges and sometimes transverse cracks. Inner surface longitudinally striated, fracture irregular and coarsely fibrous. It has a slight tan-like odour and astringent taste. The bark of A. arabica is hard and woody, rusty brown and tending to divide into several layers. The outer surface of older pieces is covered with thick blackish periderm, rugged and fissured. The inner surface is red, longitudinally striated and fibrous. Taste, astringent and mucilaginous.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Acacia Bark contains from 24 to 42 per cent. of tannin and also gallic acid. Its powerful astringency causes it to be extensively employed in tanning.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Medicinally it is employed as a substitute for Oak Bark. It has special use in diarrhoea, mainly in the form of a decoction, the British Pharmacopoeia preparation being 6 parts in 100 administered in doses of 1/2 to 2 fluid ounces. The decoction also is used as an astringent gargle, lotion, or injection. A liquid extract is prepared from the bark of A. arabica, administered in India for its astringent properties in doses of 1/2 to 1 fluid drachm, but the use of both gum and bark for industrial purposes is much larger than their use in medicine. The bark, under the name of Babul, is used in Scinde for tanning, and also for dyeing various shades of brown.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

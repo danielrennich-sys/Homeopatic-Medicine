@@ -1,0 +1,72 @@
+{
+  "id": "tanacetum-vulgare",
+  "names": {
+    "primary": "TANACETUM VULGARE",
+    "latin": "TANACETUM VULGARE",
+    "common": [
+      "Tansy"
+    ],
+    "synonyms": [
+      "Tanacetum vulgare"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Heavy, dull, confused. Headache with least exertion",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "[Mental] Irritable, sensitive to noise. Mental fatigue, nausea and vertigo, worse in a closed room",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Roaring and ringing; voice sounds strange; ears seem to close up suddenly",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Pain in bowels; relieved by stool. Desire for stool immediately after eating. Dysentery",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Dysmenorrhœa, with bearing-down pains, tenderness, drawing in groins. Menses suppressed; later, profuse",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Hurried, labored, stertorous respiration. Frothy mucus obstructs the air-passages",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture, to third potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">TANACETUM VULGARE Tansy Abnormal lassitude. Nervous and tired feeling. \"Half dead, half alive feeling\" all over. Of use in chorea and reflex spasms (worms). Said to be a specific against effects of poison ivy.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Tanacetum vulgare. Great mobility ; extraordinary motion, and strange gesticulations. St. Vitus's dance. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "lippe-textbook-mm-1866"
+    ]
+  }
+}

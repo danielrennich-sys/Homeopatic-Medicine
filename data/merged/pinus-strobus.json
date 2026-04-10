@@ -1,0 +1,50 @@
+{
+  "id": "pinus-strobus",
+  "names": {
+    "primary": "Pinus strobus (LINN.)",
+    "latin": "Pinus strobus (LINN.)",
+    "common": [
+      "Pine, White"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Eastern North America. Cultivated in Europe. Eastern White Pine (Pinus strobus LINN.) Click on graphic for larger image",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The name of Weymouth Pine, common in Europe, refers to a Lord Weymouth who planted numbers of the trees shortly after their introduction in 1705. The French name is a similarly derived contraction. In the United States it grows up to 200 feet in height, but rarely reaches half that stature in England. The wood is peculiarly adapted for the masts of ships, and in Queen Anne's reign legal measures were taken for the encouragement of its cultivation. The bark is very smooth, and the leaves grow in small bundles of five, the cylindrical cones being a little longer than these. The bark is found in small, flattened pieces, the outer surface light, with a pinkish or yellowish tinge, sometimes patched with greyish-brown fragments, and the inner surface lighter or darker and finely striate. The tough, fibrous fracture shows yellowish and whitish layers. The odour is like terebinth, and the taste both bitter and sweet, astringent and mucilaginous.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The powder shows starch and resin. The bark yields a maximum of 3 per cent of ash. It is a source of the terebinth of America. Coniferin is found in the cambium.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Expectorant, demulcent, diuretic, a useful remedy in coughs and colds, having a beneficial effect on the bladder and kidneys. The compound syrup contains sufficient morphine to assist in developing the morphine habit and should be used with caution.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Of Compound Syrup, 1 fluid drachm. Of Compound Syrup, with Morphine, 30 minims. Fluid Extract, 1/2 to 1 drachm. Purchase from Richters White Pine Needle Essential Oil",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "daphne-mezereum",
+  "names": {
+    "primary": "Daphne mezereum (LINN.)",
+    "latin": "Daphne mezereum (LINN.)",
+    "common": [
+      "Mezereon"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "The bark of root and stem, berries, roots.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "D. Gnidium , or D. paniculata , garou, sainbois, or Spurge Flax, deriving its name from its native Cnidos, is one of the official species. The leaves are numerous and very narrow, like those of flax. D. Laureola , or Spurge Laurel, is less acrid. The leaves were formerly used as an emmenagogue, but may cause vomiting and purging. Both leaves and bark have been used to procure abortion. D. Thymeloea , D. Tartonaira , D. pontica and D. alpina are used as substitutes. AMERICAN MEZEREON is a name of Dirca Palustris or Leatherwood. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Europe, including Britain, and Siberia. Naturalized in Canada and the United States.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The mediaeval name Mezereum is derived from the Persian Mazariyun , a name given to a species of Daphne. The barks of Daphne laureola , or Spurge Laurel, and D. Gnidium are also official in the British Pharmacopceia and United States. Though a hardy shrub and indigenous to England, D. mezereum is not often found wild. The leaves appear at the ends of the branches after the flowers, and are alternate, lanceolate, entire, 2 to 3 inches long and dark green in colour. The small, purplishpink, four-segmented flowers grow in little clusters, and the bright-red, fleshy, ovoid, bluntly-pointed fruits, about 3/8 inch long, appear close to the stem in July. There are varieties with yellow fruit and white flowers. Occasionally the bark is found in commerce in quills, but more often in tough, flexible, thin, long strips, rolled like tape, splitting easily lengthways but difficult to break horizontally. The inner surface is silky, and the thin, outer, corky layer, of a light greenish-brown colour, separates easily in papery fragments. The unpleasant odour of the fresh bark diminishes with drying, but the taste is intensely burning and acrid, though sweetish at first. The root bark is most active, but inadequate supplies led to the recognition of the stem bark also.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The acridity of the bark is chiefly due to mezeen, a greenish-brown, sternutatory, amorphous resin. Mezereic acid, into which it can be changed, is found in the alcoholic and ethereal extracts, together with a fixed oil, a bitter, crystalline glucoside, daphnin, and a substance like euphorbone. Daphnin can be resolved into daphnetin and sugar by the action of dilute acids.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Stimulant and vesicant. A moist application of the recent bark to the skin will cause redness and blisters in from twenty-four to forty-eight hours. It may be softened in hot vinegar and water and applied as a compress, renewed every twelve hours. It can be used for a mild, perpetual blister. An ointment was formerly used to induce discharge in indolent ulcers. The bark is used for snake and other venomous bites, and in Siberia, by veterinary surgeons, for horses' hoofs. The official compound liniment of mustard includes an ethereal extract, and one of its rare internal uses in England is as an in gredient in compound decoction of sarsaparilla. Authorities differ as to its value in chronic rheumatism, scrofula, syphilis and skin diseases. A light infusion is said to be good in dropsies, but if too strong may cause vomiting and bloody stools. Thirty berries are used as a purgative by Russian peasants, though French writers regard fifteen as a fatal dose. In Germany a tincture of the berries is used locally in neuralgia. Slices of the root may be chewed in toothache, and it is recorded that an obstinate case of difficulty in swallowing, persisting after confinement, was cured by chewing the root constantly and so causing irritation.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Ten grains. Of decoction, 1 to 3 fluid ounces. Of fluid extract, 2 to 10 drops.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {
+    "documented_adverse_effects": [
+      {
+        "text": "In large doses it is an irritant poison, causing vomiting and hypercatharsis. The berries have proved fatal to children.",
+        "source": "Grieve"
+      }
+    ]
+  },
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

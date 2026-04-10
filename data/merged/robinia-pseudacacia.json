@@ -1,0 +1,62 @@
+{
+  "id": "robinia-pseudacacia",
+  "names": {
+    "primary": "ROBINIA PSEUDACACIA",
+    "latin": "ROBINIA PSEUDACACIA",
+    "common": [
+      "Yellow Locust (ROBINIA)",
+      "Acacia (false)"
+    ],
+    "synonyms": [
+      "Robinia pseudacacia"
+    ]
+  },
+  "category": "herbal",
+  "traditional": {
+    "head": [
+      {
+        "text": "Dull, throbbing, frontal pain; worse, motion and reading. Gastric headache with acid vomiting",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Dull, heavy aching. Nausea; sour, eructations; profuse vomiting of an intensely sour fluid (Sulph ac). Great distention of stomach and bowels. Flatulent colic (Cham; Diosc). Sour stools; child smells sour",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Nymphomania. Acrid, fetid leucorrhœa. Discharge of blood between menstrual periods. Herpes on vagina and vulva",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Third potency. Must be continued a long time"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ROBINIA PSEUDACACIA Yellow Locust (ROBINIA) The remedy for hperchlorhydria. In cases where albuminoid digestion is too rapid and starch digestion is perverted. The gastric symptoms with the most pronounced acidity are well authenticated, and are the guiding symptoms. The acidity of Robinia is accompanied by frontal headache. Intensely acrid eructations. Acrid and greenish vomiting, colic and flatulence, nightly burning pains in stomach and constipation with urgent desire.--Acidity of children. Stools and perspiration sour. Incarcerated flatus.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Excessive acidity of the stomach; vomits substance that sets teeth on edge.",
+        "source_id": "nash-leaders-1899"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The inner bark contains a poisonous proteid substance, Robin, which possesses strong emetic and purgative properties. It is capable of coagulating the casein of milk and of clotting the red corpuscles of certain animals. Tonic, emetic and purgative properties have been ascribed to the root and bark, but the locust tree is rarely, if ever, prescribed as a therapeutic agent. Occasional cases of poisoning are on record in which boys have chewed the bark and swallowed the juice: the principal symptoms being dryness of the throat, burning pain in the abdomen, dilatation of the pupils, vertigo and muscular twitches; excessive quantities causing also weak and irregular heart action. Though the leaves of Robinia have also been stated to produce poisonous effects careful examination has failed to detect the presence of any soluble proteid or of alkaloids, and by some the leaves have been recorded as even affording wholesome food for cattle. The flowers contain a glucoside, Robinin, which, on being boiled with acids, is resolved into sugar and quercetin.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "grieve-modern-herbal-1931",
+      "nash-leaders-1899"
+    ]
+  }
+}

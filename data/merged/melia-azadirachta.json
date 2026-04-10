@@ -1,0 +1,63 @@
+{
+  "id": "melia-azadirachta",
+  "names": {
+    "primary": "Melia Azadirachta",
+    "latin": "Melia Azadirachta",
+    "common": [
+      "Azadirachta"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "The bark of the root and trunk; the seed.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Widely distributed through Tropics.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Under the name of Neem it grows luxuriantly in Bengal, where it was known to the author. It grows from 30 to 50 feet high, leaves bipinnate, large bunches of lilac flowers agreeably perfumed. In Southern France and Spain it is found growing in avenues. It is said to be a native of China. The bark should be new and is a rusty grey colour, inside yellow and foliated, coarsely fibrous, no odour, powerfully bitter and less astringent than the outer coarser bark, if taken from old roots the outer crust must be taken off.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Margosin, a crystalline principle, and tannic acid.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The oil obtained from the fruit is used for burning, that from the bark is used medicinally and is anthelmintic and emetic; it is applied externally for rheumatism. The decoction of Azadirachta is said to be cathartic and in large doses slightly narcotic; it is also supposed to have febrifuge properties, it is used as a remedy for hysteria. The Hindu considers it a stomachic and taps it for toddy. The name Bead Tree is derived from the hard nuts which are used for making rosaries. An ointment to destroy lice is made from the pulp and is also used for scald head and other skin diseases. The oil from the nuts is useful for cramps, obstinate ulcers, etc.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "The decoction is made from 2 OZ. of bark to 1 pint of water boiled down to 1/2 pint, one tablespoonful every two or three hours for a dose. This, or 20 grains of the powdered bark, is an effective dose for worms if followed by a purgative.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {
+    "documented_adverse_effects": [
+      {
+        "text": "The name Azadarach implies a poisonous plant and the fruit is considered to be so. [ Top ] Purchase from Richters Neem (Azadirachta indica) Seeds and Dried Leaves",
+        "source": "Grieve"
+      }
+    ]
+  },
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

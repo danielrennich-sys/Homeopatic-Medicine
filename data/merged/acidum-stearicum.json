@@ -1,0 +1,46 @@
+{
+  "id": "acidum-stearicum",
+  "names": {
+    "primary": "Acidum Stearicum (U. S. P.)",
+    "latin": "Acidum Stearicum (U. S. P.)",
+    "common": [
+      "Stearic Acid"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Related entry: Acidum Oleicum (U. S. P.)—Oleic Acid",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "FORMULA: HC19H35O2. MOLECULAR WEIGHT: 283.38. \"An organic acid, in its commercial, more or less impure, form, usually obtained from the more solid fats, chiefly tallow\"—(U. S. P.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Source and Preparation.—Stearic acid may exist in limited quantities in a free state, and, together with palmitic acid, is present in the form of a glyceride in many of the oils and in most solid fats. It also exists free in the intestines when fats are undergoing digestion. It may be obtained pure by saponifying fats with an alkali, and decomposing the soap so formed with hydrochloric acid. The resulting fatty acids are dissolved in excess of alcohol and heated. The boiling solution is then acted upon with a strong solution of acetate of barium. The precipitate, after having been washed, is then decomposed with hydrochloric acid, whereupon the stearic acid separates, and is treated with alcohol, from which it is recrystallized. Recrystallization is repeated until the crystals melt at about 70° C. (158° F.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Description and Tests.—\"A hard, white, somewhat glossy solid, odorless and tasteless, and permanent in the air. Insoluble in water; soluble in about 45 parts of alcohol at 15° C. (59° F.); readily soluble in boiling alcohol and in ether. Stearic acid when pure melts at 69.2° C. (156.6° F.). The commercial acid should have a melting point not lower than 56° C. (132.8° F.), and the melted acid should not become opaque and begin to congeal at a temperature lower than 54° C. (129.2° F.). If 1 Gm. of stearic acid and 1 Gm. of sodium carbonate be boiled with 30 Cc. of water in a capacious flask, the resulting solution, while hot, should not be more than opalescent (limit of undecomposed fat)\"—(U. S. P.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Uses.—This acid, combined with sal soda (sodium carbonate), is employed in the preparation of glycerin suppositories. The stearate of zinc forms a protective against fluids, and is useful as a dressing powder in pruritic complaints.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "kings-american-1898"
+    ]
+  }
+}

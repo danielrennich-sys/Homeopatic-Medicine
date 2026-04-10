@@ -1,0 +1,57 @@
+{
+  "id": "phaseolus-nanus",
+  "names": {
+    "primary": "PHASEOLUS NANUS",
+    "latin": "PHASEOLUS NANUS",
+    "common": [
+      "Dwarf-bean (PHASEOLUS)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Aches chiefly in forehead or orbits from fullness of brain; worse any movement or mental exertion",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Pupils dilated, insensible to light. Eyeballs painful to touch",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Breathing slow and sighing. Pulse rapid. Palpitation. Sick feeling about heart, with weak pulse. Right ribs sore. Dropsical effusion into pleura or pericardium",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Fearful palpitation and feeling that death is approaching",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Diabetic urine",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Sixth and higher. A decoction of the shells as a drink for diabetes, but look out for severe headache"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">PHASEOLUS NANUS Dwarf-bean (PHASEOLUS) Heart symptoms quite pronounce. Diabetes.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

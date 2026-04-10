@@ -1,0 +1,46 @@
+{
+  "id": "pix-canadensis",
+  "names": {
+    "primary": "Pix Canadensis",
+    "latin": "Pix Canadensis",
+    "common": [
+      "Canada Pitch"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "The prepared juice or resinous exudation from Abies canadensis, Michaux (Tsuga canadensis, Carrière; Pinus canadensis, Linné; Picea canadensis, Link).Nat. Ord.—Coniferae.COMMON NAMES: Canada pitch, Hemlock pitch, Gum hemlock (improperly).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source and Preparation.—Canada pitch is obtained from the oleoresinous exudate of the hemlock spruce tree (see Abies canadensis for botanical source). It is sometimes improperly termed gum hemlock.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Mr. F. Stearns (1859) reports that the resin is collected by two methods—either by cutting a cup-like cavity in the tree, allowing the oleoresin to accumulate therein, from which it is then collected; the more common method of producing pitch, however, is that of removing the bark and wood around the pitch-laden knots and gnarled portions, putting the pieces together into boiling water, skimming the resinous product from the surface of the water, and purifying by melting and straining a second time.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Description and Chemical Composition.—Purified Canada pitch or gum hemlock, is at first whitish, but gradually becomes darker colored, changing to a yellow, brown, or blackish color. It is pulverable, almost insipid, of a faint characteristic odor, unlike that of turpentine, and has the specific gravity 1.033. A gentle heat renders it soft and tenacious, and, when elevated to nearly 93.3° C. (200° F.), liquefies it. It consists of resin, the composition of which has not been studied, with a small quantity of volatile oil. An essential oil is also obtained by distilling with water the branches and leaves of the tree, about 8 pounds of which yield an ounce of the oil. It is known as oil of hemlock, or oil of spruce. The oil, according to Bertram and Walbaum (1893), contains laevo-pinene and laevo-bornyl-acetate. This result was verified by C. G. Hunkel (Pharm. Review, 1896) on a genuine specimen of oil distilled by himself. About 51 per cent bornyl-acetate was present (also see Abies canadensis). The leaves and bark of the root and the trunk also contain notable amounts of tannin (see analyses and description of hemlock tannin by Prof H. Trimble, in Some North American Coniferae, 1897, pp. 111-118). An aqueous extract of the bark is used by tanners.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action and Medical Uses.—Canada pitch is a mild stimulant, and, when in contact with the skin for a few hours, causes a slight degree of redness. It is frequently substituted for Burgundy pitch, as it possesses similar virtues. The tincture of hemlock pitch is diuretic and stimulant. It is not so eligible for plasters, however, on account of its softness.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "kings-american-1898"
+    ]
+  }
+}

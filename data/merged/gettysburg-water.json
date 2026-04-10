@@ -1,0 +1,43 @@
+{
+  "id": "gettysburg-water",
+  "names": {
+    "primary": "GETTYSBURG WATER",
+    "latin": "GETTYSBURG WATER",
+    "common": [
+      "Stringy mucus from throat and posterior nares. Rawness. Neck muscles rigid. Joints weak. Cannot lift things. Ligaments rigid. Subacute gouty state. Evaporated and residium triturated to 6x. Of use in sub-acute and chronic rheumatism. White coated tongue. High colored urine with red sandy sediment. Sensation of rigidity worse moving. Especially in lumbar region and joints of hips, shoulders and wrists. Not perceived when quiet. More in morning. Cannot remain long in one position. Stiffness of muscles on moving. Pain in ligaments relieved by rest. Relationship.--"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "modalities": {
+      "better_from": [
+        {
+          "text": "rest (ligaments and stiffness of muscles)",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "stiffness of muscles on moving",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Lower triturations. Also thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "GETTYSBURG WATER - HOMOEOPATHIC MATERIA MEDICA - By William BOERICKE Home HOMŒOPATHIC MATERIA MEDICA by William BOERICKE, M.D. Presented by Médi-T GETTYSBURG WATER Stringy mucus from throat and posterior nares. Rawness. Neck muscles rigid. Joints weak. Cannot lift things. Ligaments rigid. Subacute gouty state. Evaporated and residium triturated to 6x. Of use in sub-acute and chronic rheumatism. White coated tongue. High colored urine with red sandy sediment. Sensation of rigidity worse moving. Especially in lumbar region and joints of hips, shoulders and wrists. Not perceived when quiet. More in morning. Cannot remain long in one position. Stiffness of muscles on moving. Pain in ligaments relieved by rest.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

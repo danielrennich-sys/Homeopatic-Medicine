@@ -1,0 +1,36 @@
+{
+  "id": "cinchona-wossname",
+  "names": {
+    "primary": "Cinchona wossname, thingy",
+    "latin": "Cinchona wossname, thingy",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Note from Henriette: The Cinchona entry in King's is about 30 pages, and Cinchona, the plant (or bark), while used quite a lot by the pharmacists, is not really herbal anymore. So I'm not scanning the entry in King's. Nor am I scanning the Cinchona alkaloid entries (Quinine, Quinidine sulphate, Quinine bisulphate, etc.). They're simply not interesting enough for me. However, here's links to other cinchona entries, as found on this site:",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Preparations: Extract of Cinchona - Fluid Extract of Cinchona - Infusion of Cinchona - Tincture of Cinchona - Compound Tincture of Cinchona - Ferrated Tincture of Cinchona - Aromatic Wine of Cinchona",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Preparations: Compound Pills of Quinine - Pills of Sulphate of Quinine - Compound Powder of Quinine - Glycerite of Quinine Sulphate - Compound Tincture of Quinine - Wine of Quinine",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "kings-american-1898"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "acidum-valerianicum",
+  "names": {
+    "primary": "Acidum Valerianicum",
+    "latin": "Acidum Valerianicum",
+    "common": [
+      "Valerianic Acid"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Related entry: Valeriana.—Valerian",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "FORMULA: HC5H9O2. MOLECULAR WEIGHT: 101.77. SYNONYMS: Valeric acid, Isopentoic acid, Isopropyl-acetic acid, Acidum valericum.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Source and History.—Chevreul, in 1817, first obtained this acid from the oil of the dolphin (Delphinus globiceps), and named it delphinic acid. An identical acid was afterward found in the Valeriana officinalis, after which the name delphinic acid was changed to valerianic acid. Besides being found in valerian, it exists in Sambucus nigra, Anthemis nobilis, Artemisia Absinthium, Angelica archangelica, Viburnum opulus, and other plants. Oxidized organic material yields it. The pure acid from valerian plant is seldom used in medicine, but in its stead an acid, prepared by the oxidation of fusel oil (amylic alcohol), when acted upon by sulphuric acid and potassium bichromate, is employed. So violent is the reaction, and so disagreeable the odor, that few care to make valerianic acid.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Preparation.—The U. S. P. (1870) directed to take coarsely-powdered sodium valerianate, 8 troy ounces; sulphuric acid and water, of each a sufficiency. Three fluid ounces of the water are first added to the valerianate, and subsequently 3 ½ troy ounces of the sulphuric acid, and all mixed thoroughly. After standing, an oily acid layer rises to the top, which must be removed and agitated with small quantities of sulphuric acid until its density is below 0.950. This is put into a retort, distilled almost to dryness, rejecting that distillate having a density above 0.940. The remainder is kept for use. The rejected distillate maybe redistilled, yielding an acid sufficiently pure to use in preparing the valerianates.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Description.—Valerianic acid is a thin, colorless, inflammable, oily fluid, of an intensely disagreeable and offensive odor, and has an unpleasant, acrid, sour, burning taste. It has a strong acid reaction. With alkalies it forms valerianates. With alcohol, in which it is freely soluble, it forms an almost odorless solution, but if water be brought into contact with it, it instantly regains its disagreeable odor. It is freely soluble in water, chloroform, ether, and concentrated acetic acid. With the volatile oils and carbon disulphide it forms turbid mixtures. Camphor and some resins are soluble in it. Most of its salts are permanent and odorless when dry, but added to water (in which most of them are soluble) they develop the rank odor of the acid.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action and Medical Uses.—Experimentation upon animals showed Reissner that this acid was strongly irritant to the skin and membranes, and that it coagulated milk, albumen, and the serum of the blood. Quickened and enfeebled respiratory and cardiac action were noticed, with marked debility and paralysis of the extremities, followed by spasm and death. If death were slow, the kidneys were found congested, the urine bloody and turbid, and the bowels inflamed; if death resulted quickly, the gastric interior was pallid. This acid is only used in medicine in combination with bases forming valerianates.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "kings-american-1898"
+    ]
+  }
+}

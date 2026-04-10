@@ -1,0 +1,111 @@
+{
+  "id": "zincum-iodatum",
+  "names": {
+    "primary": "Zincum Iodatum",
+    "latin": "Zincum Iodatum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Zn. i. has been proved by American provers, and some well-defined symptoms were produced (C. D. P.). Among them were: Splinter-like pain in throat. Coldness in stomach and bowels with tendency to perspire. A cough from tickling in the throat, and the more he coughed the worse the tickling became. A peculiar tingling in right side of face to vertex, with tension in skin of the part. Undulating pain at border of right free ribs, extending to third rib on same side.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Constipation; Cough; Phthisis",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Tickling in throat giving rise to a dry cough: the more he coughs the worse the tickling becomes. Trembling feeling in lower limbs, later in arms. Tired, aching sensation in legs and arms. Cold, clammy sweat of palms. Cramp-like pain in l. thigh. Shifting, crampy pains in muscles of legs. Creeping sensation in backs of legs and soles of feet.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Splinter pain in throat, Hep., Arg. n. The more he coughs the it tickles, Ign."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Brain seems clouded, hard to remember what he reads.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo and belching of wind, attended with coldness in lumbar region.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "At 8.30 a.m. constant tickling in nose, causing ineffectual desire to sneeze.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Peculiar tingling r. side of face, extending to vertex; skin of same region feels tense.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Taste in mouth like carbonate of soda. Splinter-like pain in throat at intervals.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Emptiness in pit of stomach accompanied all symptoms. Coldness in stomach and bowels, with tendency to perspire. Cold sweat in umbilical and lumbar regions. Lancinating pains in r. groin.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Constipation; ineffectual efforts for stool; stool when passed scanty and insufficient.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Painful undulation from free border of r. ribs up to 3rd r. rib. Tingling in region of l. nipple.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Slight pain in l. lumbar region. Coldness (and cold sweat) in lumbar region. Aching in lumbar vertebræ.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Skin very dry; scattered over face are scaling patches, giving the appearance of whitish spots.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Very sleepy, with slight headache. Slept very uneasily.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Coldness: in stomach and bowels; umbilical and lumbar regions. Tendency to sweat. Cold sweat on palms. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "nyctanthes-arbor",
+  "names": {
+    "primary": "NYCTANTHES ARBOR TRISTIS",
+    "latin": "NYCTANTHES ARBOR TRISTIS",
+    "common": [
+      "Paghala-malli-Sad Tree"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Anxious and restless; dull headache. Tongue coated",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Burning sensation, better cold application. Thirst, better vomiting",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Tenderness of liver. Profuse, bilious stool, with nausea. Constipation",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Thirst, before and during chill and heat; better vomiting as close of chill; sweat no marked",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture, drop doses"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">NYCTANTHES ARBOR TRISTIS Paghala-malli-Sad Tree Bilious and obstinate remittent fever; sciatica; rheumatism. Constipation of children.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "aragallus-lamberti",
+  "names": {
+    "primary": "ARAGALLUS LAMBERTI",
+    "latin": "ARAGALLUS LAMBERTI",
+    "common": [
+      "White Loco Weed-Rattle Weed"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Great depression; worse in morning or evening. Cannot study. Cross, irritable, restless. Bewildered. Mental confusion and apathy. Desires to be alone. Difficulty in concentrating mind, absent-minded. Lack of ambition. Defective expression in writing. Restlessness and aimless wandering. Must concentrate his mind on walking",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Diplopia. Burning in eyes. Cracking of lower lip",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Aches. Feels dull. Sore with nausea. Pharynx dark, swollen, glazed",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Weight on chest in region of ensiform cartilage. Constriction as of a wide band. Soreness of chest under sternum. Oppression",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Weakness of limbs. Pain in left sciatic nerve. Cramps of muscles on front of leg while walking",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Sixth and two hundredth potencies"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ARAGALLUS LAMBERTI White Loco Weed-Rattle Weed Acts principally on nervous system, producing a bewildered, confused state. Symptoms of incoordination and paralysis. Locomotor ataxia. Tired in the morning.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

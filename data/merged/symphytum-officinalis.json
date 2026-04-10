@@ -1,0 +1,24 @@
+{
+  "id": "symphytum-officinalis",
+  "names": {
+    "primary": "SYMPHYTUM OFFICINALIS",
+    "latin": "SYMPHYTUM OFFICINALIS",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T SYMPHYTUM OFFICINALIS Where there is excessive pain from broken or injured bones; when they do not heal readily. Copyright © Médi-T 2000",
+        "source_id": "guernsey-keynotes-1887"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "guernsey-keynotes-1887"
+    ]
+  }
+}

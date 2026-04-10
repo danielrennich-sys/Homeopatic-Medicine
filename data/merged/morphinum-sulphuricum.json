@@ -1,0 +1,79 @@
+{
+  "id": "morphinum-sulphuricum",
+  "names": {
+    "primary": "Morphinum Sulphuricum",
+    "latin": "Morphinum Sulphuricum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Vertigo.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Double vision and disturbance of accommodation often accompanied by lachrymation. Weakness of vision. Sight impaired and feeble. Vision at times seemed obscured by a fog. Conjunctiva injected. The look becomes unsteady. Paresis of recti interni. Diverging strabismus of both eyes. Slight ptosis.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Thickening of tongue and inability to talk distinctly. θ Chorea.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Vomiting. Inspiration accompanied by sharp pain in abdomen and along spine. Tympanitis.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Diarrhœa. Horrid tenesmus, straining.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Great jactitation ; impossibility of sleeping from dyspnœa and extension of disease ; hyperesthesia of nerves ; changing pulse. θ Inflammation of diaphragm.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Weakness. Trembling before and during a thunder storm (occasioned by the electrical state of the atmosphere). After being struck by lightning ; any exposure to heat set her into spasms, nervous, so that she had to go into a cool place. Vision as if impaired by fog. Pains so violent as to threaten convulsions, or cause twitching or jerking of limbs. Sharp pain : in abdomen and along spine. Trembling : before and during thunder storm. Itching : on face, neck, loins and genitals. Extreme susceptibility to pain ; pains so violent as to threaten convulsions, or cause twitching and jerking of limbs. θ Cancer. TOUCH. PASSIVE MOTION. INJURIES. [45] [Morph.]. After being struck by lightning ; any exposure to heat sets her into spasms. Young lady, after being struck by lightning ; nervous spasms.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "Any exposure to heat sets her into spasms, she had to go to a cool place ; after being struck by lightning.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching, particularly on face, neck, loins and genitals. Conical blotches either red or skin color, more easily felt than seen.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Antidoted by : Acon., Atrop., Bellad., strong infusion of coffee, Ipec., the first and last being especially useful to remove secondary effects",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "hering-guiding-1879"
+    ]
+  }
+}

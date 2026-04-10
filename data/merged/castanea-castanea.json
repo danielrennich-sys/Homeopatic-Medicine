@@ -1,0 +1,36 @@
+{
+  "id": "castanea-castanea",
+  "names": {
+    "primary": "Castanea. Castanea vesca",
+    "latin": "Castanea. Castanea vesca",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Synonym—Chestnut.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—This agent is lauded as a specific for whooping-cough. The evidence adduced would lead to the conclusion that certain conditions not yet determined, must be present if it exercises curative powers. In certain experiments it has apparently ameliorated the symptoms promptly. In some cases there was a prompt arrest of the disease. In other cases no results have been apparent. It should receive thorough investigation to determine the specific conditions in which it will exercise a curative influence.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It should be given in full doses every two or three hours. If it proves curative in whooping-cough it should be found of service in other bronchial coughs with free secretion.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "statice-caroliniana",
+  "names": {
+    "primary": "Statice Caroliniana (WALT.)",
+    "latin": "Statice Caroliniana (WALT.)",
+    "common": [
+      "Lavender, Sea, American"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "America, Europe and England. A perennial maritime plant with a large, fleshy, fusiform, brownish-red root; limnal leaves in tufts - obovate, entire, obtuse, mucronate, smooth, and on long foot-stalks. Flowers, pale bluish-purple. Fruit an oblong utricle, one-seeded, enclosed in calyx, usually called Marsh Rosemary. It is common in the salt marshes of the Atlantic shore. Flowers August to October.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "preparation": [
+      {
+        "text": "is the root. This is large, heavy, blackish, inodorous, with a bitter, saltish and very astringent taste.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Volatile oil, resin, gum, albumen, tannic acid, caoutchouc, extractive and colouring matter, woody fibre, and various salts. It has long been in use as a domestic remedy for diarrhoea, dysentery, etc., but is only used as an astringent tonic after the acute stage has passed. It is also very useful as a gargle or wash in ulcerations of mouth and throat, scarlatina, anguinosa, etc. The powdered root is applied to old ulcers, or made with a soothing ointment for piles. As an injection the decoction is very useful in chronic gonorrhoea, gleet, leucorrhoea, prolapsus of womb and anus, and in some ophthalmic affections. It can otherwise be used where astringents are indicated and may be applicable to all cases where kino and catechu are given. It is said to be a valuable remedy for internal and local use in cynanche maligna. Decoction is 1 ounce of powdered root to 1 pint, in wineglassful doses. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

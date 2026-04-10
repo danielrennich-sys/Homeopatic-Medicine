@@ -1,0 +1,42 @@
+{
+  "id": "cerium-oxalicum",
+  "names": {
+    "primary": "CERIUM OXALICUM",
+    "latin": "CERIUM OXALICUM",
+    "common": [
+      "Oxalate of Cerium"
+    ],
+    "synonyms": [
+      "Cerium Oxalicum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "dosing": {
+      "notes": "First trituration"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">CERIUM OXALICUM Oxalate of Cerium Spasmodic reflex vomiting and spasmodic cough are within the sphere of this remedy. Vomiting of pregnancy, and of half-digested food. Whooping cough, with vomiting and hæmorrhage. Dysmenorrhœa in fleshy, robust women. Better when flow is established.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Originally introduced by Sir James Simpson as a remedy for the morning sickness of pregnancy and chronic cases of vomiting, which he supposed to be due to some eruption on the mucous membrane of the stomach, Cer. ox. has fairly maintained its reputation. Hale found it of most use in cases of vomiting of half-digested food. It has mostly been given in the lower triturations by homœopaths, and in five to ten grain doses by allopaths. In the latter doses it has produced decidedly narcotic effects in two cases. Some have obtained great success with it in sea-sickness. Spasmodic coughs of nervous or reflex origin have been successfully treated with it; and dysmenorrhœa in fleshy and robust women, scanty flow, pain coming before, or at commencement, with feeling of tenesmus, > when the flow is established (like Lach.). Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Cough, reflex; Dysmenorrhœa; Pregnancy, vomiting of; Seasickness; Vomiting",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

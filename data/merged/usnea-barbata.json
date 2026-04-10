@@ -1,0 +1,52 @@
+{
+  "id": "usnea-barbata",
+  "names": {
+    "primary": "USNEA BARBATA",
+    "latin": "USNEA BARBATA",
+    "common": [
+      "Tree-moss"
+    ],
+    "synonyms": [
+      "Usnea Barbata"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Bursting feeling, as if temples would burst, or the eyes burst out of the sockets. Throbbing carotids",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Head began to ache; soon could feel the blood press into the brain; with domestic attentions he got to sleep, and woke next morning uncommonly well. Pain over entire head or front head, with feeling as if temples would burst or eyes burst out of sockets. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture, drop doses"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">USNEA BARBATA Tree-moss Is a remedy in some forms of congestive headache; sunstroke.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "An article by M. B. in U.S. Med. Invest. (quoted New, Old, and Forgotten Remedies) gives an observation by the writer, who ate a little of the \"moss\" and had in consequence a severe congestive headache which compelled him to give up his work and go to bed. He got to sleep and woke very well next morning. Two young ladies out picking cranberries had headache from riding in the hot sun and were compelled to lie down. Usn. b. Ø, one drop in a tumbler of water, a teaspoonful to be taken at once and repeated in fifteen minutes. The second dose stopped the pain. A young married lady subject to headache for five years; was almost frantic with the pain. Usn. b., as above, cured in one or two doses.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Headache, congestive",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

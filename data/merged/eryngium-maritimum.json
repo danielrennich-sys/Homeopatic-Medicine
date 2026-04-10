@@ -1,0 +1,93 @@
+{
+  "id": "eryngium-maritimum",
+  "names": {
+    "primary": "Eryngium Maritimum",
+    "latin": "Eryngium Maritimum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T ERYNGIUM MARITIMUM. Eryngium maritimum, Linn. Natural order , Umbelliferæ. Common name , Sea Holly; (Germ.), Meerstrands-maennertreue. Preparation , Tincture of whole plant, including roots. Authority. Proving, by E. B. Ivatts (Dublin, Ireland), with 1st dec. dilution, 10 drops once or twice daily, for eleven days; then with the 1/5 dilution, 10 drops once daily, for two days; Am. Hom. Observer, 1873, p. 564. MIND. ► Felt very queer before completely dressed (thirteenth day). ► Very light and unusually cheerful the first few days; the second morning I awoke and became so merry, that I commenced to sing in bed; as I am usually heavy and drowsy on waking, I attribute this symptom to the medicine probably exciting the liver. ► Disinclination to speak (thirteenth day). HEAD. ► Dulness in head, but no actual pain at first (thirteenth day). ► Spasmodic pain in head (part of S. 19). ► Head ached, but not severely; the pain was in the centre, over brows, at 7 P.M. (thirteenth day). EYE. ► Pain at back of the ball of right eye, the left eye feeling weak (thirteenth day). ► Inclination to close the eyes to shut out moving objects (thirteenth day). THROAT. ► Great dryness of throat, larynx, and lips (thirteenth day). STOMACH. [10.] ► Could eat very little breakfast (thirteenth day). ► Tried to eat dinner; took four mouthfuls of cold mutton, and one potato and a glass of bitter ale, but could take no more; no feeling of sickness all through; ate a few spoonfuls of water arrowroot with nutmeg for supper (thirteenth day). ► Sinking feeling at pit of the stomach (thirteenth day). ABDOMEN. ► All the viscera seemed prostrated and as heavy as lead (thirteenth day). ► Slight dull continuous pain in bowels (thirteenth day). ► Pain in one spot in right inguinal region (thirteenth day). URINARY ORGANS. ► Increased flow of urine, very red, thick on standing (thirteenth day); urine still red (fourteenth day). SEXUAL ORGANS. ► Great insensibility of glandis corona; absence of desire for coition (secondary action) for several days; power of erection seemed gone; quite the reverse of condition ordinarily. RESPIRATORY ORGANS. ► Voice lower in tone, larynx feeling weak (thirteenth day). ► Occasional stomach cough during the day, sending spasmodic pain to head (fourteenth day). CHEST. [20.] ► Occasional darting pains through lungs to back (thirteenth day). ► Soreness, with and without pressure over chest, stomach, and bowels (thirteenth day. NECK AND BACK. ► Pain at nape of neck, compelling the support of head on hand or against something (thirteenth day). ► Occasional shooting pains under both scapulæ (thirteenth day). SUPERIOR EXTREMITIES. ► Veins of hands at back appeared contracted and so depressed as to be hardly visible, though generally full and prominent (thirteenth day). INFERIOR EXTREMITIES. ► Sore pain in muscle, inside right thigh, just above knee (thirteenth day). ► Legs, in walking, felt weak at knees, and almost unable to bear the body; felt I should drop every minute (thirteenth day). GENERAL SYMPTOMS. ► Circulation deadened, or as if it were stagnated; still great determination of blood to the surface of the body (thirteenth day). ► Lassitude towards evening, but in less degree (fourteenth day). ► Walked after breakfast two miles; rested at a friend's house three hours; experienced general weakness, debility, and lassitude (thirteenth day). [30.] ► On sofa all afternoon and evening (thirteenth day). ► Took a cab home about 2 P.M.; its shaking did not increase or diminish symptoms (thirteenth day). SKIN. ► A patch of eruption half the size of the palm of the hand came out in a cluster from inside thigh that was sore yesterday (fourteenth day), but it died away the next day (fifteenth day), leaving a red areola; eruption like fine pin-heads (miliary), points feeling rough to fingers. FEVER. ► Chills, commencing at nape of neck, going down shoulders and back (thirteenth day). ► Little fever heat, or heat of head during whole time, principally cold chills. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Cough; Debility; Fever; Herpes; Sexual weakness; Skin eruption",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Voice low; larynx feels weak. Occasional stomach cough during the day, sending a spasmodic pain to the head. Occasional darting pains through lungs to back. Veins of hands at back appear contracted and depressed so as to be hardly visible, though generally full and prominent. Sore, pain in muscles inside r. thigh just above knee. Circulation deadened, or as if stagnated; still great determination of blood to surface.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The maritime Eryngium (the beautiful plant growing on sand-hills by the sea, with holly-like leaves of a pale blue colour with metallic lustre, in general appearance much more resembling a thistle than an umbellifer) has been proved by one prover only, E. B. Ivatts, but the symptoms show considerable resemblance to those of Eryng. aquat. Pains in the eyes, groins, larynx, nape of neck, sinking at epigastrium, and weakness of the male sexual organs appear in both. But the Eryng. m. has its symptoms more prominently on the right side. Compare also Phelland. aquat., Conium, and other Umbellifers.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Light and unusually cheerful; on awaking in the morning so merry commences to sing in bed (usually heavy and drowsy).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Pain at back of r. eye, l. eye feeling weak. Inclination to close eyes to shut out moving objects.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Great dryness of throat, larynx, and lips.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Loss of appetite. Sinking feeling at pit of stomach. All viscera seemed prostrated and as heavy as lead. Dull continuous pain in bowels. Pain in one spot in r. groin.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Increased flow of urine; very red; thick on standing.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Insensibility of corona glandis; absence of desire (secondary action); power of erection quite gone.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Pain at nape compelling the support of head on hand or against something. Occasional shooting pains under left scapula.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Patch of eruption half the size of palm of hand came out in cluster where pain had been the day previous, like fine pin-heads, points feeling rough to fingers; died away next day leaving red areola.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chills commencing at nape, going down shoulders and back. Chills predominate, little fever heat. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

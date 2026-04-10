@@ -1,0 +1,91 @@
+{
+  "id": "antimonium-chloridum",
+  "names": {
+    "primary": "Antimonium Chloridum. (Antimonium Muriaticum.)",
+    "latin": "Antimonium Chloridum. (Antimonium Muriaticum.)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Stupor, but from which he could be aroused by questions. Stupor and cold feet. See 8. Insensibility.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Pupils dilated and inactive. Eyes sunken, lustreless.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "face": [
+      {
+        "text": "Features set, pale and collapsed. Stupor, face pale, collapsed. Cancer of lower lip.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Unable to speak for some minutes. Tongue dry in centre. Mouth full of thick, tenacious, transparent mucus. Great pain in his throat. Severe pain in throat and fauces. Sense of burning in throat. Fauces inflamed. Heat and uneasiness in mouth and throat, with pain on swallowing. Severe burning pain in throat, increased by deglutition. Bright scarlet patches in throat, with difficulty in swallowing. Numerous abrasions on mucous membranes of mouth and fauces, with slight fever.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea and vomiting. Incessant vomiting. Vomiting for two hours, followed by prostration. Burning pain in epigastrium, and tumefaction of abdomen. Severe burning pain in stomach. Tenderness of abdomen to touch, with sensation of burning. Excruciating griping pains in abdomen.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Frequent abortive efforts to defecate, with cold skin.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Seems choked. Respiration very slightly apparent ; heavy.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pulse 80, small. Pulse small, accelerated, very feeble or hard. Pulse rises to 120, with sleepiness.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Great or complete prostration of strength. Restlessness. Faintness, general weakness. From mouth to jejunum, black. Mucous membranes destroyed, and submucous tissue and peritoneum covered with flocculent matter easily scraped off ; they are soft and readily torn.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Cold skin. See abdomen. Surface of body cold and clammy. Slight feverishness. Excruciating griping pains : in abdomen. Great pain : in his throat. Burning : in throat ; in epigastrium ; in stomach.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Skin cold and mouth full of mucus. Skin cold and clammy.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Similar to other salts of antimony, and to the acids (typhus), also to Arsen., and Carbo veg. (in prostration, stomach and abdominal symptoms) ; Conium (cancer on lower lip and ineffectual urging for stool)",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "hering-guiding-1879"
+    ]
+  }
+}

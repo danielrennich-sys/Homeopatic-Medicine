@@ -1,0 +1,65 @@
+{
+  "id": "hippuricum-acidum",
+  "names": {
+    "primary": "HIPPURICUM ACIDUM",
+    "latin": "HIPPURICUM ACIDUM",
+    "common": [
+      "Proved by Dr. Wm. B. Griggs (HIPPURIC ACID)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Pain over right eye, dull, constant, worse in warm room. Eyelids inflamed and swollen",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Sore, raw, dry, swallowing difficult, foul odor, gummy exudate; thickness and infiltration of all tissues around throat",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Acid rising. Lump in pit of stomach. Soreness and pressure over liver",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menstrual flow for three weeks with complete relief of muscular and joint pains",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Backache extending down hips. Pain in shoulders and extremities and sore swollen joints. Pain in middle of thigh posteriorly shooting down right leg. Tired, grating sensation in the joints",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching, burning. Papules looking like goose flesh on chest",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Lower potencies"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">HIPPURICUM ACIDUM Proved by Dr. Wm. B. Griggs (HIPPURIC ACID) Its chief action is on the external tissues of the eyes and naso-pharynx joint surfaces, liver and mucous membranes. Right side especially affected, general muscular soreness.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "gonolobus-condurango",
+  "names": {
+    "primary": "Gonolobus Condurango (NICHOLS)",
+    "latin": "Gonolobus Condurango (NICHOLS)",
+    "common": [
+      "Condurango"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Ecuador, South America.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The product of an asclepiadaceous vine about 30 feet long and 2 feet in diameter. The bark is beaten with a mallet to separate it from the stem when it has been sun-dried. In commerce it occurs in quilled pieces 2 to 4 inches long and 1/2 inch in diameter. External surface, pale greyish brown to dark brown, nearly smooth, more or less scaly and roughened, with numerous warts or lenticels, the scales soft with sometimes a brownish-black fungus on them, inner side whity brown and longitudinally striate; fracture short, fibrous, granular; odour slightly aromatic, specially in the fresh drug; taste bitter and aromatic; yields not more than 12 per cent of ash.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "A large quantity of tannin, a glucoside and an alkaloid resembling strychnine in its action.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Diuretic stomachic, alterative. Has been regarded as a potential remedy for cancer and is useful in the early stages, but has no effect in the progress of the disease. There are many varieties of the plant, and the species experimented with in cancer is the Condurango blanco , which may be considered a genuine C. Cortex . It is largely used in South America as an alterative in chronic syphilis and is of great benefit. It increases the circulation.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Fluid extract, 1/2 to 1 drachm.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {
+    "documented_adverse_effects": [
+      {
+        "text": "Overdoses produce convulsions, ending in paralysis, vertigo and disturbed sight. [ Top ]",
+        "source": "Grieve"
+      }
+    ]
+  },
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

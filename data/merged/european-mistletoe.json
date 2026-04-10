@@ -1,0 +1,41 @@
+{
+  "id": "european-mistletoe",
+  "names": {
+    "primary": "European Mistletoe",
+    "latin": "European Mistletoe",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "European mistletoe is a semiparasitic plant that grows on several types of common trees such as apple, oak, pine, and elm. European mistletoe is different from American mistletoe, which is a type of mistletoe that grows in the United States and is used as a holiday decoration. European mistletoe has been used for centuries in traditional medicine for a variety of conditions, including seizures, headaches, and menopause symptoms. Today, European mistletoe is promoted as a treatment for cancer. In Europe, European mistletoe extracts that are given by injection are sold as prescription drugs. European mistletoe may also be taken orally (by mouth) as a dietary supplement. The U.S. Food and Drug Administration (FDA) has not approved the use of European mistletoe as a treatment for cancer or any other medical condition.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "Although European mistletoe has been studied as a treatment for cancer, its effects are not well understood because much of the research has been of poor quality. Most studies have evaluated European mistletoe administered through injection by a health care provider. Very little research has looked at European mistletoe taken orally.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "European mistletoe is not a proven cancer treatment. It should not be used as a treatment for cancer outside of clinical trials (studies in people). There have been clinical trials of European mistletoe for cancer treatment, mostly in Europe. Although some trials indicated that European mistletoe improved survival or quality of life, many of the trials had major weaknesses that raise doubts about their findings. These weaknesses have included small numbers of patients, lack of information about the patients, lack of information about the dose of European mistletoe, and problems with the design of the studies. The National Center for Complementary and Integrative Health and the National Cancer Institute performed a preliminary trial to evaluate the safety of injected European mistletoe extract in combination with a cancer drug in patients with advanced cancer. It showed that patients could tolerate the herb/drug combination.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "European mistletoe berries and leaves can cause serious harmful effects when taken orally. Injected European mistletoe extract may cause soreness and inflammation at the injection site, headache, fever, and chills. A few severe allergic reactions have been reported. If you take any type of medicine, talk with your health care provider before using European mistletoe or other herbal products; some herbs and medicines interact in harmful ways. European mistletoe is probably unsafe for use during pregnancy. Little is known about whether it’s safe for use while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "strong_support"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

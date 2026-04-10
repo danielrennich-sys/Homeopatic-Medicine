@@ -1,0 +1,85 @@
+{
+  "id": "thea-chinensis",
+  "names": {
+    "primary": "THEA CHINENSIS",
+    "latin": "THEA CHINENSIS",
+    "common": [
+      "Tea (THE)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Temporary mental exaltation. Ill-humored. Sick headache radiating from one point. Sleepless and restless. Hallucinations of hearing. Cold damp feeling at back of head",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Sinking sensation at epigastrium. Faint, gone feeling (Sep; Hyd; Oleand). Craves acids. Sudden production of wind in large quantities",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Borborygmi liability to hernia",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Soreness and tenderness in ovaries",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Anxious oppression. Præcordial distress. Palpitation; unable to lie on left side. Fluttering. Pulse rapid, irregular, intermittent",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleepy in daytime; sleepiness at night, with vascular excitement and restlessness, and dry skin. Horrible dreams cause no horror",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "warmth; warm bath",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "night, on walking in open air, after meals",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "relationships": {
+      "antidoted_by": [
+        "Kali hypophos",
+        "Thuja",
+        "Ferr",
+        "Kali hyd (Material doses for tea-taster's cough)"
+      ]
+    },
+    "dosing": {
+      "notes": "Third to thirtieth potency. Theine 1/4-1/2 grain hypodermically for sciatica and supra-orbital neuralgia"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">THEA CHINENSIS Tea (THE) Nervous sleeplessness, heart troubles, palpitation, and dyspepsia of old tea-drinkers. Produces most of the sick headaches Tabacum antidotal (Allen).",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

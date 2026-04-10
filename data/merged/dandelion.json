@@ -1,0 +1,41 @@
+{
+  "id": "dandelion",
+  "names": {
+    "primary": "Dandelion",
+    "latin": "Dandelion",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {},
+  "evidence": {
+    "summary": "Dandelion is native to Europe but found throughout temperate regions in the Northern Hemisphere. The flowers, leaves, and root of the plant have traditionally been used in Mexican and other North American medicine. Today, oral dandelion products are promoted for indigestion, while oral and topical dandelion products are promoted for joint pain.",
+    "studies": [
+      {
+        "section": "How Much Do We Know?",
+        "text": "We know very little about dandelion’s effect on human health. Very little research exists on this herb.",
+        "source": "NCCIH"
+      },
+      {
+        "section": "What Have We Learned?",
+        "text": "There’s no compelling scientific evidence supporting the use of dandelion for any health condition. Preliminary laboratory studies have evaluated dandelion extracts for anti-inflammatory, antioxidant, and antiviral properties.",
+        "source": "NCCIH"
+      }
+    ],
+    "documented_adverse_effects": [
+      {
+        "text": "The use of dandelion in the amounts commonly found in food is considered likely safe. Less is known about the safety of taking dandelion in larger amounts. Some evidence suggests that topical dandelion may cause an allergic reaction in people who have atopic dermatitis (eczema). There is conflicting evidence about whether dandelion causes an allergic reaction in people who are sensitive to related plants like ragweed, chrysanthemums, marigolds, and daisies. There are theoretical reasons to suspect that dandelion might interact with antidiabetes, anticoagulant, antiplatelet, and water pill drugs, among others. If you take any type of medicine or supplements, talk with your health care provider before using dandelion or other herbal products; some herbs and medicines interact in harmful ways. Little is known about whether it’s safe to use dandelion in amounts greater than those found in foods during pregnancy or while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
+    "regulatory": [
+      "NCCIH (US National Center for Complementary and Integrative Health) factsheet"
+    ],
+    "overall_rating": "insufficient_data"
+  },
+  "provenance": {
+    "sources": [
+      "nccih"
+    ]
+  }
+}

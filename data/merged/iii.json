@@ -1,0 +1,34 @@
+{
+  "id": "iii",
+  "names": {
+    "primary": "III",
+    "latin": "III",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . * A * B * C * D * E * F * G * H * I * J * K * L * M * N * O * P * R * S * T * U * V * W * X * Z Ignatia ---------- Ign . Iodoform ---------- Iodof . Iodum ---------- Iod . Ipecacuanha ---------- Ip . Iris Versicolor ---------- Iris Copyright © Médi-T 2005.",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T SUPPLEMENTAL REFERENCE TABLE A * B * C * D * E * F * G * H * I * J * K * L * M * N * O * P * Q * R * S * T * U * V * W * X * Y * Z Ichthyosis : Ars-io. Icy cold : Agar., Ap., Carb-v., Elaps., Helod., Hyd-ac., Med., Men., Nit-ac., Ol-an., Pho., Sil., Ver-a. Ideas, compelling : Nit-ac. Ideas, erroneous : Saba. Ideas, fixed : Nat-m. Ideas, vanish : Anac., Nux-m., Ver-a. Ideas, wander : Dulc., Pho., Thu. Ileo-ccal region : Pul. Ileus : Tab. Iliacs, down thighs : Berb. Ill [[feeling]] : Ant-t. Illusions : Mos. Imaginary disease : Mos., Saba. Imbecile : Stram. Immobile : Lycps., Mang., Stro. Impatience : Rhe. Impetigo, contagiosa : Ant-t., Aru-t. Impotency [[sexual]] : Tab. Impotency, after onanism : Arg-n. Impotency, imaginary : Stry-p. Impulses : Arg-n. Impulses, fear his : Alu. Incisors, behind : Pho. Incoherence : Cimi., Coloc., Plb. Incoordination : Gels. Increases, gradually, ceases suddenly : Ign., Pul., Sul-ac. Increases, suddenly and leaves suddenly : Bell., Kali-bi., Nit-ac. Increases, suddenly, leaves gradually : Sabi. Indifference : Clem., Tab. Indifference, to his own : Pho., Sep. Indignation : Stap. Indolence : Kali-bi. Infiltration : Calc-c., Carb-an., Grap., Kali-m., Rhus-t., Sul-io., Sul. Influenza : Ars-io., Eucal., Saba. Inguinal glands, swelled : Clem., Hep., Merc., Nit-ac., Sul. Injuries : Bels., Kali-io. Injuries, bones or cartilage : Rut., Symp. Injuries, crushing : Rut. Injuries, cuts : Stap. Injuries, gaping wounds : Hyper. Injuries, head, to : Calc-c., Sil., Symp. Injuries, lacerations : Hyper. Injuries, old : Cepa., Symp. Injuries, old, pains in : Cepa., Kali-io., Sil. Injuries, twitching : Led. Inquisitive : Agar., Aur., Laur. Insanity, craziness : Amb., Med., Syph., Tarn. Instep, ulcer : Lyc. Inspiration, agg. : Crot-h., Ip., Kali-n., Lob., Mez., Spo. Inspiration, amel. : Colch., Cup., Ign., Lach., Spig., Stan., Verb. Intoxication, easy : Bov., Con., Zin. Introverted : Ol-an. Iris, jagged : Sil., Stap., Thu. Irregular : Con., Echi., Fer., Glo., Grap., Kali-p., Plat. Irresolute : Onos. Irritable : Hep., Senec., Sul-ac., Thyr. Ischias antica : Pod. Isolated effects : Agar., Gels., Ver-a., Zin. Itch, baker's, barber's : Grap., Lith-c., Rhus-t., Sul-io. Itching : Fag., Psor., Sul-io. Itching, affected part, over : Agar. Itching, air, agg. : Hep., Rum. Itching, air, amel. : Stro. Itching, bathing, after : Bov., Calc-c., Clem., Mag-c. Itching, bed, in : Kali-ar., Led., Pic-ac., Sil., Sul. Itching, biting : Old., Stap. Itching, crawling : Tell. Itching, discharges [[causing]] : Tell. Itching, here and there : Am-c. Itching, internal : Ap., Coc-c., Pho., Rhus-t., Sang., Sumb. Itching, scratching, agg. : Crot-t. Itching, scratching, bumps, form : Dulc., Mez., Rhus-t., Ver-a. Itching, scratching, eruption follows : Am-c., Old. Itching, scratching, moisture follows : Grap., Old., Rhus-t. Itching, scratching, must : Agar., Arg-m., Cof., Psor., Stap. Itching, uncovering, on : Nit-ac., Rum. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      },
+      {
+        "text": "Condensed Materia Medica. By Constantine Hering. Presented by Médi-T . * A * B * C * D * E * F * G * H * I * J * K * L * M * N * O * P * R * S * T * U * V * X * Z Ignat. * Ill. an. * Iodum * Ipec. * Iris vers. I Ignatia ---> Ignat. Illicum anisatum ---> Ill. an. Iodum ---> Iodum . Ipecacuanha ---> Ipec. Iris versicolor ---> Iris vers. Copyright © Médi-T 2005.",
+        "source_id": "hering-condensed-mm-1877"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-handbook-1889",
+      "boger-synoptic-key-1915",
+      "hering-condensed-mm-1877"
+    ]
+  }
+}

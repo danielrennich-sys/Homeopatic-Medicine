@@ -1,0 +1,36 @@
+{
+  "id": "euphorbia-ipecacuanhae",
+  "names": {
+    "primary": "Euphorbia Ipecacuanhæ",
+    "latin": "Euphorbia Ipecacuanhæ",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "E. ipecac. is a more active emetic than Ipecacuanha.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Gastritis; Vomiting",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Active and long-continued vomiting with a sense of heat, vertigo, indistinct vision, and prostration. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

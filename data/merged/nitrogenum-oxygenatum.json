@@ -1,0 +1,123 @@
+{
+  "id": "nitrogenum-oxygenatum",
+  "names": {
+    "primary": "Nitrogenum Oxygenatum",
+    "latin": "Nitrogenum Oxygenatum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "This well-known anæsthetic, introduced by Sir Humphrey Davy, has given rise to some pathological symptoms which I have collected in the Schema. Some of them were observed by myself on a girl of twelve who had congestion of the right lung setting in within a few hours of the anæsthesia (H. W., xxv. 64); and on a man, 30, who had blisters round his mouth, inside, on two occasions after being under gas; was troubled with drowsiness for weeks after, and had acneous spots on his face. Others are from the observations of Mr. Silk (H. W., xxv. 462); and the rest are from provings recorded by Allen. Silk observed that females were very much more liable to ill effects than males. One of his patients, an epileptic girl, otherwise healthy, when he removed the face-piece, struggled to get her hands up, and afterwards described her feelings as \"pain in the forehead where the aura commenced.\" In one epileptic patient (not Mr. Silk's) a fit actually did occur. Rhythmic movement of the arms or legs is a common occurrence. One prover had his piles cured as an incidental result of his experiments.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Enuresis; Epilepsy; Hysteria; Lungs, congestion of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Breathing: quick; thick and stertorous. Suffocative feeling. Cough with hæmoptysis. Cough early morning. In a patient suffering from valvular disease heart there was a more than usual degree of lividity during anæsthesia, and a tendency to syncope afterwards. Rhythmic movement of arms or legs. Opisthotonos, most common in females; much struggling. Epileptic convulsion (in an epileptic) during the anæsthesia. Pain in forehead where the aura commenced (in an epileptic under the gas). Increased muscular rigor. Muscular weakness. Muscular pains in joints revived.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Antidoted by: Bell. (?). Compare: Nit. ac. In congestion, Ver. v."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Unusual exaltation of mind; most agreeable sensations and fancies; involuntary desire to laugh. No command over himself. Mental torture beyond endurance. Mind extremely susceptible to suggestion. After the giddiness, rapid rush of thoughts; afterwards unconsciousness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "On going into open air, vertigo and staggering to l. Giddiness after palpitation. A kind of waving of the head. Numb feeling on head, spreading thence over body, before the paroxysms. Aching in head and along spine as if they were asleep. Headache after return of consciousness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Widely dilated pupils. Pupils first dilated, later contracted. Protruding eyeballs.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "On waking from unconsciousness, voices of others seemed to come from a great distance; or to be in a whisper.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Face livid with unconsciousness. Face swollen. Blue lips, ears, face; afterwards face dusky. Acne. Jaws firmly clenched.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Mouth and head feel numb, as though asleep. Eruption of blisters round mouth inside. Point of tongue thrust between teeth. Weakness and feeling of constriction in throat; dysphagia.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Pressure in epigastrium. Nausea and vomiting on return of consciousness; next day a bilious attack.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "(Hæmorrhoidal pains from which he suffered entirely disappeared.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Involuntary micturition.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Erotic movements and sexual illusions. Anæsthesia in a nursing woman brought on a bilious attack next day, and the infant was made ill.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Great pain at chest; cough with hæmoptysis; > hot applications to chest; it seemed as if something which was obstructing the chest dropped down into stomach. Sharp pain in front of chest, lying on r. side. R. chest congested and dull on percussion. Great lividity and tendency to faint (in a cardiac case). Palpitation of heart, afterwards felt and heard in head.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Tension in sides of neck in region of carotids. Drawing in neck, as though skin were contracted or cords shortened. Sensation of drawing in muscles, esp. lumbar muscles.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleepy. Drowsiness continued for weeks after the gas. Screamed whenever she fell asleep.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Coldness of feet and legs to knees between the paroxysms of consciousness. Fever every afternoon from 3 to 6. Delirium in evening. Face covered with perspiration after return of consciousness. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "podophyllinum",
+  "names": {
+    "primary": "PODOPHYLLINUM",
+    "latin": "PODOPHYLLINUM",
+    "common": [
+      "May-apple (PODOPHYLLUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Loquacity and delirium from eating acid fruits. Depression of spirits",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo, with tendency to fall forward. Headache, dull pressure, worse morning, with heated face and bitter taste; alternating with diarrhœa. Rolling of head from side to side, moaning and vomiting and eyelids half closed. Child perspires on head during sleep",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Grinding the teeth at night; intense desire to press the gums together (Phytol). Difficult dentition. Tongue broad, large, moist. Foul, putrid taste. Burning sensation of tongue",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Hot, sour belching; nausea and vomiting. Thirst for large quantities of cold water (Bry). Vomiting of hot, frothy mucus. Heartburn; gagging or empty retching. Vomiting of milk",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Distended; heat and emptiness. Sensation of weakness or sinking. Can lie comfortably only on stomach. Liver region painful, better rubbing part. Rumbling and shifting of flatus in ascending colon",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Cholera infantum and morbus. Diarrhœa of long standing; early in morning; during teething, with hot, glowing cheeks while being bathed or washed; in hot weather after acid fruits. Morning, painless diarrhœa when not due to venous stasis or intestinal ulceration. Green, watery, fetid, profuse, gushing. Prolapse of rectum before or with stool. Constipation; clay-colored, hard, dry, difficult. Constipation alternating with diarrhœa (Ant crud). Internal and external piles",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Pain in uterus and right ovary, with shifting noises along ascending colon. Suppressed menses, with pelvic tenesmus. Prolapsed uteri, especially after parturition. Hæmorrhoids, with prolapsus ani during pregnancy",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Pain between shoulders, under right scapula, in loins and lumbar region. Pain in right inguinal region; shoots down inner thigh to knees. Paralytic weakness on left side",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chill at 7 am, with pain in hypochondria, and knees, ankles, wrists, Great loquacity during fever. Profuse sweat",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "in early morning, in hot weather, during dentition",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Tincture to sixth potency. The 200th and 1000th seem to do good work in cholera infantum, when indicated"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">PODOPHYLLINUM May-apple (PODOPHYLLUM) Is especially adapted to persons of bilious temperament. It affects chiefly the duodenum, small intestines, liver, and rectum The Podophyllum disease is a gastro-enteritis with colicky pain and bilious vomiting. Stool is watery with jelly-like mucus, painless, profuse. Gushing and offensive. Many troubles during pregnancy; pendulous abdomen after confinement; prolapsus uteri; painless cholera morbus. Torpidity of the liver; portal engorgement with a tendency to hæmorrhoids, hypogastric pain, fullness of superficial veins, jaundice.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

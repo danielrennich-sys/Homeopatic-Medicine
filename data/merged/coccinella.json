@@ -1,0 +1,74 @@
+{
+  "id": "coccinella",
+  "names": {
+    "primary": "Coccinella",
+    "latin": "Coccinella",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T COCCINELLA. Coccinella septempunctata (Chrysomela septempunctata, Linn.). Family , Insecta. Nat. order , Coleoptera. Preparation , Tincture of the freshly crushed beetles. Authorities. 1 , Dr. Franz, Archiv. f. Hom., 13, 2, 187; 2 , Dr. Sauter, Hufel. Journ., 14, 2, 91 (from Roth Mat. Med.). HEAD. ► Slight vertigo, [2] . ► Tensive pressure in the head of very brief duration, [2] . ► One-sided headache in the forepart of the head, tearing, fine sticking, [1] . ► Dull headache toward both temples and occiput, as if the brain would become enlarged or distended at these places (after three-quarters of an hour), [1] . FACE. ► Rush of blood to the face, like flushes of heat, [1] . ► Redness and heat of the cheeks, especially of the right, [1] . ► Tearing rhythmical with the pulse, extending from the right upper jaw to the lobule of the ear, [1] . MOUTH. ► Teeth. ► Sensation of coldness in all the teeth, [1] . ► Pleasant sensation of coldness in one tooth, when touched with the finger, [2] . [10.] ► Severe drawing, as though the teeth would be torn out, with a hacking in them, paroxysmal (after three-quarters of an hour), [1] . ► Rhythmical violent drawing in both rows of teeth, while eating, [1] . ► Paroxysmal drawing or tearing, as if a tooth would be torn out, [1] . ► Jerking and tearing in one and tearing in the outer teeth, with some stitches extending towards the occiput, and warmth through the whole head (after one hour and a half), [1] . ► Painful sensation in the back teeth, as if they were hollow and air was forced into them, [1] . ► Dull drawing in the upper back teeth, extending towards the right ear, while sitting (after half an hour), [1] . ► Knitting pain in the back teeth (after a quarter of an hour), [1] . ► Violent throbbing pain in the upper back teeth (after one hour), [1] . ► Pulselike jerking in the back teeth, [1] . ► Gums. ► Swollen gum, [1] . ► Tongue. [20.] ► Tobacco bites the tongue severely, [1] . ► General Mouth. ► Sensation of icy coldness in the entire buccal cavity, [2] . CONDITIONS. ► Aggravation. ► ( While eating ), Drawing in teeth. ► ( While sitting ), Drawing in back teeth. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Face, neuralgia of; Hydrophobia; Tic douloureux; Toothache",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "With disappearance of pain in face respiration becomes oppressed.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Most of the symptoms of Coccinella appear in the teeth and nerves of the face and mouth. It has been used in hydrophobia, and therein its actions would appear to be analogous to that of Cantharis. Symptoms indicating it are: by any bright object. Is awakened by profuse accumulation of Sativa; vomits and complains of sore throat. The neuralgia of Coccin. is at night, accompanied by icy cold extremities and cold, moist skin; the right side is most affected. Pains extend from one part to another, and may jump from side to side. Its attacks recur periodically; are often of brief duration but quickly recurring, generally at night; but may be entirely absent in the night. Returning every eight, ten, twelve, fourteen, or twenty days.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: in tic douloureux, Spi., Thuj."
+      ]
+    },
+    "head": [
+      {
+        "text": "Dull headache, as from an enlargement of the brain towards the occiput. Semi-lateral, tearing and shooting pains in the sinciput.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Faceache, the disappearance of which is attended by faintness, oppressed breathing, and intermittent pulse. Flush of blood (congestion) to face, like a transient heat; cheeks red, esp. r. Pressure and heaviness, esp. over r. eye, which is sensitive to least touch. During paroxysm, cannot open eyes, pain by any bright object. Tearing, rhythmical with pulse, extending from r. upper jaw to the lobule of ear.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Chronic pain extending from superior molars to forehead; affected part paler; attack lasts only a minute but is instantly repeated, at night, preventing sleep. Sensation of coldness in all the teeth; in the entire buccal cavity. Rhythmical, violent drawing in both rows of teeth while eating. Sensation as though the teeth would be drawn out; severe drawing in jerks. Jerking and tearing with stitches, extending to occiput with warmth through whole head. Painful sensation in back teeth as if they were hollow and air were forced into them. Pulsative jerking in back teeth. Swollen gum. Tobacco bites the tongue severely. Sensation in the throat as though the uvula was too long (Nux vom. has this same sensation, when the uvula is bluish and inflamed).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Appetite lost.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Nocturnal attacks of pain entirely preventing sleep, but could not sleep even when pain did not appear. Attack ends in a general heat and sleep of two or three hours, from which he wakes without any pain. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

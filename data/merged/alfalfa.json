@@ -1,0 +1,69 @@
+{
+  "id": "alfalfa",
+  "names": {
+    "primary": "ALFALFA",
+    "latin": "ALFALFA",
+    "common": [
+      "Medicago Sativa, California Clover or Lucerne"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "It induces mental exhilaration of buoyancy, i.e, a general feeling of well being; clear and bright, so that all blues are dissipated. Dull, drowsy, stupid (Gels); gloomy and irritable, worse during evening",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Dull, heavy feeling in occiput, in and above the eyes, worse toward evening. Pain in left side of head. Violent headache",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Stuffed feeling in eustachian tubes (Kali mur) at night; patulous in morning",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Increased thirst. Appetite impaired, but chiefly increased even to bulimia. He must eat frequently, so that he cannot wait for regular meals; hungry in forenoon (Sul). Much nibbling of food and craving for sweets",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Flatulence with distention. Shifting, flatulent pain along colon several hours after meals. Frequent, loose, yellow, painful stools, with burning of flatulence. Chronic appendicitis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Kidneys inactive; frequent urging to urinate. Polyuria (Phos ac). Increased elimination of urea, indican and phosphates",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Slept better than usual, especially in early morning; it induces quiet, reposeful and refreshing sleep",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "The best results are elicited with material doses (5-10) drops of tincture, several times daily. Continue its use until tonic effects ensue"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ALFALFA Medicago Sativa, California Clover or Lucerne >From its action on the sympathetic, Alfalfa favorably influences nutrition, evidenced in \"toning up\" the appetite and digestion resulting in greatly improved mental and physical vigor, with gain in weight. Disorders characterized by malnutrition are mainly within its therapeutic range, for example, neurasthenia, splanchnic blues, nervousness, insomnia, nervous indigestion, etc. Acts as a fat producer, corrects tissue waste. Deficient lactation. Increases quality and quantity of milk in nursing mothers. Its pronounced urinary action suggests it clinically in diabetes insipidus and phosphaturia; and it is claimed to allay vesical irritability of prostatic hypertrophy. The rheumatic diathesis seems especially amenable to its action.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

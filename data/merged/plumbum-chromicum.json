@@ -1,0 +1,117 @@
+{
+  "id": "plumbum-chromicum",
+  "names": {
+    "primary": "Plumbum Chromicum",
+    "latin": "Plumbum Chromicum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T PLUMBUM CHROMICUM. Lead chromate, PbCrO 4 . Common name , Chrome yellow. Authorities. 1 , Dr. Linstow, Vjs. fur Ger. Med., 1874, p. 60, poisoning of two boys by eating small cakes of gum tragacanth and chrome yellow; 2 , Moreau, L'Empoisonnement aigu par le Plumb et ses Composés, 1875, effects in a girl of sixteen, of eating large amounts while preparing artificial flowers; 3 , Leopold, Vjs. f. Ger. Med., July, 1877, effects on a worker in yarn, colored with chrome yellow; 4 , same, in a woman; 5 , same, in a man; 6 , same, in a girl; 7 , Von Linstow, ibid., effects in a child kept near its mother, who was working in the yarn; the dust fell upon the child. HEAD. ► Headache, with ringing in the ears, pains in the chest and stomach, and loss of appetite; inclination to vomit, [3] . EYE. ► Pupils enormously dilated, [2] . ► Eyeballs fixed, staring, [7] . FACE. ► Expression of most profound prostration, [2] . ► Face pale, [7] . ► Lips violet, [2] . ► Lips dry, [7] . ► Jaws firmly closed, [2] . MOUTH. ► Tongue coated yellow, [5] . [10.] ► Point of the tongue red, [2] . THROAT. ► Swallowed with difficulty shortly before death, [7] . STOMACH. ► Loss of appetite, [4] , [6] . ► Complete loss of appetite, [5] . ► At first it drank freely, but afterwards refused to drink, [7] . ► Nausea, [2] . ► Nausea, with inclination to vomit, [5] . ► Nausea and vomiting, [5] . ► In the afternoon, between 2 and 3, both boys were taken sick with violent vomiting and great prostration; the substances vomited at first were yellow; the vomiting lasted in one till 11, and in the other case till 8 P.M., but was not frequent during the latter part of the time. About 6 P.M., a physician was called and found both patients lying in bed, seeming to be very sick, faces very red; they complained of great thirst, were restless, had no diarrha, complained of no pain. Up to this time they had been perfectly healthy. The treatment consisted in the administration of Calcined magnesia. On the following day the patients still had red and hot faces, were apathetic, but when questioned showed a knowledge of what was passing around them. The younger at this time had some diarrha, and towards noon convulsions, during which the face became livid; these convulsions became more frequent towards evening; the patient died at 9 the next morning. The elder's face continued red; he was apathetic, almost soporous; the skin of the chest and abdomen was remarkably erythematous; in the evening, temperature in the axilla 39.5°. The next day the pulse was irregular and intermittent; temperature in the evening 39.6°. He was ordered subcutaneous injections of Chinin, as swallowing was exceedingly difficult in spite of great thirst. On the next day there was a bad odor in the mouth, sopor, difficult swallowing; temperature 39.2°. On the next day, a very bad odor in the mouth, swallowing almost impossible, mind greatly confused. Death at 11 A.M., [1] . ► Pain in the epigastric region, [5] . ABDOMEN. [20.] ► Abdomen hard and forcibly retracted, [2] . ► Pain in the umbilical region, [5] . ► Violent cramp in the abdomen, with constipation, [5] . STOOL. ► Violent diarrha, [6] . ► Yellow diarrha, [7] . ► Constipation, with yellow fæces, [5] . ► Constipation, [3] . RESPIRATORY ORGANS. ► Respiration short and labored, [2] . ► Respiration short, [7] . PULSE. ► Pulse tumultuous, 126 to 130, [2] . CHEST. [30.] ► Redness of the chest and abdomen, [7] . ► Pains in the chest, [4] , [6] . BACK. ► Pain in the spine, [5] . GENERALITIES. ► Frequent screaming, [7] . ► Convulsions, with terrible pains, [2] . ► The child's death was caused by exhaustion and by softening of the coats of the stomach, [7] . ► Great restlessness, [7] . ► Weakness, [5] . ► Great prostration, [5] . ► Symptoms relieved by drinking warm milk, [4] . SKIN. [40.] ► Skin dry, [2] . SLEEP. ► Sleeplessness, [5] . FEVER. ► Whole body hot, [7] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Colic; Convulsions; Cramps; Diarrhœa; Dysphagia; Erythema; Screaming; Tenesmus",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Respiration short; laboured. Frequent convulsions, during which face becomes livid. Frequent screaming. Convulsions with terrible pains. Prostration. Restlessness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Several cases of poisoning by Chrome Yellow have been observed. The symptoms present the cardinal features of lead poisoning-cramps, convulsions, retracted abdomen. Characteristic features were a violent diarrhœa of yellow colour. Yellow stools with constipation. Convulsions with terrible pains. Erythematous redness of chest and abdomen. Pupils enormously dilated. The face was red and hot, and there was heat of the body generally. The symptoms were towards evening. > By drinking warm milk.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Apathetic, but when questioned knew what was going on around. Apathetic, almost soporous.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Headache with ringing in ears, pains in chest, loss of appetite, inclination to vomit.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Pupils enormously dilated. Eyeballs fixed, staring.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Ringing in ears with headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Face pale. Face red and hot. Face livid during convulsions. Expression of most profound prostration. Lips violet. Lips dry. Jaws firmly closed.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue coated yellow. Point of tongue red. Bad odour from mouth. Swallowed with difficulty; shortly before death.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Appetite lost. Great thirst. Nausea and vomiting. Softening of coats of stomach. Pain in epigastric region. Abdomen hard and forcibly retracted. Pain in umbilical region. Violent cramps in abdomen with constipation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Violent diarrhœa. Yellow diarrhœa. Constipation with yellow fæces. Constipation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pain in chest. Redness of chest and abdomen. Pulse tumultuous. Pulse irregular and intermittent.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Pain in spine.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Skin of chest and abdomen remarkably erythematous.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleeplessness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Whole body hot. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

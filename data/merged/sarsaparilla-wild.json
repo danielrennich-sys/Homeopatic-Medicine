@@ -1,0 +1,28 @@
+{
+  "id": "sarsaparilla-wild",
+  "names": {
+    "primary": "Sarsaparilla. Wild Liquorice. (Smilaceae)",
+    "latin": "Sarsaparilla. Wild Liquorice. (Smilaceae)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "For dark-haired persons, lithic or sycotic diathesis. Great emaciation: skin becomes shriveled or lies in folds (Abrot., Iod., Nat. m., Sanic.). Headache and periosteal pains generally from mercury, syphilis or suppressed gonorrhoea. In children; face like old people; enlarged abdomen; dry, flabby skin (Bar. c., Op.). Herpetic eruptions on all parts of body; ulcers, after abuse of mercury, in syphillis. Rash from exposure to open air; dry, itch-like eruptions, prone to appear in spring; become crusty. Severe, almost unbearable pain at conclusion of urination (Berb., Equis., Med., Thuja). Passage of gravel or small calculi; renal colic; stone in bladder; bloody urine. Urine: bright and clear but irritating; scanty, slimy, flaky, sandy, copious, passed without sensation (Caust.); deposits white sand. Painful distention and tenderness in bladder; urine dribbles while sitting, standing, passes freely; air passes from urethra. Sand in urine or on diaper; child screams before and while passing it (Bor., Lyc.). Gonorrhoea checked by cold, wet weather, or mercury, followed by rheumatism. Neuralgia or renal colic; excruciating pains from right kidney downwards (Lyc.). Intolerable stench on genital organs; fluid pollutions; bloody seminal emission (Led., Mer.). Retraction of nipples; nipples are small, withered, unexcitable (Sil.). Rheumatism, bone pains after mercury or checked gonorrhoea; pains < at night, in damp weather or after taking cold in water. Itching eruption on forehead during menses (Eug. j., Sang., Psor.). Rhagades: skin cracked on hands and feet; pain and burning particularly on sides of fingers and toes; skin hard, indurated.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Complementary: Merc., Sep., either of which follows well. Compare: Berb., Lyc., Nat. m., Phos. Frequently called for after abuse of Mercury.",
+        "source_id": "allen-keynotes-1899"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-keynotes-1899"
+    ]
+  }
+}

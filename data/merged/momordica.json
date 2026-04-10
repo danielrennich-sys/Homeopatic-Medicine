@@ -1,0 +1,81 @@
+{
+  "id": "momordica",
+  "names": {
+    "primary": "Momordica",
+    "latin": "Momordica",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T MOMORDICA. Momordica balsamina, Linn. Natural order , Cucurbitaceæ. (Common in gardens). Authority. A Mercier, M.D., proving by Mrs. Mercier, with 24 drops of the tincture, Western J. of Hom., 1. p. 42. HEAD. ► Feeling dizziness, great lightness in the head; sensation as if the whole contents of the head had greatly diminished in weight; slight headache. EYE. ► Sensation of occasional mist or cloud passing before the eyes. FACE. ► Face at times red, but generally very pale. STOMACH. ► Slight sickness at stomach. ABDOMEN. ► Griping, general colic pains, starting from the back and spreading over whole abdomen; forcing pains, resembling labor pains, in the hypogastric regions. STOOL. ► Two or three healthy stools for several days. SEXUAL ORGANS. [10.] ► Painful and too profuse menses, but lasting only the regular length of time; labor pains during menses, followed by gushes of blood; white, light mucous discharge between the interval of the menses. PULSE. ► Pulse quick and weak. BACK. ► Pains in the small of the back at the time of the menses, sometimes very acute, beginning at the sacrum and coming towards the front of the pelvis. GENERAL SYMPTOMS. ► General feeling of weakness and sometimes of faintness. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Colic; Dysmenorrhœa; Flatulence; Leucorrhœa; Menorrhagia",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Two or three healthy stools [daily?] for several days. Weak feeling, sometimes faintness. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Momordica was introduced by Dr. Mercier, whose wife made the proving with twenty-four drops of the tincture, producing some very well characterised symptoms. Griping and colic declared its relationship to Colocynth. and Elater., as also severe pains in back and hypogastrium with painful and excessive menses. A peculiar sensation is: \"As if the whole contents of the head had greatly diminished in weight.\" Farrington gives as a keynote (though it does not appear in the proving) \"distension and rumbling in splenic flexure of colon,\" which he compares with the effects of Lyc.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Dizziness, lightness in head; sensation as if whole contents of head had greatly diminished in weight. Slight headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Sensation of occasional mist or cloud passing before eyes.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Face at times red; but generally very pale.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Slight sickness at stomach. Griping, general colic pains, starting from back and spreading over whole abdomen; piercing, labour-like pains in hypogastrium. (Accumulation of flatus in splenic flexure of colon; rumbling.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Painful and too profuse menses, but listing only usual time. Labour pains during menses followed by gushes of blood. White, light mucous discharge between periods.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pulse quick and weak.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Pain at small of back at time of menses, sometimes very acute, beginning at sacrum and coming towards front of pelvis.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

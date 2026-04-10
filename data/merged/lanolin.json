@@ -1,0 +1,32 @@
+{
+  "id": "lanolin",
+  "names": {
+    "primary": "Lanolin",
+    "latin": "Lanolin",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "indications": [
+      {
+        "text": "Synonyms—Adeps Lanae Hydrosus. Hydrous wool fat.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—As an ointment base, this substance is absorbed by the skin more rapidly than any other known base, facilitating also the absorption of the medicinal constituents of the ointment of which it forms a part. This author has proven this to his complete satisfaction in hundreds of cases, notwithstanding the statements of foreign experimenters, that it has no superior influence. It is soothing to the skin and healing to a remarkable extent and perceptibly promotes the growth of hair. An ointment, of which this is the base, applied to a given surface for thirty days will show a marked increase in the growth of the hair as compared with that on the surrounding surface.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "ellingwood-1919"
+    ]
+  }
+}

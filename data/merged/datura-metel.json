@@ -1,0 +1,40 @@
+{
+  "id": "datura-metel",
+  "names": {
+    "primary": "Datura Metel",
+    "latin": "Datura Metel",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T DATURA METEL. Datura metel, Linn. Natural order , Solanaceæ (Indian Datura, probably confounded with the present Datura alba, including D. fastuosa, L.). Preparation , Trituration of the seeds. Authorities. 1 , Rhazes, Lib. ad Mans., 1544 (from Wibmer); 2 , Kæmpfer, Amnit. Exot. Fax., iii, p. 650 (ibid.); 3 , Knorre, A. H. Z., 6, 35, effects of expressing the juice; 4 , Dr. Giraud, Trans. of Med. and Phys. Soc. of Bombay (N. A. J. of Hom., 2, 339), poisonous effects of powdered seeds mixed with food; 5 , Trans. of Calcutta, from Wibmer, effects of a decoction of the bark of the root of D. fastuosa on a woman. MIND. ► Delirium, [1] . ► Intoxication, loss of sensibility, and spasms, [2] . ► In many cases, three stages of symptoms are observed: Primary delirium, sopor, or even coma, and secondary delirium-a single stage, that of delirium only, occurring in mild cases. ► The primary delirium may be vociferous or merely garrulous, the patient usually manifesting excessive timidity. In both this and the soporific stage, he is constantly engaged in picking at real or imaginary objects, and sometimes in performing such antics as to render laughter on the part even of friends unavoidable. Several of the movements seem to depend upon perverted vision, which destroys the power of judging of the distance of objects, and which may be due to the widely dilated pupil, a persistent symptom. In the majority of cases, the soporose stage is absent, the delirium subsisting for from six to ten hours, [4] . ► On recovery, the person usually recollects nothing since the meal at which he was poisoned, so rapid are its effects, [4] . EYE. ► Dilated pupils for several days, [5] . ► Extreme dilatation of the left pupil, so that the iris seems like a narrow rim, lasting three days, [3] . ► Flickering before the eyes, with sensitiveness to the light, [3] . PULSE. ► The pulse, usually natural, undergoes in some cases extremes of exaltation and depression, [4] . SLEEP. ► Possesses soporific properties, [1] . [10.] ► She fell into a slumber, with intermitting pulse, [5] . FEVER. ► Temperature, usually natural, undergoes in some cases extremes of exaltation and depression, [4] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Convulsions; Delirium; Epilepsy; Eye, affections of; Mania; Timidity",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Datur. metel causes a soporose condition, and later delirium and spasms. The soporose state may be absent. Delirium may be vociferous, or merely garrulous. Patient usually manifests excessive timidity. Picks at real or imaginary objects. Performs ridiculous antics. Several movements appear due to perverted vision, and inability to judge distances. After the delirium, patient remembers nothing of what has occurred. Extreme dilatation of pupils. Flickering before eyes with sensitiveness to light. Pulse and temperature undergo extremes of exaltation and depression.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Other Solanaceæ. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

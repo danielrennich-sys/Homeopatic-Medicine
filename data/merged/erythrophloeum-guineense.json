@@ -1,0 +1,63 @@
+{
+  "id": "erythrophloeum-guineense",
+  "names": {
+    "primary": "Erythrophloeum guineense (G. DON)",
+    "latin": "Erythrophloeum guineense (G. DON)",
+    "common": [
+      "Sassy Bark"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "preparation": [
+      {
+        "text": "Bark of the tree and branches.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Upper Guinea and Senegambia.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "The tree is large and spreading, and the bark very hard, breaking with a short, granular fracture. It varies in size and thickness according to the age of the stem or branch. It may be flat or curved, dull grey, red-brown, or almost black, with reddish warts or circular spots merging into bands running longitudinally. It is inodorous, with an astringent, acrid taste. In West Africa the drug is used as an ordeal poison in trials for witchcraft and sorcery. Possibly other species yield the Sassy Bark of commerce, differences being noticed in its properties at different periods.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Sassy Bark yields its proper ties to water. The poisonous principleErythrophleine was obtained and confirmed in several experiments, possessing an action similar to that of digitalis. From this an acid called erythrophleic acid and a volatile alkaloid called Manz�onine were obtained by the action of hydrochloric acid. In contact with sulphuric acid and black manganese oxide, a violet colour is obtained, rather paler than that produced with strychnine. The bark also contains tannin and resin. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Astringent, analgesic. The hydrochloride has been used in dental surgery. Erythrophleine causes a slow, strong pulse, with a rise in the arterial pressure. Purging is probably due to local action on peristalsis, and vomiting, the result or influence on the nerve centres, as it occurs when the alkaloid is given hypodermically. There has been much controversy concerning its anaesthetic powers. It has not yet been obtained in crystalline form, and needs fuller investigation. Observations in West Africa about 1859 showed that Sassy Bark produced constriction in the fauces, with prickling, and later, numbness. It is asserted that it gives great relief in dyspnoea, but is uncertain as a heart tonic. The powder is strongly sternutatory. It has been useful in mitral disease and dropsy, but disturbs the digestion even more than digitalis.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Of the alkaloid, 1/40 to 1/30 grain. Of the extract, 1/4 to 1/3 grain. A solution of 1/10 of 1 per cent is used as an application to the cornea.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {
+    "documented_adverse_effects": [
+      {
+        "text": "An overdose causes stricture across the brow, severe pain in the head, coma, and death. [ Top ]",
+        "source": "Grieve"
+      }
+    ]
+  },
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

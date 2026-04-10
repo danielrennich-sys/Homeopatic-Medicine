@@ -1,0 +1,93 @@
+{
+  "id": "oniscus",
+  "names": {
+    "primary": "Oniscus",
+    "latin": "Oniscus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T ONISCUS. Oniscus asellus, Linn., and O. armadillo, L. (Armadillo officinalis, Cuv.). Order , Isopoda. Class , Crustacea of the articulate animals. Common names , Sow-bug; (Fr.), Cloporte or Porcelet. Preparations , Tincture of the living animals. [See valuable article on chemical analysis, medical history, etc., of these animals, by Dr Mehu, Bull. de Thérap., p. 304, 1877.] Authorities. 1 , Hering, Archiv. f. Hom., 13, 1, 168, effects of the tincture; 2 , Wolff, Med. Zeit. v. Ver. d. Heilk. in Preussen, 1833, No. 47, p. 2211, effects of the three \"cellar-worms,\" taken in a glass of brandy before a paroxism of fever; 3 , Lange, Misc. Ver. Fasc. 1, p. 56 (Am. Hom. Obs., 1872, p. 312), general statement of effects of O. armadillo. HEAD, FACE, AND MOUTH. ► Dull heaviness of the head, [1] . ► Boring pain behind the right ear, on the mastoid process, with violent pulsation in the arteries, [1] . ► Painful pressure above the eyebrows and on the margin of the nose, first on the left side, afterwards on the right, [1] . ► Pale face, wild expression , [2] . ► (The toothache that had disappeared returned), [1] . ► Pressure on the soft palate posteriorly, as if would close, [1] . STOMACH AND ABDOMEN. ► Thirst, [1] . ► Somewhat nauseated, followed by persistent pressure, as if in the cardiac orifice of the stomach, [1] . ► Continued vomiting, [2] . [10.] ► Very severe colic, with meteorism and tension of the abdomen , [2] . RECTUM AND ANUS. ► (Sudden desire for stool, followed by a sudden thin stool), [1] . ► Burning pain in the anus, [1] . URINARY AND SEXUAL ORGANS. ► Tenesmus of the bladder and rectum, with absence of stool and urine , [2] . ► Cutting burning in the urethra, with excessive bodily restlessness , [2] . ► Many erections, with disinclination to work, [1] . RESPIRATORY ORGANS. ► The mucus hawked up is streaked with blood, [1] . GENERALITIES AND SLEEP. ► In young patients an hæmoptysis is induced by the salt with which these insects abound, [3] . ► Inclination to stretch, [1] . [20.] ► Frequent yawning, [1] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Colic. (Epilepsy.) Hæmoptysis; Strangury; Toothache",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "In. young patients hæmoptysis is induced by the salt with which these insects abound. Inclination to stretch.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "In Germany Onis. has a popular reputation as a remedy for epilepsy. Hering proved a tincture, and Wolff recorded the effect of swallowing three \"cellar-worms\" in a glass of brandy before an attack of fever. This experience has provided the most characteristic symptoms of the remedy, showing it to be related to Cantharis, Apis, and their cognates. These symptoms were noted: Pale face, wild expression, constant vomiting. Very severe colic with meteorism and tension of abdomen. Tenesmus of bladder and rectum. Cutting burning in urethra. The symptoms of Hering's proving showed pains in the head, over the eyes, and down the nose. Constriction of gullet and stomach. Burning in anus. Many erections with disinclination to work. Hawking up of blood-streaked mucus. The last two symptoms again recall Canth. Frequent yawning and desire to stretch.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Dull heaviness of the head. Boring pain from behind r. ear on mastoid process, with violent pulsation in the arteries. Painful pressure above eyebrows and on margin of nose, first l. side, afterwards r. Painful pressure above the root of the nose.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Boring behind the r. ear, with increased arterial action.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Pale face; wild expression.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Toothache, which had disappeared, returned. Pressure on soft palate, posteriorly as if it would close. Cramps in the gullet, as if it were about to close. Hawking up of mucus streaked with blood.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea, with continued pressure at the orifice of the stomach. Continual vomiting. Very severe colic, with meteorism and tension of abdomen.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Urgent and sudden want to evacuate, with prompt and liquid evacuation. Burning pain in anus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Tenesmus of bladder and rectum, with absence of stool and urine. Cutting boring in urethra with excessive bodily restlessness.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Frequent erections, with aversion to labour.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Frequent yawning. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

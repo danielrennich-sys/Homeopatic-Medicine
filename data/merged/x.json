@@ -1,0 +1,98 @@
+{
+  "id": "x",
+  "names": {
+    "primary": "X-RAY",
+    "latin": "X-RAY",
+    "common": [
+      "Vial containing alcohol exposed to X-Ray"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Sticking pains in different parts of head and face. Dull pain in right upper jaw. Stiff neck. Sudden cricks in neck, pains more severe behind ears. Pain in muscles of neck when lifting head from pillow. Fullness in ears, ringing in head",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue dry, rough, sore. Throat painful on swallowing. Nausea",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Lewd dreams. Sexual desire lost. Re-establishes suppressed gonorrhœa",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Rheumatic pains. General tired and sick feeling. Palms rough and scaly",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Dry, itching eczema. Erythema around roots of nails. Skin dry, wrinkled. Painful cracks. Warty growths. Nails thicken. Psoriasis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "in bed, afternoon, evening and night; open air",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Twelfth potency and higher. Compare:"
+    },
+    "generalities": [
+      {
+        "text": "[Electricitas] Sugar of milk saturated with the current (Anxiety, nervous tremors, restlessness, palpitation, headaches. Dreads approach of thunder-storms; heaviness of limbs)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "[Magnetis] ",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "[The] Sugar of milk or distilled water exposed to influence of entire mass (Burning lancinations throughout the body; pains as if broken in joints, when cartilages of two bones touch; shooting and jerkings; headache as if a nail were driven in; tendency of old wounds to bleed afresh)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "[Magnetis] ",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "[North] (Disturbed sleep, somnambulism, cracking in cervical vertebræ, sensation of coldness; toothache)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "[Magnetis] ",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "[South] (Severe pain in inner side of nail of the big toe, ingrowing toenail; easy dislocation of joints of foot; feet are painful when letting them hang down)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">X-RAY Vial containing alcohol exposed to X-Ray Repeated exposure to Roentgen (X-ray) has produced skin lesions often followed by cancer. Distressing pain. Sexual glands are particularly affected. Atrophy of ovaries and testicles. Sterility. Changes take place in the blood lymphatics and bone marrow. Anæmia and leukæmia. Corresponds to stubbornness as in burns, they refuse to heal. Psoriasis. Has the property of stimulating cellular metabolism. Arouses the reactive vitality, mentally and physically. Brings to the surface suppressed symptoms, especially sycotic and those due to mixed infections. Its homeopathic action is thus centrifugal, towards the periphery.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

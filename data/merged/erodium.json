@@ -1,0 +1,30 @@
+{
+  "id": "erodium",
+  "names": {
+    "primary": "Erodium",
+    "latin": "Erodium",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Erodium is a popular hæmostatic remedy in Russia, and is especially used for metrorrhagia and menorrhagia. Komorowitch cured with it numbers of cases in which Ergot and Hydrastis had failed. One was a case of cervical polypus. After three days' use of the decoction the polypus was found lying free in the vagina. Compare Geran. m. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Hæmorrhages; Uterine polypus",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

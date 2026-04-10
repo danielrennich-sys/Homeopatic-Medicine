@@ -1,0 +1,73 @@
+{
+  "id": "lobelia-coerulea",
+  "names": {
+    "primary": "Lobelia Coerulea. (Lobelia Syphilitica.)",
+    "latin": "Lobelia Coerulea. (Lobelia Syphilitica.)",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Much depressed, tearful, unhappy. Bad effects from grief. Constant disposition to cry, with sadness and dejection ; such weakness of brain that all excitement is forbidden ; he could neither sit alone, nor could he talk when he had to exert his mind ; seemed as if he would go wild. Great depression of spirits ; unhappy state of mind, always associated with pain about and under (not below) short ribs, in back, on left side, extending outward nearly to left side ; posterior aspect of region of spleen.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Catarrhal inflammation of posterior nares and fauces.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Acid eructations from 5 to 6 P. M.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Dry, hacking cough of four weeks' duration, extremely troublesome day and night, and pain in right side about junction of sixth rib with its cartilage, of a year's duration ; dryness of back part of throat.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Oppression in lower part of chest, as if breath did not reach there ; distress in region of heart, and audible \"knocking\" respiration (like sound of axe, chopping wood) ; pain under short ribs, and dry cough.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "Pain and aching in posterior aspect of region of spleen. A pain commencing at right side of small of back, then going down to os ischium, very sore to touch. Great rigidity of spine ; least motion exceedingly painful ; pain goes from right to left side of back, and shoots down legs. Pain in eighth dorsal vertebra and in back under short ribs ; < by movement and deep inspiration.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "REST. POSITION. MOTION. [35] [Lob. c.]. Motions : painful in spine ; pain in back and under short ribs. From 5 to 6 P. M. : sour eructations. Four weeks' duration : dry, hacking cough, day and night. For a year : pain in right side.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Right : pain in side ; commencing at side of small of back, going down to ischium. Left : pain on side of back. From right to left : pain in back. As if he would go wild ; as if breath did not reach lower part of chest. Pain : about and under (not below) short ribs, in back, on l. side ; in right side, about junction of sixth rib with its cartilage ; in posterior aspect of region of spleen ; commencing at right side of small of back, going down to os ischium ; in eighth dorsal vertebra. Shooting pain : down legs. Distress : in region of heart. Dryness : of back part of throat. Oppression : in lower part of chest. Rigidity : of spine. TOUCH. PASSIVE MOTION. INJURIES. [45] [Lob. c.]. Touch : os ischium sore. An intelligent and educated man ; melancholia.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare : Pulsat. in mental depression and weeping ; Ranunc. in left scapular pains ; Ceanothus in splenic pain",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "hering-guiding-1879"
+    ]
+  }
+}

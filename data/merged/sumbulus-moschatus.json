@@ -1,0 +1,68 @@
+{
+  "id": "sumbulus-moschatus",
+  "names": {
+    "primary": "SUMBULUS MOSCHATUS",
+    "latin": "SUMBULUS MOSCHATUS",
+    "common": [
+      "Musk-root (SUMBUL - FERULA SUMBUL)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Emotional and fidgety. Dull in morning, clear in evening. Mistakes in writing and adding. Comedones. Tenacious, yellow, mucus in nose",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Chocking constriction; constant swallowing. Belching of gas from stomach. Spasm of pharyngeal muscles. Tenacious mucus in throat",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Nervous palpitation. Neuralgia around left breast and left hypochondriac region. Cardiac asthma. Aching in left arm, heavy, numb an weary. Loses breath on any exertion. Pulse irregular",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Ovarian neuralgia. Abdomen full, distended, and painful. Climacteric flushes",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Oily pellicle on surface of urine",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "active exercise; left side",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Tincture, to third potency. Dr. W. McGeorge advises the 2x every 3 hours for arterio-sclerosis"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">SUMBULUS MOSCHATUS Musk-root (SUMBUL - FERULA SUMBUL) Has many hysterical and nervous symptoms, and is of use in neuralgic affections and anomalous, functional, cardiac disorders. Numbness on becoming cold. Numbness on left side. Insomnia of delirium tremens (fifteen drops of tincture). Sensation as if water dropped down spine. Asthma. A tissue remedy for sclerosed arteries.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

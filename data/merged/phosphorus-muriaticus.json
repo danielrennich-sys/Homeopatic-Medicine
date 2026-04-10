@@ -1,0 +1,58 @@
+{
+  "id": "phosphorus-muriaticus",
+  "names": {
+    "primary": "Phosphorus Muriaticus",
+    "latin": "Phosphorus Muriaticus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "J. Meredith (H. W., xxxiii. 127) has recorded the effects observed on a science student from grinding up this salt and inhaling the fumes. Eye-soreness, coryza, sore throat and chest with difficult breathing, were the main symptoms. They lasted fourteen days from the exposure; and were cured by Bell. 3x internally and a one per cent. Iodine lotion locally as a compress at night.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Asthma; Coryza; Ophthalmia",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "In morning breathing difficult; lungs wheezy; chest and throat sore.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Great soreness of mucous membranes of eyes and nose, with copious intermittent runnings; lasts all night. Shades eyes from light reflected from tablecloth at dinner. Whites of eyes congested.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Irritation and copious intermittent running. The intolerable smell of the fumes cannot be forgotten at night, and sleep is impossible.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Throat and chest sore.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Symptoms kept him awake all night. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

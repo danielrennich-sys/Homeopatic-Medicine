@@ -1,0 +1,74 @@
+{
+  "id": "lyssinum",
+  "names": {
+    "primary": "LYSSINUM",
+    "latin": "LYSSINUM",
+    "common": [
+      "Lyssin-Saliva of Rabid Dog (HYDROPHOBINUM)"
+    ],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "head": [
+      {
+        "text": "Lyssophobia; fear of becoming mad. Emotion and bad news aggravate; also, thinking of fluids. Hypersensitiveness of all senses. Chronic headache. Boring pain in forehead",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Constant spitting; saliva tough, viscid. Sore throat; constant desire to swallow, which is difficult; gagging when swallowing water. Froths at mouth",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Lascivious; priapism, with frequent emissions. No emission during coition. Atrophy of testicles. Complaints from abnormal sexual desire",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Uterine sensitiveness; conscious of womb (Helon). Feels prolapsed. Vagina sensitive, rendering coition painful (Berberis). Uterine displacements",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Voice altered in tone. Breathing held for a time. Spasmodic contraction of respiratory muscles",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Desire for stool on hearing or seeing running water. Profuse, watery stools, with pain in bowels; worse, evening. Constant desire to urinate on seeing running water",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "sight or sound of running water or pouring water, or even thinking of fluids; dazzling or reflected light; heat of sun; stooping",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Thirtieth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">LYSSINUM Lyssin-Saliva of Rabid Dog (HYDROPHOBINUM) Affects principally the nervous system; aching in bones. Complaints from abnormal sexual desire. Convulsions brought on by dazzling light or sight of running water.",
+        "source_id": "boericke-1927"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927"
+    ]
+  }
+}

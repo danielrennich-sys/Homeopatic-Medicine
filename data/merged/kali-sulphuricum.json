@@ -1,0 +1,758 @@
+{
+  "id": "kali-sulphuricum",
+  "names": {
+    "primary": "Cell Salt #7 - Kali Sulphuricum",
+    "latin": "Kalium Sulphuricum",
+    "common": [
+      "Kali Sulph",
+      "Potassium Sulphate",
+      "Sulphate of Potash"
+    ],
+    "synonyms": [
+      "KALI SULPHURICUM",
+      "Kalium Sulphuricum",
+      "KALIUM SULPHURICUM",
+      "Cell Salt #7",
+      "Schuessler Salt #7",
+      "Tissue Salt #7",
+      "Kali Sulphuricum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Schüssler's account of this remedy is as follows: K. s., which in reciprocal action with iron effects the transfer of the inhaled oxygen to all the cells, is contained in all the cells containing iron. A deficiency of K. s. causes: \"A sensation of heaviness and weariness, vertigo, chilliness, palpitation of the heart, anxiety, sadness, toothache, headache, and pain in the limbs.\" These are in a room; in warmth; towards evening; > in open, cool air. \"There ensues a desquamation of cells of the epidermis and epithelium, which have been loosened from their connection because they were not sufficiently provided with oxygen. The scaling off of these epithelial cells is followed by catarrhs with a secretion of yellow mucus. Therapeutically K. s. answers to the process of desquamation which takes place after scarlatina, measles, erysipelas of the face, &c.\"; to catarrh of larynx, bronchi, nostrils, &c., where the secretion has the above-named characteristics; to catarrh of stomach, where the tongue has a yellowish mucous coating; to catarrh of middle ear, and of the kidneys. K. s. effects the access of oxygen, and so facilitates the formation of new epithelium. Schüssler points out that K. s. and iron carry on the same transference of oxygen in the organic world. When a sulphate and any oxide of iron comes into contact with decomposing organic substances they surrender their oxygen and form sulphurate of iron. By more oxygen this may be further decomposed into sulphuric acid and an oxide of iron. K. s. is Schüssler's Pulsatilla. It has had no proper proving, and the fine indications are not so clear as they might be. The leading indications are those given by Schüssler─the Yellow colour of the discharges; the skin and mucous membrane appearances, and the by warmth and > in open air. M. E. Douglass (H. R., x. 279) reports a case of asthma with thick yellow expectoration, much rattling in chest, laboured breathing, talking almost impossible, cured with K. sul. 3x, five grains every hour in the attack. Hansen cured with K. sul. 3x a case of psoriasis beginning on right leg, later attacking left leg and left elbow. Eruption, papular, oval and annular with paler centres, covered with whitish scales, skin beneath red and smooth. The guiding symptom was \"great desquamation of the epidermis.\" All symptoms are in evening (Puls. in twilight). \"Its sphere of action is in lymphatic vessels: when there is lack of this substance, a yellow mucous catarrh arises, or a yellow sticky discharge from isolated places on membranes.\" The pains are wandering: wandering rheumatism (Puls., K. bi.). Gonorrhœa and ophthalmia neonatorum (Puls.).",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Yellow or greenish discharges from mucous membranes; cough loose and rattling.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Rheumatic pains in joints; moving from joint to joint.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Modalities: in open air.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "The chronic of Pulsatilla.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "When writing upon the Kalis I left this one out. There is no proving (deserving the name) of this drug, but like some other remedies in our Materia Medica clinical use on the theory of Schuessler has developed some valuate guides to its homœopathic uses. It resembles Pulsatilla in a number of its symptoms, and being a deeper acting remedy is sometime useful to complement that remedy. But first let us note the similarities:",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "1st. Yellow or greenish discharges from mucous membranes.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "2d. Evening aggravation of fever symptoms.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "3d Amelioration (general) in open air.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "4th. Rheumatic pains in joints, or any party of the body, of a shifting, wandering nature.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "5th Aggravation in a heated room.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "6th Loose cough, with rattling of mucus.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "These are all very similar to Pulsatilla, and I have frequently verified them, in cases of catarrh of mucous membranes, whether acute or chronic, but especially chronic or after the failure of Pulsatilla.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "I once produced rheumatism of the joints with Kali sulph, and it was of the above described kind, thus proving the symptom genuine, though up to that time it was only clinical I always use it in the 30th, and I think that any after-cured symptom from a potency as high as the 30th will be found in accordance with our law of similia when thorough proving of the drug is made.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "color=\"#800000\">KALIUM SULPHURICUM Potassium Sulphate (KALI SULPHURICUM) Ailments accompanied by profuse desquamation. Applicable to the later stages of inflammation. Yellow, mucous and serous discharges, profuse and intermittent. Has been found of much use in oxaluria.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Kalium Sulphuricum",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Two very deep acting remedies unite to form this one. It was left to Schüessler to show its first curative powers.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Dewey's work, on the \"Tissue Remedies\" gives the best presentation from the biochemic view. The writer gathered the symptoms from reported cures for many years, and found that they were justified by the study of the two remedies entering into the formation.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Generals: Many of these symptoms come out upon the sick as aggravations. Some of these are only cured symptoms. This arrangement could be improved upon much by provings. If the reader will carefully use this remedy as herein directed he will be astonished at its depth of action, and if he uses it high he will be surprised at the length of action of every dose.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It has cured epilepsy, lupus and epithelioma, and many desquamating skin affections. It has cured most obstinate case of chronic intermittent fever. It is useful in catarrhal affections with thick yellow or greenish pus, viscid or thin yellow watery discharges.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Most symptoms are aggravated in the evening. The patient craves fresh and even cold air, and he is ameliorated in open air and cool air. Aggravation by exertion and becoming heated. Complaints come on during rest, and are ameliorated by motion. Complaints aggravated in warm room. Takes cold from being overheated.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "When once heated he cannot cool off without taking cold. Predisposition to phthisis. It is frequently indicated after Tuberculinum. Epileptiform convulsions. Jerking of the limbs and twitching of muscles. Dropsical condition of the extremities. Loss of flesh, and complaints aggravated after eating. Fasting ameliorates many symptoms. Flabby muscles. Fatty degeneration of glands, liver and heart. Heaviness of limbs and weariness of the body.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Hysterical symptoms. Sluggishness of the body and lack of physical irritability. Well selected remedies fall short in action. Wants to lie down, but lying in bed aggravates; he must walk about to ameliorate his sufferings. Surging of blood in the body.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain: in the limbs, bones and glands.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Wandering pains. Pains ameliorated by motion, ameliorated walking, ameliorated in open air; aggravated in a warm room, aggravated sitting or lying, or rest in any form.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The pain are burning, cutting, jerking, stitching and tearing, ulcerative pains. Tearing downward in the limbs. Tearing in glands and muscles. pulsation all over the body. Touch aggravates many symptoms. Many symptoms appear on waking.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Trembling and quivering. Walking ameliorates. Warm coverings aggravate, warm room aggravate, warm bed aggravates, warm wraps aggravate; bathing aggravates. Complaints dating back to suppressed eruptions. Post scarlatinal nephritis. One does not need to reflect to perceive this is Pulsatilla somewhat intensified. It takes up the work and finishes as a complement of Pulsatilla, unless, as in some instances, the patient becomes a cold and chilly subject and is better during rest, and then Silicea often will be found to have what symptoms remain.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It is usual for a patient under a deep acting remedy to go to opposite modalities, and hence Puls. is so often followed by Silicea; but this is not always true. When Puls. has acted well for a time and because of opposite modalities Silicea does good work for a while, and then the patient swings back to the original state, symptoms and modalities, then it is that Kali sulph. is of great usefulness.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "What occurs is the same as when Sulph., Calc. and Lyc, have rotated in a given case too deep to be cured by a single remedy and a series of remedies has been what was required because the symptoms changed in such a manner that such a series was homeopathically suited.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Mind: Quite unlike Pulsatilla, this patient is easily angered and obstinate and very irritable.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Seems to be thinking of something far away. Anxiety in evening in bed, during the night and on waking. Aversion to work, to business and to company (like Puls.)",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Concentration of mind difficult, and want of self-confidence. Confusion in the evening and in the morning, in a warm room, ameliorated in open air. Dullness of mind, discouraged and discontented with everything.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Extremely excitable, and mental exertion aggravates. Fear at night of death, of falling, and of people. Frightened at trifles, and forgets what he was going to do and to say. he is always in a hurry as if excited. Impatient and impetuous.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Hysterical and excited in the evening, and mind active. Cannot make up his mind to do and am Very irritable in the morning on waking, in the evening and during menses. Misplaces words in writing. Alternating moods. Changeable disposition. Restlessness during menses. Low spirited morning and evening. Oversensitive to noise. Mental symptoms from sexual excesses. Walking in sleep. Shrieking. Easily startled, from fright, on falling asleep, and during sleep. Indisposed to talk. He talks in sleep. General timidity. Weeping.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Head: The vertigo is a prominent feature in the evening, in a warm room, aggravated after eating, aggravated during headache; aggravated looking upwards; with nausea; must, lie down; objects, turn in a circle; aggravated sitting, aggravated rising up, and standing; ameliorated in open air. Feels he is falling forward. He staggers. Boiling sensation in the head, and coldness of vertex. Hyperemia in bed, on coughing, and in a warm room. Constriction like a band or close fitting-cap.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Constriction of forehead. Much dandruff. Eruptions on scalp, crusts, eczema moist, sticky, pimples, scaling. Fullness in head and hair falls out. Heat in head in a warm room. Heat in forehead. Flushes of heat. Heaviness of head, morning, in forehead, in occiput. Itching of the scalp in the morning.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The brain feels loose. Sensation of movements in head on moving the head. There are numerous headaches. Pain, morning on waking, evening and night, aggravated from a draft, during chill, taking cold, during coryza, on coughing, after eating, when heated, from warm room, jarring, during menses, motion of the head, pressure.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It is ameliorated evening, in open air, in cold air, lying. Rheumatic headache in evening aggravated in warm room, aggravated moving head from side to side or backwards. Catarrhal headaches. Gastric headaches.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The aggravation of headaches by motion is an exception, and it will be interesting to learn what further provings and observations bring forth.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The pains are pulsating, aggravated shaking head, after sleep, sneezing, standing, stepping heavily, stooping, straining the eyes aggravated in a warm room. The pains are violent. Walking in open air ameliorates. Pain extends to eyes and forehead. Pain in forehead, morning, evening; aggravated after eating. Pain over eyes. Pain in occiput, sides of head, temples.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The pains are boring, burning, bursting drawing, jerking, pressing, Stitching in head and Sides of head.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Stunning. Tearing. Pulsating in occiput, sides of head, temples, vertex. Shocks in head, in sides of head, mostly in right side.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Eyes: The eye symptoms are numerous.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Lids agglutinated. Dryness. Discharge, yellowish, greenish. Inflammation of conjunctiva, of lids. Dark veins. Eruptions about the eyes and on the lids.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Lachrymation and itching. Opacity of the cornea. It is recommended for cataract. Pain, burning, pressing and tearing. Photophobia, redness of eyes and edges of lids. Spots on the cornea; ulceration of the cornea. Swollen lids. Dark colors, variegated colors, yellow. Halo around the light. Black floating specks.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Dazzling. Dim vision. Exertion of vision brings on many complaints. Foggy vision. Sparks before the eyes. Weak vision.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Ear: Catarrh of Eustachian tubes and middle ear.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Dryness of the middle ear. Discharge from ear, yellow, thin, bright yellow or greenish, bloody, offensive, purulent.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Eruptions, eczema, excoriated, pimples. Eruptions behind ears. Itching in ears.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Noises; buzzing, chirping, cracking, crackling, humming, ringing, roaring, rushing, whizzing. Flapping sensation in the ear.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain in ear, evening, aching, boring, cutting, pressing, stitching, tearing. It has cured polypus. The cars feel stopped, and pulsate. The bearing is impaired.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Nose: Fluent coryza.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Catarrh with discharge, bloody, burning, excoriating, greenish, offensive, purulent, thin, yellow, slimy, or thick and viscid. Dryness in the nose. Bleeding in morning on blowing. Itching in nose. Obstruction. Pain, burning. Soreness in nose, of septum. Smell acute, later lost. Sneezing. Swollen nose.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Face: Sickly, yellow, chlorotic face.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Cracked lips. Sometimes pale. Sometimes circumscribed redness. Drawn face. Suffering, sickly expression. Eruptions on face, lips and nose. Herpes, pimples and scales. Desquamating face.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Flushes of heat. Itching. Inflammation of the submaxillary gland with swelling. Prosopalgia, aggravated when the room becomes too warm, and in the evening; ameliorated in the open air.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The pains are drawing, stitching and tearing. Perspiration of the face. Swollen glands of jaw, swollen lips. Twitching face. It has cured a wart on the lip, and will cure epithelioma when the symptoms agree.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Aphthae in mouth. Dryness of mouth and bleeding gums. Mucus in mouth and on the tongue. Sore burning tongue. Salivation. Taste insipid, putrid, sour, sweetish, wanting.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Coated yellow slimy tongue, mostly at the base. Toothache aggravated in a warm room, ameliorated in cool fresh air.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Throat: Dryness and constriction of throat.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Frequent hawking of mucus. Heat and inflammation of throat. Sensation of a lump in the throat. Mucus in the throat in the morning. Painful sore throat. Pain on swallowing. Rawness, burning and sticking.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The tonsils much swollen. Swallowing difficult.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Stomach: Great anxiety and distress in the stomach.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Appetite is increased, ravenous, or wanting. Aversion to bread, to eggs, to food, to meat, to hot drinks and warm food. Coldness in stomach. Catarrh of stomach. Desires sour thing, sweets, cold drinks and cold food.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Distension of stomach. Irritable, easily disordered stomach. Sensation of emptiness and faintness in stomach. Eructations, after eating, bitter, empty, of food, sour, waterbrash. Eructations ameliorate.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Gastro-duodenal catarrh with jaundice. Fullness after eating ever so little (Lyc.). Heartburn, heaviness and flushes of heat. Hiccoughing. Loathing, of food. Nausea during chill, during cough, after cold drinks, after eating, with headache, on motion.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain in stomach after eating and drinking. Burning, cramping, cutting, pinching, pressing, soreness, stitching. Pulsating in stomach. Retching when coughing.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Burning thirst. Vomiting on coughing, after eating, during headache, during menses. Vomiting bile, food, mucus, sour.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Abdomen: Coldness in the abdomen.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Distension after eating. Dropsy. Enlarged liver. Obstructed flatulence. Sensation of fullness after eating, Sensation of emptiness in lower abdomen after stool ameliorated by displacing flatus. Heat and heaviness.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Complaints of the liver. Itching of the skin. Pain in abdomen at night. Cramping during diarrhoea, after eating, before the menses, during menses, aggravated by motion. Pain in inguinal region and in the liver. Burning, cutting, pressing.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pressing in hypogastrium and liver. Soreness in abdomen and in the liver. Stitching in the abdomen, in the sides of the abdomen, in the inguinal region, in the liver. Pulsating. Rumbling before stool. Trembling in abdomen. Tympanitis.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Constipation that is very obstinate, alternating with diarrhoea. Stool, difficult, soft or hard, insufficient, during menses, from inactivity of the rectum.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Diarrhoea in the morning, evening, night, after midnight, painless, or with cramps, during menses. Chronic diarrhoea. Offensive, putrid flatus which ameliorates many abdominal symptoms.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Hemorrhage from the anus. Hemorrhoids, external, internal, large and bleeding. Involuntary stool. Violent itching of the anus. Pain in the rectum and anus, during stool after stool; burning during diarrhoea, during stool, after stool. Cutting, pressing, smarting and great soreness. Parts excoriated. Stitching in anus. Tenesmus after stool. Urging to stool, ineffectual, absent in constipation.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Stool is excoriating, black, thin and offensive. Stool bloody, frequent, offensive, purulent, watery, yellow slime. When constipated the stool is dry, hard, knotty, large, like sheep dung, small. The stool is light colored and bileless.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Bladder: Chronic catarrh of bladder.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The pain is pressing, sticking. It has urging to urinate aggravated at night, constant or frequent, ineffectual.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Urination is painful, frequent at night, dribbling when walking. Inflammation of the kidneys with stitching pains.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Gonorrhoea in the advanced stage, with green or yellow thin or viscid discharge. Haemorrhage from the urethra. Burning during urination, and in the meatus. Cutting.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The urine is albuminous, and this remedy has been especially useful in albuminuria following scarlet fever. The urine burns and is cloudy, high colored, copious, or scanty, offensive, with red and purulent sediment, copious, viscid mucus in the urine.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Genitals: Impotency.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Induration of testes. Inflammation of glans penis. Orchitis after suppressed gonorrhoea (Puls.). Itching of genitalia and scrotum. Drawing in testes. Sexual desire diminished or entirely lost. Swollen testes.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It builds up women who have been subject to abortion. Aversion to coition. Excoriation of the genitalia, with itching.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Leucorrhea, burning, excoriating, greenish, yellow, purulent, thick or watery. Menses absent; bright red, copious, too soon, or too late, offensive, painful, protracted, scanty, suppressed.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Haemorrhage from the uterus, Pain in uterus, during menses. Bearing down in the pelvis, Burning in the genitalia. Labor like pains during menses. Prolapsus of the uterus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Chest: Catarrh of the air passages with thick greenish, yellow or white mucus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Dryness in the larynx. Rawness in the larynx. Soreness and roughness. Almost constant scraping in the larynx, aggravated after eating, at night in bed, until midnight; almost driven to distraction by the necessity to clear the larynx and gets up only white thick mucus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Tickling in the larynx. Hoarseness. Recurrent coryza with irritation in larynx. Voice lost. Every cold settles in the larynx.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Asthma aggravated in a warm room, ameliorated in open air. Dyspnoea evening, night, with cough, when lying, walking, ameliorated in open air. Rattling Breathing.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Short, suffocative breathing in a warm room. Wheezing in a warm room. Whistling.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Coughing in morning, evening, in bed, night; ameliorated in cold air, ameliorated in open air, ameliorated by cold drinks. Cough with coryza; aggravated lying. Dry, hoarse, croupy cough at night. Cough aggravated after eating, during fever. Exhausting cough. Hacking tough. Loose cough. Paroxysmal, racking cough. Rattling cough. Suffocating cough. Tickling in larynx, trachea and deep in chest.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Warm room aggravates cough. Whooping cough with yellow, slime or yellow watery expectoration. Expectoration bloody, difficult, must be swallowed, or slips back, purulent, yellow or greenish, slimy, watery, viscid.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Anxiety in the chest, It is one of the most surprising remedies in catarrh of the chest.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Rattling in chest from every cold change in the, Weather. Constriction of the chest. The last part of pneumonia and pleurisy will bring out symptoms for this remedy. Itching of the skin of the chest. Eruptions, eczema, pustules.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Oppression of chest and haemorrhage. After bronchitis in children, when every cold causes rattling in chest and there is no expectoration. Burning, cutting, stitching, and soreness in chest. Pain in heart. Stitching in the heart. Palpitation with anxiety of heart. Tumultuous palpitation. Perspiration in axillae. Weak chest. This remedy has saved many people from phthisis. It has cured swollen sensitive mammae coming every month before menses.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Back: Coldness in the back.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain in the back on breathing, during menses, periodical, aggravated sitting, aggravated standing; ameliorated walking; aggravated in a warm room. Wandering pains.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pain in cervical region, dorsal region, between the shoulders. Pain in lumbar region during menses while sitting, and walking. Pain in sacrum. Aching, bruised, burning, drawing, stitching. Tension in the cervical region. Weakness in the lumbar region.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Limbs: Arthritic nodosities.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Coldness of upper limbs and hands. Cold Feet evening in bed, and during fever. Cracked hands. Cracking in joints.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Pimples and vesicles on limbs. Desquamation on legs above the shoe tops in a young woman. Heat of hands. Hip joint disease.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Heaviness of lower limbs. Itching of the skin. Jerking of the limbs. Numbness of hands, lower limbs and feet. Pain in the limbs during chill. Rheumatic pains in limbs. Cramps in muscles. Drawing in knees and legs.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Rheumatic pains aggravated in a warm room; ameliorated walking in open air; aggravated sitting; ameliorated moving about. Sore bruised pain in tibia. Stitching in the joints, in lower limbs, knees, legs; wandering, stitching.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Tearing pains during chill, in joints, upper limbs, lower limbs, thighs, legs. Wandering tearing pains, ameliorated by motion, and walking in open air.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Perspiration of palms, of feet. Cold sweat of feet. Restless legs. Stiffness of joints. Swelling of knees, legs, feet. Trembling of limbs, hands and feet. Twitching thighs. Ulcers on legs. Weakness of joints, upper limbs, of knees.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Sleep: The sleep is full of dreams. He has nightmare. Dreams anxious, of death, of being in an accident and nearly killed, of robbers, of sickness, frightful, of ghosts.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Late falling asleep. Restless sleep. Sleepiness in afternoon and evening, and after eating. Sleepless before midnight. Waking early, and frequently.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Chill evening and night. Chilliness in the evening. Chilliness after exertion. Coldness of the skin. Quotidian chill. Shaking chill; evenings, 5 P.M., 6 P.M. Fever without chill, evening until midnight. Fever, dry heat, flushes. Hectic fever. Intermittent., Perspiration in morning, night, after midnight. Perspiration on slight exertion; copious.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Skin: Sensation of burning, in the skin; burning after scratching.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The skin is often cold. Desquamation. Discoloration; liver spots; red spots. Dry skin; inactivity of skin. Dry, burning skin. Epithelioma.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Eruptions, blisters, burning, dry, moist; eczema with yellowish green, watery, discharge, herpetic. Itching and stinging eruptions. Rash like measles. Eruptions painful, pimples, psoriasis, pustules, red eruptions. Scabby eruptions. Scabby after scratching. Scaly eruptions on a moist base. Smarting, suppurating eruptions. Tubercular eruptions. Urticaria, nodular. Vesicular eruptions.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Erysipelas with blisters. Easy excoriation of the skin. Intertrigo. Formication. Itching, burning, crawling. Stinging; aggravated when warm in bed; ameliorated scratching. Moisture of the skin after scratching. Neuritis.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The skin is very sensitive: a sore feeling in the skin. Sticking after scratching. Skin swollen and dropsical. Sensation of tension. Ulcerative pain. Ulcers, bleeding, burning, bloody discharge, stabbing, yellow discharge, indolent, pulsating, suppurating, tuberculous. Painful warts.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "LECTURES ON HOMOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror Kalium Sulphuricum Two very deep acting remedies unite to form this one. It was left to Schüessler to show its first curative powers. Dewey's work, on the \" Tissue Remedies \" gives the best presentation from the biochemic view. The writer gathered the symptoms from reported cures for many years, and found that they were justified by the study of the two remedies entering into the formation. Generals : Many of these symptoms come out upon the sick as aggravations. Some of these are only cured symptoms. This arrangement could be improved upon much by provings. If the reader will carefully use this remedy as herein directed he will be astonished at its depth of action, and if he uses it high he will be surprised at the length of action of every dose. It has cured epilepsy, lupus and epithelioma, and many desquamating skin affections. It has cured most obstinate case of chronic intermittent fever. It is useful in catarrhal affections with thick yellow or greenish pus, viscid or thin yellow watery discharges . Most symptoms are aggravated in the evening. The patient craves fresh and even cold air, and he is ameliorated in open air and cool air. Aggravation by exertion and becoming heated. Complaints come on during rest, and are ameliorated by motion. Complaints aggravated in warm room. Takes cold from being overheated. When once heated he cannot cool off without taking cold. Predisposition to phthisis . It is frequently indicated after Tuberculinum . Epileptiform convulsions. Jerking of the limbs and twitching of muscles. Dropsical condition of the extremities. Loss of flesh, and complaints aggravated after eating. Fasting ameliorates many symptoms. Flabby muscles. Fatty degeneration of glands, liver and heart. Heaviness of limbs and weariness of the body. Hysterical symptoms. Sluggishness of the body and lack of physical irritability. Well selected remedies fall short in action. Wants to lie down, but lying in bed aggravates; he must walk about to ameliorate his sufferings. Surging of blood in the body. Pain : in the limbs, bones and glands. Wandering pains . Pains ameliorated by motion, ameliorated walking, ameliorated in open air; aggravated in a warm room, aggravated sitting or lying, or rest in any form. The pain are burning, cutting, jerking, stitching and tearing, ulcerative pains . Tearing downward in the limbs. Tearing in glands and muscles. pulsation all over the body . Touch aggravates many symptoms. Many symptoms appear on waking . Trembling and quivering. Walking ameliorates. Warm coverings aggravate, warm room aggravate, warm bed aggravates, warm wraps aggravate; bathing aggravates. Complaints dating back to suppressed eruptions. Post scarlatinal nephritis. One does not need to reflect to perceive this is Pulsatilla somewhat intensified. It takes up the work and finishes as a complement of Pulsatilla , unless, as in some instances, the patient becomes a cold and chilly subject and is better during rest, and then Silicea often will be found to have what symptoms remain. It is usual for a patient under a deep acting remedy to go to opposite modalities, and hence Puls . is so often followed by Silicea ; but this is not always true. When Puls . has acted well for a time and because of opposite modalities Silicea does good work for a while, and then the patient swings back to the original state, symptoms and modalities, then it is that Kali sulph . is of great usefulness. What occurs is the same as when Sulph., Calc. and Lyc, have rotated in a given case too deep to be cured by a single remedy and a series of remedies has been what was required because the symptoms changed in such a manner that such a series was homeopathically suited. Mind : Quite unlike Pulsatilla , this patient is easily angered and obstinate and very irritable . Seems to be thinking of something far away. Anxiety in evening in bed, during the night and on waking. Aversion to work, to business and to company (like Puls .) Concentration of mind difficult, and want of self-confidence. Confusion in the evening and in the morning, in a warm room, ameliorated in open air. Dullness of mind , discouraged and discontented with everything. Extremely excitable, and mental exertion aggravates . Fear at night of death, of falling, and of people. Frightened at trifles, and forgets what he was going to do and to say. he is always in a hurry as if excited. Impatient and impetuous. Hysterical and excited in the evening, and mind active. Cannot make up his mind to do and am Very irritable in the morning on waking, in the evening and during menses. Misplaces words in writing. Alternating moods. Changeable disposition. Restlessness during menses. Low spirited morning and evening. Oversensitive to noise. Mental symptoms from sexual excesses. Walking in sleep. Shrieking. Easily startled, from fright, on falling asleep, and during sleep . Indisposed to talk. He talks in sleep. General timidity . Weeping. Head : The vertigo is a prominent feature in the evening, in a warm room, aggravated after eating, aggravated during headache; aggravated looking upwards; with nausea; must, lie down; objects, turn in a circle; aggravated sitting, aggravated rising up, and standing; ameliorated in open air. Feels he is falling forward. He staggers. Boiling sensation in the head, and coldness of vertex. Hyperemia in bed, on coughing, and in a warm room. Constriction like a band or close fitting-cap. Constriction of forehead. Much dandruff. Eruptions on scalp, crusts, eczema moist, sticky, pimples, scaling. Fullness in head and hair falls out . Heat in head in a warm room. Heat in forehead . Flushes of heat. Heaviness of head, morning, in forehead, in occiput. Itching of the scalp in the morning. The brain feels loose. Sensation of movements in head on moving the head. There are numerous headaches. Pain, morning on waking, evening and night , aggravated from a draft, during chill, taking cold, during coryza, on coughing, after eating, when heated, from warm room, jarring, during menses, motion of the head, pressure. It is ameliorated evening, in open air, in cold air, lying. Rheumatic headache in evening aggravated in warm room, aggravated moving head from side to side or backwards. Catarrhal headaches. Gastric headaches. The aggravation of headaches by motion is an exception, and it will be interesting to learn what further provings and observations bring forth. The pains are pulsating, aggravated shaking head, after sleep, sneezing, standing, stepping heavily, stooping, straining the eyes aggravated in a warm room . The pains are violent. Walking in open air ameliorates. Pain extends to eyes and forehead. Pain in forehead, morning, evening; aggravated after eating. Pain over eyes . Pain in occiput, sides of head , temples. The pains are boring , burning, bursting drawing, jerking, pressing, Stitching in head and Sides of head. Stunning. Tearing. Pulsating in occiput, sides of head, temples, vertex. Shocks in head, in sides of head, mostly in right side . Eyes : The eye symptoms are numerous. Lids agglutinated. Dryness. Discharge, yellowish, greenish. Inflammation of conjunctiva, of lids. Dark veins. Eruptions about the eyes and on the lids. Lachrymation and itching. Opacity of the cornea. It is recommended for cataract. Pain, burning , pressing and tearing. Photophobia, redness of eyes and edges of lids. Spots on the cornea; ulceration of the cornea. Swollen lids. Dark colors, variegated colors, yellow. Halo around the light. Black floating specks. Dazzling. Dim vision. Exertion of vision brings on many complaints. Foggy vision. Sparks before the eyes. Weak vision. Ear : Catarrh of Eustachian tubes and middle ear. Dryness of the middle ear. Discharge from ear, yellow, thin , bright yellow or greenish, bloody, offensive, purulent. Eruptions, eczema, excoriated, pimples. Eruptions behind ears. Itching in ears . Noises; buzzing, chirping, cracking, crackling, humming, ringing, roaring, rushing , whizzing. Flapping sensation in the ear. Pain in ear, evening, aching, boring, cutting, pressing, stitching, tearing. It has cured polypus. The cars feel stopped, and pulsate. The bearing is impaired. Nose : Fluent coryza. Catarrh with discharge, bloody, burning, excoriating, greenish, offensive, purulent, thin, yellow , slimy, or thick and viscid. Dryness in the nose. Bleeding in morning on blowing. Itching in nose . Obstruction. Pain, burning. Soreness in nose, of septum. Smell acute, later lost. Sneezing. Swollen nose. Face : Sickly, yellow, chlorotic face. Cracked lips. Sometimes pale. Sometimes circumscribed redness. Drawn face. Suffering, sickly expression. Eruptions on face, lips and nose. Herpes, pimples and scales. Desquamating face. Flushes of heat. Itching. Inflammation of the submaxillary gland with swelling. Prosopalgia, aggravated when the room becomes too warm, and in the evening; ameliorated in the open air. The pains are drawing, stitching and tearing. Perspiration of the face. Swollen glands of jaw, swollen lips. Twitching face. It has cured a wart on the lip, and will cure epithelioma when the symptoms agree. Aphthae in mouth. Dryness of mouth and bleeding gums. Mucus in mouth and on the tongue. Sore burning tongue. Salivation. Taste insipid, putrid, sour, sweetish, wanting. Coated yellow slimy tongue, mostly at the base. Toothache aggravated in a warm room, ameliorated in cool fresh air. Throat : Dryness and constriction of throat . Frequent hawking of mucus. Heat and inflammation of throat. Sensation of a lump in the throat. Mucus in the throat in the morning. Painful sore throat. Pain on swallowing. Rawness, burning and sticking. The tonsils much swollen. Swallowing difficult. Stomach : Great anxiety and distress in the stomach. Appetite is increased, ravenous, or wanting . Aversion to bread, to eggs, to food, to meat, to hot drinks and warm food. Coldness in stomach. Catarrh of stomach. Desires sour thing, sweets , cold drinks and cold food. Distension of stomach. Irritable, easily disordered stomach. Sensation of emptiness and faintness in stomach. Eructations , after eating, bitter, empty, of food, sour , waterbrash. Eructations ameliorate. Gastro-duodenal catarrh with jaundice. Fullness after eating ever so little (Lyc .). Heartburn, heaviness and flushes of heat. Hiccoughing. Loathing, of food. Nausea during chill, during cough, after cold drinks, after eating, with headache , on motion. Pain in stomach after eating and drinking. Burning, cramping, cutting, pinching, pressing, soreness, stitching. Pulsating in stomach. Retching when coughing. Burning thirst . Vomiting on coughing, after eating, during headache, during menses. Vomiting bile, food, mucus, sour . Abdomen : Coldness in the abdomen. Distension after eating. Dropsy. Enlarged liver. Obstructed flatulence. Sensation of fullness after eating, Sensation of emptiness in lower abdomen after stool ameliorated by displacing flatus. Heat and heaviness. Complaints of the liver. Itching of the skin. Pain in abdomen at night. Cramping during diarrhoea, after eating, before the menses, during menses, aggravated by motion. Pain in inguinal region and in the liver. Burning, cutting, pressing. Pressing in hypogastrium and liver. Soreness in abdomen and in the liver. Stitching in the abdomen, in the sides of the abdomen, in the inguinal region, in the liver. Pulsating. Rumbling before stool. Trembling in abdomen. Tympanitis. Constipation that is very obstinate, alternating with diarrhoea. Stool, difficult, soft or hard , insufficient, during menses, from inactivity of the rectum. Diarrhoea in the morning, evening, night, after midnight , painless, or with cramps, during menses. Chronic diarrhoea . Offensive, putrid flatus which ameliorates many abdominal symptoms. Hemorrhage from the anus. Hemorrhoids , external, internal, large and bleeding. Involuntary stool. Violent itching of the anus . Pain in the rectum and anus , during stool after stool; burning during diarrhoea, during stool, after stool. Cutting, pressing, smarting and great soreness . Parts excoriated . Stitching in anus . Tenesmus after stool. Urging to stool, ineffectual, absent in constipation. Stool is excoriating, black, thin and offensive. Stool bloody, frequent, offensive, purulent, watery, yellow slime. When constipated the stool is dry, hard, knotty, large , like sheep dung , small. The stool is light colored and bileless. Bladder : Chronic catarrh of bladder. The pain is pressing, sticking. It has urging to urinate aggravated at night, constant or frequent, ineffectual. Urination is painful, frequent at night, dribbling when walking. Inflammation of the kidneys with stitching pains. Gonorrhoea in the advanced stage, with green or yellow thin or viscid discharge. Haemorrhage from the urethra. Burning during urination, and in the meatus. Cutting. The urine is albuminous, and this remedy has been especially useful in albuminuria following scarlet fever. The urine burns and is cloudy, high colored, copious, or scanty , offensive, with red and purulent sediment, copious, viscid mucus in the urine. Genitals : Impotency. Induration of testes. Inflammation of glans penis. Orchitis after suppressed gonorrhoea ( Puls .). Itching of genitalia and scrotum. Drawing in testes. Sexual desire diminished or entirely lost. Swollen testes. It builds up women who have been subject to abortion. Aversion to coition. Excoriation of the genitalia, with itching . Leucorrhea , burning, excoriating, greenish, yellow , purulent, thick or watery . Menses absent; bright red, copious, too soon, or too late, offensive, painful , protracted, scanty, suppressed. Haemorrhage from the uterus, Pain in uterus, during menses. Bearing down in the pelvis, Burning in the genitalia. Labor like pains during menses. Prolapsus of the uterus. Chest : Catarrh of the air passages with thick greenish, yellow or white mucus. Dryness in the larynx. Rawness in the larynx. Soreness and roughness. Almost constant scraping in the larynx, aggravated after eating, at night in bed, until midnight; almost driven to distraction by the necessity to clear the larynx and gets up only white thick mucus . Tickling in the larynx. Hoarseness. Recurrent coryza with irritation in larynx. Voice lost. Every cold settles in the larynx. Asthma aggravated in a warm room, ameliorated in open air. Dyspnoea evening, night, with cough , when lying, walking, ameliorated in open air. Rattling Breathing . Short, suffocative breathing in a warm room. Wheezing in a warm room. Whistling. Coughing in morning, evening , in bed, night ; ameliorated in cold air, ameliorated in open air, ameliorated by cold drinks. Cough with coryza; aggravated lying. Dry, hoarse, croupy cough at night. Cough aggravated after eating, during fever. Exhausting cough. Hacking tough. Loose cough. Paroxysmal, racking cough. Rattling cough. Suffocating cough. Tickling in larynx, trachea and deep in chest. Warm room aggravates cough . Whooping cough with yellow, slime or yellow watery expectoration. Expectoration bloody, difficult , must be swallowed, or slips back , purulent, yellow or greenish, slimy, watery, viscid. Anxiety in the chest, It is one of the most surprising remedies in catarrh of the chest. Rattling in chest from every cold change in the, Weather. Constriction of the chest. The last part of pneumonia and pleurisy will bring out symptoms for this remedy. Itching of the skin of the chest. Eruptions, eczema, pustules. Oppression of chest and haemorrhage. After bronchitis in children, when every cold causes rattling in chest and there is no expectoration. Burning, cutting, stitching, and soreness in chest. Pain in heart. Stitching in the heart. Palpitation with anxiety of heart. Tumultuous palpitation. Perspiration in axillae. Weak chest. This remedy has saved many people from phthisis . It has cured swollen sensitive mammae coming every month before menses. Back : Coldness in the back. Pain in the back on breathing, during menses, periodical, aggravated sitting, aggravated standing; ameliorated walking; aggravated in a warm room. Wandering pains . Pain in cervical region, dorsal region , between the shoulders. Pain in lumbar region during menses while sitting, and walking. Pain in sacrum. Aching, bruised, burning, drawing, stitching . Tension in the cervical region. Weakness in the lumbar region. Limbs : Arthritic nodosities. Coldness of upper limbs and hands. Cold Feet evening in bed, and during fever. Cracked hands. Cracking in joints. Pimples and vesicles on limbs. Desquamation on legs above the shoe tops in a young woman. Heat of hands. Hip joint disease. Heaviness of lower limbs. Itching of the skin. Jerking of the limbs. Numbness of hands, lower limbs and feet. Pain in the limbs during chill. Rheumatic pains in limbs. Cramps in muscles. Drawing in knees and legs. Rheumatic pains aggravated in a warm room; ameliorated walking in open air; aggravated sitting; ameliorated moving about. Sore bruised pain in tibia. Stitching in the joints, in lower limbs, knees, legs; wandering, stitching . Tearing pains during chill, in joints, upper limbs, lower limbs, thighs, legs. Wandering tearing pains, ameliorated by motion, and walking in open air. Perspiration of palms, of feet. Cold sweat of feet. Restless legs. Stiffness of joints. Swelling of knees, legs, feet. Trembling of limbs, hands and feet. Twitching thighs. Ulcers on legs . Weakness of joints, upper limbs, of knees. Sleep : The sleep is full of dreams. He has nightmare. Dreams anxious, of death, of being in an accident and nearly killed, of robbers, of sickness, frightful, of ghosts . Late falling asleep. Restless sleep . Sleepiness in afternoon and evening , and after eating. Sleepless before midnight. Waking early, and frequently. Chill evening and night. Chilliness in the evening. Chilliness after exertion. Coldness of the skin. Quotidian chill. Shaking chill ; evenings , 5 P.M., 6 P.M. Fever without chill, evening until midnight. Fever, dry heat, flushes. Hectic fever. Intermittent., Perspiration in morning, night , after midnight. Perspiration on slight exertion; copious. Skin : Sensation of burning, in the skin; burning after scratching. The skin is often cold. Desquamation . Discoloration; liver spots; red spots. Dry skin; inactivity of skin. Dry, burning skin. Epithelioma. Eruptions, blisters, burning, dry, moist ; eczema with yellowish green, watery, discharge, herpetic. Itching and stinging eruptions. Rash like measles. Eruptions painful, pimples, psoriasis, pustules, red eruptions. Scabby eruptions . Scabby after scratching. Scaly eruptions on a moist base. Smarting, suppurating eruptions. Tubercular eruptions. Urticaria, nodular. Vesicular eruptions. Erysipelas with blisters. Easy excoriation of the skin. Intertrigo. Formication. Itching, burning , crawling. Stinging; aggravated when warm in bed ; ameliorated scratching. Moisture of the skin after scratching. Neuritis. The skin is very sensitive : a sore feeling in the skin. Sticking after scratching. Skin swollen and dropsical. Sensation of tension. Ulcerative pain. Ulcers, bleeding, burning, bloody discharge, stabbing, yellow discharge, indolent , pulsating, suppurating, tuberculous. Painful warts. Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-mm-1911"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Antrum of Highmore, disease of; Asthma; Cataract; Catarrh; Chorea; Dandriff; Dyspepsia; Eczema; Epithelioma; Eustachian catarrh; Gleet; Gonorrhœa; Itch; Nails, diseased; Nettle-rash; Ozæna; Polypus; Psoriasis; Rheumatism; Rhus poisoning; Vertigo; Whooping-cough",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Causation: Chill when over-heated. Injury.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Hoarseness from cold. Bronchitis, asthma, whooping-cough, pneumonia, &c., with yellow slimy skin, or watery, mattery and profuse expectoration; easily expelled. Acute and wandering rheumatism of joints; from chill when over-heated. Eruption on l. axilla about neck and on back of hands (Rhus poisoning). Scaly eruption, most on arms, > from hot water.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Chorea. Five times a day : black, thin, offensive stools. Periodical pains : in back, neck and limbs < in evening. About once a week : a thick, dark brown semi-fluid accumulation of pus formed in upper left nostril. Every three weeks : catamenia. For eight weeks : entirely deaf in right ear. For eight months : effects of ivy poisoning. For eighteen months : thick, yellow, offensive discharge from nose. Four years' standing : stinking otorrhœa. Right : brown offensive secretion from ear ; entirely deaf for eight weeks ; epithelioma on cheek ; epithelioma on side of nose ; varicose ulcer on leg just above instep ; frightful pains in shoulder. Left : bald spot on side of head ; a thick dark brown semi-fluid accumulation of pus formed in upper nostril ; a piece of carious bone was taken from antrum Highmori through an upper alveolus ; head inclined to shoulder ; eruption in axilla ; pains leave shoulder and attack knee. Pressure as of a load : at pit of stomach. Pains : in back ; nape of neck ; in limbs. Maddening pains : in joints. Frightful pains : in right shoulder ; in left knee ; from joint to joint. Great pain : in head. Acute and wandering rheumatism of joints. Rheumatic headache. Pressure : in stomach. Feeling of fulness : in stomach ; at pit of stomach ; in abdomen. Befogged feeling : in head. Faintness : at stomach. Burning, itching papular eruption. Itching pimples arising singly on skin. Its sphere of action is in lymphatic vessels ; when there is a lack of this substance, a yellow mucous catarrh arises or a yellow sticky discharge from isolated places on membranes. Secretions from mucous membranes yellowish ; green. Catarrhs, colds, with yellow, slimy secretions or expectoration of watery matter. Inflammations, with yellow, slimy or serous secretions. In third stage of inflammation, resolution, when a yellow mucous discharge occurs. Effusions, watery mattery ; favors resorption. Fungoid inflammation of joints ; white swelling. Migratory rheumatism of joints. Wasted to a shadow. θ Whooping cough. Epithelioma ; soft polypi. Ailments accompanied by desquamation, peeling off skin, or with itching pimples arising singly on skin. TOUCH. PASSIVE MOTION. INJURIES. [45] [Kali. s.]. After kick of a horse three years ago : varicose ulcer on right leg. Child, æt. 18 months ; whooping cough. Boy, æt. 10, small, dark, lean ; whooping cough. Girl, æt. 19, light complexion, scrofulous ; ear affection. Woman, æt. 25, single, dark complexion, suffering eight months ; ivy poisoning (Rhus tox.). Woman, æt. 25, married, dark complexion ; ozæna. Man, æt. 26, healthy, powerful ; articular rheumatism. Man, æt. 27, dark ; falling off of hair, after gonorrhœa. Man, æt. 30, light complexion ; disease of antrum Highmori. Man, æt. 33, light complexion ; ozæna. Woman, æt. 54 ; vertigo. Man, æt. 55, factory operative, ulcer on side of nose for four years, at first there was a somewhat reddened spot which was moderately elevated, and which became afterward covered with a horny crust, which later, dropping off, left an ulcer which steadily increased in depth and breadth ; epithelioma. Widow, æt. 70, suffering for years ; epithelioma.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "[Kali] Alum of chrome-3x (Produces in the nasal passages very fine threads from the septum to external wall; affections of nasal fossæ and hay-fever. Chronic colds. Sneezing, red, watery eyes, irritation of mucous membrane). Pulsat; Kali bich; Nat m",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Antidote to: Rhus poisoning. Compatible: Acet. ac. (itching and redness of skin); Calc., Hep., Puls., Rhus, Sep., Sil., Sul. Compare: Puls., K. bi.; Hydrast. (dyspepsia, epithelioma).",
+        "Compare : Kali mur., in deafness, hoarseness, pertussis ; Natr. mur., in deafness, pains in stomach, coarse rales, profuse exudations",
+        "Compatible : Acet. ac., in itching and redness of skin ; Arsen., Calc. ostr., Hepar, Pulsat., Rhus tox., Sepia, Silica, Sulphur",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "head": [
+      {
+        "text": "Dreadful vertigo: rising from lying or from standing; when looking up. Rheumatic headache in warm room, in evening, > in open air. Great pain on moving head from side to side or backwards, can move it forwards without pain. Yellow dandriff; moist, sticky. Bald spot l. side of head, also beard (after gonorrhœa,).",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Rheumatic headache, < in warm room and in evening, > in open air. Great pain on moving head from side to side or backwards ; can move it forward without pain. Yellow scales (dandruff) on scalp. Bald spot as large as a silver dollar on left side of head ; hair falls out easily when combing, all over head, also hair of beard. θ After gonorrhœa. Copious scaling of scalp, moist and sticky. Yellow dandruff.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Rheumatic headache, beginning in evening. Bald spots. Dandruff and scaldhead",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Purulent or yellow mucus in eye diseases; yellow crusts; yellow discharge. Ophthalmia neonatorum. Catarrh.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Purulent or yellow mucus in eye diseases. Catarrh of conjunctiva, with yellow secretion. Ophthalmia neonatorum. Eyelids, with thin, yellow crusts. Discharge from eyes yellow, slimy, or sticky watery. Cataract.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Catarrhal deafness; swollen Eustachian tubes. Discharge: watery, mattery; thin, yellow, sticky; brown, offensive (r.), with polypus; stinking.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Deafness caused by catarrh and swelling of Eustachian tube and middle ear. Watery, mattery discharge from ear ; yellow slimy tongue. Secretion of thin, yellow, sticky fluid after inflammation. Brown offensive secretion from right ear ; polypoid excrescence closes meatus near opening ; entirely deaf in right ear for eight weeks. Stinking otorrhœa of four years' standing.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Eustachian deafness. Discharge of yellow matter (Hydr)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Smell and taste lost (ozæna). Discharge: yellow, offensive; alternating with watery, l.; thick, dark brown, semi-fluid, fetid from antrum of Highmore (l.); yellowish viscous in old catarrh.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Taste and smell lost. θ Ozæna. Coryza, yellow mucous discharge. Thick, yellow, offensive discharge, alternating with watery discharge for eighteen months ; left nostril < ; catamenia every three weeks ; takes cold easily. θ Ozæna. About once a week a thick, dark brown, semi-fluid accumulation of pus formed in upper left nostril, on being blown out emitted a terrible stench ; about a month previous a piece of carious bone was taken from antrum Highmori, through an upper left alveolus, from which a tooth had been drawn four years previous. Old catarrh with yellowish viscous secretion.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Cold, with yellow, slimy expectoration. Nose obstructed. Smell lost (Nat mur). Engorgement of the nasal pharyngeal mucous membrane, mouth breathing, snoring, etc, remaining after removal of adenoids",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "face": [
+      {
+        "text": "Faceache warm room; evening; > cool or open air. Epithelioma r. cheek; r. side nose. Lips, blistered, swollen.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Faceache, < in warm room and in evening ; > in cool or open air. Epithelioma on right cheek, extending from lower eyelid to ala nasi ; size of a silver dollar ; ulcerating stage ; indurated base and wall-like, hard, elevated edges (greatly improved). Epithelioma, size of half dollar, situated on right side of nose just under canthus of eye ; eye sympathetically affected, either through extension of disease process, or through irritating discharge, entrance of which was facilitated by a slight destruction of edge of lower lid at canthus ; conjunctivitis palpebrarum et bulbi, with haziness of cornea. Blistered lips and mouth. θ Whooping cough. Lower lip swollen. θ Epithelioma.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Aches in heated room. Epithelioma",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Toothache warm room, > open air. Taste: insipid, pappy; lost. Tongue: coated with yellow mucus; yellow, slimy, sometimes with whitish edge.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Toothache < in warm room and toward evening, > in cool open air. Loss of taste. θ Ozæna. Insipid, pappy taste. Tongue : coated with yellow mucus ; yellow, slimy, sometimes with whitish edge.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Faint sensation at stomach and befogged feeling in head, fears to lose her reason. Stomach affections (pressure, as of a load; fulness) with yellow mucus coat on tongue. Gastro-duodenal catarrh: jaundice. Hard, tympanitic abdomen (whooping-cough).",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sensation of faintness at stomach, and befogged feeling in heard, fearing to lose her reason. Pressure and feeling of fulness in stomach with a yellow mucus coating on tongue. Indigestion, with sensation of pressure as of a load, and fulness at pit of stomach. θ Dyspepsia. Chronic catarrh of stomach ; yellow, slimy coated tongue. Catarrh of stomach and duodenum, with a yellow coated tongue ; jaundice from it. Gastro-duodenal catarrh ; jaundice. Hard and tympanitic abdomen. θ Whooping cough.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Tongue coated yellow and slimy. Insipid, pappy taste. Gums painful. Burning thirst, nausea, and vomiting. Load feeling. Dread of hot drinks",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Colicky pains; abdomen feels cold to touch; tympanitic, tense. Yellow, slimy diarrhœa. Constipation, with hæmorrhoids (Sulph)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Diarrhœa. Stools: yellow, slimy; watery, mattery; thin, offensive. Constipation; hæmorrhoids (with yellow tongue).",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Diarrhœa : yellow, slimy or watery mattery stools. Black, thin, offensive stools. θ Whooping cough. Habitual constipation with coated tongue. Hemorrhoids with catarrh of stomach and yellow, mucus coated tongue.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "male": [
+      {
+        "text": "Gonorrhœa of glans or urethra; discharge yellow, mucous, or greenish. Orchitis from suppressed gonorrhœa. Gleet.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Gonorrhœa of glans or urethra ; discharge purulent, yellow mucous, or greenish. Orchitis after suppression of gonorrhœa. Gleet.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Gonorrhœa; discharge slimy, yellowish-green. Orchitis. Gleet",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menses: too late and scanty, weight and fulness in abdomen; every three weeks (ozæna); headache during. Metrorrhagia. Leucorrhœa yellowish or watery, mattery.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Menstruation, too late and too scanty, with a feeling of weight and fulness in abdomen. Catamenia every three weeks. θ Ozæna. Headache during catamenia. Metrorrhagia. Leucorrhœa yellowish, or watery mattery.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Menses too late, scanty, with feeling of weight in abdomen. Metrorrhagia",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Stiff neck, head inclined to l., shoulders raised. Periodical pains in back, nape, or limbs, warm room, > cool air.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pains in back, nape of neck, or in limbs ; periodical < in evening, or in warm room ; > in cool or open air. Backache and pains in limbs ; < in warm room and towards evening, > in cool open air. Stiff neck, head inclined towards left ; shoulder raised.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Jaundice. Suppressed rash of measles, &c. Abundant scaling of epidermis. Burning itching, papular eruption exuding pus-like moisture. Fine red pimples running together. Scurfs, scaling, chapping. Sores with yellow, sticky secretions. Epithelial cancer. Eczema. Itch. Intertrigo. Nails diseased.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Jaundice caused by gastro-duodenal catarrh. Suppressed rash of measles or other eruptive diseases, with harsh and dry skin. Abundant scaling of epidermis. Promotes desquamation after erysipelas ; accelerates removal of scabs in smallpox. Scarlet fever ; stage of desquamation. Burning, itching, papular eruption exuding pus-like moisture. Recurring eruption of fine red pimples running together, presenting a red, swollen appearance ; a thoroughly alkaline fluid oozes out copiously ; after subsiding cuticle comes off in fine scales ; itches and stings intensely > ; formerly by cold water, lately by hot. Scurfs, scaling, chapping. Sores on skin, with yellow, sticky secretions on limited portions, or discharges of thin, watery matter, sometimes with peeling of surrounding skin. Epithelial cancer, discharge thin, yellow, serous. Eczema, or skin affections ; discharge decidedly yellow, slimy, sometimes sticky or watery mattery ; when suddenly suppressed. Effects of ivy poisoning (Rhus tox.) for eight months ; repeatedly broke out with small, hard, herpetic vesicles, forming a thin scab, with itching and some moisture ; eruption appears in left axilla, about neck and on back of both hands ; she has a sensation of faintness at stomach and befogged feeling in head, fearing to lose her reason ; very vivid dreams. Nettlerash, with or without yellow slimy tongue, generally caused by indigestion. Itch eruption in children. Chafing of children. Diseased condition of nails, shown in interrupted growth.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Psoriasis (Ars; Thyroid). Eczema; burning, itching, papular eruption. Nettle-rash. Polypi. Epithelioma. Seborrhœa. Favus. Ring-worm of scalp or beard with abundant scales",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Very vivid dreams.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Very vivid dreams.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Intermittents, with characteristic tongue. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Intermittent fever with yellow, slimy coated tongue. Rheumatic fever ; pains shifting, wandering.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Rise of temperature at night. Intermittent fever, with yellow, slimy tongue",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Dreadful vertigo, especially on rising from lying, on standing from sitting, and when looking upwards ; every moment in fear of falling and dare not leave her room.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Kali. s.]. Hoarseness after taking cold. Bronchitis, if mucus is distinctly yellow and slimy, thin, or watery mattery and profuse. Yellow mucus coughed up without great exertion. θ Bronchitic asthma. Whooping cough, with retching, without vomiting ; inflammatory catarrhal stage ; decidedly yellow, slimy expectoration. Last stage of whooping cough ; blistered lips and mouth ; black, thin, offensive stools five times a day, hard, tympanitic abdomen ; wasted to a shadow, given up to die. Coarse rales ; cannot cough up large amount of mucus. θ Pneumonia. Yellow mucous expectoration.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Coarse rales. Rattling of mucus in chest (Tart em). Post-grippal cough, especially in children. Bronchial asthma, with yellow expectoration. Cough; worse in evening and in hot atmosphere. Croupy hoarseness (Hep; Spong)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Inflammation of lungs, with wheezing ; if yellow, loose rattling phlegm be coughed up with difficulty, or sputa consist of watery matter. Pneumonia with coarse rales, cannot cough up mucus.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Eruption in left axilla, about neck and on back of both hands (Rhus poisoning). Scaly eruption mostly on arms, > from hot water. Varicose ulcer on right leg just above instep, after kick of a horse three years ago ; eight inches in circumference, concave, dark blue, emitting a stinking odor. Pain in limbs. Acute and wandering rheumatism of joints. After being chilled while overheated, frightful pains in r. shoulder and violent fever ; pains leave shoulder and attack left knee, then go from joint to joint, and again several joints affected at a time ; maddening pains, unceasing, day and night. θ Articular rheumatism. Pains passing from joint to joint ; serous exudations.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Pain in nape, back and limbs, worse in warm room. Shifting, wandering pains",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "REST. POSITION. MOTION. [35] [Kali. s.]. Rising from lying : dreadful vertigo. Sitting : dreadful vertigo. Standing : dreadful vertigo. Moving head from side to side or backwards : great pain. Evening : rheumatic headache < ; faceache < ; toothache < ; pains in back and limbs <. Pains grow < in warm room and in evening ; > in open, cool air. Hot water : scaly eruption on arms >. Warm room : rheumatic headache < ; faceache < ; toothache < ; pains in back, neck and limbs <. After being chilled while overheated : frightful pains in r. shoulder. Open air : rheumatic headache > ; faceache > ; toothache > ; pains in back, neck and limbs >. Cold water : eruption >.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "dosing": {
+      "notes": "Third to twelfth potency"
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900",
+      "hering-guiding-1879",
+      "nash-leaders-1899",
+      "boericke-1927",
+      "kent-lectures-1905",
+      "kent-mm-1911"
+    ]
+  },
+  "cell_salt_number": 7
+}

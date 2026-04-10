@@ -1,0 +1,60 @@
+{
+  "id": "andira-inermis",
+  "names": {
+    "primary": "Andira inermis",
+    "latin": "Andira inermis",
+    "common": [
+      "Cabbage Tree"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "habitat": [
+      {
+        "text": "Jamaica and other West Indian Islands. Senegambi.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "A leguminous tree, growing very tall and branching towards the top called Cabbage Tree because it forms a head in growing; it has a smooth grey bark which, cut into long pieces, is the part utilized for medicine. It is thick, fibrous, scaly, and of an ashy brownish colour externally, covered with lichens - the inside bark is yellow and contains a bitter sweet mucilage, with an unpleasant smell. In Europe the bark of another species, Avouacouapa retusa , has been utilized. It grows in Surinam, is a more powerful vermifuge than Vouacapoua inermus and does not as a rule produce such injurious after-effects. In the dried state it is without odour, but has a very bitter taste; when powdered it has the colour of cinnamon.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Jamaicine-Andirin aglucoside, an inodorous, bitter, acrid resin.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Narcotic vermifuge. Cabbage Tree bark used in large doses may cause vomiting, fever and delirium, especially if cold water is drunk just before or after taking it. In the West Indies it is largely employed as a vermifuge to expel worm - ascaris lumbrecoides - but if used incautiously death has been known to occur. The powder purges like jalap.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "dosing": [
+      {
+        "text": "Usually given in decoction, though the powder, syrup and extract are all used. Dose of powder, 20 to 30 grains. Fluid extract, 1/4 to 1 drachm.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Lime-juice or Castor oil.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Andira retusa , a Brazilian species, has purple flowers, the odour of oranges and a slight aroma. The fruit is said to smell like tonka beans. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "thirst",
+  "names": {
+    "primary": "THIRST",
+    "latin": "THIRST",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY THIRST. Thirst : Aco., Arn., Ars., Bell., Bry., Calc-c., Caps., Cham., Chin., Cina., Croc., Dig., Lyc., Merc., Nat-m., Pho., Rhus-t., Sep., Sil., Stram., Sul., Ver-a. Thirst, with aversion to drinks : Hell., Stram. Thirst, with the chill : Bry., Caps., Ign., Nat-m. Thirst, absent , aversion to water, fluids, etc. : Aeth., Ap., Bell., Canth., Chin., Fer., Gels., Hell., Hyo., Ign., Ip., Nux-m., Pul., Saba., Sep., Stram. Thirst, absent, during the heat : Ap., Carb-v., Gels., Hell., Ign., Ip., Nux-m., Pul., Saba., Sep. Thirst, cold drinks , for : Aco., Ars., Bism., Bry., Chin., Merc-c., Pho., Rhus-t., Ver-a. Thirst, little and often , for : Aco., Ant-t., Ap., Ars., Bell., Chin., Hyo., Lyc., Rhus-t. Thirst, much at a time : Bry. Thirst, violent , burning : Aco., Ars., Bry., Coloc., Cup., Merc., Nux-v., Saba., Ver-a. Copyright © Médi-T 1999",
+        "source_id": "boger-synoptic-key-1915"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

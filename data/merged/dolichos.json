@@ -1,0 +1,87 @@
+{
+  "id": "dolichos",
+  "names": {
+    "primary": "Dolichos",
+    "latin": "Dolichos",
+    "common": [],
+    "synonyms": [
+      "DOLICHOS"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "The most characteristic symptoms of Dolichos are─a general intense itching without eruption, by scratching; and a pain in the throat on right side below angle of jaw as if a splinter were embedded vertically in it. It is mainly a right-side medicine, and hence its relation to the liver. It corresponds to exalted nervous sensibility, as in dentition. Gums intensely sensitive; seem to itch. Kraft has recorded (N. A. J. H., 1890, p. 20) a striking cure with Dolichos 1,200 (Kent) of a woman who had symptoms of jaundice, white stools, and desperate itching, preventing sleep at night. There was, in addition, enormous distension of abdomen with continuous rattling of wind, intolerance of anything tight round neck or body; intense restlessness, unable to sit still a minute. The symptoms of Dol. are at night. Warmth itching at night. Cold water burns on the itching skin. Colic from getting feet wet.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. DOLICHOS . (Mucuna Pruriens.) Natural order.- Leguminosae. Common names.- Cowhage. Cow-itch. General Analysis.- Acts upon the liver, producing conditions which result in jaundice, constipation, and white stools. Characteristic symptoms. Eyes.- (Dolichos) Eyes yellow. (Chel., Cinch., Iodi., Plumb.) Mouth.- (Dolichos) Soreness and tenderness of gums in teething children. Gums swollen ; neuralgic pains in them ; worse at night. Throat.- (Dolichos) Pain, like a splinter, near right tonsil ; worse when swallowing. Stool.- (Dolichos) Constipation during teething or pregnancy. White stools. (Bell., Calc. c., Hep. s., Podo.) Respiratory Organs.- (Dolichos) Cough on lying down at night . (Hyos.) Generalities.- (Dolichos) Neuralgic pains following herpes zoster. (Ranunc. b.) Skin.- (Dolichos) Violent itching all over body, without any visible eruption. Dry tettery eruptions on arms and limbs, resembling zona. Dr. Farrington. Therapeutic Range.- (Dolichos) Jaundice ; constipation, especially during teething or pregnancy ; neuralgia ; zona. Nervous affections of children during teething. According to Farrington ( vide Hering Cond. Mat. Med., 3d ed., P. 393), \" in teething affections, if feverish symptoms exist, always give a dose of Acon . before the Dolich . ; where this precaution has been neglected, convulsions have followed the use of even the high potencies.\" Compare.- (Dolichos) Ranunc. b., Bell., Chel., Hep. s., Calc. c., Podo. Copyright © Robert Séror 2003",
+        "source_id": "cowperthwaite-textbook-1891"
+      },
+      {
+        "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T DOLICHOS Intense itching of the skin with no appearance of swelling or rash . Constipation with this intense itch, but no rash. Jaundice, yellow in spots or all over, and itching excessively at night. Copyright © Médi-T 2000",
+        "source_id": "guernsey-keynotes-1887"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Cough; Dentition; Gums, neuralgia of; Herpes zoster; Jaundice; Jaundice, irritation of; Jaw, pain in; Neuralgia; Pruritus; Sore throat",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Cough most troublesome about bed-time and for awhile after going to bed. Cough, with wheezing and dyspnœa. Neuralgic pains following herpes zoster. Twitching of the muscles. Clonic spasms of the extremities, with loss of consciousness; eyes motionless; eyelids open.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Aconite antidotes it, and in \"cases of dentition with fever Aconite should be given before Dolichos to prevent convulsions\" (Hering). Dolichos follows Rhus in herpes. Compare: Bell. (dentition); Arg. n., Hep., Nit. ac. (throat)."
+      ]
+    },
+    "eyes": [
+      {
+        "text": "Eyes yellow.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Gums (upper) irritated, tumid, excessively painful; can scarcely take food or drink in the mouth. Pain in the gums prevents sleep. Soreness and tenderness of gums in teething children. Gums swollen; neuralgic pains in them; at night. Painful sensation of the throat below the angle of the lower jaw on r. side; it was as if a splinter three-quarters of an inch in length was imbedded vertically in that spot; pain by swallowing.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Bloated, swollen abdomen (with constipation). Worms. Swelling of the liver.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Constipation during teething or pregnancy. White stools.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Sharp pain through upper portion of both lungs.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Intolerable itching all over the body; at night, preventing sleep; scratching the itching; there is nothing perceptible on the skin. Jaundice, with itching of the skin. Dry, tettery eruptions on arms and legs, resembling zona. Pain under l. axilla for three days, when an herpetic eruption breaks out on axilla of affected side, spreading in rings forward to sternum and backward to spine with burning and smarting. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900",
+      "cowperthwaite-textbook-1891",
+      "guernsey-keynotes-1887"
+    ]
+  }
+}

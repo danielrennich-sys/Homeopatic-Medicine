@@ -1,0 +1,38 @@
+{
+  "id": "antirrhinum-magus",
+  "names": {
+    "primary": "Antirrhinum magus (LINN.)",
+    "latin": "Antirrhinum magus (LINN.)",
+    "common": [
+      "Snapdragon"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "preparation": [
+      {
+        "text": "Leaves. Snapdragon is closely allied to the Toadflaxes. It is really not truly a native herb, but has become naturalized in many places, on old walls and chalk cliffs, being an escape from gardens, where it has been long cultivated. The botanical name, Antirrhinum , refers to the snout-like form of the flower.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "The plant has bitter and stimulant properties, and the leaves of this and several allied species have been employed on the Continent in cataplasms to tumours and ulcers. It was valued in olden times like the Toadflax as a preservative against witchcraft. The numerous seeds yield a fixed oil by expression, said to be little inferior to olive oil, for the sake of which it has been cultivated in Russia.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Antirrhinum Orontium (Linn.), the Calf's Snout or Small Snapdragon, an annual found occasionally in cornfields, in lime or chalk soil, with narrow, hairy leaves and small, reddish flowers, resembling those of the Snapdragon in form, is said to be poisonous, but the fact is not well established. Its properties seem similar to those of the other species. The name, Orontium , given it by Dodonaeus, is an old mediaeval generic name name for the Snapdragon. See TOADFLEX . [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

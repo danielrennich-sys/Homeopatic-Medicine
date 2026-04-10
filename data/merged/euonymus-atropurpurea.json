@@ -1,0 +1,101 @@
+{
+  "id": "euonymus-atropurpurea",
+  "names": {
+    "primary": "EUONYMUS ATROPURPUREA",
+    "latin": "EUONYMUS ATROPURPUREA",
+    "common": [
+      "Wahoo, Burning Bush"
+    ],
+    "synonyms": [
+      "Euonymus Atropurpurea"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "mental_emotional": [
+      {
+        "text": "Mental confusion, despondent, irritable; loss of memory, unable to recall familiar names",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "head": [
+      {
+        "text": "Heavy frontal headache. Sore, tired feeling; bruised feeling of scalp. Pain over right eye extending back through the head. Bilious headache; coated tongue, bad taste, constipation. Vertigo, obscure vision and gastric derangement, associated with albuminuria. Headache over eyebrows",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Mouth dry, pasty taste; thirsty, stomach full and uncomfortable",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Flatus and pain. Anus very sore and burning. Constipation with hæmorrhoids and severe backache. Diarrhœa; stools variable and profuse, bloody. Pain about umbilical region",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urine scanty, high-colored; acidity increased, poured out rapidly",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "back": [
+      {
+        "text": "Dull pain between shoulders and about renal and splenic region; pain in lumbar region better lying down",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Aching in all joints, especially ankles. Feet feel swollen and tired",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "cool draught, pressure",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "evening",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Tincture and lower attenuations"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">EUONYMUS ATROPURPUREA Wahoo, Burning Bush Brunettes more easily affected, producing headache, mental disturbances and much distress in hepatic and renal region; albuminuria. Migraine. Passive Congestion and torpor of liver; chronic catarrhal affections of stomach and intestines. Weak heart. Chronic rheumatism and gout.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Euon. atro., like Euonimin and Euon. Europ., is a favourite liver-remedy among eclectics. It has not been proved, but clinical experience shows that its action is very like that of its botanical relatives. A lady who tasted the juice of the bark related her experience to Hale: \"I felt immediately a sick weakening feeling all through the nervous system; dull, heavy pain through upper portion of head, together with enlarged blurred feeling, and I seemed so drawn up from the floor, that it seemed difficult to place my foot down when walking with sufficient firmness to stand up; a tipping-over sensation when sitting and walking; a deathly sickness at stomach, with perspiration and heat in face, in alternation with chills in the back, and back part of the arms.\" Some of the symptoms returned next day, but were dissipated by vinegar, which must be looked upon its antidote.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Albuminuria; Bilious fever; Biliousness; Cholera morbus; Gall-stones; Levitation; Liver, affections of; Vertigo",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Sticta pul., Phos. ac., &c., in levitation. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boericke-1927",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

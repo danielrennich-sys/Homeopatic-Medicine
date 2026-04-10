@@ -1,0 +1,35 @@
+{
+  "id": "aviaire",
+  "names": {
+    "primary": "Aviaire",
+    "latin": "Aviaire",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Dr. Cartier gave an account of this nosode in his paper read at the International Homœopathic Congress, 1896 (Transactions, Part \"Essays and Communications,\" p. 187). Aviaire acts most prominently on the apices of the lungs, and it corresponds most closely to the bronchitis of influenza, which simulates tuberculosis, having cured several hopeless-looking cases. It has also done excellently in some cases of bronchitis following measles. The bacillus of avian tuberculosis has been identified with that of human tuberculosis, but the clinical properties of the two nosodes are not identical.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Bronchitis; Influenza; Measles; Phthisis",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Bacil., Bacil. t., Tuberc., Ars. i. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

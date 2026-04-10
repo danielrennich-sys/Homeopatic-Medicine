@@ -1,0 +1,32 @@
+{
+  "id": "bixa-orellana",
+  "names": {
+    "primary": "Bixa orellana (LINN.)",
+    "latin": "Bixa orellana (LINN.)",
+    "common": [
+      "Annatto"
+    ],
+    "synonyms": []
+  },
+  "category": "herbal",
+  "traditional": {
+    "preparation": [
+      {
+        "text": "The dried pulp of the fruit.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Tropical America, East and West Indies. Widely cultivated in Asia and Africa. Purchase from Richters Annatto (Bixa orellana) Seeds Common Name Index A MODERN HERBAL Home Page Bear in mind \"A Modern Herbal\" was written with the conventional wisdom of the early 1900's. This should be taken into account as some of the information may now be considered inaccurate, or not in accordance with modern medicine. © Copyright Protected 1995- Botanical.com",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

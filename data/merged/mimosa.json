@@ -1,0 +1,117 @@
+{
+  "id": "mimosa",
+  "names": {
+    "primary": "Mimosa",
+    "latin": "Mimosa",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T MIMOSA. Mimosa humilis, Willd. Natural order , Leguminosæ. Preparation , Tincture of the leaves. Authority. Mure, Pathogén. Brésil., p. 146. MIND. ► Indolent indifference (second day). HEAD. ► Vertigo (second day). ► Sense of heat within the head (second day). ► The head seems larger than usual (second day). ► Headache, with weakness of the stomach (first day). ► Pain in the sides of the head (third day). EYE. ► Inflammation of the eyes (first day). ► Inflammation of the left eye (fourth day). ► Itching of the eyes (third day). [10.] ► Dimness of vision (third day). ► Halo like a rainbow around the candle (second day). EAR. ► Whizzing in the ears (tenth day). NOSE. ► Sneezing (first day). ► Coryza, and discharge from the nose (first day). MOUTH. ► Bleeding of the gums (fifth day). ► Salivation (first day). STOMACH. ► Stomachache after breakfast (first and second days). ABDOMEN. ► Flatulence (eighth day). ► Flatulence, with borborygmi (first day). [20.] ► Flatulent colic, in the evening (second day). STOOL. ► Diarrha (third, eighth, and tenth days). ► Frequent stools, with colic (second day). ► Easy stools (fourth day). ► Constipation (first day). SEXUAL ORGANS. ► Inflammatory swelling of the scrotum (third day). RESPIRATORY ORGANS. ► Dry cough in the morning (second day). ► Difficult breathing (second day). ► Want of breath (fourth day). BACK. ► Violent lancinations in the back, as from a penknife (fifth day). EXTREMITIES IN GENERAL. [30.] ► Lancinations in the legs and hands (first day). ► Acute lancinations, now in the arm, now in the leg (fifth day). SUPERIOR EXTREMITIES. ► Twitching of the arm, extending to the chest (first day). ► Numbness of the arm and right hand, ceasing on movement (fourth day). ► Inflammatory swelling of the left hand (sixth day). ► Numbness of the hands (second day). INFERIOR EXTREMITIES. ► Trembling of the legs (first day). ► Smarting pain in the legs, with paralysis of the knee (first day). ► Stiffness of the bends of the knees (second day). ► Swelling of the left ankle, with redness, tension, and lancination (fourth day). GENERAL SYMPTOMS. [40.] ► Prostration (first day). ► Pressure at the nape of the neck and the right temple (third day). SKIN. ► Pimples on the left leg (first day). ► A pimply excrescence, as large as an almond, on the right leg, with pain and itching; another on the instep (second day). ► Pimply excrescence on the tendo Achillis (third day). ► The excrescences on the legs disappear, and similar one come out on the left arm (fourth day). ► The pimples disappear (fifth day). SLEEP. ► Yawning (first and second days). ► Drowsiness (first day); in evening (second day). ► Drowsy in the evening, with frequent waking at night (fifth day). [50.] ► Frequent waking at night (second day). FEVER. ► Horripilation (first and sixth days). Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Ankles, swelling of; Conjunctivitis, rheumatic; Rheumatism",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Dry cough in morning. Difficult breathing. Lancinations in legs and hands; now in arm, now in leg. Twitching of arm, extending to chest. Numbness of arm and r. hand, ceasing on movement. Inflammatory swelling of l. hand. Numbness of hands. Trembling of legs. Smarting pain in legs, with paralysis of knee. Stiffness of bends of knees. Swelling of l. ankle, with redness, tension, and lancination. Prostration. Pressure in nape and r. temple.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Mimosa is one of the remedies introduced and proved by Mure. The most notable symptoms were lancinations in the back and limbs, and \"swelling and redness of left ankle with tension and lancination.\" This last symptom has been confirmed. The \"sensitive plant\" of our hothouses is M. Pudica, but the leaves of M. humilis, says Mure, \"close at the least contact.\"",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Indolent indifference.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Sensation: of heat in head; as if enlarged.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Inflammation of eyes; of l. eye. Itching. Vision dim halo round candle.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Whizzing in ears.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Sneezing and coryza.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Bleeding of gums. Salivation. 11.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Stomach-ache. Borborygmi. Flatulent colic.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Diarrhœa. Frequent stools with colic.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Inflammatory swelling of scrotum.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Violent lancinations in back.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Pimples and pimply excrescences about legs and arms.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Yawning. Drowsy in evening, with frequent waking at night.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Horripilation. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

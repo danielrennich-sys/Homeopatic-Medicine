@@ -1,0 +1,115 @@
+{
+  "id": "platinum-muriaticum",
+  "names": {
+    "primary": "Platinum Muriaticum",
+    "latin": "Platinum Muriaticum",
+    "common": [],
+    "synonyms": [
+      "Platinum Muriaticum Natronatum"
+    ]
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T PLATINUM MURIATICUM. Chloride of platinum. Chloride of platinum and sodium. Preparations , Solutions. Authority. Dr. Hofer, Gaz. Méd. de Paris, 1840 (Archiv. f. Hom., 19, 99). ► Effects of external application of a concentrated solution . ► The skin (discolored yellow by the drug) soon becomes covered with a rosy-red eruption, that disappear after three or four minutes. When applied to the glans penis and prepuce, there is very violent itching, that soon becomes associated with a sensation of warmth and a very troublesome sticking, symptoms of acute inflammation of the urethra, pain on urinating, slight dysuria; after some hours there is an eruption about the glans penis of a somewhat livid color, slightly elevated, of the size of the head of a pin; on superficial examination, it looks like a commencing syphilitic ulcer, though it disappears in eight to twelve hours. ► A man took internally, 5 centigrams in cold water, without result; the next day he increased the dose to 2 decigrams. ► Slight acidity of the stomach, associated with some headache. ► The following day he took 3 decigrams. ► After a quarter of an hour, slight shuddering, pulse somewhat accelerated, sensation of warmth and heaviness in the epigastrium, severe headache, especially in the occiput, violent constriction of the larynx, so that speech and swallowing were decidedly impeded, nausea with inclination to vomit; and he became possessed with the idea that he had been poisoned; metallic taste, lasting several hours. ► Same man subsequently took same dose, when in the open air. ► He had the same symptoms as before, but in a less degree, and in addition the following; an involuntary movement of the fibres of the muscles of the nape, back, and extremities, for several hours. CHRORIDE OF PLATINUM AND SODIUM. ► Same man who took Chloride, of platinum, afterwards took 1 decigram of Chloride of platinum and sodium, without result; next day, 2 decigrams in morning, and 4 decigrams in afternoon. ► Feeling of warmth and heaviness in the stomach; rumbling in the abdomen; transient colic; eructations of gas and emission of flatus; slight headache; nausea and inclination to vomit; decidedly increased secretion of urine and saliva. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Caries; Chancre; Condyloma; Laryngismus; Mercury, abuse of. Œsophagus, stricture of; Stomach, cancer of",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Violent constriction of larynx, so that speech and swallowing were decidedly impeded. Involuntary movement of fibres of muscles of nape, back, and extremities for several hours.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Clinical: Flatulence; Polyuria; Salivation",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Plat. mur. was experimented with by Hofer, of Pau, who applied locally a saturated solution and administered solutions internally. Fever, headache, constricting sensations and fibrillary twitchings were induced by internal doses; the local application produced acute irritation of the skin and glans penis, with an eruption on the latter like commencing chancre. Plat. mur. has been used in cases of caries (especially of nasal bones and bones of tarsus); of syphilitic caries; syphilitic rheumatism; chronic gonorrhœa; condylomata; gastric carcinoma; acne.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Hofer experimented with Plat. m. n. on the same man who took Plat. mur. The chief additional symptom was decided by increased secretion of urine and saliva.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Thinks he has been poisoned.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Some headache, with slight acidity of stomach. Severe headache, esp. in occiput, with fever.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Slight headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Metallic taste.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Decided increase in saliva.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Acidity of stomach with headache. Warmth and heaviness in epigastrium. Nausea and inclination to vomit.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Feeling of warmth and heaviness in stomach. Eructation of gas. Nausea and inclination to vomit. Rumbling in abdomen. Transient colic.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "[From application of saturated solution to the parts.]. Violent itching on glans and prepuce, with sensation of warmth and very troublesome sticking; symptoms of acute inflammation of urethra, pain on urinating, slight dysuria; after some hours an eruption about glans penis, somewhat livid, slightly raised, size of pin head, looks like commencing syphilitic sore, but disappears in twelve hours.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Skin discoloured yellow, becoming covered with rosy red eruption that disappears after a few minutes (from local application).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Slight shuddering, pulse accelerated, warmth in epigastrium. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Emission of flatus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Decidedly increased secretion of urine. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

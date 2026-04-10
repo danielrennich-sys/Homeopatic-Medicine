@@ -1,0 +1,63 @@
+{
+  "id": "manganum-muriaticum",
+  "names": {
+    "primary": "Manganum Muriaticum",
+    "latin": "Manganum Muriaticum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T MANGANUM MURIATICUM. Manganum chloride. Preparation , Solution in water. Authority. Lembke, N. Z. F. H. Kl., 2, 28, took of a solution of 5 grains in 2 drachms of water, 5 drops first day, repeated after two days, again after three days, and subsequently 10 to 40-drop doses. HEAD. ► Vertigo and reeling while walking in the open air, especially on looking down or descending, also on stooping; this lasted two hours, with unsteadiness in walking. [There had been no change in the manner of living or other conditions; this vertigo I had experienced several times daily during the cholera, eight years before, and regularly if I crossed any water, a river or ditch; in the succeeding years these attacks had very much diminished; as far as I can remember it had been a long time since I had experienced anything of the kind. -LEMBKE.] ► Boring pain in the cranial bones of the right side (after 30 drops). ► Tearing in the right side of the occipital bone. FACE. ► Pressive pain in the right articulation of the lower jaw. STOMACH. ► Eructations of air (soon); (immediately after 5 drops). ► (Pains in the stomach). [These pains in the stomach I experienced, without any apparent cause, in the autumn, twenty years previous; next year they returned, at times suddenly, and always very violently, with flowing of cold sweat from the whole body, cold skin, sunken face, excessive weakness, abdomen distended, and most violent pains in it, without nausea, and at times with diarrha, that afforded no relief; such attacks always lasted several hours, and always passed off without any medicine; during ten to twenty years, the attacks were much milder than formerly, returned several times yearly, always lasted several hours, and always occurred without any known cause; this time no medicine was taken on the day when the pain occurred (but a dose had been taken two days before. -T. F. A.); otherwise it would have been natural to ascribe the affection to the drug. -LEMBKE.] ► Pressure in the stomach, aggravated by external pressure, lasting half an hour. ► Severe dull pressure in the stomach (half an hour after five drops). ABDOMEN. ► Rumbling in the abdomen frequently repeated (soon). STOOL. [10.] ► Stool is harder and more scanty than usual (first and second days after 20 drops). SUPERIOR EXTREMITIES. ► Violent pain in the anterior portion of the left shoulder-joint, increased by pressure, rolling the arm about its axis, and by any motion of the arm; this lasted all day. ► Drawing-pressing pain in the right hand. ► Pain in the articulation of the left thumb. INFERIOR EXTREMITIES. ► Drawing pain, with a weary feeling, in the right thigh, while (after 30 drops). ► Pain on the inner side of the right knee (two days after 20 drops). ► Drawing and pressure in the right knee, extending into the lower leg, while sitting, towards evening. ► Violent drawing pain in the inner side of the right knee. ► Pressure in the right knee, extending into the leg; a bruised sensation remains in the ankle; afterwards the same pain in the left ankle. ► Pressive pain in the right knee (after 30 drops). [20.] ► Drawing and pressure in the lower portion of the right calf, extending down into the ankle, with a feeling as if it would be forced asunder; the same pain in the left ankle, though less severe; while sitting (after 30 drops). ► Tension in the right ankle and bones of the foot, several times (after 20 drops). ► Pulling sensation in the left ankle-joints and bones. ► Pressure and drawing in the ankles and ankle-bones, several times during the day (after 10 drops). ► Pressure and a jerking sensation in the left ankle. ► Pressure on the outer side of the right ankle, while walking. ► Frequent in the left ankle-bones. ► Pressure in the left foot (after 20 drops). ► (A frequently repeated, sudden, very violent tearing and sticking, on the inner side of the left foot, between the inner malleolus and heel, while walking and sitting). [I had for a long time experienced a similar pain a few times; and it is very doubtful whether this could be ascribed to the drug. -LEMBKE.] Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Ankles, painful; weak; Bone pains; Borborygmus; Constipation; Eructations; Rheumatism",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Violent pain in front part of l. shoulder-joint, by pressure, rolling arm about its axis, and by any motion of arm. Pain in articulation of l. thumb. Drawing pain with weary feeling in r. thigh while sitting. Violent drawing pain inner side r. knee. Pressure in r. knee extending into leg; a bruised sensation remains in ankles; afterwards same pain in l. ankle. Pressure and drawing in ankle and ankle bones. Pressure in l. foot. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Mang. mur. was proved by Lembke. The few symptoms obtained were manifested chiefly in the cranial bones, stomach, left shoulder, right knee, and ankles. The stomach pains were by external pressure.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo and reeling when walking in open air, looking down, on descending or stooping (an old symptom revived). Boring in r. cranial bones; tearing in r, occipital bone.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "Pressive pain in r. jaw-joint.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Eructations of air (sour). Pressure in stomach by external pressure. Frequent rumbling.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Stool harder and scantier than usual.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

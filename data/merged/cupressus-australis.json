@@ -1,0 +1,86 @@
+{
+  "id": "cupressus-australis",
+  "names": {
+    "primary": "Cupressus Australis",
+    "latin": "Cupressus Australis",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T CUPRESSUS AUSTRALIS. Natural order , Coniferæ. Authorities. Proving by A. B. Jenner, Esq., and two others, with the tincture; Month. Hom. Rev., 9, p. 544. MIND. ► He is in much better spirits. HEAD. ► Pain in frontal region, rather dull than acute. ► Sharp piercing pain from left occiput to left temple. STOMACH. ► Increase of appetite, followed by loathing of food. ► Voracious appetite. ► Feeling of warmth in stomach. URINARY ORGANS. ► Pricking pains from kidneys to bladder, with increased desire to urinate, which comes away in a smaller stream than usual. ► Feeling of constriction along the course of the urethra, particularly towards neck of bladder. SEXUAL ORGANS. ► Itching of glans penis, and orifice of urethra. ► Aching pain in perinæum and in spermatic vessels, with feeling of weight in testes. BACK. ► Dull aching pain in lumbar region. SUPERIOR EXTREMITIES. ► Pain in shoulders, especially on joint of right shoulder, extending down to elbow. INFERIOR EXTREMITIES. ► Pinching-drawing pain in knees, and along lymphatics of legs. ► Sharp, shooting pain in patellæ, and in bend of knees. ► Feeling of tension in calves of legs, with occasional spasmodic twitchings, and a feeling of general malaise, all over body. FEVER. ► Increased heat of body, without thirst. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Gonorrhœa; Headache; Rheumatism",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pain in shoulders, esp. on joint of r. shoulder, extending down to elbow. Pinching, drawing pain in knees and along lymphatics of legs. Sharp, shooting pain in patellæ and in bend of knees. Tension in calves, with occasional spasmodic twitchings and general malaise.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Cupress. Aust. has had a proving, which, though not extensive, is sufficient to show the analogue of its action with that of Thuja. Sharp, piercing and pricking pains are prominent. General feeling of warmth.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Abies, Sabina, Thuja."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Is in much better spirits.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Sharp, piercing pain from l. occiput to l. temple.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Increased appetite followed by loathing of food. Voracious appetite. Feeling of warmth in stomach.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Pricking pains from kidneys to bladder, with increased desire to urinate, stream smaller than usual. Constriction along course of urethra, esp. towards neck of bladder.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Itching of glans penis, and orifice of urethra. Aching pains in perineum and spermatic vessels with feeling of weight in testes.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Dull, aching pain in lumbar region.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Increased heat of body without thirst. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

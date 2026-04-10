@@ -1,0 +1,92 @@
+{
+  "id": "mercurius-aceticus",
+  "names": {
+    "primary": "Mercurius Aceticus",
+    "latin": "Mercurius Aceticus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T MERCURIUS ACETICUS. Mercurous acetate. Hydrargyrum aceticum oxydulatum. Hg 2 O,C 4 H 3 O 3 . (It is not certain which acetate was used by Hahnemann. Mercuric acetate is in the form of soluble crystals). Preparation for use , Triturations. Authority. Hahnemann, R. A. M. L., 1, 425. EYE. ► (Inflammation of the canthi, with burning-itching pain, morning and evening). THROAT. ► Dryness of the throat that interrupts speaking, with a barking cough. ► Pressing sticking posteriorly in the throat, more when coughing than when swallowing. URINARY ORGANS. ► Urethra. ► *Burning of the urethra when urinating and when not . ► Cutting in the urethra during the last drops of the urine. ► Micturition. ► Frequent micturition. ► In the morning the urine passes in abundance, but slowly, with straining (stricture of the urethra?). SEXUAL ORGANS. ► Male. ► Swelling and inflammation of the anterior portion of the penis (with burning and fine sticking pains that wake him from sleep at night); the pains are aggravated by cold water, relieved by warm. ► Constrictive pain in the testicles. ► Female. [10.] ► Internal swelling within the labiæ. ► (Menstruation four days too early, at the time of the new moon). CHEST. ► Pain in the chest as if it were suppurating, as if raw and sore. ► A pressure on the sternum, just above the pit of the stomach, with oppression of breath while standing, also when he is not walking. EXTREMITIES IN GENERAL. ► Drawing pains in the limbs and shivering, in the forenoon, without subsequent heat. SUPERIOR EXTREMITIES. ► Tearing in the hands, so that the knuckles became red and thick. SKIN. ► Eruption of itching cracking pimples; after scratching they burn like fire. ► The margins of the ulcers became very painful. SLEEP AND DREAMS. ► Heavy dreams after midnight, for example, of drowning, robbers trying to kill him, dangers by water and by fire. FEVER. ► Chill without heat and without thirst, with a sensation as if he were perspiring, at night, especially after midnight. ► Much perspiration on moving about. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Chancre; Eyes, affections of; Dyspnœa; Dysuria; Favus; Sternum, pressure on; Throat, sore; Ulcers",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Tearing in hands with enlargement and redness of the joints.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Hahnemann made a separate proving of Merc. ac., which has furnished a few symptoms, not greatly differing from those of Merc. The throat lancinations were by coughing rather than by swallowing. Cold water the inflammation of the penis; bathing with tepid water >. Hahnemann has bracketed a symptom referring to the menses which came on at the new moon, four days before their proper time. The medicines whose action is influenced by the moon's phases are not numerous, and this is worth remembering. \"Pressure in lower sternum and dyspnœa on standing erect\" is a noteworthy symptom. \"Margins of ulcers become painful.\" Hansen says that \"burning in the urethra during urination and at other times\" has been confirmed in practice; and that Donner of Stuttgart has cured with it a very painful syphilitic ulcer in urethra. Hansen commends it in tinea favosa on a syphilitic base; and for lancinating pains in tabes syphilitica.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "See Merc. Compare also: Luna."
+      ]
+    },
+    "eyes": [
+      {
+        "text": "Inflammation of angles of eyes, with burning itching, morning and evening.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Dryness in throat, which impedes speech, with cough; pressive lancinations in lower part of throat, rather when coughing than when swallowing.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Burning in urethra when making water. Frequent emission of urine. Copious emission in morning, but slow, as if duct were compressed, and with tenesmus. Cutting pain on emitting last drop of urine.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Penis inflamed and swelled at extremity, with burning and lancinations which awaken patient at night; are by cold water and > by tepid water. Contractive pain in testes.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Internal swelling of the labia majora. (Menses four days before the time, at the new moon.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pains in chest as though it were raw, or as if an ulcer were within. Pressure on sternum, just above scrobiculus, with difficulty of breathing when standing upright, even when he did not walk.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching eruption on skin, and burning sensation after scratching; the margins of ulcers become painful.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Shuddering in morning, preceded by drawing pains in limbs, heat at night, esp. after midnight, with a sensation of perspiring; profuse perspiration while moving about. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
+    ]
+  }
+}

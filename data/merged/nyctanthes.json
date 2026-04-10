@@ -1,0 +1,72 @@
+{
+  "id": "nyctanthes",
+  "names": {
+    "primary": "Nyctanthes",
+    "latin": "Nyctanthes",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Nyctanthes is a small tree of the jasmine family, having brilliant, highly fragrant flowers, white and yellow, which do not expand till evening and which fall off about sunrise. Thus during the day the tree loses all its brightness, and hence is called \"The Sad Tree\" (Arbor tristis). \"Nyctanthes\" means \"Night-flowering.\" S. C. Ghose has given an account of the medicinal properties of this plant (H. W., xxxvi. 24). He has used it extensively in cases of bilious and remittent fevers, rheumatism and sciatica, and the constipation of children. It is \"bitter, tonic, and expectorant, and a mild purgative.\" In the fever there is thirst before and during chills, and bitter vomiting at close of chill. Not much sweat. Ghose compares it with Eupat. perf. He has made a short proving of it.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Fevers, bilious; remittent; Rheumatism; Sciatica",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mental_emotional": [
+      {
+        "text": "Anxious and restless.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "head": [
+      {
+        "text": "Headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tongue enveloped with a thick, whitish or yellowish pus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Severe burning in stomach, > from cold applications. Bilious vomiting occurs every time he takes a drink. Liver tender. Stitches in liver region, which is very sensitive to touch.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Profuse bilious stools with nausea; or there may be constipation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Urine high-coloured.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Insatiable thirst before and during chill and fever. Bitter vomiting at close of chill. Constant nausea may or may not be present. Drinking = vomiting; patient very restless. Constipation or bilious stools. Sweat not generally marked. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LM Potencies Guide - Homeopathy Database</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: #0f1419; color: #e7e9ea; min-height: 100vh;
+}
+.header {
+    background: linear-gradient(135deg, #1a3a2a 0%, #0f1f2f 100%);
+    border-bottom: 1px solid #2f3336; padding: 16px 20px;
+    display: flex; justify-content: space-between; align-items: center;
+}
+.header h1 { font-size: 1.2rem; color: #7ec8a0; }
+.header .nav-links a { color: #6bb3d9; text-decoration: none; font-size: 0.85rem; margin-left: 12px; }
+.container { max-width: 860px; margin: 0 auto; padding: 24px 16px; }
+.card {
+    background: #16202a; border: 1px solid #2f3336; border-radius: 12px;
+    padding: 20px; margin-bottom: 16px;
+}
+.card h2 {
+    color: #7ec8a0; font-size: 1.15rem; margin-bottom: 12px;
+    border-bottom: 1px solid #2f3336; padding-bottom: 6px;
+}
+.card h3 { color: #6bb3d9; font-size: 0.95rem; margin: 16px 0 8px; }
+.card p, .card li {
+    color: #b0b3b8; font-size: 0.88rem; line-height: 1.7; margin-bottom: 8px;
+}
+.card ul, .card ol { padding-left: 20px; margin-bottom: 12px; }
+.card li { margin-bottom: 6px; }
+.card strong { color: #e7e9ea; }
+.card em { color: #7ec8a0; font-style: italic; }
+
+/* Comparison table */
+.compare-table {
+    width: 100%; border-collapse: collapse; margin: 12px 0;
+    font-size: 0.85rem;
+}
+.compare-table th {
+    background: #1d3a2d; color: #7ec8a0; padding: 10px 12px;
+    text-align: left; border-bottom: 2px solid #4a9a6e;
+}
+.compare-table td {
+    padding: 10px 12px; border-bottom: 1px solid #2f3336; color: #b0b3b8;
+}
+.compare-table tr:hover td { background: #1a2a34; }
+.compare-table .col-c { color: #d9a86b; }
+.compare-table .col-lm { color: #7ec8a0; }
+
+/* Step cards */
+.step-card {
+    background: #1a2a34; border: 1px solid #2f3336; border-radius: 10px;
+    padding: 14px; margin-bottom: 10px; display: flex; gap: 14px; align-items: flex-start;
+}
+.step-num {
+    background: #1d3a2d; color: #7ec8a0; font-weight: 700; font-size: 1.1rem;
+    min-width: 36px; height: 36px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+}
+.step-text { flex: 1; }
+.step-text strong { color: #e7e9ea; display: block; margin-bottom: 4px; font-size: 0.9rem; }
+.step-text span { color: #8b8f94; font-size: 0.84rem; line-height: 1.5; }
+
+/* Warning box */
+.warning {
+    background: #3a2d1d; border: 1px solid #d9a86b; border-radius: 10px;
+    padding: 14px; margin: 14px 0;
+}
+.warning strong { color: #d9a86b; }
+.warning p { color: #b0b3b8; font-size: 0.84rem; margin-top: 4px; }
+
+/* Quote */
+.quote {
+    border-left: 3px solid #4a9a6e; padding: 12px 16px; margin: 12px 0;
+    background: #1a2a34; border-radius: 0 8px 8px 0;
+}
+.quote p { color: #8b8f94; font-style: italic; font-size: 0.85rem; line-height: 1.6; }
+.quote .source { color: #6bb3d9; font-style: normal; font-size: 0.78rem; margin-top: 6px; }
+
+/* Tabs */
+.tab-bar { display: flex; gap: 0; margin: 16px 0 0; border-bottom: 2px solid #2f3336; }
+.tab {
+    padding: 8px 18px; cursor: pointer; color: #71767b; font-size: 0.88rem;
+    border-bottom: 2px solid transparent; margin-bottom: -2px; transition: all 0.2s;
+}
+.tab:hover { color: #e7e9ea; }
+.tab.active { color: #7ec8a0; border-bottom-color: #7ec8a0; }
+.tab-content { display: none; padding-top: 16px; }
+.tab-content.active { display: block; }
+</style>
+</head>
+<body>
+
+<div class="header">
+    <h1>LM Potencies Guide</h1>
+    <div class="nav-links">
+        <a href="index.html">Search</a>
+        <a href="intake.html">Intake Form</a>
+        <a href="settings.html">Settings</a>
+    </div>
+</div>
+
+<div class="container">
+
+    <!-- Intro -->
+    <div class="card">
+        <h2>What Are LM Potencies?</h2>
+        <p>
+            <strong>LM potencies</strong> (also called <strong>Q-potencies</strong> or
+            <strong>50 millesimal potencies</strong>) are a method of homeopathic remedy
+            preparation developed by <em>Samuel Hahnemann</em> in the final years of his life
+            and published in the <em>6th edition of the Organon of Medicine</em> (written 1842,
+            published posthumously in 1921).
+        </p>
+        <p>
+            The "LM" stands for the Roman numeral 50,000 — the dilution ratio used in preparation
+            (1:50,000), compared to the centesimal (C) scale's 1:100 ratio. This creates a
+            fundamentally different therapeutic action: <strong>gentler, deeper, and suitable
+            for daily repetition</strong> without the aggravations often seen with centesimal potencies.
+        </p>
+
+        <div class="quote">
+            <p>"This most perfect of all methods of treating chronic diseases is the
+            most recent discovery and is practiced by only a few careful homoeopaths."</p>
+            <div class="source">— Samuel Hahnemann, Organon of Medicine, 6th Edition, &sect;248 (footnote)</div>
+        </div>
+    </div>
+
+    <!-- C vs LM Comparison -->
+    <div class="card">
+        <h2>Centesimal (C) vs. LM Potencies</h2>
+        <table class="compare-table">
+            <tr>
+                <th>Feature</th>
+                <th class="col-c">Centesimal (C)</th>
+                <th class="col-lm">LM / Q Potency</th>
+            </tr>
+            <tr>
+                <td><strong>Dilution ratio</strong></td>
+                <td class="col-c">1:100</td>
+                <td class="col-lm">1:50,000</td>
+            </tr>
+            <tr>
+                <td><strong>Form given</strong></td>
+                <td class="col-c">Dry pellets or liquid</td>
+                <td class="col-lm">Liquid only (dissolved in water)</td>
+            </tr>
+            <tr>
+                <td><strong>Dosing frequency</strong></td>
+                <td class="col-c">Single dose; wait weeks or months</td>
+                <td class="col-lm">Daily or every other day</td>
+            </tr>
+            <tr>
+                <td><strong>Aggravation risk</strong></td>
+                <td class="col-c">Higher, especially at high potencies</td>
+                <td class="col-lm">Much less &mdash; gentler action</td>
+            </tr>
+            <tr>
+                <td><strong>Potency range</strong></td>
+                <td class="col-c">6C to CM and beyond</td>
+                <td class="col-lm">LM1 to LM30</td>
+            </tr>
+            <tr>
+                <td><strong>Before each dose</strong></td>
+                <td class="col-c">Not typically modified</td>
+                <td class="col-lm">Succussed (shaken) to vary the dose</td>
+            </tr>
+            <tr>
+                <td><strong>Dose variation</strong></td>
+                <td class="col-c">Same potency repeated</td>
+                <td class="col-lm">Each dose slightly different via succussion</td>
+            </tr>
+            <tr>
+                <td><strong>Best suited for</strong></td>
+                <td class="col-c">Acute cases, robust patients</td>
+                <td class="col-lm">Chronic disease, sensitive patients, deep pathology</td>
+            </tr>
+            <tr>
+                <td><strong>Speed of cure</strong></td>
+                <td class="col-c">Slower in chronic cases (long waits between doses)</td>
+                <td class="col-lm">Faster &mdash; continuous gentle stimulation</td>
+            </tr>
+        </table>
+    </div>
+
+    <!-- Tabs: Dosing / Preparation / Organon -->
+    <div class="card" style="padding-bottom:0">
+        <div class="tab-bar">
+            <div class="tab active" onclick="switchTab('dosing')" data-tab="dosing">How to Dose</div>
+            <div class="tab" onclick="switchTab('prep')" data-tab="prep">Preparation</div>
+            <div class="tab" onclick="switchTab('organon')" data-tab="organon">Organon References</div>
+        </div>
+
+        <!-- DOSING TAB -->
+        <div class="tab-content active" id="tab-dosing">
+            <h3>LM Dosing Protocol</h3>
+            <p>Unlike centesimal potencies, LM dosing follows a universal protocol for all remedies.
+            The potency and frequency are adjusted based on the <strong>patient's sensitivity</strong>
+            and <strong>response</strong>, not the specific remedy.</p>
+
+            <div class="step-card">
+                <div class="step-num">1</div>
+                <div class="step-text">
+                    <strong>Dissolve the remedy</strong>
+                    <span>Place 1 LM globule (poppy-seed sized) into 4-8 oz of pure water in a
+                    clean glass or bottle. More sensitive patients: use more water (8 oz).
+                    Add a small amount of brandy or vodka (1 tsp) as preservative if storing.</span>
+                </div>
+            </div>
+
+            <div class="step-card">
+                <div class="step-num">2</div>
+                <div class="step-text">
+                    <strong>Succuss before each dose</strong>
+                    <span>Before every dose, give the bottle 5-10 firm shakes (succussions)
+                    against your palm. This slightly modifies the potency each time, which is
+                    essential &mdash; the vital force does not respond well to identical repeated doses
+                    (Organon &sect;247).</span>
+                </div>
+            </div>
+
+            <div class="step-card">
+                <div class="step-num">3</div>
+                <div class="step-text">
+                    <strong>Take the dose</strong>
+                    <span>Take 1 teaspoon from the solution. For very sensitive patients, you can
+                    dilute this teaspoon further into a second glass of water and take 1 teaspoon
+                    from that (the "split dose" or "cup method").</span>
+                </div>
+            </div>
+
+            <div class="step-card">
+                <div class="step-num">4</div>
+                <div class="step-text">
+                    <strong>Frequency</strong>
+                    <span><strong>Chronic cases:</strong> Once daily or every other day.<br>
+                    <strong>Acute cases:</strong> Every 2-6 hours as needed.<br>
+                    Always observe the response before the next dose.</span>
+                </div>
+            </div>
+
+            <div class="step-card">
+                <div class="step-num">5</div>
+                <div class="step-text">
+                    <strong>Moving up in potency</strong>
+                    <span>Start with <strong>LM1</strong>. When the current potency stops producing
+                    improvement (usually after the bottle is finished), move to LM2, then LM3,
+                    and so on. The maximum is typically LM30.</span>
+                </div>
+            </div>
+
+            <div class="step-card">
+                <div class="step-num">6</div>
+                <div class="step-text">
+                    <strong>When to stop</strong>
+                    <span>Stop dosing when there is clear, progressive improvement. Resume only
+                    if improvement stalls. If any aggravation occurs, reduce the number of
+                    succussions, increase the water volume, or reduce frequency.</span>
+                </div>
+            </div>
+
+            <div class="warning">
+                <strong>Important Note</strong>
+                <p>LM potencies should ideally be used under the guidance of a trained
+                homeopathic practitioner, especially for chronic conditions. The protocol
+                requires careful observation of the patient's response to adjust dosing.</p>
+            </div>
+        </div>
+
+        <!-- PREPARATION TAB -->
+        <div class="tab-content" id="tab-prep">
+            <h3>How LM Potencies Are Made</h3>
+            <p>The preparation method comes directly from Hahnemann's Organon &sect;270:</p>
+
+            <div class="step-card">
+                <div class="step-num">1</div>
+                <div class="step-text">
+                    <strong>C3 Trituration</strong>
+                    <span>The original substance is triturated (ground) with lactose through
+                    three centesimal stages (1:100 each time, 1 hour per stage) to reach the
+                    third centesimal trituration (C3). This renders all substances, even
+                    insoluble ones, soluble in water and alcohol.</span>
+                </div>
+            </div>
+
+            <div class="step-card">
+                <div class="step-num">2</div>
+                <div class="step-text">
+                    <strong>Dissolve</strong>
+                    <span>1 grain of the C3 trituration is dissolved in 500 drops of a solution
+                    (400 drops water + 100 drops alcohol). This is a 1:500 dilution.</span>
+                </div>
+            </div>
+
+            <div class="step-card">
+                <div class="step-num">3</div>
+                <div class="step-text">
+                    <strong>First LM dilution</strong>
+                    <span>1 drop from step 2 is added to a vial containing 100 drops of pure
+                    alcohol. This vial is succussed (shaken vigorously) 100 times.
+                    Total dilution: 1:50,000 &mdash; this is <strong>LM1</strong> in liquid form.</span>
+                </div>
+            </div>
+
+            <div class="step-card">
+                <div class="step-num">4</div>
+                <div class="step-text">
+                    <strong>Medicate globules</strong>
+                    <span>Tiny poppy-seed-sized globules (about 500 per drop) are moistened with
+                    this liquid and dried. One such globule constitutes one dose of LM1.</span>
+                </div>
+            </div>
+
+            <div class="step-card">
+                <div class="step-num">5</div>
+                <div class="step-text">
+                    <strong>Successive potencies</strong>
+                    <span>To make LM2: dissolve 1 globule of LM1 in 1 drop of water, add to
+                    100 drops of alcohol, succuss 100 times, medicate new globules. Repeat
+                    through 29 more stages to reach LM30.</span>
+                </div>
+            </div>
+
+            <h3>Why 1:50,000?</h3>
+            <p>The math: C3 trituration (1:1,000,000) &times; dissolved in 500 drops (1:500)
+            &times; 1 drop into 100 drops (1:100) = each step is a 1:50,000 dilution. The
+            "LM" notation comes from the Roman numeral L (50) &times; M (1,000) = 50,000.</p>
+
+            <h3>Q-Potency vs. LM-Potency</h3>
+            <p>These terms are often used interchangeably, but some pharmacies distinguish them
+            by globule size. <strong>LM</strong> uses #10 globules (poppy-seed sized, ~500 per drop),
+            while <strong>Q</strong> uses smaller #1 globules. In practice, most practitioners
+            treat them as equivalent.</p>
+        </div>
+
+        <!-- ORGANON TAB -->
+        <div class="tab-content" id="tab-organon">
+            <h3>Key Organon Passages on LM Potencies</h3>
+
+            <div class="quote">
+                <p><strong>&sect;246:</strong> "Every perceptibly progressive and strikingly increasing
+                amelioration in a transient (acute) or persistent (chronic) disease, is a condition
+                which, as long as it lasts, excludes in every case any repetition whatsoever of any
+                medicine, because all the good the medicine taken continues to effect is now hastening
+                towards its completion."</p>
+                <div class="source">— Organon, 6th Edition, Boericke Translation</div>
+            </div>
+
+            <div class="quote">
+                <p><strong>&sect;247:</strong> "It is impractical to repeat the same unchanged dose
+                of a remedy once, not to mention its frequent repetition. The vital principle does
+                not accept such unchanged doses without resistance, that is, without other symptoms
+                of the medicine manifesting themselves than those similar to the disease to be cured,
+                because the former dose has already accomplished the expected change in the vital
+                principle and a second dynamically wholly similar, unchanged dose can no longer find
+                the same conditions."</p>
+                <div class="source">— Organon, 6th Edition, Boericke Translation</div>
+            </div>
+
+            <div class="quote">
+                <p><strong>&sect;248:</strong> "For this purpose, we give the medicinal solution in
+                such moderate doses that the vital force can easily let the cure progress without
+                being inordinately disturbed. The dose can also be increased or diminished according
+                to conditions."</p>
+                <div class="source">— Organon, 6th Edition, Boericke Translation</div>
+            </div>
+
+            <div class="quote">
+                <p><strong>&sect;270:</strong> "In order to best obtain this development of power,
+                a small part of the substance to be dynamized, say one grain, is triturated for
+                three hours with three times one hundred grains of sugar of milk according to the
+                method described up to the one-millionth part in powder form... One grain of this
+                powder is dissolved in 500 drops of a mixture of one part of brandy and four parts
+                of water... One drop of this is put in a vial and potentized with 100 strong
+                succussions of the hand... globules the size of poppy seeds are moistened with it,
+                quickly spread on blotting paper to dry, and kept in a well-corked vial."</p>
+                <div class="source">— Organon, 6th Edition, Boericke Translation (&sect;270, condensed)</div>
+            </div>
+
+            <h3>Historical Context</h3>
+            <p>Hahnemann developed LM potencies between 1837-1843, the last years of his practice
+            in Paris. He was dissatisfied with the aggravations caused by centesimal potencies,
+            especially in chronic disease. The 6th edition of the Organon, containing the LM
+            method, was completed in 1842 but not published until 1921 &mdash; 78 years after his
+            death. During this time, the homeopathic world used only centesimal potencies.</p>
+            <p>The manuscript was finally published by Richard Haehl and William Boericke, making
+            Hahnemann's most refined method available to the profession. Today, LM potencies are
+            increasingly used by practitioners worldwide, especially for sensitive patients and
+            deep chronic conditions.</p>
+        </div>
+    </div>
+
+    <!-- When to Use LM -->
+    <div class="card">
+        <h2>When to Consider LM Potencies</h2>
+        <h3>LM potencies are especially indicated for:</h3>
+        <ul>
+            <li><strong>Sensitive patients</strong> who react strongly to remedies or have a history
+            of aggravations from centesimal potencies</li>
+            <li><strong>Deep chronic diseases</strong> requiring sustained, gentle treatment over
+            months</li>
+            <li><strong>Cases requiring daily dosing</strong> where the "wait and watch" approach
+            of centesimal prescribing is too slow</li>
+            <li><strong>Advanced pathology</strong> where the vital force is weakened and cannot
+            tolerate strong medicinal stimulation</li>
+            <li><strong>Children and elderly</strong> patients who need gentler treatment</li>
+            <li><strong>Cases where centesimal treatment has stalled</strong> &mdash; switching
+            to LM can sometimes restart the healing process</li>
+        </ul>
+
+        <h3>Centesimal potencies may be preferred for:</h3>
+        <ul>
+            <li><strong>Acute conditions</strong> requiring rapid, strong action</li>
+            <li><strong>Robust patients</strong> with strong vital force</li>
+            <li><strong>Clear, well-indicated remedies</strong> where a single dose and observation
+            period is practical</li>
+            <li><strong>First-aid situations</strong> where dry pellets are more convenient than
+            liquid preparation</li>
+        </ul>
+    </div>
+
+    <!-- Cell Salts Note -->
+    <div class="card">
+        <h2>Cell Salts &amp; LM Potencies</h2>
+        <p><strong>Schuessler Cell Salts are not prepared in LM potency.</strong> The 12 tissue
+        salts use exclusively the decimal (X) scale, typically 6X or 12X. Dr. Schuessler's
+        biochemic system operates on a different principle &mdash; providing mineral salts in
+        low, near-material doses for cellular nutrition &mdash; whereas LM potencies are
+        ultra-high dynamized dilutions for classical homeopathic prescribing.</p>
+        <p>However, any of the 12 cell salt substances <em>can</em> be prepared in LM potency
+        and used as classical homeopathic remedies (e.g., <em>Calcarea Phosphorica LM1</em>).
+        In this case, they follow the standard LM dosing protocol above, not the cell salt
+        protocol.</p>
+    </div>
+
+    <!-- Sources -->
+    <div class="card">
+        <h2>Sources</h2>
+        <ul>
+            <li>Hahnemann, S. <em>Organon of Medicine</em>, 6th Edition (1842/1921).
+            Translated by William Boericke. Public domain.</li>
+            <li>Boericke, W. <em>Pocket Manual of Homoeopathic Materia Medica</em>, 9th Edition (1927).
+            Public domain.</li>
+            <li>Little, D. <em>The LM Potency Series</em>. Simillimum.com.</li>
+        </ul>
+    </div>
+
+</div>
+
+<script>
+function switchTab(tabId) {
+    document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.tab === tabId));
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.toggle('active', c.id === 'tab-' + tabId));
+}
+</script>
+</body>
+</html>

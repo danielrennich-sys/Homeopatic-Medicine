@@ -25,6 +25,28 @@ function corsHeaders(request) {
     };
 }
 
+// Daily request limit
+const DAILY_LIMIT = 100;
+
+// In-memory counter (resets when worker restarts or across isolates,
+// but good enough for soft limiting on a small site)
+let requestCount = 0;
+let countDate = new Date().toISOString().slice(0, 10); // "YYYY-MM-DD"
+
+function checkAndIncrementLimit() {
+    const today = new Date().toISOString().slice(0, 10);
+    if (today !== countDate) {
+        // New day — reset counter
+        countDate = today;
+        requestCount = 0;
+    }
+    if (requestCount >= DAILY_LIMIT) {
+        return false; // Over limit
+    }
+    requestCount++;
+    return true;
+}
+
 export default {
     async fetch(request, env) {
         // Handle CORS preflight
@@ -39,9 +61,15 @@ export default {
             });
         }
 
-        // Rate limiting: simple per-IP limit using CF headers
-        // (Cloudflare's free tier doesn't have built-in rate limiting,
-        //  but the Worker invocation limit of 100K/day is effectively a cap)
+        // Check daily rate limit
+        if (!checkAndIncrementLimit()) {
+            return new Response(JSON.stringify({
+                error: 'Daily limit reached. The AI agent is limited to ' + DAILY_LIMIT + ' analyses per day. Try again tomorrow, or use the keyword-based matching which works without limits.'
+            }), {
+                status: 429,
+                headers: { ...corsHeaders(request), 'Content-Type': 'application/json' },
+            });
+        }
 
         const apiKey = env.ANTHROPIC_API_KEY;
         if (!apiKey) {

@@ -338,6 +338,10 @@ async function callClaudeAgent(payload) {
             body: apiBody,
         });
 
+        if (resp.status === 429) {
+            console.warn('Daily AI limit reached, falling back to keyword matching');
+            return null;
+        }
         if (!resp.ok) {
             const errText = await resp.text();
             console.error('Claude API error:', resp.status, errText);

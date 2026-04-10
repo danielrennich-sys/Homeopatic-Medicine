@@ -762,7 +762,7 @@ function submitForm() {
     }
 
     const btn = document.getElementById('btnSubmit');
-    const hasAI = HomeopathyDB.Settings.hasApiKey;
+    const hasAI = HomeopathyDB.Settings.hasAI;
     btn.textContent = hasAI ? 'AI Agent analyzing...' : 'Searching...';
     btn.disabled = true;
 
@@ -901,7 +901,7 @@ HomeopathyDB.loadSearchIndex().then(ok => {
     if (ok) {
         const statusDiv = document.createElement('div');
         statusDiv.style.cssText = 'text-align:center;font-size:0.8rem;padding:4px;color:#71767b';
-        const hasAI = HomeopathyDB.Settings.hasApiKey;
+        const hasAI = HomeopathyDB.Settings.hasAI;
         statusDiv.innerHTML = `${HomeopathyDB.remedyCount} remedies loaded` +
             (hasAI
                 ? ' &mdash; <span style="color:#7ec8a0">AI Agent active</span>'

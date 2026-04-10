@@ -7,6 +7,11 @@
 // ============================================================
 // SETTINGS (localStorage)
 // ============================================================
+
+// Cloudflare Worker proxy URL — serves your API key to all users
+// Replace this after deploying the worker (see worker/ directory)
+const AI_PROXY_URL = localStorage.getItem('homeopathy_proxy_url') || '';
+
 const Settings = {
     get apiKey() {
         return localStorage.getItem('homeopathy_api_key') || '';
@@ -16,6 +21,12 @@ const Settings = {
     },
     get hasApiKey() {
         return this.apiKey.startsWith('sk-ant-');
+    },
+    get hasAI() {
+        return this.hasApiKey || !!AI_PROXY_URL;
+    },
+    get proxyUrl() {
+        return AI_PROXY_URL;
     },
 };
 
@@ -297,7 +308,7 @@ function buildPatientSummary(payload) {
 
 
 async function callClaudeAgent(payload) {
-    if (!Settings.hasApiKey) return null;
+    if (!Settings.hasAI) return null;
 
     const patientSummary = buildPatientSummary(payload);
     if (!patientSummary.trim()) return null;
@@ -311,15 +322,20 @@ async function callClaudeAgent(payload) {
         }]
     });
 
+    // Decide: use local API key (direct) or proxy
+    const useProxy = !Settings.hasApiKey && Settings.proxyUrl;
+    const url = useProxy ? Settings.proxyUrl : 'https://api.anthropic.com/v1/messages';
+    const headers = { 'Content-Type': 'application/json' };
+    if (!useProxy) {
+        headers['x-api-key'] = Settings.apiKey;
+        headers['anthropic-version'] = '2023-06-01';
+        headers['anthropic-dangerous-direct-browser-access'] = 'true';
+    }
+
     try {
-        const resp = await fetch('https://api.anthropic.com/v1/messages', {
+        const resp = await fetch(url, {
             method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-                'x-api-key': Settings.apiKey,
-                'anthropic-version': '2023-06-01',
-                'anthropic-dangerous-direct-browser-access': 'true',
-            },
+            headers,
             body: apiBody,
         });
 

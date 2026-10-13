@@ -24,6 +24,7 @@ from __future__ import annotations
 
 import json
 import re
+import time
 import unicodedata
 from collections import defaultdict
 from pathlib import Path
@@ -298,6 +299,7 @@ def main() -> None:
         sec_list[v] = k
     meta = {
         "n": n,
+        "build": time.strftime("%Y%m%d%H%M%S"),   # versions shard/remedy URLs in the browser
         "avg_chars": total_chars / max(n, 1),
         "remedies": remedies,
         "sections": sec_list,

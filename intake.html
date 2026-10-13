@@ -263,6 +263,8 @@ mark.hl b { color: #7ec8a0; font-weight: 700; }
 </div>
 
 <div class="container">
+    <!-- Index loading status (written by engine.js); empty once the index is ready -->
+    <div id="loadingStatus" class="hint" style="text-align:center;color:#d9a86b;margin-bottom:10px"></div>
     <!-- Progress -->
     <div class="progress-bar" id="progressBar"></div>
     <div class="step-nav" id="stepNav"></div>
@@ -740,7 +742,7 @@ mark.hl b { color: #7ec8a0; font-weight: 700; }
     </div>
 </div>
 
-<script src="js/engine.js"></script>
+<script src="js/engine.js?v=20261013b"></script>
 <script>
 // === CONFIG ===
 const STEPS = [
@@ -904,7 +906,9 @@ function submitForm() {
     });
 
     if (!HomeopathyDB.passagesReady) {
-        alert('The passage index is still loading. Please wait a moment.');
+        alert(HomeopathyDB.passagesError
+            ? 'The remedy index could not be loaded (' + HomeopathyDB.passagesError + '). Please reload the page and try again.'
+            : 'The remedy index (about 3 MB) is still downloading — see the status line at the top of the page. Please wait a moment and try again.');
         return;
     }
     if (!(payload.story || '').trim() && !Object.keys(payload).some(k => /^sx_desc_/.test(k))) {
@@ -1204,8 +1208,18 @@ function switchTab(id) {
 init();
 
 // Load the database engine
-HomeopathyDB.loadPassageIndex().then(ok => {
+// The Find button stays disabled until the index is ready
+const findBtn = document.getElementById('btnSubmit');
+findBtn.disabled = true;
+findBtn.textContent = 'Loading index…';
+if (typeof HomeopathyDB.loadPassageIndex !== 'function') {
+    // An old engine.js from the browser cache paired with this newer page
+    document.getElementById('loadingStatus').textContent = 'This page has been updated — please reload it (Ctrl+F5 / Cmd+Shift+R).';
+    findBtn.textContent = 'Please reload the page';
+} else HomeopathyDB.loadPassageIndex().then(ok => {
     if (ok) {
+        findBtn.disabled = false;
+        findBtn.textContent = 'Find Matching Remedies';
         const statusDiv = document.createElement('div');
         statusDiv.style.cssText = 'text-align:center;font-size:0.8rem;padding:4px;color:#71767b';
         const hasAI = HomeopathyDB.Settings.hasAI;
@@ -1214,6 +1228,8 @@ HomeopathyDB.loadPassageIndex().then(ok => {
                 ? ' &mdash; <span style="color:#7ec8a0">AI Agent active</span>'
                 : ' &mdash; <span style="color:#d9a86b">Keyword mode</span> (<a href="settings.html" style="color:#6bb3d9">add API key for AI</a>)');
         document.querySelector('.container').prepend(statusDiv);
+    } else {
+        findBtn.textContent = 'Index failed to load — reload the page';
     }
 });
 </script>

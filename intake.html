@@ -966,14 +966,18 @@ function renderIntakeResults(data, redFlags = [], payload = {}) {
     lastResults = data.results;
 
     let infoHtml = '';
-    if (redFlags.length || data.urgent_warning) {
+    if (redFlags.length) {
+        // Hard red flags found in the answers themselves
         infoHtml += `<div class="urgent">
             <strong>Please get medical care before using any remedy.</strong>
             Something in your answers can be a sign of a condition that needs a doctor promptly.
             If it is severe or sudden, call your local emergency number.
-            ${redFlags.length ? `<ul>${redFlags.map(f => `<li>${esc(f)}</li>`).join('')}</ul>` : ''}
+            <ul>${redFlags.map(f => `<li>${esc(f)}</li>`).join('')}</ul>
             ${data.urgent_warning ? `<div style="margin-top:6px">${esc(data.urgent_warning)}</div>` : ''}
         </div>`;
+    } else if (data.urgent_warning) {
+        // The AI's own caution: usually "see a doctor if..." rather than an emergency
+        infoHtml += `<div class="safety" style="margin:0 0 12px"><strong>When to see a doctor:</strong> ${esc(data.urgent_warning)}</div>`;
     }
     const n = data.results.length;
     if (data.mode === 'ai') {

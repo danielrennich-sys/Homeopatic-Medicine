@@ -502,18 +502,67 @@ Include EVERY candidate exactly once. Do not add remedies that are not in the li
 function extractJson(text) {
     text = (text || '').trim();
     if (text.startsWith('```')) text = text.replace(/^```\w*\n?/, '').replace(/\n?```$/, '');
-    const a = text.indexOf('{'), b = text.lastIndexOf('}');
-    if (a === -1 || b === -1) throw new Error('No JSON object in response');
-    return JSON.parse(text.slice(a, b + 1));
+    const a = text.indexOf('{');
+    if (a === -1) throw new Error('No JSON object in response');
+    const b = text.lastIndexOf('}');
+    try {
+        return JSON.parse(text.slice(a, b + 1));
+    } catch (err) {
+        // A response cut off by max_tokens: drop the unfinished element and close what is open
+        const repaired = repairTruncatedJson(text.slice(a));
+        if (repaired) {
+            console.warn('AI response JSON was incomplete; repaired by dropping the unfinished tail');
+            return repaired;
+        }
+        throw err;
+    }
+}
+
+function repairTruncatedJson(s) {
+    // Walk the text tracking open brackets (outside strings); cut back to the
+    // last point where an element was complete, then close everything open.
+    const stack = [];
+    let inStr = false, esc = false, lastGood = -1;
+    for (let i = 0; i < s.length; i++) {
+        const c = s[i];
+        if (inStr) {
+            if (esc) esc = false;
+            else if (c === '\\') esc = true;
+            else if (c === '"') { inStr = false; lastGood = i; }
+            continue;
+        }
+        if (c === '"') inStr = true;
+        else if (c === '{' || c === '[') stack.push(c);
+        else if (c === '}' || c === ']') { stack.pop(); lastGood = i; }
+        else if (/[0-9el]/.test(c)) lastGood = i;   // end of a number / true / false / null
+    }
+    for (let cut = lastGood; cut > 0; cut--) {
+        let head = s.slice(0, cut + 1).replace(/,\s*$/, '');
+        // recompute what is still open for this prefix
+        const st = []; let q = false, e = false;
+        for (const c of head) {
+            if (q) { if (e) e = false; else if (c === '\\') e = true; else if (c === '"') q = false; continue; }
+            if (c === '"') q = true; else if (c === '{' || c === '[') st.push(c); else if (c === '}' || c === ']') st.pop();
+        }
+        if (q) continue;
+        head += st.reverse().map(c => c === '{' ? '}' : ']').join('');
+        try { return JSON.parse(head); } catch { /* try an earlier cut */ }
+        if (lastGood - cut > 4000) break;
+    }
+    return null;
 }
 
 const AIState = { lastError: '' };
 
-async function callClaude(system, userContent, maxTokens = 2500) {
+async function callClaude(system, userContent, maxTokens = 3000) {
     if (!Settings.hasAI) return null;
     const apiBody = JSON.stringify({
         model: AI_MODEL,
-        max_tokens: maxTokens,
+        // The proxy caps max_tokens at 3000, and on Sonnet 5.5 thinking tokens
+        // count against it, so thinking is turned off for these JSON-only
+        // requests ("between_tools" is the supported way to do that on 5.5).
+        max_tokens: Math.min(maxTokens, 3000),
+        thinking: { type: 'between_tools' },
         system,
         messages: [{ role: 'user', content: userContent }],
     });
@@ -541,7 +590,13 @@ async function callClaude(system, userContent, maxTokens = 2500) {
         const result = await resp.json();
         let text = '';
         for (const block of (result.content || [])) if (block.type === 'text') text += block.text;
-        return extractJson(text);
+        if (result.stop_reason === 'max_tokens') console.warn('AI response hit max_tokens; attempting to use the partial JSON');
+        try {
+            return extractJson(text);
+        } catch (err) {
+            console.error('Could not parse AI response; tail was:', text.slice(-300));
+            throw err;
+        }
     } catch (err) {
         AIState.lastError = err.message;
         console.error('Claude agent error:', err);
@@ -801,7 +856,7 @@ async function intakeMatch(payload, onStatus = () => {}) {
     let plan = null;
     if (Settings.hasAI && summary.trim()) {
         onStatus('AI is reading your intake and planning the search...');
-        plan = await callClaude(PLANNER_SYSTEM, `--- PATIENT INTAKE ---\n${summary}`, 2500);
+        plan = await callClaude(PLANNER_SYSTEM, `--- PATIENT INTAKE ---\n${summary}`, 3000);
         if (plan && !Array.isArray(plan.search_groups)) plan = null;
     }
     const groups = plan ? plan.search_groups : await buildFallbackPlan(payload);

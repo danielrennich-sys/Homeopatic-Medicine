@@ -157,6 +157,20 @@ body {
 .badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 0.72rem; }
 .badge-cat { background: #1d3a2d; color: #7ec8a0; }
 .badge-src { background: #1d2d3a; color: #6bb3d9; }
+.badge-db { background: #1d3a2d; color: #7ec8a0; border: 1px solid #4a9a6e; }
+.badge-ai { background: #3a331d; color: #e0c46b; border: 1px solid #8a7a3a; }
+.notice {
+    background: #1a1f26; border: 1px solid #2f3336; border-left: 3px solid #6bb3d9;
+    border-radius: 8px; padding: 10px 12px; margin-bottom: 16px;
+    color: #b0b3b8; font-size: 0.8rem; line-height: 1.5;
+}
+.notice strong { color: #e7e9ea; }
+.urgent {
+    background: #3a1d1d; border: 1px solid #c94a4a; border-radius: 10px;
+    padding: 12px 14px; margin: 10px 0 14px; color: #f2c4c4; font-size: 0.86rem; line-height: 1.5;
+}
+.urgent strong { color: #ff8a8a; }
+.urgent ul { margin: 6px 0 0 18px; }
 
 /* Modal */
 .modal-overlay {
@@ -209,6 +223,14 @@ body {
     <!-- Progress -->
     <div class="progress-bar" id="progressBar"></div>
     <div class="step-nav" id="stepNav"></div>
+
+    <div class="notice">
+        <strong>Educational tool, not medical advice.</strong>
+        This matches your answers against historical homeopathic texts (1830&ndash;1930s) and, when available, an AI reading of the case.
+        It does not diagnose anything. Well-designed clinical trials have not found homeopathic remedies to work better than placebo,
+        so please don&rsquo;t use this in place of seeing a doctor, and don&rsquo;t stop prescribed medication.
+        <strong>If you have chest pain, trouble breathing, signs of a stroke, thoughts of harming yourself, or any symptom that feels severe or is getting rapidly worse, call your local emergency number now.</strong>
+    </div>
 
     <form id="intakeForm">
 
@@ -771,7 +793,7 @@ function submitForm() {
         .then(data => {
             btn.textContent = 'Find Matching Remedies';
             btn.disabled = false;
-            renderIntakeResults(data);
+            renderIntakeResults(data, scanRedFlags(payload));
         })
         .catch(err => {
             btn.textContent = 'Find Matching Remedies';
@@ -780,11 +802,48 @@ function submitForm() {
         });
 }
 
-function renderIntakeResults(data) {
+// Symptoms that should send someone to a doctor rather than self-treatment.
+// Deliberately broad: a false alarm costs little, a miss can cost a lot.
+const RED_FLAGS = [
+    [/chest (pain|pressure|tight)|crushing.{0,20}chest|pain.{0,30}(left arm|jaw)/, 'Chest pain or pressure'],
+    [/can'?t breathe|cannot breathe|(trouble|difficulty|hard) breathing|short(ness)? of breath|gasping|choking/, 'Trouble breathing'],
+    [/fac(e|ial) droop|slurred speech|sudden (weakness|numbness)|one side of (my |the )?(body|face)|can'?t (speak|talk)/, 'Possible stroke signs'],
+    [/worst headache|thunderclap|sudden severe headache|stiff neck.{0,40}fever|fever.{0,40}stiff neck/, 'Sudden severe headache or stiff neck with fever'],
+    [/suicid|kill (my|him|her)self|end (my|it all)|self.?harm|hurt(ing)? myself|don'?t want to (live|be alive)/, 'Thoughts of self-harm'],
+    [/faint(ed|ing)|pass(ed|ing) out|lost consciousness|unconscious|seizure|convulsion/, 'Fainting or seizure'],
+    [/(vomit|cough)(ing|ed)? (up )?blood|blood in (my )?(stool|vomit|urine)|black.{0,10}(tarry )?stool|bleeding (heavily|won'?t stop)/, 'Significant bleeding'],
+    [/(throat|tongue|lips?) (is |are )?swell|anaphyla|hives.{0,30}breath/, 'Possible severe allergic reaction'],
+    [/pregnan.{0,60}(bleed|cramp|pain)|(bleed|cramp).{0,60}pregnan/, 'Bleeding or pain during pregnancy'],
+    [/(baby|infant|newborn).{0,60}fever|fever.{0,60}(baby|infant|newborn)/, 'Fever in an infant'],
+    [/sudden (loss of )?(vision|sight)|(went|going) blind|sudden(ly)? (can'?t|cannot) see/, 'Sudden vision loss'],
+    [/confus(ed|ion).{0,30}sudden|sudden(ly)? confus/, 'Sudden confusion'],
+];
+
+function scanRedFlags(payload) {
+    const text = Object.entries(payload)
+        .filter(([k]) => /^sx_desc_|^additional$|^past_medical$/.test(k))
+        .map(([, v]) => Array.isArray(v) ? v.join(' ') : String(v))
+        .join(' ').toLowerCase();
+    return RED_FLAGS.filter(([re]) => re.test(text)).map(([, label]) => label);
+}
+
+function renderIntakeResults(data, redFlags = []) {
     const panel = document.getElementById('resultsPanel');
     panel.classList.add('active');
 
-    let infoHtml = `Found ${data.results.length} matching remedies based on ${data.keywords_used} symptom analysis groups`;
+    let infoHtml = '';
+    if (redFlags.length || data.urgent_warning) {
+        infoHtml += `<div class="urgent">
+            <strong>Please get medical care before using any remedy.</strong>
+            Something in your answers can be a sign of a condition that needs a doctor promptly.
+            If it is severe or sudden, call your local emergency number.
+            ${redFlags.length ? `<ul>${redFlags.map(f => `<li>${esc(f)}</li>`).join('')}</ul>` : ''}
+            ${data.urgent_warning ? `<div style="margin-top:6px">${esc(data.urgent_warning)}</div>` : ''}
+        </div>`;
+    }
+    infoHtml += `Found ${data.results.length} matching remedies based on ${data.keywords_used} symptom analysis groups.
+        <span class="badge badge-db">Found in sources</span> means your symptoms matched the remedy's text in the books;
+        <span class="badge badge-ai">AI suggestion</span> means the AI proposed it from its own knowledge.`;
     if (data.ai_analysis) {
         infoHtml += `<div style="background:#1d3a2d;border:1px solid #4a9a6e;border-radius:10px;padding:12px;margin:10px 0">
             <div style="color:#7ec8a0;font-weight:600;font-size:0.85rem;margin-bottom:4px">AI Repertorization Analysis</div>
@@ -797,9 +856,13 @@ function renderIntakeResults(data) {
     const list = document.getElementById('resultsList');
     list.innerHTML = data.results.map((r, i) => {
         const pct = r.pct || Math.round((r.score / (data.results[0]?.score || 1)) * 100);
-        const summary = r.ai_reason
-            ? r.ai_reason
-            : r.matched_keywords.slice(0, 5).join(', ');
+        const inSources = r.db_score > 0;
+        const sourceBadges = (inSources ? '<span class="badge badge-db">Found in sources</span> ' : '') +
+            (r.ai_suggested ? `<span class="badge badge-ai">${inSources ? 'AI suggestion' : 'AI suggestion only &mdash; not matched in source texts'}</span>` : '');
+        const matchedLine = r.matched_keywords.length
+            ? `<div style="margin-top:4px;color:#71767b;font-size:0.78rem">Matched in texts: ${esc(r.matched_keywords.slice(0, 5).join(', '))}</div>`
+            : '';
+        const summary = r.ai_reason || '';
         return `
         <div class="result-card" onclick="showDetail('${r.id}')">
             <div style="display:flex;justify-content:space-between;align-items:baseline">
@@ -810,6 +873,7 @@ function renderIntakeResults(data) {
                 </div>
                 <span style="color:#7ec8a0;font-size:0.95rem;font-weight:700">${r.score} hits</span>
             </div>
+            <div style="margin-top:6px">${sourceBadges}</div>
             <div style="margin-top:4px">
                 <span class="badge badge-cat">${r.category}</span>
                 <span class="badge badge-src">${r.n_sources} sources</span>
@@ -817,14 +881,17 @@ function renderIntakeResults(data) {
                 ${r.has_evidence ? '<span class="badge" style="background:#2d1d3a;color:#b36bd9">Evidence</span>' : ''}
             </div>
             <div class="match-bar"><div class="match-fill" style="width:${pct}%"></div></div>
-            <div style="margin-top:8px;color:#b0b3b8;font-size:0.84rem;line-height:1.5">
-                ${esc(summary)}
-            </div>
+            ${summary ? `<div style="margin-top:8px;color:#b0b3b8;font-size:0.84rem;line-height:1.5"><strong style="color:#e0c46b">AI:</strong> ${esc(summary)}</div>` : ''}
+            ${matchedLine}
             <div style="text-align:right;margin-top:8px">
                 <span style="color:#6bb3d9;font-size:0.82rem;cursor:pointer">View full remedy details &rarr;</span>
             </div>
         </div>`;
-    }).join('');
+    }).join('') + (data.ai_unmatched && data.ai_unmatched.length ? `
+        <div class="result-card" style="cursor:default;border-style:dashed">
+            <div style="color:#e0c46b;font-weight:600;font-size:0.88rem;margin-bottom:6px">Also suggested by the AI, but not in this database</div>
+            ${data.ai_unmatched.map(u => `<div style="color:#b0b3b8;font-size:0.82rem;margin-top:4px"><strong>${esc(u.name)}</strong>${u.reason ? ' &mdash; ' + esc(u.reason) : ''}</div>`).join('')}
+        </div>` : '');
 
     panel.scrollIntoView({behavior: 'smooth'});
 }

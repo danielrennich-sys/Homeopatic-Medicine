@@ -206,7 +206,8 @@ Given the patient intake data below, produce a JSON response with this exact str
       "reason": "1-2 sentence explanation of why this remedy fits this patient's specific symptom picture"
     }
   ],
-  "reasoning": "Brief overall explanation of the case analysis"
+  "reasoning": "Brief overall explanation of the case analysis",
+  "urgent_warning": "Empty string, OR one plain-language sentence if anything in the intake could signal a medical emergency or a condition needing prompt evaluation by a doctor (e.g. chest pain, trouble breathing, stroke signs, suicidal thoughts, high fever in an infant, bleeding in pregnancy)"
 }
 
 RULES:
@@ -218,7 +219,8 @@ RULES:
 6. For body locations, use both common and Latin terms
 7. Group related concepts: don't search "running" alone, search ["knee", "pain", "motion", "aggravation"] together
 8. Your suggested_remedies should be based on the TOTALITY, not individual symptoms. Include up to 10 remedies, each with a specific reason tied to this patient's symptoms.
-9. Return ONLY valid JSON, no markdown formatting`;
+9. Fill urgent_warning whenever symptoms suggest something that should not wait for self-treatment - err on the side of flagging
+10. Return ONLY valid JSON, no markdown formatting`;
 
 
 function buildPatientSummary(payload) {
@@ -441,7 +443,7 @@ function keywordFallbackMatch(payload) {
         if (m) sxIndices.add(parseInt(m[1]));
     }
 
-    for (const si of [...sxIndices].sort()) {
+    for (const si of [...sxIndices].sort((a, b) => a - b)) {
         const loc = payload[`sx_location_${si}`] || '';
         const sens = payload[`sx_sensation_${si}`] || '';
         const desc = payload[`sx_desc_${si}`] || '';
@@ -539,6 +541,7 @@ function keywordFallbackMatch(payload) {
             id: e.id, primary: e.primary, latin: e.latin, category: e.category,
             n_sources: e.n_sources, has_traditional: e.has_traditional,
             has_evidence: e.has_evidence, score: Math.round(score * 10) / 10,
+            db_score: Math.round(score * 10) / 10, ai_suggested: false,
             pct: Math.round((score / maxScore) * 100),
             ai_reason: '',
             matched_keywords: (matchedKw[idx] || []).slice(0, 20),
@@ -546,6 +549,33 @@ function keywordFallbackMatch(payload) {
     });
 
     return { keywords_used: new Set(searchPhrases).size, results };
+}
+
+
+function findRemedyByName(remedyName) {
+    /** Return the index of the remedy best matching a name from Claude, or -1.
+     *  Prefers an exact name/synonym hit, then a name containing the whole phrase,
+     *  then one containing every word, so "Natrum Carbonicum" never lands on
+     *  Natrum Muriaticum just because both contain "natrum". */
+    const norm = s => (s || '').toLowerCase().replace(/[^a-z ]/g, ' ').replace(/\s+/g, ' ').trim();
+    const rn = norm(remedyName);
+    if (!rn) return -1;
+    const words = rn.split(' ').filter(w => w.length >= 3);
+    let best = -1, bestRank = 0;
+    for (let i = 0; i < searchIndex.length; i++) {
+        const e = searchIndex[i];
+        const names = [e.primary, e.latin, ...(e.common || []), ...(e.synonyms || [])]
+            .map(n => norm(n).replace(/^cell salt \d* ?/, ''));
+        let rank = 0;
+        if (names.some(n => n === rn)) rank = 3;
+        else if (names.some(n => n.includes(rn))) rank = 2;
+        else if (words.length && words.every(w => names.some(n => n.includes(w)))) rank = 1;
+        // Among equal ranks, prefer the remedy covered by more sources
+        if (rank > bestRank || (rank && rank === bestRank && e.n_sources > searchIndex[best].n_sources)) {
+            best = i; bestRank = rank;
+        }
+    }
+    return best;
 }
 
 
@@ -593,25 +623,26 @@ async function intakeMatch(payload) {
             }
         }
 
+        // Snapshot the scores earned purely from the source texts, before the AI boost
+        const dbScores = { ...scores };
+
         // Boost Claude's suggested remedies and capture per-remedy reasons
         const aiReasons = {};  // remedy index -> reason string
+        const aiSuggestedIdx = new Set();
+        const aiUnmatched = [];  // suggestions with no remedy in the database
         const suggested = agentResult.suggested_remedies || [];
         for (const entry of suggested) {
             // Handle both old format (string) and new format ({name, reason})
             const remedyName = typeof entry === 'string' ? entry : (entry.name || '');
             const reason = typeof entry === 'object' ? (entry.reason || '') : '';
-            const rnLower = remedyName.toLowerCase();
-            for (let i = 0; i < searchIndex.length; i++) {
-                const e = searchIndex[i];
-                const nameText = [e.primary, e.latin, ...(e.common || []), ...(e.synonyms || [])]
-                    .join(' ').toLowerCase();
-                if (nameText.includes(rnLower) ||
-                    rnLower.split(/\s+/).filter(w => w.length >= 4).some(w => nameText.includes(w))) {
-                    award(i, 8.0, `AI suggested: ${remedyName}`);
-                    if (reason) aiReasons[i] = reason;
-                    break;
-                }
+            const i = findRemedyByName(remedyName);
+            if (i < 0) {
+                if (remedyName) aiUnmatched.push({ name: remedyName, reason });
+                continue;
             }
+            award(i, 8.0, `AI suggested: ${remedyName}`);
+            aiSuggestedIdx.add(i);
+            if (reason) aiReasons[i] = reason;
         }
 
         if (Object.keys(scores).length) {
@@ -624,9 +655,11 @@ async function intakeMatch(payload) {
                     n_sources: e.n_sources, has_traditional: e.has_traditional,
                     has_evidence: e.has_evidence,
                     score: Math.round(score * 10) / 10,
+                    db_score: Math.round((dbScores[idx] || 0) * 10) / 10,
+                    ai_suggested: aiSuggestedIdx.has(parseInt(idx)),
                     pct: Math.round((score / maxScore) * 100),
                     ai_reason: aiReasons[parseInt(idx)] || '',
-                    matched_keywords: (matchedKw[idx] || []).slice(0, 20),
+                    matched_keywords: (matchedKw[idx] || []).filter(k => !k.startsWith('AI suggested')).slice(0, 20),
                 };
             });
 
@@ -634,6 +667,8 @@ async function intakeMatch(payload) {
                 keywords_used: new Set(searchPhrases).size,
                 ai_analysis: agentResult.analysis || '',
                 ai_reasoning: agentResult.reasoning || '',
+                urgent_warning: agentResult.urgent_warning || '',
+                ai_unmatched: aiUnmatched,
                 results,
             };
         }

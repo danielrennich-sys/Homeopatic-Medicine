@@ -1,14 +1,19 @@
 {
   "id": "levisticum-officinale",
   "names": {
-    "primary": "Levisticum officinale (KOCH.)",
-    "latin": "Levisticum officinale (KOCH.)",
+    "primary": "Levisticum Officinale",
+    "latin": "Levisticum Officinale",
     "common": [
       "Lovage"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Levisticum officinale (KOCH.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

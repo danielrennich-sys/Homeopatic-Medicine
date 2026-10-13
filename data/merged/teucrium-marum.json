@@ -1,18 +1,22 @@
 {
   "id": "teucrium-marum",
   "names": {
-    "primary": "TEUCRIUM MARUM VERUM",
-    "latin": "TEUCRIUM MARUM VERUM",
+    "primary": "Teucrium Marum",
+    "latin": "Teucrium Marum",
     "common": [
       "Cat-thyme (TEUCRIUM MARUM)",
       "Thyme, Cat"
     ],
     "synonyms": [
-      "Teucrium Marum",
+      "TEUCRIUM MARUM VERUM",
       "Teucrium marum (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "head": [
       {

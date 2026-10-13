@@ -1,14 +1,17 @@
 {
   "id": "graphalium-uliginosum",
   "names": {
-    "primary": "Graphalium uliginosum",
-    "latin": "Graphalium uliginosum",
+    "primary": "Graphalium Uliginosum",
+    "latin": "Graphalium Uliginosum",
     "common": [
       "Cudweed"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

@@ -1,14 +1,17 @@
 {
   "id": "anthemis-cotula",
   "names": {
-    "primary": "Anthemis cotula",
-    "latin": "Anthemis cotula",
+    "primary": "Anthemis Cotula",
+    "latin": "Anthemis Cotula",
     "common": [
       "Mayweed"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

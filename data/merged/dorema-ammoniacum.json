@@ -1,14 +1,19 @@
 {
   "id": "dorema-ammoniacum",
   "names": {
-    "primary": "Dorema ammoniacum (D. DON.)",
-    "latin": "Dorema ammoniacum (D. DON.)",
+    "primary": "Dorema Ammoniacum",
+    "latin": "Dorema Ammoniacum",
     "common": [
       "Ammoniacum"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Dorema ammoniacum (D. DON.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

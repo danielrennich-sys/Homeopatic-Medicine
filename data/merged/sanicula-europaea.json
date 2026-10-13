@@ -1,14 +1,19 @@
 {
   "id": "sanicula-europaea",
   "names": {
-    "primary": "Sanicula Europaea (LINN.)",
-    "latin": "Sanicula Europaea (LINN.)",
+    "primary": "Sanicula Europaea",
+    "latin": "Sanicula Europaea",
     "common": [
       "Sanicle, Wood"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Sanicula Europaea (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

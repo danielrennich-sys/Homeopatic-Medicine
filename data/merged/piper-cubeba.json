@@ -1,14 +1,19 @@
 {
   "id": "piper-cubeba",
   "names": {
-    "primary": "Piper cubeba (LINN.)",
-    "latin": "Piper cubeba (LINN.)",
+    "primary": "Piper Cubeba",
+    "latin": "Piper Cubeba",
     "common": [
       "Cubebs"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Piper cubeba (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

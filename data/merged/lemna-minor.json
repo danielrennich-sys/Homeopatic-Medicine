@@ -1,16 +1,17 @@
 {
   "id": "lemna-minor",
   "names": {
-    "primary": "LEMNA MINOR",
-    "latin": "LEMNA MINOR",
+    "primary": "Lemna Minor",
+    "latin": "Lemna Minor",
     "common": [
       "Duckweed"
     ],
-    "synonyms": [
-      "Lemna Minor"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "nose": [
       {

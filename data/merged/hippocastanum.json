@@ -1,16 +1,19 @@
 {
   "id": "hippocastanum",
   "names": {
-    "primary": "Hippocastanum (Aesculus Hippocastanum)",
-    "latin": "Hippocastanum (Aesculus Hippocastanum)",
+    "primary": "Hippocastanum",
+    "latin": "Hippocastanum",
     "common": [
       "Horse-Chestnut"
     ],
     "synonyms": [
-      "Hippocastanum"
+      "Hippocastanum (Aesculus Hippocastanum)"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

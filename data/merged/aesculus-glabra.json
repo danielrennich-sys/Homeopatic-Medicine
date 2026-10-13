@@ -5,18 +5,22 @@
     "latin": "Æsculus Glabra",
     "common": [],
     "synonyms": [
+      "Aesc-G",
+      "Aesculus. Aesculus glabra",
       "Aesculus glabra"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
-    "keynotes": [
-      {
-        "text": "Æsculus glabra, like the Horse-chestnut, has a marked action on the rectum. It produces hard, knotty stools; very painful. Dark purple hæmorrhoidal tumours, with lame back and lower limbs. Hale gives the indication: \"Very painful external tumours, dark purple, with constipation and vertigo; weakness of sacrum and lower limbs.\" At the same time there is fulness and heaviness of the head without pain; the sight may be dim or lost; eyes fixed and expressionless. The speech is thick and the tongue as if lame. In cattle it produces wry-neck and paresis of hind limbs. There is a cough produced by sudden irritation of throat, sensation as of a feather tickling the throat, causing hawking and raising of mucus finally streaked with blood.",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
     "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T ÆSCULUS GLABRA. Æsculus glabra, Willd, Nat. order , Sapindaceæ. Common names , Fetid Buckeye, Ohio Buckeye. Preparation , Triturations from the whole fruit. Authority. Hale (\"New Remedies\"). MIND. ► Confusion of mind, always attended by vertigo, and may be followed by stupefaction and coma. HEAD. ► Vertigo, with staggering, reeling and unconsciousness. ► Vertigo with fulness and heaviness of the head, dimness of sight, thickness of speech, nausea, and vomiting. EYE. ► Dimness of sight, and even loss of sight. ► Eyes fixed and expressionless. MOUTH. ► Thickness of speech from paralysis of the tongue. STOMACH AND ABDOMEN. ► Great distension of the stomach and abdomen. ► Nausea, with loathing of food and vomiting, with cramp-like pain in stomach. STOOL AND ANUS. ► Hard, knotty stools. ► *Obstinate constipation. NECK AND BACK. ► Wryneck (spasmodic). ► *Great lameness and weakness of the back. EXTREMITIES. ► Trembling of the lower limbs, with spasmodic contractions. GENERALITIES. ► Spasms and convulsions, followed by paralysis. ► Great weakness. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
       {
         "text": "Clinical: Constipation; Cough; Cramp in stomach; Hæmorrhoids; Meningitis; Paralysis; Speech, thick; Vertigo; Wry-neck",
         "source_id": "clarke-dictionary-1900"
@@ -28,6 +32,12 @@
       {
         "text": "Spasms and convulsions, followed by lameness (cattle). Great weakness. Pain : in hemorrhoids. Cramplike pain : in stomach. Fulness and heaviness : in head ; in stomach.",
         "source_id": "hering-guiding-1879"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Æsculus glabra, like the Horse-chestnut, has a marked action on the rectum. It produces hard, knotty stools; very painful. Dark purple hæmorrhoidal tumours, with lame back and lower limbs. Hale gives the indication: \"Very painful external tumours, dark purple, with constipation and vertigo; weakness of sacrum and lower limbs.\" At the same time there is fulness and heaviness of the head without pain; the sight may be dim or lost; eyes fixed and expressionless. The speech is thick and the tongue as if lame. In cattle it produces wry-neck and paresis of hind limbs. There is a cough produced by sudden irritation of throat, sensation as of a feather tickling the throat, causing hawking and raising of mucus finally streaked with blood.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "relationships": {
@@ -111,6 +121,30 @@
     ],
     "indications": [
       {
+        "text": "Synonym—Buckeye.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—Aesculus Glabra is a narcotic, but actively stimulates the nervous system somewhat like nux vomica. It has a special influence on the capillary circulation of the rectum, and on the pelvic and portal circulations and overcomes constipation and congestion associated with hemorrhoids, and aids in the absorption of the coagulated blood in hemorrhoidal tumors where a surgical operation is not deemed advisable. It lessens the caliber of the capillary vessels, and removes obstructions to the pelvic circulation, and is applicable whenever congestion results in hemorrhoids, or in enlargement of the uterus.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Concerning the application of this remedy for piles, Dr. Bloyer in The Gleaner said the piles are usually large and purple. They rarely bleed. There may be a sense of fullness in the rectum or there may be dryness with stricture of the rectum, causing a proctitis, all of which is relieved by this remedy as well also as the headache, backache and digestive or asthmatic disturbances, which are reflexly induced.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In paralysis it is a stimulant similar to strychnine. As a narcotic it acts similarly to opium but has much less narcotic power.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
         "text": "Related entry: Aesculus hippocastanum",
         "source_id": "felter-eclectic-1922"
       },
@@ -167,7 +201,9 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "allen-encyclopedia-1874",
       "clarke-dictionary-1900",
+      "ellingwood-1919",
       "felter-eclectic-1922",
       "hering-guiding-1879"
     ]

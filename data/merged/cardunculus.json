@@ -1,14 +1,19 @@
 {
   "id": "cardunculus",
   "names": {
-    "primary": "Cardunculus (LINN.)",
-    "latin": "Cardunculus (LINN.)",
+    "primary": "Cardunculus",
+    "latin": "Cardunculus",
     "common": [
       "Artichoke, Cardoon"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Cardunculus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

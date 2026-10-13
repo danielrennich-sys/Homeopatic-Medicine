@@ -1,14 +1,19 @@
 {
   "id": "ribes-nigrum",
   "names": {
-    "primary": "Ribes nigrum (LINN.)",
-    "latin": "Ribes nigrum (LINN.)",
+    "primary": "Ribes Nigrum",
+    "latin": "Ribes Nigrum",
     "common": [
       "Currant, Black"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ribes nigrum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

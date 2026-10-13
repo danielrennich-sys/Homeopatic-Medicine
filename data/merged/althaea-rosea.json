@@ -1,14 +1,19 @@
 {
   "id": "althaea-rosea",
   "names": {
-    "primary": "Althaea Rosea (LINN.)",
-    "latin": "Althaea Rosea (LINN.)",
+    "primary": "Althaea Rosea",
+    "latin": "Althaea Rosea",
     "common": [
       "Hollyhock"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Althaea Rosea (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

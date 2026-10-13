@@ -1,14 +1,20 @@
 {
   "id": "oxalis-acetosella",
   "names": {
-    "primary": "Oxalis acetosella",
-    "latin": "Oxalis acetosella",
+    "primary": "Oxalis Acetosella",
+    "latin": "Oxalis Acetosella",
     "common": [
-      "Sorrel, Wood"
+      "Sorrel, Wood",
+      "Wood-Sorrel"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Oxalis"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -40,13 +46,46 @@
       {
         "text": "It has diuretic, antiscorbutic and refrigerant action, and a decoction made from its pleasant acid leaves is given in high fever, both to quench thirst and to allay the fever. The Russians make a cooling drink from an infusion of the leaves, which may be infused with water or boiled in milk. Though it may be administered freely, not only in fevers and catarrhs, but also in haemorrhages and urinary disorders, excess should be guarded against, as the oxalic salts are not suitable to all constitutions, especially those of a gouty and rheumatic tendency. The old herbalists tell us that Wood Sorrel is more effectual than the true Sorrels as a blood cleanser, and will strengthen a weak stomach, produce an appetite, check vomiting, and remove obstructions of the viscera. The juice of the leaves turns red when clarified and makes a fine, clear syrup, which was considered as effectual as the infusion. The juice used as a gargle is a remedy for ulcers in the mouth, and is good to heal wounds and to stanch bleeding. Sponges and linen cloths saturated with the juice and applied, were held to be effective in the reduction of swellings and inflammation. An excellent conserve, Conserva Ligulae , used to be made by beating the fresh leaves up with three times their weight of sugar and orange peel, and this was the basis of the cooling and acid drink that was long a favourite remedy in malignant fevers and scurvy. In Henry VIII's time this plant was held in great repute as a pot-herb, but after the introduction of French Sorrel, with its large succulent leaves, it gradually lost its position as a salad and pot-herb. [ Top ] Recipes From Le Dictionnaire des Ménages (Paris, 1820): -'Limonade sans Citrous, Limonade Sèche- 'Take three drachms of Salt of Sorrel and one pound of white sugar; reduce them to powder separately, and then mix them. Keep the powder, which is known as dry lemonade, in a well-corked bottle. Substitute tartaric acid for Salt of Sorrel, divide the powder into suitable portions, and you have \"lemonade powders without lemons.\"' From A Plain Plantain : -'A Sirrup for a Feaver- 'Take Sirrup of Violets two ounces; Sirrup of Woodsorrell two ounces; Sirrup of Lemmon two ounces, mixed altogether, and drink it.'",
         "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "The whole herb of Oxalis Acetosella, Linné. Nat. Ord.—Geraniaceae. COMMON NAME: Wood-sorrel.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—Wood-sorrel is a small, perennial, acaulescent herb, with a creeping, scaly-toothed root-stock. The leaves are numerous, radical, palmately 3-foliate, on long, weak, hairy stalks; leaflets broadly obcordate, with rounded lobes entire, pubescent, of a yellowish-green color, but frequently purplish beneath; they close and droop at night-fall. The scape is longer than the petioles, and 1-flowered, with 2 scaly bracts near the middle. The flowers are white, yellowish at the base, delicately veined with purple, and scentless. Stamens 10, monadelphous at the base, alternately shorter; sepals 5, persistent; style as long as the inner stamens. Capsule 5-lobed, 5-celled, and oblong; seeds several, with an elastic testa (G.—W.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History and Chemical Composition.—Wood-sorrel is indigenous to Europe and this country, growing in woody and shady places, and flowering from April to June. It is inodorous and has a pleasantly acid taste, which is somewhat impaired by drying. The acidity is due to the presence of oxalic acid in combination with potassium forming acid potassium oxalate, sometimes called potassium binoxalate (HKC2O4). In some parts of Europe this salt was formerly separated from the plant, and sold under the name of salts of sorrel (sometimes under the name salt of lemons), for the purpose of removing ink spots and iron marks front linen. This salt is poisonous when taken internally. It can now be conveniently prepared from oxalic acid.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—The several varieties of sorrel are cooling and diuretic. Useful in febrile diseases, hemorrhages, gonorrhoea, chronic catarrh, urinary affections, and in scurvy, it may be used in infusion, or it may be infused in milk to form whey, or the herb may be eaten, but in neither case to excess, on account of the potassium binoxalate they contain. Externally, the bruised leaves or inspissated juice have been found useful as an application to scrofulous, malignant, and indolent ulcers. The Rumex Acetosa, or Garden sorrel, R. Acetosella, or Sheep sorrel, and R. vesicarius, possess similar properties (which see). The antidote to poisoning by any of the species of Oxalis, or by oxalic acid or potassium binoxalate, is a mixture of chalk with water.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Species.—There are other species of Oxalis possessing analogous properties, as the Oxalis stricta, Linné, and O. violacea, Linné. They all have ternate leaves with obcordate leaflets, and with the exception of O. violacea, bear yellow flowers.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Oxalis crassicaulis.—Peru. Root edible; the syrup of an astringent, acidulous juice expressed from the leaves, has been employed in catarrhal troubles, gonorrhoea, and hemorrhages.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Oxalis corniculata, Linné.—Europe. This species has properties similar to Oxalis Acetosella.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
       }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "grieve-modern-herbal-1931"
+      "grieve-modern-herbal-1931",
+      "kings-american-1898"
     ]
   }
 }

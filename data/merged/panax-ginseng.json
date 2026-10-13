@@ -1,17 +1,19 @@
 {
   "id": "panax-ginseng",
   "names": {
-    "primary": "Ginseng",
-    "latin": "Ginseng",
-    "common": [
-      "Aralia Quinquefolia-Wild Ginseng-Panax (GINSENG)"
-    ],
+    "primary": "Panax Ginseng",
+    "latin": "Panax Ginseng",
+    "common": [],
     "synonyms": [
-      "GINSENG QUINQUEFOLIUM",
+      "Ginseng",
       "Asian Ginseng"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -27,60 +29,7 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
-    "head": [
-      {
-        "text": "Vertigo, with gray spots before eyes; semi-lateral headache; occipital; difficult opening of eyelids; objects appear double",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Vertigo, cloudiness, confusion, giddiness, and heaviness of the head. Vertigo on going down winding stairs. While standing, the ground seems to waver. Reflection difficult; tendency to forgetfulness. Reeling sensation in occiput. Reeling sensation in occiput, with grey spots before eyes. Head seems at times enlarged and to sway to one side. Pressure in longitudinal sinuses. Drawing in r. side of frontal bone; in muscles of neck and loins. Drawing in occiput; he involuntarily bends head backward. Painful sensitiveness of the head. Semilateral cephalalgia. Lancinations from r. side of the forehead as far as the orbit, with heaviness of the eyelids, irrepressible inclination to sleep, heat of the head, and heaviness in the temples. Sudden shock in occiput, followed by pain, as of a bruise.",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
-    "mouth_throat": [
-      {
-        "text": "Tonsillitis, just like Bellad, but in dark-complexioned people",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Tongue red and smarting with thirst; then white in the middle. Tongue white, completely dry, with large glistening papillæ. Mouth, lips, and teeth very dry; voice rough and scraping; swallowing of saliva very difficult on account of dryness; a swallow of water moistens only for a moment. Dry sensation in palate, with accumulation of much saliva, which is swallowed without difficulty. Green saliva.",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
-    "stomach_abdomen": [
-      {
-        "text": "Tense, painful, rumbling. Pain in right side. Loud gurgling in ileo-cæcal region. Perityphlitis",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Great appetite at a very unusual time; risings, empty, sometimes sour; nausea and inclination to vomit, with eructations which afford relief. Pressure on the stomach, with inflation, dull borborygmi in the abdomen, tension and feeling of inflation, emission of wind, uneasiness and yawning. Oppression, pressure of clothing intolerable. Painful drawings in the stomach, as from hunger, following shiverings, with painful lancinations in the precordial region; violent colicky pains, which pervade the abdomen; swelling and pulsation of the stomach, anguish, inclination to vomit, and pain in l. side at the heart, following shiverings, which extends to the elbow. Contractive pain in the stomach, with anguish, difficulty of respiration, drawing pains in the stomach, and lancinations in r. side, which stop respiration. Pain in r. side of lower region of abdomen, extending to the groins, with painful tingling extending to the foot and great toe, where very painful lancinations are felt. Pains in the lower region of the abdomen, with violent aching in the groins, inflation, tension and pressure towards the lower region; colicky pains in the lower part of the abdomen, from the r. to l., ascending to the precordial region, with inflation of the abdomen, which is relieved by emission of wind. Violent cutting pains from r. coxo-femoral region to abdomen, causing a writhing of the body. Colic, which extends into the stomach, with pressure and pain when pressed externally; painful digging in r. side of abdomen extending to the groins and stomach, with cutting pains throughout the lower part of the abdomen; inclination to vomit, and pain as of excoriation in r. side, below the ribs, by external pressure. Pains in the abdomen, as from a girdle, with digging and starting in r. hip. Pain in r. side of lower abdominal region, from the hip to the ribs, with sharp pains from the precordial region; lancinations in r. side of the upper part of the abdomen, with inability to bear tight clothes, pains in the abdomen, borborygmi, emission of wind and lancinations, like thrusts of a knife in the region of the stomach. Painful inflation of the abdomen, extending on r. side, below the ribs, with pains in the region of the heart, and eructations which give relief; tense painful abdomen; > by emission of flatus downwards; inflated abdomen, painful, with pain, as of a fracture, in the loins; bruise-like pain in the iliac region, by pressure; general uneasiness, and pains which pervade the abdomen and the chest; pressure on the stomach, and constraint from the clothes over the parts.",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
-    "male": [
-      {
-        "text": "Rheumatic pains after frequent emissions. Weakness of genital organs. Voluptuous tickling at end of urethra. Sexual excitement. Pressure in testicles",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Great excitation of the genital organs. Nocturnal erections without pollutions. Painful erections while sitting at engrossing business. Pressure in testicles. Dreams vivid, lascivious, of which the recollection remains, always after taking the medicine.",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
-    "extremities": [
-      {
-        "text": "Hands feel swollen. Skin feels tight. Contraction. Coldness in back and spine. Bruised pain in small of back and thighs; nightly digging in right lower limb to toes. Burning heat in tips of fingers. Eruption on upper inner thighs. Stiff, contracted joints, heaviness of lower limbs. Crackling in joints. Stiffness in back",
-        "source_id": "boericke-1927"
-      }
-    ],
-    "dosing": {
-      "notes": "Tincture, to third potency"
-    },
     "keynotes": [
-      {
-        "text": "color=\"#800000\">GINSENG QUINQUEFOLIUM Aralia Quinquefolia-Wild Ginseng-Panax (GINSENG) Said to be a stimulant to the secretory glands, especially salivary. Acts on the lower part of the spinal cord. Lumbago, sciatica, and rheumatism. Paralytic weakness. Hiccough. Skin symptoms, itching pimples on neck and chest.",
-        "source_id": "boericke-1927"
-      },
       {
         "text": "The symptoms of the Chinese and the American Ginseng are taken together, as the two are probably identical. The name is said to signify \"the resemblance of a man\" or man's thigh. The root is forked like that of the mandrake. Fabulous prices are given for it in Manchuria, as much as £40 per pound being paid for certain qualities of it. The wild Ginseng of Siberia is said to be the best. The natives along the Ussuri river use it boiled for headaches, colds, fevers, stomach pains. In America it is a domestic remedy for the after-pains of labour. The shape of the root might indicate an action on the pelvis and lower limbs, and J. H. Henry (H. R., xi. 493) says it acts on the lower part of the spinal marrow; is indicated by \"bruised pains in small of back and thighs (on rising from bed), and great languor, with paralytic, rheumatic pains in lower limbs, arthritic swelling of the foot, which had been exerted a long time, violent pain in big toe.\" He mentions also \"Nightly digging in right lower limb from hip to big toe, cramp, pains from right hip to toes; lancinating, tearing in right tarsal joint.\" He considers it specific in lumbago, sciatica and chronic rheumatism, with frequent desire to urinate, and sexual excitement. Lembke and others have proved it. It is an aromatic stimulant and removes feelings of fatigue, imparting a joyous sense of vigour and elasticity to the limbs, especially the upper limbs, and clearness of mind. The opposite condition of malaise is also produced. Yawning, and drowsiness. Drowsiness with headache. Feeling of extreme heat and intense coldness, longing to expose the body to cool air. The right side of the body is most affected. There is pain in right side. of hypogastrium, extending into groin. Dry mouth, tongue, and lips. Vertigo. The respiratory organs are affected as with Aralia racem. Mouth and throat are sensitive to the ordinary air of room; are in free open air and from talking, > at dinner. Many symptoms are in open air; at night bending or turning; descending stairs; sitting.",
         "source_id": "clarke-dictionary-1900"
@@ -97,6 +46,12 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "head": [
+      {
+        "text": "Vertigo, cloudiness, confusion, giddiness, and heaviness of the head. Vertigo on going down winding stairs. While standing, the ground seems to waver. Reflection difficult; tendency to forgetfulness. Reeling sensation in occiput. Reeling sensation in occiput, with grey spots before eyes. Head seems at times enlarged and to sway to one side. Pressure in longitudinal sinuses. Drawing in r. side of frontal bone; in muscles of neck and loins. Drawing in occiput; he involuntarily bends head backward. Painful sensitiveness of the head. Semilateral cephalalgia. Lancinations from r. side of the forehead as far as the orbit, with heaviness of the eyelids, irrepressible inclination to sleep, heat of the head, and heaviness in the temples. Sudden shock in occiput, followed by pain, as of a bruise.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
     "eyes": [
       {
         "text": "Pressure on the eyes, which seems to force them inwards; the upper eyelids fall (esp. r.). Great difficulty in opening the eyelids, which are heavy and painful; itching of the eyelids. Biting and itching in margins of lids. Unpleasant sensation of coldness on surface of eyeball. Pupils alternately large and small. Vision indistinct. Sensation of fatigue when exposed to the light; objects appear double when looked at fixedly; in reading, the characters become confused.",
@@ -109,6 +64,18 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "mouth_throat": [
+      {
+        "text": "Tongue red and smarting with thirst; then white in the middle. Tongue white, completely dry, with large glistening papillæ. Mouth, lips, and teeth very dry; voice rough and scraping; swallowing of saliva very difficult on account of dryness; a swallow of water moistens only for a moment. Dry sensation in palate, with accumulation of much saliva, which is swallowed without difficulty. Green saliva.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Great appetite at a very unusual time; risings, empty, sometimes sour; nausea and inclination to vomit, with eructations which afford relief. Pressure on the stomach, with inflation, dull borborygmi in the abdomen, tension and feeling of inflation, emission of wind, uneasiness and yawning. Oppression, pressure of clothing intolerable. Painful drawings in the stomach, as from hunger, following shiverings, with painful lancinations in the precordial region; violent colicky pains, which pervade the abdomen; swelling and pulsation of the stomach, anguish, inclination to vomit, and pain in l. side at the heart, following shiverings, which extends to the elbow. Contractive pain in the stomach, with anguish, difficulty of respiration, drawing pains in the stomach, and lancinations in r. side, which stop respiration. Pain in r. side of lower region of abdomen, extending to the groins, with painful tingling extending to the foot and great toe, where very painful lancinations are felt. Pains in the lower region of the abdomen, with violent aching in the groins, inflation, tension and pressure towards the lower region; colicky pains in the lower part of the abdomen, from the r. to l., ascending to the precordial region, with inflation of the abdomen, which is relieved by emission of wind. Violent cutting pains from r. coxo-femoral region to abdomen, causing a writhing of the body. Colic, which extends into the stomach, with pressure and pain when pressed externally; painful digging in r. side of abdomen extending to the groins and stomach, with cutting pains throughout the lower part of the abdomen; inclination to vomit, and pain as of excoriation in r. side, below the ribs, by external pressure. Pains in the abdomen, as from a girdle, with digging and starting in r. hip. Pain in r. side of lower abdominal region, from the hip to the ribs, with sharp pains from the precordial region; lancinations in r. side of the upper part of the abdomen, with inability to bear tight clothes, pains in the abdomen, borborygmi, emission of wind and lancinations, like thrusts of a knife in the region of the stomach. Painful inflation of the abdomen, extending on r. side, below the ribs, with pains in the region of the heart, and eructations which give relief; tense painful abdomen; > by emission of flatus downwards; inflated abdomen, painful, with pain, as of a fracture, in the loins; bruise-like pain in the iliac region, by pressure; general uneasiness, and pains which pervade the abdomen and the chest; pressure on the stomach, and constraint from the clothes over the parts.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
     "stool_rectum": [
       {
         "text": "Evacuation difficult, without, however, being hard. Hard stool, which is not emitted without efforts, which are followed by burning at the anus. Slight sticking in rectum. Tenesmus and lancinations in the rectum. Four thin stools preceded by short violent pain, extending from within the pelvis to the thighs, as though one must sink to the ground. Liquid stools in the evening, preceded by colic.",
@@ -118,6 +85,12 @@
     "urinary": [
       {
         "text": "Sticking and voluptuous twitching in navicular fossa. Pruritus and burning in urethra, with frequent urging to urinate. Yellowish lemon-coloured urine, depositing a red sediment.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Great excitation of the genital organs. Nocturnal erections without pollutions. Painful erections while sitting at engrossing business. Pressure in testicles. Dreams vivid, lascivious, of which the recollection remains, always after taking the medicine.",
         "source_id": "clarke-dictionary-1900"
       }
     ],
@@ -153,33 +126,11 @@
     ]
   },
   "evidence": {
-    "summary": "",
     "lactation_safety": [
       {
         "section": "Drug Levels and Effects",
         "text": "Summary of Use during Lactation The roots of American ginseng ( Panax quinquefolius ), Asian ginseng ( Panax ginseng ), and several other species contain steroidal saponins called ginsenosides that are purported to be adaptogens (i.e., to increase endurance and improve memory). Ginseng has no specific uses during breastfeeding. Ginseng is generally well tolerated in adults and is \"generally recognized as safe\" (GRAS) by the U.S. Food and Drug Administration. The most common side effects include headache, hypertension, diarrhea, sleeplessness, skin rash, and vaginal bleeding. Ginseng decreases the blood levels of some drugs, such as warfarin, and enhances the effect of sedating drugs. With long-term use, nervousness, diarrhea, confusion, depression or depersonalization may occur. Gynecomastia and breast pain have been reported.[ 1 , 2 ] No data exist on the safety and efficacy of ginseng in nursing mothers or infants. Because of its possible estrogenic activity and lack of information during breastfeeding, many sources recommend that ginseng not be used during lactation. Dietary supplements do not require extensive pre-marketing approval from the U.S. Food and Drug Administration. Manufacturers are responsible to ensure the safety, but do not need to prove the safety and effectiveness of dietary supplements before they are marketed. Dietary supplements may contain multiple ingredients, and differences are often found between labeled and actual ingredients or their amounts. A manufacturer may contract with an independent organization to verify the quality of a product or its ingredients, but that does not certify the safety or effectiveness of a product. Because of the above issues, clinical testing results on one product may not be applicable to other products. More detailed information about dietary supplements is available elsewhere on the LactMed Web site. Drug Levels Maternal Levels. Relevant published information was not found as of the revision date. Infant Levels. Relevant published information was not found as of the revision date. Effects in Breastfed Infants Relevant published information was not found as of the revision date. Effects on Lactation and Breastmilk Relevant published information was not found as of the revision date. References 1. Coon JT, Ernst E. Panax ginseng: A systematic review of adverse effects and drug interactions. Drug Saf. 2002; 25 :323–44. [ PubMed : 12020172 ] 2. Seely D, Dugoua JJ, Perri D, et al. Safety and efficacy of Panax ginseng during pregnancy and lactation. Can J Clin Pharmacol. 2008; 15 :e87–94. [ PubMed : 18204104 ]",
         "source": "LactMed-NIH"
-      }
-    ],
-    "documented_adverse_effects": [
-      {
-        "section": "PRODUCT INFORMATION",
-        "text": "REPRESENTATIVE TRADE NAMES Ginseng – Generic DRUG CLASS Herbal and Dietary Supplements SUMMARY INFORMATION (Ginseng, American) Fact Sheet at MedlinePlus, NLM (Ginseng, Siberian) Fact Sheet at MedlinePlus, NLM (Ginseng, Asian or N. American) Fact Sheet at National Center for Complementary and Integrative Health, NIH",
-        "source": "LiverTox-NIH"
-      },
-      {
-        "section": "CHEMICAL FORMULA AND STRUCTURE",
-        "text": "View in own window DRUG CAS REGISTRY NUMBER MOLECULAR FORMULA STRUCTURE Ginseng 50647-08-0 Herbal mixture Not applicable",
-        "source": "LiverTox-NIH"
-      },
-      {
-        "section": "ANNOTATED BIBLIOGRAPHY",
-        "text": "References updated: 14 March 2018 Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4. (Expert review of hepatotoxicity published in 1999; ginseng is not discussed). Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 631-58. (Review of hepatotoxicity of herbal and dietary supplements [HDS]; ginseng is not discussed). Ginseng. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 384-92. (Compilation of short monographs on herbal medications and dietary supplements). Cui J, Garle M, Eneroth P, Bjorkhem I. What do commercial ginseng preparations contain? Lancet. 1994; 344 :134. [ PubMed : 7912373 ] (Analysis of 50 commercial ginseng products sold in 11 countries found concentration of ginsenosides varied from 1.9-9%, and 6 [12%] had none and were likely not made from ginseng). Janetzky K, Morreale AP. Probable interaction between warfarin and ginseng. Am J Health Syst Pharm. 1997; 54 :692–3. [ PubMed : 9075501 ] (47 year old man on anticoagulation for a mechanical heart valve with INR maintained between 3.0 and 4.0 started ginseng capsules three times daily and, two weeks later, INR was 1.5, returning to previous level upon stopping ginseng). Vogler BK, Pittler MH, Ernst E. The efficacy of ginseng. A systematic review of randomised clinical trials. Eur J Clin Pharmacol. 1999; 55 :567–75. [ PubMed : 10541774 ] (Systematic review of the literature found 16 trials of ginseng root extract, but found that evidence for benefit was not compelling for any indication: physical and psychomotor performance, cognitive function, diabetes and herpes simplex). Kitts D, Hu C. Efficacy and safety of ginseng. Public Health Nutr. 2000; 3 :473–85. [ PubMed : 11276295 ] (Review of the history, composition, purported effects, clinical efficacy and safety of ginseng). Stedman C. Herbal hepatotoxicity. Semin Liver Dis. 2002; 22 :195–206. [ PubMed : 12016550 ] (Review and description of patterns of liver injury, including discussion of potential risk factors, and herb-drug interactions; ginseng may interact with warfarin causing a decrease in anticoagulation). De Smet PAGM. Herbal remedies. N Engl J Med. 2002; 347 :2046–56. [ PubMed : 12490687 ] (Review of status and difficulties of herbal medications including lack of standardization, federal regulation, contamination, safety, hepatotoxicity and drug-herb interactions; specific discussion of 4 herbs with therapeutic promise: ginkgo, hawthorn, saw palmetto and St. John’s wort). Schiano TD. Hepatotoxicity and complementary and alternative medicines. Clin Liver Dis. 2003; 7 :453–73. [ PubMed : 12879994 ] (Comprehensive review of herbal associated hepatotoxicity; ginseng is not listed as causing hepatotoxicity). Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl. 2004; 10 :1018–23. [ PubMed : 15390328 ] (Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, including 7 [5%] for herbal medications, none attributed to ginseng use). García-Cortés M, Borraz Y, Lucena MI, Peláez G, Salmerón J, Diago M, Martínez-Sierra MC, et al. Rev Esp Enferm Dig. 2008; 100 :688–95. [Liver injury induced by “natural remedies”: an analysis of cases submitted to the Spanish Liver Toxicity Registry] Spanish. [ PubMed : 19159172 ] (Among 521 cases of drug induced liver injury submitted to a Spanish registry, 13 [2%] were due to herbals, but none were attributed to ginseng). Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J., Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology. 2008; 135 :1924–34. [ PMC free article : PMC3654244 ] [ PubMed : 18955056 ] (Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 9% of cases were attributed to herbal medications, but none were linked to ginseng use). Saxena A, Tripathi KP, Roy S, Khan F, Sharma A. Pharmacovigilance: effects of herbal components on human drugs interactions involving cytochrome P450. Bioinformation. 2008; 3 :198–204. [ PMC free article : PMC2646189 ] [ PubMed : 19255634 ] (Review of effects of St. John's wort, piperine, ginsenosides and ginkgolic acid on cytochrome P450 activity; in vitro ginsenosides have inhibitory activity against CYP 2E1 and CYP 3A4). Hao M, Zhao Y, Chen P, Huang H, Liu H, Jiang H, Zhang R, Wang H. Structure-activity relationship and substrate-dependent phenomena in effects of ginsenosides on activities of drug-metabolizing P450 enzymes. PLoS One. 2008; 3 :e2697. [ PMC free article : PMC2442655 ] [ PubMed : 18628990 ] (Ginsenosides with different structures have different effects on cytochrome P450 activity). Navarro VJ. Herbal and dietary supplement hepatotoxicity. Semin Liver Dis. 2009; 29 :373–82. [ PubMed : 19826971 ] (Overview of the regulatory environment, clinical patterns, and future directions in research with HDS; ginseng is not listed as a potentially hepatotoxic botanical). Jacobsson I, Jönsson AK, Gerdén B, Hägg S. Spontaneously reported adverse reactions in association with complementary and alternative medicine substances in Sweden. Pharmacoepidemiol Drug Saf. 2009; 18 :1039–47. [ PubMed : 19650152 ] (Review of 778 spontaneous reports of adverse reactions to herbals to Swedish Registry found 14 [2%] attributed to ginseng, including 2 with a \"mixed liver reaction\" and 2 with enzyme elevations, but no details given). Bilgi N, Bell K, Ananthakrishnan AN, Atallah E. Imatinib a",
-        "source": "LiverTox-NIH"
-      },
-      {
-        "text": "Short-term oral use (by mouth, up to 6 months) of Asian ginseng in recommended amounts appears to be safe for most people. However, questions have been raised about its long-term safety, and some experts recommend against its use for infants, children, and women who are pregnant or breastfeeding. There isn't enough reliable information to know if Asian ginseng used topically on the skin is safe. It might cause side effects such as irritation and burning. Insomnia (trouble sleeping) is the herb’s most common side effect. Uncommon side effects that have been reported include severe rash, liver damage, and severe allergic reactions. Asian ginseng may worsen autoimmune disorders and interfere with blood clotting. Some evidence suggests that Asian ginseng might lower blood sugar levels. If you have diabetes, consult your health care provider before using Asian ginseng. Asian ginseng might interact with certain medications. If you take any type of medicine, talk with your health care provider before using Asian ginseng or other herbal products; some herbs and medicines interact in harmful ways. Some studies of Asian ginseng suggest it may be unsafe when taken orally during pregnancy. One of the chemicals in it has been found to cause birth defects in animals. If you’re considering using Asian ginseng while pregnant, consult your health care provider. Little is known about whether it’s safe to use Asian ginseng while breastfeeding.",
-        "source": "NCCIH"
       }
     ],
     "regulatory": [
@@ -209,6 +160,28 @@
         "source": "NCCIH"
       }
     ],
+    "summary": "Introduction Ginseng is a popular herbal medication and extract derived from the roots of a perennial plant (Panax ginseng) found mostly in China, Korea and Siberia. Ginseng is used is to promote health and improve wellness, as well as to treat stress and as a mild stimulant. Ginseng has not been implicated in causing liver injury although it may have the potential of causing significant herb-drug interactions that can lead to liver injury. Background Ginseng (jin' seng) is a widely used herbal derived from the roots of eleven distinct species of plants belonging to the genus Panax and family Araliaceae. Ginseng grows in the Northern Hemisphere in eastern Asia, mostly China, Korea and Siberia. The form of ginseng most commonly used is Asian (or Chinese) ginseng made from the dried roots of Panax ginseng. American ginseng (Panax quinquefolius) has similar properties. The word ginseng derives from the Chinese character “rénshen” meaning “man root”, which refers to the ginseng root’s characteristic forked shape. The botanical name Panax is derived from the Greek word meaning “all-heal” as in the term panacea. Ginseng is taken promote health and healing, as an adaptogen (to treat stress and enhance recovery from illness), aphrodisiac (to aid in sexual desire and performance) and a stimulant (wakefulness and mental acuity). Ginseng is also claimed to lower blood glucose levels and to be beneficial in diabetes. Ginseng is found in energy drinks as well as in many cosmetic preparations. The scientific bases for the purported effects of ginseng are not well established. Ginseng contains 30 different triterpene saponins, referred to as ginsenosides and panaxosides, which are considered the active compounds and which have antioxidant and stimulatory activities. Commercial preparations of ginseng vary widely in ginsenoside content (some have none at all), which may cause variation in their biologic effects. The recommended daily dose varies widely (100 to >1,000 mg daily), depending on the preparation used (capsules, tablets, liquid, root extract, tea) and indications. Side effects of ginseng are uncommon and mild, and include inability to sleep, nausea, morning diarrhea, headaches and nose bleeds. Hepatotoxicity Despite wide spread use, ginseng by itself has not been linked to liver injury, either in the form of transient serum enzyme elevations or clinically apparent acute liver injury. Indeed, ginseng is sometimes used to treat acute or chronic liver injury, although its efficacy and safety in this situation have not been proven. Nevertheless, ginseng has been reported to affect cytochrome P450 activity and cause significant herb-drug interactions that can lead to adverse events including liver injury. In vitro studies have found that different gensinosides have different effects on cytochrome P450 activity, and some may inhibit CYP 3A4 sufficiently to affect the metabolism of other drugs, increasing or decreasing their activity. Thus, different ginseng preparations may exhibit varying degrees of herb-drug interaction. Liver injury has been reported to develop 1 to 3 months after starting ginseng in patients who previously tolerated the potentially toxic agent (imatinib, raltegravir) without liver injury and who later tolerated restarting the medication without concurrent ginseng use. Likelihood score : E (by itself, unlikely cause of clinically apparent liver injury). Drug Class: Herbal and Dietary Supplements\n\nAsian ginseng is native to the Far East, including Korea, northeastern China, and far-eastern Siberia. It has been used as a calming agent in traditional Chinese medicine and as an adaptogen. (Adaptogenic herbs are thought to help the body resist physiological and psychological stress.) Asian ginseng is one of several types of ginseng. The terms “red ginseng” and “white ginseng” refer to Asian ginseng that is prepared in two different ways. The part of the plant most frequently used for health purposes is the root. Asian ginseng has been promoted for stress, cognitive function, flu, fatigue, athletic performance, diabetes, aging, asthma, anxiety, and other conditions. Asian ginseng contains many substances; those thought to be most important are called ginsenosides (or panaxosides).",
+    "documented_adverse_effects": [
+      {
+        "section": "PRODUCT INFORMATION",
+        "text": "REPRESENTATIVE TRADE NAMES Ginseng – Generic DRUG CLASS Herbal and Dietary Supplements SUMMARY INFORMATION (Ginseng, American) Fact Sheet at MedlinePlus, NLM (Ginseng, Siberian) Fact Sheet at MedlinePlus, NLM (Ginseng, Asian or N. American) Fact Sheet at National Center for Complementary and Integrative Health, NIH",
+        "source": "LiverTox-NIH"
+      },
+      {
+        "section": "CHEMICAL FORMULA AND STRUCTURE",
+        "text": "View in own window DRUG CAS REGISTRY NUMBER MOLECULAR FORMULA STRUCTURE Ginseng 50647-08-0 Herbal mixture Not applicable",
+        "source": "LiverTox-NIH"
+      },
+      {
+        "section": "ANNOTATED BIBLIOGRAPHY",
+        "text": "References updated: 14 March 2018 Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4. (Expert review of hepatotoxicity published in 1999; ginseng is not discussed). Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 631-58. (Review of hepatotoxicity of herbal and dietary supplements [HDS]; ginseng is not discussed). Ginseng. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 384-92. (Compilation of short monographs on herbal medications and dietary supplements). Cui J, Garle M, Eneroth P, Bjorkhem I. What do commercial ginseng preparations contain? Lancet. 1994; 344 :134. [ PubMed : 7912373 ] (Analysis of 50 commercial ginseng products sold in 11 countries found concentration of ginsenosides varied from 1.9-9%, and 6 [12%] had none and were likely not made from ginseng). Janetzky K, Morreale AP. Probable interaction between warfarin and ginseng. Am J Health Syst Pharm. 1997; 54 :692–3. [ PubMed : 9075501 ] (47 year old man on anticoagulation for a mechanical heart valve with INR maintained between 3.0 and 4.0 started ginseng capsules three times daily and, two weeks later, INR was 1.5, returning to previous level upon stopping ginseng). Vogler BK, Pittler MH, Ernst E. The efficacy of ginseng. A systematic review of randomised clinical trials. Eur J Clin Pharmacol. 1999; 55 :567–75. [ PubMed : 10541774 ] (Systematic review of the literature found 16 trials of ginseng root extract, but found that evidence for benefit was not compelling for any indication: physical and psychomotor performance, cognitive function, diabetes and herpes simplex). Kitts D, Hu C. Efficacy and safety of ginseng. Public Health Nutr. 2000; 3 :473–85. [ PubMed : 11276295 ] (Review of the history, composition, purported effects, clinical efficacy and safety of ginseng). Stedman C. Herbal hepatotoxicity. Semin Liver Dis. 2002; 22 :195–206. [ PubMed : 12016550 ] (Review and description of patterns of liver injury, including discussion of potential risk factors, and herb-drug interactions; ginseng may interact with warfarin causing a decrease in anticoagulation). De Smet PAGM. Herbal remedies. N Engl J Med. 2002; 347 :2046–56. [ PubMed : 12490687 ] (Review of status and difficulties of herbal medications including lack of standardization, federal regulation, contamination, safety, hepatotoxicity and drug-herb interactions; specific discussion of 4 herbs with therapeutic promise: ginkgo, hawthorn, saw palmetto and St. John’s wort). Schiano TD. Hepatotoxicity and complementary and alternative medicines. Clin Liver Dis. 2003; 7 :453–73. [ PubMed : 12879994 ] (Comprehensive review of herbal associated hepatotoxicity; ginseng is not listed as causing hepatotoxicity). Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl. 2004; 10 :1018–23. [ PubMed : 15390328 ] (Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, including 7 [5%] for herbal medications, none attributed to ginseng use). García-Cortés M, Borraz Y, Lucena MI, Peláez G, Salmerón J, Diago M, Martínez-Sierra MC, et al. Rev Esp Enferm Dig. 2008; 100 :688–95. [Liver injury induced by “natural remedies”: an analysis of cases submitted to the Spanish Liver Toxicity Registry] Spanish. [ PubMed : 19159172 ] (Among 521 cases of drug induced liver injury submitted to a Spanish registry, 13 [2%] were due to herbals, but none were attributed to ginseng). Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J., Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology. 2008; 135 :1924–34. [ PMC free article : PMC3654244 ] [ PubMed : 18955056 ] (Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 9% of cases were attributed to herbal medications, but none were linked to ginseng use). Saxena A, Tripathi KP, Roy S, Khan F, Sharma A. Pharmacovigilance: effects of herbal components on human drugs interactions involving cytochrome P450. Bioinformation. 2008; 3 :198–204. [ PMC free article : PMC2646189 ] [ PubMed : 19255634 ] (Review of effects of St. John's wort, piperine, ginsenosides and ginkgolic acid on cytochrome P450 activity; in vitro ginsenosides have inhibitory activity against CYP 2E1 and CYP 3A4). Hao M, Zhao Y, Chen P, Huang H, Liu H, Jiang H, Zhang R, Wang H. Structure-activity relationship and substrate-dependent phenomena in effects of ginsenosides on activities of drug-metabolizing P450 enzymes. PLoS One. 2008; 3 :e2697. [ PMC free article : PMC2442655 ] [ PubMed : 18628990 ] (Ginsenosides with different structures have different effects on cytochrome P450 activity). Navarro VJ. Herbal and dietary supplement hepatotoxicity. Semin Liver Dis. 2009; 29 :373–82. [ PubMed : 19826971 ] (Overview of the regulatory environment, clinical patterns, and future directions in research with HDS; ginseng is not listed as a potentially hepatotoxic botanical). Jacobsson I, Jönsson AK, Gerdén B, Hägg S. Spontaneously reported adverse reactions in association with complementary and alternative medicine substances in Sweden. Pharmacoepidemiol Drug Saf. 2009; 18 :1039–47. [ PubMed : 19650152 ] (Review of 778 spontaneous reports of adverse reactions to herbals to Swedish Registry found 14 [2%] attributed to ginseng, including 2 with a \"mixed liver reaction\" and 2 with enzyme elevations, but no details given). Bilgi N, Bell K, Ananthakrishnan AN, Atallah E. Imatinib a",
+        "source": "LiverTox-NIH"
+      },
+      {
+        "text": "Short-term oral use (by mouth, up to 6 months) of Asian ginseng in recommended amounts appears to be safe for most people. However, questions have been raised about its long-term safety, and some experts recommend against its use for infants, children, and women who are pregnant or breastfeeding. There isn't enough reliable information to know if Asian ginseng used topically on the skin is safe. It might cause side effects such as irritation and burning. Insomnia (trouble sleeping) is the herb’s most common side effect. Uncommon side effects that have been reported include severe rash, liver damage, and severe allergic reactions. Asian ginseng may worsen autoimmune disorders and interfere with blood clotting. Some evidence suggests that Asian ginseng might lower blood sugar levels. If you have diabetes, consult your health care provider before using Asian ginseng. Asian ginseng might interact with certain medications. If you take any type of medicine, talk with your health care provider before using Asian ginseng or other herbal products; some herbs and medicines interact in harmful ways. Some studies of Asian ginseng suggest it may be unsafe when taken orally during pregnancy. One of the chemicals in it has been found to cause birth defects in animals. If you’re considering using Asian ginseng while pregnant, consult your health care provider. Little is known about whether it’s safe to use Asian ginseng while breastfeeding.",
+        "source": "NCCIH"
+      }
+    ],
     "hepatotoxicity": [
       {
         "section": "LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet].",
@@ -221,7 +194,6 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
-      "boericke-1927",
       "clarke-dictionary-1900",
       "lactmed-nih",
       "livertox-nih",

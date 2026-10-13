@@ -1,14 +1,19 @@
 {
   "id": "guaiaci-lignum",
   "names": {
-    "primary": "Guaiaci Lignum (U. S. P.)",
-    "latin": "Guaiaci Lignum (U. S. P.)",
+    "primary": "Guaiaci Lignum",
+    "latin": "Guaiaci Lignum",
     "common": [
       "Guaiacum Wood"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Guaiaci Lignum (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "peucedanum-palustre",
   "names": {
-    "primary": "Peucedanum palustre (LINN.), Peucedanum officinale (LINN.)",
-    "latin": "Peucedanum palustre (LINN.), Peucedanum officinale (LINN.)",
+    "primary": "Peucedanum Palustre",
+    "latin": "Peucedanum Palustre",
     "common": [
       "Fennel, Hog's"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Peucedanum palustre (LINN.), Peucedanum officinale (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

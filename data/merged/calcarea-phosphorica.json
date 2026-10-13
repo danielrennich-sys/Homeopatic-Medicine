@@ -1,7 +1,7 @@
 {
   "id": "calcarea-phosphorica",
   "names": {
-    "primary": "Cell Salt #2 - Calcarea Phosphorica",
+    "primary": "Calcarea Phosphorica",
     "latin": "Calcarea Phosphorica",
     "common": [
       "Phosphate of Lime",
@@ -10,15 +10,17 @@
     ],
     "synonyms": [
       "Calcarea Phosphorica. Phosphate of Lime (Calcium Phosphate)",
-      "CALCAREA PHOSPHORICA",
       "Calcarea  Phosphorica  And  Hepar",
       "Cell Salt #2",
       "Schuessler Salt #2",
       "Tissue Salt #2",
-      "Calcarea Phosphorica"
+      "Cell Salt #2 - Calcarea Phosphorica"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -536,6 +538,12 @@
         {
           "text": "exposure to damp, cold weather, melting snow",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Calc. p.]. Rest : nausea > ; pressure in stomach >. Lying : on back, restless ; > on side ; > headache, pain in stomach, belly and breathing. Sitting : stagger on getting up ; feels beating of pulse in nape of neck and left chest. Stooping : vertigo ; rush of blood to head ; dull pain in head. On motion : vertigo ; aching in back and lower limbs >. Moving : < nausea. Quick motion : throbbing headache. Painful symptoms brought on by moderate motions of single limbs, > after lying down. Exertion : < headache. Pains after great exertion ; < when lying down. Walking : vertigo ; running coryza ; cramp in calves ; sharp pains in tendons on inside of thighs ; pain in knees, first left then right. Going up-stairs : weariness. Rising : vertigo. Night : headache < ; faceache < ; hawking of phlegm ; boring in knee. Midnight : before, sleep disturbed. Morning : headache < ; eyelids falling or closed ; bitter taste ; tongue white furred on root ; hawking of phlegm ; copious soft stool ; sore feeling in anus ; aching in uterus ; catamenia > ; hoarse, sore throat and hacking cough. yellow expectoration ; drawing in back and limbs ; stiff in bed ; cannot awake early ; complaints, head, heart, back ; chill after dressing ; copious night sweats, towards morning. Forenoon : coryza ; drawing aching in region of navel ; gaping, irresistible drowsiness. Day and evening : drowsy. From 6 A. M. to 6 P. M. : dryness and thirst during difficult dentition. At 3 P. M. : severe pain in region of transverse colon. At 4 P. M. : unusual hunger. Afternoon : nose bleeding ; cream-like whites pass unconsciously. Evening : heat in face ; sore throat, with tickling ; hawking of phlegm ; colic ; < drawing in back and limbs ; dry heat. Wane of day : worse ; much thirst, dry mouth and tongue. Warm room : burning itching ; fluent coryza ; warm things < toothache. Open air : walking in, headache, vertigo, fluent coryza ; hoarseness ; cough ; on watery days nose stopped ; carious teeth < ; chill. A slight draught is followed by rheumatic pain in neck, stiffness and dulness in head. Cold room : fluent coryza. Cold liquids : toothache. Every cold causes pains in joints and sutures. From cold washing : headache >. After a cold foot bath gets red, with pricking like nettles. Change of weather : headache ; tearing in forehead to nose and temples, from occiput to vertex, with earache ; dull pains in arms, from clavicles down to wrist. Worse in changeable weather, particularly when snow melts and in East winds. Windy weather : vertigo <. Day after a snowstorm, buttocks as if beaten, with lameness. In damp, rainy, cold weather dull pain in lower limbs.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

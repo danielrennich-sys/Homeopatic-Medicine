@@ -8,12 +8,14 @@
       "Lily, Tiger"
     ],
     "synonyms": [
-      "Lilium Tigrinum. Tiger Lily. (Liliaceae.)",
-      "LILIUM TIGRINUM",
-      "Lilium tigrinum"
+      "Lilium Tigrinum. Tiger Lily. (Liliaceae.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -469,6 +471,12 @@
           "text": "consolation, warm room",
           "source_id": "boericke-1927"
         }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Lil. t.]. Desire to lie down. Can lie best on left side. Lying on either side : palpitation <. Cannot lie down : pain at heart. Sitting still : faint feeling about apex. On sitting up : great pelvic distress. Is compelled to cross her legs : for fear everything would be pressed out. Standing : faint ; as if hard body was pressing backwards and downwards ; bearing down in ovaries ; must support abdomen. Supporting head with hands : pain >. Supporting abdomen with hands : pain >. Unable to move : fearing her womb would drop from her. Morning : menses only flow ; < feeling as if everything would escape through vulva. Changing position : pains in shoulder >. Inability : to walk, straight from pain at heart. Walking : vertigo ; bearing down in uterine region < ; flow ceased when she ceased walking. When stepping : soles sore <. Morning : diarrhœa ; heavy feeling in head ; urging to urinate. At 3 A. M. : awakes. At 4 A. M. : breathing oppressed. After 8 A. M. : right hand and arm >. Forenoon : chilly feeling in face. Through day : frequent urination. Afternoon : fever, congestion to chest, till 12 P. M. ; labor-like pains in back < ; leucorrhœa < ; great heat and lassitude. At sunset : headache >. Evening : blinding pain in forehead ; leucorrhœa <. Night : awakes, scratching spots on labia ; arm and hand painful. Before midnight : inability to sleep. Open air : eyes always > ; oppressed breathing >. In fresh air : chilly, but vertigo > ; when walking headache >. In cool, open air : chilly, but >. Constant desire to find a cool place. In close room : vertigo < ; oppressed breathing <. In warm room : faint.",
+          "source_id": "hering-guiding-1879"
+        }
       ]
     },
     "relationships": {
@@ -484,7 +492,13 @@
       ]
     },
     "dosing": {
-      "notes": "The middle and higher potencies seem to have done best. Its curative action sometimes is slow in developing itself"
+      "notes": "The middle and higher potencies seem to have done best. Its curative action sometimes is slow in developing itself",
+      "entries": [
+        {
+          "text": "1/8 to 5 drops of the tincture. [ Top ]",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "ears": [
       {

@@ -1,12 +1,17 @@
 {
   "id": "sketch-life",
   "names": {
-    "primary": "Sketch of the Life of von Lippe",
-    "latin": "Sketch of the Life of von Lippe",
+    "primary": "Sketch Life",
+    "latin": "Sketch Life",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Sketch of the Life of von Lippe"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

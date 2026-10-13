@@ -39,8 +39,7 @@ AUTO_STOP_FRACTION = 0.45      # stems in more than this fraction of passages ar
 
 # Sections that describe the substance rather than symptoms. They are indexed
 # (so the detail view can quote them) but flagged so the symptom search skips them.
-NON_SYMPTOM_SECTIONS = {"habitat", "constituents", "preparation", "dosing", "dosing.notes",
-                        "relationships", "relationships._raw"}
+NON_SYMPTOM_BASES = {"habitat", "constituents", "preparation", "dosing", "relationships"}
 
 STOP_WORDS = set("""
 the and for with from that this are not but was has had have been were also more
@@ -243,6 +242,7 @@ def main() -> None:
             "common": names.get("common", []),
             "synonyms": names.get("synonyms", []),
             "category": d.get("category", ""),
+            "cell_salt_number": d.get("cell_salt_number"),
             "n_sources": len((d.get("provenance") or {}).get("sources", [])),
             "has_traditional": bool(trad),
             "has_evidence": bool(d.get("evidence")),
@@ -301,7 +301,7 @@ def main() -> None:
         "avg_chars": total_chars / max(n, 1),
         "remedies": remedies,
         "sections": sec_list,
-        "non_symptom_sections": sorted(NON_SYMPTOM_SECTIONS),
+        "non_symptom_sections": sorted(s for s in sec_list if s.split(".")[0] in NON_SYMPTOM_BASES),
         "items": items,
         "auto_stop": auto_stop,
         "shards3": sorted(shards3),

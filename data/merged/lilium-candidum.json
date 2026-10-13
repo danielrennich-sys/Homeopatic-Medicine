@@ -1,17 +1,20 @@
 {
   "id": "lilium-candidum",
   "names": {
-    "primary": "Lilium candidum (LINN.)",
-    "latin": "Lilium candidum (LINN.)",
+    "primary": "Lilium Candidum",
+    "latin": "Lilium Candidum",
     "common": [
       "Lily, Madonna",
       "Meadow Lily"
     ],
     "synonyms": [
-      "Lilium Candidum"
+      "Lilium candidum (LINN.)"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

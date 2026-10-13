@@ -1,12 +1,15 @@
 {
   "id": "magnes",
   "names": {
-    "primary": "MAGNES",
-    "latin": "MAGNES",
+    "primary": "Magnes",
+    "latin": "Magnes",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {

@@ -1,14 +1,17 @@
 {
   "id": "kobaltum",
   "names": {
-    "primary": "Kobaltum. (Cobaltum Metallicum.)",
-    "latin": "Kobaltum. (Cobaltum Metallicum.)",
+    "primary": "Kobaltum",
+    "latin": "Kobaltum",
     "common": [],
     "synonyms": [
-      "Kobaltum"
+      "Kobaltum. (Cobaltum Metallicum.)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

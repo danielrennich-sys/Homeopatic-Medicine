@@ -1,16 +1,19 @@
 {
   "id": "dracontium",
   "names": {
-    "primary": "Dracontium (Symplocarpus)",
-    "latin": "Dracontium (Symplocarpus)",
+    "primary": "Dracontium",
+    "latin": "Dracontium",
     "common": [
       "Skunk-Cabbage"
     ],
     "synonyms": [
-      "Dracontium"
+      "Dracontium (Symplocarpus)"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

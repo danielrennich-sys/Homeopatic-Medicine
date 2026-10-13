@@ -7,11 +7,13 @@
       "Gummi Gutti (GAMBOGIA - GARCINIA MORELLA)"
     ],
     "synonyms": [
-      "GAMBOGIA",
       "Gambogia. (Gummi Gutti)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -55,6 +57,12 @@
         {
           "text": "towards evening and at night",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Gamb.]. Many symptoms come on while sitting, and pass off during motion in open air. Rest : vertigo. Cough compels him to sit up. Pain causes him to draw up limbs. Motion : vertigo. The conditions are especially apt to occur toward evening or at night. Day : photophobia ; chronic sneezing ; diarrhœa <. Morning : vertigo when rising ; burning of eyes ; sharp cutting in hypochondrium : thin, watery stools <. Forenoon : diarrhœa < ; thin, watery stools <. Afternoon : burning of eyes. From 6 to 8 P. M. : internal and external coldness lasting from a quarter to two hours. At 7 P. M. : paroxysm of intermittent fever. From 7 P. M. till 4 A. M. : violent shaking. Evening : burning of eyes ; itching of eyes ; thirst ; profuse discharge of flatus towards evening ; fever ; stitching in limbs < ; violent itching. Night : agglutination of lids ; profuse discharge of flatus ; evacuations ; sweats ; diarrhœa comes on at night ; severe cough ; pulsating pains in toes in bed ; biting as of ants ; coldness lasting all night ; shaking chill at night ; paroxysm of fever ; violent itching. Open air : headache > ; pain in vertex > ; burning in eyes > ; itching of inner canthi > ; nausea when walking.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

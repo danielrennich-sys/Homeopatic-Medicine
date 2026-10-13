@@ -1,16 +1,20 @@
 {
   "id": "hippomane-mancinella",
   "names": {
-    "primary": "Hippomane mancinella (LINN.)",
-    "latin": "Hippomane mancinella (LINN.)",
+    "primary": "Hippomane Mancinella",
+    "latin": "Hippomane Mancinella",
     "common": [
       "Manzanillo"
     ],
     "synonyms": [
-      "Hippomane mancinella"
+      "Hippomane mancinella (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

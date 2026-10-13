@@ -1,12 +1,17 @@
 {
   "id": "bartfelder",
   "names": {
-    "primary": "Bartfelder (Acid Spring)",
-    "latin": "Bartfelder (Acid Spring)",
+    "primary": "Bartfelder",
+    "latin": "Bartfelder",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Bartfelder (Acid Spring)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

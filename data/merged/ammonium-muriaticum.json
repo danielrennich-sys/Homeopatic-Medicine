@@ -8,12 +8,13 @@
     ],
     "synonyms": [
       "Ammonium Muriaticum. Sal Ammoniac. (NH4OCl)",
-      "AMMONIUM MURIATICUM",
-      "AMMONIUM MURIATICUM--Sal Ammoniæ",
-      "Ammonium muriaticum"
+      "AMMONIUM MURIATICUM--Sal Ammoniæ"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -398,6 +399,12 @@
         {
           "text": "head and chest symptoms in the morning; abdominal symptoms in the afternoon",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Am. m.]. Has to walk crooked. θ Uterine displacement. Cannot walk erect, on account of a pain as from a sprain in groins. During rest : backache. Lying : drawing tension in legs ; chilly in evening. Lying on ear : sensation as if something would come out. Lying on back : loose cough at night with stitches in left hypochondrium. Cannot lie on back or side : with backache. Walking : stitches in ears in open air ; stitching and burning in right hypochondrium ; tearing and tension in groin ; stitching and tearing in perineum ; heaviness of chest in open air ; heaviness on chest very great ; must limp from pain in left hip ; hamstrings seem too short ; sudden prostration. Motion : backache ; increases sweat ; pains in limbs better. From exertion : heat and puffiness of face. After rising : pressure in forehead. Must rise : with stitches in spleen. Stooping : stitches in head and splitting sensation ; asthma. Turning : pain from stiff neck to between shoulders. Turning from back to side : cough with stitches in left hypochondrium worse. Sitting : stitches in spleen ; stitches in right groin ; soreness up rectum ; gnawing in left hip bone ; tearing in front of thighs ; drawing tension in legs ; stitches in knee. Moving arms : asthma. Must stand still : from heaviness on chest. Standing : beating like pulse in left chest. Worse after rising in morning. Night : digging and tearing in right ear ; frequent and profuse urination ; menstrual flow most profuse ; cough loose ; heaviness in chest ; backache ; tearing in heels, in bed ; cold feet in bed ; restless sleep, awakes frequently ; chill from uncovering ; sweating, most copious after midnight. At 2 A. M. : awakened by cutting in abdomen. At 3 A. M. : awakened with heaviness in chest. At 4 A. M. : tenesmus vesical worse. Early morning : sweating most copious. Morning : irritability ; heaviness of forehead after rising ; eyes agglutinated ; stitches in spleen ; green diarrheic stools ; cough dry ; beating in left chest ; great weakness ; constant yawning and sleepiness ; bruised pain all over after rising. Night and day : dry cough ; sweat. All day : heaviness of forehead ; languor and laziness. Afternoon : burning and stitching in right hypochondrium ; hoarseness and burning in larynx ; cough loose. Twilight : burning of eyes. At 6 P. M. : attacks of cough begin daily. Evening : has most thirst ; cutting and stitching in ossa pubium to back ; stitches in knee when sitting ; itching in sole of right foot ; sleepy early ; chilliness ; itching in various parts. Midnight : cannot fall asleep till then from cold feet and heat in head. A warm bath relieves. Warm covering : does not relieve coldness in back. Out-doors : mist before eyes worse. Open air : stitches in ears when walking ; heat of face passes off ; heaviness of chest when walking ; sudden prostration when walking. In room : mist before eyes > ; heat and puffiness of face when warm. In bed : tearing in heels ; cold feet ; itching in various parts becomes better. Uncovering : chilly at night. After washing : burning in canthi.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

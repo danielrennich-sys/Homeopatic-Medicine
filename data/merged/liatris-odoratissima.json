@@ -1,14 +1,19 @@
 {
   "id": "liatris-odoratissima",
   "names": {
-    "primary": "Liatris odoratissima (WILLD.)",
-    "latin": "Liatris odoratissima (WILLD.)",
+    "primary": "Liatris Odoratissima",
+    "latin": "Liatris Odoratissima",
     "common": [
       "Deer's Tongue"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Liatris odoratissima (WILLD.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

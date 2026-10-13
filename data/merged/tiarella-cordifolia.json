@@ -1,14 +1,19 @@
 {
   "id": "tiarella-cordifolia",
   "names": {
-    "primary": "Tiarella Cordifolia (LINN.)",
-    "latin": "Tiarella Cordifolia (LINN.)",
+    "primary": "Tiarella Cordifolia",
+    "latin": "Tiarella Cordifolia",
     "common": [
       "Coolwort"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Tiarella Cordifolia (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

@@ -1,12 +1,15 @@
 {
   "id": "kali-hydroiodicum",
   "names": {
-    "primary": "KALI HYDROIODICUM",
-    "latin": "KALI HYDROIODICUM",
+    "primary": "Kali Hydroiodicum",
+    "latin": "Kali Hydroiodicum",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -8,12 +8,14 @@
       "Heartsease"
     ],
     "synonyms": [
-      "VIOLA TRICOLOR",
-      "Viola tricolor (LINN.)",
-      "Viola tricolor"
+      "Viola tricolor (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

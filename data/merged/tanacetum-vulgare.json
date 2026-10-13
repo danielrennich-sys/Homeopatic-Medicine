@@ -1,16 +1,17 @@
 {
   "id": "tanacetum-vulgare",
   "names": {
-    "primary": "TANACETUM VULGARE",
-    "latin": "TANACETUM VULGARE",
+    "primary": "Tanacetum Vulgare",
+    "latin": "Tanacetum Vulgare",
     "common": [
       "Tansy"
     ],
-    "synonyms": [
-      "Tanacetum vulgare"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

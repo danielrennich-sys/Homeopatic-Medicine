@@ -1,14 +1,19 @@
 {
   "id": "althaea",
   "names": {
-    "primary": "Althaea (U. S. P.)",
-    "latin": "Althaea (U. S. P.)",
+    "primary": "Althaea",
+    "latin": "Althaea",
     "common": [
       "Althaea"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Althaea (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

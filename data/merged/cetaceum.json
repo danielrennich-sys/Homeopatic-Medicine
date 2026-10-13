@@ -1,14 +1,19 @@
 {
   "id": "cetaceum",
   "names": {
-    "primary": "Cetaceum (U. S. P.)",
-    "latin": "Cetaceum (U. S. P.)",
+    "primary": "Cetaceum",
+    "latin": "Cetaceum",
     "common": [
       "Spermaceti"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Cetaceum (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

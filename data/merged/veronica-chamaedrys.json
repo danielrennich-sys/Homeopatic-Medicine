@@ -1,14 +1,19 @@
 {
   "id": "veronica-chamaedrys",
   "names": {
-    "primary": "Veronica chamaedrys (LINN.)",
-    "latin": "Veronica chamaedrys (LINN.)",
+    "primary": "Veronica Chamaedrys",
+    "latin": "Veronica Chamaedrys",
     "common": [
       "Speedwell, Germander"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Veronica chamaedrys (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

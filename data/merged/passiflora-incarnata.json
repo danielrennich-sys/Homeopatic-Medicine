@@ -1,18 +1,23 @@
 {
   "id": "passiflora-incarnata",
   "names": {
-    "primary": "PASSIFLORA INCARNATA",
-    "latin": "PASSIFLORA INCARNATA",
+    "primary": "Passiflora Incarnata",
+    "latin": "Passiflora Incarnata",
     "common": [
       "Passion-flower",
       "Passion Flower"
     ],
     "synonyms": [
+      "Passiflora. Passiflora incarnata",
       "Passiflora incarnata (LINN.)",
       "Passionflower"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "head": [
       {
@@ -33,7 +38,13 @@
       }
     ],
     "dosing": {
-      "notes": "Large doses of mother tincture are required-thirty to sixty drops, repeated several times"
+      "notes": "Large doses of mother tincture are required-thirty to sixty drops, repeated several times",
+      "entries": [
+        {
+          "text": "3 to 10 grains. Of Fluid extract, 10 to 20 minims. [ Top ]",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "keynotes": [
       {
@@ -42,6 +53,80 @@
       },
       {
         "text": "The Passion Flowers are so named from the supposed resemblance of the finely-cut corona in the centre of the blossoms to the Crown of Thorns and of the other parts of the flower to the instruments of the Passion of Our Lord. Passiflora incarnata has a perennial root, and the herbaceous shoots bear three-lobed, finelyserrated leaves and flesh-coloured or yellowish, sweet-scented flowers, tinged with purple. The ripe, orange-coloured, ovoid, many-seeded berry is about the size of a small apple; when dried, it is shrivelled and greenish-yellow. The yellow pulp is sweet and edible.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Synonym—Passion Flower.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Physiological Action—Ott reports a series of experiments to determine the physiological action of passiflora incarnata. As a result he concludes that the agent exercises a depressing influence upon the reflex activity of the spinal cord. In acute mania it arrests the exaggerated activity of the cortex. It temporarily reduces the pulse and arterial tension, the latter apparently being due to an action upon the vasomotor center of the medulla oblongata. It stimulates the respiration and can therefore be given in large doses without danger.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Passiflora given in excessive doses causes spasms and paralysis in animals. It acts as a narcotic and antispasmodic in man when given in moderate doses. No extended investigation concerning its physiological action has yet been made.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Broadnax said that it is used by negroes in an application of the bruised leaves as a poultice to the head, for headaches; also to bruises to relieve pain. A decoction is used in teaspoon and tablespoonful doses in various aches and pains. Old rheumatics use poultices made from a strong decoction with cloths wrung out and bound tightly over the swollen joints. His attention was called to it by the peculiar odor of a mess of the green bruised leaves, bound to an old woman's abdomen. By this he learned of its use and used it for twenty-five years quite steadily.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is as yet difficult to explain the fact that in some cases this agent is prompt, efficient and highly satisfactory, while in others the same preparation is inactive. This fact has created a wide difference of opinion between observers as to its usefulness.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Specific Symptomatology—Wakefulness, disturbed sleep from mental worry, and exhaustion from cerebral fullness and from excitement, especially with feebleness. Anemic patients are relieved by it, also the wakefulness of infants and the aged. It is not usually efficient if the wakefulness is caused by pain, nor when the patient is in full strength.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Nervous excitement, and irritation with muscular twitchings— evidences of approaching convulsions in childhood—with marked cerebral fullness are indications, and it is given at any time preceding or during convulsive paroxysms if it can be swallowed. It is indicated in convulsions of any character.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—In the convulsions of childhood it is a most reliable agent. The writer has given it at the onset of the spasm when the approaching symptoms were unmistakable, and has had the satisfaction of seeing all the symptoms disappear so promptly, that confidence has become established. It has controlled severe spasms while the irritating causes yet remained, and after all antispasmodics except anesthesia have been ineffectual. It can be relied upon to hold the spasms in check while the causes are being removed, and reduces their force and character. In epilepsy it lessens the number of the paroxysms, but to ward off the paroxysms the attack must be anticipated by a full dose of the remedy. When its approach is unannounced, the full effects of the agent are not obtained.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Passiflora has hypnotic properties which differ from other agents of this class in that the sleep produced is normal in all its characteristics. The patient goes to sleep naturally, can be awakened as usual at any time, to fall into a quiet, natural slumber. He awakens at the usual time rested and refreshed, with no disturbance of the cerebral functions, no languor, dullness or other disagreeable sensations.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Dr. Steele of Missouri uses passiflora in chorea. In persistent cases he combines it with cimicifuga with satisfactory results.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "If given in doses sufficiently large, it may be relied upon to assist in the relaxation of the tonic spasm of meningitis, and local tetanic spasm. It has relieved a few cases of general tetanus. It has cured tetanus in horses. It may be given as an antidote to the spasms of strychnine poisoning, but it must be given in doses of from one-fourth to one-half ounce and frequently repeated. As an anti-spasmodic in cases where there is engorgement of the nerve centers, it is applicable. It has relieved tonic, and clonic spasms, and the spasms of sthenic as well as asthenic conditions.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In the treatment of hysteria the agent should be persisted in. It may be given in conjunction with cimicifuga, gelsemium and pulsatilla, and if there be pain, due to menstrual or other disorders, it may be combined with cannabis indica, or Jamaica dogwood, in appropriate and properly regulated doses.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Dr. Roth believes that passiflora is a direct stomach sedative. A number of physicians have confirmed this opinion. One patient who had been on a spree for days suffering from persistent hiccough, took a teaspoonful of the tincture every hour. This gave him freedom from the hiccough and in a short time a quiet, natural, continued sleep, waking in the morning in nearly a normal condition.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Dr. Freeman gives a combination of passiflora four drams, hyoscyamus one-half dram, cannabis indica one-half dram in a four ounce mixture, and to patients addicted to drug habits, who cannot sleep, he gives from one to two teaspoonfuls of this at early bedtime, repeated if necessary.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "One of the attending physicians in the tuberculosis wards of Cook County Hospital told this author that passiflora was his reliance in the sleeplessness of tuberculosis, especially controlling the cough. He would add two drams of passiflora to three ounces of water, and give a dram every half hour, the latter part of the day or early evening and during the night, and very seldom failed to secure satisfactory results. Other forms of cough can be relieved by it.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The agent is not known to possess injurious or poisonous properties. It has been used in erysipelas both externally and internally, and in acute inflammatory skin disorders with nervous elements and nervous complications.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The drug is known to be a depressant to the motor side of the spinal cord, slightly reducing arterial pressure, though affecting circulation but little, while increasing the rate of respiration. It is official in homoeopathic medicine and used with bromides, it is said to be of great service in epilepsy. Its narcotic properties cause it to be used in diarrhoea and dysentery, neuralgia, sleeplessness and dysmenorrhoea.",
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
@@ -57,12 +142,6 @@
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
-    "indications": [
-      {
-        "text": "The drug is known to be a depressant to the motor side of the spinal cord, slightly reducing arterial pressure, though affecting circulation but little, while increasing the rate of respiration. It is official in homoeopathic medicine and used with bromides, it is said to be of great service in epilepsy. Its narcotic properties cause it to be used in diarrhoea and dysentery, neuralgia, sleeplessness and dysmenorrhoea.",
-        "source_id": "grieve-modern-herbal-1931"
-      }
-    ],
     "generalities": [
       {
         "text": "Many species yield edible fruits or are cultivated for their beauty and fragrance. P. caerulea , the familiar Blue Passion Flower, hardy in southern districts of this country as a wall-climber, was introduced into England from Brazil in 1699. P. quadrangularis , the Common Granadilla, a native of Jamaica and South America grown for its large edible fruit, the purple, succulent pulp of which is eaten with wine and sugar, has a root said to be very poisonous and a powerful narcotic; in small doses it is anthelmintic. It is used in Mauritius as a diuretic and emetic. The fruit of P. edulis in colour and flavour resembles that of the orange, with a mixture of acid. P. macrocarpa bears a gourd-like, oblong fruit, much larger than any of the other species, attaining a weight of 7 to 8 lb. P. maliformis , the Apple-fruited Granadilla, the Sweet Calabash of the West Indies, has a fruit 2 inches in diameter, full of a pleasant gelatinous pulp. The juice of the leaves, and also of those of P. pallida , is used by the Brazilians against intermittent fevers. P. laurifolia , the Water Lemon of the West Indies, is much cultivated throughout South America for its fruit, the aromatic juice of which quenches thirst, allays heat and induces appetite. Its bitter and astringent leaves are employed as an anthelmintic. The roots of P. contrayerva and P. normalis are reputed to have counter-poison properties. P. foetida is used in hysteria, female complaints and as an expectorant, and the leaves as a poultice in skin inflammations. The flowers of P. rubra yield a narcotic tincture. P. capsularia is said to possess emmenagogue properties. [ Top ] Purchase from Richters American Passion Flower (Passiflora incarnata, aka Maypop) Bulk Dried Herb and Plants Passion Flower (Passiflora x alatocaerulea cv.) Plants Passion Fruit (Passiflora edulis) Seeds and Plants Try it in tea! Night Time Tea",
@@ -71,7 +150,7 @@
     ]
   },
   "evidence": {
-    "summary": "Introduction Passionflower is an extract of the flowers of the plant Passiflora incarnata that is claimed to have natural sedative properties and to be useful for treatment of anxiety and insomnia. Passionflower has not been implicated in causing serum enzyme elevations or clinically apparent liver injury. Background Passionflower is a flowering plant, extracts of which have been used as a mild sedative and sleeping aid. The genus Passiflora includes more than 500 species which typically have complex and unique structures and flowers, and are found throughout much of the world. Passiflora incarnata (maypop) is indigenous to the United States and Central and South America and was used by Native Americans to treat insomnia, hysteria, epilepsy and as a mild analgesic. Other species of Passiflora reportedly lack these medicinal effects. Passionflower contains several flavonoids (apigenin, benzoflavone and others), harmala alkaloids (hamaline, harmalol, harmine and harmol), coumarins, maltol, phytosterols and glycosides. Studies in animals suggest that extracts of passionflower have sedative, anxiolytic, analgesic and antispasmodic effects but the specific components responsible for these effects have not been defined. The herb is used most frequently as a mild sleeping medication, sedative, and treatment for gastrointestinal complaints often in the form of an herbal tea, but also in multiple herbal preparations, generally in combination with other agents including valerian, hops and lavender. Passionflower is also used in creams, lotions, soaps and cosmetics. Side effects of oral use are not common but can include dizziness, sedation, confusion and ataxia. Hepatotoxicity Despite widescale use, passionflower extracts have not been convincingly linked to instances of clinically apparent liver injury. However, there have been no placebo controlled and adequate sized trials with careful prospective assessment of adverse events and effects on laboratory test results. Likelihood score : E (unlikely cause of clinically apparent liver injury). Other Names: Apricot vine, Granadilla, Maypop, Passion vine Drug Class: Herbal and Dietary Supplements See also Drug Class: Sedatives and Hypnotics",
+    "summary": "Introduction Passionflower is an extract of the flowers of the plant Passiflora incarnata that is claimed to have natural sedative properties and to be useful for treatment of anxiety and insomnia. Passionflower has not been implicated in causing serum enzyme elevations or clinically apparent liver injury. Background Passionflower is a flowering plant, extracts of which have been used as a mild sedative and sleeping aid. The genus Passiflora includes more than 500 species which typically have complex and unique structures and flowers, and are found throughout much of the world. Passiflora incarnata (maypop) is indigenous to the United States and Central and South America and was used by Native Americans to treat insomnia, hysteria, epilepsy and as a mild analgesic. Other species of Passiflora reportedly lack these medicinal effects. Passionflower contains several flavonoids (apigenin, benzoflavone and others), harmala alkaloids (hamaline, harmalol, harmine and harmol), coumarins, maltol, phytosterols and glycosides. Studies in animals suggest that extracts of passionflower have sedative, anxiolytic, analgesic and antispasmodic effects but the specific components responsible for these effects have not been defined. The herb is used most frequently as a mild sleeping medication, sedative, and treatment for gastrointestinal complaints often in the form of an herbal tea, but also in multiple herbal preparations, generally in combination with other agents including valerian, hops and lavender. Passionflower is also used in creams, lotions, soaps and cosmetics. Side effects of oral use are not common but can include dizziness, sedation, confusion and ataxia. Hepatotoxicity Despite widescale use, passionflower extracts have not been convincingly linked to instances of clinically apparent liver injury. However, there have been no placebo controlled and adequate sized trials with careful prospective assessment of adverse events and effects on laboratory test results. Likelihood score : E (unlikely cause of clinically apparent liver injury). Other Names: Apricot vine, Granadilla, Maypop, Passion vine Drug Class: Herbal and Dietary Supplements See also Drug Class: Sedatives and Hypnotics\n\nPassionflower is a climbing vine that is native to the southeastern United States and Central and South America. The vine has white and purple flowers. Traditionally, passionflower has been used as a sedative. Sixteenth-century Spanish explorers in South America learned of passionflower. The plant was then brought to Europe, where it became widely cultivated and was introduced to European folk medicine. Today, passionflower is promoted as a dietary supplement for anxiety (including anxiety before surgery), sleep problems, stress, attention-deficit hyperactivity disorder (ADHD), pain, and other conditions.",
     "documented_adverse_effects": [
       {
         "section": "PRODUCT INFORMATION",
@@ -121,6 +200,7 @@
   "provenance": {
     "sources": [
       "boericke-1927",
+      "ellingwood-1919",
       "grieve-modern-herbal-1931",
       "livertox-nih",
       "nccih"

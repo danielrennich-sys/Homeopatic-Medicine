@@ -1,32 +1,17 @@
 {
   "id": "chamomilla-matricaria",
   "names": {
-    "primary": "Chamomilla. Matricaria Chambilla. (Compositae)",
-    "latin": "Chamomilla. Matricaria Chambilla. (Compositae)",
+    "primary": "Chamomilla Matricaria",
+    "latin": "Chamomilla Matricaria",
     "common": [],
-    "synonyms": [
-      "CHAMOMILLA MATRICARIA"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
-      {
-        "text": "Persons, especially children, with light brown hair, nervous, excitable temperament; oversensitive from use or abuse of coffee or narcotics. Children, new-born and during period of dentition. Peevish, irritable, oversensitive to pain, driven to despair (Coff.); snappish, cannot return a civil answer. Child exceedingly irritable, fretful; quiet only when carried; impatient, wants this or that and becomes angry when refused, or when offered, petulantly rejects it (Bry., Cina, Kreos.); \"too ugly to live;\" cross, spiteful. Piteous moaning of child because he cannot have what he wants; whining restlessness. Patient cannot endure any one near him; is cross, cannot bear to be spoken to (Sil.); averse to talking, answers peevishly. Complaints from anger, especially chill and fever. Pain: seems unendurable, drives to despair; numbness of affected part; eructations anger or chagrin; during dentition; after tabacco; in child-bed; from downward motion (Bor., Sanic.). Stool green, watery, corroding, like chopped eggs and spinach; hot, very offensive, like rotten eggs. Nipples inflamed, tender to touch (Helon., Phyt.); infant's breasts tender to touch. Milk runs out in nursing women (runs out after weaning, Con.). Convulsions of children from nursing, after a fit of anger in mother (Nux - after fright in mother, Op.). Violent rheumatic pains drive him out of bed at night, compel him to walk about (Rhus). Sleepy, but cannot sleep (Bell., Caust., Op.). Burning of soles at night, puts feet out of bed (Puls., Med., Sulph.).",
-        "source_id": "allen-keynotes-1899"
-      },
-      {
-        "text": "Relations. - Complementary: Bell. in diseases of children, cranial nerves; Cham., abdominal nerves. In cases spoiled by the use of opium or morphine in complaints of children. Compare: Bell., Bor., Bry., Coff., Puls., Sulph. Mental calmness contra-indicates Chamomilla.",
-        "source_id": "allen-keynotes-1899"
-      },
-      {
-        "text": "Aggravation. - By heat; anger; evening, before midnight; open air; in the wind; eructations.",
-        "source_id": "allen-keynotes-1899"
-      },
-      {
-        "text": "Amelioration. - From being carried; fasting; warm, wet weather.",
-        "source_id": "allen-keynotes-1899"
-      },
       {
         "text": "Very irritable mood; snaps and snarls; will not speak or answer civilly; mad.",
         "source_id": "nash-leaders-1899"
@@ -224,7 +209,6 @@
   "evidence": {},
   "provenance": {
     "sources": [
-      "allen-keynotes-1899",
       "nash-leaders-1899"
     ]
   }

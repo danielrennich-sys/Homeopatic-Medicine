@@ -1,12 +1,17 @@
 {
   "id": "manganum-oxydatum",
   "names": {
-    "primary": "Manganum Oxydatum Nativum",
-    "latin": "Manganum Oxydatum Nativum",
+    "primary": "Manganum Oxydatum",
+    "latin": "Manganum Oxydatum",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Manganum Oxydatum Nativum"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

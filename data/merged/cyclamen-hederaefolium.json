@@ -1,14 +1,17 @@
 {
   "id": "cyclamen-hederaefolium",
   "names": {
-    "primary": "Cyclamen hederaefolium",
-    "latin": "Cyclamen hederaefolium",
+    "primary": "Cyclamen Hederaefolium",
+    "latin": "Cyclamen Hederaefolium",
     "common": [
       "Cyclamen, Ivy-Leaved"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

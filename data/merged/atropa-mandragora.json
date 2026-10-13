@@ -1,14 +1,17 @@
 {
   "id": "atropa-mandragora",
   "names": {
-    "primary": "Atropa mandragora",
-    "latin": "Atropa mandragora",
+    "primary": "Atropa Mandragora",
+    "latin": "Atropa Mandragora",
     "common": [
       "Mandrake"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

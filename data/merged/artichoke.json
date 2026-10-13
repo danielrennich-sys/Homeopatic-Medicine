@@ -1,14 +1,19 @@
 {
   "id": "artichoke",
   "names": {
-    "primary": "Artichoke, Chinese",
-    "latin": "Artichoke, Chinese",
+    "primary": "Artichoke",
+    "latin": "Artichoke",
     "common": [
       "Artichoke, Chinese"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Artichoke, Chinese"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

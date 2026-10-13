@@ -1,14 +1,19 @@
 {
   "id": "senecio-vulgaris",
   "names": {
-    "primary": "Senecio vulgaris (LINN.)",
-    "latin": "Senecio vulgaris (LINN.)",
+    "primary": "Senecio Vulgaris",
+    "latin": "Senecio Vulgaris",
     "common": [
       "Groundsel"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Senecio vulgaris (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

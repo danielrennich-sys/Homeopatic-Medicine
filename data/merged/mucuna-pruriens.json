@@ -1,14 +1,19 @@
 {
   "id": "mucuna-pruriens",
   "names": {
-    "primary": "Mucuna pruriens (LINN.)",
-    "latin": "Mucuna pruriens (LINN.)",
+    "primary": "Mucuna Pruriens",
+    "latin": "Mucuna Pruriens",
     "common": [
       "Cowhage"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Mucuna pruriens (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

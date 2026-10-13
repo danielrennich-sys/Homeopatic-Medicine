@@ -1,14 +1,19 @@
 {
   "id": "pyroxylinum",
   "names": {
-    "primary": "Pyroxylinum (U. S. P.)",
-    "latin": "Pyroxylinum (U. S. P.)",
+    "primary": "Pyroxylinum",
+    "latin": "Pyroxylinum",
     "common": [
       "Pyroxylin"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Pyroxylinum (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

@@ -7,11 +7,13 @@
       "Red Starfish"
     ],
     "synonyms": [
-      "Asterias Rubens. Star-fish (Radiata)",
-      "ASTERIAS RUBENS"
+      "Asterias Rubens. Star-fish (Radiata)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -165,6 +167,12 @@
         {
           "text": "coffee, night; cold damp weather, left side",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Aster.]. Standing : weakness worse. Throwing chest backward : pain in upper chest better. Motion : pain in left chest < ; pain in ball of toe worse. Walking : vertigo with insensibility of lower limbs ; right ankle pains ; pressure in uterus. Walking or ascending : throbbing in head worse. Gait unsteady ; muscles refuse to obey efforts of will. At 8 A. M. : tickling in foot. Morning : headache on rising ; epistaxis on getting awake ; coryza and sneezing ; sore throat on awaking ; eructations ; pain in side of abdomen ; erections ; sexual desire increased in female ; cough ; anxiety in heart ; cerebral. symptoms occur ; pain in left coxo-femoral joint. Forenoon : hawking greyish-black phlegm. Towards noon : headache suddenly disappears. Noon to 2 P. M. : anger. Noon to 3 P. M. : anxiety. All day : dull occipital headache. During day : several soft stools ; cerebral symptoms disappear ; annoyed by permanent contractions of muscles of lower limbs. Afternoon : pain in wrist. At 4 P. M. : excitement of female venereal appetite ; limbs feel as if beaten. At 6 P. M. : stitching in leg worse. Towards evening : fever, hot skin, followed by chilliness. Evening : unusual gayety ; cerebral symptoms recur, itching below left knee in bed ; pain in left hip. Before midnight : pain in toes ceases. Night : sensation as if brain was shaken by electric shock ; pains deprive her of rest ; throbbing in chest ; anxiety in heart ; great agitation and little sleep ; pain in whole r. side ; awakens in distress and confusion ; lancinating in. tumor ; fear of apoplexy. Heat of head as if surrounded by hot air. Coldness left arm as if cold wind were blowing on it. Cold air and washing : pain in toes >. Open air : itching on leg < ; pressure on vertex >. Covering, heat of bed, in room : pain in toes < ; uneasiness in limbs worse. Great desire to wash in cold water. Complaints < in cold, damp weather.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

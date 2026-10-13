@@ -1,16 +1,20 @@
 {
   "id": "foeniculum-vulgare",
   "names": {
-    "primary": "Foeniculum vulgare (GÆRT.)",
-    "latin": "Foeniculum vulgare (GÆRT.)",
+    "primary": "Foeniculum Vulgare",
+    "latin": "Foeniculum Vulgare",
     "common": [
       "Fennel"
     ],
     "synonyms": [
+      "Foeniculum vulgare (GÆRT.)",
       "Fennel"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -62,7 +66,6 @@
     ]
   },
   "evidence": {
-    "summary": "",
     "lactation_safety": [
       {
         "section": "Drug Levels and Effects",
@@ -70,7 +73,6 @@
         "source": "LactMed-NIH"
       }
     ],
-    "documented_adverse_effects": [],
     "regulatory": [
       "LactMed - NIH Drugs and Lactation Database"
     ],

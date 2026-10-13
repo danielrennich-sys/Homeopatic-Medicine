@@ -1,16 +1,20 @@
 {
   "id": "pepo",
   "names": {
-    "primary": "Pepo (Cucurbita pepo)",
-    "latin": "Pepo (Cucurbita pepo)",
+    "primary": "Pepo",
+    "latin": "Pepo",
     "common": [
       "Pumpkin Seed"
     ],
     "synonyms": [
+      "Pepo (Cucurbita pepo)",
       "Pepo (U. S. P.)"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

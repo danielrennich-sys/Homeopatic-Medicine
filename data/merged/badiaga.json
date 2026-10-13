@@ -7,11 +7,13 @@
       "Fresh-water Sponge"
     ],
     "synonyms": [
-      "BADIAGA",
       "BADIAGA. (SPONGILLA FLUVIATILIS. SPONGIA PALUSTRIS.)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -150,6 +152,12 @@
         {
           "text": "by cold",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Bad.]. Rest : pain in muscles of leg better. Lying in bed : palpitation ; suffocation when lying on right side. Throwing shoulders back and chest forward : pains below scapulæ worse. Sitting : palpitation ; stitches in neck. Sitting or lying : legs numb, soon feel sore, must change position. Flexing head : stiff neck worse. Changing position : suffocative attack > ; palpitation better. Motion : eyes and head < ; pains in chest worse. Walking : toes bend as if extensors were paralyzed. From 3 to 4 A. M. : cramps in feet. Morning : headache on vertex > ; cough loose. At 8 A. M. : pain in pit of stomach. Forenoon : dizziness. From 2 P. M. to 7 P. M. : headache. Afternoon : eyes inflamed ; shocks in ears as of distant artillery ; pain in kidney ; spasmodic cough < ; cough tight ; pains in chest worse. Evening : shocks in ears ; bad taste in mouth ; spasmodic cough < ; cough tight ; pains in chest worse. Night : headache on vertex > ; restlessness. Midnight : palpitation of heart. Warm room : whooping cough better. Sensitive to cold, especially cold air. Worse in stormy weather. Chilblains.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

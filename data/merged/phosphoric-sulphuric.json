@@ -1,12 +1,17 @@
 {
   "id": "phosphoric-sulphuric",
   "names": {
-    "primary": "Phosphoric    And    Sulphuric    Acids",
-    "latin": "Phosphoric    And    Sulphuric    Acids",
+    "primary": "Phosphoric Sulphuric",
+    "latin": "Phosphoric Sulphuric",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Phosphoric    And    Sulphuric    Acids"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

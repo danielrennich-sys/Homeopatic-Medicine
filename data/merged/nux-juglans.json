@@ -1,12 +1,15 @@
 {
   "id": "nux-juglans",
   "names": {
-    "primary": "Nux juglans",
-    "latin": "Nux juglans",
+    "primary": "Nux Juglans",
+    "latin": "Nux Juglans",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

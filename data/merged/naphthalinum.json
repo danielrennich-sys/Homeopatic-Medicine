@@ -1,16 +1,17 @@
 {
   "id": "naphthalinum",
   "names": {
-    "primary": "NAPHTHALINUM",
-    "latin": "NAPHTHALINUM",
+    "primary": "Naphthalinum",
+    "latin": "Naphthalinum",
     "common": [
       "A chemical compound from Coal-tar; Tar Camphor (NAPHTHALINE)"
     ],
-    "synonyms": [
-      "Naphthalinum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

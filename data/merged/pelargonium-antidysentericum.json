@@ -1,14 +1,19 @@
 {
   "id": "pelargonium-antidysentericum",
   "names": {
-    "primary": "Pelargonium antidysentericum, and other Species",
-    "latin": "Pelargonium antidysentericum, and other Species",
+    "primary": "Pelargonium Antidysentericum",
+    "latin": "Pelargonium Antidysentericum",
     "common": [
       "Pelargoniums"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Pelargonium antidysentericum, and other Species"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

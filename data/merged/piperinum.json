@@ -1,14 +1,19 @@
 {
   "id": "piperinum",
   "names": {
-    "primary": "Piperinum (U. S. P.)",
-    "latin": "Piperinum (U. S. P.)",
+    "primary": "Piperinum",
+    "latin": "Piperinum",
     "common": [
       "Piperin"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Piperinum (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

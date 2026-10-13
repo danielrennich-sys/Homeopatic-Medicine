@@ -1,14 +1,23 @@
 {
   "id": "bismuth",
   "names": {
-    "primary": "BISMUTH",
-    "latin": "BISMUTH",
+    "primary": "Bismuth",
+    "latin": "Bismuth",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Bismuth. Hydrated Oxide of Bismuth (Bi2O3OH2.)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
+      {
+        "text": "Solitude is unbearable; desires company, child holds on to its mother's hand for company (Kali c., Lil., Lyc.); Anguish; he sits, then walks, then lies, never long in one place. Headache returning every winter; alternating with, or attended by gastralgia. Face, deathly pale, blue rings around the eyes. Toothache > holding cold water in mouth. (Bry., Coff., Puls.). Vomiting: of water as soon as it reaches the stomach, food retained longer (vomits food and water, Ars.); of enormous quantities, at intervals of several days when food has filled the stomach; of all fluids as soon as taken; and purging, offensive stools (watery stools, Ver.); with convulsive gagging and inexpressible pain, after laprotomy (Nux, Staph.). Stomach: pressure as from a load in one spot; alternating with burning; pain crampy, spasmodic; with irritation, cardialgia and pyrosis. Cholera morbus and summer complaint, when vomiting predominates; stools foul; papescent, watery, offensive very prostrating (Ars., Ver.).",
+        "source_id": "allen-keynotes-1899"
+      },
       {
         "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T BISMUTH This remedy has a great affinity for affections of the right upper extremity or forehead. Boring pains. Sensation of heaviness in inner parts. Lymphatic, torpid constitutions. Mental.-- Peevish and dissatisfied with his condition. Vertigo, as if the anterior half of the brain were turning in a circle. Face.-- Looks as if one had been very ill. Mouth.-- White coated tongue in the evening, without heat or thirst. Gastric.-- Gastralgia, with the sensation of a great pressing heaviness ; as from a load in one spot. Nausea, feels as if would vomit, especially after eating. Vomiting at intervals of days when food has filled the stomach; then vomits large quantities, lasting all day. Vomiting with oppressive anxiety, small pulse, vertigo and prostration; vomiting and diarrha, with gagging and burning in throat; violent convulsive gagging and inexpressible pain in stomach. Vertigo, headache, belching of wind, flatulence, warm surface, etc.; vomiting and horrible pain in stomach, vomiting and purging with prostration, and the surface of the patient is warm. Cancer of stomach. Very useful in complaints of children. Flatus with a cadaverous smell; same smell to the stools. Desire for company; a child will hold on to the mother's hand to keep her company. Urine.-- Frequent; copious; pale; retention of. Chest.-- Aching in right half of, near sternum, in a small spot. Extremities.-- Upper : Tearing in right index finger, also in tips and joints of fingers; under the nails. Lower : Itching in tibia, near ankle, worse by scratching, till it bleeds. Tearing in maleolus of right foot, in paroxysms, terminating in tendo achillis. Sleep.-- Languor and weakness. Frequent waking as if in a fright. Night sleep disturbed by lascivious dreams, with emissions, or without. Remedies following:-- Bellad., Calc. carb., Pulsat, Sepia . Antidote:-- Calc. carb . Copyright © Médi-T 2000",
         "source_id": "guernsey-keynotes-1887"
@@ -38,6 +47,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "allen-keynotes-1899",
       "guernsey-keynotes-1887",
       "nash-leaders-1899"
     ]

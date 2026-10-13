@@ -1,16 +1,20 @@
 {
   "id": "magnetis-polus",
   "names": {
-    "primary": "MAGNETIS POLUS ARCTICUS",
-    "latin": "MAGNETIS POLUS ARCTICUS",
+    "primary": "Magnetis Polus",
+    "latin": "Magnetis Polus",
     "common": [],
     "synonyms": [
+      "MAGNETIS POLUS ARCTICUS",
       "MAGNETIS POLUS AUSTRALIS",
       "Magnetis Polus Arcticus",
       "Magnetis Polus Australis"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

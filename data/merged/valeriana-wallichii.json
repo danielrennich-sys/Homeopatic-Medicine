@@ -1,14 +1,19 @@
 {
   "id": "valeriana-wallichii",
   "names": {
-    "primary": "Valeriana Wallichii (DE CANDOLLE)",
-    "latin": "Valeriana Wallichii (DE CANDOLLE)",
+    "primary": "Valeriana Wallichii",
+    "latin": "Valeriana Wallichii",
     "common": [
       "Valerian, Indian"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Valeriana Wallichii (DE CANDOLLE)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

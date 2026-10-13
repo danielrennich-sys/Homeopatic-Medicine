@@ -1,14 +1,19 @@
 {
   "id": "prunella-vulgaris",
   "names": {
-    "primary": "Prunella vulgaris (LINN.)",
-    "latin": "Prunella vulgaris (LINN.)",
+    "primary": "Prunella Vulgaris",
+    "latin": "Prunella Vulgaris",
     "common": [
       "Self-Heal"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Prunella vulgaris (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

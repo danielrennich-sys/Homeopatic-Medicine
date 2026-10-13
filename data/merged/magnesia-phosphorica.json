@@ -1,22 +1,27 @@
 {
   "id": "magnesia-phosphorica",
   "names": {
-    "primary": "Cell Salt #8 - Magnesia Phosphorica",
+    "primary": "Magnesia Phosphorica",
     "latin": "Magnesia Phosphorica",
     "common": [
+      "Phosphate of Magnesia (MAGNESIA PHOSPHORICA)",
       "Mag Phos",
       "Magnesium Phosphate",
       "Phosphate of Magnesia"
     ],
     "synonyms": [
-      "Magnesia Phosphorica",
-      "MAGNESIA PHOSPHORICA",
+      "Magnesia Phosphorica. Phosphate of Magnesia",
+      "MAGNESIUM PHOSPHORICUM",
       "Cell Salt #8",
       "Schuessler Salt #8",
-      "Tissue Salt #8"
+      "Tissue Salt #8",
+      "Cell Salt #8 - Magnesia Phosphorica"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -34,6 +39,10 @@
       {
         "text": "Amelioration. - Bending double; heat; warmth; pressure (burning pain > by heat, Ars.).",
         "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "color=\"#800000\">MAGNESIUM PHOSPHORICUM Phosphate of Magnesia (MAGNESIA PHOSPHORICA) The great anti-spasmodic remedy. Cramping of muscles with radiating pains. Neuralgic pains relieved by warmth. Especially suited to tired, languid, exhausted subjects. Indisposition for mental exertion. Goitre.",
+        "source_id": "boericke-1927"
       },
       {
         "text": "Mag. Phos. is one of the most important of Schüssler's original additions to the materia medica. It has had a very fine proving in the potencies, conducted by H. C. Allen (Med. Adv., xxxiii. 386-415), but I will first give Schüssler's own account: Phosphate of Magnesia is contained in─blood-corpuscles, muscles, brain, spinal marrow, nerves, teeth. Disturbance of its molecules results in─pains, cramps, paralysis. The pains are─shooting like lightning, or boring; often combined with or alternating with a sensation of constriction; at times wandering; > by warmth; > by pressure; by light touch. It will cure: Headache, toothache, pains in limbs when of this kind; also cramps in stomach, pains in abdomen usually radiating from umbilical region, > by hot drinks, by bending double, by pressing on abdomen with the hand, sometimes accompanied with watery diarrhœa. Spasms of various kinds─of glottis, whooping-cough, lockjaw, cramps of calves, hiccough, tetanus, chorea, spasmodic retention of urine, &c. In caseous tuberculosis and lupus Mag. p. has a place. When the cells near the caseous masses are too weak to expel them, it is because they are deficient in Mag. p., and Mag. p. given medicinally will enable them to do it.─This sketch of Schüssler's is confirmed in every point by Allen's proving, and by the clinical use of Mag. p. in the highest attenuations. Moreover, there is a very strong family resemblance between these features and those of Mag. c. and Mag. m. But it is only right to say that Schüssler arrived at them by a way of his own, which shows that there are other means besides provings of finding the keynote symptoms of remedies. Allen adds to the above that the pains rapidly change place; that cramping is the most characteristic type of the Mag. p. pains. Dread of cold air; of uncovering; of touching the affected part; of moving; of cold washing. It is best adapted to: thin, emaciated persons of a highly nervous organisation, of dark complexion; to affections on the right side of the body; to complaints from standing in cold water; complaints of dentition; headaches of school children; professional neuroses (e.g., writer's cramp); after-effect of catheterism. Nash says Mag. p. is in the first rank as a pain remedy, and it has all kinds of pain (though cramping pain is the most characteristic) except burning pain, and this distinguishes it from Ars., since both have > from heat. Allen's proving brought out canker sores in mouth, sore lips, and cracked lips. A patient of mine who suffered intensely from cracks at the corners of the lips found nothing relieve so well as Mag. p., and it did it best in the ix strength. Higher were tried. Hering says it is suited to: Young and very strong persons; teething children. Allen says that though it is best adapted to emaciated persons, it acts promptly in stout, fleshy persons when well indicated. The attacks (of pain, &c.) are often attended with great prostration, and sometimes with profuse sweat. \"Languid, tired, exhausted; unable to sit up.\" Mag. p. is more often called for in men than Mag. c., but the indication, \"worn-out women,\" answers for both. The affections of Mag. p. are often periodic. I cured with Mag. p. 6x a very severe attack of chorea in a girl of six. The spasms were general, but they affected the speech to such an extent that she could not make herself intelligible. Rappaz, of Montevideo (quoted H. M., xxix. 178) cured with Mag. p. a young man of 17 of cerebral meningitis which began with violent pain and inflammation in left eye, with terrific pains in head and delirium and intense fever. He was at first treated allopathically, without success. When Rappaz first saw him he was hemiplegic, with frequent and alarming convulsions, crying out violently, involuntary passage of fæces and urine; dilated pupils, dropped jaw, escape of saliva, speech and comprehension difficult. Under Mag. p. 6x in water general improvement set in. Later the 12x was given, and in two months he was well. W. T. Ord cured Miss G., 48, of pain in back extending down right sciatic nerve and up spine, following influenza, with Mag. p. 3x, 5-gr. doses. The pains were shifting, > by rest, at night. The parts were tender to pressure and numb. Pains sometimes tense in paroxysms, compelling her to cry out. Anxiety; depressed vitality. Skinner has cured with Mag. p. a case of prolapse of rectum with feeling as if rectum were torn, the symptoms being > by heat. The symptoms are by: Motion; cold air; draught of air; cold wind; COLD WASHING; TOUCH; lying on the back stretched out; when eating. > By: HEAT; WARMTH; PRESSURE; BENDING DOUBLE (the italics and capitals are H. C. Allen's). Walking; especially in open air; abdominal pain compels walking about, which >.",
@@ -264,6 +273,196 @@
         "source_id": "nash-leaders-1899"
       }
     ],
+    "mental_emotional": [
+      {
+        "text": "Laments all the time about the pain. Inability to think clearly. Sleepless on account of indigestion",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Illusions of the senses; sobbing, crying, lamenting all the time about pain in affected parts; with hiccough. Mental depression and anxiety. Drowsiness on every attempt to study. Very forgetful. Dulness and inability to think clearly. Indisposition to study; to mental effort. Mind seems clearer; can think and study more clearly after a few doses of Mag. p. Persistent depression of spirits.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Laments all the time about pain, with hiccoughing. Has to scream out, with cramps in abdomen. Illusions of senses ; sobbing. Talking to herself constantly, or sitting still in moody silence, or carrying things from one place to another and then back again. θ Chorea. Brain troubles in children, with unconsciousness and convulsive symptoms. θ Cholera infantum.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "head": [
+      {
+        "text": "Vertigo on moving, falls forward on closing eyes, better walking in open air. Aches after mental labor, with chilliness; always better warmth (Sil). Sensation as if contents were liquid, as if parts of brain were changing places, as of a cap on head",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Headache: pains shooting, darting, stabbing, shifting; intermittent and paroxysmal. Headache: excruciating; spasmodic; neuralgic or rheumatic; always > by external application of warmth. Nervous headache, with sparks before eyes; diplopia. During the night, severe throbbing pressure on vertex, l. side, deep in brain. Dull headache, as if brain too heavy (after protracted mental effort). Headache > towards evening, but changes to a pressure above eyebrows, esp. r. Headache beginning in, or worst in occiput, and constant whilst attending school. Severe headache; face flushed, red; pain began in occiput, extended over whole head; sick at stomach; aches all over; 9 or 10 a.m. to 4 or 8 p.m. Pressive pain in head down through middle of brain. Pain through temples, top and back of head, with sensation of fulness, lying down. Sensation of a strong shock of electricity beginning in head and extending to all parts of body. Severe headache began in occiput on waking, extending over head, located over both eyes, with severe nausea, and terminated 5 p.m. in a pronounced chill. Severe pricking over head and forehead, as if rubbed with a fine brush (after becoming warm from eating). Pustules or large pimples (like blood-boils), with redness and rawness, appeared on r. side of scalp, but did not suppurate. Large, white, shining scales can be combed out in handfuls twenty times a day. Scalp feels rough like a grater, and the fine particles combed out feel like sand.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Neuralgic or rheumatic headaches : > from external application of warmth ; very excruciating, tendency to spasmodic symptoms ; shooting, stinging, shifting, intermittent or paroxysmal pains ; sparks before eyes ; diplopia ; more in young and strong persons. Headache since two weeks at 10 P. M., lasts all night. Attacks of severe headache, particularly after childbirth, at irregular intervals ; sudden flashes of pain in back part of head and neck, spreading all over head, involving eyes, with sudden flashes of pain like lightning through head ; > from hard pressure, rest and darkness ; frequently nausea ; crampy pains in abdomen and calves ; occasionally flying pains in limbs ; drawn feeling of eyelids ; after attacks dulness of head and intellect, forgetfulness, irritability.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Supraorbital pains; worse, right side; relieved by warmth applied externally. Increased lachrymation. Twitching of lids. Nystagmus strabismus, ptosis. Eyes hot, tired, vision blurred, colored lights before eyes",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Double vision (horizontal); sparks; rainbow colours; photophobia. Pupils contracted. Dark spots before eyes on attempting to read. Dull vision from weakness of optic nerve. Nystagmus; strabismus, spasmodic; ptosis, r. side. Twitching of lids. Neuralgia: supra-orbital or orbital; intermittent, darting, lightning-like pains, (or entirely) r. side, > by warmth, exquisitely sensitive to touch; with increased lachrymation. Itching and heat in lower l. lid.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Eyes sensitive to light, photophobia. Chromatopsia, spasmodic vision of sparks or rainbow colors ; diplopia. Dulness of vision from weakness of optic nerve. Pupils contracted. Increased lachrymation. Nystagmus ; strabismus ; spasmodic squinting ; ptosis. Twitching or spasms of eyelids. Headache, vertigo, etc., from optical defects. Pain in supraorbital nerve over right eye, < at 11 A. M. ; > by external warm applications. θ Neuralgia.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Severe neuralgic pain; worse behind right ear; worse, by going into cold air, and washing face and neck with cold water",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Nervous otalgia, intermittent and spasmodic; > by heat. Sharp intermittent pains behind r. ear, greatly by cold air or washing face in cold water.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Otalgia, purely nervous. Weakness of auditory nerve fibres causing deafness.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Toothache; better by heat and hot liquids. Ulceration of teeth, with swelling of glands of face, throat and neck and swelling of tongue. Complaints of teething children. Spasms without febrile symptoms",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Soreness and stiffness, especially right side; parts seem puffy, with chilliness, and aching all over",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Toothache; after going to bed; changes place rapidly; eating or drinking, esp. cold things, > by heat; teeth sensitive to touch or cold air. Severe pinching, stabbing, neuralgic pain over root of r. bicuspid; can be covered with point of finger; by cold, > by heat; could not brush teeth with cold water for months. Neuralgic pain in a filled tooth which had never ached before. Complaints of teething children; spasms during dentition, without febrile symptoms. Ulceration of teeth, with swelling of glands of face, throat, and neck, and swelling of tongue. Severe pain in decayed or filled teeth (in seven persons; three of them had to discontinue the proving and be treated by a dentist). Tongue: coated slightly yellow, crampy colic; clean or slight coating, with pain in stomach; coated white with diarrhœa; a bright red, rawness in mouth; coated heavily; coated white all over; sticky and coated a dirty yellow. L. side of tongue sore; biting, burning, smarting like a canker-sore; eating is painful. Taste as of sour bread; slightly bitter; as of bananas (a bit of one had been eaten the day before). Bad taste in mouth on waking; rawness in mouth; feels as if cankered; warm food seems hot and burning. Bad taste; food does not taste right; coffee tasteless; fulness in bowels; belching of gas. Sour taste on waking in night. Mouth very sore; eating difficult; sores red and raw-looking on inside of cheeks, gums, (l.) lips, tongue, not in corners of mouth; by touch, particles of food caused smarting and burning. Mouth feels scalded, or as if he had been smoking strong, hot cigars. Mouth coated with a sticky substance that rolls up in little shreds. Mouth full of water tasting like potato water. Taste of magnesia and chalk (after each powder of 200 and 1,000, the prover not knowing what she was taking). Spasmodic constriction of throat on attempting to swallow liquids, with sensation of choking. Throat very red and sore, muscles of r. side of neck esp. sore, must hold head to r. side, without >. Flow of mucus through posterior nares into throat; with sneezing and tingling in nose and on tongue. Sensation of a corn-husk lodged in upper part of throat, with constant inclination to swallow.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Toothache : rheumatic, neuralgic and shooting ; changes place rapidly ; teeth sensitive ; < after going to bed ; hot liquids ease pain. During dentition : spasms of children. Taste somewhat bitter, tongue slightly yellow. θ Colic. Spasmodic stammering. Clean tongue. θ Gastralgia. Spasmodic constriction of throat on attempting to swallow liquids, sensation of choking.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Hiccough, with retching day and night. Thirst for very cold drinks",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Enteralgia, relieved by pressure. Flatulent colic, forcing patient to bend double; relieved by rubbing, warmth, pressure; accompanied with belching of gas, which gives no relief. Bloated, full sensation in abdomen; must loosen clothing, walk about and constantly pass flatus. Constipation in rheumatic subjects due to flatulence and indigestion",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Appetite: small, with faceache; unusually good, but food disagreed, leaving an uncomfortable feeling all forenoon. Aversion to coffee. Acids taste stronger than usual. Appetite remains good, though food does not taste right. Spasmodic sobbing (like a hiccough) for three days, ceasing with the second dose in water. Hiccough thirty times a minute; for sixty days life in danger (Mag. p. soon restored health). Hiccough with retching day and night for three days; ejected matter was coagulated milk, bile and mucus, with great pain causing lamentations. Burning, tasteless eructations come on about three hours after eating in the evening; by physical exertion, > by drinking hot water; heartburn. Eructation of food tasting of injesta. Constant nausea. Bilious vomiting, at times streaked with blood. Nausea and vomiting attend headache and flatulent colic. Gastralgia: soreness and extreme sensitiveness of epigastrium to touch; some eructation and sour vomiting; at 12 every day; > by eating. (Cancer of stomach; intolerable burning pain; vomiting; hiccough. after Ars. failed, Mag. p. made the patient comfortable for six months.). Distension of stomach; very restless. Fulness after eating. Spasmodic pains in stomach, with clean tongue. Intense cutting, shooting, cramping pains in region of stomach and epigastrium, extending sometimes towards back and abdomen. Flatulent distension of stomach, with constrictive pain, > by warmth and bending double. A drink of cold water starts a colicky pain in stomach, which radiates to bowels, very severe, > by doubling up; by walking about; by rest; by belching. Sharp twinges in r. hypochondrium, on border of lower ribs. Constrictive, aching pain around body at lower margin of ribs, as of a lameness from lifting. Severe griping colic-pain, at times shooting up towards stomach, > by hot applications. Abdominal pains caused great restlessness; walked about hurriedly, said he must have relief; lying on stomach gave short relief, the pains compelled him to walk again. Abdominal muscles sore, with tendency to constipation. Colic: generally radiating from navel, > bending double, or from pressure with hand; often accompanied by a watery diarrhœa. Incarcerated flatulence. Cramps in abdomen, pains round navel and above it towards stomach, thence radiating to both sides, towards back; now violent cutting compelling screaming; then shooting and contracting, like a spasm; cannot bear to lie on back stretched out, must lie bent over. Swelling of r. abdomen over ascending colon; on lying down a marked ridge became prominent, painful on pressure, continued four weeks. Pain begins in bowels to r. of navel while walking in cold air, > warmth of room. Sharp, cutting pain in r. abdominal ring, as if hernia would protrude, > hard pressure. Sharp, burning pain in a spot about an inch in diameter. Bloated, full sensation in abdomen, must loosen clothing, sitting, > walking about. Much flatus in bowels, passing off freely on walking; after evening meal. (Cramps and wind-colic in horses; wind-colic of cattle, meteorism of cows).",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Mag. p.]. Little or no appetite. θ Faceache. θ Colic. θ Gressus gallinaceus. Eating and Drinking. Sweetened coffee lessens desire to stool, but has great aversion to coffee. θ Pain in stomach. Spasmodic hiccough of three days' duration (after failure of morphine, chloroform, etc.). Spasmodic hiccough day and night, with retching, what came up was coagulated milk, bile and slime, with great pain, she had to lament all the time. θ Colic. Obstinate singultus, causing long lasting soreness. θ Typhoid fever. Eructation lessens colic. Immediately after eating, sometimes while at table, spits up what he has eaten ; little or no nausea ; craves sugar. θ Persistent vomiting. Pains at pit of stomach, nipping, griping, pinching, with short belching of wind giving no relief. Spasms or cramp in stomach, with clean tongue, pain as if a band was tightly laced or drawn around body. Neuralgia of stomach. Left lobe of liver enlarged. Cramps in abdomen ; pains around navel and above it towards stomach, from there radiating to both sides towards back ; violent cutting pains, so that she has to scream out, then shooting and violently contracting ; > by bending double or by pressure with hand, external warmth and eructations ; cannot lie on back stretched out. Cramps and wind colic, often accompanied by watery diarrhœa. Colic : forcing patient to bend double, pain > by friction, warmth, or eructations ; remittent gripes, crampy pain. Flatulent colic forcing patient to bend double, > from rubbing, warmth, accompanied by belching of gas, which gives no relief. Flatulent colic of children and the new born, with drawing up of legs ; remittent colic, crampy pain with acidity. Daily attacks of colic in a child, generally at 3 or 4 P. M., lasting several hours. Pains spasmodic in stomach or bowels, griping, cutting, drawing, so as to bend body double, < on slightest muscular movement ; > from warmth. Meteorism, in cows.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menstrual colic. Membranous dysmenorrhœa. Menses too early, dark, stringy. Swelling of external parts. Ovarian neuralgia. Vaginismus",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Menstrual colic; pain precedes flow. Menses six to nine days too soon. With menses: great weakness; intensely sore, bruised feeling all through, abdomen, could hardly be up at all, but was much lying down. Labiæ swollen and at times intensely painful. Flow dark, fibrinous, stringy. Dysmenia; pains (cutting, drawing, pressing, cramping) severe, intermittent, r. side, > from heat; > by flow.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Ovarian neuralgia, pain shooting and darting like lightning ; < on right side. Menstrual colic, pain during or preceding flow ; vaginismus. PREGNANCY. PARTURITION. LACTATION. [24] [Mag. p.]. Spasmodic labor pains ; cramp in legs. Puerperal convulsions.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Asthmatic oppression of chest. Dry, tickling cough. Spasmodic cough, with difficulty in lying down. Whooping-cough (Corall). Voice hoarse, larynx sore and raw. Intercostal neuralgia",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Mag. p.]. Laryngismus stridulus or spasm of larynx ; constriction of chest ; stiffness of limbs. Spasmodic sobbing for three days. Spasmodic, nervous asthma. Spasmodic cough : at night, with difficulty in lying down ; in paroxysms ; without expectoration ; ending in a whoop. Violent spasmodic attacks of cough, recurring about ten times a day, during which face becomes blue and turgid. θ Whooping cough. Persistent semi-chronic cough of a pseudo-catarrhal, nervous character.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Angina pectoris. Nervous spasmodic palpitation. Constricting pains around heart",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Darting pains in chest, r. side; which radiate from pain in bowels. Oppression: desire to take deep breath; on first entering warm room, > after being in it a short time; walking.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Constriction of chest and throat, with spasmodic, dry, tickling cough. Angina pectoris ; neuralgic spasms. Nervous, spasmodic palpitation. Intercostal neuralgia, of a drawing, constrictive kind ; spasms from cold. An old lady had terrible pain from back under left scapula around to front and down to groin, constricted chest and affected breathing ; paroxysms brought on by lying down, had to sit upright. θ Intercostal neuralgia.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Chilliness after dinner, in evening. Chills run up and down the back, with shivering, followed by a suffocating sensation",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Chilly after dinner in evening, 7 p.m.; chills run up and down back, with shivering, wants more clothes. Chilliness, evening, when going from warm room into open air; shaking and chattering of teeth as with an ague chill; > entering warm room. A crop of boils took possession of him, terminating in a five weeks' attack of remittent fever. Severe chill 9 a.m.; lasts three hours; was compelled to go to bed, where he lay and shook; neither heat nor sweat followed. Creeping chills up and down spine, followed by suffocating sensation; must throw off covering; no thirst. Exhausted sensation compelled him to go to bed; chill for an hour, at end of which exhausted feeling passed off; cough and catarrhal symptoms followed chill; no fever. Bilious fever. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Intermittent fever with cramps in calves.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Involuntary shaking of hands. Paralysis agitans. Cramps in calves. Sciatica; feet very tender. Darting pains. Twitchings. Chorea. Writers' and players' cramp. Tetanic spasms. Weakness in arms and hands, finger-tips stiff and numb. General muscular weakness",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Shaking of hands, trembling ; alcoholism. Deficiency in locomotive power, from nervous causes. Sciatica, with excruciating spasmodic pains. Pains settled in right leg from hip to ankle, < in joints ; pain shifts its place, is often lightning-like, shooting, intermits, renders necessary a change of position, and is > by warmth of bed ; patient is in despair ; thinks he has tetanus and that he must die ; is unable to leave bed. Every night neuralgia, now in lower limbs, in tibia or in thighs, now in left, now in right side, mostly with spasmodic muscular contractions ; during day perfectly well. Cramps in calves. θ Intermittent. θ Cholera. Gressus gallinaceus. Violent pains in acute rheumatism of joints. Pains in limbs, neuralgic, rheumatic, very vivid, darting about, shifting and remittent. Every night neuralgia, now in lower limbs, in tibia or in thighs, now in left, now in right side, mostly with spasmodic muscular contractions ; during day perfectly well.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "warmth, bending double, pressure, friction",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "right side, cold, touch, night",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Mag. p.]. Rest : lightning-like pains in head >. Lying down : causes pain from back under scapula. Difficulty in lying down : cough. Cannot lie on back stretched out : pain in abdomen. Thumbs drawn in, fingers clenched : convulsions. Bending double : pain in abdomen > ; crampy pain >. Must sit upright : intercostal neuralgia. Must change position : severe pain in limbs. Motion : the least, brings on pain in tic douloureux ; trembling of limbs <. Slightest muscular movement : pain in abdomen <. Changes place : neuralgic pain. Cannot keep feet still : itching. Driving out of bed : pain in face. Morning : spasms, early. At 10 A. M. : pain in face ceases. At 11 A. M. : pain over eye <. Day and night : spasmodic hiccough. Evening : itching of feet ; headache, 10 P. M., lasting all night. Night : restless sleep ; enuresis ; spasmodic cough ; neuralgia. Warmth : neuralgia or rheumatism > ; pain over eye > ; prosopalgia > ; pain in abdomen > ; crampy pain >. Hot liquids : ease toothache. Exposure to North wind : neuralgia. When body is cold : prosopalgia <. After washing and standing in cold water, crampy colic.",
+          "source_id": "hering-guiding-1879"
+        }
+      ]
+    },
+    "relationships": {
+      "antidoted_by": [
+        "Bell",
+        "Gels",
+        "Lach"
+      ],
+      "_raw": [
+        "Antidoted by: Bell., Gels., Lach. (cough). Compare: Cham. (vegetable analogue; but Cham. has from heat). Shifting pains, Puls., Lac c. Neuralgia recurring violently every night, > warmth, Ars. Dysmenorrhœa, Caul., Act. r., Xanthox., Cact., Lil. t., Col. Colic > bending double, Col. > From hot drinks, Lyc. Meteorism, Lyc. Hydroa, cracks on lips, Nat. m. Headache from occiput to eye > warmth, Sil. Chemical relatives: Mag. c., Mag. m., Mag. s. Horizontal double vision, Gels. Neuralgia from standing in cold water, Calc. Spasms during dentition, Bell. (Bell. has fever, Mag. p. not). Dysmenia, Puls. (Puls. by heat, Mag. p. >).",
+        "Compare : Arsen. (nightly neuralgic pains, > from warmth ; Magn. phos. sometimes acts better when given in hot water) ; Zincum (action on nervous system)",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "dosing": {
+      "notes": "First to twelfth potency. Sometimes the highest potencies are preferable. Acts especially well, given in hot water"
+    },
     "generalities": [
       {
         "text": "Clinical: Catheterism; Chorea; Colic; Convulsions; Cough; Cracks; Cramps; Dentition; Dysmenorrhœa; Headache; Intercostal neuralgia; Locomotor ataxy; Membranous dysmenorrhœa; Meningitis; Menstruation, painful; Neuralgia; Rectum, prolapse of; School-headache; Sciatica; Stomach, cancer of; Sobbing, spasmodic; Tic-douloureux; Toothache; Vaginismus; Whooping-cough; Writer's cramp",
@@ -279,54 +478,6 @@
       },
       {
         "text": "Neuralgia appearing at intervals, > by warmth. At times pains in head, teeth, face and limbs ; again cramps in stomach, and flatulent colic ; at other times tormenting, spasmodic cough, day and night, together with retention of urine, sleeplessness ; different disorders every day ; cannot leave bed. θ Nervous affection. After catching cold, pain in back ; dorsal vertebræ from third to fifth very sensitive to pressure ; violent trembling of right foot and especially of right arm, < from motion. θ Nervous ailment. For three days, spasmodic, convulsive sobbing in a man ; lies in bed. Spasms, with contraction of fingers, and staring, open eyes, lasting from a quarter to a half hour ; during intervals spasmodic cough. Convulsions, with stiffness of limbs or body, thumbs drawn in, fingers clenched. After spasm, excessive sensitiveness to every impression of senses, even to touch, and especially to noise ; look of suspicion and fear ; easily agitated ; spasm in early morning. θ Infantile convulsions. Convulsions and cramps during dentition, without fever ; convulsive symptoms after failure of Bellad. Writer's, piano or violin player's cramp. Spasms from idiopathic affections of motory nerves. Choleraic cramps. Spasmodic muscular contraction with neuralgia. Tonic spasms, trismus ; tetanus. Twitching all over body during waking hours, > during sleep ; walked fairly well and could feed herself ; speech very defective, meaning of her utterances a matter of pure conjecture ; heart's action accelerated, no abnormal sound, later a presystolic blowing sound, as if muscular fibres of heart participated in general spasms ; pupils symmetrically dilated ; scared expression. θ Chorea. Face and upper part of body affected, lateral and downward jerking of mouth, snapping of eyelids, sudden forward motion of head, and other irregular movements ; > during sleep ; < at stool and by emotions. θ Chorea. Chorea, involuntary movements and contortions of limbs, with mute, appealing look for sympathy. Epileptic fits : spasm, stiffness of limbs, clenched fists or teeth ; from local irritation of nerves, when an overexcited, not depressed condition of nerves exists ; sometimes result of vicious habits ; muscular contractions, twitchings and spasms. Neuralgic pains in any part, darting or shooting along nerve. Trembling, involuntary shaking of hands, limbs or head. Palsy, paralysis agitans. Pains at intervals, occurring in spells : colic ; neuralgia. Every three or four minutes : passes large quantity of urine. Lasting from a quarter to a half hour : spasms. Every half hour : stools. Every two or three hours : faceache. Ten times a day : spasmodic cough. Every day : attacks of colic from 3 to 4 P. M., lasting several hours ; child takes six to eight bottles ; different disorders. Every evening : for two weeks, at 10 P. M., headache. Every night : neuralgia in lower limbs. For three days : spasmodic hiccough ; spasmodic sobbing. Every twenty-three days : spasms of fifteen to thirty minutes' duration. Right : pain over eye ; prosopalgia < ; boring over eye, then to jaw ; ovarian neuralgia ; pains settled in leg, < in joints ; trembling of foot and arm. Left : neuralgia in face ; prosopalgia on side of head to nape ; lobe of liver enlarged ; pain under scapula. Changing place rapidly : toothache, neuralgia. Now right, now left : neuralgia. Radiating pain : in abdomen. Quick, shooting, stitching pains which come at intervals and change place. Neuralgic pains shooting like lightning or boring, often with a feeling as if laced or drawn together, changing place often, > by warmth or pressure. As if choking ; as if a band was tightly laced or drawn around body ; as if muscles of urethra did not contract ; as if muscular fibres of heart participated in general spasm. Pain : in supraorbital nerve over right eye ; in stomach ; around navel and above it towards stomach and to back ; in right leg from hip to ankle ; in limbs ; in head, teeth, face and limbs ; in back. Maddening pain : in whole left side of head ; back to nape of neck. Excruciating pain : in headache ; neuralgia ; sciatica. Terrible pain : from back, under left scapula to front and down to groin. Violent pains : in acute rheumatism of joints. Great pain : with retching. Violent cutting : in abdomen. Shooting, stinging : in head. Violent shooting burning : in urethra. Vivid darting : in limbs. Acute, boring, darting, neuralgic pains : in any part of back. Severe crampy, shooting, darting pains : in face ; in hemorrhoids ; in right ovary. Sharp, shooting, boring : in nape of neck. Violently contracting pains : in abdomen. Griping, cutting, drawing pains : in bowels. Lightning-like pains : along course of nerves ; in face ; in hemorrhoids. Flying pains : in limbs. Shifting pain : in back. Sudden flashes of pain : in back part of head and neck. Lancinating pain : in face. Shooting pains : in teeth ; in abdomen. Nipping, griping pain : at pit of stomach. Boring : over right eye to lower jaw. Pinching : in stomach ; from navel to back. Neuralgia : in head ; in right side of face ; on left side of face ; in teeth ; of stomach ; of right ovary ; intercostal. Rheumatic pain : in head ; in teeth. Cramps : in abdomen ; in stomach ; in calves ; in legs. Spasmodic pains : in stomach and bowels ; labor pains. Soreness : caused by singultus. Constriction : of chest. Drawn feeling : of eyelids. Dulness : of head. Stiffness : of limbs ; of body. Spasmodic constriction : of throat. Pricking : all over him, < about ankles, knees and elbows. Itching : on feet. Nutrition and function remedy for the nerve tissues. Bad effects from injurious stimulants having acted on sound nerve tissue. Nervous asthma from primary irritation of affected nerves ; spasm of glottis ; tetanus ; lockjaw ; cramps of calves ; St. Vitus' dance ; convulsions, etc. TOUCH. PASSIVE MOTION. INJURIES. [45] [Mag. p.]. Touch : of maxillaris inferior caused pain in supraorbitalis ; slightest, in any part of affected nerves < pains. Pressure : with hand > pain in abdomen ; back very sensitive. Hard pressure : lightning-like pain >. Friction : > pain in abdomen. Scratching : causes rash to turn red. More suitable for young and very strong persons ; teething children. Baby, daily colic, generally 3 to 4 P. M. Child, æt. 10 months ; whooping cough. Colored child, æt. 15 months, teething ; convulsions. Child, teething, mother died of diabetes ; profuse and frequent urination. Child, æt. 6, suffering eight months ; chorea. Boy, æt. 10 ; persistent vomiting. Girl, æt. 13, since six years, every two or three days ; spasms. Girl, æt. 13, delicate, slender growth, attacks every twenty-three days, suffering six years ; spasms. Woman, æt. 20, weakly, suffered much from scrofula during childhood ; nervous ailment. Miss S., æt. 20, brunette, tall and slender, nervo-bilious temperament, typographer ; facial neuralgia. Miss B., æt. 22, dark complexion, nervous temperament, slight build, suffering three days, massive doses of Bromide of Potash and Chloral Hydrate, without relief ; facial neuralgia. Miss S., æt. 24, dark complexion, nervous temperament, clerk, suffering two weeks, morphia brought no relief ; facial neuralgia. Woman, æt. 26, nervous temperament ; nervous affection. Woman, æt. 28, nervo-bilious temperament, fleshy, healthy ; neuralgic headache, particularly after childbirth. Woman, æt. 30, hectic appearance ; facial neuralgia. Woman, æt. 31, suffering thirteen years ; chorea. Woman, æt. 36, healthy appearance, suffering several weeks ; faceache. Woman ; tic douloureux. Woman, æt. 40, single ; facial neuralgia. Woman, æt. 42, hectic appearance ; catamenia scanty, often omitting ; faceache. Woman, æt. 60 ; colic after standing in cold water. Woman, æt. 60 ; since six years, neuralgia. An old lady ; intercostal neuralgia. Man, æt. 69, suffering some weeks ; pains in limbs. A little, lean man, æt. 70 ; since three years a discharge from urethra.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "relationships": {
-      "_raw": [
-        "Antidoted by: Bell., Gels., Lach. (cough). Compare: Cham. (vegetable analogue; but Cham. has from heat). Shifting pains, Puls., Lac c. Neuralgia recurring violently every night, > warmth, Ars. Dysmenorrhœa, Caul., Act. r., Xanthox., Cact., Lil. t., Col. Colic > bending double, Col. > From hot drinks, Lyc. Meteorism, Lyc. Hydroa, cracks on lips, Nat. m. Headache from occiput to eye > warmth, Sil. Chemical relatives: Mag. c., Mag. m., Mag. s. Horizontal double vision, Gels. Neuralgia from standing in cold water, Calc. Spasms during dentition, Bell. (Bell. has fever, Mag. p. not). Dysmenia, Puls. (Puls. by heat, Mag. p. >).",
-        "Compare : Arsen. (nightly neuralgic pains, > from warmth ; Magn. phos. sometimes acts better when given in hot water) ; Zincum (action on nervous system)",
-        "Copyright © Médi-T ® 2002",
-        "Main"
-      ]
-    },
-    "mental_emotional": [
-      {
-        "text": "Illusions of the senses; sobbing, crying, lamenting all the time about pain in affected parts; with hiccough. Mental depression and anxiety. Drowsiness on every attempt to study. Very forgetful. Dulness and inability to think clearly. Indisposition to study; to mental effort. Mind seems clearer; can think and study more clearly after a few doses of Mag. p. Persistent depression of spirits.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Laments all the time about pain, with hiccoughing. Has to scream out, with cramps in abdomen. Illusions of senses ; sobbing. Talking to herself constantly, or sitting still in moody silence, or carrying things from one place to another and then back again. θ Chorea. Brain troubles in children, with unconsciousness and convulsive symptoms. θ Cholera infantum.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "head": [
-      {
-        "text": "Headache: pains shooting, darting, stabbing, shifting; intermittent and paroxysmal. Headache: excruciating; spasmodic; neuralgic or rheumatic; always > by external application of warmth. Nervous headache, with sparks before eyes; diplopia. During the night, severe throbbing pressure on vertex, l. side, deep in brain. Dull headache, as if brain too heavy (after protracted mental effort). Headache > towards evening, but changes to a pressure above eyebrows, esp. r. Headache beginning in, or worst in occiput, and constant whilst attending school. Severe headache; face flushed, red; pain began in occiput, extended over whole head; sick at stomach; aches all over; 9 or 10 a.m. to 4 or 8 p.m. Pressive pain in head down through middle of brain. Pain through temples, top and back of head, with sensation of fulness, lying down. Sensation of a strong shock of electricity beginning in head and extending to all parts of body. Severe headache began in occiput on waking, extending over head, located over both eyes, with severe nausea, and terminated 5 p.m. in a pronounced chill. Severe pricking over head and forehead, as if rubbed with a fine brush (after becoming warm from eating). Pustules or large pimples (like blood-boils), with redness and rawness, appeared on r. side of scalp, but did not suppurate. Large, white, shining scales can be combed out in handfuls twenty times a day. Scalp feels rough like a grater, and the fine particles combed out feel like sand.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Neuralgic or rheumatic headaches : > from external application of warmth ; very excruciating, tendency to spasmodic symptoms ; shooting, stinging, shifting, intermittent or paroxysmal pains ; sparks before eyes ; diplopia ; more in young and strong persons. Headache since two weeks at 10 P. M., lasts all night. Attacks of severe headache, particularly after childbirth, at irregular intervals ; sudden flashes of pain in back part of head and neck, spreading all over head, involving eyes, with sudden flashes of pain like lightning through head ; > from hard pressure, rest and darkness ; frequently nausea ; crampy pains in abdomen and calves ; occasionally flying pains in limbs ; drawn feeling of eyelids ; after attacks dulness of head and intellect, forgetfulness, irritability.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "eyes": [
-      {
-        "text": "Double vision (horizontal); sparks; rainbow colours; photophobia. Pupils contracted. Dark spots before eyes on attempting to read. Dull vision from weakness of optic nerve. Nystagmus; strabismus, spasmodic; ptosis, r. side. Twitching of lids. Neuralgia: supra-orbital or orbital; intermittent, darting, lightning-like pains, (or entirely) r. side, > by warmth, exquisitely sensitive to touch; with increased lachrymation. Itching and heat in lower l. lid.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Eyes sensitive to light, photophobia. Chromatopsia, spasmodic vision of sparks or rainbow colors ; diplopia. Dulness of vision from weakness of optic nerve. Pupils contracted. Increased lachrymation. Nystagmus ; strabismus ; spasmodic squinting ; ptosis. Twitching or spasms of eyelids. Headache, vertigo, etc., from optical defects. Pain in supraorbital nerve over right eye, < at 11 A. M. ; > by external warm applications. θ Neuralgia.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "ears": [
-      {
-        "text": "Nervous otalgia, intermittent and spasmodic; > by heat. Sharp intermittent pains behind r. ear, greatly by cold air or washing face in cold water.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Otalgia, purely nervous. Weakness of auditory nerve fibres causing deafness.",
         "source_id": "hering-guiding-1879"
       }
     ],
@@ -347,26 +498,6 @@
       },
       {
         "text": "Face distorted from pain and weakness. θ Colic. Prosopalgia, supra and infraorbital nerves involved ; pains shoot about like lightning along course of nerves, always > from warmth, < on right side and when body gets cold ; teeth sensitive. Tic douloureux ; pain, especially in supraorbital branch, extended sometimes to ramus mentalis of maxillaris inferior ; a touch at latter caused pain in supraorbitalis ; the slightest touch in any part of affected nerves renewed painful paroxysm. Boring over right eye, spreading after a few minutes over whole right side of head to lower jaw, driving out of bed. Right side of face and supraorbital region swollen ; severe crampy, shooting, darting pains ; much tenderness over affected side ; pains intermittent in character, and seem to affect different parts of head and face on different days ; much prostration. Neuralgia on right side of face and toothache, changing location frequently, returning every two or three hours, rushes about like lightning. Neuralgia of face, commencing over right eye and extending in a few minutes over whole right side of face ; must get out of bed ; towards ten o'clock pain ceases. Neuralgia from exposure to a strong North wind ; patient in bed, almost frantic with pain, flushed face, injected eyes and a high degree of photophobia ; pain left sided, involving supramaxillary portion of trigeminus, lancinating, crampy, darting and shooting, extorting cries. After catching cold severe trouble in ear, followed by prosopalgia, on left side, affecting lower maxillary bone, also frontal, and involving whole of left side of head, back to nape of neck ; pain maddening ; high fever and sleeplessness. Convulsive twitching of corners of mouth. Yawning, with excessive spasmodic straining of lower jaw. Trismus ; lockjaw.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "mouth_throat": [
-      {
-        "text": "Toothache; after going to bed; changes place rapidly; eating or drinking, esp. cold things, > by heat; teeth sensitive to touch or cold air. Severe pinching, stabbing, neuralgic pain over root of r. bicuspid; can be covered with point of finger; by cold, > by heat; could not brush teeth with cold water for months. Neuralgic pain in a filled tooth which had never ached before. Complaints of teething children; spasms during dentition, without febrile symptoms. Ulceration of teeth, with swelling of glands of face, throat, and neck, and swelling of tongue. Severe pain in decayed or filled teeth (in seven persons; three of them had to discontinue the proving and be treated by a dentist). Tongue: coated slightly yellow, crampy colic; clean or slight coating, with pain in stomach; coated white with diarrhœa; a bright red, rawness in mouth; coated heavily; coated white all over; sticky and coated a dirty yellow. L. side of tongue sore; biting, burning, smarting like a canker-sore; eating is painful. Taste as of sour bread; slightly bitter; as of bananas (a bit of one had been eaten the day before). Bad taste in mouth on waking; rawness in mouth; feels as if cankered; warm food seems hot and burning. Bad taste; food does not taste right; coffee tasteless; fulness in bowels; belching of gas. Sour taste on waking in night. Mouth very sore; eating difficult; sores red and raw-looking on inside of cheeks, gums, (l.) lips, tongue, not in corners of mouth; by touch, particles of food caused smarting and burning. Mouth feels scalded, or as if he had been smoking strong, hot cigars. Mouth coated with a sticky substance that rolls up in little shreds. Mouth full of water tasting like potato water. Taste of magnesia and chalk (after each powder of 200 and 1,000, the prover not knowing what she was taking). Spasmodic constriction of throat on attempting to swallow liquids, with sensation of choking. Throat very red and sore, muscles of r. side of neck esp. sore, must hold head to r. side, without >. Flow of mucus through posterior nares into throat; with sneezing and tingling in nose and on tongue. Sensation of a corn-husk lodged in upper part of throat, with constant inclination to swallow.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Toothache : rheumatic, neuralgic and shooting ; changes place rapidly ; teeth sensitive ; < after going to bed ; hot liquids ease pain. During dentition : spasms of children. Taste somewhat bitter, tongue slightly yellow. θ Colic. Spasmodic stammering. Clean tongue. θ Gastralgia. Spasmodic constriction of throat on attempting to swallow liquids, sensation of choking.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "stomach_abdomen": [
-      {
-        "text": "Appetite: small, with faceache; unusually good, but food disagreed, leaving an uncomfortable feeling all forenoon. Aversion to coffee. Acids taste stronger than usual. Appetite remains good, though food does not taste right. Spasmodic sobbing (like a hiccough) for three days, ceasing with the second dose in water. Hiccough thirty times a minute; for sixty days life in danger (Mag. p. soon restored health). Hiccough with retching day and night for three days; ejected matter was coagulated milk, bile and mucus, with great pain causing lamentations. Burning, tasteless eructations come on about three hours after eating in the evening; by physical exertion, > by drinking hot water; heartburn. Eructation of food tasting of injesta. Constant nausea. Bilious vomiting, at times streaked with blood. Nausea and vomiting attend headache and flatulent colic. Gastralgia: soreness and extreme sensitiveness of epigastrium to touch; some eructation and sour vomiting; at 12 every day; > by eating. (Cancer of stomach; intolerable burning pain; vomiting; hiccough. after Ars. failed, Mag. p. made the patient comfortable for six months.). Distension of stomach; very restless. Fulness after eating. Spasmodic pains in stomach, with clean tongue. Intense cutting, shooting, cramping pains in region of stomach and epigastrium, extending sometimes towards back and abdomen. Flatulent distension of stomach, with constrictive pain, > by warmth and bending double. A drink of cold water starts a colicky pain in stomach, which radiates to bowels, very severe, > by doubling up; by walking about; by rest; by belching. Sharp twinges in r. hypochondrium, on border of lower ribs. Constrictive, aching pain around body at lower margin of ribs, as of a lameness from lifting. Severe griping colic-pain, at times shooting up towards stomach, > by hot applications. Abdominal pains caused great restlessness; walked about hurriedly, said he must have relief; lying on stomach gave short relief, the pains compelled him to walk again. Abdominal muscles sore, with tendency to constipation. Colic: generally radiating from navel, > bending double, or from pressure with hand; often accompanied by a watery diarrhœa. Incarcerated flatulence. Cramps in abdomen, pains round navel and above it towards stomach, thence radiating to both sides, towards back; now violent cutting compelling screaming; then shooting and contracting, like a spasm; cannot bear to lie on back stretched out, must lie bent over. Swelling of r. abdomen over ascending colon; on lying down a marked ridge became prominent, painful on pressure, continued four weeks. Pain begins in bowels to r. of navel while walking in cold air, > warmth of room. Sharp, cutting pain in r. abdominal ring, as if hernia would protrude, > hard pressure. Sharp, burning pain in a spot about an inch in diameter. Bloated, full sensation in abdomen, must loosen clothing, sitting, > walking about. Much flatus in bowels, passing off freely on walking; after evening meal. (Cramps and wind-colic in horses; wind-colic of cattle, meteorism of cows).",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Mag. p.]. Little or no appetite. θ Faceache. θ Colic. θ Gressus gallinaceus. Eating and Drinking. Sweetened coffee lessens desire to stool, but has great aversion to coffee. θ Pain in stomach. Spasmodic hiccough of three days' duration (after failure of morphine, chloroform, etc.). Spasmodic hiccough day and night, with retching, what came up was coagulated milk, bile and slime, with great pain, she had to lament all the time. θ Colic. Obstinate singultus, causing long lasting soreness. θ Typhoid fever. Eructation lessens colic. Immediately after eating, sometimes while at table, spits up what he has eaten ; little or no nausea ; craves sugar. θ Persistent vomiting. Pains at pit of stomach, nipping, griping, pinching, with short belching of wind giving no relief. Spasms or cramp in stomach, with clean tongue, pain as if a band was tightly laced or drawn around body. Neuralgia of stomach. Left lobe of liver enlarged. Cramps in abdomen ; pains around navel and above it towards stomach, from there radiating to both sides towards back ; violent cutting pains, so that she has to scream out, then shooting and violently contracting ; > by bending double or by pressure with hand, external warmth and eructations ; cannot lie on back stretched out. Cramps and wind colic, often accompanied by watery diarrhœa. Colic : forcing patient to bend double, pain > by friction, warmth, or eructations ; remittent gripes, crampy pain. Flatulent colic forcing patient to bend double, > from rubbing, warmth, accompanied by belching of gas, which gives no relief. Flatulent colic of children and the new born, with drawing up of legs ; remittent colic, crampy pain with acidity. Daily attacks of colic in a child, generally at 3 or 4 P. M., lasting several hours. Pains spasmodic in stomach or bowels, griping, cutting, drawing, so as to bend body double, < on slightest muscular movement ; > from warmth. Meteorism, in cows.",
         "source_id": "hering-guiding-1879"
       }
     ],
@@ -394,26 +525,6 @@
       {
         "text": "Almost constant sexual desire since beginning of proving, with no bad effects from indulgence (which is unusual with the prover).",
         "source_id": "clarke-dictionary-1900"
-      }
-    ],
-    "female": [
-      {
-        "text": "Menstrual colic; pain precedes flow. Menses six to nine days too soon. With menses: great weakness; intensely sore, bruised feeling all through, abdomen, could hardly be up at all, but was much lying down. Labiæ swollen and at times intensely painful. Flow dark, fibrinous, stringy. Dysmenia; pains (cutting, drawing, pressing, cramping) severe, intermittent, r. side, > from heat; > by flow.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Ovarian neuralgia, pain shooting and darting like lightning ; < on right side. Menstrual colic, pain during or preceding flow ; vaginismus. PREGNANCY. PARTURITION. LACTATION. [24] [Mag. p.]. Spasmodic labor pains ; cramp in legs. Puerperal convulsions.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "chest_heart": [
-      {
-        "text": "Darting pains in chest, r. side; which radiate from pain in bowels. Oppression: desire to take deep breath; on first entering warm room, > after being in it a short time; walking.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Constriction of chest and throat, with spasmodic, dry, tickling cough. Angina pectoris ; neuralgic spasms. Nervous, spasmodic palpitation. Intercostal neuralgia, of a drawing, constrictive kind ; spasms from cold. An old lady had terrible pain from back under left scapula around to front and down to groin, constricted chest and affected breathing ; paroxysms brought on by lying down, had to sit upright. θ Intercostal neuralgia.",
-        "source_id": "hering-guiding-1879"
       }
     ],
     "back": [
@@ -445,40 +556,13 @@
         "text": "Spasmodic yawning. Insomnia from exhaustion or lack of brain nutrition.",
         "source_id": "hering-guiding-1879"
       }
-    ],
-    "fever_chill": [
-      {
-        "text": "Chilly after dinner in evening, 7 p.m.; chills run up and down back, with shivering, wants more clothes. Chilliness, evening, when going from warm room into open air; shaking and chattering of teeth as with an ague chill; > entering warm room. A crop of boils took possession of him, terminating in a five weeks' attack of remittent fever. Severe chill 9 a.m.; lasts three hours; was compelled to go to bed, where he lay and shook; neither heat nor sweat followed. Creeping chills up and down spine, followed by suffocating sensation; must throw off covering; no thirst. Exhausted sensation compelled him to go to bed; chill for an hour, at end of which exhausted feeling passed off; cough and catarrhal symptoms followed chill; no fever. Bilious fever. Copyright © Médi-T ® 2000 Main.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Intermittent fever with cramps in calves.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "respiratory": [
-      {
-        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Mag. p.]. Laryngismus stridulus or spasm of larynx ; constriction of chest ; stiffness of limbs. Spasmodic sobbing for three days. Spasmodic, nervous asthma. Spasmodic cough : at night, with difficulty in lying down ; in paroxysms ; without expectoration ; ending in a whoop. Violent spasmodic attacks of cough, recurring about ten times a day, during which face becomes blue and turgid. θ Whooping cough. Persistent semi-chronic cough of a pseudo-catarrhal, nervous character.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "extremities": [
-      {
-        "text": "Shaking of hands, trembling ; alcoholism. Deficiency in locomotive power, from nervous causes. Sciatica, with excruciating spasmodic pains. Pains settled in right leg from hip to ankle, < in joints ; pain shifts its place, is often lightning-like, shooting, intermits, renders necessary a change of position, and is > by warmth of bed ; patient is in despair ; thinks he has tetanus and that he must die ; is unable to leave bed. Every night neuralgia, now in lower limbs, in tibia or in thighs, now in left, now in right side, mostly with spasmodic muscular contractions ; during day perfectly well. Cramps in calves. θ Intermittent. θ Cholera. Gressus gallinaceus. Violent pains in acute rheumatism of joints. Pains in limbs, neuralgic, rheumatic, very vivid, darting about, shifting and remittent. Every night neuralgia, now in lower limbs, in tibia or in thighs, now in left, now in right side, mostly with spasmodic muscular contractions ; during day perfectly well.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "modalities": [
-      {
-        "text": "REST. POSITION. MOTION. [35] [Mag. p.]. Rest : lightning-like pains in head >. Lying down : causes pain from back under scapula. Difficulty in lying down : cough. Cannot lie on back stretched out : pain in abdomen. Thumbs drawn in, fingers clenched : convulsions. Bending double : pain in abdomen > ; crampy pain >. Must sit upright : intercostal neuralgia. Must change position : severe pain in limbs. Motion : the least, brings on pain in tic douloureux ; trembling of limbs <. Slightest muscular movement : pain in abdomen <. Changes place : neuralgic pain. Cannot keep feet still : itching. Driving out of bed : pain in face. Morning : spasms, early. At 10 A. M. : pain in face ceases. At 11 A. M. : pain over eye <. Day and night : spasmodic hiccough. Evening : itching of feet ; headache, 10 P. M., lasting all night. Night : restless sleep ; enuresis ; spasmodic cough ; neuralgia. Warmth : neuralgia or rheumatism > ; pain over eye > ; prosopalgia > ; pain in abdomen > ; crampy pain >. Hot liquids : ease toothache. Exposure to North wind : neuralgia. When body is cold : prosopalgia <. After washing and standing in cold water, crampy colic.",
-        "source_id": "hering-guiding-1879"
-      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "allen-keynotes-1899",
+      "boericke-1927",
       "clarke-dictionary-1900",
       "hering-guiding-1879",
       "kent-lectures-1905",

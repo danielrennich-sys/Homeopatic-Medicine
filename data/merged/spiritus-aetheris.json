@@ -1,12 +1,17 @@
 {
   "id": "spiritus-aetheris",
   "names": {
-    "primary": "Spiritus Aetheris Nitrosi",
-    "latin": "Spiritus Aetheris Nitrosi",
+    "primary": "Spiritus Aetheris",
+    "latin": "Spiritus Aetheris",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Spiritus Aetheris Nitrosi"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

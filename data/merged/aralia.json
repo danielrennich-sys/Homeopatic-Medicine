@@ -1,12 +1,15 @@
 {
   "id": "aralia",
   "names": {
-    "primary": "ARALIA",
-    "latin": "ARALIA",
+    "primary": "Aralia",
+    "latin": "Aralia",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

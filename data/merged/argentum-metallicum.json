@@ -8,12 +8,13 @@
     ],
     "synonyms": [
       "Argentum Metallicum. The Metal. (Pure Silver)",
-      "ARGENTUM METALLICUM",
-      "ARGENTUM METALLICUM. (PURE METALLIC SILVER)",
-      "Argentum metallicum"
+      "ARGENTUM METALLICUM. (PURE METALLIC SILVER)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -690,6 +691,12 @@
         {
           "text": "from touch, toward noon",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Arg. m.]. At rest : pain in limbs of all sorts, < ; pressing, squeezing, below right axilla. Forced to lie down from weariness. Lying low with head. Worse lying on her back. θ Palpitation. Lying : on back brings on attack of palpitation or increases it, also twitching of cardiac muscles. Sitting : pains in back and limbs increase ; pains in knees. Standing : pain in knee ; cutting in leg ; crawlings over body. Motion : paralytic weakness ; much inclined to move, feels as if she had more power ; pains in menorrhagia ; bruised pain in back, loins and neck <. Rising from sitting : pressure in abdomen > ; weariness. Walking : after moderate walking, sore ; has to walk bent forward ; dizzy coming in warm room after a walk ; stitches in hip ; muscles over trochanter sprained ; thighs give out ; knees knock ; sore nates. Stooping : mucus in air passages ; stitches in left ribs. Ascending stairs : mucus in larynx. Descending : joints weak, sore. Sudden exertion : palpitation ; knees pain. Many complaints < at noon. Chill at 12, noon. Day : cough rattling. In morning : weary in all limbs ; sneezing ; mucus in throat ; pulse slower ; hips stiff ; nausea. In forenoon : out of humor ; heat. At 1 P. M. : pain from larynx through head. Afternoon : nosebleed ; gastric symptoms ; vomiting with stool ; pains in joints ; chill. Evening : mind depressed, sad ; pains in limbs ; crushed pain in testes ; two tones in larynx while inspiring ; hoarse reading ; pulse increased. Night ; profuse urine ; palpitation. Day and evening : expectoration. Before midnight : vertigo, seems as if head was falling out of bed ; chill. After midnight : sweat. Remission of complaints evening and night. Night half and day half like 3 to 4. Evening half and morning half like 5 to 3. Averse to uncovering. Open air : tearing in skull > ; cough >. After effects of sunstroke. Entering a room after a walk : dizzy. In room : cough rattling.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

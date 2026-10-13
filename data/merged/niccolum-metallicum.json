@@ -1,14 +1,17 @@
 {
   "id": "niccolum-metallicum",
   "names": {
-    "primary": "NICCOLUM METALLICUM",
-    "latin": "NICCOLUM METALLICUM",
+    "primary": "Niccolum Metallicum",
+    "latin": "Niccolum Metallicum",
     "common": [
       "Metallic Nickel (NICCOLUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

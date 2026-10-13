@@ -1,16 +1,19 @@
 {
   "id": "severity-grading",
   "names": {
-    "primary": "Severity Grading In Drug Induced Liver Injury",
-    "latin": "Severity Grading In Drug Induced Liver Injury",
+    "primary": "Severity Grading",
+    "latin": "Severity Grading",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Severity Grading In Drug Induced Liver Injury"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {},
   "evidence": {
-    "summary": "",
-    "documented_adverse_effects": [],
     "hepatotoxicity": [
       {
         "section": "LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet].",

@@ -8,11 +8,13 @@
     ],
     "synonyms": [
       "OLEUM ANIMALE AETHEREUM",
-      "Oleum Animale. (Oleum Animale Æthereum.)",
-      "Oleum animale"
+      "Oleum Animale. (Oleum Animale Æthereum.)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -201,6 +203,12 @@
         {
           "text": "after eating, from 2 to 9 pm",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Ol. an.]. Raising head : cracking of vertebræ. Standing : darting in mamma. Stooping : painful dizziness. Sitting : pain in back. Morning : painful dizziness. Choking and constriction of throat. Afternoon : mistiness when writing ; burning about root of penis. Evening : choking and constriction of throat ; tingling in one spot of sole. Open air : painful dizziness ; burning of eyes ; walk in open air ; coldness of left leg. On entering room : as if blood were rushing to occiput.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

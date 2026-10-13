@@ -1,17 +1,21 @@
 {
   "id": "antimonium-sulphuratum",
   "names": {
-    "primary": "ANTIMONIUM SULPHURATUM AURATUM",
-    "latin": "ANTIMONIUM SULPHURATUM AURATUM",
+    "primary": "Antimonium Sulphuratum",
+    "latin": "Antimonium Sulphuratum",
     "common": [
       "Golden Sulphuret of Antimony"
     ],
     "synonyms": [
+      "ANTIMONIUM SULPHURATUM AURATUM",
       "Antimonium Sulphuratum Aureum",
       "Antimonium Sulphuratum Auratum"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "nose": [
       {

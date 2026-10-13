@@ -1,17 +1,21 @@
 {
   "id": "flag",
   "names": {
-    "primary": "Flag (Blue)",
-    "latin": "Flag (Blue)",
+    "primary": "Flag",
+    "latin": "Flag",
     "common": [
       "Flag (Blue)",
       "Flag (Yellow)"
     ],
     "synonyms": [
+      "Flag (Blue)",
       "Flag (Yellow)"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

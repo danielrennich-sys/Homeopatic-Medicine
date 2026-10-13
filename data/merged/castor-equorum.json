@@ -1,12 +1,17 @@
 {
   "id": "castor-equorum",
   "names": {
-    "primary": "Castor Equorum. (Castor Equi.)",
-    "latin": "Castor Equorum. (Castor Equi.)",
+    "primary": "Castor Equorum",
+    "latin": "Castor Equorum",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Castor Equorum. (Castor Equi.)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {
@@ -117,12 +122,19 @@
         "Copyright © Médi-T ® 2002",
         "Main"
       ]
-    }
+    },
+    "keynotes": [
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Castor equorum. Excessively sore nipples, bleeding, suppurating, and only hanging on strings. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      }
+    ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "hering-guiding-1879"
+      "hering-guiding-1879",
+      "lippe-textbook-mm-1866"
     ]
   }
 }

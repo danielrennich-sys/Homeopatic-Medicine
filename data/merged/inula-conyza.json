@@ -1,14 +1,17 @@
 {
   "id": "inula-conyza",
   "names": {
-    "primary": "Inula conyza",
-    "latin": "Inula conyza",
+    "primary": "Inula Conyza",
+    "latin": "Inula Conyza",
     "common": [
       "Spikenard, Ploughman's"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

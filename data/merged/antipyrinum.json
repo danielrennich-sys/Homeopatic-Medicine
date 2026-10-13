@@ -1,16 +1,17 @@
 {
   "id": "antipyrinum",
   "names": {
-    "primary": "ANTIPYRINUM",
-    "latin": "ANTIPYRINUM",
+    "primary": "Antipyrinum",
+    "latin": "Antipyrinum",
     "common": [
       "Phenazone-A Coal-tar Derivative (ANTIPYRINE)"
     ],
-    "synonyms": [
-      "Antipyrinum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

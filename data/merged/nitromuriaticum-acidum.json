@@ -1,14 +1,17 @@
 {
   "id": "nitromuriaticum-acidum",
   "names": {
-    "primary": "NITROMURIATICUM ACIDUM",
-    "latin": "NITROMURIATICUM ACIDUM",
+    "primary": "Nitromuriaticum Acidum",
+    "latin": "Nitromuriaticum Acidum",
     "common": [
       "Aqua Regia (NITRO-MURIATIC ACID)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mouth_throat": [
       {

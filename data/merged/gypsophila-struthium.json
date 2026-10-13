@@ -1,14 +1,19 @@
 {
   "id": "gypsophila-struthium",
   "names": {
-    "primary": "Gypsophila struthium (LINN.)",
-    "latin": "Gypsophila struthium (LINN.)",
+    "primary": "Gypsophila Struthium",
+    "latin": "Gypsophila Struthium",
     "common": [
       "Soapwort Root, Egyptian"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Gypsophila struthium (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

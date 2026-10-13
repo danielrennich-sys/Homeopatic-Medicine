@@ -1,14 +1,19 @@
 {
   "id": "cinnamomum-cassia",
   "names": {
-    "primary": "Cinnamomum cassia (BLUME)",
-    "latin": "Cinnamomum cassia (BLUME)",
+    "primary": "Cinnamomum Cassia",
+    "latin": "Cinnamomum Cassia",
     "common": [
       "Cassia (Cinnamon)"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Cinnamomum cassia (BLUME)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "apocynum",
   "names": {
-    "primary": "Apocynum (U. S. P.)",
-    "latin": "Apocynum (U. S. P.)",
+    "primary": "Apocynum",
+    "latin": "Apocynum",
     "common": [
       "Apocynum"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Apocynum (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

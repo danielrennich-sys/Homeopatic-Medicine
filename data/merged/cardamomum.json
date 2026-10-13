@@ -1,14 +1,19 @@
 {
   "id": "cardamomum",
   "names": {
-    "primary": "Cardamomum (U. S. P.)",
-    "latin": "Cardamomum (U. S. P.)",
+    "primary": "Cardamomum",
+    "latin": "Cardamomum",
     "common": [
       "Cardamom"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Cardamomum (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

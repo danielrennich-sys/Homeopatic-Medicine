@@ -1,14 +1,19 @@
 {
   "id": "polygonum-hydropiper",
   "names": {
-    "primary": "Polygonum hydropiper (LINN.)",
-    "latin": "Polygonum hydropiper (LINN.)",
+    "primary": "Polygonum Hydropiper",
+    "latin": "Polygonum Hydropiper",
     "common": [
       "Smartweed"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Polygonum hydropiper (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

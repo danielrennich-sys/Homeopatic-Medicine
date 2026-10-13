@@ -1,24 +1,58 @@
 {
   "id": "quillaja-saponaria",
   "names": {
-    "primary": "Quillaja saponaria (MOLINA.)",
-    "latin": "Quillaja saponaria (MOLINA.)",
+    "primary": "Quillaja Saponaria",
+    "latin": "Quillaja Saponaria",
     "common": [
-      "Soap Tree"
+      "Chile Soap-bark",
+      "Soap Tree",
+      "Quillaja"
     ],
-    "synonyms": []
+    "synonyms": [
+      "QUILLAYA SAPONARIA",
+      "Quillaja saponaria (MOLINA.)",
+      "Quillaja",
+      "Quillaja (U. S. P.)"
+    ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
-    "habitat": [
+    "generalities": [
       {
-        "text": "Peru and Chile, and cultivated in Northern Hindustan.",
+        "text": "[Squamous] Compare: Kali hyd; Gels; Cepa; Squilla. Saponaria (sore throat, involuntary urination). Senega",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The Brazilian species, Quillaia Selloniana ,or Fontenellea braziliensis , has similar properties to Quillaia Saponaria . [ Top ]",
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
+    "dosing": {
+      "notes": "Tincture and first potency",
+      "entries": [
+        {
+          "text": "Fluid extract, 2 to 8 drops. Solid extract, 1/2 to 2 grains. Tincture, B.P. and U.S.P., 1/2 to 1 drachm. Might be useful in cases of aortic disease with hypertrophy, its efficacy depending on the dimmished action of the cardiac ganglia and muscle which its active principle, Saponine, produces. Saponin appears to be identical with Cyclamin, from Cyclamen European, and with primulin from Primula officinalis . Digitonin from Digitalis appears to be a kind of Saponin differing somewhat from the others. Saponin, when applied locally, is a powerful irritant, local anaesthetic and muscular poison. On account of its local irritation, when injected hypodermically it causes intense pain; sneezing when applied to the nose; vomiting, diarrhoea and gastroenteritis if taken in large doses internally. Locally applied, it paralyses motor and sensory nerves, and voluntary and involuntary muscular fibre; in the voluntary muscles it produces a condition of rigor mortis , and the muscular substance becomes brittle and structureless. Saponin acts as an emetocathartic and a diuretic if it is absorbed; in its excretion it irritates the bronchial mucous membrane, and is a protoplasmic poison. In poisoning produced from it, digitalis is indicated, as it is antagonistic to Saponin.Saponin is contained in agrostemma seeds, and has caused death; the symptoms were headache, vertigo, vomiting, hot skin, rapid feeble pulse, progressive muscular weakness, and finally coma. Quillaia bark is used in its native country for washing clothes, and in this country is used by manufacturers and cleaners for washing or cleaning delicate materials. For washing hair: Powdered Soap Tree bark, 100 parts; alcohol, 400 parts; essence of Bergamot, 20 drops; mix. It is said to promote the growth of the hair. Was once used in the production of foam on non-alcoholic beverages, but its use in this way is now generally prohibited by law.",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
+    },
     "keynotes": [
       {
+        "text": "color=\"#800000\">QUILLAYA SAPONARIA Chile Soap-bark Produces and cures symptoms of acute catarrh, sneezing and sore throat. Most effective in the beginning of coryza, checking its further development. Colds with sore throat; heat and dryness of throat. Cough with difficult expectoration.",
+        "source_id": "boericke-1927"
+      },
+      {
         "text": "A tree 50 to 60 feet high. Leaves smooth, shiny, short-stalked, oval, and usually terminal white flowers, solitary, or three to five on a stalk. Bark thick, dark coloured, and very tough. In commerce it is found in large flat pieces 1/5 inch thick, outer surface brownish-white, with small patches of brownish cork attached, otherwise smooth; inner surface whitish and smooth, fracture splintery, chequered with pale-brown vast fibres, embedded with white tissue; it is inodorous, very acrid and astringent.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "Peru and Chile, and cultivated in Northern Hindustan.",
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
@@ -32,25 +66,43 @@
       {
         "text": "It can be used as a stimulating expectorant. As a decoction (5 parts to 200), adult-dose 1 tablespoonful. Syrup of guillaia can be utilized as a substitute for syrup of Senega, by adding 4 parts of the fluid extract to 21 parts of syrup, using diluted alcohol as the menstruum. [ Top ]",
         "source_id": "grieve-modern-herbal-1931"
-      }
-    ],
-    "dosing": [
+      },
       {
-        "text": "Fluid extract, 2 to 8 drops. Solid extract, 1/2 to 2 grains. Tincture, B.P. and U.S.P., 1/2 to 1 drachm. Might be useful in cases of aortic disease with hypertrophy, its efficacy depending on the dimmished action of the cardiac ganglia and muscle which its active principle, Saponine, produces. Saponin appears to be identical with Cyclamin, from Cyclamen European, and with primulin from Primula officinalis . Digitonin from Digitalis appears to be a kind of Saponin differing somewhat from the others. Saponin, when applied locally, is a powerful irritant, local anaesthetic and muscular poison. On account of its local irritation, when injected hypodermically it causes intense pain; sneezing when applied to the nose; vomiting, diarrhoea and gastroenteritis if taken in large doses internally. Locally applied, it paralyses motor and sensory nerves, and voluntary and involuntary muscular fibre; in the voluntary muscles it produces a condition of rigor mortis , and the muscular substance becomes brittle and structureless. Saponin acts as an emetocathartic and a diuretic if it is absorbed; in its excretion it irritates the bronchial mucous membrane, and is a protoplasmic poison. In poisoning produced from it, digitalis is indicated, as it is antagonistic to Saponin.Saponin is contained in agrostemma seeds, and has caused death; the symptoms were headache, vertigo, vomiting, hot skin, rapid feeble pulse, progressive muscular weakness, and finally coma. Quillaia bark is used in its native country for washing clothes, and in this country is used by manufacturers and cleaners for washing or cleaning delicate materials. For washing hair: Powdered Soap Tree bark, 100 parts; alcohol, 400 parts; essence of Bergamot, 20 drops; mix. It is said to promote the growth of the hair. Was once used in the production of foam on non-alcoholic beverages, but its use in this way is now generally prohibited by law.",
-        "source_id": "grieve-modern-herbal-1931"
-      }
-    ],
-    "generalities": [
+        "text": "Preparations: Fluid Extract of Quillaja - Tincture of Quillaja",
+        "source_id": "kings-american-1898"
+      },
       {
-        "text": "The Brazilian species, Quillaia Selloniana ,or Fontenellea braziliensis , has similar properties to Quillaia Saponaria . [ Top ]",
-        "source_id": "grieve-modern-herbal-1931"
+        "text": "\"The inner bark of Quillaja Saponaria, Molina\"—(U. S. P.). Nat. Ord.—Rosaceae. COMMON NAMES AND SYNONYM: Soap-tree bark, Soap bark; Quillaia (Pharm., 1880).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—The soap-bark tree is a medium-sized tree, bearing alternate, entire, or subdenticulate, oval, or oblong leaves. The flowers are pedunculate and axillary, have no corolla, the same branch bearing both male and female flowers. Thick bark and a very hard wood are furnished by it.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History and Description.—This tree is a native of Chili, and is known as Cullay, Quillilia, Quillaja, and Soap tree. The bark is the part employed; it is rough, dark-colored externally, and very tough. It has no odor, but workmen dislike to powder it, in consequence of the irritating properties of the dust. The taste is acrid and disagreeable. Quillaja bark is said to be used in its native country for washing clothes, and removing grease spots, and in this country it is employed for cleaning delicate ribbons, garments, and wool. It depends upon saponin for its value in this respect, foaming when rubbed with water. It is also used by the natives of Chili and Peru for washing the hair, thus: Soap-tree bark, in powder, 100 parts; alcohol, 400 parts; essence of bergamot, 20 drops. Mix. Saponin is a very energetic sternutatory, and acts as an emeto-cathartic and diuretic. This tree has been introduced in Hindustan. The U.S. P. describes the bark as in \"flat, large pieces, about 5 Mm. (⅕ inch) thick; outer surface brownish-white, often with small patches of brown cork attached, otherwise smooth; inner surface whitish, smooth; fracture splintery, checkered with pale-brownish bast fibers imbedded in white tissue; inodorous; taste persistently acrid; the dust very sternutatory. The infusion of quillaja foams like soap-water\"—(U. S. P.). (On the microscopical appearance of powdered quillaja, see L. E. Sayre, Amer. Jour. Pharm., 1897, p. 438.)",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chemical Composition.—The foaming properties of an aqueous infusion of quillaja bark are partly due to saponin (C19H30O10, E. Stütz, 1884). It is a non-poisonous, tasteless, amorphous, white powder, and does not cause sneezing. It is readily soluble in water, insoluble in pure ether and alcohol. It is a glucosid, and is decomposed into sugar and crystallizable sapogenin, upon boiling with diluted acids. Stütz found 2 per cent of saponin in the bark. The poisonous irritant and sternutatory properties of the latter are due to amorphous quillajic acid (also C19H30O10, R. Kobert, Amer. Jour. Pharm., 1889, p. 142) and sapotoxin (Kobert and Pachorukow, 1888). Quillajic acid is insoluble in ether, quite soluble in cold alcohol and in chloroform, soluble in water. It is precipitated from solution both by neutral and basic lead acetate, while sapotoxin is precipitated only by basic lead acetate. The latter constituent is soluble in water, insoluble in ether, and soluble only in boiling alcohol. Its aqueous solution foams upon shaking. The total quantity of saponin-like bodies is about 8.8 per cent. The bark also contains small quantities of tannic acid and a bitter principle. Upon incineration, the bark yields not less than 13 per cent of ash, the wood only 1.48 per cent; the bark contains 11.5 per cent of calcium oxalate with some tartrate (Flückiger, Pharmacognosie des Pflanzenreichs, 3d ed., 1891, p. 616).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Powdered soap bark, when inhaled, provokes violent sneezing. Internally, it acts somewhat like senega, rendering expectoration easy, while upon the gastro-intestinal tract, it does not produce irritating effects. Being less acrid than senega, it is more agreeable to administer, and may be used in infusion or syrup (fluid extract, 2 parts; syrup, 10 parts). It has been employed to quiet cough, with tenacious secretions; in chronic bronchitis, with bronchial dilatation; emphysema, etc. Dropsy is also reputed to have been cured with it. Locally, a saponaceous aqueous solution is valued for use upon the skin where soap is objectionable, to correct fetid exhalations of the axilla, feet, etc., and to remove the greasiness of the skin in treating cutaneous ulcers and eruptions. The scalp may be cleaned with it, and a tincture of it is reputed useful in alopecia. A snuff of powdered quillaja is said to be useful in coryza, and to have effected a permanent cure in chronic rhinitis. A watery solution of the dried aqueous extract is considerably used in pharmacy as an emulsifying agent for oils—castor oil, cod-liver oil, etc.—and as a froth-producer for soda-water syrups. Dose of infusion (bark℥ss to water Oj), ½ to 1 ounce, several times a day; of the syrup, flʒi to flʒij.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
       }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "grieve-modern-herbal-1931"
+      "boericke-1927",
+      "grieve-modern-herbal-1931",
+      "kings-american-1898"
     ]
   }
 }

@@ -8,12 +8,14 @@
       "Osier, Green"
     ],
     "synonyms": [
-      "CORNUS CIRCINATA",
-      "Cornus circinata",
       "Cornus Circinata and Florida"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

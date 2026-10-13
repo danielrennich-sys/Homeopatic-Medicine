@@ -1,16 +1,17 @@
 {
   "id": "malandrinum",
   "names": {
-    "primary": "MALANDRINUM",
-    "latin": "MALANDRINUM",
+    "primary": "Malandrinum",
+    "latin": "Malandrinum",
     "common": [
       "Grease in Horses"
     ],
-    "synonyms": [
-      "Malandrinum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

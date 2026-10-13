@@ -1,12 +1,15 @@
 {
   "id": "conclusion",
   "names": {
-    "primary": "CONCLUSION",
-    "latin": "CONCLUSION",
+    "primary": "Conclusion",
+    "latin": "Conclusion",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "myroxylon-pereirae",
   "names": {
-    "primary": "Myroxylon Pereiræ (KLOTSCH)",
-    "latin": "Myroxylon Pereiræ (KLOTSCH)",
+    "primary": "Myroxylon Pereirae",
+    "latin": "Myroxylon Pereirae",
     "common": [
       "Balsam of Peru"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Myroxylon Pereiræ (KLOTSCH)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

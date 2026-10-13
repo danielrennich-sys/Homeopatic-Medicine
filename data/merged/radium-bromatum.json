@@ -1,16 +1,17 @@
 {
   "id": "radium-bromatum",
   "names": {
-    "primary": "RADIUM BROMATUM",
-    "latin": "RADIUM BROMATUM",
+    "primary": "Radium Bromatum",
+    "latin": "Radium Bromatum",
     "common": [
       "Radium Bromide (RADIUM)"
     ],
-    "synonyms": [
-      "Radium Bromatum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

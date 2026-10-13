@@ -1,14 +1,17 @@
 {
   "id": "foeniculum-dulce",
   "names": {
-    "primary": "Foeniculum dulce",
-    "latin": "Foeniculum dulce",
+    "primary": "Foeniculum Dulce",
+    "latin": "Foeniculum Dulce",
     "common": [
       "Fennel, Florence"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

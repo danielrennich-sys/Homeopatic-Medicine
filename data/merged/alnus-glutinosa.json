@@ -1,14 +1,19 @@
 {
   "id": "alnus-glutinosa",
   "names": {
-    "primary": "Alnus Glutinosa (GAERTN.)",
-    "latin": "Alnus Glutinosa (GAERTN.)",
+    "primary": "Alnus Glutinosa",
+    "latin": "Alnus Glutinosa",
     "common": [
       "Alder, Common"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Alnus Glutinosa (GAERTN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

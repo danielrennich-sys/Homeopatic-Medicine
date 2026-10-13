@@ -1,14 +1,19 @@
 {
   "id": "erythraea-centaurium",
   "names": {
-    "primary": "Erythraea centaurium (PERS.)",
-    "latin": "Erythraea centaurium (PERS.)",
+    "primary": "Erythraea Centaurium",
+    "latin": "Erythraea Centaurium",
     "common": [
       "Centaury"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Erythraea centaurium (PERS.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

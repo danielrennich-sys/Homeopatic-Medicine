@@ -1,14 +1,19 @@
 {
   "id": "nepeta-cataria",
   "names": {
-    "primary": "Nepeta cataria (LINN.)",
-    "latin": "Nepeta cataria (LINN.)",
+    "primary": "Nepeta Cataria",
+    "latin": "Nepeta Cataria",
     "common": [
       "Catmint"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Nepeta cataria (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

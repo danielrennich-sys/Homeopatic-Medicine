@@ -1,14 +1,19 @@
 {
   "id": "sweet-vernal",
   "names": {
-    "primary": "Sweet Vernal Grass",
-    "latin": "Sweet Vernal Grass",
+    "primary": "Sweet Vernal",
+    "latin": "Sweet Vernal",
     "common": [
       "Sweet Vernal Grass"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Sweet Vernal Grass"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

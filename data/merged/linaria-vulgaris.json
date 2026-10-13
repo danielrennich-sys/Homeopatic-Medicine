@@ -1,8 +1,8 @@
 {
   "id": "linaria-vulgaris",
   "names": {
-    "primary": "LINARIA VULGARIS",
-    "latin": "LINARIA VULGARIS",
+    "primary": "Linaria Vulgaris",
+    "latin": "Linaria Vulgaris",
     "common": [
       "Toad-flax-Snap Dragon (LINARIA)",
       "Toadflax"
@@ -11,7 +11,11 @@
       "Linaria vulgaris (MILL.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Third potency"

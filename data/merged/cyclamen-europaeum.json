@@ -1,18 +1,21 @@
 {
   "id": "cyclamen-europaeum",
   "names": {
-    "primary": "Cyclamen Europaeum. Sow Bread. (Primulaccae.)",
-    "latin": "Cyclamen Europaeum. Sow Bread. (Primulaccae.)",
+    "primary": "Cyclamen Europaeum",
+    "latin": "Cyclamen Europaeum",
     "common": [
       "Sow-bread (CYCLAMEN)"
     ],
     "synonyms": [
-      "CYCLAMEN EUROPAEUM",
+      "Cyclamen Europaeum. Sow Bread. (Primulaccae.)",
       "Cyclamen Europæum",
       "Cyclamen europæum"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -121,6 +124,12 @@
         {
           "text": "open air, evenings, sitting, standing, and cold water",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Cycl.]. Rest : headache < ; burning in œsophagus < ; pain in stomach < ; tearing stitches in chest ; aggravation of pains ; great desire for. During inhalation : stitches in right kidney. Lying down : vertigo ; dyspepsia ; on back or painful side <. Rising : headache ; flickering before eyes ; from a seat, pain in small of back >. Sitting : in a room, vertigo > ; drawing pain in anus and perineum ; flow < during menstruation ; rheumatic drawing in gluteus maximus ; pain in heel. Drawing shoulders forward : twinges up back <. Drawing shoulders backward : twinges up back >. Stooping : stitches in forehead. Standing : rheumatic drawing in gluteus maximus ceases ; pain in heel. Walking : vertigo ; feeling as if brain wobbled ; headache > ; painful restlessness > ; gurgling in intestines > ; pain in abdomen > ; drawing pain in anus and perineum ; pain in heel ; after walking, toes feel dead. Fatigue : from slightest cause ; can scarcely walk across floor ; aversion to move a single limb. Motion : vertigo < ; headache < ; burning in œsophagus > ; aching pain in stomach > ; stitches in abdomen ; pain in bowels > ; gurgling in intestines > ; during menstruation > ; stitches in chest ; bruised pain above elbow-joints < ; weakness > ; aversion to move. Dancing : suppressed menses. Towards morning : sleep full of dreams ; pollution. Morning : headache ; flickering before eyes ; dryness of nose ; fluent coryza ; vomiting ; sleeps late ; pressing pain in forehead ; vertigo ; chill. Towards evening : pain in forehead. At 7 P. M. : gnawing pains in abdomen. Evening : headache < ; burning in eyes ; burning on tip of tongue ; dryness of palate ; thirst ; hunger ; pain and uneasiness in bowels ; diarrhœa ; during menstruation flow < ; weakness ; chill. Night : anxiety ; nausea ; jerking in teeth ; thirst ; painful gurgling in intestines ; vomiting ; colic ; erections ; tickling in larynx ; violent cough ; scraping in larynx ; pain in fauces ; expectoration ; restless ; uneasy ; sweat ; pricking of skin < ; itching <. After falling asleep : nightmare. Open air : dread of ; vertigo ; headache < ; pain in heel ; increase of symptoms ; > in-doors. Overheated : suppressed menses. Cold air : sensitiveness. Cold water : > headache ; > from moistening diseased parts and from bathing. Clothing : does not > chilliness. Chilblains.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

@@ -1,16 +1,17 @@
 {
   "id": "heloderma",
   "names": {
-    "primary": "HELODERMA",
-    "latin": "HELODERMA",
+    "primary": "Heloderma",
+    "latin": "Heloderma",
     "common": [
       "Gila Monster"
     ],
-    "synonyms": [
-      "Heloderma"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

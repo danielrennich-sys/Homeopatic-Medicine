@@ -1,14 +1,19 @@
 {
   "id": "carbenia-benedicta",
   "names": {
-    "primary": "Carbenia benedicta (BERUL.)",
-    "latin": "Carbenia benedicta (BERUL.)",
+    "primary": "Carbenia Benedicta",
+    "latin": "Carbenia Benedicta",
     "common": [
       "Thistles"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Carbenia benedicta (BERUL.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

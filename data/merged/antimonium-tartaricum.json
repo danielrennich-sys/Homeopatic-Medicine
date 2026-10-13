@@ -1,18 +1,20 @@
 {
   "id": "antimonium-tartaricum",
   "names": {
-    "primary": "Antimonium Tartaricum. Tartar Emetic",
-    "latin": "Antimonium Tartaricum. Tartar Emetic",
+    "primary": "Antimonium Tartaricum",
+    "latin": "Antimonium Tartaricum",
     "common": [
       "Tartar Emetic. Tartrate of Antimony and Potash"
     ],
     "synonyms": [
-      "ANTIMONIUM TARTARICUM",
-      "Antimonium Tartaricum",
+      "Antimonium Tartaricum. Tartar Emetic",
       "ANTIMONIUM TARTARICUM--Tartar Emetic"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -663,6 +665,12 @@
         {
           "text": "in evening; from lying down at night; from warmth; in damp cold weather; from all sour things and milk",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Ant. t.]. Worse resting : headache ; stupor and drowsiness <. Sitting bent forward : colic <. Child bends backward : with cough. After sitting down : feet go to sleep. While sitting : pain in back ; leucorrhœa <. Sitting erect : headache > ; cough >. Can only breathe when sitting up. θ Pleurisy. Has to sit up, and supported he moves continually to and fro. θ Acute œdema of lungs. Had to sit on a chair and lay head on table to be relieved. θ Asthma. Sitting posture in bed. See 26. Lying down : earache <. Lying on right side : vomiting >. Could lie on his right side only ; any change from his position was sure to induce vomiting ; t. Lying down : quick breathing. Cannot lie on side affected. θ Pneumonia. Child lies with head bent back. θ Pneumonia. Lies on her back, somewhat to left, doubled up. θ Acute catarrh. On walking : vertigo. Worse on walking : tension in perineum ; in hamstrings. Walking, sitting and lying are equally unbearable. θ Chronic metritis. Constant inclination to stretch. On rising : bruised sensation. See 34. Stooping : headache < ; pain in occiput, as though something fell forward in occiput. Moving about : headache >. Moving tongue : is painful. Moving arms : stitches in region of kidneys. Slightest effort to move : causes retching and vomiting ; trembling of hands ; aggravates heat. Pain worse from motion. θ Pneumonia ; stupor and drowsiness >. Moving limbs : tonic spasms. Every motion accelerates pulse ; chilliness. Carried about in upright position : children >. θ Croup. θ Cough. Before rising : bruised sensation. Most attacks at night, with vomiting of slime and food. θ Catarrhal pertussis. At 11 P. M. : sudden violent cough. Worse night, loose stools. During night much < θ Catarrhal diarrhœa. Worse at night and sleepless. θ Bronchial catarrh. At night : lips chapped ; belching like rotten eggs ; bitter taste, nausea and vomiting ; profuse urine ; cough < ; profuse sweat ; sleep full of dreams. At 3 A. M. : oppression. After midnight : cough <. Morning : head dizzy and dull ; toothache ; mouth sore ; hoarseness ; expectoration ; pressure in forehead and occiput. During day : expectoration ; hilarity. Towards evening : bellyache ; wild gayety. Evening : headache ; earache ; voice weak ; choking ; drowsiness ; anxious, timid ; oppressed breathing ; biting itching over whole body. Morning 9 o'clock : heavy rigor with shaking. θ Intermittent. Considerable aggravation towards evening, continuing all night. θ Rheumatic toothache. From heat : headache <. In warm place : drowsiness. In bed : earache ; cough <. Worse from lying in bed, especially on becoming warm there. θ Whooping cough. Warm drinks < cough. θ Pertussis. Desires cool things. Cold air : headache >. Walking in open air : hunger. Longs for open air. Even when riding in open air he could scarcely keep awake. Worse in damp, cold weather : whooping cough. Worse from remaining in vaulted chambers, churches, cellars. θ Whooping cough. After washing head : headache > ; stupor and drowsiness >. Keeping warm lessens pain. θ Rheumatism. Warmth aggravates, even getting warm in bed. θ Rheumatic toothache. After taking cold : rheumatism of joints. After taking cold in Summer : diarrhœa. After getting cold feet : asthma. High degree of sensitiveness to every change of weather. θ Rheumatism. In Spring and Fall when damp weather commences : rheumatic toothache. Cold water lessens : rheumatic toothache. After a change in temperature during Fall : coughs with children get <.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

@@ -8,11 +8,14 @@
       "Pepper"
     ],
     "synonyms": [
-      "PIPER NIGRUM",
       "Piper nigrum (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -97,7 +100,13 @@
       }
     ],
     "dosing": {
-      "notes": "Low attenuations"
+      "notes": "Low attenuations",
+      "entries": [
+        {
+          "text": "Black Pepper, 5 to 15 grains in powder. Piperine, 1 to 8 grains. The root of the Pepper plant in India has been used by the natives as a cordial tonic and stimulant. B.P. dose of Pepper, 1 to 2 drachms. Oleoresin, U.S.P.: dose, 1/2 grain. Heliotropin is recommended medicinally as an antiseptic and antipyretic. It is obtained by the oxidation of piperic acid and is used in perfumery. From the time of Hippocrates Pepper has been used as a medicine and condiment.",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "keynotes": [
       {

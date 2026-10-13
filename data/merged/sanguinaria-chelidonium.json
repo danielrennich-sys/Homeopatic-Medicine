@@ -1,12 +1,17 @@
 {
   "id": "sanguinaria-chelidonium",
   "names": {
-    "primary": "Sanguinaria  And   Chelidonium",
-    "latin": "Sanguinaria  And   Chelidonium",
+    "primary": "Sanguinaria Chelidonium",
+    "latin": "Sanguinaria Chelidonium",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Sanguinaria  And   Chelidonium"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

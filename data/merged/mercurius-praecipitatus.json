@@ -1,14 +1,18 @@
 {
   "id": "mercurius-praecipitatus",
   "names": {
-    "primary": "Mercurius Præcipitatus Albus",
-    "latin": "Mercurius Præcipitatus Albus",
+    "primary": "Mercurius Praecipitatus",
+    "latin": "Mercurius Praecipitatus",
     "common": [],
     "synonyms": [
+      "Mercurius Præcipitatus Albus",
       "Mercurius Præcipitatus Ruber"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

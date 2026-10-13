@@ -1,20 +1,22 @@
 {
   "id": "mercurius-sulphuricus",
   "names": {
-    "primary": "Mercurius Sulphuricus. Sulphate of Mercury. (HgSO4.)",
-    "latin": "Mercurius Sulphuricus. Sulphate of Mercury. (HgSO4.)",
+    "primary": "Mercurius Sulphuricus",
+    "latin": "Mercurius Sulphuricus",
     "common": [
       "Turpethum Minerale--Yellow Sulphate of Mercury (MERCURIUS SULPHURICUS - HYDRARG. OXYD. SUB-SULPH.)"
     ],
     "synonyms": [
+      "Mercurius Sulphuricus. Sulphate of Mercury. (HgSO4.)",
       "MERCURIUS SULPHURICUS, DRARG, OXYD, SUB-SULPH",
-      "Mercurius Sulphuricus",
-      "Mercurius sulphuricus",
       "Mercurius sulphuricus (Sulphate of Mercury. Turpeth mineral.)",
       "Mercurius sulphuricus (Turpethum)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

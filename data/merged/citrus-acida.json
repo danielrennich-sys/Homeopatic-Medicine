@@ -1,14 +1,19 @@
 {
   "id": "citrus-acida",
   "names": {
-    "primary": "Citrus acida (ROXB.)",
-    "latin": "Citrus acida (ROXB.)",
+    "primary": "Citrus Acida",
+    "latin": "Citrus Acida",
     "common": [
       "Lime Fruit"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Citrus acida (ROXB.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

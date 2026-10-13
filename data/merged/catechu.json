@@ -1,16 +1,38 @@
 {
   "id": "catechu",
   "names": {
-    "primary": "Catechu (U. S. P.)",
-    "latin": "Catechu (U. S. P.)",
+    "primary": "Catechu",
+    "latin": "Catechu",
     "common": [
       "Catechu"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Catechu. Acacia catechu",
+      "Catechu (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
+      {
+        "text": "Synonym—Terra Japonica.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—A tonic astringent indicated in diarrheas where the discharges are serous, very watery in character-large fluid discharges, with mucus. It will relieve intestinal hemorrhage, when the above diarrheas are present, and the mucous membranes are relaxed, and out of tone. If combined with stimulant tonics or aromatics it is more serviceable. With special uterine tonics, it will be found advantageous in menorrhagia.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
       {
         "text": "Preparations: Infusion of Catechu - Compound Tincture of Catechu - Compound Powder of Camphor - Troches of Catechu Related entry: Acacia (U. S. P.)—Acacia",
         "source_id": "kings-american-1898"
@@ -64,6 +86,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "ellingwood-1919",
       "kings-american-1898"
     ]
   }

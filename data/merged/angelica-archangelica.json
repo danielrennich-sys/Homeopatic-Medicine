@@ -1,14 +1,19 @@
 {
   "id": "angelica-archangelica",
   "names": {
-    "primary": "Angelica Archangelica (LINN.)",
-    "latin": "Angelica Archangelica (LINN.)",
+    "primary": "Angelica Archangelica",
+    "latin": "Angelica Archangelica",
     "common": [
       "Angelica"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Angelica Archangelica (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

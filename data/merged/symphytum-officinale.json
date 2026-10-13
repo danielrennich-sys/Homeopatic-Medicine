@@ -1,8 +1,8 @@
 {
   "id": "symphytum-officinale",
   "names": {
-    "primary": "SYMPHYTUM OFFICINALE",
-    "latin": "SYMPHYTUM OFFICINALE",
+    "primary": "Symphytum Officinale",
+    "latin": "Symphytum Officinale",
     "common": [
       "Comfrey-Knitbone (SYMPHYTUM)",
       "Comfrey"
@@ -10,21 +10,53 @@
     "synonyms": [
       "Symphytum officinale (LINN.)",
       "Comfrey",
-      "Symphytum officinale"
+      "Symphytum",
+      "Symphytum. Comfrey (Borraginaceae)",
+      "Symphytum. (Symphytum Officinale.)",
+      "Symphytum Officinalis",
+      "Symphytum. Symphytum officinalis"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "head": [
       {
         "text": "Pain in occiput, top and forehead; changing places. Pain comes down bone of nose. Inflammation of inferior maxillary bone, hard, red, swelling",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "Headache in occiput, in top of head, in forehead, changing places.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Headache in occiput, in top of head, in forehead, changing places.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "generalities": [
       {
         "text": "[Eye] Pain in eye after a blow of an obtuse body. For traumatic injuries of the eyes no remedy equals this",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "Clinical: Abscess; Backache, from sexual excess; Bone, cancer of; injuries of; Breasts, sore; Eyes, pains in; injuries of; Fractures; non-union of; nervous; Glands, enlarged; Gunshot wounds; Hernia; Menses, arrested; Periosteum, sensitive, painful; Psoas abscess; Sexual excess, effects of; Sprains; Stump, irritable; Wounds",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Causation: Fractures. Injuries (to eye; bone; periosteum). Falls. Blows. Sexual excess.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Seems to act specially on the joints; a woman, 50, after single dose of Ø complained of loss of power in the large joints, they seemed to get fixed, being particularly painful an turning in bed; and then followed great working in all the joints, esp. in feet, with prickings and shootings in toes of both feet (R. T. C.). More than a year ago struck knee upon a stone; wound healed and left scarcely any trace, but there remained an acute stitching pain in the place, felt when clothing touched part, or when knee was bent. Man suffering from a spontaneous luxation of thigh since childhood, fell and received a fracture of affected thigh; after two months fragments were quite movable, and as union was despaired of, an apparatus was made which allowed him to sit on a chair during day; Symp. 4, four globules every six hours, brought about complete union in twenty days. Bruises, sprains; sore breasts. Inflammation of bones; diseased spinous processes. Psoas abscess. Facilitates union of fractured bones and lessens peculiar pricking pain; favours production of callous. Pricking, sticking, jagging pains. \"A conserve of the roots cures the whites, and a decoction of them is excellent in coughs and soreness of the breast. Dried and powdered they are good against fluxes of the belly attended with griping pains and bloody stools. [Symph.] is also serviceable in defluxions of the lungs, spitting of blood, and other disorders of the chest. Bruised and applied to foul ulcers it cleanses and disposes them to heal. It removes the inflammation and stops the bleeding of piles; and is of considerable efficacy in ulcerations of the kidneys and urinary passages, particularly if occasioned by the use of Cantharides\" (Thos. Green's Herbal). Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Every other hour : fever. All day : cold. As if upper lid passed over an elevation on closing eye ; as if ears were stopped up. Peculiar pain : in periosteum, after wounds have healed. Pain : in eyes after a knock or contusion ; across epigastrium. Stitching pain : in healed wound on knee. Griping pain : about navel. Weight : in forehead when stooping. Bruises, sprains ; sore breasts. Inflammation of bones ; diseased spinous processes. Psoas abscess. Facilitates union of fractured bones and lessens peculiar pricking pain ; favors production of callous. TOUCH. PASSIVE MOTION. INJURIES. [45] [Symph.]. Touch of clothing : acute pain in injured knee, after wound healed. Wants to rest eyes. Mechanical injuries, bad effects from blows, bruises, thrusts on eye. Non-union of fracture, particularly when trouble is of nervous origin. Injury to bones ; for example, when a blow on eyes injures orbital plates of frontal bone. Irritable stump after amputation. Peculiar pain in periosteum after wounds have healed. Irritability of bone at point of fracture. Gunshot wounds. Girl, æt. 7, psoas abscess. Miss P., æt. 48 ; inflammation of inferior maxillary bone.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "dosing": {
@@ -42,6 +74,22 @@
       {
         "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Symphytum officinale. Mechanical injuries, bad effects from blows, bruises, thrusts on the eye. Pain from fractured bones. Copyright © Médi-T 2006",
         "source_id": "lippe-textbook-mm-1866"
+      },
+      {
+        "text": "Facilitates union of fractured bone (Cal. p.); lessens peculiar pricking pain; favors production of callous; when trouble is of nervous origin. Irritability at point of fracture; periosteal pain after wounds have healed. Mechanical injuries; blows, bruises, thrusts on the globe of the eye. Pain in eye after a blow of an obtuse body; snow ball strikes the eye; infant thrusts its fist into its mother's eye (to soft tissues around the eye, Arn.).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Compare: Arn., Calend., Cal. p., Fluor. ac., Hep., Sil. Follows well: after Arnica for pricking pain, and soreness of periosteum remaining after an injury.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Symphytum may be considered the orthopædic specific of herbal medicine. \"The roots of Comfrey stamped, and the juice drunk with wine, helpeth those that spit blood and healeth all inward wounds and burstings. The same bruised and laid to in manner of a plaister, doth heal all fresh and green wounds, and are so glutinative, that it will solder and glue together meat that is chopped in pieces, seething in a pot, and make it in one lump\" (Gerarde). Peter Squire (Squire's Companion to B. P., 6th ed.) gives as the \"medicinal properties\" of Symph.: \"Astringent, mucilaginous, glutinous; useful to form cases for injured limbs. The black rind (of root) is scraped off and the mucilaginous root is then scraped carefully into a nice even pulp; this spread of the thickness of a crown-piece upon cambric or old muslin is wrapped round the limb and bandaged over; it shortly stiffens, and forms a casing superior to starch, giving support and strength to the part.\" P. Squire knew a bone-setter who practised fifty years ago, and rendered himself famous for setting compound fractures with this root, which he kept secret, and he never removed the bandage after the first dressing until the limb was well (R. T. C). Symphytum has not received its names for nothing. Consolida is one of them; and \"Comfrey\" is derived from Confirmare. The glutinous juice of the root seems, according to Gerarde, to have given the key to its action as a vulnerary. H. C. Allen (Med. Cent., quoted Ind. H. Rev., v. 60) refers to the following indications for Symph. given by Lippe: (1) When the bone or periosteum has been injured and the soft parts have recovered from the bruised soreness under Arn., the remaining pain and soreness of periosteum may be promptly relieved by Symp. (2) In traumatic injuries of bone or periosteum (as from a snowball or anything else on the face), Symp. was the only remedy Lippe has seen efficient. He cured many cases after others had used Arn. and failed. (3) Here is one of his cures: \"More than a year ago fell and struck knee on a stone; wound healed and scarcely left any trace, but there remained an acute stitching pain at point of injury, felt when the part was touched by clothing as when knee was bent.\" Allen also gives the following cure reported by Fowler: Mrs. J. stepped on the edge of a scantling, which rolled, and she turned her ankle. In a few minutes the ankle began to swell and become painful, pain increasing rapidly, so that in an hour or two patient was in great agony. She declared her leg was broken, she \"could feel the rough ends of the broken bones jagging into the flesh\": could not bear any one to approach her for fear of being hurt. No discoloration whatever. Symp. promptly relieved, so that she went about her usual duties in forty-eight hours. Allen regards pricking pain as a guiding symptom. Next to bone injuries in importance are injuries to the ball of the eye, as distinguished from injuries to the soft parts around. \"I have long since ceased to use Arn. in injuries of the globe of the eye, Symp. having given such prompt and permanent relief\" (H. C. Allen). [I have, however, seen Arn. speedily clear up hæmorrhage into the vitreous from a blow of a cork from a soda-water bottle.─J. H. C.] Allen gives these indications: Severe pain in globe of eye after an injury by a blunt instrument (snowball; cane; point of umbrella; infant's fist), the soft parts remaining intact, Croserio (New, Old, and Forgotten Remedies) was one of the first to use Symp. in the potencies for fractures. P. P. Wells translated Croserio's Connection of Homœopathy with Surgery, in which this passage occurs: \"Injuries of the bones are healed most promptly with Symp. 30, internally, once a day.\" Wells gives these cases of his own: (1) Boy, 14, broke bone of forearm at junction of middle and lower thirds, two years before. Had twice repeated the fracture by slight falls. Ends now slightly movable on each other, arm of little use. Three doses of Symp. made a perfect cure, and the boy became robust and much better in health than he had ever been before. (2) Boy, 8, fractured humerus near junction of condyles and shaft. Arn. 30 immediately arrested the spasmodic jerks of muscles of injured arm. Arn. was continued three days, by which time all traumatic fever had subsided. Symp. 3, one drop in half a tumbler of water; a teaspoonful morning and evening. The splints were removed the ninth day, and the bone found consolidated. The cure was entirely without pain. F. H. Brett (H. W., xxv. 304) cured himself of inguinal rupture by rubbing the part with tincture of the root. On another occasion a blow on the lower part of the back from a fall resulted in a secondary affection of the spine in the mid-dorsal region, a protuberance as if from a slight dislocation appearing at the spot. Again Symp. Ø was applied. The tenderness at the point subsided after three applications, and in a few days the protuberance disappeared. Brett mentions (ib., 379) a case he had heard of: A diseased arm which had begun to mortify was dressed with a poultice of Comfrey root, and this \"drew off the mortified substance, and the arm became sound again.\" Sir Wm. Thomson, of Dublin (Lancet, Nov. 28, 1896) relates a case of malignant tumour of the antrum which had extended to the nose. Microscopical examination proved it to be round-celled sarcoma. The patient, a man, was advised to have the jaw removed. This advice was refused at the time, and was repeated by Felix Semon, who saw the man later. After still further delay Thomson performed the operation in the month of May, 1896. A month later the growth began to show again, increased rapidly, closed the right eye, was blue, tense, firm, lobulated, but did not break. Thomson declined to operate again. Early in October the man walked into Thomson's study well: \"The tumour had completely disappeared from the face, and I could not identify any trace of it in the mouth.\" The man had applied poultices of Comfrey root, and the swelling disappeared. Cooper (H. W., xxxii. 403) gives this experience of a patient of his: just before her marriage she had a dangerous attack of scarlatina, leaving abscesses on both sides of the neck and great internal swelling, so that she could swallow only liquids, and that with great difficulty. The external swelling extended from ear to chin, and was hard and very painful. Poultices of Comfrey root were applied. The pain was immediately relieved and her abscesses decreased rapidly until they were entirely absorbed, without external opening so far as the patient could remark. Hering (from whom I have taken the main part of my Schema) says Symp. has had a fragmentary proving by Macfarlan. Gerarde adds to the uses of Symp. quoted from him above that it cases pains in the back from violent motion as wrestling, or from excessive sexual indulgence, even when spermatorrhœa has been induced thereby. Arn. has an analogous use. Peculiar Sensations are: As if upper lid passed over an elevation on closing eye. As if ears were stopped up. The symptoms are: By touch. Sitting = pain about navel. Stooping = weight in forehead. Walking = pain opposite spleen.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T SYMPHYTUM OFFICINALIS Where there is excessive pain from broken or injured bones; when they do not heal readily. Copyright © Médi-T 2000",
+        "source_id": "guernsey-keynotes-1887"
       }
     ],
     "habitat": [
@@ -64,6 +112,78 @@
       {
         "text": "Demulcent, mildly astringent and expectorant. As the plant abounds in mucilage, it is frequently given whenever a mucilaginous medicine is required and has been used like Marshmallow for intestinal troubles. It is very similar in its emollient action to Marshmallow, but in many cases is even preferred to it and is an ingredient in a large number of herbal preparations. It forms a gentle remedy in cases of diarrhoea and dysentery. A decoction is made by boiling 1/2 to 1 OZ. of crushed root in 1 quart of water or milk, which is taken in wineglassful doses, frequently. For its demulcent action it has long been employed domestically in lung troubles and also for quinsy and whooping-cough. The root is more effectual than the leaves and is the part usually used in cases of coughs. It is highly esteemed for all pulmonary complaints, consumption and bleeding of the lungs. A strong decoction, or tea, is recommended in cases of internal haemorrhage, whether from the lungs, stomach, bowels or from bleeding piles -to be taken every two hours till the haemorrhage ceases, in severe cases, a teaspoonful of Witch Hazel extract being added to the Comfrey root tea. A modern medicinal tincture, employed by homoeopaths, is made from the root with spirits of wine, 10 drops in a tablespoonful of water being administered several times a day. Comfrey leaves are of much value as an external remedy, both in the form of fomentations, for sprains, swellings and bruises, and as a poultice, to severe cuts, to promote suppuration of boils and abscesses, and gangrenous and ill-conditioned ulcers . The whole plant, beaten to a cataplasm and applied hot as a poultice, has always been deemed excellent for soothing pain in any tender, inflamed or suppurating part. It was formerly applied to raw, indolent ulcers as a glutinous astringent. It is useful in any kind of inflammatory swelling. Internally, the leaves are taken in the form of an infusion, 1 OZ. of the leaves to 1 pint of boiling water. Fluid extract: dose, 1/2 to 2 drachms. The reputation of Comfrey as a vulnerary has been considered due partly to the fact of its reducing the swollen parts in the immediate neighbourhood of fractures, causing union to take place with greater facility. Gerard affirmed: 'A salve concocted from the fresh herb will certainly tend to promote the healing of bruised and broken parts.' Surgeons have declared that the powdered root, if dissolved in water to a mucilage, is far from contemptible for bleedings and fractures, whilst it hastens the callus of bones under repair. Its virtues as a vulnerary are now attributed to the Allantoin it contains. According to Macalister ( British Medical Journal , Jan. 6, 1912), Allantoin in aqueous solution in strengths of 0.3 per cent has a powerful action in strengthening epithelial formations, and is a valuable remedy not only in external ulceration, but also in ulcers of the stomach and duodenum. Comfrey Root is used as a source of this cell proliferant Allantoin, employed in the dealing of chronic wounds, burns, ulcers, etc., though Allantoin is also made artificially. The following is from the Chemist and Druggist of August 13, 1921: 'Allantoin is a fresh instance of the good judgment of our rustics, especially of old times, with regard to the virtues of plants. The great Comfrey or consound, though it was official with us down to the middle of the eighteenth century, never had a very prominent place in professional practice; but our herbalists were loud in its praise and the country culler of simples held it almost infallible as a remedy for both external and internal wounds bruises, and ulcers, for phlegm, for spitting of blood, ruptures, haemorrhoids, etc. For ulcers of the stomach and liver especially, the root (the part used) was regarded as of sovereign virtue. It is precisely for such complaints as these that Allantoin, obtained from the rhizome of the plant, is now prescribed. One old Syrupus de Symphyto was a rather complicated preparation. Gerard has a better formula, also a compound, which he highly recommends for ulcers of the lungs. The old Edinburgh formula is the simplest and probably the best: Fresh Comfrey leaves and fresh plantain leaves, of each lb.ss.; bruise them and well squeeze out the juice, add to the dregs spring water lb.ij.; boil to half, and mix the strained liquor with the expressed juice; add an equal quantity of white sugar and boil to a syrup.' Culpepper says: 'The great Comfrey (\"great\" to distinguish it from the \"Middle Comfrey\" - another name for the Bugle) restrains spitting of blood. The root boiled in water or wine and the decoction drank, heals inward hurts, bruises, wounds and ulcers of the lungs, and causes the phlegm that oppresses him to be casily spit forth.... A syrup made there of is very effectual in inward hurts, and the distilled water for the same purpose also, and for outward wounds or sores in the fleshy or sinewy parts of the body, and to abate the fits of agues and to allay the sharpness of humours. A decoction of the leaves is good for those purposes, but not so effectual as the roots. The roots being outwardly applied cure fresh wounds or cuts immediately, being bruised and laid thereto; and is specially good for ruptures and broken bones, so powerful to consolidate and knit together that if they be boiled with dissevered pieces of flesh in a pot, it will join them together again.' He goes on to describe its curative effect on haemorrhoids and continues: 'The roots of Comfrey taken fresh, beaten small and spread upon leather and laid upon any place troubled with the gout presently gives ease: and applied in the same manner it eases pained joints and tends to heal running ulcers, gangrenes, mortifications, for which it hath by often experience been found helpful.' The young leaves form a good green vegetable, and are not infrequently eaten by country people. When fully grown they become, however, coarse and unpleasant in taste. They have been used to flavour cakes and other food. In some parts of Ireland Comfrey is eaten as a cure for defective circulation and poverty of blood, being regarded as a perfectly safe and harmless remedy. Comfrey roots, together with Chichory and Dandelion roots, are used to make a well-known vegetation 'Coffee,' that tastes practically the same as ordinary coffee, with none of its injurious effects. A strong decoction has been used on the Continent for tanning leather, and in Angora a sort of glue is got from the common Comfrey, which is used for spinning the famous fleeces of that country. In that inimitable little book by Russell George Alexander, called A Plain Plantain , in which he quotes from an old MS. inscribed 'Madam Susanna Avery, Her Book, May ye 12th Anno Domini 1688,' we find the following reference to Comfrey: 'From the French conserve , Latin conserva - healing: conserves - to boil together; to heal. A Wound Herb.' 'The roots,' says a sixteenthcentury writer, 'heal all inwarde woundes and burstings,' and Baker ( Jewell of Health , 1567) says: 'The water of the Greater Comferie druncke helpeth such as are bursten, and that have broken the bone of the legge.' In cookery, the leaves gathered young may be used as a substitute for Spinach; the young shoots have been eaten after blanching by forcing them to grow through heaps of earth. See BORAGE . [ Top ] Purchase from Richters Common Comfrey (Symphytum officinale) Seeds, Plants, and Dried Root Bocking 14 Comfrey (Symphytum x uplandicum 'Bocking 14') Plants Bocking 4 Comfrey (Symphytum x uplandicum 'Bocking 4') Plants Find it in an herb garden collection... Home Medicine Chest Healing Herb Garden Common Name Index A MODERN HERBAL Home Page Bear in mind \"A Modern Herbal\" was written with the conventional wisdom of the early 1900's. This should be taken into account as some of the information may now be considered inaccurate, or not in accordance with modern medicine. © Copyright Protected 1995- Botanical.com",
         "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "(A lot of plants in the Boraginaceae contain hepatotoxic pyrrolizidine alkaloids. Comfreys are among them. More info here: Livertoxic PAs --Henriette.)",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The root of Symphytum officinale, Linné (Nat. Ord. Boraginaceae). Europe; naturalized in the United States.Common Name: Comfrey.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Principal Constituents.—Mucilage in quantity, tannin and asparagine.Preparation.—Tinctura Symphyti, Tincture of Symphytum (recent root, 8 ounces; Alcohol, 16 fluidounces). Dose, 1 to 10 drops.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—This drug is chiefly mucilaginous and used, therefore, as a demulcent in pulmonary, gastric, and renal irritation and inflammations. With many it is a favorite for irritative cough, with bloody expectoration; and in mucous disorders with a tendency to hemorrhage. In ancient days it was lauded as a vulnerary, even to promoting the quick healing of fractured bones, a myth that was more recently revived in England because of the discovery of a principle (allantoin) found in the plant.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Preparations: Compound Wine of Comfrey (A lot of plants in the Boraginaceae contain hepatotoxic pyrrolizidine alkaloids. Comfreys are among them. More info here: Livertoxic PAs --Henriette.)",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The root of Symphytum officinale, Linné. Nat. Ord.—Boraginaceae. COMMON NAME AND SYNONYMS: Comfrey; Radix symphyti, Radix consolidae majoris.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—Comfrey has an oblong, fleshy, perennial root, black externally, and a pilose, herbaceous stem, 3 or 4 feet high, branching above, and winged by the decurrent bases of the pointed, wavy, rough-edged leaves. The lower leaves and radical are ovate-lanceolate, tapering into a petiole; the upper and floral, lanceolate. Flowers white or of a rose color, and borne in terminal, revolute racemes. Calyx 5-parted, with lanceolate, acuminate sepals; the corolla tubular-campanulate; the limb with 5 recurved teeth. Stamens 5, included; anthers elongated. Style filiform. Nutlets smooth, ovate, fixed by a large excavated (perforate) base. The whole plant is rough with dense hairs (W.—G.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History, Description, and Chemical Composition.—Comfrey is a native of Europe, but naturalized in this country, growing on low lands and moist places, flowering all summer. The root is medicinal; when fresh it is glabrous, fusiform, branching, 10 or 12 inches in length, by 1 in diameter, and very mucilaginous. The dried root, as found in commerce, is in pieces varying from 1 to 4 or 5 inches long, black, and corrugated externally, dark-whitish and corneous internally, nearly odorless, viscid, and slightly astringent. It contains some tannic acid, a trace of starch, some sugar, and a large amount of mucilage, which is readily extracted by water. Asparagine in small amount was obtained from it by Henry and Plisson in 1829.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—This plant is demulcent and slightly astringent. With other mucilaginous agents, it is considered inert or of but little medical importance by many writers; but this is an erroneous view, the result of deficient investigation. All mucilaginous agents exert an influence on mucous tissues, hence the cure, by their internal use, of many pulmonary and other affections in which these tissues have been chiefly implicated. Physicians must not expect a serious disease to yield to remedies which act on mucous membranes only; and to determine the true value of a medicinal agent, they must first ascertain the true character of the affection, as well is of the tissues involved. Again, mucilaginous agents are always beneficial in scrofulous and anemic habits. Comfrey root is very useful in diarrhoea, dysentery, bronchial irritation, coughs, hemoptysis, other pulmonary affections, leucorrhoea, and female debility; these being principally raucous affections. It is also of some value in passive hemorrhages from the bowels, kidneys, or womb. It may be boiled in water, wine, or made into a syrup, and taken in doses of from 1 to 4 fluid ounces of the preparation 2 or 3 times a day. A tincture of the recent root (℥viii to alcohol, 98 per cent, Oj) has been recommended in from 1 to 10-drop doses. Externally, the fresh root, bruised, forms an excellent application to bruises, ruptures, fresh wounds, sore breasts, ulcers, white swellings, etc.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "(A lot of plants in the Boraginaceae contain hepatotoxic pyrrolizidine alkaloids. Comfreys are among them. More info here: Livertoxic PAs --Henriette.)",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonym—Comfrey.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—Its direct influence, like other mucilaginous agents, seems to be upon the mucous surfaces when taken internally. It was previously advised in all forms of bronchial irritation, with cough or difficult breathing, especially if there was hemoptisis. It was used in the chronic cases, or where there was protracted convalescence. of severe acute cases. Some writers have been very enthusiastic concerning its specific influence. One physician who has used it for over thirty years, claims to obtain the best results from a strong decoction, made from one ounce of the root, in a pint of water. He gives this almost ad libitum is a drink. In pneumonia, this decoction relieves the difficult and painful breathing. It aids expectoration, and tends to lower the temperature. In all serious cases, he depends upon this remedy. Its properties lie believes to be not only soothing, but demulcent, balsamic and especially pectoral.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Where there is inflammation of the stomach or bowels, he has obtained signal benefit from this infusion, especially if, as a result from inflammation, there is hemorrhage or passive discharges of any character. He also gives the infusion as a drink in nephritis, in both acute and chronic cases. In inflammation of the bowels, it may be injected, and being retained it exercises a direct soothing influence, which would probably be enhanced by the addition of the proper intestinal antiseptic.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Old European writers called attention to this remedy as a vulnerary. It had a great reputation as an external application in the treatment of wounds, bruises and putrefying sores. They used it for ruptures and applied it where a bone was fractured, believing that it would stimulate the knitting of the bone. These old writers claimed that it was useful in all hurts and bruises, internal and external, in all cases of hemorrhage, blood spitting, flux, diarrhea, dysentery, menorrhagias, leucorrhea. It will certainly relieve the swelling and pain of a bruise or sprain as quickly as any other remedy with which we are familiar. One writer, in his zeal and confidence, says: \"It acts upon an inflamed surface like a charm, subduing inflammation as water subdues and extinguishes fire.\" Another writer says: \"This agent has marvelous healing and cicatrizing properties. If the tincture be applied to swollen and painful parts, it quickly reduces the pain and swelling. It stimulates granulation in slow healing ulcers, and rapidly promotes healing in bruises of the muscles, ecchymosis, injuries to the tendons, and cartilaginous tissues. It is indeed efficacious. An antiseptic decoction will produce much the same results as the tincture.\"",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
       }
     ],
     "constituents": [
@@ -71,32 +191,118 @@
         "text": "The chief and most important constituent of Comfrey root is mucilage, which it contains in great abundance, more even than Marshmallow. It also contains from 0.6 to 0.8 per cent. of Allantoin and a little tannin. Starch is present in a very small amount. [ Top ]",
         "source_id": "grieve-modern-herbal-1931"
       }
+    ],
+    "relationships": {
+      "_raw": [
+        "Follows well: Arn. (for pricking pains; and after the bruising of the soft parts is healed). Compare: Fractures, Calc. ph. Injuries, Arn. (Arn., soft parts, Symp., hard; Arn., painful swelling with discoloration, Symp., without discoloration; Arn., sore, bruised lame; Symp., pricking, stitching, jagging pains), Calen., Fl. ac., Hep., Sil., Stp., Led., Rhus, Hyper. Effects of sexual excess, Arn. Antidote to Canthar. (Green's Herbal).",
+        "Compare : Arnic. in blows ; Fluor. ac., Hepar, Calc. phos. and Silica in injuries to bones",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "eyes": [
+      {
+        "text": "Pain in eyes after a knock or contusion of an opaque body. After being struck upon eye with a cane by a child, no visible injury, but a sensation on closing eye as if upper lid passed over an elevation on bulb of eye; on waking eye could not be easily opened, seemed spasmodically closed.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pain in eyes after a knock or contusion of an obtuse body. After being struck upon eye with a cane by a child, no visible injury, but a sensation on closing eye as if upper lid passed over an elevation on bulb of eye ; on waking eye could not be easily opened, seemed spasmodically closed.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Cannot hear well; feels as if ears were stopped up. Inflamed ears.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Cannot hear well ; feels as if ears were stopped up. Inflamed ears.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Pain comes down bone of nose, and sometimes down both sides of nose (produced. R. T. C.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "face": [
+      {
+        "text": "(Malignant tumour of r. antrum.). Inflammation of inferior maxillary bone; hard, red swelling.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Inflammation of inferior maxillary bone ; hard, red swelling.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Pains across epigastrium from one side to other, opposite spleen, in walking; when sitting about navel; griping pain.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pains across epigastrium from one side to other, < opposite spleen, in walking ; when sitting < about navel ; griping pain.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "(Dysentery. Inflamed and bleeding piles.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Stricture of urethra (curative in some forms. R. T. C.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "male": [
+      {
+        "text": "Testicles become painful and tender and prevent walking (produced. R. T. C.). (Backache from excessive sexual indulgence; with spermatorrhœa. Gerarde.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menses stopped; headache, weight in forehead when she stoops; has it almost all time; a good deal of fever every other hour; cold all day, cramp and diarrhœa; nose sore inside alæ, wants to pick it; wants to rub her eyes; inflamed ears; feels as if something were in them, stopped up, cannot hear well. (Leucorrhœa. Sore breasts.).",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Menses stopped ; headache, weight in forehead when she stoops ; has it almost all time ; a good deal of fever every other hour ; cold all day, cramp and diarrhœa ; nose sore inside alæ, wants to pick it ; wants to rub her eyes ; inflamed ears ; feels as if something were in them, stopped up, cannot hear well.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "Pain in back from a fall; from sexual excess. Pott's disease from fall. Psoas abscess. Much used among herbalists in caries of spinal and other bones (R. T. C.).",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Psoas abscess.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "More than a year ago fell and struck knee upon a stone ; wound healed and left scarcely any trace, but there remained an acute stitching pain in place, felt when clothing touched part, or when knee was bent. Man suffering with a spontaneous luxation of thigh since childhood, fell and received a fracture of affected thigh ; after two months fragments were quite movable, and as union was despaired of, an apparatus was made which allowed him to sit on a chair during day ; Symphytum 4, four globules every six hours, brought about complete union in twenty days.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "REST. POSITION. MOTION. [35] [Symph.]. Sitting : pain about navel. Stooping : weight in forehead. Walking : pain opposite spleen.",
+        "source_id": "hering-guiding-1879"
+      }
     ]
   },
   "evidence": {
-    "summary": "",
     "lactation_safety": [
       {
         "section": "Drug Levels and Effects",
         "text": "Summary of Use during Lactation Comfrey ( Symphytum officinalis ) herb and leaf contains allantoin and rosmarinic acid; comfrey also contains pyrrolizidine alkaloids. Comfrey preparations have been used topically for pain following episiotomy and cracked, painful nipples, either as aqueous preparations or in creams and ointments.[ 1 - 7 ] Scientific evidence of effectiveness for these indications is minimal. The pyrrolizidine alkaloids in comfrey can cause severe liver damage, liver cancer, mutagenicity, and even death.[ 8 , 9 ] For this reason, the U.S. Food and Drug Administration has banned the sale of oral comfrey products in the United States. Furthermore, most sources consider topical use of comfrey during breastfeeding to be contraindicated.[ 1 , 10 ] If it is used on the skin, it should only be applied to intact skin away from the breast on the smallest area of skin possible, and for a limited duration. It is particularly important to ensure that the infant not come into direct contact with the areas of skin that have been treated, because ingestion may cause severe liver damage. Dietary supplements do not require extensive pre-marketing approval from the U.S. Food and Drug Administration. Manufacturers are responsible to ensure the safety, but do not need to prove the safety and effectiveness of dietary supplements before they are marketed. Dietary supplements may contain multiple ingredients, and differences are often found between labeled and actual ingredients or their amounts. A manufacturer may contract with an independent organization to verify the quality of a product or its ingredients, but that does not certify the safety or effectiveness of a product. Because of the above issues, clinical testing results on one product may not be applicable to other products. More detailed information about dietary supplements is available elsewhere on the LactMed Web site. Drug Levels Maternal Levels. Relevant published information was not found as of the revision date. Infant Levels. Relevant published information was not found as of the revision date. Effects in Breastfed Infants Relevant published information was not found as of the revision date. Effects on Lactation and Breastmilk Relevant published information was not found as of the revision date. References 1. Low Dog T. The use of botanicals during pregnancy and lactation. Altern Ther Health Med. 2009; 15 :54–8. [ PubMed : 19161049 ] 2. Petrie KA, Peck MR. Alternative medicine in maternity care. Prim Care. 2000; 27 :117–36. [ PubMed : 10739460 ] 3. Kopec K. Herbal medications and breastfeeding. J Hum Lact. 1999; 15 :157–61. [ PubMed : 10578793 ] 4. Allaire AD, Moos MK, Wells SR. Complementary and alternative medicine in pregnancy: A survey of North Carolina certified nurse-midwives. Obstet Gynecol. 2000; 95 :19–23. [ PubMed : 10636495 ] 5. Dennehy C, Tsourounis C, Bui L, et al. The use of herbs by California midwives. J Obstet Gynecol Neonatal Nurs. 2010; 39 :684–93. [ PubMed : 21044150 ] 6. Yarnell E. Botanical medicine in pregnancy and lactation. Altern Complement Ther. 1997; 3 (April):93–100. 7. Fleiss P. Herbal remedies for the breastfeeding mother. Mothering 1988;Summer:68-71. 8. Panter KE, James LF. Natural plant toxicants in milk: A review. J Anim Sci. 1990; 68 :892–904. [ PubMed : 2180885 ] 9. Winship KA. Toxicity of comfrey. Adverse Drug React Toxicol Rev. 1991; 10 :47–59. [ PubMed : 1878443 ] 10. Howard CR, Lawrence RA. Drugs and breastfeeding. Clin Perinatol. 1999; 26 :447–78. [ PubMed : 10394496 ]",
         "source": "LactMed-NIH"
-      }
-    ],
-    "documented_adverse_effects": [
-      {
-        "section": "PRODUCT INFORMATION",
-        "text": "REPRESENTATIVE TRADE NAMES Comfrey – Generic DRUG CLASS Herbal and Dietary Supplements",
-        "source": "LiverTox-NIH"
-      },
-      {
-        "section": "CHEMICAL FORMULA AND STRUCTURE",
-        "text": "View in own window DRUG CAS REGISTRY NUMBER MOLECULAR FORMULA STRUCTURE Comfrey 84696-05-9 Herbal mixture Not applicable",
-        "source": "LiverTox-NIH"
-      },
-      {
-        "section": "ANNOTATED BIBLIOGRAPHY",
-        "text": "References updated: 24 May 2022 Abbreviations used: HDS, herbal and dietary supplements; SOS , sinusoidal obstruction syndrome. Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4. (Expert review of hepatotoxicity published in 1999; comfrey is discussed as a pyrrolizidine containing herbal that has been linked to veno-occlusive disease which is now referred to as sinusoidal obstruction syndrome [SOS]). Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 631-58. (Review of hepatotoxicity of herbal and dietary supplements [HDS] mentions that comfrey is one of more than 350 plant species that contain pyrrolizidine alkaloids and is capable of causing sinusoidal obstruction syndrome). Comfrey. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 291-22. (Compilation of short monographs on herbal medications and dietary supplements). McGee J, Patrick RS, Wood CB, Blumgart LH. A case of veno-occlusive disease of the liver in Britain associated with herbal tea consumption. J Clin Pathol. 1976; 29 :788–94. [ PMC free article : PMC476180 ] [ PubMed : 977780 ] (26 year old woman developed abdominal pain and ascites, having used herbal tea for 2 years [bilirubin 0.8 mg/dL, ALT 28 U/L, Alk P 303 U/L], with splenomegaly, varices and intractable ascites, biopsy showing sinusoid obstruction syndrome; dying after failed portocaval shunt, analysis of tea showed pyrrolizidine alkaloids). Stillman AS, Huxtable R, Consroe P, Kohnen P, Smith S. Hepatic veno-occlusive disease due to pyrrolizidine (Senecio) poisoning in Arizona. Gastroenterology. 1977; 73 :349–52. [ PubMed : 873137 ] (6 month old developed distended abdomen and vomiting [bilirubin 0.5 mg/dL, AST 794 U/L] and was found to have ascites and biopsy showed sinusoidal obstruction syndrome; child had been fed large quantities of locally brewed tea which was made from Senecio longilobus). Fox DW, Hart MC, Bergeson PS, Jarrett PB, Stillman AE, Huxtable RJ. Pyrrolizidine (Senecio) intoxication mimicking Reye’s syndrome. J Pediatr. 1978; 93 :980–2. [ PubMed : 722447 ] (2 month old boy developed vomiting and hematemesis and hepatic encephalopathy after being given herbal tea [gordolobo] for 4 days [bilirubin normal, but rising to 19.3 mg/dL, ALT 1860 U/L] initially diagnosed as Reye syndrome, dying after 3 days, autopsy showing severe acute sinusoidal obstruction syndrome). Mattocks AR. Toxic pyrrolizidine alkaloids in comfrey. Lancet. 1980; 2 :1136–7. [ PubMed : 6107747 ] (Measured pyrrolizidine alkaloids in dried comfrey leaves, finding lowest concentration in mature large leaves and variation by time of harvesting). Roitman JN. Comfrey and liver damage. Lancet. 1981; 1 :944. [ PubMed : 6112346 ] (Analysis of tea made from commercially available comfrey found a cup to contain 26 mg of pyrrolizidine alkaloids, well above the amount that has been linked to serious hepatic injury when taken long term). Editorial. Pyrrolizidine alkaloids. Lancet. 1984; 1 :201–2. [ PubMed : 6141340 ] (Plants have evolved poisons that are toxic to insects, but can also cause hepatic sinusoidal obstruction syndrome (veno-occlusive disease) in grazing animals and in humans who ingest these in teas and herbal medications: “a disastrous discontinuity of tradition”). Ridker PM, Ohkuma S, McDermott WV, Trey C, Huxtable RJ. Hepatic venocclusive disease associated with the consumption of pyrrolizidine-containing dietary supplements. Gastroenterology. 1985; 88 :1050–4. [ PubMed : 3972224 ] (49 year old woman developed edema and ascites after taking comfrey capsules and tea for 6 months [no liver test results provided], biopsy showing sinusoidal obstruction syndrome, ultimately requiring portocaval shunt with subsequent slow clinical improvement after stopping comfrey ingestion). Kumana CR, Ng M, Lin HJ, Ko W, Wu PC, Todd D. Herbal tea induced hepatic veno-occlusive diseases; quantification of toxic alkaloid exposure in adults. Gut. 1985; 26 :101–4. [ PMC free article : PMC1432401 ] [ PubMed : 3965360 ] (Four young women brewed Indian herbal tea to treat psoriasis and 3 developed ascites from sinusoidal obstruction syndrome 19-45 days later [bilirubin 0.6, 0.6 and 3.3 mg/dL, ALT 63, 122 and 69 U/L], one dying of hepatic failure, analysis of tea revealed pyrrolizidine alkaloids). Culvenor CCJ. Pyrrolizidine alkaloids: some aspects of the Australian involvement. Trends Pharmacol Sci. 1985; 6 :18–22. (Presence of pyrrolizidine alkaloids in several common Australian weeds is a health hazard to livestock and humans; these include Heliotropium europaeum, Echium plantagineum, Senecio and Crotalaria species). Huxtable RJ, Luethy J, Zweifel U. Toxicity of comfrey-pepsin preparations. N Engl J Med. 1986; 315 :1095. [ PubMed : 3762623 ] (Analysis of two commercial brands of comfrey-pepsin preparations sold as a digestive aid demonstrated pyrrolizidine alkaloids [symphytine and symglandine] in concentrations that could cause sinusoidal obstruction syndrome after a few months of regular intake). Weston CF, Cooper BT, Davies JD, Levine DF. Veno-occlusive disease of the liver secondary to ingestion of comfrey. Br Med J (Clin Res Ed). 1987; 295 :183. [ PMC free article : PMC1247038 ] [ PubMed : 3115370 ] (13 year old boy developed fever, abdominal pain and ascites after several years of treatment with an herbal tea containing comfrey for Crohn’s disease [bilirubin 1.5 mg/dL, AST 87 U/L, Alk P normal], biopsy showing sinusoidal obstruction syndrome). Roulet M, Laurini R, Rivier L, Calame A. Hepatic veno-occlusive disease in a newborn infant of a woman drinking herbal tea. J Pediatr. 1988; 112 :433–6. [ PubMed : 3346784 ] (5 day old girl found to have jaundice, ",
-        "source": "LiverTox-NIH"
       }
     ],
     "regulatory": [
@@ -115,6 +321,24 @@
         "source": "LactMed-NIH"
       }
     ],
+    "summary": "Introduction Comfrey is an plant belonging to the Borganinaceae family, extracts of the leaves and roots of which has been used as an herbal to treat wounds and to decrease pain and inflammation associated with arthritis, sprains and bone fractures. Comfrey, however, also contains pyrrolizidine alkaloids and, when taken orally, can cause sinusoidal obstruction syndrome and severe liver injury. Background Common comfrey (Symphytum officinale) is a perennial herb belonging to the family Borganinaceae which is native to Europe and Asia, but is now found worldwide. Leaf and root extracts have many constituents including allantoin, rosmarinic acid, triterpene saponins, silicic acid, and tannins, believed to be the basis for its antiinflammatory and wound healing activity. However, comfrey also contains several pyrrolizidine alkaloids (symphytine, echimidine, symglandine and lycopsamine) which are toxic and capable of causing sinusoidal obstruction syndrome (previously called veno-occlusive disease) and severe liver injury. Comfrey has been shown to cause similar liver injury in laboratory animals and has also been linked to liver cancer. Comfrey products are marketed as herbal teas, root powders and as capsules. Oral comfrey has been banned or restricted in most countries, but topical forms (ointments, creams and liniments) are available and advertised as useful for wound healing sprains and bone fractures. Human studies have shown that comfrey creams have mild analgesic effects and decreases muscle and joint pain. Hepatotoxicity Several cases of acute liver injury resembling sinusoidal obstruction syndrome ( SOS ) due to oral comfrey have been published. The injury usually arises within 1 to 2 months of starting the comfrey product (either extract in tablet form or large amounts of comfrey tea) with onset of right upper quadrant pain, nausea and weight gain (from fluid retention) followed by jaundice. Serum aminotransferase levels are usually only mildly elevated with a hepatocellular pattern of injury, although they may be markedly increased if tested during the early phases of the injury. Immunoallergic and autoimmune features are usually not present. The injury can be severe and rapidly lead to acute liver failure (acute sinusoidal obstruction syndrome), but more commonly presents insidiously with weight gain, ascites, weakness, and minimal serum aminotransferase elevations (subacute or chronic sinusoidal obstruction syndrome). Likelihood score : C (when taken orally, a probable cause of clinically apparent liver injury due to sinusoidal obstruction syndrome). Mechanism of Injury The pyrrolizidine alkaloids contained in comfrey include intermedine, lycopsamine, symphtine and echnimidine, which are metabolized by the cytochrome P450 enzymes into highly toxic pyrrole metabolites which have alkylating properties that can damage hepatic endothelial cells and can cause sinusoidal obstruction. The amount of pyrrolizidine alkaloids in comfrey varies by the part of the plant used, its age and time of harvesting. The toxicity of pyrrolizidine containing substances is increased by microsomal enzyme inducers such as phenobarbital. Infants appear to be particularly susceptible to pyrrolizidine alkaloid injury. Outcome and Management Hepatotoxicity from comfrey is now rare, as it is widely accepted as being toxic when taken internally and oral formulations are restricted or banned in most countries. Management should be directed at limiting further injury and specific treatment of complications (ascites, variceal bleeding). Anticoagulants have not been shown to be beneficial. Difibrotide (a complex mixture of single stranded DNA prepared from pig intestine) has recently been approved for therapy of severe SOS accompanied by renal or pulmonary failure occurring after myeloablation for hematopoietic cell transplantation. More extensive description of sinusoidal obstruction syndrome and its management are given in the introductory section and in discussion of the antineoplastic alkylating agents. Other Names: Black root, common comfrey, knitbone Drug Class: Herbal and Dietary Supplements",
+    "documented_adverse_effects": [
+      {
+        "section": "PRODUCT INFORMATION",
+        "text": "REPRESENTATIVE TRADE NAMES Comfrey – Generic DRUG CLASS Herbal and Dietary Supplements",
+        "source": "LiverTox-NIH"
+      },
+      {
+        "section": "CHEMICAL FORMULA AND STRUCTURE",
+        "text": "View in own window DRUG CAS REGISTRY NUMBER MOLECULAR FORMULA STRUCTURE Comfrey 84696-05-9 Herbal mixture Not applicable",
+        "source": "LiverTox-NIH"
+      },
+      {
+        "section": "ANNOTATED BIBLIOGRAPHY",
+        "text": "References updated: 24 May 2022 Abbreviations used: HDS, herbal and dietary supplements; SOS , sinusoidal obstruction syndrome. Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4. (Expert review of hepatotoxicity published in 1999; comfrey is discussed as a pyrrolizidine containing herbal that has been linked to veno-occlusive disease which is now referred to as sinusoidal obstruction syndrome [SOS]). Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 631-58. (Review of hepatotoxicity of herbal and dietary supplements [HDS] mentions that comfrey is one of more than 350 plant species that contain pyrrolizidine alkaloids and is capable of causing sinusoidal obstruction syndrome). Comfrey. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 291-22. (Compilation of short monographs on herbal medications and dietary supplements). McGee J, Patrick RS, Wood CB, Blumgart LH. A case of veno-occlusive disease of the liver in Britain associated with herbal tea consumption. J Clin Pathol. 1976; 29 :788–94. [ PMC free article : PMC476180 ] [ PubMed : 977780 ] (26 year old woman developed abdominal pain and ascites, having used herbal tea for 2 years [bilirubin 0.8 mg/dL, ALT 28 U/L, Alk P 303 U/L], with splenomegaly, varices and intractable ascites, biopsy showing sinusoid obstruction syndrome; dying after failed portocaval shunt, analysis of tea showed pyrrolizidine alkaloids). Stillman AS, Huxtable R, Consroe P, Kohnen P, Smith S. Hepatic veno-occlusive disease due to pyrrolizidine (Senecio) poisoning in Arizona. Gastroenterology. 1977; 73 :349–52. [ PubMed : 873137 ] (6 month old developed distended abdomen and vomiting [bilirubin 0.5 mg/dL, AST 794 U/L] and was found to have ascites and biopsy showed sinusoidal obstruction syndrome; child had been fed large quantities of locally brewed tea which was made from Senecio longilobus). Fox DW, Hart MC, Bergeson PS, Jarrett PB, Stillman AE, Huxtable RJ. Pyrrolizidine (Senecio) intoxication mimicking Reye’s syndrome. J Pediatr. 1978; 93 :980–2. [ PubMed : 722447 ] (2 month old boy developed vomiting and hematemesis and hepatic encephalopathy after being given herbal tea [gordolobo] for 4 days [bilirubin normal, but rising to 19.3 mg/dL, ALT 1860 U/L] initially diagnosed as Reye syndrome, dying after 3 days, autopsy showing severe acute sinusoidal obstruction syndrome). Mattocks AR. Toxic pyrrolizidine alkaloids in comfrey. Lancet. 1980; 2 :1136–7. [ PubMed : 6107747 ] (Measured pyrrolizidine alkaloids in dried comfrey leaves, finding lowest concentration in mature large leaves and variation by time of harvesting). Roitman JN. Comfrey and liver damage. Lancet. 1981; 1 :944. [ PubMed : 6112346 ] (Analysis of tea made from commercially available comfrey found a cup to contain 26 mg of pyrrolizidine alkaloids, well above the amount that has been linked to serious hepatic injury when taken long term). Editorial. Pyrrolizidine alkaloids. Lancet. 1984; 1 :201–2. [ PubMed : 6141340 ] (Plants have evolved poisons that are toxic to insects, but can also cause hepatic sinusoidal obstruction syndrome (veno-occlusive disease) in grazing animals and in humans who ingest these in teas and herbal medications: “a disastrous discontinuity of tradition”). Ridker PM, Ohkuma S, McDermott WV, Trey C, Huxtable RJ. Hepatic venocclusive disease associated with the consumption of pyrrolizidine-containing dietary supplements. Gastroenterology. 1985; 88 :1050–4. [ PubMed : 3972224 ] (49 year old woman developed edema and ascites after taking comfrey capsules and tea for 6 months [no liver test results provided], biopsy showing sinusoidal obstruction syndrome, ultimately requiring portocaval shunt with subsequent slow clinical improvement after stopping comfrey ingestion). Kumana CR, Ng M, Lin HJ, Ko W, Wu PC, Todd D. Herbal tea induced hepatic veno-occlusive diseases; quantification of toxic alkaloid exposure in adults. Gut. 1985; 26 :101–4. [ PMC free article : PMC1432401 ] [ PubMed : 3965360 ] (Four young women brewed Indian herbal tea to treat psoriasis and 3 developed ascites from sinusoidal obstruction syndrome 19-45 days later [bilirubin 0.6, 0.6 and 3.3 mg/dL, ALT 63, 122 and 69 U/L], one dying of hepatic failure, analysis of tea revealed pyrrolizidine alkaloids). Culvenor CCJ. Pyrrolizidine alkaloids: some aspects of the Australian involvement. Trends Pharmacol Sci. 1985; 6 :18–22. (Presence of pyrrolizidine alkaloids in several common Australian weeds is a health hazard to livestock and humans; these include Heliotropium europaeum, Echium plantagineum, Senecio and Crotalaria species). Huxtable RJ, Luethy J, Zweifel U. Toxicity of comfrey-pepsin preparations. N Engl J Med. 1986; 315 :1095. [ PubMed : 3762623 ] (Analysis of two commercial brands of comfrey-pepsin preparations sold as a digestive aid demonstrated pyrrolizidine alkaloids [symphytine and symglandine] in concentrations that could cause sinusoidal obstruction syndrome after a few months of regular intake). Weston CF, Cooper BT, Davies JD, Levine DF. Veno-occlusive disease of the liver secondary to ingestion of comfrey. Br Med J (Clin Res Ed). 1987; 295 :183. [ PMC free article : PMC1247038 ] [ PubMed : 3115370 ] (13 year old boy developed fever, abdominal pain and ascites after several years of treatment with an herbal tea containing comfrey for Crohn’s disease [bilirubin 1.5 mg/dL, AST 87 U/L, Alk P normal], biopsy showing sinusoidal obstruction syndrome). Roulet M, Laurini R, Rivier L, Calame A. Hepatic veno-occlusive disease in a newborn infant of a woman drinking herbal tea. J Pediatr. 1988; 112 :433–6. [ PubMed : 3346784 ] (5 day old girl found to have jaundice, ",
+        "source": "LiverTox-NIH"
+      }
+    ],
     "hepatotoxicity": [
       {
         "section": "LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet].",
@@ -129,7 +353,14 @@
       "grieve-modern-herbal-1931",
       "lactmed-nih",
       "lippe-textbook-mm-1866",
-      "livertox-nih"
+      "livertox-nih",
+      "allen-keynotes-1899",
+      "clarke-dictionary-1900",
+      "felter-eclectic-1922",
+      "hering-guiding-1879",
+      "kings-american-1898",
+      "ellingwood-1919",
+      "guernsey-keynotes-1887"
     ]
   }
 }

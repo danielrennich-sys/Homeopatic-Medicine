@@ -1,14 +1,17 @@
 {
   "id": "bocconia-cordata",
   "names": {
-    "primary": "Bocconia cordata",
-    "latin": "Bocconia cordata",
+    "primary": "Bocconia Cordata",
+    "latin": "Bocconia Cordata",
     "common": [
       "Poppy, Plume"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

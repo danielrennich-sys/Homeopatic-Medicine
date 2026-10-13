@@ -1,14 +1,19 @@
 {
   "id": "arenaria-rubra",
   "names": {
-    "primary": "Arenaria rubra (LINN.)",
-    "latin": "Arenaria rubra (LINN.)",
+    "primary": "Arenaria Rubra",
+    "latin": "Arenaria Rubra",
     "common": [
       "Sandspurry, Common"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Arenaria rubra (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

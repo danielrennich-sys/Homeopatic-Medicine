@@ -1,14 +1,17 @@
 {
   "id": "cobaltum-metallicum",
   "names": {
-    "primary": "COBALTUM METALLICUM",
-    "latin": "COBALTUM METALLICUM",
+    "primary": "Cobaltum Metallicum",
+    "latin": "Cobaltum Metallicum",
     "common": [
       "The Metal Cobalt (COBALTUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

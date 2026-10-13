@@ -1,14 +1,17 @@
 {
   "id": "serum-anguillae",
   "names": {
-    "primary": "SERUM ANGUILLAE",
-    "latin": "SERUM ANGUILLAE",
+    "primary": "Serum Anguillae",
+    "latin": "Serum Anguillae",
     "common": [
       "Eel Serum (SERUM ANGUILLAR ICHTHYOTOXIN)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Attenuations are made with glycerine or distilled water, the lower 1x to 3 in heart disease, the higher in sudden renal attacks"

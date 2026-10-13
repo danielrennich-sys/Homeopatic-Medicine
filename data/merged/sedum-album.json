@@ -1,14 +1,17 @@
 {
   "id": "sedum-album",
   "names": {
-    "primary": "Sedum album",
-    "latin": "Sedum album",
+    "primary": "Sedum Album",
+    "latin": "Sedum Album",
     "common": [
       "Stonecrops"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

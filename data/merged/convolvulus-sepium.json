@@ -1,14 +1,17 @@
 {
   "id": "convolvulus-sepium",
   "names": {
-    "primary": "Convolvulus sepium",
-    "latin": "Convolvulus sepium",
+    "primary": "Convolvulus Sepium",
+    "latin": "Convolvulus Sepium",
     "common": [
       "Bindweed, Greater"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

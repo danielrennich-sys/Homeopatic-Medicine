@@ -1,14 +1,19 @@
 {
   "id": "croton-eleuteria",
   "names": {
-    "primary": "Croton Eleuteria (J. BENN.)",
-    "latin": "Croton Eleuteria (J. BENN.)",
+    "primary": "Croton Eleuteria",
+    "latin": "Croton Eleuteria",
     "common": [
       "Cascarilla"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Croton Eleuteria (J. BENN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

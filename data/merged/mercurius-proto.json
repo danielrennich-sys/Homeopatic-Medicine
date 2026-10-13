@@ -1,14 +1,18 @@
 {
   "id": "mercurius-proto",
   "names": {
-    "primary": "Mercurius Proto Iodide. Iodide of Mercury. (Hg2I2.)",
-    "latin": "Mercurius Proto Iodide. Iodide of Mercury. (Hg2I2.)",
+    "primary": "Mercurius Proto",
+    "latin": "Mercurius Proto",
     "common": [],
     "synonyms": [
+      "Mercurius Proto Iodide. Iodide of Mercury. (Hg2I2.)",
       "Mercurius proto-iodatus (Mercurius proto-jodatus)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

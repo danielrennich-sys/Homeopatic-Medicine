@@ -8,11 +8,14 @@
       "Celery (Wild)"
     ],
     "synonyms": [
-      "APIUM GRAVEOLENS",
       "Apium graveolens (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

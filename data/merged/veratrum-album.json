@@ -9,12 +9,14 @@
     ],
     "synonyms": [
       "Veratrum Album. While Hellebore. (Melanthaceae.)",
-      "VERATRUM ALBUM",
-      "Veratrum Album. White Hellebore",
-      "Veratrum album"
+      "Veratrum Album. White Hellebore"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -490,10 +492,22 @@
           "text": "at night; wet, cold weather",
           "source_id": "boericke-1927"
         }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Verat.]. Rest : palpitation >. Horizontal position : vomiting > ; comparatively well feeling. Lying : cough ceases ; palpitation > ; limbs go to sleep. Sitting : still, breathing > ; with legs hanging out of bed, myelitis, jerks in limbs. Stooping : headache < ; rush of blood to head. Standing : stiffness in legs ; stinging in toes of right foot. Motion : headache < ; least, produces nausea and vomiting ; cutting pain in stomach < ; shortness of breath ; inclination for, asthma ; neuralgia in arms < ; debility <. Rising : black motes or specks before eyes ; cough <. Desire to sit up or jump out of bed : asthma. Rushes about bent double : intussusception. Raising head : causes vomiting. Raising arms : they feel cold. Manual labor : diarrhœa <. Throwing head back : asthma >. Grasping : arm trembles. Driving out of bed : palpitation ; jerks in limbs, myelitis. After getting out of bed : chill >. Walking : must walk about, to > jerks in limbs ; neuralgia in arms > ; neuralgia in legs > ; very difficult, like paralysis in hip ; > pains in feet and knees. Exertion : least, causes fainting ; causes cough ; causes sweat. At 4 A. M. : eructations. Toward morning : headache > ; diarrhœa >. Morning : on waking could not open eyes ; lids seemed to stick to ball ; diarrhœa ; twitching and jerking of limbs ; headache during menses ; asthma ; cough < ; sweat ; chill. Forenoon : stiffness in legs. From time of rising until 10 A. M. : diarrhœa <. From 10 A. M. until 3 P. M. : diarrhœa >. Afternoon : griping in abdomen. From 3 to 9 P. M. : neuralgia of bowels. At 4 P. M. : neuralgia of bowels. At 5 P. M. : headache on vertex. Evening : anxiety ; remitting fever < ; late, cough < ; heat ; sweat. Night : cursing and howling : groaning and sighing ; headache, beginning in afternoon ; in sleep, epistaxis ; delirium, remitting fever ; pressure in stomach < ; in Summer sudden diarrhœa ; cholera morbus < ; womb disease < ; hemeralopia ; palpitation ; sweat. Open air : after exercise, bulimia. Warmth : does not > prosopalgia ; of bed, cough < ; of bed, neuralgia in leg <. Warm room : going into, cough <. Hot day : drinking cold water causes diarrhœa. Hot weather : diarrhœa ; scarlatina. Cold : eating and drinking, cough <. In sharp, cold air : dry, tickling cough. Cold, damp weather : rheumatic ophthalmia ; asthma. Damp weather : neuralgia in face. Wet weather : pains in limbs. Bad weather : neuralgia in arms. Change of weather : cough <.",
+          "source_id": "hering-guiding-1879"
+        }
       ]
     },
     "dosing": {
-      "notes": "First to thirtieth potency. In diarrhœa, not below the sixth"
+      "notes": "First to thirtieth potency. In diarrhœa, not below the sixth",
+      "entries": [
+        {
+          "text": "Of the powder, 1 to 8 grains, gradually and cautiously increased, commencing with 1 grain. Of the vinous tincture, from 20 to 60 minims. ---Poisons, if any, and Antidotes--- Narcotic symptoms, such as stupor and convulsions, appear in addition to vomiting and diarrhcea, when the dose is fatal. The poison may be treated by drinks and injections of coffee, stimulants to overcome the depressed condition of the heart and arteries, and opiates and demulcents to relieve internal inflammation.",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "relationships": {
       "_raw": [

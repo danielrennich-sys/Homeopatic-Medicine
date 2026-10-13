@@ -1,16 +1,17 @@
 {
   "id": "eupatorium-aromaticum",
   "names": {
-    "primary": "EUPATORIUM AROMATICUM",
-    "latin": "EUPATORIUM AROMATICUM",
+    "primary": "Eupatorium Aromaticum",
+    "latin": "Eupatorium Aromaticum",
     "common": [
       "Pool-root"
     ],
-    "synonyms": [
-      "Eupatorium Aromaticum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Tincture, locally, in sore mouth and sore nipples. Internally, tincture to third attenuation"

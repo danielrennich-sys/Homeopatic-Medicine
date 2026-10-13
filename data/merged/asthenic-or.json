@@ -1,12 +1,17 @@
 {
   "id": "asthenic-or",
   "names": {
-    "primary": "Asthenic or Adynamic Fevers",
-    "latin": "Asthenic or Adynamic Fevers",
+    "primary": "Asthenic Or",
+    "latin": "Asthenic Or",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Asthenic or Adynamic Fevers"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

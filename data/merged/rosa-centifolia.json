@@ -1,14 +1,19 @@
 {
   "id": "rosa-centifolia",
   "names": {
-    "primary": "Rosa Centifolia (U. S. P.)",
-    "latin": "Rosa Centifolia (U. S. P.)",
+    "primary": "Rosa Centifolia",
+    "latin": "Rosa Centifolia",
     "common": [
       "Pale Rose"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Rosa Centifolia (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

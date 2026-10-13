@@ -1,14 +1,19 @@
 {
   "id": "smilax-china",
   "names": {
-    "primary": "Smilax China (LINN.)",
-    "latin": "Smilax China (LINN.)",
+    "primary": "Smilax China",
+    "latin": "Smilax China",
     "common": [
       "Smilax, China"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Smilax China (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

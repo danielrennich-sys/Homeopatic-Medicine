@@ -1,14 +1,17 @@
 {
   "id": "arbutus-unede",
   "names": {
-    "primary": "Arbutus unede",
-    "latin": "Arbutus unede",
+    "primary": "Arbutus Unede",
+    "latin": "Arbutus Unede",
     "common": [
       "Arbutus (Strawberry Tree)"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "spiraea-tomentosa",
   "names": {
-    "primary": "Spiraea tomentosa (LINN.)",
-    "latin": "Spiraea tomentosa (LINN.)",
+    "primary": "Spiraea Tomentosa",
+    "latin": "Spiraea Tomentosa",
     "common": [
       "Hardhack"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Spiraea tomentosa (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

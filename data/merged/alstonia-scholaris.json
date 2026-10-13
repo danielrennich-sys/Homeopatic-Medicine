@@ -8,13 +8,15 @@
       "Alstonia"
     ],
     "synonyms": [
-      "ALSTONIA SCHOLARIS",
       "Alstonia scholaris (R. BR.)",
-      "Alstonia scholaris (R. BR,)",
-      "Alstonia scholaris"
+      "Alstonia scholaris (R. BR,)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -37,7 +39,13 @@
       }
     ],
     "dosing": {
-      "notes": "Tincture to third potency. Locally, for ulcers and rheumatic pains"
+      "notes": "Tincture to third potency. Locally, for ulcers and rheumatic pains",
+      "entries": [
+        {
+          "text": "Infusion of Alstonia, 5 parts to 100 parts water. Dose, 1 fluid ounce. Powdered bark, 2 to 4 grains. In India the natives use the bark for bowel complaints. In Ceylon its light wood is used for coffins. In Borneo the wood close to the root of the same species is very light and of white colour and is used for net floats, household utensils, trenchers, corks, etc.",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "keynotes": [
       {

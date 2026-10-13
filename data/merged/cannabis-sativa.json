@@ -9,12 +9,14 @@
     ],
     "synonyms": [
       "Cannabis Sativa. Hemp. (Urticaccae)",
-      "CANNABIS SATIVA",
-      "Cannabis sativa (LINN.)",
-      "Cannabis sativa"
+      "Cannabis sativa (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -263,6 +265,12 @@
           "text": "lying down; going upstairs",
           "source_id": "boericke-1927"
         }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Cann. s.]. Sitting : pressure in rectum and sacral region. Standing : swimming of head ; pressive, dragging sensation in testicles. Bending forward : forehead feels compressed, not relieved. Motion : rheumatic drawing in long bones. Walking : fear of falling ; giddiness ; penis feels sore and burnt. Night : sweat wanting, or, only on forehead ; burning heat. Morning : dryness of mouth. Day : pain in right temple and vertex. Uncovering : > unendurable, fine stitching over whole body, like from a thousand needle-points, at night, when sweating from warm covering.",
+          "source_id": "hering-guiding-1879"
+        }
       ]
     },
     "relationships": {
@@ -280,7 +288,13 @@
       ]
     },
     "dosing": {
-      "notes": "Tincture to third attenuation. In stuttering the 30th"
+      "notes": "Tincture to third attenuation. In stuttering the 30th",
+      "entries": [
+        {
+          "text": "Tincture, B.P. and U.S.P., 5 to 15 drops. Solid extract, B.P., 1/4 to 1 grain. Fluid extract, 1 to 3 drops. Of cannabis, 1 to 3 grains. Of best hashish, for smoking, 1/4 to 1 grain. Of tincture, 10 to 30 minims. Of tincture for menorrhagia, 5 to 10 minims. three to four times a day (i.e. 24 grains of resinous extract in a fluid ounce of rectified spirit). Of extract, from 1 to 20 grains, according to quality. The following is stated to be a certain cure for gonorrhcea. Take equal parts of tops of male and female hemp in blossom. Bruise in a mortar, express the juice, and add an equal portion of alcohol. Take 1 to 3 drops every two to three hours. [ Top ] SLANG NAMES FOR MARIJUANA: Devil Drug, Weed of Madness, Cannabis, Assassin of Youth, Mexican Ditch Weed, Hashish, Hay, Chronic, Blunts, Pot, Brick Weed, Ganja, joint, Acapulco Gold, dime Bag, Rope, Grass, Weed, \"L\", Jive Stick, Nickel Bag, MaryJane, Loco, Boom, Bhang, Ganja, Indo, Hydro, Stick Also see: Hemp, Enc. Britannica, 1856 . US Goverment's \"Street Terms\" for Marijuana, 2003 Misc Music and Audio files Warning: From past dealing with Dinafem seeds , we strongly recommend that you NOT TO PURCHASE seeds from or deal with this company. They do not send seeds to the U.S. nor do they refund payments made with BTC. Do not get ripped off. Deal only with reputable companies!!! You have been warned. Govern yourself accordingly! Bear in mind \"A Modern Herbal\" was written with the conventional wisdom of the early 1900's. This should be taken into account as some of the information may now be considered inaccurate, or not in accordance with modern medicine. © Copyright Protected 1995- Botanical.com",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "mental_emotional": [
       {

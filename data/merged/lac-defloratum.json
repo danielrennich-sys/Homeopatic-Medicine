@@ -1,14 +1,17 @@
 {
   "id": "lac-defloratum",
   "names": {
-    "primary": "Lac Defloratum. Skimmed Milk",
-    "latin": "Lac Defloratum. Skimmed Milk",
+    "primary": "Lac Defloratum",
+    "latin": "Lac Defloratum",
     "common": [],
     "synonyms": [
-      "LAC DEFLORATUM"
+      "Lac Defloratum. Skimmed Milk"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

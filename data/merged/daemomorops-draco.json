@@ -1,14 +1,19 @@
 {
   "id": "daemomorops-draco",
   "names": {
-    "primary": "Daemomorops draco (BLUME)",
-    "latin": "Daemomorops draco (BLUME)",
+    "primary": "Daemomorops Draco",
+    "latin": "Daemomorops Draco",
     "common": [
       "Dragon's Blood"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Daemomorops draco (BLUME)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

@@ -1,16 +1,20 @@
 {
   "id": "equisetum-arvense",
   "names": {
-    "primary": "Equisetum arvense, Equisetum hyemale, Equisetum maximum, Equisetum sylvaticum",
-    "latin": "Equisetum arvense, Equisetum hyemale, Equisetum maximum, Equisetum sylvaticum",
+    "primary": "Equisetum Arvense",
+    "latin": "Equisetum Arvense",
     "common": [
       "Horsetails"
     ],
     "synonyms": [
+      "Equisetum arvense, Equisetum hyemale, Equisetum maximum, Equisetum sylvaticum",
       "Horsetail"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

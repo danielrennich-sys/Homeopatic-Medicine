@@ -1,14 +1,17 @@
 {
   "id": "stratiotes-aloides",
   "names": {
-    "primary": "Stratiotes aloides",
-    "latin": "Stratiotes aloides",
+    "primary": "Stratiotes Aloides",
+    "latin": "Stratiotes Aloides",
     "common": [
       "Water Soldier"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

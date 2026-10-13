@@ -1,14 +1,19 @@
 {
   "id": "galium-verum",
   "names": {
-    "primary": "Galium verum (LINN.)",
-    "latin": "Galium verum (LINN.)",
+    "primary": "Galium Verum",
+    "latin": "Galium Verum",
     "common": [
       "Bedstraw, Lady's"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Galium verum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

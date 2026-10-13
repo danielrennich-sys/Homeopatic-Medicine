@@ -1,15 +1,20 @@
 {
   "id": "pimpinella-saxifraga",
   "names": {
-    "primary": "Pimpinella saxifraga (LINN.)",
-    "latin": "Pimpinella saxifraga (LINN.)",
+    "primary": "Pimpinella Saxifraga",
+    "latin": "Pimpinella Saxifraga",
     "common": [
       "Burnet, Lesser",
       "Saxifrage, Burnet"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Pimpinella saxifraga (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

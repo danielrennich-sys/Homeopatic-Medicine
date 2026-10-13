@@ -1,14 +1,19 @@
 {
   "id": "guarea-rusbyi",
   "names": {
-    "primary": "Guarea rusbyi (BRIT.)",
-    "latin": "Guarea rusbyi (BRIT.)",
+    "primary": "Guarea Rusbyi",
+    "latin": "Guarea Rusbyi",
     "common": [
       "Cocillana Bark"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Guarea rusbyi (BRIT.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

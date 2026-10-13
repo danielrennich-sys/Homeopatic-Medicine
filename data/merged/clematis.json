@@ -6,11 +6,13 @@
     "common": [
       "Virgin's Bower"
     ],
-    "synonyms": [
-      "CLEMATIS"
-    ]
+    "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

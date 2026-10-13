@@ -1,14 +1,19 @@
 {
   "id": "monsonia-ovata",
   "names": {
-    "primary": "Monsonia ovata (CAR.)",
-    "latin": "Monsonia ovata (CAR.)",
+    "primary": "Monsonia Ovata",
+    "latin": "Monsonia Ovata",
     "common": [
       "Monsonia"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Monsonia ovata (CAR.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

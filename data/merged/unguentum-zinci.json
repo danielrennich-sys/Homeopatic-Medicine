@@ -1,12 +1,17 @@
 {
   "id": "unguentum-zinci",
   "names": {
-    "primary": "Unguentum Zinci Oxidi",
-    "latin": "Unguentum Zinci Oxidi",
+    "primary": "Unguentum Zinci",
+    "latin": "Unguentum Zinci",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Unguentum Zinci Oxidi"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

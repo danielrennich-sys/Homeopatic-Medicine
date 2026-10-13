@@ -1,14 +1,19 @@
 {
   "id": "sheep-sorrel",
   "names": {
-    "primary": "Sheep's Sorrel",
-    "latin": "Sheep's Sorrel",
+    "primary": "Sheep Sorrel",
+    "latin": "Sheep Sorrel",
     "common": [
       "Sheep's Sorrel"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Sheep's Sorrel"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -1,16 +1,17 @@
 {
   "id": "cholesterinum",
   "names": {
-    "primary": "CHOLESTERINUM",
-    "latin": "CHOLESTERINUM",
+    "primary": "Cholesterinum",
+    "latin": "Cholesterinum",
     "common": [
       "Cholesterine--The proximate principle--Furnished by the epithelium lining of gall bladder and the larger ducts"
     ],
-    "synonyms": [
-      "Cholesterinum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

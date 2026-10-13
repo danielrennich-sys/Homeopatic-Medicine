@@ -1,7 +1,7 @@
 {
   "id": "calcarea-fluorica",
   "names": {
-    "primary": "Cell Salt #1 - Calcarea Fluorica",
+    "primary": "Calcarea Fluorica",
     "latin": "Calcarea Fluorica",
     "common": [
       "Fluoride of Lime (FLUOR SPAR)",
@@ -10,15 +10,18 @@
       "Fluoride of Lime"
     ],
     "synonyms": [
-      "Calcarea Fluorica",
       "Calcarea Fluorata",
-      "CALCAREA FLUOR",
+      "Calcarea Fluor",
       "Cell Salt #1",
       "Schuessler Salt #1",
-      "Tissue Salt #1"
+      "Tissue Salt #1",
+      "Cell Salt #1 - Calcarea Fluorica"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {
@@ -259,6 +262,12 @@
         {
           "text": "during rest, changes of weather",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Calc. f.]. After rest : lumbago worse. Sitting : < pain in hepatic region. Can sit in no position to > back. Lying : on painful side < pain in hepatic region ; on painless side > pain in hepatic region ; > wind in abdomen. Doubling up : > pain in hepatic region. Motion : pain in back better. Writing : eyes blurred and misty after. Walking about : > pain in hepatic region and back. Riding : < wind in lower abdomen. All day : depressed spirits. From 3 to 4 P. M. : larynx tickling-itching ; cough. Afternoon : headache with nausea ; backache. Towards night : larynx, dryness and hoarseness. Evening : dull headache, with faintish nausea, better. At night : throat feels < ; itching at anus ; rises to pass urine ; jumps from bed. Midnight : sharp pain, right hypochondrium ; itching of anus. At 8 A. M. : pains in hepatic region ; profuse emission of urine. From 8 A. M. to 3 P. M. : profuse emission of urine. Warmth : lumbago > from ; warm drink, > throat. Cold drinks : throat < from. Worse in damp weather, but > by fomentation. θ Osseous growth.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

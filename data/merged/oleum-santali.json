@@ -1,16 +1,18 @@
 {
   "id": "oleum-santali",
   "names": {
-    "primary": "OLEUM SANTALI",
-    "latin": "OLEUM SANTALI",
+    "primary": "Oleum Santali",
+    "latin": "Oleum Santali",
     "common": [
       "Oil of Sandalwood"
     ],
-    "synonyms": [
-      "Oleum Santali"
-    ]
+    "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "male": [
       {

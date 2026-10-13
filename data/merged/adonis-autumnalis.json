@@ -1,14 +1,19 @@
 {
   "id": "adonis-autumnalis",
   "names": {
-    "primary": "Adonis autumnalis, Adonis vernalis",
-    "latin": "Adonis autumnalis, Adonis vernalis",
+    "primary": "Adonis Autumnalis",
+    "latin": "Adonis Autumnalis",
     "common": [
       "Hellebore, False"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Adonis autumnalis, Adonis vernalis"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "aloe-perryi",
   "names": {
-    "primary": "Aloe Perryi (J. G. BAKER), Aloe vera (LINN)",
-    "latin": "Aloe Perryi (J. G. BAKER), Aloe vera (LINN)",
+    "primary": "Aloe Perryi",
+    "latin": "Aloe Perryi",
     "common": [
       "Aloes"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Aloe Perryi (J. G. BAKER), Aloe vera (LINN)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

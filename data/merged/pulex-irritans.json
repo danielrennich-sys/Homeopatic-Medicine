@@ -1,14 +1,17 @@
 {
   "id": "pulex-irritans",
   "names": {
-    "primary": "PULEX IRRITANS",
-    "latin": "PULEX IRRITANS",
+    "primary": "Pulex Irritans",
+    "latin": "Pulex Irritans",
     "common": [
       "Common Flea"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

@@ -6,11 +6,12 @@
     "common": [
       "Indian Nettle"
     ],
-    "synonyms": [
-      "ACALYPHA INDICA"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -54,6 +55,12 @@
         {
           "text": "in morning",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "Night : cough most violent. Morning : expectorates pure blood. Evening : expectorates dark clotted blood.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

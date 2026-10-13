@@ -1,18 +1,19 @@
 {
   "id": "theridion-curassavicum",
   "names": {
-    "primary": "Theridion Curassavicum. Orange Spider (Araneideae)",
-    "latin": "Theridion Curassavicum. Orange Spider (Araneideae)",
+    "primary": "Theridion Curassavicum",
+    "latin": "Theridion Curassavicum",
     "common": [
       "Orange-spider (THERIDION)"
     ],
     "synonyms": [
-      "THERIDION CURASSAVICUM",
-      "Theridion Curassavicum",
-      "Theridion curassavicum"
+      "Theridion Curassavicum. Orange Spider (Araneideae)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -138,6 +139,12 @@
         {
           "text": "touch; pressure; on shipboard; riding in carriage; closing eyes; jar; noise, coitus; left side",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Ther.]. Lying : impossible, pains deep in brain ; must lie down with flickering before eyes. Sitting : drawing in right thigh. Stooping : < vertigo. On rising : sick stomach <. Drawing up leg : as if some one tapped her on groin. Motion : least, vertigo < ; < headache ; pain over left eye < ; nausea < ; vomiting < ; pains in groin ; pain in ovarian regions. Walking : headache with depression ; little toe pains ; sweats easily. After every exertion : fainting. Going up and down stairs : dyspnœa. After washing clothes : nausea and fainting. At 4 A. M. : vomiting of bile. Morning : lower jaw immovable ; nausea ; vomiting of bile ; sleepy. Midday : long and dreamful sleep. Afternoon : toothache. Evening : headache with depression ; itching on head and back of neck ; coryza < ; toothache ; drawing in right thigh. At 11 P. M. : wakes with vertigo. Night : cough ; deep sleep ; vomiting. Temperature and Weather. Warm water : nausea and retching >. Warmth : agreeable ; pain in right leg with cold sensation.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

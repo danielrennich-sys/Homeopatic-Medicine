@@ -1,14 +1,19 @@
 {
   "id": "tamarindus-indica",
   "names": {
-    "primary": "Tamarindus indica (LINN.)",
-    "latin": "Tamarindus indica (LINN.)",
+    "primary": "Tamarindus Indica",
+    "latin": "Tamarindus Indica",
     "common": [
       "Tamarinds"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Tamarindus indica (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

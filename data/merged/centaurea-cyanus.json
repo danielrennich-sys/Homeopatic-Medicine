@@ -1,14 +1,19 @@
 {
   "id": "centaurea-cyanus",
   "names": {
-    "primary": "Centaurea Cyanus (LINN.)",
-    "latin": "Centaurea Cyanus (LINN.)",
+    "primary": "Centaurea Cyanus",
+    "latin": "Centaurea Cyanus",
     "common": [
       "Cornflower"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Centaurea Cyanus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

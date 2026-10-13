@@ -1,14 +1,19 @@
 {
   "id": "strychnina",
   "names": {
-    "primary": "Strychnina (U. S. P.)",
-    "latin": "Strychnina (U. S. P.)",
+    "primary": "Strychnina",
+    "latin": "Strychnina",
     "common": [
       "Strychnine"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Strychnina (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "eugenia-caryophyllata",
   "names": {
-    "primary": "Eugenia caryophyllata (THUMB.)",
-    "latin": "Eugenia caryophyllata (THUMB.)",
+    "primary": "Eugenia Caryophyllata",
+    "latin": "Eugenia Caryophyllata",
     "common": [
       "Cloves"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Eugenia caryophyllata (THUMB.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

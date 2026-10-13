@@ -1,14 +1,17 @@
 {
   "id": "knautia-arvensis",
   "names": {
-    "primary": "Knautia arvensis",
-    "latin": "Knautia arvensis",
+    "primary": "Knautia Arvensis",
+    "latin": "Knautia Arvensis",
     "common": [
       "Scabious, Field"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

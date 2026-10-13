@@ -1,12 +1,17 @@
 {
   "id": "liste-remedies",
   "names": {
-    "primary": "LISTE OF REMEDIES",
-    "latin": "LISTE OF REMEDIES",
+    "primary": "Liste Remedies",
+    "latin": "Liste Remedies",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "LISTE OF REMEDIES"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "erythroxylon-coca",
   "names": {
-    "primary": "Erythroxylon Coca (LAMK.)",
-    "latin": "Erythroxylon Coca (LAMK.)",
+    "primary": "Erythroxylon Coca",
+    "latin": "Erythroxylon Coca",
     "common": [
       "Coca, Bolivian"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Erythroxylon Coca (LAMK.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

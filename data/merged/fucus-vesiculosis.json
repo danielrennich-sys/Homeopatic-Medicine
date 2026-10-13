@@ -1,14 +1,19 @@
 {
   "id": "fucus-vesiculosis",
   "names": {
-    "primary": "Fucus vesiculosis (LINN.)",
-    "latin": "Fucus vesiculosis (LINN.)",
+    "primary": "Fucus Vesiculosis",
+    "latin": "Fucus Vesiculosis",
     "common": [
       "Bladderwrack"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Fucus vesiculosis (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

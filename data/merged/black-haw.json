@@ -1,12 +1,17 @@
 {
   "id": "black-haw",
   "names": {
-    "primary": "Black Haw. Viburnum prunifolium",
-    "latin": "Black Haw. Viburnum prunifolium",
+    "primary": "Black Haw",
+    "latin": "Black Haw",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Black Haw. Viburnum prunifolium"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

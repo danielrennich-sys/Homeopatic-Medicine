@@ -1,20 +1,22 @@
 {
   "id": "menyanthes-trifoliata",
   "names": {
-    "primary": "Menyanthes Trifoliata. Buck Bean. (Genitanaceae.)",
-    "latin": "Menyanthes Trifoliata. Buck Bean. (Genitanaceae.)",
+    "primary": "Menyanthes Trifoliata",
+    "latin": "Menyanthes Trifoliata",
     "common": [
       "Buck-bean (MENYANTHES)",
       "Bogbean"
     ],
     "synonyms": [
-      "MENYANTHES TRIFOLIATA",
-      "Menyanthes trifoliata (TOURNEF.)",
-      "Menyanthes Trifoliata",
-      "Menyanthes trifoliata"
+      "Menyanthes Trifoliata. Buck Bean. (Genitanaceae.)",
+      "Menyanthes trifoliata (TOURNEF.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -105,6 +107,12 @@
         {
           "text": "during rest, ascending",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Meny.]. Rest : pressive, stupefying headache ; twitching of facial muscles < ; pain in thigh <. Lying down : headache < ; pain in thighs < ; sweat in bed. Sitting still : pain in back ; cramplike drawing in thigh ; thigh and leg jerked upward. Stooping : pain in small of back <. Slight exertion : irregular action of heart <. Swallowing : stinging in palate. Masticating : cracking in ear ; pain and cracking in articulation of jaw. Motion : pressive, stupefying headache ; almost impossible, sharp pains through chest ; stitches in chest < ; pain in thighs >. Ascending steps : compressive headache. Walking : twitching of facial muscles > ; pain in small of back < ; tingling from elbows into hands and fingers ; great debility. Morning when rising : coldness in abdomen. At 8 A. M., for an hour or two : coldness of feet and legs <. At 11 A. M. : tingling from elbows into hands and fingers. All day : distension and fulness of abdomen. Evening : fulness in abdomen < by smoking ; pain in thighs < ; general heat ; sweat in bed. All night : sweat lasting. Warm stove : chill passes off. Open air : dull headache > ; tingling from elbows to fingers. In room : dull headache. Cold water : headache <.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

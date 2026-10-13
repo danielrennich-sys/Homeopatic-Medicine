@@ -1,12 +1,17 @@
 {
   "id": "lactis-vaccini",
   "names": {
-    "primary": "Lactis Vaccini Flos",
-    "latin": "Lactis Vaccini Flos",
+    "primary": "Lactis Vaccini",
+    "latin": "Lactis Vaccini",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Lactis Vaccini Flos"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

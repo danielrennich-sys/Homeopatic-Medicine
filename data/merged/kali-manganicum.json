@@ -1,12 +1,17 @@
 {
   "id": "kali-manganicum",
   "names": {
-    "primary": "Kali (Hyper -) Manganicum",
-    "latin": "Kali (Hyper -) Manganicum",
+    "primary": "Kali Manganicum",
+    "latin": "Kali Manganicum",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Kali (Hyper -) Manganicum"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

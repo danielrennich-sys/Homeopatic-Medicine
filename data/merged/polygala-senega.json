@@ -1,14 +1,19 @@
 {
   "id": "polygala-senega",
   "names": {
-    "primary": "Polygala Senega (LINN.)",
-    "latin": "Polygala Senega (LINN.)",
+    "primary": "Polygala Senega",
+    "latin": "Polygala Senega",
     "common": [
       "Senega"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Polygala Senega (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

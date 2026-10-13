@@ -1,14 +1,19 @@
 {
   "id": "campanula-rapunculus",
   "names": {
-    "primary": "Campanula rapunculus (LINN.)",
-    "latin": "Campanula rapunculus (LINN.)",
+    "primary": "Campanula Rapunculus",
+    "latin": "Campanula Rapunculus",
     "common": [
       "Rampion"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Campanula rapunculus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

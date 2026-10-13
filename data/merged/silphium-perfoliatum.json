@@ -1,14 +1,17 @@
 {
   "id": "silphium-perfoliatum",
   "names": {
-    "primary": "Silphium perfoliatum",
-    "latin": "Silphium perfoliatum",
+    "primary": "Silphium Perfoliatum",
+    "latin": "Silphium Perfoliatum",
     "common": [
       "Cup Plant"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

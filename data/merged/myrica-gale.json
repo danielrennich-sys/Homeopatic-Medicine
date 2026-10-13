@@ -1,14 +1,19 @@
 {
   "id": "myrica-gale",
   "names": {
-    "primary": "Myrica gale (LINN.)",
-    "latin": "Myrica gale (LINN.)",
+    "primary": "Myrica Gale",
+    "latin": "Myrica Gale",
     "common": [
       "Gale, Sweet"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Myrica gale (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

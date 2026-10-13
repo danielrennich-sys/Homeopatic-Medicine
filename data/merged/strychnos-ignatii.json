@@ -1,14 +1,19 @@
 {
   "id": "strychnos-ignatii",
   "names": {
-    "primary": "Strychnos Ignatii (BERG.)",
-    "latin": "Strychnos Ignatii (BERG.)",
+    "primary": "Strychnos Ignatii",
+    "latin": "Strychnos Ignatii",
     "common": [
       "Ignatius Beans"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Strychnos Ignatii (BERG.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "combretum-sundaicum",
   "names": {
-    "primary": "Combretum sundaicum (MIF.)",
-    "latin": "Combretum sundaicum (MIF.)",
+    "primary": "Combretum Sundaicum",
+    "latin": "Combretum Sundaicum",
     "common": [
       "Combretum"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Combretum sundaicum (MIF.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

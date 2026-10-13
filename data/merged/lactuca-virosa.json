@@ -1,19 +1,21 @@
 {
   "id": "lactuca-virosa",
   "names": {
-    "primary": "LACTUCA VIROSA",
-    "latin": "LACTUCA VIROSA",
+    "primary": "Lactuca Virosa",
+    "latin": "Lactuca Virosa",
     "common": [
       "Acrid Lettuce",
       "Lettuce, Wild"
     ],
     "synonyms": [
-      "Lactuca virosa (LINN.)",
-      "Lactuca Virosa",
-      "Lactuca virosa"
+      "Lactuca virosa (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "mental_emotional": [
       {
@@ -97,7 +99,13 @@
       ]
     },
     "dosing": {
-      "notes": "Tincture"
+      "notes": "Tincture",
+      "entries": [
+        {
+          "text": "Of powder, 10 to 20 grains or more. Of tincture, 30 to 60 drops. Of alcoholic extract, 1 to 5 grains. Of Lactucarium, 5 to 20 grains. Of fluid extract leaves, 1/4 to 1 drachm. Of syrup, U.S.P., 2 drachms. Tincture, U.S.P., 30 drops.",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "keynotes": [
       {

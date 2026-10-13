@@ -4,14 +4,23 @@
     "primary": "Aloe",
     "latin": "Aloe",
     "common": [
-      "Aloes"
+      "Aloes",
+      "Socotrine Aloes (ALOE)"
     ],
     "synonyms": [
       "ALOE. (ALOE SOCCOTRINA.)",
-      "Aloe Vera"
+      "Aloe Vera",
+      "Aloe Socotrina",
+      "Aloe Socotrina. Socotrine Aloes (Liliaceae)",
+      "Aloes",
+      "Aloes. Aloe socotrina"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "mentals": [
       {
@@ -27,6 +36,14 @@
       {
         "text": "Giddiness and starting. Giddiness, with anxiety when moving; he feels as if he were sitting too high (after dinner). Dulness in the forehead with chilliness. Dull headache across the forehead, with heaviness in the eyes, and nausea. Pressure in the forehead and vertex, as from a weight (and in occiput). Pressing pain above the eyes. Congestions to the head, compelling one to sit up. Headaches are worse from heat and better from cold applications. Stitches above the eyebrows. Pressing out of the temples, with flickering before the eyes and heat in the face. Stitches in the temples at every step. Headache after pain in the abdomen; after (an insufficient) stool; worse from heat, better from cold. Sensitiveness of the scalp (in small spots). With the pain in the forehead the eyes become small; patient compelled to close them.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Headache alternates with lumbago, with intestinal and uterine affections. Disinclination to mental labor. Aches above forehead, with heaviness in eyes, must partially close them. Headache after stool. Dull, pressive pain; worse from heat",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Congestion to head, compelling one to sit up. Headache across forehead, with heaviness of eyes and nausea. Weight on vertex ; pressure in forehead and occiput. Dull pressive pain : in supraorbital region ; in sinciput. Pressing outward to temples, with periodic heat of face and flickering before eyes. Stitches in temples aggravated by every footstep. Headache after insufficient stool ; with abdominal pains. Headaches < from heat, > from cold applications. A pain in forehead which compels patient to close eyes, or, if he wishes to look at anything, he must make aperture of lids very small. Headache alternating with lumbago. Sensitiveness of scalp in spots. Dryness of hair.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "eyes": [
@@ -37,6 +54,14 @@
       {
         "text": "Congestion to the eyes; pressure in the orbits. Lachrymation. Pain deep in the orbits, as if in the muscles; worse r. side. Occasional attacks of twitching of l. eyelids during the day, spasmodic jerk of whole body on failing asleep at night. Flickering before eyes, with heat of the face. Yellow rings moving before the eyes. Compelled to make the eyes small, with pain in forehead; heaviness of eyes, and nausea.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Compelled to make small during pain in forehead. Flickering before eyes. Redness of eyes with yellow vision. Pain deep in orbits",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Yellow rings moving before eyes. Unsteady, anxious look. Dimness before eyes while writing. Flickering. Pain deep in orbits, as if in muscles, < on right side. Congestion to eyes ; pressure in orbits. Lachrymation. Occasional attacks of twitching of left eyelids during day, and a spasmodic jerk of whole body just when falling asleep at night. Heaviness of eyes, with frontal headache. Has to close eyes, with pain in forehead.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "ears": [
@@ -47,6 +72,14 @@
       {
         "text": "Hates musical sounds and noises, they set her all in a tremor. Earache. Stitches in the ears; first in the l. ear, afterwards in the r. Internal and external heat of the ears. Cracking in the ears when reading aloud or moving jaws. Just after getting into bed, sudden explosion and clashing in l. ear, as from breaking of glass; the clink of the glass was heard at the bottom of the head and extended thence towards r. ear.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Cracking when chewing. Sudden explosion and clashing in left ear. Tinkling as of some thin, shivered, metallic globe in head",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Hates musical sounds and noises, they set her all in a tremor. θ Hysteria. Cracking in ears when moving jaw. Sticking pain in left ear, later in right Internal and external heat of ears.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "nose": [
@@ -57,6 +90,14 @@
       {
         "text": "Redness of the nose in the open, cold air. Coldness of the point of the nose. Bleeding of the nose in bed after awaking. Dryness of the nose in the morning in bed.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Coldness of tip. Bleeding in morning on awakening. Full of crusts",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Nosebleed, in bed after waking. Coryza, with burning and pain in nose ; on sneezing, stitches in umbilical region. Redness of nose in open cold air. Coldness of point of nose. Dryness of nose in morning, in bed.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "face": [
@@ -67,6 +108,14 @@
       {
         "text": "Heat of the face when excited, or during headache. Face pale during cloudy weather. Lips dry; cracked; swollen; pustular; sore at corners.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Marked redness of lips",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Heat of face with headache or when excited. Face pale, during cloudy weather. Face sickly, sunken. Lips : redder than usual ; dry, cracked ; moist, soreness of borders ; white, scaly. Pain when yawning or masticating solid food ; < in evening and in morning, when waking.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "mouth": [
@@ -95,12 +144,28 @@
       {
         "text": "Increased secretion of urine, esp. at night. Frequent urging; burning when urinating. Every time on passing urine feeling as if some thin stool would escape with it.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Incontinence in aged, bearing-down sensation and enlarged prostate. Scanty and high colored",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Every time on passing urine, feeling as if some thin stool would escape with it. Burning when urinating. Frequent urging to urinate ; > at night ; or in afternoon. Urine copious ; especially after stool. Urine saffron-yellow, becoming cloudy ; scanty, hot. Sediment yellowish, like bran, or slimy. Incontinence of urine. θ In an old man with enlarged prostate (diarrhœa and urinary symptoms are present). So urgent a desire that he can hardly retain urine. Erections after urinating.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "respiratory": [
       {
         "text": "RESPIRATORY APPARATUS. ► Scraping in the larynx, [27] . ► Trembling and shocks in the larynx and tongue for some minutes, [27] . [860.] ► Scraping in the larynx, with tickling in the fold of the neck, [27] . ► Raw pain in the larynx when spitting, [27] . ► Stitching in the right side of the larynx with each paroxysm of cough, [27] . ► In a dream at night he was in danger; he would have screamed out, but could not, from hoarseness; in the morning he awoke with hoarseness low down in the fauces, which disappeared after breakfast (third day), [5] . ► Voice husky; hawking, coryza-feeling in the nose, with chilliness (twenty-fourth day), [7] . ► Raw voice, morning, [7] . ► Scraping in the throat, producing cough, [1] . ► A scraping feeling in the throat shows itself sometimes in the morning hours, and forces a not entirely dry hacking many times, [1] . ► A tickling irritation to cough in the fauces, without expectoration, but with the taste in the mouth of ink or iron (evening of fourteenth and morning of fifteenth and sixteenth days), [7] . ► Dry cough, especially troublesome towards evening, [27] . [870.] ► Hoarse, crepitant, deep-sounding cough, as if the whole trachea was raw, dry, and full of mucus, [27] . ► Dry cough, sometimes provoked by determination of blood to the chest (second day), [2] . ► Cough, followed by expectoration of a substance the size of a bean; it is composed of mucus, yellow, tenacious, and difficult to break up, [27] . ► Constant expectoration, caused by tickling and scraping in larynx, [27] . ► Hæmoptysis, [14] , [20] . ► Whistling in the throat, as if something had fallen into the trachea and embarrassed respiration, [27] . ► Whistling and labored respiration, [27] . ► Five drops of the tincture were given for pressure in the abdomen, with pain in the loins and weakness in the legs; then followed apprehension, the breath will stay away on going up stairs; could not work, became anxious, with paralysis in all the limbs; the cutaneous veins disappeared; must sit and sleep; at first, he felt better walking than sitting; after a few hours these symptoms and those of the disease were much relieved, [1] . ► Difficult respiration, [27] . ► Restricted respiration and hæmoptysis, [14] , [20] . [880.] ► Wheezing, panting inspiration; evenings, after smoking tobacco, [3] , [8] . ► Asthma and wheezing (Dioscorides). ► Free respiration, [11] .",
         "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Winter coughs, with itching. Difficult respiration, with stitches from liver to chest",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Aloe]. Voice husky. Hawking. Scraping in larynx. Whistling in throat, as if something had fallen into trachea. Difficult respiration. Respiration impeded : by stitches through left side of chest ; by stitches from liver into chest. When drawing a long breath : stitches in liver. Cough with stitches in right side of larynx ; sputa of yellow, tenacious mucus. Cough with scratching in throat. When she would sit down after standing, or stand up after sitting down, she would cough and tears would flow. θ Hysteria. Spitting blood.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "heart": [
@@ -117,6 +182,14 @@
       {
         "text": "Lumbago, alternating with headache. Pain in the small of the back, sitting, or when awaking at night; > moving about.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pain in small of back; worse moving. Stitches through sacrum. Lumbago alternating with headache and piles",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Dull, steady pain on either side, just above innominata, running into rectum, later becomes a throbbing, itching sensation of fulness, always with a feeling as if prostate was swollen and sensitive ; < in wet weather. Sometimes there was twitching in perineum, at one time feeling as if \"asleep,\" all ending with a slight pain and lameness in left thigh of short duration. Backache. θ Prolapsus uteri. Lumbago, alternating with headache. Stitches through sacrum to loins. Pressure and heaviness in sacral region while sitting ; better from motion. Creeping beginning in sacrum, in bone, extending to coccyx, until it was a creeping in bones over whole body.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "generalities": [
@@ -135,6 +208,10 @@
       {
         "text": "Cold hands with warm feet. Lameness in all the limbs. Pricking, dull twitching, drawing pain in the joints (fingers, knees, elbows). Sensation of weakness in the joints of the hands and feet. Pains of short duration, as if bruised or dislocated (l. forearm, r. shoulder-blade, l. ribs). Great weakness, and weak pulse after vomiting. Bad effects from sedentary habits. Esp. suitable for persons of a lymphatic or hypochondriac temperament.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Debility. θ Prolapsus uteri. General weakness, weariness. Weakness inconsiderable, even when skin was golden color. Lassitude alternating with mental activity. Extreme prostration, with perspiration. Paralytic drawing in muscles. Faint feeling after stool. θ Dysentery. Trembling from musical sounds or noises. θ Hysteria. Hysteria from poisoning of blood with uric acid. Twitching of eyelids. Periodic heat of face, with headache. Attacks preceded by obstinate constipation. θ Colic. Sudden, quickly passing urging to stool. Pains of short duration. As Winter approaches each year itch manifests itself. Alternate : headache and lumbago. Locality and Direction. Right : eyes, nose, stitches in larynx ; scapula bruised ; arm heavy ; wrist joint weak. Left : wind in descending colon ; stitches in chest ; pain through to left scapula ; ribs bruised ; pain along ureter ; pain and lameness in thigh. Left to right : earache. From behind forward : stitches in tongue. In spots : sensitiveness of scalp. Feeling of vermin running over body. θ Hysteria. Giddiness, feels as if he was sitting too high ; as if everything whirled with her ; musical sounds and noises set her in a tremor ; fauces as if burnt ; as if griping of bowels would take place ; as if vomiting was coming on ; empty feeling in stomach ; pelvis as if filled with hot water ; as if diarrhœa would result ; as if a plug was wedged between symphysis pubis and os coccygis ; as if stool would pass ; as if stool would escape with flatus ; as if rectum was full of fluid which feels heavy, as if it would fall out ; feeling as from fissures in rectum ; is compelled to contract anus, which makes it tense and achy ; as if stool would escape when passing urine ; can hardly retain urine ; faint feeling after effort at stool ; as if something had fallen into trachea causing whistling ; as if prostate was swollen and sensitive ; feeling as if asleep in perineum ; female organs feel as if torn ; as of hairs on back of hand and fingers. Pain : in forehead ; deep in orbits ; at umbilicus ; in scrobiculum ; in stomach ; in hypochondria ; in left side along ureter ; in hypogastrium. Boring : in region of navel ; in rectum. Stitches : in temples ; in umbilical region ; in under part of tongue ; from liver into chest ; from spleen into chest ; through left chest ; in right side of larynx ; through sacrum to loins. Pricking : caused by feces in anus ; in joints ; in fingers ; knees, elbows. Sticking : in ears. Shooting : in region of navel. Cutting : across abdomen ; in right and lower portion of abdomen ; in anus. Griping : in upper abdomen ; around navel ; in right and lower portion of abdomen. Burning : in nose ; in hepatic region ; in abdomen ; in anus ; when urinating. Scraping : in larynx. Soreness : of borders of lips ; in mouth ; in front of chest. Rawness : in pharynx. Pressure : in forehead and occiput ; under sternum ; through pit of stomach to back ; in hepatic region ; in sacral region. Pressing outward : to temples ; in anus. Pressing downward : in pelvis ; in rectum. Drawing : into loins ; in joints ; in fingers, knees, elbows. Labor-like pains ; in groins and loins ; down legs. Dragging : in abdomen ; in rectum. Dull pressive pain : in supraorbital region ; in sinciput ; in hepatic region. Painful weakness : of legs. Bruised feeling : left forearm ; right scapula ; left ribs. Dulness : in forehead. Dull steady pain : on either side just above innominata, running into rectum. Pulsations : in region of navel ; in rectum. Sprained feeling : in great toe. Dislocated feeling : left forearm ; right scapula ; left ribs. Heaviness : of eyes ; in abdomen ; in hypogastrium ; in rectum ; in uterine region ; in sacral region. Burning weight : in anus. Fulness : in stomach ; in abdomen ; in anus ; in uterine region ; in pelvis. Tensive : in hepatic region. Swollen feeling : in pharynx. Uneasiness : in hepatic region. Lameness : from weight and pressure in pelvis ; in left thigh ; in limbs. Heat : of face ; of ears ; in hepatic region ; in hypogastrium ; in rectum ; of right arm ; in spots on scalp or in face. Coldness : of point of nose. Creeping : from sacrum over whole body. Weakness : of chest ; of wrist joint ; of ankle joint ; of joints. Dryness : of hair ; of nose ; of mouth. Itching : in rectum ; in anus ; of prepuce ; of legs. Congestion to head and chest, but especially to portal system. Mucous membranes ; especially causes production of mucus in jelly-like lumps or cakes. Acts mainly on rectal mucous lining. TOUCH. PASSIVE MOTION. INJURIES. [45] [Aloe]. Touch : muscles (especially of abdomen) sensitive ; scalp tender ; epididymis sensitive. Pressure : aggravates pains in head ; abdominal pains. Old people. θ Colic and diarrhœa. Man æt. 45 taken with dysentery confining him to his bed a month at a time. Old men with enlarged prostate. Women æt. 55 ; and 65 ; colic. Climacteric years. Phlegmatic, indolent. Women of relaxed phlegmatic habit. θ Prolapsus uteri.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "skin": [
@@ -145,6 +222,10 @@
       {
         "text": "Itching, esp. of legs. Spots which, when scratched, pain and become sensitive.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Itching, especially of legs. Pimples on abdomen. Spots which, when scratched, pain and become sensitive.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "fever": [
@@ -161,6 +242,10 @@
       {
         "text": "Cannot get to sleep for a long time, thoughts crowd upon him and keep him awake.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sleeps soundly for 8 hours, awakes very lazy and refreshed ; feels better in A. M. Drowsy, dozing in morning. Awakened : by thirst ; urgency to urinate ; pollutions and sexual desire ; pains in back ; chill. Oppressive dreams of danger, could not cry out ; dreams of soiling himself. Spasmodic jerks when falling asleep. Cannot sleep : heat and a crowd of thoughts busy him ; itching and burning in anus ; cold hands and feet. During siesta : seminal emission.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "keynotes": [
@@ -455,59 +540,192 @@
       {
         "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Aloe. Mind and Disposition. Anxiety and ebullition. Restlessness, fear, fear of man. Bad humor, especially in cloudy weather. He is dissatisfied and angry about himself ; more so when he is constipated or when he augers from pain ; better in the open air. [5] Aversion to labor. Children chat and laugh. Head. Giddiness and starts. Giddiness, with anxiety when moving ; he feels as if he were sitting too high (after dinner). Dulness in the forehead, with chilliness. [10] Pressure in the forehead and vertex, as from a weight. Pressing pain above the eyes. Congestions to the head, compelling one to sit up. Stitches above the eyebrows. Pressing out of the temples, with flickering before the eyes and heat in the face. [15] Stitches in the temples at every step. Headache after pain in the abdomen ; after (an insufficient) stool ; worse from heat, better from cold. Sensitiveness of the scalp (in small spots). With the pain in the forehead the eyes become smell. Eyes. Congestion to the eyes ; pressure in the orbits. [20] Lachrymation. Ears. Earache. Stitches in the ears ; first in the left ear, afterwards in the right ear. Internal and external heat of the ears. Cracking in the ears when reading aloud. Nose. [25] Redness of the nose in the open, cold air. Coldness of the point of the nose. Bleeding of the nose in bed after awaking. Dryness of the nose in the morning, in bed. Face. Heat of the face when excited, or during headache. [30] Face pale during cloudy weather. Mouth. Lips dry, peeling of, cracked, bleeding. Yellow ulcers on the tongue. Tongue painful. When moving the tongue, stitches from below to the tip. [35] Dry tongue and mouth, with increased thirst and greater redness of the lips. Tongue red and dry. Teeth. Great sensitiveness of a decayed molar tooth (lower) right side. Throat. Throat rough, scraped, hot, as if burnt. Pain, when yawning, masticating solid food ; worse in the evening, and in the morning, when awaking. [40] Thick lumps of tough mucus in the throat. Appetite and Taste. Taste bitter, sour, like ink. Aversion to meat ; desire for juicy things (fruits). Hunger unusually keen in the evening. Thirst while eating, after eating, and during the night. [45] After eating flatulency, pulsations in the rectum, and sexual irritation. Stomach. Pain in the stomach after drinking water. Sour things disagree with him. Vomiting of blood. Eructations ; tasteless, bitter, sour. [50] Pain in the pit of the stomach from a mis-step. Abdomen. Tension in the region of the liver. Pain in the liver, when standing ; stitches in the liver, when drawing a long breath. Congestion to the abdomen, (portal system). Sensation of fulness, heaviness, heat and inflammation. [55] The whole abdomen is painfully sensitive to the touch. Bloated abdomen, more on the left side, or along the colon, worse after eating. Pulsation in the region of the navel. Pain around the navel, worse from pressure. Rumbling in the abdomen. [60] Discharge of much flatulency, burning, smelling offensive, relieving the pain in the abdomen, after each meal, in the evening and morning, before stools. Cutting in the abdomen, with disinclination to go into the open air, which relieves the pain. The abdominal walls are painful when rising, pressing to stool, when touched, and when standing erect. Heaviness, fulness, and pressing downwards in the pelvis. Stool and Anus. Sudden or continued desire to go to stool. [65] Continuous desire to go to stool. Desire for a stool after each meal. Rumbling and cramp in the abdomen, before and during stool. The hard stool falls opt without being noticed. Involuntary soft stool, while passing wind. [70] With the diarrha flatulency, pinching in the abdomen, pain in the back and rectum, and chilliness. Stools like mush-thin, bright yellow, gray, hot, undigested. During the stool, congestion to the head and red face, or hunger. Heaviness, heat, pressing, burning in the rectum. Mucus and blood in the fæces. [75] Itching, burning, pulsations, pain as from fissures, at the anus. Hæmorrhoidal tumors protrude like bunches of grapes, very painful, sore, tender, hot, relieved by cold water. Urine. Increased secretion of urine, especially at night. Sexual Organs. Men . Increased sexual desire. Worse after awaking, after eating, in the evening. Erections in the morning, and after passing water. [80] Involuntary emissions during the siesta, towards morning, followed by sexual excitement, micturition and stool, and restless sleep. Penis shrunk, and testicles cold. Women. Fulness and heaviness in the region of the uterus. Labor-like pains drawing into the legs. Catamenia too early, and too profuse. [85] During menstruation, headache, which is relieved by the application of cold water ; ear-ache, pain in the small of the back, pressing down in the rectum. Fullness in the pelvis. Fluor albus. Chest. Congestion to the chest. Breathing impeded by stitches in the left side of the chest. [90] Expectoration of blood. Back. Pain in the small of the back, worse when sitting, or when awaking at night, better when moving about. Extremities. Cold hands, with warm feet. Generalities. Great weakness, and weak pulse after vomiting. Lameness in all the limbs. [95] Pricking, dull twitching, drawing pain in the joints, (fingers, knees, elbows). Sensation of weakness in the joints of the hands and feet. Pains of short duration, as if bruised or dislocated, (left forearm, right shoulder-blade, left ribs). Bad effects from sedentary habits. Especially suitable for persons of a lymphatic or hypochondriac temperament. Conditions. [100] Aggravation . When standing erect, or from sitting still, (small of the back). Drinking vinegar, (colic). From motion, (nausea, pain in the abdomen). In the afternoon, especially the symptoms of the mucous membranes. Amelioration , from cold water, (head). When walking. Copyright © Médi-T 2006",
         "source_id": "lippe-textbook-mm-1866"
+      },
+      {
+        "text": "Adapted to indolent, \"weary\" persons; averse to either mental or physical labor; mental labor fatigues. Old people; especially women of relaxed, phelgmatic habit. Extreme prostration, with perspiration. Itch appears each year, as winter approaches (Psor.). Dissatisfied and angry about himself or his complaints, especially when constipated. Diseases of mucous membranes; causes the production of mucus in jelly-like lumps from throat or rectum; affects mucous membrane of rectum. Headache across the forehead immediately after eating and drinking (Crot. t.); with want of confidence in sphincter ani; driving out of bed early in the morning (Psor., Rum., Sulph.). When passing flatus, sensation as if stool would pass with it. (Olean., Mur. ac., Nat. m.). Colic: cutting, griping pain in right lower portion of abdomen; excruciating, before and during stool; all pains cease after stool, leaving profuse sweating and extreme weakness; attacks preceded by obstinate constipation. Flatus offensive, burning copious; much flatus with small stool (Agar.); burning in anus after passage of flatus. Solid stool and masses of mucus pass involuntarily; hungry during diarrhoea. Before stool: rumbling, violent sudden urging; heaviness in rectum; during stool, tenesmus and much flatus; after stool faintness. Haemorrhoids: blue, like a bunch of grapes (Mur. ac.); constant bearing down in rectum; bleeding, sore, tender, hot, relieved by cold water; intense itching. Itching and burning in anus, preventing sleep (Ind.).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relationship. - Like Sulphur in many chronic diseases with abdominal plethora and congestion of portal circulation; develops suppressed eruptions. Similar: to, Am. m., Gamb., Nux, Pod.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - Early morning; sedentary life; hot dry weather; after eating or drinking; standing or walking.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Amelioration. - Cold water; cold weather; discharge of flatus and stool.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "color=\"#800000\">ALOE SOCOTRINA Socotrine Aloes (ALOE) An excellent remedy to aid in re-establishing physiological equilibrium after much dosing, where disease and drug symptoms are much mixed. There is no remedy richer in symptoms of portal congestion and none that has given better clinical results, both for the primary pathological condition and secondary phenomena. Bad effects from sedentary life or habits. Especially suitable to lymphatic and hypochondriacal patients. The rectal symptoms usually determine the choice. Adapted to weary people, the aged, and phlegmatic, old beer-drinkers. Dissatisfied and angry about himself, alternating with lumbago. Heat internally and externally. Has been used successfully in the treatment of consumption by giving the pure juice.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T ALOE SOCOTRINA The key-notes of this most important remedy are found in the stool, rectum, and anus. The characteristic stool is a \"gob\" of mucus, either large or small, in consistence like the jelly-fish; usually dark in color, but sometimes colorless. Another strong characteristic is that the stools often pass away unnoticed by the patient. I once had a most. important and intractable case of severe illness, high fever, troublesome cough, restlessness, pain and suffering, with great debility; could not stand, sit, or bold up the head when held in a sitting posture. No remedy had the least effect. At last I learned that well-formed stools were found in her bed which had passed the rectum and anus entirely unnoticed. Whereupon Aloe 50m, a single dose was given. In six hours thereafter improvement was manifested, and in one week's time she was well. Mental.-- Disinclined to perform either physical or mental labor. Lassitude or exhaustion alternating with mental or physical activity. Suffering makes her frantic, often loses consciousness. Seems to have a presentiment of approaching death. Angry, revengeful, wishes to destroy the object of her wrath. Head.-- Dull headache in sinciput, with heaviness in eyes, and nausea. Headaches are worse from heat and better from cold applications. Sense of weight on vertex and pressure in sinciput and occiput. After insufficient stool, headache and pain in the abdomen. Eyes.-- One is compelled to partially close the eyelids from pain in forehead. Yellow rings moving before the eyes. Pain deep in the orbits. Mouth.-- Lips dry, peeling, cracked and bleeding. Tongue and mouth dry with increased thirst; red lips, dry tongue. The concave surfaces of the teeth seem to hurt the tongue. Metallic taste, with dry, irritative hacking. Has to hurry to stool immediately after eating and drinking. Throat.-- Rough, scraped, as if burned. Sore throat worse by yawning or masticating. Thick lumps of tough mucus, like the characteristic stool. Abdomen.-- In region of the liver sensation of fulness, heaviness, must lean forward to relieve pain under the right ribs; in liver, heat and inflammation; the discharge of hot, offensive flatus relieves the pain in the abdomen. Heaviness, fulness, and pressing down in the pelvis. Sensation of tightness in region of liver; stitches in the liver. Griping in abdomen before, with and after stool. Much soreness in the whole abdominal cavity, so that a false step hurts clear to the pit of the stomach. Violent cutting, griping pain in right lower abdomen before and during stool; perfectly relieved after stool. Distension of the epigastric region, with flatus moving about in the abdomen. Sensation in abdomen as if diarrha would take place. A good deal of heat, burning and heaviness in the abdomen. Gastric.-- Aversion to meat. Stool and Anus.-- Pulsations in rectum after eating. Sensation of heaviness, heat, burning soreness in the rectum and anus, one or more of these at the same time, sometimes before and sometimes after stool. Itching and burning in the anus preventing sleep. Sensation as if more stool should pass; fears to evacuate it on account of the soreness, yet does not draw the anus together on account of pain it occasions. Loss of power of sphincter ani, which allows feces to pass involuntarily, particularly after stool. Constant feeling as if one ought to go to stool. Urging, wakes at night many times, driving one out of bed in the morning. Passes bloody mucus after urging and straining. Great care is necessary lest he passes stool with the flatus, also fears he will pass stool whilst urinating. The stool passes without effort, almost without being noticed; also, solid, well-formed stools pass unnoticed, till found in bed or elsewhere. A troublesome sensation as if still more feces will pass after a thin stool, but without tenesmus. Every morning on rising has a hasty desire for stool, with rumbling in the abdomen, and finally sputtering stool. Feces and urine will pass at the same time, cannot pass one without the other. One must go to stool soon after a meal. Stools are very often hot. Urging to stool, passing only hot flatus, which affords great relief: soon the urging returns with a sensation as of a plug wedged between the pubis and coccygis. Fissures of the anus. After stool, feels extremely weak and prostrated. Much hæmorrhage from the bowels, feels like a stool, nothing but pure blood passes. Hæmorrhoids, like bunch of grapes, protrude with bearing down, bleeding, sore, hot, relieved by cold water. The stools may be nothing but pure mucus, even transparent. Passing of large quantities of flatus, sometimes offensive, sometimes not, Sometimes feels as if bowels would move when nothing but flatus passes. Jelly-fish stools . Stools may be thin, or lumpy and fluid, yellow, bright yellow, or bilious, or slimy, or blood and slime, mucus. As a rule there is much less tenesmus with Aloes than with many other remedies--the stool falls away so easily. Urine.-- Frequent urging with burning; worse at night. Sexual.-- Female : Labor-like pains in the loins and groins, with fulness and heaviness in the uterine region, worse when standing. Labor-like pains extend down the legs. Uterine hæmorrhage about the change of life. Pressing down in the rectum during catamenia. Menses too early and too profuse, with sense of weight and heaviness in the pelvis. Leucorrha of bloody mucus, heaviness in pelvis. Prolapsus uteri with the above symptoms. Back.-- Pressing and heaviness in sacral region, especially on sitting, relieved on motion. Lumbago, alternating with headache. Sleep.-- Cannot get to sleep for a long time, thoughts crowd upon him and keep him awake. Worse.-- From yawning or masticating; after eating; sedentary habits. Awakes in the morning with severe urging to stool. The symptoms of the mucous membranes get worse in the afternoon. Many symptoms increase in the evening. Attacks following a most obstinate constipation. Better.-- After cold water, in headache, hæmorrhoids, etc., and cold weather; discharge of flatus. Copyright © Médi-T 2000",
+        "source_id": "guernsey-keynotes-1887"
+      },
+      {
+        "text": "Insecurity of rectum; rectum feels full of heavy fluid, which will fall out, and does, if he does not go to stool immediately. Diarrhea.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Solid stool, passing (in large balls) away involuntarily and unnoticed.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Great fullness and weight in whole abdomen, with feeling of weight in rectum and hæmorrhoids protruding like a bunch of grapes; > by cold water applied.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "This remedy should be considered alongside of Podophyllum because it is one of the so-called cathartics. Although one is as decided a cathartic as the other the characteristics which guide to their choice are very different.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Both are apt to be worse during hot weather.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Both are apt to be worse in the morning.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Both are often well supplemented with Sulphur.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "But now let us look at some of the more marked and peculiar symptoms of Aloe. Stools yellow, fæcal, bloody or transparent jelly-like mucus. Sometimes this jelly-like mucus (Kali bich.) comes in great masses, or \"gobs,\" and drops out of the rectum almost unnoticed. Again the stools are often passed involuntarily when expelling flatus or passing urine. There seems to be not only an actual weakness in the sphincter ani, but a distressing sense of weakness. The rectum feels as if full of heavy fluid which will fall out of escape from the patient, and in fact does so if he doesn't \"git there, Eli\" This escape of stool with flatus in Aloe finds its counterpart in Oleander. No two remedies are more alike in this respect, though Muriatic acid is also similar. Again a very characteristic symptom in the Aloe diarrhœa is \"Great rumbling in the abdomen just before stool,\" and the feeling of weight in the rectum already mentioned is not always confined to the rectum, but is also felt through the whole pelvis and abdomen. Again, the rectum protrudes in Aloe like a bunch of grapes, and is relieved by the application of cold water. Muriatic acid is relieved by hot applications. Both of these remedies have blue hæmorrhoids; the Aloe itching intensely, while those of Muriatic acid are very sore and sensitive to touch, even of the bed clothes. In addition to the aggravations already mentioned, the diarrhea of Aloe is aggravated by walking or standing, after eating or drinking.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "In dysentery there is violent tenesmus, heat in the rectum, prostration even to fainting and profuse clammy sweats. The weakness of the sphincter ani is also found in constipation. It is a curious symptom, and I would not believe it until I had seen it with my own eyes. \"Solid stool passing involuntarily, passing away unnoticed.\" I was called to treat a child five years of age suffering from birth with a most obstinate form of constipation. He had to be forced and held to the stool crying and screaming all the while being totally unable to pass any fæces even after an enema. After trying several remedies in vain, I asked the mother to turn the child over (he was in bed) to let me examine the anus and rectum. As she turned down the bed clothes to do so, a large chunk of solid fæces appeared in the bed. \"There,\" she said, \"that is the way it is. Notwithstanding his inability to pass stool when he tries, we often find these things in the bed, and he does not know when they pass, nor do we.\" I then gave a few doses of Aloe 200th and cured the whole trouble quickly and permanently. Aloe like Podophyllum has also prolapsus uteri, and the feeling of heat, heaviness and fullness in the abdomen, pelvis and rectum guides to its selection. Like Podophyllum, also, its range of action is not wide, but positive, reliable and satisfactory.",
+        "source_id": "nash-leaders-1899"
       }
     ],
     "relationships": {
       "_raw": [
-        "Aloe is related to: All. cep., All. s., Agave, Scilla, Colch. It is antidoted by: Sul., Mustard, Camph. relieves for a while, Lyc., and Nux v. relieve the earache. It resembles: Sul. in many symptoms, and is of equal importance with Sul. in chronic diseases with abdominal plethora; Ailanth. (dull, frontal headache); Gambog. (diarrhœa); Ammon. mur. (abdominal and diarrhœic symptoms); Nux v. (gastric, abdominal and uterine troubles: bad effects of sedentary habits); Æsc. (hæmorrhoids); Merc. (dysentery); Pod. (alternations between head symptoms and abdominal symptoms)."
+        "Aloe is related to: All. cep., All. s., Agave, Scilla, Colch. It is antidoted by: Sul., Mustard, Camph. relieves for a while, Lyc., and Nux v. relieve the earache. It resembles: Sul. in many symptoms, and is of equal importance with Sul. in chronic diseases with abdominal plethora; Ailanth. (dull, frontal headache); Gambog. (diarrhœa); Ammon. mur. (abdominal and diarrhœic symptoms); Nux v. (gastric, abdominal and uterine troubles: bad effects of sedentary habits); Æsc. (hæmorrhoids); Merc. (dysentery); Pod. (alternations between head symptoms and abdominal symptoms).",
+        "Aloe has many symptoms like Sulphur, and is equally important in chronic diseases, with abdominal plethora, etc",
+        "Similar to Ailant. (dull frontal headache) ; Gum. gutt. (diarrhœa) ; Amm. mur. (abdominal and diarrheic symptoms) ; Nux vom. (gastric abdominal and uterine troubles ; bad effects of sedentary habits)",
+        "Antidotes to Aloe : Sulphur, mustard",
+        "Camphor relieves for awhile",
+        "Nux vom. and Lycop. relieve the earache",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ],
+      "complementary": [
+        "Sulphur",
+        "compare: Kali bich",
+        "Lycop",
+        "Allium sat"
+      ],
+      "antidoted_by": [
+        "Opium",
+        "Sulph"
       ]
     },
     "mental_emotional": [
       {
         "text": "Anxiety and ebullition of the blood. Restlessness, fear, fear of man. Bad humour, esp. in cloudy weather. He is dissatisfied and angry about himself; more so when he is constipated or when he suffers from pain; better in the open air. Suffering makes her frantic, often loses consciousness. Seems to have a presentiment of approaching death. Angry, revengeful, wishes to destroy the object of her wrath. Aversion to labour. Great disinclination to mental labour; it fatigues him. Disinclined to move. Exhaustion, alternating with activity. Children much enlivened, chat and laugh. Annoying amorous thoughts present themselves.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Lassitude, alternating with great mental activity. She knew she would die in a week. θ Hysteria. Life is a burden. θ Colic. Great disposition for desultory thinking. Children chat and laugh. Aversion to labor ; disinclination to mental labor ; it fatigues him ; general languor. Disinclined to move. Anxiety and ebullitions. Restlessness and fear ; fear of men. Ill-humored ; hypochondriacal, < in cloudy weather. Dissatisfied and angry about himself, more so when he is constipated or suffers from pain. An easily excited, angry, revengeful state of mind, could not brook opposition, wanted to destroy object of wrath, relief from tea or mild stimulants ; < in middle of day. Attacks make her frantic, often loses consciousness. θ Colic. Hates people, repels everyone. When sitting in a chair or lying in bed, complains of persons stepping hard or quickly. θ Hysteria. Restlessness with ebullitions of blood. Fright at slight noises, after a nocturnal emission. Giddiness and starts. Giddiness, with anxiety when moving ; he feels as if he was sitting too high (after dinner). Dulness in forehead, with chilliness. Vertigo : as if everything whirled with her, < on going upstairs or turning quickly ; everything seems insecure ; > after nasal catarrh sets in. Loses consciousness, with frantic spells.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "mouth_throat": [
       {
         "text": "Great sensitiveness of a decayed molar tooth (lower) r. side. Teeth yellow. Concave edges of teeth seem sharp, and hurt the tongue. Metallic taste, with dry, irritative hacking. Lips dry, peeling off, cracked, bleeding. Yellow spots in mouth; yellow ulcers on the tongue. Tongue painful. When moving the tongue, stitches from below to the tip. Dry tongue and mouth; with increased thirst and greater redness of the lips. Tongue red and dry. Accumulation of saliva in mouth. Throat rough, scraped, hot, as if burnt. Pain, when yawning, masticating solid food; worse in the evening and in the morning, when awaking. Thick lumps of tough jelly-like mucus in the throat and posterior nares.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Taste bitter and sour. Tasteless eructations. Lips cracked and dry",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Thick lumps of tough mucus. Varicose condition of veins in pharynx. Dry, scrapy feeling",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Sensitiveness in a hollow molar ; < when eating ; later a pustule appears on gum, near diseased tooth. Concave edges of teeth seem sharp, they hurt the tongue. Metallic taste, with dry, irritative hacking. Taste : bitter, sour, like ink or iron. Tongue : coated yellowish-white ; stiff ; dry, red. Severe fine stitches, from behind forward, in under part of tongue when moving it. Yellow ulcers on tongue. Dry tongue and mouth, with increased thirst and greater redness of lips. Inflamed, sore spot in the mouth, on tongue, inside of cheeks ; yellow ulcers on tongue. Sickening smell from mouth. Increase of saliva. Fauces raw, hot, as if burnt. Palate swollen ; arches of velum palati pain on chewing hard food, or on yawning, < in evening and in morning on awaking ; < on empty swallowing. Hawking of thick jelly-like mucus, in lumps, from fauces and posterior nares ; rawness and swollen feeling in pharynx.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "stomach_abdomen": [
       {
         "text": "Taste bitter, sour, like ink. Aversion to meat; desire for juicy things (fruits); for salt food. Hunger unusually keen in the evening. Thirst while eating, after eating, and during the night. After eating, flatulency, pulsations in the rectum, and sexual irritation. As soon as he eats anything, must hurry to stool. Sweats after drinking. Pain in the stomach after drinking water. Sour things disagree with him. Vomiting of blood. Eructations; tasteless, bitter, sour. Pain in the pit of the stomach from a mis-step. Painful pressure under the sternum. Tension in the region of the liver. Uneasiness, heat, pressure, and tension in the region of the liver. Pain in the liver, on standing, so that he bends forward. Stitches in the liver, when drawing a long breath. Congestion to the abdomen. Sensation of fulness, heaviness, heat and inflammation. The whole abdomen is painfully sensitive to the touch. Abdominal muscles pain when touched, when pressing at stool, or on rising from a recumbent position. Bloated abdomen, more on the left side, or along the colon, worse after eating. Distension of the abdomen, esp. the epigastrium; with flatus moving about. Pulsation in the region of the navel. Pain around the navel, worse from pressure. Rumbling in the abdomen. Discharge of much flatulency, burning, smelling offensive, relieving the pain in the abdomen; after each meal, in the evening and morning, before stools. Much soreness in the whole abdominal cavity, so that a false step hurts clear to the pit of the stomach. Cutting in the abdomen with disinclination to go into the open air, which relieves the pain. Heaviness, fulness, and pressing down in the pelvis. Sensation of a plug wedged in between symphysis pubis and coccyx; with urging.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Aversion to meat. Longing for juicy things. After eating, flatulence, pulsation in rectum and sexual irritation. Nausea, with headache. Pain in pit when making false step",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pain around navel, worse pressure. Fullness in region of liver, pain under right ribs. Abdomen feels full, heavy, hot, bloated. Pulsating pain around navel. Weak feeling, as if diarrhœa would come on. Great accumulation of flatus, pressing downwards, causing distress in lower bowels. Sensation of plug between symphysis pubis and os coccygis, with urging to stool. Colic before and during stool. Burning, copious flatus",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Aloe]. Appetite for salt food. No appetite. θ Hysteria. Thirst : with dryness of mouth ; awakens at night. Longing for juicy articles ; fruits, especially apples. Aversion to meat. Soon after supper, growling in abdomen, as if griping of bowels would take place. As soon as he eats anything, he must go to stool. He has to hurry to closet immediately after eating and drinking. θ Colic. After eating : flatulency, pulsations in rectum and sexual irritation. After meals : distension of abdomen. Hungry during diarrhœa ; hungry after morning stool. Sour food does not agree. Beer relieves pains in anus ; drinking vinegar, colic. Water causes pains in stomach. Thirst while eating, after eating, and during night. Sweats after drinking. Belching, with oppression of stomach. Eructations : bitter ; acrid ; sour or tasteless. Rising of flatulence towards throat, with sensation as if vomiting were coming on. Nausea : with frontal headache ; with empty feeling in stomach ; with pain at umbilicus. Vomiting of blood. Painful pressure under sternum ; pressure through pit of stomach to back. Pain in scrobiculum on making a false step. Fulness in stomach, followed by distension of epigastrium. Pain and fulness in stomach after drinking water. Painfulness in hypochondria, with chilliness and diarrhœa ; painful weakness of legs. Hepatic region : burning, uneasiness, heat, pressure and tension ; dull pain, worse on standing, so that he bends forward. Stitches from liver into chest, obstructing respiration. Stitches in liver, when drawing a long breath. Distension of hypochondria, better after passing flatus. Increases the flow of bile. Stitches from spleen into chest, or drawing into loins. Pulsation in region of navel. Distension of abdomen, especially epigastrium, with flatus moving about ; worse after meals ; during menstruation ; on motion. Congestion to abdomen (portal system) ; burning sensation. Sensation of fulness, heaviness ; heat and inflammation. Pelvis feels if filled with hot water. Pain around navel, worse from pressure. Stitches in umbilical region from sneezing. Rumbling in abdomen. Discharge of much flatulency, burning, smelling offensive, relieving pain in abdomen ; after each meal, in evening and morning, before stool. Cutting across abdomen ; with ill humor, anthropophobia ; not disposed to got into open air, although it relieves. Abdominal walls painful when rising, pressing to stool, when touched, and when standing erect. Heaviness, fulness, and pressing downward in pelvis. Left side of abdomen bloated, with gurgling in descending colon ; worse after eating. A twisting and griping pain in upper abdomen and around navel, forcing him to sit bent up, which relieves ; therewith, repeated urging to stool, but only offensive burning flatus passes, with short relief of pain. Griping in abdomen, before, with and after stool. Feeling of weakness in abdomen as if diarrhœa would result ; but evacuation did not ensue for eight hours. Shooting and boring in region of navel, < from pressure. Painfulness in whole abdomen, especially in sides and along both sides of navel, which cannot endure being touched ; on making a false step on stone pavements it hurts very much in pit of stomach. Dull abdominal pain, as after taking cold, morning and evening repeatedly, still without inclination to stool. Great and cutting-griping pain in right and lower portion of abdomen, which was excruciating before and during stool ; after stool all pains ceased, leaving profuse sweating and extreme weakness. θ Colic. Fulness, heat and heaviness in epigastrium ; labor-like pains in groins and loins, < when standing. θ Prolapsus uteri. Feeling as if a plug was wedged in between symphysis pubis and os coccygis. Dragging down in abdomen.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "stool_rectum": [
       {
         "text": "Sudden or continued urging to stool; immediately after eating; feeling of fulness and weight in pelvis; only flatus passes. Desire for a stool after each meal. Rumbling and cramp in the abdomen, before and during stool. The hard stool falls without being noticed. Involuntary soft stool, while passing wind. With the diarrhœa, flatulency, pinching in the abdomen, pain in the back and rectum, and chilliness. Diarrhœa very early in morning, driving him out of bed. Stools like mush; thin, bright, yellow, grey, hot, undigested. Frequent stools of bloody water: violent tenesmus; fainting; passing of mucus in jelly-like lumps, much flatus. During the stool, congestion to the head and red face, or hunger. Heaviness, heat, pressing, burning in the rectum. Want of confidence in sphincter ani; rectum seems full of fluid which feels heavy, as if it would fall out. When passing wind, feeling as if stool would escape with it. Itching, burning, pulsations, pain as from fissures, at the anus; preventing sleep. Hæmorrhoidal tumours, protrude like bunches of grapes, very painful, sore, tender, hot, relieved by cold water. Fulness and pressing out in anus.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Constant bearing down in rectum; bleeding, sore, and hot; relieved by cold water. Feeling of weakness and loss of power of sphincter ani. Sense of insecurity in rectum, when passing flatus. Uncertain whether gas or stool will come. Stool passes without effort, almost unnoticed. Lumpy, watery stool. Jelly-like stools, with soreness in rectum after stool. A lot of mucus, with pain in rectum after stool. Hæmorrhoids protrude like grapes; very sore and tender; better cold water application. Burning in anus and rectum. Constipation, with heavy pressure in lower part of abdomen. Diarrhœa from beer",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Urging to stool continuously ; worse immediately after eating ; feeling of fulness and weight in pelvis ; only flatus passes. Urging to stool with passage of urine ; every time on passing urine, feeling as if stool would pass. The not too hard feces cause a pricking in anus, later continuous pain in anus compelling him to draw it together frequently, whereby it becomes tense and achy. Fulness and pressing out in anus. Hemorrhoids : protrude like a bunch of grapes ; constant bearing down in rectum ; bleeding ; sore, tender, hot ; relieved by cold water. Itching and burning in anus, preventing sleep. Pain in left side down along ureter. θ Hysteria.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "male": [
       {
         "text": "Sexual desire increased; after awaking; after eating; in the evening. Erections in the morning, and after passing water. Involuntary emissions during the siesta; towards morning; followed by sexual excitement, micturition, and stool, and restless sleep. Penis shrunk, and testicles cold.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Semen comes too soon. All the semen is not ejected. Sexual desire increased : after awaking ; after eating ; in evening. Seminal emissions ; strong desire afterwards. Involuntary emissions during siesta. Testicles cold ; penis small ; scrotum relaxed ; epididymis sensitive, especially to touch or while walking. Offensive sweat on genitals. Erections in morning and after passing water. Gonorrhœa. Itching of prepuce.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "female": [
       {
         "text": "Pain in the hypogastrium, as if menses were coming on. Fulness and heaviness in the uterine region, with labour-like pains in the loins and groins; worse standing. Labour-like pains drawing into the legs. Catamenia too early, and too profuse. During menstruation, headache, which is relieved by the application of cold water; earache; pain in the small of the back; dragging down in the rectum; fulness in the pelvis. Fluor albus. Leucorrhœa of bloody mucus, preceded by colic. Prolapsus uteri with the above symptoms. Uterine hæmorrhage about the change of life.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Bearing down in rectum, worse standing and during menses. Uterus feels heavy, cannot walk much on that account. Labor-like pains in loins; extend down legs. Climacteric hæmorrhage. Menses too early and too profuse",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pain in hypogastrium as if menses were coming on. Fulness, heaviness in uterine region, with labor-like pains in loins and groin ; worse standing. Labor-like pains extending down legs. θ Prolapsus uteri. Uterine hemorrhage about climaxis. θ Prolapsus uteri. Menses too early and too profuse ; with dragging down in rectum and fulness in pelvis. θ Prolapsus uteri. Menses too early and last too long. θ Prolapsus uteri. During menses : earache ; headache relieved by cold water ; distension of abdomen ; backache. Leucorrhœa of bloody mucus preceded by colic. θ Prolapsus. PREGNANCY. PARTURITION. LACTATION. [24] [Aloe]. Lameness, which seems to arise from a sense of weight and pressure into pelvis. After confinement, dysentery with faint feeling after each effort at stool.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "chest_heart": [
       {
         "text": "Congestion to the chest. Breathing impeded by stitches in the 1. side of the chest. Expectoration of blood.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Congestion to chest ; dry cough ; bloody expectoration. Front of chest feels sore on deep inspiration. Weakness of chest. Stitches into chest from spleen. Strong beat of heart occasionally ; pain through to left scapula. Pulse : accelerated ; weak, suppressed, after vomiting ; slow in afternoon. Ebullitions, with anxiety ; restlessness.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "fever_chill": [
       {
         "text": "Chills, with coryza, in the cold open air; at stool, shivering. Heat in spots, on scalp or face. Sweat: smells strong; offensive on genitals; at night, after drinking. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Chilly : with coryza, in cold open air ; at stool, shivering. Cold hands and feet in bed, preventing sleep. Cold hands, warm feet. Heat in spots, on scalp or in face. Ebullitions, with anxiety and restlessness. Sweat : smells strong ; offensive on genitals ; at night, after drinking.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "indications": [
@@ -642,42 +860,96 @@
       {
         "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
         "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Synonym—Aloe Perryi.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Physiological Action—It is not rapid or so severe in its action as some other cathartics. Given at bedtime it operates upon rising in the morning. The action is not painful, and it increases the alvine discharges without any increase of the watery constituents. It increases the circulation of the blood in the intestine, improves the muscular tone and restores normal peristaltic action.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Aloes acts most freely on the lower bowel. It increases the activity of the muscular coat of the intestines, increasing peristalsis, especially of the colon. It causes soft dark colored feces. It is not to be used when there are hemorrhoids, or when there is irritation or inflammation of the colon, or pelvic organs, nor should it be freely used in pregnancy.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It increases the secretion of the liver, pancreas, and intestinal glands; also the mucous glands of the intestines. It causes some griping when given as a laxative, but belladonna, colocynth, or hyoscyamus will correct this colic.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Specific Symptomatology—Homeopathic indications for this remedy are headache across the forehead and over the eyes, nausea, gastro-intestinal irritation with coldness of the lower limbs; there is a bitter, sour or metallic taste in the mouth, the tongue yellowish white, somewhat dry, with thirst; bitter or sour eructations; heaviness over the liver; pulsation in the navel region; distention of the abdomen with gas with the above conditions. Gloomy patients suffering from constipation can take aloes to advantage.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—If administered to a nursing mother it will produce a cathartic effect upon the infant. It is a constituent of the larger proportion of the carthartic pills on the market.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "If the liver is acting normally a much less dose will produce a cathartic effect than when there is a torpid or an inactive liver.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The agent should be used, if at all, with much care in inflammatory conditions, especially in those of the intestinal canal, as it is an irritant to the lower bowel. It increases the heart's action and the circulation of blood and raises the temperature.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The agent is emmenagogue and abortive in its action and should not be given during pregnancy. It will produce a full menstrual flux in some cases of suppression.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It may be given in simple jaundice with lack of tone; in constipation depending upon weakness of the intestinal tract; where there is plainly deficient peristaltic action, where the tongue is coated, the breath foul, the abdomen full and tumid; where there is inclination to impaction of the colon. It may be given in conjunction with nux vomica and hydrastis, or other good stomach tonics to excellent advantage when these are correctly indicated.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "One one hundred and twentieth grain of aloin once every day or two will be of material benefit to those who eat too much, especially of starchy foods and sugar; those of phlegmatic temperament and beer drinkers.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
       }
-    ]
+    ],
+    "extremities": [
+      {
+        "text": "Lameness in all limbs. Drawing pains in joints. Soles pain when walking",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Heaviness of right arm ; weakness of wrist joint. Extending down legs : labor-like pains. θ Prolapsus uteri. Painful weakness of legs. Painful weariness in calves. Weakness of ankle joint. Soles of feet pain when walking on pavement. Great toe feels as if sprained. Lameness, weariness in limbs ; weakness of joints ; often with abdominal disturbances. Pains of short duration, as if bruised or dislocated (l. forearm, right scapula, left ribs). Pricking, dull twitching, drawing pains in joints (fingers, knees, elbows). Cold hands with warm feet.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "from cold, open air",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "early morning; summer; heat; in hot, dry weather; after eating or drinking",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Aloe]. Standing : dull pain in hepatic region, watery stools < ; causes involuntary stools ; labor-like pains <. Sitting bent : relieves griping in abdomen. Sitting : pulsating pains in rectum < ; backache ; congestion >. Motion : causes giddiness, with anxiety ; nausea and pain in distended abdomen. Walking : watery stools worse ; causes involuntary stools ; epididymis sensitive. False step : causes pain in scrobiculum. Stepping : aggravates stitches in temples. Rising : abdominal walls painful. Turning quickly : vertigo. Ascending stairs : vertigo. Middle of day : angry, revengeful disposition. Afternoon : frequent urging to urinate. Night : urging to urinate worse ; sweat. Relieved by cold water : headache ; prolapsus uteri. Heat : aggravates headache. In cloudy weather : out of humor ; face pale. Damp weather : causes diarrhœa ; flatulency worse. Wet weather : pain in back. Worse in hot, damp weather. Cold applications : relieve headache and piles. In open air : nose red ; raw voice ; averse to walk in wind ; not disposed to go into air although it relieves. Better in cold weather ; but cannot take a cold-water bath as it acts as stimulus to genitals.",
+          "source_id": "hering-guiding-1879"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Sixth potency and higher. In rectal conditions, a few doses of the third, then wait"
+    }
   },
   "evidence": {
-    "summary": "",
     "lactation_safety": [
       {
         "section": "Drug Levels and Effects",
         "text": "Summary of Use during Lactation Aloe vera gel consists of the clear gel from the center of fresh leaves of Aloe vera and related aloes. Active ingredients include mono- and polysaccharides (e.g., acemannan, glucomannan), allantoin, enzymes (e.g., cyclooxygenase, amylase, lipase, alkaline phosphatase, carboxypeptidase), and salicylic acid. It should not be confused with Aloe latex which comes from the inner portion of the skin and contains potent anthraquinone laxatives. Aloe latex should not be used during breastfeeding.[ 1 ] Aloe vera gel has been used topically on the nipples during nursing to help heal cracked nipples. One meta-analysis of experimental and observational studies on nipple pain and irritation concluded that Aloe vera can be considered a choice for relieving breast pain or irritation in lactating women compared with routine care or another treatment.[ 2 ] Aloe outperformed olive oil, lanolin and breastmilk in some studies.[ 3 - 6 ] However, another meta-analysis that focused exclusively on data from randomized controlled trials found no difference from placebo in treating nipple pain.[ 7 ] Topical aloe has also been combined with a cactus leaf preparation and massage to treat engorgement.[ 8 ] Aloe arborescens gel from leaves applied as a poultice to the nipples of nursing mothers reduced the redness of the nipples compared to a control group.[ 9 ] If Aloe is applied to the nipples, it should be washed off before nursing the infant because the taste might adversely affect nursing or cause diarrhea in the infant.[ 10 , 11 ] Aloe vera gel has caused itching, burning, and allergic contact dermatitis, possibly from contamination with the irritating latex from the leaves.[ 12 , 13 ] Dietary supplements do not require extensive pre-marketing approval from the U.S. Food and Drug Administration. Manufacturers are responsible to ensure the safety, but do not need to prove the safety and effectiveness of dietary supplements before they are marketed. Dietary supplements may contain multiple ingredients, and differences are often found between labeled and actual ingredients or their amounts. A manufacturer may contract with an independent organization to verify the quality of a product or its ingredients, but that does not certify the safety or effectiveness of a product. Because of the above issues, clinical testing results on one product may not be applicable to other products. More detailed information about dietary supplements is available elsewhere on the LactMed Web site. Drug Levels Maternal Levels. Relevant published information was not found as of the revision date. Infant Levels. Relevant published information was not found as of the revision date. Effects in Breastfed Infants Relevant published information was not found as of the revision date. Effects on Lactation and Breastmilk Relevant published information was not found as of the revision date. References 1. Kopec K. Herbal medications and breastfeeding. J Hum Lact 1999;15:157-61. [ PubMed : 10578793 ] 2. Maleki A, Youseflu S. The effectiveness of Aloe vera on relief of irritation and nipple pain in lactating women: Systematic review and meta-analysis. Obstet Gynecol Int 2022;2022:7430581. [ PMC free article : PMC9663246 ] [ PubMed : 36388847 ] 3. Saeidi R, Tafazoli M, Gholami M, et al. New treatment for nipple soreness in breastfeeding mothers: A clinical trial study. Iran J Neonatol 2015;6:48-51. http://ijn ​.mums.ac.ir ​/issue_626_671_Volume+6 ​%2C+Issue+2%2C+Spring+2015.html 4. Eshgizade M, Moghaddam M, Moghaddam H, et al. A comparison of the efficacy of olive oil, aloe vera extract and breast milk on healing breast fissure in the breastfeeding women. Avicenna J Phytomedicine 2015;5 (Suppl 1):86-7. doi:10.22038/ajp.2015.5454 [ CrossRef ] 5. Alamolhoda S, Mirabi P, Mojab F. Effects of both aloe vera gel and breast milk on the improvement of nipple soreness in lactating women? A randomized controlled trial. J Herb Medicine 2020;21:100327. doi:10.1016/j.hermed.2019.100327 [ CrossRef ] 6. Wang R, Gong J, Liu P, et al. Effects of aloe gel on lactating women with nipple trauma. Breastfeed Med 2024;19:445-50. [ PubMed : 38529934 ] 7. Shetty A, Halemani K, Issac A, et al. Effectiveness of the application of lanolin, aloe vera, and peppermint on nipple pain and nipple trauma in lactating mothers: A systematic review and meta-analysis. Matern Child Health J 2024;28:2013-25. [ PubMed : 39436586 ] 8. Meng S, Deng Q, Feng C, et al. Effects of massage treatment combined with topical cactus and aloe on puerperal milk stasis. Breast Dis 2015;35:173-8. [ PubMed : 25881639 ] 9. Tateoka Y. Effectiveness of aloe fomentation for nipple-related complications during the early puerperium period: a randomized, controlled, interventional study. BMC Res Notes 2022;15:94. [ PMC free article : PMC8900332 ] [ PubMed : 35255973 ] 10. Yarnell E. Botanical medicine in pregnancy and lactation. Altern Complement Ther 1997;3 (April):93-100. doi:10.1089/act.1997.3.93 [ CrossRef ] 11. Larimore W, Petrie K. Drug use during pregnancy and lactation. Prim Care 2000;27:35-53. [ PubMed : 10739456 ] 12. Barankin B, Gross M. Nipple and areolar eczema in the breastfeeding woman. J Cutan Med Surg 2004;8:126-30. [ PubMed : 15129318 ] 13. De Smet P. Health risks of herbal remedies: An update. Clin Pharmacol Ther 2004;76:1-17. [ PubMed : 15229459 ]",
         "source": "LactMed-NIH"
-      }
-    ],
-    "documented_adverse_effects": [
-      {
-        "section": "PRODUCT INFORMATION",
-        "text": "REPRESENTATIVE TRADE NAMES Aloe Vera – Generic DRUG CLASS Herbal and Dietary Supplements SUMMARY INFORMATION Fact Sheet at National Center for Complementary and Integrative Health, NIH",
-        "source": "LiverTox-NIH"
-      },
-      {
-        "section": "CHEMICAL FORMULA AND STRUCTURE",
-        "text": "View in own window DRUG CAS REGISTRY NUMBER MOLECULAR FORMULA STRUCTURE Aloe Vera 8001-97-6 Herbal Not Applicable",
-        "source": "LiverTox-NIH"
-      },
-      {
-        "section": "CITED REFERENCES",
-        "text": "1. Rabe C, Musch A, Schirmacher P, Kruis W, Hoffmann R. Acute hepatitis induced by an aloe vera preparation: A case report. World J Gastroenterol. 2005; 11 :303–4. [ PMC free article : PMC4205424 ] [ PubMed : 15633238 ] 2. Yang HN, Kim DJ, Kim YM, Kim BH, Sohn KM, Choi MJ, Choi YH. Aloe-induced toxic hepatitis. J Korean Med Sci. 2010; 25 :492–5. [ PMC free article : PMC2826749 ] [ PubMed : 20191055 ]",
-        "source": "LiverTox-NIH"
-      },
-      {
-        "section": "ANNOTATED BIBLIOGRAPHY",
-        "text": "References updated: 24 May 2022 Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4. (Expert review of hepatotoxicity published in 1999; several herbal medications are discussed, but not aloe vera). Liu LU, Schiano TD. Hepatotoxicity of herbal medicines, vitamins and natural hepatotoxins. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007, pp. 733-54. (Review of hepatotoxicity of herbal and dietary supplements [HDS] published in 2007; mentions that aloe vera is generally nonhepatotoxic). Aloe. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 19-26. (Compilation of short monographs on herbal medications and dietary supplements). Vogler BK, Ernst E. Aloe vera: a systematic review of its clinical effectiveness. Br J Gen Pract. 1999; 49 :823–8. [ PMC free article : PMC1313538 ] [ PubMed : 10885091 ] (Systematic review of the literature on aloe vera identified 3 controlled trials of oral therapy for short periods in hyperlipidemia and diabetes found only mild and reversible adverse events and no mention of hepatotoxicity). Stedman C. Herbal hepatotoxicity. Semin Liver Dis. 2002; 22 :195–206. [ PubMed : 12016550 ] (Review and description of patterns of liver injury due to herbals, including discussion of potential risk factors, and herb-drug interactions). Luyckx VA, Ballantine R, Claeys M, Cuyckens F, Van den Heuvel H, Cimanga RK, Vlietinck AJ, et al. Herbal remedy-associated acute renal failure secondary to Cape aloes. Am J Kidney Dis. 2002; 39 :E13. [ PubMed : 11877593 ] (47 year old man presented with acute renal failure and serum enzyme elevations [ALT 713 U/L, AST 2034 U/L, Alk P 74 U/L, bilirubin 0.6 mg/dL], having taken herbal medications for digestive complaints; mass spectrometry of herbal revealed it to be an extract of Aloe capensis). Schiano TD. Hepatotoxicity and complementary and alternative medicines. Clin Liver Dis. 2003; 7 :453–73. [ PubMed : 12879994 ] (Comprehensive review of herbal associated hepatotoxicity, including common patterns of presentation). Pittler MH, Ernest E. Systematic review: hepatotoxic events associated with herbal medicinal products. Aliment Pharmacol Ther. 2003; 18 :451–71. [ PubMed : 12950418 ] (Systematic review of published cases of hepatotoxicity due to herbal medications listing 52 case reports or case series, most common agents being celandine [3], chaparral [3], germander [8], Jin Bu Huan [3], kava [1], Ma huang [3], pennyroyal [1], skullcap [2], Chinese herbs [9], valerian [1]). Estes JD, Stolpman D, Olyaei A, Corless CL, Ham JM, Schwartz JM, Orloff SL. High prevalence of potentially hepatotoxic herbal supplement use in patients with fulminant hepatic failure. Arch Surg. 2003; 138 :852–8. [ PubMed : 12912743 ] (Among 20 patients undergoing liver transplantation for acute liver failure during 2001-2, 10 were potentially caused by herbals, but none attributed to aloe vera). Langmead L, Feakins RM, Goldthorpe S, Holt H, Tsironi E, De Silva A, Jewell DP, et al. Randomized, double-blind, placebo-controlled trial of oral aloe vera gel for active ulcerative colitis. Aliment Pharmacol Ther. 2004; 19 :739–47. [ PubMed : 15043514 ] (Randomized controlled trial of 4 week course of aloe vera vs placebo in 44 patients with ulcerative colitis found improvements in clinical scores with aloe vera; adverse side effects were minor and similar in the two groups, and “no patient developed abnormal blood tests attributable to aloe vera”). Can A, Akev N, Ozsoy N, Bolkent S, Arda BP, Yanardag R, Okyar A. Effect of aloe vera leaf gel and pulp extracts on the liver in type-II diabetic rat models. Biol Pharm Bull. 2004; 27 :694–8. [ PubMed : 15133247 ] (In animal models exposed to stress, aloe vera appeared to attenuate liver injury attributable to diabetes). Rabe C, Musch A, Schirmacher P, Kruis W, Hoffmann R. Acute hepatitis induced by an aloe vera preparation: A case report. World J Gastroenterol. 2005; 11 :303–4. [ PMC free article : PMC4205424 ] [ PubMed : 15633238 ] (57 year old German woman developed jaundice and itching 1 month after starting aloe vera [500 mg/day] [bilirubin 8.9 mg/dL, ALT 1480 U/L, Alk P 265 U/L], resolving slowly: Case 1). Kanat O, Ozet A, Ataergin S. Aloe vera-induced acute toxic hepatitis in a healthy young man. Eur J Intern Med. 2006; 17 :589. [ PubMed : 17142185 ] (24 year old man developed jaundice 3 weeks after starting aloe vera [500 mg by mouth daily] [bilirubin 9 mg/dL, ALT 2400 U/L, Alk P 400 U/L], resolving within 6 weeks of stopping). Bottenberg MM, Wall GC, Harvey RL, Habib S. Oral aloe vera-induced hepatitis. Ann Pharmacother. 2007; 41 :1740–3. [ PubMed : 17726067 ] (73 year old woman developed jaundice having taking aloe vera capsules for constipation for five years [bilirubin 10.7 rising to 22.8 mg/dL, ALT 1451 U/L, Alk P 328 U/L, SMA 1:160], with normal ERCP and liver biopsy showing acute hepatitis, resolving within 4 months of stopping). Seeff LB. Herbal hepatotoxicity. Clin Liver Dis. 2007; 11 :577–96. [ PubMed : 17723921 ] (Review of herbal induced hepatotoxicity, with details on specific herbal compounds). Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J., Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology. 2008; 135 :1924–34. [ PMC free article : PMC3654244 ] [ PubMed : 18955056 ] (Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 9% of cases were attributed to herbal medications, but no case was attributed to aloe vera alone or in combination with other agents). Belfrage B, Malmstrom R. Lakartidningen. 2008; 105 :45. [Several cases of liver affect",
-        "source": "LiverTox-NIH"
-      },
-      {
-        "text": "Topical use of aloe gel is generally well tolerated; however, there have been occasional reports of burning, itching, rash, and eczema. Research studies suggest that short-term use of oral aloe gel up to 42 days is safe. Oral use of aloe latex can cause abdominal pain, cramps, and diarrhea. Oral consumption of aloe leaf extracts (for as little as 3 weeks and as long as 5 years) has been related to cases of acute hepatitis. Some animal studies have noted an association between a non-decolorized extract of aloe vera leaf taken orally and gastrointestinal cancer in rats and mice; most toxicity and safety studies in animals have tested non-decolorized whole leaf extract of aloe vera, which is not commonly used by consumers. A small amount of laboratory research suggests that even the decolorized extract might have the potential to damage DNA or chromosomes. A 2023 review looked at animal and laboratory studies of aloe vera inner leaf gel extract and decolorized whole leaf extract used in commercially available food-grade drinkable products containing no more than 10 parts per million of aloin (a type of anthraquinone). The authors of the review concluded that the drinkable products were not genotoxic. Overuse of aloe latex may increase the risk of adverse effects from cardiac glycosides, such as digoxin, which are used for some heart problems. If you take any type of medicine, talk with your health care provider before using aloe vera or other herbal products; some herbs and medicines interact in harmful ways. Aloe—in gel, latex, or whole leaf extract form—when taken by mouth may be unsafe during pregnancy and while breastfeeding. If you’re considering using aloe vera while pregnant or breastfeeding, consult your health care provider.",
-        "source": "NCCIH"
       }
     ],
     "regulatory": [
@@ -704,6 +976,33 @@
       {
         "section": "What Have We Learned?",
         "text": "Two small studies suggest that topical application of aloe gel, in combination with other forms of treatment, may improve acne. Clinical research suggests topical application of aloe gel may speed burn healing and reduce burn-related pain. A small amount of research suggests topical use of aloe also may help people with genital herpes, lichen planus, psoriasis, oral submucous fibrosis, skin damage from radiation therapy, or sores in the mouth from dental appliances. A small amount of research suggests that aloe taken orally may reduce blood sugar and HbA1c in people with diabetes. A small study showed that a specific aloe gel product taken orally for 8 weeks modestly reduced weight and fat mass in adults with obesity or overweight who had diabetes or prediabetes. There is interest in using aloe for many other conditions, but there isn’t enough reliable information to say whether it might be helpful for those conditions, which include eczema, diabetic foot ulcers, irritable bowel syndrome, and ulcerative colitis.",
+        "source": "NCCIH"
+      }
+    ],
+    "summary": "Introduction Aloe vera is a cactus-like plant belonging to the Lily family, extracts of which are used topically for skin care and orally as a component of many herbal mixtures claimed to have medicinal benefits. Oral forms of aloe vera have been linked to rare instances of clinically apparent liver injury. Background Aloe vera (“true, shining bitter substance”) is derived from a cactus-like plant, a member of the Lily family that grows best in arid climates. Aloe vera has been used for centuries for its purported healing properties. Aloe vera products are derived from the leaf (either the gel or leaf rind latex) and contain over 75 identified substances including anthraquinones (phenolic compounds with laxative actions), vitamins (A, C, E), enzymes (aliiase, alkaline phosphatase, amylase, bradykinase, carboxypeptidase, catalase, cellulose, lipase, and peroxidase), minerals, sugars, fatty acids, amino acids, salicylic acid and hormones (auxins and gibberellins suspected to have antiinflammatory activity). Aloe creams are found in hundreds of skin products used for cosmetic purposes and wound healing. Extracts and powdered extracts from leaf rind latex of aloe vera are used in small amounts as a food flavoring and in larger amounts in dietary supplements. In addition, aloe vera is claimed to have beneficial effects on arthritis, asthma, chronic fatigue, dyspepsia, constipation and various skin ailments. Recently, it has also been claimed to be helpful in weight loss. The bases of these claims have not been substantiated, but in vitro and animal studies suggest that components of aloe vera have antiproliferative, antiinflammatory, and hepato-protective properties. Aloe vera is generally tolerated without adverse events; minor side effects may include diarrhea, abdominal discomfort and nausea. Chronic use for constipation can lead to discoloration of the colon (pseudo-melanosis coli). Rare instances of hypersensitivity reactions, skin rash and allergic dermatitis have been described. Hepatotoxicity Liver injury attributable to oral preparations of aloe vera was first reported in 2005 and at least a dozen cases of clinically apparent liver injury have been published or mentioned in the literature. The injury typically arises between 3 and 24 weeks after starting oral aloe vera, usually provided in high doses to treat constipation, dyspepsia, aging, weight loss or to improve wellness. The typical pattern of injury is hepatocellular and the clinical course resembles acute viral hepatitis (Case 1). Immunoallergic and autoimmune features are rare. Liver biopsy shows changes typical of hepatitis with spotty cell injury and lobular and portal inflammation. The injury is rarely severe and fatal cases have not been reported. Likelihood score : B (likely but rare cause of clinically apparent liver injury). Mechanism of Injury Aloe vera leaf extracts have many components, but none of them has been shown to be particularly hepatotoxic. The rare cases of liver injury reported with aloe vera use have had idiosyncratic features. Outcome and Management Hepatotoxicity from aloe vera is rare and cases have been self-limiting upon stopping the herbal. While some reported cases have been severe or prolonged, there have been no instances leading to fatalities, liver transplantation, chronic hepatitis, or vanishing bile duct syndrome. Rechallenge has led to recurrence of injury in at least one published case report (Case 2) and should be avoided. Drug Class: Herbal and Dietary Supplements\n\nAloe is a cactus-like plant that grows in hot, dry climates. It is grown in subtropical regions around the world, including the southern border areas of Texas, New Mexico, Arizona, and California. Aloe was used in ancient Greece, Rome, Babylonia, and China. Historically, it was used for skin conditions and was thought to prevent premature graying of hair and promote wound healing. Aloe is used topically (applied to the skin) and orally. Topical use of aloe is promoted for acne, psoriasis, lichen planus (a very itchy rash on the skin or in the mouth), oral submucous fibrosis (a disease that causes scars and tissue fibrosis and can involve a burning sensation in the mouth), burns, and skin damage from radiation therapy. Oral use of aloe is promoted for weight loss, diabetes, and inflammatory bowel disease (a group of conditions caused by gut inflammation that includes Crohn’s disease and ulcerative colitis). Aloe products can be made from various parts of the aloe leaf, including the gel (from the inner leaf), latex (from the leaf’s outer layer), and whole crushed leaf (containing the gel and latex). In 2002, the U.S. Food and Drug Administration issued a ruling that required manufacturers to remove aloe latex from over-the-counter laxative products because of a lack of safety data. The International Agency for Research on Cancer has classified whole leaf extract of aloe vera as a possible carcinogen in humans. (This form, called non-decolorized, has not undergone activated carbon treatment to remove toxic anthraquinone components.)",
+    "documented_adverse_effects": [
+      {
+        "section": "PRODUCT INFORMATION",
+        "text": "REPRESENTATIVE TRADE NAMES Aloe Vera – Generic DRUG CLASS Herbal and Dietary Supplements SUMMARY INFORMATION Fact Sheet at National Center for Complementary and Integrative Health, NIH",
+        "source": "LiverTox-NIH"
+      },
+      {
+        "section": "CHEMICAL FORMULA AND STRUCTURE",
+        "text": "View in own window DRUG CAS REGISTRY NUMBER MOLECULAR FORMULA STRUCTURE Aloe Vera 8001-97-6 Herbal Not Applicable",
+        "source": "LiverTox-NIH"
+      },
+      {
+        "section": "CITED REFERENCES",
+        "text": "1. Rabe C, Musch A, Schirmacher P, Kruis W, Hoffmann R. Acute hepatitis induced by an aloe vera preparation: A case report. World J Gastroenterol. 2005; 11 :303–4. [ PMC free article : PMC4205424 ] [ PubMed : 15633238 ] 2. Yang HN, Kim DJ, Kim YM, Kim BH, Sohn KM, Choi MJ, Choi YH. Aloe-induced toxic hepatitis. J Korean Med Sci. 2010; 25 :492–5. [ PMC free article : PMC2826749 ] [ PubMed : 20191055 ]",
+        "source": "LiverTox-NIH"
+      },
+      {
+        "section": "ANNOTATED BIBLIOGRAPHY",
+        "text": "References updated: 24 May 2022 Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4. (Expert review of hepatotoxicity published in 1999; several herbal medications are discussed, but not aloe vera). Liu LU, Schiano TD. Hepatotoxicity of herbal medicines, vitamins and natural hepatotoxins. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 2nd ed. New York: Informa Healthcare USA, 2007, pp. 733-54. (Review of hepatotoxicity of herbal and dietary supplements [HDS] published in 2007; mentions that aloe vera is generally nonhepatotoxic). Aloe. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 19-26. (Compilation of short monographs on herbal medications and dietary supplements). Vogler BK, Ernst E. Aloe vera: a systematic review of its clinical effectiveness. Br J Gen Pract. 1999; 49 :823–8. [ PMC free article : PMC1313538 ] [ PubMed : 10885091 ] (Systematic review of the literature on aloe vera identified 3 controlled trials of oral therapy for short periods in hyperlipidemia and diabetes found only mild and reversible adverse events and no mention of hepatotoxicity). Stedman C. Herbal hepatotoxicity. Semin Liver Dis. 2002; 22 :195–206. [ PubMed : 12016550 ] (Review and description of patterns of liver injury due to herbals, including discussion of potential risk factors, and herb-drug interactions). Luyckx VA, Ballantine R, Claeys M, Cuyckens F, Van den Heuvel H, Cimanga RK, Vlietinck AJ, et al. Herbal remedy-associated acute renal failure secondary to Cape aloes. Am J Kidney Dis. 2002; 39 :E13. [ PubMed : 11877593 ] (47 year old man presented with acute renal failure and serum enzyme elevations [ALT 713 U/L, AST 2034 U/L, Alk P 74 U/L, bilirubin 0.6 mg/dL], having taken herbal medications for digestive complaints; mass spectrometry of herbal revealed it to be an extract of Aloe capensis). Schiano TD. Hepatotoxicity and complementary and alternative medicines. Clin Liver Dis. 2003; 7 :453–73. [ PubMed : 12879994 ] (Comprehensive review of herbal associated hepatotoxicity, including common patterns of presentation). Pittler MH, Ernest E. Systematic review: hepatotoxic events associated with herbal medicinal products. Aliment Pharmacol Ther. 2003; 18 :451–71. [ PubMed : 12950418 ] (Systematic review of published cases of hepatotoxicity due to herbal medications listing 52 case reports or case series, most common agents being celandine [3], chaparral [3], germander [8], Jin Bu Huan [3], kava [1], Ma huang [3], pennyroyal [1], skullcap [2], Chinese herbs [9], valerian [1]). Estes JD, Stolpman D, Olyaei A, Corless CL, Ham JM, Schwartz JM, Orloff SL. High prevalence of potentially hepatotoxic herbal supplement use in patients with fulminant hepatic failure. Arch Surg. 2003; 138 :852–8. [ PubMed : 12912743 ] (Among 20 patients undergoing liver transplantation for acute liver failure during 2001-2, 10 were potentially caused by herbals, but none attributed to aloe vera). Langmead L, Feakins RM, Goldthorpe S, Holt H, Tsironi E, De Silva A, Jewell DP, et al. Randomized, double-blind, placebo-controlled trial of oral aloe vera gel for active ulcerative colitis. Aliment Pharmacol Ther. 2004; 19 :739–47. [ PubMed : 15043514 ] (Randomized controlled trial of 4 week course of aloe vera vs placebo in 44 patients with ulcerative colitis found improvements in clinical scores with aloe vera; adverse side effects were minor and similar in the two groups, and “no patient developed abnormal blood tests attributable to aloe vera”). Can A, Akev N, Ozsoy N, Bolkent S, Arda BP, Yanardag R, Okyar A. Effect of aloe vera leaf gel and pulp extracts on the liver in type-II diabetic rat models. Biol Pharm Bull. 2004; 27 :694–8. [ PubMed : 15133247 ] (In animal models exposed to stress, aloe vera appeared to attenuate liver injury attributable to diabetes). Rabe C, Musch A, Schirmacher P, Kruis W, Hoffmann R. Acute hepatitis induced by an aloe vera preparation: A case report. World J Gastroenterol. 2005; 11 :303–4. [ PMC free article : PMC4205424 ] [ PubMed : 15633238 ] (57 year old German woman developed jaundice and itching 1 month after starting aloe vera [500 mg/day] [bilirubin 8.9 mg/dL, ALT 1480 U/L, Alk P 265 U/L], resolving slowly: Case 1). Kanat O, Ozet A, Ataergin S. Aloe vera-induced acute toxic hepatitis in a healthy young man. Eur J Intern Med. 2006; 17 :589. [ PubMed : 17142185 ] (24 year old man developed jaundice 3 weeks after starting aloe vera [500 mg by mouth daily] [bilirubin 9 mg/dL, ALT 2400 U/L, Alk P 400 U/L], resolving within 6 weeks of stopping). Bottenberg MM, Wall GC, Harvey RL, Habib S. Oral aloe vera-induced hepatitis. Ann Pharmacother. 2007; 41 :1740–3. [ PubMed : 17726067 ] (73 year old woman developed jaundice having taking aloe vera capsules for constipation for five years [bilirubin 10.7 rising to 22.8 mg/dL, ALT 1451 U/L, Alk P 328 U/L, SMA 1:160], with normal ERCP and liver biopsy showing acute hepatitis, resolving within 4 months of stopping). Seeff LB. Herbal hepatotoxicity. Clin Liver Dis. 2007; 11 :577–96. [ PubMed : 17723921 ] (Review of herbal induced hepatotoxicity, with details on specific herbal compounds). Chalasani N, Fontana RJ, Bonkovsky HL, Watkins PB, Davern T, Serrano J, Yang H, Rochon J., Drug Induced Liver Injury Network (DILIN). Causes, clinical features, and outcomes from a prospective study of drug-induced liver injury in the United States. Gastroenterology. 2008; 135 :1924–34. [ PMC free article : PMC3654244 ] [ PubMed : 18955056 ] (Among 300 cases of drug induced liver disease in the US collected between 2004 and 2008, 9% of cases were attributed to herbal medications, but no case was attributed to aloe vera alone or in combination with other agents). Belfrage B, Malmstrom R. Lakartidningen. 2008; 105 :45. [Several cases of liver affect",
+        "source": "LiverTox-NIH"
+      },
+      {
+        "text": "Topical use of aloe gel is generally well tolerated; however, there have been occasional reports of burning, itching, rash, and eczema. Research studies suggest that short-term use of oral aloe gel up to 42 days is safe. Oral use of aloe latex can cause abdominal pain, cramps, and diarrhea. Oral consumption of aloe leaf extracts (for as little as 3 weeks and as long as 5 years) has been related to cases of acute hepatitis. Some animal studies have noted an association between a non-decolorized extract of aloe vera leaf taken orally and gastrointestinal cancer in rats and mice; most toxicity and safety studies in animals have tested non-decolorized whole leaf extract of aloe vera, which is not commonly used by consumers. A small amount of laboratory research suggests that even the decolorized extract might have the potential to damage DNA or chromosomes. A 2023 review looked at animal and laboratory studies of aloe vera inner leaf gel extract and decolorized whole leaf extract used in commercially available food-grade drinkable products containing no more than 10 parts per million of aloin (a type of anthraquinone). The authors of the review concluded that the drinkable products were not genotoxic. Overuse of aloe latex may increase the risk of adverse effects from cardiac glycosides, such as digoxin, which are used for some heart problems. If you take any type of medicine, talk with your health care provider before using aloe vera or other herbal products; some herbs and medicines interact in harmful ways. Aloe—in gel, latex, or whole leaf extract form—when taken by mouth may be unsafe during pregnancy and while breastfeeding. If you’re considering using aloe vera while pregnant or breastfeeding, consult your health care provider.",
         "source": "NCCIH"
       }
     ],
@@ -735,7 +1034,13 @@
       "lactmed-nih",
       "lippe-textbook-mm-1866",
       "livertox-nih",
-      "nccih"
+      "nccih",
+      "allen-keynotes-1899",
+      "boericke-1927",
+      "guernsey-keynotes-1887",
+      "hering-guiding-1879",
+      "nash-leaders-1899",
+      "ellingwood-1919"
     ]
   }
 }

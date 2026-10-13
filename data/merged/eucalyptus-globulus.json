@@ -1,22 +1,25 @@
 {
   "id": "eucalyptus-globulus",
   "names": {
-    "primary": "Eucalyptus",
-    "latin": "Eucalyptus",
+    "primary": "Eucalyptus Globulus",
+    "latin": "Eucalyptus Globulus",
     "common": [
       "Blue Gum-tree",
       "Eucalyptus"
     ],
     "synonyms": [
-      "EUCALYPTUS GLOBULUS",
+      "Eucalyptus",
       "EUCALYPTUS",
       "Eucalyptus. Eucalyptus globulus",
       "Eucalyptus globulus (LABILLE.)",
-      "Eucalyptus Globulus",
       "Eucalyptus (U. S. P)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

@@ -1,12 +1,15 @@
 {
   "id": "tarentula-hispana",
   "names": {
-    "primary": "Tarentula hispana",
-    "latin": "Tarentula hispana",
+    "primary": "Tarentula Hispana",
+    "latin": "Tarentula Hispana",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -1,14 +1,17 @@
 {
   "id": "linum-perenne",
   "names": {
-    "primary": "Linum perenne",
-    "latin": "Linum perenne",
+    "primary": "Linum Perenne",
+    "latin": "Linum Perenne",
     "common": [
       "Flax, Perennial"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "dosing": [
       {

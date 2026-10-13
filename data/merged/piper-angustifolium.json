@@ -1,14 +1,19 @@
 {
   "id": "piper-angustifolium",
   "names": {
-    "primary": "Piper angustifolium (R. and P.)",
-    "latin": "Piper angustifolium (R. and P.)",
+    "primary": "Piper Angustifolium",
+    "latin": "Piper Angustifolium",
     "common": [
       "Matico"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Piper angustifolium (R. and P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

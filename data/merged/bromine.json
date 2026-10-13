@@ -1,14 +1,15 @@
 {
   "id": "bromine",
   "names": {
-    "primary": "BROMINE",
-    "latin": "BROMINE",
+    "primary": "Bromine",
+    "latin": "Bromine",
     "common": [],
-    "synonyms": [
-      "Bromine"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -1,12 +1,17 @@
 {
   "id": "white-mulberry",
   "names": {
-    "primary": "White Mulberry Leaf",
-    "latin": "White Mulberry Leaf",
+    "primary": "White Mulberry",
+    "latin": "White Mulberry",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "White Mulberry Leaf"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {},
   "evidence": {
     "summary": "White mulberry (Morus alba) is native to China but can be found throughout the world in temperate and tropical climates. In parts of Asia, mulberry leaves have been used for tea, wine, bean curd, and noodles. In traditional Chinese medicine, mulberry leaves are used to treat diabetes (“Xiao-ke”) as well as cough, sore throats, fever, and bronchitis. Preparations from white mulberry leaves are sold as dietary supplements for controlling weight and blood glucose. While beyond the scope of this fact sheet, preliminary research suggests that morusin, a compound in the bark of white mulberry, may have antioxidant, antitumor, anti-inflammatory, anti-allergic, and neuroprotective activity. However, further study is needed to determine its efficacy.",

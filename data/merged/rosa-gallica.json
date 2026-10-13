@@ -1,14 +1,19 @@
 {
   "id": "rosa-gallica",
   "names": {
-    "primary": "Rosa Gallica (U. S. P.)",
-    "latin": "Rosa Gallica (U. S. P.)",
+    "primary": "Rosa Gallica",
+    "latin": "Rosa Gallica",
     "common": [
       "Red Rose"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Rosa Gallica (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

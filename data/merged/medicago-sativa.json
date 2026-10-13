@@ -1,19 +1,23 @@
 {
   "id": "medicago-sativa",
   "names": {
-    "primary": "ALFALFA",
-    "latin": "ALFALFA",
+    "primary": "Medicago Sativa",
+    "latin": "Medicago Sativa",
     "common": [
       "Medicago Sativa, California Clover or Lucerne",
       "Lucerne"
     ],
     "synonyms": [
+      "ALFALFA",
       "Alfalfa. Medicago sativa",
-      "Medicago sativa",
       "Alfalfa"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "mental_emotional": [
       {
@@ -140,7 +144,6 @@
     ]
   },
   "evidence": {
-    "summary": "",
     "lactation_safety": [
       {
         "section": "Drug Levels and Effects",
@@ -148,7 +151,6 @@
         "source": "LactMed-NIH"
       }
     ],
-    "documented_adverse_effects": [],
     "regulatory": [
       "LactMed - NIH Drugs and Lactation Database"
     ],

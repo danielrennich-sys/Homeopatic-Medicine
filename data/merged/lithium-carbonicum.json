@@ -1,17 +1,17 @@
 {
   "id": "lithium-carbonicum",
   "names": {
-    "primary": "LITHIUM CARBONICUM",
-    "latin": "LITHIUM CARBONICUM",
+    "primary": "Lithium Carbonicum",
+    "latin": "Lithium Carbonicum",
     "common": [
       "Carbonate of Lithium"
     ],
-    "synonyms": [
-      "Lithium Carbonicum",
-      "Lithium carbonicum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {
@@ -132,6 +132,12 @@
         {
           "text": "in morning, right side",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Lith. c.]. Repose : headache > ; itching, sensitive pain in all fingers. Lying down : headache < ; violent cough, must rise. Sitting : headache > ; stitching in penis. Stooping : soreness about heart <. Standing : pain in sacrum ; weariness. On assuming an erect position : headache <. Motion : headache < ; itching, sensitive pains in hands and fingers >. On rising : pressing in region of heart ; rheumatic pains in r. foot pass off. After rising in morning : as she bent over bed violent pain in region of heart. Going up stairs : pains in and above knees. Walking : tenesmus vesicæ with micturition ; in open air constriction of chest ; ankle joints pain ; clumsiness at night. Morning : soft, light, yellow stools ; on rising to urinate, pressing in cardiac region ; violent pain in region of heart ; on rising, sore feeling near spine, right side. From morning till noon : eyes pain ; obstructed nose < ; solid lumps from choanæ and fauces <. Evening : pain and heaviness over brows < ; blows nose very much ; sore throat ; flatus ; tenesmus vesicæ ; violent cough. Night : anxiety, hopelessness ; urinating ; violent lancinations in bubo ; offensive stools ; erection after urinating ; feeling of prostration in sacrum ; rheumatic pain in right foot ; clumsiness in walking ; itching of side of feet and hands. Very hot water : itching of feet and hands >. Going out : headache >. Open air : dropping from nose ; constriction of chest. On inspiring air feels cold even into lungs.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

@@ -1,12 +1,17 @@
 {
   "id": "definitions-therapeutic",
   "names": {
-    "primary": "Definitions of Therapeutic Terms",
-    "latin": "Definitions of Therapeutic Terms",
+    "primary": "Definitions Therapeutic",
+    "latin": "Definitions Therapeutic",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Definitions of Therapeutic Terms"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

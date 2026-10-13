@@ -1,12 +1,17 @@
 {
   "id": "jacea",
   "names": {
-    "primary": "Jacea. (Viola Tricolor.)",
-    "latin": "Jacea. (Viola Tricolor.)",
+    "primary": "Jacea",
+    "latin": "Jacea",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Jacea. (Viola Tricolor.)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

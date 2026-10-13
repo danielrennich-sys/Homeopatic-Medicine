@@ -1,12 +1,17 @@
 {
   "id": "daphne-odora",
   "names": {
-    "primary": "Daphne Odora. (Daphne Indica)",
-    "latin": "Daphne Odora. (Daphne Indica)",
+    "primary": "Daphne Odora",
+    "latin": "Daphne Odora",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Daphne Odora. (Daphne Indica)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

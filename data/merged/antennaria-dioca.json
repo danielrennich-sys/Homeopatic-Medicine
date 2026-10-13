@@ -1,14 +1,19 @@
 {
   "id": "antennaria-dioca",
   "names": {
-    "primary": "Antennaria dioca (GAEERTN.)",
-    "latin": "Antennaria dioca (GAEERTN.)",
+    "primary": "Antennaria Dioca",
+    "latin": "Antennaria Dioca",
     "common": [
       "Catsfoot"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Antennaria dioca (GAEERTN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

@@ -1,16 +1,17 @@
 {
   "id": "camphora-bromata",
   "names": {
-    "primary": "CAMPHORA BROMATA",
-    "latin": "CAMPHORA BROMATA",
+    "primary": "Camphora Bromata",
+    "latin": "Camphora Bromata",
     "common": [
       "Mono-bromide of Camphor (CAMPHORA MONO-BROMATA)"
     ],
-    "synonyms": [
-      "Camphora Bromata"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

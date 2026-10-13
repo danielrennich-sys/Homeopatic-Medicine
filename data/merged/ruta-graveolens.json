@@ -1,21 +1,23 @@
 {
   "id": "ruta-graveolens",
   "names": {
-    "primary": "Ruta",
-    "latin": "Ruta",
+    "primary": "Ruta Graveolens",
+    "latin": "Ruta Graveolens",
     "common": [
       "Rue-bitterwort",
       "Rue"
     ],
     "synonyms": [
+      "Ruta",
       "Ruta Graveolens. Rue. (Rutaceae.)",
-      "RUTA GRAVEOLENS",
-      "RUTA",
-      "Ruta Graveolens",
-      "Ruta graveola (Ruta graveolens)"
+      "RUTA"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -301,10 +303,6 @@
         "source_id": "kent-mm-1911"
       },
       {
-        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Ruta graveola (Ruta graveolens). Mind and Disposition. Melancholy disposition towards evening. Anxious and low-spirited, with mental dejection. Inclination to quarrel and contradict. Head. Giddiness ; in the morning when rising ; when sitting, and when walking in the open air. [5] Great heat in the head, with much restlessness. Headache as if a nail were driven into the head. Headache after excessive use of intoxicating drinks. Ulcers and scabs on the scalp. The head is externally painful, as if bruised or beaten. [10] Pain in the periosteum of the cranium as from a fall. Large painful swellings on the scalp, as if originating in the periosteum, the place pained previously (tearing), and felt sore to the touch. Biting, itching (ulcers) on the scalp. Humid scabs on the head, with scald-head. Eyes. Spasms of the (lower) eyelids. [15] Watering eyes, they are full of tears in the open air, not in the room. Heat in the eyes in the evening when reading with candlelight. Spots on the cornea. Pains in the eyes as if they had been strained too much. Obscureness of sight from reading too much, with clouds, or like a veil before the eyes. [20] A green halo appears around the light in the evening. Bad effects of overstraining the eyes, from reading too much, from sewing, especially fine work at night. Ears. Pain as if bruised in the cartilages of the ear. Nose. Bleeding of the nose, with pressure at the root of the nose. Perspiration on the dorsum of the nose. Face. [25] Erysipelas and swelling on the forehead. Pains in the face as from contusion in the periosteum of the facial bones. Mouth and Throat. Pain in the lower teeth. Gums painful, and bleed readily. The lips are dry and sticky. [30] Sensation as from a lump in the throat on empty deglutition. Spasm of the tongue, with difficulty of speech. Stomach and Abdomen. Violent thirst in the afternoon. Sudden nausea while eating, and vomiting of food. Colic, with burning or gnawing pain. [35] Gnawing, pressing pain in the region of the liver. Gnawing sensation in the stomach, as from emptiness or hunger. Painful swelling of the spleen. Colic in children from worms. Gnawing and eating pain about the navel. Stool and Anus. [40] Soft stool, which is discharged with difficulty from inactivity of the rectum. Constipation, alternating with mucous, frothy stools. Frequent urging to stool, with small, soft discharges. Frequent unsuccessful urging, with prolapsus ani. Prolapsus ani with every (soft or hard) stool. Urinary Organs. [45] Frequent pressure to urinate, with scanty discharges of green urine. Pressure on the bladder, as if continually full ; the pressure to urinate continues after micturition. Frequent micturition at night. Involuntary micturition at night in bed, and during the day when walking. Sexual Organs. Women . Menstruation irregular, followed by leucorrha. Respiratory Organs. [50] Dyspna, with anxiety from stitches in the chest. Sensation of coldness or heat in the chest. Corrosive leucorrha after the menstruation has ceased. Corrosive eating or gnawing in the chest. Sensation in the larynx as from a bruise. [55] On the sternum painful spot, which is painful to pressure. Violent cough, with expectoration of tough mucus and nausea. Cough, with copious expectoration of thick yellow mucus. Expectoration of thick yellow mucus, almost without cough, with sensation of weakness in the chest. Phthisic after mechanical injuries of the chest. Back and Neck. [60] Pain in the back and on the os sacrum, as if bruised. Stitches in the small of the back when sitting, walking or stooping, relieved by pressure and when lying down. Extremities. Upper . Lameness and stiffness of the wrist after a sprain, worse in cold wet weather. Sensation as from a sprain, and stiffness in the wrist. Numbness and tingling in the hands after exercise. [65] Lower . Lameness and pains in the ankles after a sprain. Sensation as if the tendons under the knee were shortened, and weakness in them, especially on descending. Fistulous ulcers on the lower legs. Generalities. Sensation of soreness or as from a contusion, bruise or fall or from a blow, especially in the limbs and joints. Sensation of soreness of the parts on which one lies. [70] Lameness after sprains, especially the wrists and ankles. Worm complaints of children. Pulse only accelerated during the heat. Internal chilliness and shaking even near the warm stove. Coldness running over one side of the head. [75] Chilliness principally in the back, and running up and down. Chilliness with heat in the face, and violent thirst. Heat over the whole body, mostly in the afternoon, without thirst, but with anxiety, restlessness and dyspna. Heat in the face, with red cheeks, and cold hands and feet. Frequent attacks of flushes of heat. [80] Cold perspiration on the face in the morning in bed. Perspiration all over when walking in the open air. Skin. The skin becomes easily chafed from walking and riding, also in children. Inflammation of the ulcers. Pain in the long bones as if they were broken. [85] Bruises and other mechanical injuries of the bones and the periosteum. Dropsy ; warts, with sore pains. Conditions. The pains in the limbs are aggravated during rest and cold wet weather, and principally while sitting, and are ameliorated by motion. Copyright © Médi-T 2006",
-        "source_id": "lippe-textbook-mm-1866"
-      },
-      {
         "text": "This remedy which has already been mentioned as to its prominent action in the periosteum, especially in injuries and effects therefrom, also, like Arnica, has a \"bruised, lame sensation all over as after a fall; worse in limbs and joints,\" and also \"all parts of the body upon which he lies are painful, as if bruised.\" Like Rhus tox., the Ruta patient wants to change position frequently. The pains and lameness of Ruta seem to have a particular liking for the wrists. Here also must Eupat. perf. be remembered.",
         "source_id": "nash-leaders-1899"
       },
@@ -427,6 +425,12 @@
         {
           "text": "lying down, from cold, wet weather",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Ruta]. Rest : wrist and back of hand painful ; pains in bones of feet. Lying down : pain below right scapula > ; stitches in small of back > ; parts on which he lies sore. Sitting : vertigo ; tearing stitches in rectum ; stitches in rectum ; stitches in small of back in spine ; on rising cannot walk, falls back again ; sciatica < ; pains down sciatic nerve on rising. Lies in one position, then in another, turns from side to side ; uneasiness of legs ; rheumatism. Bending over : feces often escape. Slightest stooping or crouching down : causes rectum to protrude ; stitches in small of back. Is unable to bend : pains in all joints. Stretching out limbs even a little : thighs painful. Motion : of right arm, pain below right scapula < ; > pain in small of back ; wrist and back of hand painful. Exertion : pain below scapula <. Exercise : hands numb and tingle. Walking : vertigo ; involuntary micturition ; stitches in small of back ; falls from side to side ; short distance, great weakness ; limbs painful. Ascending or descending a hill is difficult, legs give out. Going up and down stairs : hamstrings feel shortened and weak. Morning : vertigo on rising ; rheumatic pains in back < before rising ; sweat in bed. At 5 o'clock A. M. : pressure in small of back. During day : involuntary micturition ; sleepiness. Afternoon : thirst for cold water ; heat with anxiety. Toward evening : eyes irritable and run water. Evening : melancholy disposition, burning in eyes ; green halo around light ; slight blurred, eyes ache ; pain below right scapula. Night : eyes feel like balls of fire ; involuntary micturition in bed ; feeling as if it were time to rise. About midnight : awakened with a choking cough. Near warm stove : chill ; chilliness. Indoors : yawning and stretching. Open air : vertigo when walking, eyes water ; after walking, general sweat. Cold applications : sciatica <. Cold water : thirst for. Wet, cold weather : wrists feel stiff, sprained ; sciatica <.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },
@@ -618,7 +622,6 @@
       "kent-lectures-1905",
       "kent-mm-1911",
       "kings-american-1898",
-      "lippe-textbook-mm-1866",
       "nash-leaders-1899"
     ]
   }

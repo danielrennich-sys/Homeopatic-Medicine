@@ -1,14 +1,19 @@
 {
   "id": "scrophularia-aquatica",
   "names": {
-    "primary": "Scrophularia aquatica (LINN.)",
-    "latin": "Scrophularia aquatica (LINN.)",
+    "primary": "Scrophularia Aquatica",
+    "latin": "Scrophularia Aquatica",
     "common": [
       "Figwort, Water"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Scrophularia aquatica (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

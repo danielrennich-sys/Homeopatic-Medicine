@@ -1,14 +1,19 @@
 {
   "id": "viola-canina",
   "names": {
-    "primary": "Viola canina (LINN.)",
-    "latin": "Viola canina (LINN.)",
+    "primary": "Viola Canina",
+    "latin": "Viola Canina",
     "common": [
       "Violet, Dog"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Viola canina (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

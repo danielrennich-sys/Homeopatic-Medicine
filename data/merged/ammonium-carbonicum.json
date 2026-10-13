@@ -8,12 +8,13 @@
     ],
     "synonyms": [
       "Ammonium Carbonicum. Smelling Salts. ((NH4O)2CO.)",
-      "AMMONIUM CARBONICUM",
-      "AMMONIUM CARBONICUM--Smelling Salts",
-      "Ammonium carbonicum"
+      "AMMONIUM CARBONICUM--Smelling Salts"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mentals": [
       {
@@ -856,6 +857,12 @@
         {
           "text": "evenings, from cold, wet weather, wet applications, washing, and during 3 to 4 am, during menses",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Am. c.]. At rest : pain in back and loins <. Relieved lying on abdomen. Lying down : pain in stomach > ; pain in bowels ceases ; leg goes to sleep. Must lie down from debility. Cannot lie on left side : bruised pain in left groin ; stitches in l. side. Raising up in bed : stitches in chest. When sitting : dizziness ; boring stitches in liver ; leg goes to sleep ; drawing in legs. Ascending steps : difficult breathing. Ascending a hill : shortness of breath. Stepping causes painful concussion in abdomen. Standing : leg goes to sleep ; heel hurts. Walking : dizziness better ; pulsating pressure and beating in forehead ; painful commotion in bowels ; stitches in chest ; heaviness and tightness in chest ; improves pain in back or loins ; pain in hip. Every exertion : heel hurts ; weakness in limbs ; palpitation and asthma. Moving head : giddiness ; sensation as if brain fell to and fro. Stooping : brain seems to fall towards side leaned to ; nosebleed ; burning water runs from nose ; rush of blood to tip of nose ; stitches in chest. Night : giddiness ; rush of blood to head ; boring and stitching in head ; nosebleed ; stoppage of nose ; pressure in stomach ; burning at anus and tenesmus ; frequent urination ; seminal emissions ; cough < ; hawks much saltish mucus ; heaviness and oppression at sternum ; ebullition of blood ; rigidity of hands and arms ; pain in all limbs ; continuous sweat. At 3 A. M. : dry cough from tickling in throat. Early morning : rigidity of arms and fingers. Morning : vertigo ; headache with nausea, etc. ; nosebleed when washing face ; bitter taste ; hiccough ; erections without desire ; expectoration ; pain in heels on awaking ; sweat most about joints. All day : burning in eyes ; continuous sweat. During day : expectoration ; pains in back and loins. Afternoon : must sleep to relieve pain in eyes. Evening : disposed to weep ; giddiness < ; violent toothache ; boring stitches in liver ; swelling in left groin ; cough with asthma in bed ; great toe swollen and painful in bed ; chill alternating with heat till midnight ; much flatus. At 7 P. M. : strange uneasiness arousing child from sleep. At 10 P. M. : child falls asleep suddenly after previous uneasiness. In wet, stormy weather : ill humor ; < headache. Winter : stout women readily take cold. Very sensitive to cold air out-doors. Worse in cold air ; menorrhagia. Worse from wet poultices. From washing : reappearance of symptoms ; nosebleed ; blue hands, swollen veins. Children dislike washing. In a warm room : headache > ; get deathly pale. θ Asthma. Better in-doors, from warmth, in dry weather. Worse while walking in open air, evening. Averse to walking in open air. After entering warm room from open air, sensation as if hair stood on end. Aversion to walking in open air. Open air : increases headache while walking ; difficult breathing > ; heaviness and tightness in chest when walking ; weakness of limbs when walking ; chill increased. Warmth of bed : relieves tearing in ankle and feet. In bed : great toe becomes red and painful. Warm room : chill lessened.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

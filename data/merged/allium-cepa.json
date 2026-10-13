@@ -10,13 +10,15 @@
     ],
     "synonyms": [
       "Allium Cepa. Onion (Liliaccae)",
-      "ALLIUM CEPA",
       "Allium cepa, var. aggregatum",
-      "Allium Cepa. (Cepa.)",
-      "Allium cepa"
+      "Allium Cepa. (Cepa.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -469,6 +471,12 @@
         {
           "text": "in the evening, in warm room",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [All. c.]. In lying : increased earache, toothache, splenic pain. Lying : stitches in spleen ; in bed, pain in shoulder blade. Sitting : < colic in region of navel and hepatic region ; < periodic pains in pubic region. Rising : vertigo ; > toothache. Walking : > colic in region of navel. Motion : of eyelids, pain in temple ; > colic. At 2 A. M. : awakes ; heat without thirst. Morning : apathetic, restless, drowsy ; violent sneezing ; pressive pain in root of eye tooth > ; tongue dirty, slimy, furred ; offensive flatus ; bowels loose ; erections ; cannot sleep till morning. In afternoon : confused and absentminded. Worse in afternoon and evening ; when lying down. θ Pertussis. Evening : dulness, pressure in head < ; stitches left forehead into ear ; lachrymation ; fluent coryza < ; face hot ; raises lumps of mucus from choanæ ; frequent urination ; pain in right wrist ; pain in fingers ; dropping from nose. In evening : after drinking beer and eating herring, excessive thirst ; heat and severe coryza, with much lachrymation, headache, acrid, burning discharge from nose, so that upper lip became red and sensitive. Colds and toothache after damp cold wind and weather. Bad effects from getting feet wet. Warm room : < dulness, pressure, heaviness, < constant sneezing ; < fluent coryza ; < toothache. Patient likes to wash himself frequently and is fond of being in open air. θ Toothache. Cold water : > toothache. Open air : > dulness, pressure, heaviness in head ; > fluent coryza ; > toothache. Cold air : > drawing pain in left cheek and throat ; toothache ; hacking cough. Spring : coryza. August : hay fever. Autumnal epidemics of spasmodic cough.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

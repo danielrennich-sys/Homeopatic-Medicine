@@ -1,14 +1,19 @@
 {
   "id": "atropinae-sulphas",
   "names": {
-    "primary": "Atropinae Sulphas (U. S. P.)",
-    "latin": "Atropinae Sulphas (U. S. P.)",
+    "primary": "Atropinae Sulphas",
+    "latin": "Atropinae Sulphas",
     "common": [
       "Atropine Sulphate"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Atropinae Sulphas (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

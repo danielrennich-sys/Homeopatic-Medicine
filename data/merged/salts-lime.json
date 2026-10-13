@@ -1,12 +1,17 @@
 {
   "id": "salts-lime",
   "names": {
-    "primary": "Salts  Of  Lime.— Calcarea  Ostrearum",
-    "latin": "Salts  Of  Lime.— Calcarea  Ostrearum",
+    "primary": "Salts Lime",
+    "latin": "Salts Lime",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Salts  Of  Lime.— Calcarea  Ostrearum"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

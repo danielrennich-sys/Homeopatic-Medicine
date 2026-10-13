@@ -1,14 +1,15 @@
 {
   "id": "hepar-sulphur",
   "names": {
-    "primary": "HEPAR SULPHUR",
-    "latin": "HEPAR SULPHUR",
+    "primary": "Hepar Sulphur",
+    "latin": "Hepar Sulphur",
     "common": [],
-    "synonyms": [
-      "Hepar Sulphur"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

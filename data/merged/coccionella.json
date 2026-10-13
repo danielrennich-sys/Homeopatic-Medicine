@@ -1,12 +1,15 @@
 {
   "id": "coccionella",
   "names": {
-    "primary": "COCCIONELLA",
-    "latin": "COCCIONELLA",
+    "primary": "Coccionella",
+    "latin": "Coccionella",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

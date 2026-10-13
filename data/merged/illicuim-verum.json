@@ -1,14 +1,19 @@
 {
   "id": "illicuim-verum",
   "names": {
-    "primary": "Illicuim verum (HOOK, F.)",
-    "latin": "Illicuim verum (HOOK, F.)",
+    "primary": "Illicuim Verum",
+    "latin": "Illicuim Verum",
     "common": [
       "Anise (Star)"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Illicuim verum (HOOK, F.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

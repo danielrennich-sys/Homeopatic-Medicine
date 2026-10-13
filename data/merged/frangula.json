@@ -1,16 +1,20 @@
 {
   "id": "frangula",
   "names": {
-    "primary": "Frangula (Rhamnus frangula)",
-    "latin": "Frangula (Rhamnus frangula)",
+    "primary": "Frangula",
+    "latin": "Frangula",
     "common": [
       "Frangula"
     ],
     "synonyms": [
+      "Frangula (Rhamnus frangula)",
       "Frangula (U. S. P.)"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

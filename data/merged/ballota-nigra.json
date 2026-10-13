@@ -1,14 +1,19 @@
 {
   "id": "ballota-nigra",
   "names": {
-    "primary": "Ballota nigra (LINN.)",
-    "latin": "Ballota nigra (LINN.)",
+    "primary": "Ballota Nigra",
+    "latin": "Ballota Nigra",
     "common": [
       "Horehound, Black"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ballota nigra (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

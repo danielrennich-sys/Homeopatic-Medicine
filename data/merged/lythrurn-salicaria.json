@@ -1,14 +1,17 @@
 {
   "id": "lythrurn-salicaria",
   "names": {
-    "primary": "Lythrurn salicaria",
-    "latin": "Lythrurn salicaria",
+    "primary": "Lythrurn Salicaria",
+    "latin": "Lythrurn Salicaria",
     "common": [
       "Loosestrife, Purple"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

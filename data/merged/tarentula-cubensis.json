@@ -1,16 +1,19 @@
 {
   "id": "tarentula-cubensis",
   "names": {
-    "primary": "TARENTULA CUBENSIS",
-    "latin": "TARENTULA CUBENSIS",
+    "primary": "Tarentula Cubensis",
+    "latin": "Tarentula Cubensis",
     "common": [
       "Cuban Spider"
     ],
     "synonyms": [
-      "Tarentula Cubensis"
+      "TARANTULA CUBENSIS"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {
@@ -99,6 +102,10 @@
       {
         "text": "\"The Mygale Cubensis, which may be called the Cuban Tarentula, also found in South Carolina and Texas, is a larger spider, of a dark brown colour, less poisonous, and covered with more hairs than the Tarentula Hispanica\" (Hering). The chief uses to which Trn. c. has been put are: (1) Carbuncle, even to sloughing; with great prostration and diarrhœa. (2) Intermittent fever, with evening exacerbation. A keynote symptom is \"atrocious pains.\" A case of chorea in a girl of twelve is reported (H. M., March, 1901) cured with Trn. c. 6. The movements were confined to the left side, and occurred chiefly at night, when Trn. c. was prescribed.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Or the hairy spider. It is one of the most efficacious remedies for boils, abscesses, felons, or swellings of any kind, where the tissues put on a bluish color, and there are intense burning pains. We used to think we had two great remedies in Arsenicum and Anthracinum for these swellings; but Tarantula Cubensis is simply wonderful. I have seen felons which had kept patients awake night after night walking the floor in agony from the terrible pains so relieved in a very short time that they could sleep in perfect comfort until the swellings spontaneously discharged, and progressed to a rapid cure. This remedy should receive a thorough proving. It is a gem.",
+        "source_id": "nash-leaders-1899"
       }
     ],
     "relationships": {
@@ -129,7 +136,8 @@
   "provenance": {
     "sources": [
       "boericke-1927",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "nash-leaders-1899"
     ]
   }
 }

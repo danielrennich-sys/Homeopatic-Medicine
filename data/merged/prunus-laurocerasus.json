@@ -1,17 +1,21 @@
 {
   "id": "prunus-laurocerasus",
   "names": {
-    "primary": "Prunus laurocerasus (LINN,)",
-    "latin": "Prunus laurocerasus (LINN,)",
+    "primary": "Prunus Laurocerasus",
+    "latin": "Prunus Laurocerasus",
     "common": [
       "Cherry Laurel",
       "Laurel, Cherry"
     ],
     "synonyms": [
+      "Prunus laurocerasus (LINN,)",
       "Prunus Laurocerasus (LINN.)"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "tamarindus",
   "names": {
-    "primary": "Tamarindus (U. S. P.)",
-    "latin": "Tamarindus (U. S. P.)",
+    "primary": "Tamarindus",
+    "latin": "Tamarindus",
     "common": [
       "Tamarind"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Tamarindus (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

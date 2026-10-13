@@ -1,8 +1,8 @@
 {
   "id": "thymus-serpyllum",
   "names": {
-    "primary": "THYMUS SERPYLLUM",
-    "latin": "THYMUS SERPYLLUM",
+    "primary": "Thymus Serpyllum",
+    "latin": "Thymus Serpyllum",
     "common": [
       "Wild Thyme",
       "Thyme, Wild"
@@ -11,7 +11,11 @@
       "Thymus serpyllum (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Tincture"

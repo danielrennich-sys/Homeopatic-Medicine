@@ -1,14 +1,19 @@
 {
   "id": "methyl-salicylas",
   "names": {
-    "primary": "Methyl Salicylas (U. S. P.)",
-    "latin": "Methyl Salicylas (U. S. P.)",
+    "primary": "Methyl Salicylas",
+    "latin": "Methyl Salicylas",
     "common": [
       "Methyl Salicylate"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Methyl Salicylas (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

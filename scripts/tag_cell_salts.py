@@ -9,11 +9,12 @@ Tag and merge the 12 Schuessler Cell Salts in the merged remedy database.
 from __future__ import annotations
 
 import json
+import os
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-MERGED_DIR = ROOT / "data" / "merged"
+MERGED_DIR = Path(os.environ.get("HOMEO_MERGED_DIR", ROOT / "data" / "merged"))
 
 # The 12 Schuessler Cell Salts — canonical ID, number, display name,
 # and list of file stems to merge into the canonical.
@@ -106,7 +107,8 @@ CELL_SALTS = [
         "display": "Natrum Sulphuricum",
         "latin": "Natrum Sulphuricum",
         "common": ["Nat Sulph", "Sodium Sulphate", "Glauber's Salt"],
-        "merge_from": ["natrum-sulphurosum"],
+        # natrum-sulphurosum (sodium sulphite) is a different substance - not merged
+        "merge_from": [],
     },
     {
         "number": 12,

@@ -1,14 +1,15 @@
 {
   "id": "nitrum",
   "names": {
-    "primary": "NITRUM",
-    "latin": "NITRUM",
+    "primary": "Nitrum",
+    "latin": "Nitrum",
     "common": [],
-    "synonyms": [
-      "Nitrum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

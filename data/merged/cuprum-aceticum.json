@@ -6,11 +6,12 @@
     "common": [
       "Acetate of Copper"
     ],
-    "synonyms": [
-      "CUPRUM ACETICUM"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -111,6 +112,12 @@
         {
           "text": "mental emotions, touch",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Cupr. a.]. Lying down : chorea > Sitting : anxiety and pressure of chest <. Change of posture : frequent. Chewing : facial neuralgia >. Motion : chorea <. Walking : dragging of left foot. Throwing body about : great restlessness. Morning : facial neuralgia < ; attack of vomiting on awaking. Night : cough comes on between 11 and 1. Warmly wrapped : facial neuralgia >. Hot bricks : do not > cold feet.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

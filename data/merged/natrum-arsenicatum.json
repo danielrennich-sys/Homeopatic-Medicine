@@ -1,14 +1,15 @@
 {
   "id": "natrum-arsenicatum",
   "names": {
-    "primary": "NATRUM ARSENICATUM",
-    "latin": "NATRUM ARSENICATUM",
+    "primary": "Natrum Arsenicatum",
+    "latin": "Natrum Arsenicatum",
     "common": [],
-    "synonyms": [
-      "Natrum Arsenicatum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

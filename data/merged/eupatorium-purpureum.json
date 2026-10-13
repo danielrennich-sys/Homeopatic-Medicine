@@ -8,11 +8,15 @@
       "Gravelroot"
     ],
     "synonyms": [
-      "EUPATORIUM PURPUREUM",
+      "Eupatorium. Eupatorium purpureum",
       "Eupatorium purpureum (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -253,6 +257,38 @@
     ],
     "indications": [
       {
+        "text": "Related entry: Eupatorium perfoliatum",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonyms—Queen of the Meadows, Gravel Root.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Specific Symptomatology—Irritation of the bladder in women from displacement and chronic inflammation of the uterus; and suppression of urine, partial or complete, during or after pregnancy.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—The agent is of service in dropsy, strangury, gravel, hematuria, disease of the kidneys and bladder from an excess of uric acid, in chronic endometritis, leucorrhea, chronic uterine disease, insufficient labor pains, threatened abortion, ovarian and uterine atony, dysmenorrhea, painful affections of the kidneys and bladder, much cutting pain and smarting in the urethra while urinating, constant desire to urinate, suppression of urine, either partial or complete, burning distress or dull aching in the bladder, urine mixed with mucus, pain in the kidneys. It has been frequently used in enormous distension of the limbs and body from dropsy. Also in intermittent fever, chills in the lumbar region, when there is violent shaking with little perspiration, severe bone pains, frontal headache, weak, tired feeling, paroxysms every other day, hectic fever with night sweats.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Eupatorium Purpureum is a remedy for the diseases of the uric acid diathesis, irritation of the urinary tract being the chief symptom; while it is a positive remedy where it is necessary to increase the flow of the urine. It increases retrograde metamorphosis and eliminates the poison causing rheumatism. It stimulates the female reproductive. organs, and may be employed in labor and as a tonic in chronic uterine disease. In intermittent fever it has effected cures. It acts on the ganglionic system of nerves, and may be given to improve digestion. It stimulates waste, and may be employed in any case where an alterative is required.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Dr. Andrews for many years has treated scarlet fever with gravel root. He adds two drams of it to four ounces of water and gives a teaspoonful every two, three, or four hours for its active influence in stimulating excretion.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
         "text": "The root of Eupatorium purpureum, Linné (Nat. Ord. Compositae). Low meadows and woods of the United States. Dose, 5 to 60 grains.Common Names: Queen of the Meadow, Gravel Weed, Gravel Root, Joe Pye Weed.",
         "source_id": "felter-eclectic-1922"
       },
@@ -435,6 +471,7 @@
       "boericke-1927",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
+      "ellingwood-1919",
       "felter-eclectic-1922",
       "grieve-modern-herbal-1931",
       "hering-guiding-1879",

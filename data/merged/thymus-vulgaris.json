@@ -1,14 +1,19 @@
 {
   "id": "thymus-vulgaris",
   "names": {
-    "primary": "Thymus Vulgaris (LINN.)",
-    "latin": "Thymus Vulgaris (LINN.)",
+    "primary": "Thymus Vulgaris",
+    "latin": "Thymus Vulgaris",
     "common": [
       "Thyme, Garden"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Thymus Vulgaris (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

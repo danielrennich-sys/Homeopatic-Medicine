@@ -6,11 +6,13 @@
     "common": [
       "Black Spruce"
     ],
-    "synonyms": [
-      "ABIES NIGRA"
-    ]
+    "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -116,6 +118,12 @@
         {
           "text": "after eating",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "Morning : total loss of appetite. Noon : craving for food. Night : hungry ; wakeful and restless. Day : dull and sleepy.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

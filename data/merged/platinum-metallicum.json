@@ -1,14 +1,17 @@
 {
   "id": "platinum-metallicum",
   "names": {
-    "primary": "PLATINUM METALLICUM",
-    "latin": "PLATINUM METALLICUM",
+    "primary": "Platinum Metallicum",
+    "latin": "Platinum Metallicum",
     "common": [
       "The Metal (PLATINA)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

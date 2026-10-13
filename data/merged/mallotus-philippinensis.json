@@ -1,15 +1,47 @@
 {
   "id": "mallotus-philippinensis",
   "names": {
-    "primary": "Mallotus Philippinensis (MUELL.)",
-    "latin": "Mallotus Philippinensis (MUELL.)",
+    "primary": "Mallotus Philippinensis",
+    "latin": "Mallotus Philippinensis",
     "common": [
       "Kamala"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Mallotus. Mallotus philippinensis",
+      "Mallotus Philippinensis (MUELL.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
+    "indications": [
+      {
+        "text": "Synonyms—Kamala, Kameela.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—Kamala is an efficient remedy for tapeworm, ranking next to male fern. No preparation for its administration is necessary. To counteract griping it should be taken in cinnamon water or combined with hyoscyamus. If the first does does not act, it should be repeated in four hours or followed with a dose of castor oil.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Kamala may be employed as an external application in herpetic ring. worm, scabies and other skin diseases.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The root of the tree is used in dyeing, and for cutaneous eruptions, also used by the Arabs internally for leprosy and in solution to remove freckles and pustules. In this country it has been successfully used for an eruption in children known as wildfire, the powder is rubbed over the affected part with moist lint. Its greatest use, however, is in the use of tapeworm, being safer and more certain than other cures; the worm is passed whole and generally dead. The dose of Karmala for a robust person is 3 drachms, but only half that quantity for anyone of enfeebled health; the fluid extract is milder and acts with more certainty. Kamala acts quickly and actively as a purgative, and often causes much griping and nausea, but seldom vomiting. It may be given in water mucilage or syrup; the worm is usually expelled at the third or fourth stool; if it fails to act, the dose is repeated after four hours, or a dose of castor oil is given. Kamala is largely used in India externally for cutaneous troubles, and is most effective for scabies. It has been successfully employed in herpetic ringworm (a disease very prevalent there), and as a taenifuge it has been used with good results, on the Continent, combined with Kousso and known as Kama-kosin. Kamala is insoluble in cold water and boiling water has little effect on it. The resin is the most active constituent, and is dissolved by ether, chloroform, alcohol or benzol. When exposed to a flame it explodes with a flash resembling Lycopodium.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
     "generalities": [
       {
         "text": "Glands and hairs covering the fruits.",
@@ -42,12 +74,6 @@
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
-    "indications": [
-      {
-        "text": "The root of the tree is used in dyeing, and for cutaneous eruptions, also used by the Arabs internally for leprosy and in solution to remove freckles and pustules. In this country it has been successfully used for an eruption in children known as wildfire, the powder is rubbed over the affected part with moist lint. Its greatest use, however, is in the use of tapeworm, being safer and more certain than other cures; the worm is passed whole and generally dead. The dose of Karmala for a robust person is 3 drachms, but only half that quantity for anyone of enfeebled health; the fluid extract is milder and acts with more certainty. Kamala acts quickly and actively as a purgative, and often causes much griping and nausea, but seldom vomiting. It may be given in water mucilage or syrup; the worm is usually expelled at the third or fourth stool; if it fails to act, the dose is repeated after four hours, or a dose of castor oil is given. Kamala is largely used in India externally for cutaneous troubles, and is most effective for scabies. It has been successfully employed in herpetic ringworm (a disease very prevalent there), and as a taenifuge it has been used with good results, on the Continent, combined with Kousso and known as Kama-kosin. Kamala is insoluble in cold water and boiling water has little effect on it. The resin is the most active constituent, and is dissolved by ether, chloroform, alcohol or benzol. When exposed to a flame it explodes with a flash resembling Lycopodium.",
-        "source_id": "grieve-modern-herbal-1931"
-      }
-    ],
     "dosing": [
       {
         "text": "Powdered Kamala, 2 to 4 drachms. Fluid extract, 2 to 4 drachms.",
@@ -58,6 +84,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "ellingwood-1919",
       "grieve-modern-herbal-1931"
     ]
   }

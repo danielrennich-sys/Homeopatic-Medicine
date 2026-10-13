@@ -1,14 +1,19 @@
 {
   "id": "tilia-europoea",
   "names": {
-    "primary": "Tilia Europoea (LINN.)",
-    "latin": "Tilia Europoea (LINN.)",
+    "primary": "Tilia Europoea",
+    "latin": "Tilia Europoea",
     "common": [
       "Lime Tree"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Tilia Europoea (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

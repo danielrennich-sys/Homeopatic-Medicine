@@ -1,14 +1,19 @@
 {
   "id": "ribes-rubrum",
   "names": {
-    "primary": "Ribes rubrum (LINN.)",
-    "latin": "Ribes rubrum (LINN.)",
+    "primary": "Ribes Rubrum",
+    "latin": "Ribes Rubrum",
     "common": [
       "Currant, Red"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ribes rubrum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

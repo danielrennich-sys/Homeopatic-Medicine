@@ -1,12 +1,17 @@
 {
   "id": "aconitum-anthora",
   "names": {
-    "primary": "Aconitum Anthora, L",
-    "latin": "Aconitum Anthora, L",
+    "primary": "Aconitum Anthora",
+    "latin": "Aconitum Anthora",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Aconitum Anthora, L"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {

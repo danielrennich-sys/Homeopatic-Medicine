@@ -1,14 +1,19 @@
 {
   "id": "stachys-sylvatica",
   "names": {
-    "primary": "Stachys sylvatica (LINN.)",
-    "latin": "Stachys sylvatica (LINN.)",
+    "primary": "Stachys Sylvatica",
+    "latin": "Stachys Sylvatica",
     "common": [
       "Woundwort, Hedge"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Stachys sylvatica (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

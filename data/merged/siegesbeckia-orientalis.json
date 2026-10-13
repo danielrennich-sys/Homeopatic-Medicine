@@ -1,14 +1,19 @@
 {
   "id": "siegesbeckia-orientalis",
   "names": {
-    "primary": "Siegesbeckia orientalis (LINN.)",
-    "latin": "Siegesbeckia orientalis (LINN.)",
+    "primary": "Siegesbeckia Orientalis",
+    "latin": "Siegesbeckia Orientalis",
     "common": [
       "Siegesbeckia"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Siegesbeckia orientalis (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

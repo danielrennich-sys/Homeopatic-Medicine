@@ -8,11 +8,14 @@
       "Daisy, Common"
     ],
     "synonyms": [
-      "BELLIS PERENNIS",
       "Bellis perennis (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

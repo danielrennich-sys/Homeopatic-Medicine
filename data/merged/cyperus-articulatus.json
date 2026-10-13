@@ -1,14 +1,19 @@
 {
   "id": "cyperus-articulatus",
   "names": {
-    "primary": "Cyperus articulatus (LINN.)",
-    "latin": "Cyperus articulatus (LINN.)",
+    "primary": "Cyperus Articulatus",
+    "latin": "Cyperus Articulatus",
     "common": [
       "Adrue"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Cyperus articulatus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

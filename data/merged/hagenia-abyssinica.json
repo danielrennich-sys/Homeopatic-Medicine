@@ -1,14 +1,19 @@
 {
   "id": "hagenia-abyssinica",
   "names": {
-    "primary": "Hagenia Abyssinica (WILLD.), Brayera anthelmintica (KUNTH.)",
-    "latin": "Hagenia Abyssinica (WILLD.), Brayera anthelmintica (KUNTH.)",
+    "primary": "Hagenia Abyssinica",
+    "latin": "Hagenia Abyssinica",
     "common": [
       "Kousso"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Hagenia Abyssinica (WILLD.), Brayera anthelmintica (KUNTH.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

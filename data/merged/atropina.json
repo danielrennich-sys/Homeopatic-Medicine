@@ -1,14 +1,19 @@
 {
   "id": "atropina",
   "names": {
-    "primary": "Atropina (U. S. P.)",
-    "latin": "Atropina (U. S. P.)",
+    "primary": "Atropina",
+    "latin": "Atropina",
     "common": [
       "Atropine"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Atropina (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

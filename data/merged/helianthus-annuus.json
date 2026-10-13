@@ -1,14 +1,17 @@
 {
   "id": "helianthus-annuus",
   "names": {
-    "primary": "Helianthus annuus",
-    "latin": "Helianthus annuus",
+    "primary": "Helianthus Annuus",
+    "latin": "Helianthus Annuus",
     "common": [
       "Sunflower"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "constituents": [
       {

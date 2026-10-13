@@ -1,14 +1,17 @@
 {
   "id": "strychninum-phosphoricum",
   "names": {
-    "primary": "STRYCHNINUM PHOSPHORICUM",
-    "latin": "STRYCHNINUM PHOSPHORICUM",
+    "primary": "Strychninum Phosphoricum",
+    "latin": "Strychninum Phosphoricum",
     "common": [
       "Phosphate of Strychnin (STRYCHNIA PHOSPHORICA)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Third trituration"

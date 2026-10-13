@@ -9,12 +9,15 @@
       "Rhus Glabra"
     ],
     "synonyms": [
-      "RHUS GLABRA",
       "Rhus glabra (LINN.)",
       "Rhus Glabra (U. S. P.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -49,7 +52,13 @@
       }
     ],
     "dosing": {
-      "notes": "Tincture. Usually locally to soft, spongy gums, aphthæ, pharyngitis, etc. Internally, first potency"
+      "notes": "Tincture. Usually locally to soft, spongy gums, aphthæ, pharyngitis, etc. Internally, first potency",
+      "entries": [
+        {
+          "text": "Of the fluid extract of bark, 1 to 2 drachms. Of the fluid extract of berries, 1 to 2 drachms. Of the decoction of bark, or infusion of berries, 1 to 4 fluid ounces. Rhusin, 1 to 2 grains. The following has been recommended for gonorrhoea: Take 1 scruple each of the exudation and Canada balsam. Form into a pill mass with a sufficient quantity of powdered pokeroot, and divide into 10 pills, of which 1 or 2 may be taken three or four times daily. [ Top ] [ Top of Sumach, Smooth ] SUMACH, SWEET (Toxicodendron succedaneum printed as Rhus succedanea) Click on graphic for larger image Botanical: Rhus aromatica (AIT.) Family: N.O. Anacardiaceae Medicinal Action and Uses Other Species",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "keynotes": [
       {

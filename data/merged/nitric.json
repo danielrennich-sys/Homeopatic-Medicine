@@ -1,12 +1,17 @@
 {
   "id": "nitric",
   "names": {
-    "primary": "Nitric,    Hydrocyanic    And    Picric   Acids",
-    "latin": "Nitric,    Hydrocyanic    And    Picric   Acids",
+    "primary": "Nitric",
+    "latin": "Nitric",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Nitric,    Hydrocyanic    And    Picric   Acids"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

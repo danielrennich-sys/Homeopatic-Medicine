@@ -1,14 +1,17 @@
 {
   "id": "fabiana-imbricata",
   "names": {
-    "primary": "FABIANA IMBRICATA",
-    "latin": "FABIANA IMBRICATA",
+    "primary": "Fabiana Imbricata",
+    "latin": "Fabiana Imbricata",
     "common": [
       "Pichi"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Ten to twenty drops of the tincture"

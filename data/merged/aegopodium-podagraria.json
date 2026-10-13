@@ -1,14 +1,19 @@
 {
   "id": "aegopodium-podagraria",
   "names": {
-    "primary": "Ægopodium podagraria (LINN.)",
-    "latin": "Ægopodium podagraria (LINN.)",
+    "primary": "Aegopodium Podagraria",
+    "latin": "Aegopodium Podagraria",
     "common": [
       "Goutweed"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ægopodium podagraria (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

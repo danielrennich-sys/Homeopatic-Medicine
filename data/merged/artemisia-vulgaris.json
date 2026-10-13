@@ -7,11 +7,14 @@
       "Mugwort"
     ],
     "synonyms": [
-      "ARTEMISIA VULGARIS",
       "Artemisia vulgaris (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

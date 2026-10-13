@@ -1,23 +1,26 @@
 {
   "id": "calendula-officinalis",
   "names": {
-    "primary": "Calendula",
-    "latin": "Calendula",
+    "primary": "Calendula Officinalis",
+    "latin": "Calendula Officinalis",
     "common": [
       "Marigold",
       "Calendula"
     ],
     "synonyms": [
+      "Calendula",
       "Calendula. Marigold (Compositae)",
-      "CALENDULA OFFICINALIS",
       "Calendula. Calendula officinalis",
       "Calendula officinalis (LINN.)",
       "CALENDULA",
-      "Calendula (U. S. P.)",
-      "Calendula officinalis"
+      "Calendula (U. S. P.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -192,6 +195,12 @@
           "text": "in damp, heavy, cloudy weather",
           "source_id": "boericke-1927"
         }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Calen.]. Restless at night, can rest in no position. Lying down : pressive headache ; pressure and oppression l. side of chest. Feels best when walking about, or when lying perfectly still. The rheumatic drawing pains appear only during motion, and are very slight. Moving causes pain, even after the wound is dressed : rheumatism < from motion. Walking : boring digging pain deep in region of navel. Night : drinks much ; very restless ; has to urinate often. Morning : head heavy after long illness ; stool with chill, preceded by griping and anxiety. Forenoon ; intimation of nausea ; chilliness of hands and feet ; great heat. Afternoon : heat, creeping chills ; frequent thirst. At 5 p. m. : heat, thirst, chill abates. Evening : heat of head ; pressure and oppression left side of chest ; in bed, great heat, smarting, feet burn very much and are inclined to sweat ; towards, a feeling of heat in otherwise cold hands.",
+          "source_id": "hering-guiding-1879"
+        }
       ]
     },
     "relationships": {
@@ -218,7 +227,13 @@
       ]
     },
     "dosing": {
-      "notes": "Locally. Aqueous Calendula (Marigoldin) for all wounds, the greatest healing agent. Also as an injection in leucorrhœa; internally, tincture, to third potency. For burns sores, fissures, and abrasions, etc, use Calendula Cerate"
+      "notes": "Locally. Aqueous Calendula (Marigoldin) for all wounds, the greatest healing agent. Also as an injection in leucorrhœa; internally, tincture, to third potency. For burns sores, fissures, and abrasions, etc, use Calendula Cerate",
+      "entries": [
+        {
+          "text": "Fluid extract, 1/4 to 1 drachm. Purchase from Richters Calendula (Calendula officinalis) Seeds Erfurter Orange Calendula (Calendula officinalis 'Erfurter Orangefarbige') Seeds Radio Calendula (Calendula officinalis 'Radio') Seeds Try it in tea! Energizer Tea Fairy Tale Tea Get Smart Tea My Guardian Angel Tea Yummy Tummy Tea Find this in an herb garden collection... Chef's Salad Bouquet Edible Flower Garden Home Medicine Chest Healing Herb Garden",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "mental_emotional": [
       {
@@ -406,7 +421,6 @@
     ]
   },
   "evidence": {
-    "summary": "",
     "lactation_safety": [
       {
         "section": "Drug Levels and Effects",
@@ -414,7 +428,6 @@
         "source": "LactMed-NIH"
       }
     ],
-    "documented_adverse_effects": [],
     "regulatory": [
       "LactMed - NIH Drugs and Lactation Database"
     ],

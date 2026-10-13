@@ -1,14 +1,19 @@
 {
   "id": "frasera-carolinensis",
   "names": {
-    "primary": "Frasera Carolinensis (WALT.)",
-    "latin": "Frasera Carolinensis (WALT.)",
+    "primary": "Frasera Carolinensis",
+    "latin": "Frasera Carolinensis",
     "common": [
       "Columbo, American"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Frasera Carolinensis (WALT.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

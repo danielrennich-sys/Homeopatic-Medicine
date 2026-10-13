@@ -1,17 +1,21 @@
 {
   "id": "caffeina-citrata",
   "names": {
-    "primary": "Caffeina Citrata (U. S. P.)",
-    "latin": "Caffeina Citrata (U. S. P.)",
+    "primary": "Caffeina Citrata",
+    "latin": "Caffeina Citrata",
     "common": [
       "Citrated Caffeine",
       "Effervescent Citrated Caffeine"
     ],
     "synonyms": [
+      "Caffeina Citrata (U. S. P.)",
       "Caffeina Citrata Effervescens (U. S. P.)"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {
@@ -60,10 +64,6 @@
       },
       {
         "text": "Action, Medical Uses, and Dosage.—An agreeable form in which to administer citrated caffeine, the dose being a teaspoonful dissolved in water, and drunk while effervescing (see Caffeina).",
-        "source_id": "kings-american-1898"
-      },
-      {
-        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
         "source_id": "kings-american-1898"
       }
     ]

@@ -1,14 +1,19 @@
 {
   "id": "anthemis",
   "names": {
-    "primary": "Anthemis (U. S. P.)",
-    "latin": "Anthemis (U. S. P.)",
+    "primary": "Anthemis",
+    "latin": "Anthemis",
     "common": [
       "Anthemis"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Anthemis (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

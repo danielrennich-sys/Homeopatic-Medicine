@@ -1,14 +1,17 @@
 {
   "id": "veratrum-sabadilla",
   "names": {
-    "primary": "Veratrum sabadilla",
-    "latin": "Veratrum sabadilla",
+    "primary": "Veratrum Sabadilla",
+    "latin": "Veratrum Sabadilla",
     "common": [
       "Sabadilla"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

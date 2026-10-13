@@ -1,14 +1,19 @@
 {
   "id": "cytisus-laburnam",
   "names": {
-    "primary": "Cytisus Laburnam (LINN.)",
-    "latin": "Cytisus Laburnam (LINN.)",
+    "primary": "Cytisus Laburnam",
+    "latin": "Cytisus Laburnam",
     "common": [
       "Laburnum"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Cytisus Laburnam (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

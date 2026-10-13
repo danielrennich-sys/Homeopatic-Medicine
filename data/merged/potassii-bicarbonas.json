@@ -1,14 +1,19 @@
 {
   "id": "potassii-bicarbonas",
   "names": {
-    "primary": "Potassii Bicarbonas (U. S. P.)",
-    "latin": "Potassii Bicarbonas (U. S. P.)",
+    "primary": "Potassii Bicarbonas",
+    "latin": "Potassii Bicarbonas",
     "common": [
       "Potassium Bicarbonate"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Potassii Bicarbonas (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

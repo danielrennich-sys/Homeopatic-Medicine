@@ -1,14 +1,19 @@
 {
   "id": "cetraria",
   "names": {
-    "primary": "Cetraria (U. S. P.)",
-    "latin": "Cetraria (U. S. P.)",
+    "primary": "Cetraria",
+    "latin": "Cetraria",
     "common": [
       "Cetraria"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Cetraria (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

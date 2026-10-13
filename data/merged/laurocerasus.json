@@ -1,17 +1,19 @@
 {
   "id": "laurocerasus",
   "names": {
-    "primary": "Laur",
-    "latin": "Laur",
+    "primary": "Laurocerasus",
+    "latin": "Laurocerasus",
     "common": [
       "Cherry-laurel"
     ],
     "synonyms": [
-      "LAUROCERASUS",
-      "Laurocerasus"
+      "Laur"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mentals": [
       {

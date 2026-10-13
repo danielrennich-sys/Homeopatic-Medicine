@@ -1,12 +1,17 @@
 {
   "id": "salts-potash",
   "names": {
-    "primary": "Salts  Of  Potash",
-    "latin": "Salts  Of  Potash",
+    "primary": "Salts Potash",
+    "latin": "Salts Potash",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Salts  Of  Potash"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -6,11 +6,13 @@
     "common": [
       "Iris Tenax"
     ],
-    "synonyms": [
-      "Iris tenax"
-    ]
+    "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

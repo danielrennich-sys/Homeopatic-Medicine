@@ -1,14 +1,17 @@
 {
   "id": "syringa-vulgaris",
   "names": {
-    "primary": "Syringa vulgaris",
-    "latin": "Syringa vulgaris",
+    "primary": "Syringa Vulgaris",
+    "latin": "Syringa Vulgaris",
     "common": [
       "Lilacs (White and Mauve)"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

@@ -1,24 +1,45 @@
 {
   "id": "roccella-tinctoria",
   "names": {
-    "primary": "Roccella tinctoria (D. C.)",
-    "latin": "Roccella tinctoria (D. C.)",
+    "primary": "Roccella Tinctoria",
+    "latin": "Roccella Tinctoria",
     "common": [
+      "Cudbear",
       "Litmus"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Rocella tinctoria",
+      "Roccella tinctoria (D. C.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
-    "preparation": [
+    "habitat": [
       {
-        "text": "The whole plant, for its pigment.",
+        "text": "Maritime rocks of Madeira. The Azores, Canary and Cape de Verde Islands. Cudbear is a purplish-red powder prepared from a species of the Rocella tinctoria, Lecanora Acharius and other lichens. It is an alcoholic or agueous preparation of a deep red colour, which is lightened by the addition of acids and changed to a purplish red by alkalies. It yields about 35 per cent of ash, mostly sodium chloride.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Seashore rocks on all warm coasts and some mountain rocks.",
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
-    "habitat": [
+    "indications": [
       {
-        "text": "Seashore rocks on all warm coasts and some mountain rocks.",
+        "text": "Employed for colouring purposes as a dye. Cudbear is very difficult to extract, so the liquid preparations are rarely uniform in colour, and for this reason powdered Cudbear is generally used. The powder is made from an ammoniacal infusion of the lichen evaporated to dryness and then reduced to powder. In pharmacy it is sometimes used as a test for alkalies and acids. R. tinctoria is the lichen from which Litmus is obtained. The lichen is boiled with water, containing chalk in suspension, and then concentrated in vacuum; it is then dried, freed from impurities and put in large vats together with the liquor and ammonia. It is kept at 25 to 30 degrees F. for two or three months and then dried and powdered. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Demulcent and emollient. A decoction is useful in coughs and catarrhs. Litmus is used officially as a test for acids and alkalis. Acids impart a red colour to blue Litmus and alkaloids cause reddened Litmus to return to its original blue. It may be used in solid or liquid forms as well as on the papers.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "preparation": [
+      {
+        "text": "The whole plant, for its pigment.",
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
@@ -31,12 +52,6 @@
     "constituents": [
       {
         "text": "The lichen contains a brown resin, wax, insoluble and lichen starches, yellow extractive, gummy and glutinous matters, tartrate and oxalate of lime and chloride of sodium. The colouring principles are acids or acid anhydrides, themselvescolourless but yielding colour when acted upon by ammonia, air and moisture. The chief of these are Azolitmin and Erythro-litmin, sometimes called leconoric, orsellic and erythric acids. The dye is tested by adding a solution of calcium hypochlorite to the alcoholic tincture, when a deep blood-red colour, quickly fading, should appear, or the plants can be macerated in a weak solution of ammonia, which should produce a rich violet-red.",
-        "source_id": "grieve-modern-herbal-1931"
-      }
-    ],
-    "indications": [
-      {
-        "text": "Demulcent and emollient. A decoction is useful in coughs and catarrhs. Litmus is used officially as a test for acids and alkalis. Acids impart a red colour to blue Litmus and alkaloids cause reddened Litmus to return to its original blue. It may be used in solid or liquid forms as well as on the papers.",
         "source_id": "grieve-modern-herbal-1931"
       }
     ],

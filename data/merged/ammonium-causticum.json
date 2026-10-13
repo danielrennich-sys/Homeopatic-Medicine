@@ -1,17 +1,19 @@
 {
   "id": "ammonium-causticum",
   "names": {
-    "primary": "Ammonium Causticum (Ammonia)",
-    "latin": "Ammonium Causticum (Ammonia)",
+    "primary": "Ammonium Causticum",
+    "latin": "Ammonium Causticum",
     "common": [
       "Hydrate of Ammonia-Ammonia Water"
     ],
     "synonyms": [
-      "AMMONIUM CAUSTICUM",
-      "Ammonium Causticum"
+      "Ammonium Causticum (Ammonia)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "oxyria-reniformis",
   "names": {
-    "primary": "Oxyria reniformis (HOOK)",
-    "latin": "Oxyria reniformis (HOOK)",
+    "primary": "Oxyria Reniformis",
+    "latin": "Oxyria Reniformis",
     "common": [
       "Sorrel Mountain"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Oxyria reniformis (HOOK)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

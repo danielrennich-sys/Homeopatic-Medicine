@@ -1,14 +1,19 @@
 {
   "id": "polyganum-aviculare",
   "names": {
-    "primary": "Polyganum aviculare (LINN.)",
-    "latin": "Polyganum aviculare (LINN.)",
+    "primary": "Polyganum Aviculare",
+    "latin": "Polyganum Aviculare",
     "common": [
       "Knotgrass"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Polyganum aviculare (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

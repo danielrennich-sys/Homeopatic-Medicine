@@ -1,12 +1,17 @@
 {
   "id": "monascus-purpureus",
   "names": {
-    "primary": "Red Yeast Rice",
-    "latin": "Red Yeast Rice",
+    "primary": "Monascus Purpureus",
+    "latin": "Monascus Purpureus",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Red Yeast Rice"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {},
   "evidence": {
     "summary": "Introduction Red yeast rice is bright reddish-purple fermented rice which is used as a dietary supplement, predominantly as a cholesterol lowering agent. The reddish-purple color derives from the mold Monascus purpureus. Red yeast rice use has been associated with very rare instances of acute, clinically apparent liver injury. Background Red yeast rice is a traditional Chinese medicine used as an aid to digestion and revitalizing agent. More recently, red yeast rice was shown to have a cholesterol lowering effect and was marketed as a natural means of treating hyperlipidemia. However, chemical characterization of the components of red yeast rice (monascus purpureus) demonstrated the presence of several monacolins, one of which (monacolin K) is chemically identical to lovastatin, a commercially available HMG-coenzyme A inhibitor widely used in the management of hyperlipidemia. While concentrations of lovastatin in commercial preparations of red yeast rice extract are variable, some have pharmacologically active concentrations of lovastatin. Controlled trials have shown that red yeast rice extract can lower total serum and LDL cholesterol. However, these same preparations have also been linked to rare cases of myopathy and liver injury similar to what occurs with lovastatin. Red yeast rice extracts are available over-the-counter in multiple formulations and with variable concentrations of monacolins. The FDA has ruled that red yeast rice extracts that have more than trace amounts of monacolin K (lovastatin) cannot be sold as a dietary supplement, but some products with detectable levels of lovastatin are commercially available. The other components of red yeast rice may have independent effects of lipid levels. Hepatotoxicity In prospective controlled trials, red yeast rice extract formulations have not been associated with serum enzyme elevations or clinically apparent liver injury. However, there have been isolated case reports of liver injury in patients on red yeast rice extracts. A proportion of patients with liver injury attributed to red yeast rice extract were reported to have similar episodes of serum enzyme elevations during conventional lovastatin therapy. Likelihood score : C (probable rare cause of clinically apparent liver injury). Mechanism of Injury Both the liver injury and myopathies attributed to red yeast rice extracts are probably due to the presence of lovastatin in concentrations of 1 to 10 mg per tablet. Lovastatin is metabolized in the liver via CYP 3A4 and its liver injury is likely due to a toxic or immunogenic metabolite. Outcome and Management The reported cases of liver injury attributed to red yeast rice have been mild-to-moderate in severity and self-limited in course. There have been no cases of acute liver failure or vanishing bile duct syndrome attributed to red yeast rice. Persons with liver injury attributed to red yeast rice extracts should avoid exposure to lovastatin, but switching to other statins may be safe, although it should be done with caution. Drug Class: Herbal and Dietary Supplements See also: Lovastatin",

@@ -1,8 +1,8 @@
 {
   "id": "areca-catechu",
   "names": {
-    "primary": "ARECA CATECHU",
-    "latin": "ARECA CATECHU",
+    "primary": "Areca Catechu",
+    "latin": "Areca Catechu",
     "common": [
       "Betel Nut (ARECA)",
       "Areca Nut"
@@ -11,7 +11,11 @@
       "Areca catechu (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

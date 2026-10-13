@@ -1,14 +1,19 @@
 {
   "id": "convolvulus-jalapa",
   "names": {
-    "primary": "Convolvulus Jalapa (LINN.)",
-    "latin": "Convolvulus Jalapa (LINN.)",
+    "primary": "Convolvulus Jalapa",
+    "latin": "Convolvulus Jalapa",
     "common": [
       "Bindweed, Jalap"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Convolvulus Jalapa (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

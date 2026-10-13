@@ -1,14 +1,19 @@
 {
   "id": "dryas-octopetala",
   "names": {
-    "primary": "Dryas octopetala (LINN,)",
-    "latin": "Dryas octopetala (LINN,)",
+    "primary": "Dryas Octopetala",
+    "latin": "Dryas Octopetala",
     "common": [
       "Avens (Mountain)"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Dryas octopetala (LINN,)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

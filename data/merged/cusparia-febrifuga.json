@@ -1,14 +1,19 @@
 {
   "id": "cusparia-febrifuga",
   "names": {
-    "primary": "Cusparia febrifuga (D. C.)",
-    "latin": "Cusparia febrifuga (D. C.)",
+    "primary": "Cusparia Febrifuga",
+    "latin": "Cusparia Febrifuga",
     "common": [
       "Angostura (True)"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Cusparia febrifuga (D. C.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

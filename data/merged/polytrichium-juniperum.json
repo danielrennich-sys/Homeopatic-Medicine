@@ -1,14 +1,19 @@
 {
   "id": "polytrichium-juniperum",
   "names": {
-    "primary": "Polytrichium Juniperum (WILLD.)",
-    "latin": "Polytrichium Juniperum (WILLD.)",
+    "primary": "Polytrichium Juniperum",
+    "latin": "Polytrichium Juniperum",
     "common": [
       "Moss, Hair Cap"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Polytrichium Juniperum (WILLD.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

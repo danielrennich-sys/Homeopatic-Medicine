@@ -1,14 +1,19 @@
 {
   "id": "chenopodium-olidum",
   "names": {
-    "primary": "Chenopodium olidum (LINN.) Chenopodium vulvaria (S. WATS.)",
-    "latin": "Chenopodium olidum (LINN.) Chenopodium vulvaria (S. WATS.)",
+    "primary": "Chenopodium Olidum",
+    "latin": "Chenopodium Olidum",
     "common": [
       "Arrachs or Oraches"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Chenopodium olidum (LINN.) Chenopodium vulvaria (S. WATS.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

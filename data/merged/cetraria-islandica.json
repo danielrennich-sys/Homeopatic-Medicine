@@ -10,7 +10,11 @@
       "Cetraria islandica (ACH.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

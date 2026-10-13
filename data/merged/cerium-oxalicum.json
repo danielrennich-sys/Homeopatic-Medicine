@@ -1,16 +1,17 @@
 {
   "id": "cerium-oxalicum",
   "names": {
-    "primary": "CERIUM OXALICUM",
-    "latin": "CERIUM OXALICUM",
+    "primary": "Cerium Oxalicum",
+    "latin": "Cerium Oxalicum",
     "common": [
       "Oxalate of Cerium"
     ],
-    "synonyms": [
-      "Cerium Oxalicum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "First trituration"

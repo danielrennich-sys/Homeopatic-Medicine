@@ -1,14 +1,19 @@
 {
   "id": "piper-betel",
   "names": {
-    "primary": "Piper betel (LINN.)",
-    "latin": "Piper betel (LINN.)",
+    "primary": "Piper Betel",
+    "latin": "Piper Betel",
     "common": [
       "Betel"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Piper betel (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

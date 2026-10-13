@@ -1,14 +1,15 @@
 {
   "id": "malaria-officinalis",
   "names": {
-    "primary": "MALARIA OFFICINALIS",
-    "latin": "MALARIA OFFICINALIS",
+    "primary": "Malaria Officinalis",
+    "latin": "Malaria Officinalis",
     "common": [],
-    "synonyms": [
-      "Malaria Officinalis"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

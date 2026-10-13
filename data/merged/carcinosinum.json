@@ -1,16 +1,17 @@
 {
   "id": "carcinosinum",
   "names": {
-    "primary": "CARCINOSINUM",
-    "latin": "CARCINOSINUM",
+    "primary": "Carcinosinum",
+    "latin": "Carcinosinum",
     "common": [
       "A nosode from Carcinoma (CARCINOSIN)"
     ],
-    "synonyms": [
-      "Carcinosinum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Thirtieth and 200th potency, a dose at night or less frequently"

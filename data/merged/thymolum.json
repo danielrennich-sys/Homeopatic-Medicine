@@ -1,14 +1,17 @@
 {
   "id": "thymolum",
   "names": {
-    "primary": "THYMOLUM",
-    "latin": "THYMOLUM",
+    "primary": "Thymolum",
+    "latin": "Thymolum",
     "common": [
       "Thyme Camphor (THYMOL)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {

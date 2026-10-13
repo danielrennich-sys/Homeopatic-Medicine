@@ -1,12 +1,17 @@
 {
   "id": "pharmaceutical-preparations",
   "names": {
-    "primary": "Pharmaceutical Preparations, with Doses",
-    "latin": "Pharmaceutical Preparations, with Doses",
+    "primary": "Pharmaceutical Preparations",
+    "latin": "Pharmaceutical Preparations",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Pharmaceutical Preparations, with Doses"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

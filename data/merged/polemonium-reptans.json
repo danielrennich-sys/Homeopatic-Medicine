@@ -1,14 +1,17 @@
 {
   "id": "polemonium-reptans",
   "names": {
-    "primary": "Polemonium reptans",
-    "latin": "Polemonium reptans",
+    "primary": "Polemonium Reptans",
+    "latin": "Polemonium Reptans",
     "common": [
       "Abscess Root"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

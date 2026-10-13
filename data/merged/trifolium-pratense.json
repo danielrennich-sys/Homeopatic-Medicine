@@ -8,12 +8,16 @@
       "Clover, Red"
     ],
     "synonyms": [
-      "TRIFOLIUM PRATENSE",
+      "Trifolium. Trifolium pratense",
       "Trifolium pratense (LINN.)",
       "Red Clover"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -76,7 +80,13 @@
       }
     ],
     "dosing": {
-      "notes": "Tincture"
+      "notes": "Tincture",
+      "entries": [
+        {
+          "text": "1 drachm of fluid extract, 1 to 2 drachms of infusion. [ Top ] Purchase from Richters Red Clover (Trifolium pratense) Seeds and Dried Tops Try it in tea! Comfort Tea Energizer Tea Euphoria Tea Fairy Tale Tea Related White Clover (Trifolium repens) Seeds Dragon�s Blood Clover (Trifolium repens 'Dragon�s Blood') Plants See also... Purple Prairie-Clover (Dalea purpurea) Seeds White Prairie-Clover (Dalea candida) Seeds Melilot 'Yellow Sweet Clover' (Melilotus officinalis) Seeds Sushni 'Fern Clover' (Marsilea minuta) Plants Lespedeza 'Round-headed Bush Clover' (Lespedeza capitata) Seeds",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "keynotes": [
       {
@@ -155,15 +165,43 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
-    "habitat": [
+    "indications": [
       {
-        "text": "Abundant in Britain, throughout Europe, Central and Northern Asia from the Mediterranean to the Arctic Circle and high up into the mountains. Red clover (Trifolium pratense) Click on graphic for larger image",
+        "text": "Synonym—Red clover.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "CONSTITUENTS—Not analyzed.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—Trifolium has been used as a cancer remedy by virtue of specific alterative properties said to exist in it. It was at one time widely advertised. but the profession has failed to observe the effects claimed by the proprietors, and yet it undoubtedly has active alterative properties. It is given where a cancerous diathesis is known to be present, and its use is persisted in for months. Improvement in objective phenomena is reported from a number of excellent observers.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The agent is also prescribed in irritable conditions of the larynx and air passages, especially if evidenced by spasmodic cough. It has served a good purpose in whooping cough, in the cough of measles, and in general bronchial or pulmonary irritation. A dry, irritable cough will respond most readily to its influence.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Dr. Lambert is of the opinion that trifolium has a direct action in improving the nutrition of the brain. He thinks it is demanded when the patient is overworked; when there is general mental failure, with loss of memory of words, or when there is confusion of ideas of functional causes; also when there is weakness of the lower extremities, or of the feet from deficient capillary circulation.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The fluid extract of Trifolium is used as an alterative and antispasmodic. An infusion made by 1 OZ. to 1 pint of boiling water may with advantage be used in cases of bronchial and whooping-cough. Fomentations and poultices of the herb have been used as localapplications to cancerous growths.",
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
-    "indications": [
+    "habitat": [
       {
-        "text": "The fluid extract of Trifolium is used as an alterative and antispasmodic. An infusion made by 1 OZ. to 1 pint of boiling water may with advantage be used in cases of bronchial and whooping-cough. Fomentations and poultices of the herb have been used as localapplications to cancerous growths.",
+        "text": "Abundant in Britain, throughout Europe, Central and Northern Asia from the Mediterranean to the Arctic Circle and high up into the mountains. Red clover (Trifolium pratense) Click on graphic for larger image",
         "source_id": "grieve-modern-herbal-1931"
       }
     ]
@@ -198,6 +236,7 @@
       "allen-encyclopedia-1874",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "ellingwood-1919",
       "grieve-modern-herbal-1931",
       "nccih"
     ]

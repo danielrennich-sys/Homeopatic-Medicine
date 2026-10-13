@@ -1,16 +1,18 @@
 {
   "id": "glycerinum",
   "names": {
-    "primary": "GLYCERINUM",
-    "latin": "GLYCERINUM",
+    "primary": "Glycerinum",
+    "latin": "Glycerinum",
     "common": [
       "Glycerine"
     ],
-    "synonyms": [
-      "Glycerinum"
-    ]
+    "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "head": [
       {

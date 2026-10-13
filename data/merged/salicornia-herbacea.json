@@ -1,14 +1,19 @@
 {
   "id": "salicornia-herbacea",
   "names": {
-    "primary": "Salicornia herbacea (LINN.)",
-    "latin": "Salicornia herbacea (LINN.)",
+    "primary": "Salicornia Herbacea",
+    "latin": "Salicornia Herbacea",
     "common": [
       "Glassworts"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Salicornia herbacea (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

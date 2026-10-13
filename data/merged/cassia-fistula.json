@@ -1,14 +1,19 @@
 {
   "id": "cassia-fistula",
   "names": {
-    "primary": "Cassia Fistula (U. S. P.)",
-    "latin": "Cassia Fistula (U. S. P.)",
+    "primary": "Cassia Fistula",
+    "latin": "Cassia Fistula",
     "common": [
       "Cassia Fistula"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Cassia Fistula (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

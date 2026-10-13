@@ -1,14 +1,15 @@
 {
   "id": "electricitas",
   "names": {
-    "primary": "ELECTRICITAS",
-    "latin": "ELECTRICITAS",
+    "primary": "Electricitas",
+    "latin": "Electricitas",
     "common": [],
-    "synonyms": [
-      "Electricitas"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -1,14 +1,17 @@
 {
   "id": "sulfonalum",
   "names": {
-    "primary": "SULFONALUM",
-    "latin": "SULFONALUM",
+    "primary": "Sulfonalum",
+    "latin": "Sulfonalum",
     "common": [
       "A Coal-tar Product (SULFONAL)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

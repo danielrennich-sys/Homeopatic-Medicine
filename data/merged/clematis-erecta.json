@@ -1,17 +1,17 @@
 {
   "id": "clematis-erecta",
   "names": {
-    "primary": "CLEMATIS ERECTA",
-    "latin": "CLEMATIS ERECTA",
+    "primary": "Clematis Erecta",
+    "latin": "Clematis Erecta",
     "common": [
       "Virgin's Bower"
     ],
-    "synonyms": [
-      "Clematis Erecta",
-      "Clematis erecta"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {
@@ -136,6 +136,12 @@
         {
           "text": "at night, and warmth of bed (washing in cold water); new moon--(monthly aggravation)",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Clem.]. When lying down : in evening, hammering in head ; toothache < to an unbearable degree. After lying down : violent itching of toes, evenings ; vibrating sensation through whole body. Sitting : pressive, tensive pain in forepart of brain, < when walking than when sitting. Closing eyes : < smarting in eyes. On opening eyes : great sensitiveness to light. Motion : < shooting along cord into groin. When moving head : giddiness. Bending head backward : < headache. On lifting head up : giddiness. While writing : letters momentarily run together. Bending : causes bruised pain in hepatic region. Stooping : < pain and tension in small of back. When walking : pressive, tensive pain in forepart of head < ; grinding in right half of brain ; sensitiveness of inguinal glands ; prickling, tensive pain in right inguinal glands ; clawing pain in scrotum ; over an uneven road, impeded respiration. When ascending a hill : respiration impeded. Before 6 P. M. : forcing to urinate, inducing copious, involuntary lachrymation. In morning : heaviness of head ; pustular conjunctivitis, with agglutination of lids ; on awaking, dryness of tongue ; rises unrefreshed from sleep. During day : involuntary erections ; great desire to sleep. Early in morning : great desire to sleep. In evening : hammering in head ; constipation ; after lying down, violent itching of toes ; sleeplessness. At night : toothache < ; pain in urethra < ; scirrhus, left mamma, with stitches in shoulder < ; sleeplessness ; dry heat, with general hot sensation ; profuse sweat, most towards morning ; herpes exedens, itching and burning < ; ulcers <. After midnight : profuse perspiration. Warmth of bed : < itching in eruption on scalp and neck ; < toothache ; < painful urethra ; < moist eczema, itching terrible. Heat : ulceration of cornea, eye sensitive to. When drawing in ear : toothache > ; toothache in hollow tooth, transiently >. When uncovering in bed : chilliness over whole body. Open air : < pressing pain in eyes, photophobia, lachrymation ; eyes sensitive to ; > toothache. Cold air : sensitiveness of eyes to ; < spreading blisters on swollen hands and fingers. Bathing : sensitiveness of eyes. Cold water : > toothache for a short time ; < moist eczema. Moist poultices : < eczema and ulcers. Cold weather : < scirrhus, left mamma.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

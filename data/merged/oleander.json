@@ -8,11 +8,14 @@
       "Oleander"
     ],
     "synonyms": [
-      "OLEANDER",
       "Oleander (Nerium oleander)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -154,6 +157,12 @@
         {
           "text": "undressing, rest, friction of clothes",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Olnd.]. Rest : febrile shivering all over body. Lying down : heaviness > ; toothache ; oppressive breathing. Rising from bed : vertigo. Stooping : pain over heart. Standing : looking down, vertigo ; trembling of knees. Motion : constant, > stiffness of thighs ; febrile shivering all over body. Exertion : flushes of heat <. Masticating : toothache. Writing : trembling of hands. Walking : vertigo ; feet as if asleep. Morning : pale, sunken face ; passes food eaten day before undigested ; pulse weak and slow. Evening : biting-itching on scalp < ; food has flat taste. Night : drawing in molar teeth ; toothache <. Open air : walking, vertigo. Getting out of bed : toothache >. Draft of air : caused rheumatism. Cold water : thirst.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

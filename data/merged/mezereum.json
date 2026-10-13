@@ -1,20 +1,24 @@
 {
   "id": "mezereum",
   "names": {
-    "primary": "Mez",
-    "latin": "Mez",
+    "primary": "Mezereum",
+    "latin": "Mezereum",
     "common": [
       "Spurge Olive",
       "Mezereum"
     ],
     "synonyms": [
-      "MEZEREUM",
-      "Mezereum",
+      "Mez",
+      "Mezereum. Daphne Mezereum. (Thymelaceae.)",
       "Mezereum (U. S. P.)",
       "Mezereum (Daphne mezereum)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "mentals": [
       {
@@ -192,151 +196,19 @@
         "source_id": "hering-guiding-1879"
       }
     ],
-    "ears": [
-      {
-        "text": "Feel too much open, as if tympanum was exposed to the cold air and it blew into the ear. Desire to bore fingers in",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Otalgia, with drawing and acute pullings. Itching and oozing eruption behind ears (scratching causes small elevations, they are scratched off and feel sore). Hardness of hearing. Sensation of stoppage of ears. Ears feel as if they were too open, and as if air were pouring into them, or as if the tympanum were exposed to the cold air, with a desire to bore with fingers into ear. Sensation as though air were distending the r. external meatus; afterward in l.; as if roaring would occur. Tinkling in ears, sometimes with drowsiness. [Cooper supplies the following additions]: Deafness with headache all over head, on vertex, as if the bone were breaking, a splitting headache with tenderness of scalp, begins across root of nose and eyes and is at night, also a sick feeling after food (cured). Bursting sensation in r. ear with neuralgia of whole side of head (cured). A rumbling in ears, with feeling of fulness and pressure and dimness of sight (produced). Swelling of r. ear and itching as if a boil were forcing itself through concha (produced). Adenoids, post nasal; deafness when eating, slight otorrhœa, stuffiness of l. nostril with ozæna. Very deaf, both membranes highly vascular following cold and acute headache of r. side of head; deafness had lasted 2 1/2 months (cured). Heavy dulness in l. ear with itching in both eyelids, could scratch them to pieces (cured).",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Ears feel as if too open, and as if air was pouring into them, or as if tympanum was exposed to cold air, with a desire to bore with finger into ear. Sensation as if air was distending right external meatus, and as though roaring in ears would occur ; afterwards in left meatus, with a stopped sensation in ear. Boy, æt. 17, deaf from fourth year ; when three years old had an eruption on head, which was removed by pitch plaster and touching sore with nitrate of silver ; tympanum thickened, of an opaque whiteness, slightly convex only by inflation, it is impossible to recognize bloodvessels ; Eustachian tube clear ; former eruption consisted of whitish, hard, nearly horny incrustations and scales, fissured, and through these cracks oozing of thick, yellow, foul smelling pus, severely itching, especially at night, so that child scratched off the crusts. Chronic diffuse otitis. Itching behind ears, scratching causes small elevations, when scratched off spots feel sore. Oozing eruption behind ears.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "eyes": [
-      {
-        "text": "Ciliary neuralgia after operations. Especially after removal of eyeball. Pains radiate and shoot downward, with cold feeling and stiffness of bone",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Inclination to wink with eyes. Dryness in eyes, with pressure in them. Twitching of muscles around eyes. Lachrymation, with smarting in eyes. Staring at one spot. Pain, as if balls of eyes were too large, with aching. Sensation as if eyes drawn back into head. Eyes feel strained. Smarting in internal canthi. Inflammation of eyes; conjunctiva injected, dirty red. Three days after one dose Mez. Ø eyes became bloodshot, first one then the other, with cramp in both feet and l. upper limb, night. (R. T. C.). Myopia, or presbyopia. Sparks before eyes. Obstinate twitching of the muscles of the l. upper lid. Pupils contracted.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Staring at one spot ; vacant look. Inclination to wink or close eyes. Dryness in eyes with pressure in them ; they feel too large. A feeling as if eyes were drawn backward into head. Eyes feel strained. Aching and tearing in and around eye, especially in orbits. Aching, pressive pain about left eye. Lachrymation ; smarting in eyes ; must rub them. Eyes hot, inflamed on rising in morning ; conjunctiva of ball very much injected, dirty red, especially near external canthus ; left eye < ; pressive pain and sensation of dryness. Rheumatic ophthalmia and ophthalmia consequent upon abuse of mercury. Annoying twitching of muscles of left upper lid. Itching biting on margin of lids and skin near nose. Itching in left upper eyelid, so violent at times that she had to cease her work ; frequently after itching pressure appeared in outer angle of left eye, but soon passed off ; < in evening. Blepharitis from birth, with tinea capitis, which itches intensely. Eczema of lids and head ; thick, hard scabs, from which pus exudes on pressure. Ciliary neuralgia, especially after operations on eye.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "stomach_abdomen": [
-      {
-        "text": "Desire for ham-fat. Burning in tongue, extending to stomach. Mouth waters. Nausea felt in throat; better, eating. Chronic gastritis; burning, corroding pain; nausea, vomiting, chocolate color. Gastric ulcer with much burning",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Swelling of glands with large abdomen in children. Pressure in inguinal ring. Flatulent colic, with shivering and difficult respiration",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Beer has a bitter taste, and is thrown up when taken. Increased hunger at noon. Great hunger or loss of appetite. Violent hunger in afternoon and evening. Unusual longing for ham fat. Burning in the stomach, mouth, and throat, > by eating (swallowing the food). Repugnance to food. Frequent and empty risings, esp. after drinking. Sensation of nausea in throat. Sensation as if posterior part of throat were full of mucus, same after hawking. Nausea, with accumulation of water in mouth, shuddering and trembling of whole body. Violent vomitings of greenish and bitter mucus, accompanied by headache. Vomiting of blood. Aching in stomach. Burning, and sensation of heat in stomach. Inflammation of stomach. Contraction of diaphragm. Abdomen hard and tense. Chronic, cramp-like, acute, pulling, pressive, constrictive, and shooting pains in abdomen. Stitches in l. hypochondrium. Dull pain in region of spleen. Heaviness in abdomen. Sensation of heat, and burning in abdomen. Inflammation of intestines. Expansive pressure in inguinal ring. Drawing in inguinal glands. Flatulent colic, with rumbling and borborygmi in abdomen, difficult respiration, and shivering. Many short, fetid, flatulent discharges, esp. before the stool.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Mez.]. Canine hunger noon and evening. Desire for ham fat, coffee, wine ; beer tastes bitter and causes vomiting. Loss of appetite. Frequent, empty, tasteless eructations. Nausea in throat and stomach ; vomit bitter, sour ; slimy ; oily or greasy. Apprehensiveness at pit of stomach as when expecting unpleasant news. Burning and uneasiness in stomach ; > by eating ; canine hunger at noon and evening. θ Gastrosis. Burning in whole mouth, as from pepper, especially in afternoon after eating ; in morning nausea and faintness ; slight thirst ; poor appetite ; stool every third day ; pressure in stomach and intestines ; hot urine. θ Gastric catarrh. Constant, severe pain and pressure in stomach even after light foods ; constricting, pinching pain with much belching, lasting one to two hours after eating ; pain culminates and ends with retching and vomiting of all food taken ; circumscribed redness of face ; skin cool ; pulse small and frequent ; chilliness alternating with flushes of heat. θ Ulcer of stomach. Induration of stomach. Burning, corroding pains, as if internal surface of gastric mucous membrane was raw, with sensation as if food remained for a long time undigested in stomach and caused pressure ; bloody vomiting ; great depression. θ Chronic gastritis. Great emaciation ; cachexia ; loss of appetite ; disgust for all animal food ; daily vomiting of chocolate colored masses, with hot burning in throat ; vomiturition, with excessive anguish and uninterrupted nausea from morning until night ; all food is immediately thrown up ; stool only every eight or ten days ; constant sleeplessness ; touch clearly reveals two tumors of size of an orange, one in right hypochondrium, the other in scrobiculum the latter movable and sensitive to pressure (relieved). θ Carcinoma ventriculi. Dull pain in region of spleen ; hardness and swelling, with pressive pain. Burning and sensation of heat in abdomen. Stitches in left side, in region of short ribs. Loud flatulence in abdomen, and loud emissions of it. Rumbling and noises in abdomen. Flatus constantly passes, but in a short and interrupted manner. Much short, very offensive flatus, especially before stools.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "stool_rectum": [
-      {
-        "text": "Constipation after confinement. Prolapse of rectum. Diarrhœa, with small, white particles. Green discharges. Constipation, with hepatic and uterine inertia. Constriction of anus; stitches and prolapse of rectum",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Difficult stools, of the consistence of thick pap, with urgent want to evacuate. Constipation. Constipation, stool dark brown, in knots, very hard balls, with great straining, but not painful. Stools soft, brown, smelling sour. Soft stool in evening, fermented stool, not fully digested, smelling very offensive or sour. Excessive diarrhœa (small stools) with intolerable colic. Brown fæces, containing some white, glistening bodies. Scanty, soft, frequent evacuations. Violent diarrhœa, with insupportable pains in abdomen. [Passes large quantities of blood by bowel with diarrhœa and sickness; is bilious (cured). Mez. often relieves constipation, esp. with hepatic and uterine inertia. R. T. C.]. During (or after) stool, prolapse of rectum with constriction of anus, which makes it very difficult to replace; sore and painful to touch. Before and after stool, creeping in rectum as from ascarides. Stitch in rectum; upwards (in afternoon). Biting, sore pain in anus on walking, and a burning in rectum. Pain in anus and anterior part of penis. Pinching in anus and near anus l. side. Crawling in anus; much itching. Tenesmus, tearing and drawing in anus and perinæum, and through whole urethra. Coldness and shuddering, before, and after the evacuation.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Many discharges of fetid flatus, more before stool. Stool : watery, soft ; brown, sour, fermented ; contains glistening bodies ; undigested ; offensive ; < in evening from suppressed eruption. Small, white, shining grains in brown feces. Stools dark brown, hard balls, much but painless straining. Before stool : colic ; creeping chills, languor and great sensibility to cold air ; copious discharge of fetid flatus. During stool : prolapsus recti ; painless straining ; anus becomes painful and constricted about fallen rectum ; difficult evacuations, of consistency of thick broth, with pressing desire. After stool : chill ; constriction with tenesmus ; weakness ; sensitiveness to cold, open air ; painful tenesmus, extending to perineum and urethra (male) ; chill over whole body ; pain in fissure of anus. Summer diarrhœa of children (complementary Bellad.). Chronic diarrhœa, with psoric anamnesis. Two days after labor, when defecating, painful burning in rectum, passing over into a kind of sore ; tenesmus after discharge of a small quantity of pultaceous feces ; gradually these stools increased and weakened her ; greatly ; four weeks after labor, paleness, general malaise and chilliness ; abdomen tympanitic, sensitive to touch ; over whole abdomen sensation of heat, with burning, cutting, gurgling and borborygmus, as when fluids pass from one part of intestines to another ; constant severe tenesmus, and still she passes, notwithstanding the severity of the pains, only small quantities of fluid or pultaceous masses ; after stool prolapsus recti, which is sore and burning until constriction has passed away ; general chilliness before and after stool, with desire for acid drinks ; no appetite ; regurgitation of food ; sleep only late at night ; restless, throws herself about ; morose and irritable. Constipation. Stools hard as a stone and large ; feel as if they would split anus ; they come in sections ; becomes very much exhausted and trembles with weakness ; stool preceded by chills and followed by long stitches up rectum. θ Constipation. Biting sore pain in anus on walking, and a burning in rectum. Much itching about anus, several times during day and also in evening before going to sleep.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "urinary": [
-      {
-        "text": "Red flakes float on top of urine. Hot, bloody Biting, burning in forepart of urethra at the close of micturition. Hæmaturia preceded by cramp pain in the bladder, After urinating, a few drops of blood are passed",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Diminished secretion of urine. In morning and forenoon, frequent discharges of large quantities of pale urine. Flock-like cloudiness, and reddish sediment in urine. Hæmaturia. Sticking in kidney, and pain as if torn. Pain, as from excoriation, in urethra. Discharge of mucus from urethra. Discharge of a few drops of blood after urinating. Biting burning in forepart of urethra at close of micturition. After micturition, itching at prepuce.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Sticking in kidney and pain as if torn. Frequent and copious discharge of pale urine in morning and forenoon. Itching and sensation of soreness in urethra when urinating, aroused or < by pressure ; intense painful tenesmus ; tearing and drawing in anus and perineum, from which it extends through whole urethra. Urine : diminished ; becomes flaky and has red sediment ; burning ; hot, with reddish sediment. After urinating a few drops of blood are passed. Hæmaturia preceded by crampy pain in bladder.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "female": [
-      {
-        "text": "Menses too frequent, soon, profuse. Leucorrhœa like albumen; very corroding",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Chronic leucorrhœa, like white of eggs (malignant, corroding), sometimes also serous. Menses: too frequent and lasting too long; scanty with leucorrhœa and prosopalgia; suppressed. During pregnancy, diarrhœa and prolapsus recti. After confinement, constipation, burning and stitches in rectum. (Climacteric flushings remain away for several months.).",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Menses : too frequent ; too soon, profuse and long lasting ; scanty, with leucorrhœa and prosopalgia ; suppressed. Uterine ulcer, with smarting, burning or prickling sensation ; discharge albuminous, sometimes tinged with blood. Leucorrhœa : like white of egg ; corroding ; chronic malignant. Mucous discharge from vagina and urethra. θ Gonorrhœa. PREGNANCY. PARTURITION. LACTATION. [24] [Mez.]. During pregnancy, diarrhœa with prolapsus recti ; anus after stool contracts around prolapsed rectum, which becomes constricted and sensitive to touch, painful like a sore.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "male": [
-      {
-        "text": "Enlargement of testicles. Violent sexual desire. Gonorrhœa, with hæmaturia",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Tearing, jerking, and lancination, in penis. Tearing and burning lancinations in the end of the glans. Heat and swelling of penis. Violent erections and increased sexual desire. Swelling of testicles. Fine pricking stitches in penis and tip of glans. Abundant secretion of smegma behind glans, like gonorrhœa balani. Swelling (painless) of scrotum.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Violent erections and increased sexual desire. Swollen testicles after maltreated gonorrhœa. Painless swelling of scrotum. Heat and swelling of penis. Fine prickling stitches in penis and at summit of glans. Itching in glans penis. Discharge of watery mucus ; stinging and titillating through whole urethra and perineum ; urethra sore to touch. θ Gonorrhœa. θ Gleet. Gonorrhœa with hæmaturia. Gleet ; whitish, painless discharge, more towards morning ; gouty pains through body.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "extremities": [
-      {
-        "text": "Pain in neck and back; worse, motion and at night; intolerant of all touch. Pain and burning in tibia and long bones. Legs and feet go to sleep. Pain in hip and knee",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Pain in right shoulder joint. Pain in shoulder joint as if it would be torn asunder. Sore feeling in right axilla. Dry tetter, scabby, scabs small, occurring especially in bend of elbows, with red spots size of a dollar. Eruptions on back of hands and wrists half way up to elbow ; itching < by scratching ; small burning vesicles, drying down into crusts, itching and burning after scratching, and becoming moist ; < from application of water. θ Eczema. Right hand cold, left warm ; or both cold. Trembling of right hand. Burning vesicles, surrounded by a red areola, on sides of fingers. Paralysis of flexors of fingers ; finger ends powerless, cannot hold anything. Hands \"go to sleep.\". Twitching pain from hip joint to knee. Right hip joint feels sprained on walking. Pain in hip, leg is shortened. Pain in bones of thigh and leg. Drawing pains, sensation of internal heat of limb, surface being cool ; > in open air. Since confinement, fifteen years ago, ulcer on right thigh, which only closed lately, leaving a small opening oozing a clear fluid ; excruciating pains in tibia, < at night ; skin at ulcerated part brown, dry, with bluish red spots around opening ; slightest pressure of finger causes burning pain, and still she tried to alleviate the deep seated pains by constricting limb with a handkerchief ; periosteum swollen ; stepping on foot prevented by severity of pains ; sleepless at night on account of pains and cramps in calves of legs. θ Periostitis. Right femur from knee to middle greatly swollen ; soft parts not affected ; periphery of affected leg 2 1/2\" larger, five inches above knee, than sound one ; about middle of femur swelling ceased and formed a marked elevation, where it met the unaffected part of bone ; tendons in popliteal space shortened, so that leg was flexed and it became impossible to extend it ; internal and external condyles swollen, patella not affected ; extreme pain at night and on slightest touch ; severe stitching pains in leg ; loss of appetite ; coated tongue ; thirst ; constipation ; turbid urine ; small, quick pulse ; night sweats ; sleeplessness ; great emaciation ; despondency. After healing of axillary abscess, large, irregular, sometimes confluent, distinctly defined, copper colored spots on inner side of thighs extending to groin ; not elevated, not disposed to suppurate, but seat of distressing burning itching, < at menstrual epoch, at which time the spots assume a darker color, especially at edges ; occasional hemicrania, stitches in spleen, frequent chills, trembling of limbs and morbidly fretful. θ Pityriasis versicolor. Cracking in right knee when rising in morning. Acute jerking in left knee. Pressive pain in right tibia. Violent pain in tibia, as if beaten, or as if periosteum was torn off, after midnight, disturbing sleep. Pain in periosteum of long bones, especially tibia, < at night in bed, least touch is intolerable ; < in damp weather. θ Syphilis. θ Rheumatism. Large syphilitic ulcer on left leg ; tibia thickened throughout whole length, and periosteum swollen around ulcer ; in evening, when much fatigued, slight oozing of serum at edges of ulcer ; when thick crust was removed from ulcer, latter appeared shallow and secreted a sanguinous discharge ; burning pain, < from heat of bed. Ulcer on right tibia, three inches long, two wide, above internal malleolus ; surrounding skin coppery red, covered with pustules. Leg, from knee to instep, covered with thick, yellow scab from cracks of which thick, yellow matter oozes on pressure ; scab falls off in pieces, leaving skin deep red, sore, itching violently and exuding a thin, clear fluid ; forming a thin scab under which pus again collects ; skin around scabs dark red, tense, hot, itching ; foot swollen, with painful stitches on beginning to walk ; at night intolerable itching and burning in eruption ; foul odor. θ Herpes crustaceus. Legs and feet \"go to sleep.\". Violent nightly pains in bones of feet ; rheumatism. Stitches in toes of right foot. Violent tearing in ball of left little toe. Trembling of extremities. Pains in periosteum of long bones, especially tibiæ, < at night in bed ; least touch intolerable.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "modalities": {
-      "better_from": [
-        {
-          "text": "open air",
-          "source_id": "boericke-1927"
-        }
-      ],
-      "worse_from": [
-        {
-          "text": "cold air; night, evening until midnight, warm food, touch, motion",
-          "source_id": "boericke-1927"
-        }
-      ]
-    },
-    "relationships": {
-      "antidoted_by": [
-        "Kali hyd",
-        "Merc"
-      ],
-      "_raw": [
-        "Antidoted by:─Aco., Bry., Calc. (headache), K. iod., Merc., Nux. It antidotes: Merc., Nit. ac., Phos., Alcohol. Compatible: Calc., Caust., Ign., Lyc., Merc., Nux, Pho., Puls. Compare: In ciliary neuralgia, Spi. (Mez. pains radiate and shoot down, cold feeling in eye; Spi., stabbing pains in or radiating from eye, eyeballs feel swollen), Thuj., Ced., Ars., Merc. Protruded and constricted rectum, Lach. Eczema, Rhus, Anac. Ulcers on finger-joints, Bor., Sep. Feeling of cold wind blowing in eye, Croc. (across eye), Med., Syph., Thuj. (out of eye). Blinking, Mercurialis. Nausea in throat, Cycl., Phos. ac., Stan., Val. (in rectum, Ruta; in hypogastrium, Puls.). Stitch in rectum, Ign., Pho. Long bones, Angust. Carious teeth, Kre. Vesicles appear round ulcers and itch, Hep. Pains in periosteum at night, Phyt., Merc. Rheumatism and skin, Guaiac., Anac., Rhus.",
-        "Antidoted by : Acon., Bryon., Calc. (headache), Kali iod., Mercur., Nux vom. (neuralgia)",
-        "It antidotes : effects of spirituous liquors, Mercur., Nitr. ac., Phosphor",
-        "Compatible : Calc., Caustic., Ignat., Lycop., Mercur., Nux vom., Phosphor., Pulsat",
-        "Compare : Anac., Guaiac., Phytol., Rhus tox",
-        "Copyright © Médi-T ® 2002",
-        "Main"
-      ]
-    },
-    "dosing": {
-      "notes": "Sixth to thirtieth potency"
-    },
     "keynotes": [
+      {
+        "text": "For light-haired, irresolute persons of a phelgmatic temperament. Eczema and itching eruptions after vaccinations. Hypochondriacal and despondent; indifferent to everything and every one; angry at trifles and perfectly harmless things, but is soon sorry for it. Toothache: in carious teeth (Kreos.); feel elongated, dull pain when biting on them and when touched with tongue, with mouth open and drawing in air; roots decay (rev. or Mer.). Headache, violent after slight vexation; painful on the slightest touch; right sided. The head is covered with thick, leather-like crust, under which thick and white pus collects here and there; hair is glued and matted together; pus after a time is ichorous, becomes offensive and breeds vermin. Ulcers with thick, yellowish-white scabs, under which thick, yellow pus collects. Vesicles appear around the ulcers, itch violently, burn like fire (Hep.); shining, fiery-red areola around. Linen or charpie sticks to the ulcers, they bleed when it is torn away. Eczema: intolerable itching, < in bed and from touch; copious, serous exudation. Neuralgic burning pains after zona. Bones, especially long bones, inflamed, swollen; nightly pains going from above downwards; after abuse of Merc., after venerial diseases; caries, exostosis, tumors soften from within out. Pain in periosteum of long bones < at night in bed, least touch, in damp weather (Mer., Phyt.). Child scratches face continually, which is covered with blood; eruptions moist; itching worse at night; inflammatory redness of face.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Compare: Caust., Guaiac., Phyt., Rhus.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - Cold air; cold washing; at night; touch or motion; bad effects of mercury or alcohol. Epidemics occurring in January or February often call for Mezereum.",
+        "source_id": "allen-keynotes-1899"
+      },
       {
         "text": "color=\"#800000\">MEZEREUM Spurge Olive Skin symptoms, affections of bones, and neuralgias most important, especially about teeth and face. Bruised, weary feeling in joints, with drawing and stiffness. Pains of various kinds, with chilliness and sensitiveness to cold air. Bone pains. Eruptions after vaccination. Burning, darting sensation in the muscles; subsultus tendinum. Pains shoot upward and seem to draw patient up out of bed. Semi-lateral complaints. Patient is very sensitive to cold air.",
         "source_id": "boericke-1927"
@@ -518,6 +390,156 @@
         "source_id": "nash-leaders-1899"
       }
     ],
+    "ears": [
+      {
+        "text": "Feel too much open, as if tympanum was exposed to the cold air and it blew into the ear. Desire to bore fingers in",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Otalgia, with drawing and acute pullings. Itching and oozing eruption behind ears (scratching causes small elevations, they are scratched off and feel sore). Hardness of hearing. Sensation of stoppage of ears. Ears feel as if they were too open, and as if air were pouring into them, or as if the tympanum were exposed to the cold air, with a desire to bore with fingers into ear. Sensation as though air were distending the r. external meatus; afterward in l.; as if roaring would occur. Tinkling in ears, sometimes with drowsiness. [Cooper supplies the following additions]: Deafness with headache all over head, on vertex, as if the bone were breaking, a splitting headache with tenderness of scalp, begins across root of nose and eyes and is at night, also a sick feeling after food (cured). Bursting sensation in r. ear with neuralgia of whole side of head (cured). A rumbling in ears, with feeling of fulness and pressure and dimness of sight (produced). Swelling of r. ear and itching as if a boil were forcing itself through concha (produced). Adenoids, post nasal; deafness when eating, slight otorrhœa, stuffiness of l. nostril with ozæna. Very deaf, both membranes highly vascular following cold and acute headache of r. side of head; deafness had lasted 2 1/2 months (cured). Heavy dulness in l. ear with itching in both eyelids, could scratch them to pieces (cured).",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Ears feel as if too open, and as if air was pouring into them, or as if tympanum was exposed to cold air, with a desire to bore with finger into ear. Sensation as if air was distending right external meatus, and as though roaring in ears would occur ; afterwards in left meatus, with a stopped sensation in ear. Boy, æt. 17, deaf from fourth year ; when three years old had an eruption on head, which was removed by pitch plaster and touching sore with nitrate of silver ; tympanum thickened, of an opaque whiteness, slightly convex only by inflation, it is impossible to recognize bloodvessels ; Eustachian tube clear ; former eruption consisted of whitish, hard, nearly horny incrustations and scales, fissured, and through these cracks oozing of thick, yellow, foul smelling pus, severely itching, especially at night, so that child scratched off the crusts. Chronic diffuse otitis. Itching behind ears, scratching causes small elevations, when scratched off spots feel sore. Oozing eruption behind ears.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Ciliary neuralgia after operations. Especially after removal of eyeball. Pains radiate and shoot downward, with cold feeling and stiffness of bone",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Inclination to wink with eyes. Dryness in eyes, with pressure in them. Twitching of muscles around eyes. Lachrymation, with smarting in eyes. Staring at one spot. Pain, as if balls of eyes were too large, with aching. Sensation as if eyes drawn back into head. Eyes feel strained. Smarting in internal canthi. Inflammation of eyes; conjunctiva injected, dirty red. Three days after one dose Mez. Ø eyes became bloodshot, first one then the other, with cramp in both feet and l. upper limb, night. (R. T. C.). Myopia, or presbyopia. Sparks before eyes. Obstinate twitching of the muscles of the l. upper lid. Pupils contracted.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Staring at one spot ; vacant look. Inclination to wink or close eyes. Dryness in eyes with pressure in them ; they feel too large. A feeling as if eyes were drawn backward into head. Eyes feel strained. Aching and tearing in and around eye, especially in orbits. Aching, pressive pain about left eye. Lachrymation ; smarting in eyes ; must rub them. Eyes hot, inflamed on rising in morning ; conjunctiva of ball very much injected, dirty red, especially near external canthus ; left eye < ; pressive pain and sensation of dryness. Rheumatic ophthalmia and ophthalmia consequent upon abuse of mercury. Annoying twitching of muscles of left upper lid. Itching biting on margin of lids and skin near nose. Itching in left upper eyelid, so violent at times that she had to cease her work ; frequently after itching pressure appeared in outer angle of left eye, but soon passed off ; < in evening. Blepharitis from birth, with tinea capitis, which itches intensely. Eczema of lids and head ; thick, hard scabs, from which pus exudes on pressure. Ciliary neuralgia, especially after operations on eye.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Desire for ham-fat. Burning in tongue, extending to stomach. Mouth waters. Nausea felt in throat; better, eating. Chronic gastritis; burning, corroding pain; nausea, vomiting, chocolate color. Gastric ulcer with much burning",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Swelling of glands with large abdomen in children. Pressure in inguinal ring. Flatulent colic, with shivering and difficult respiration",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Beer has a bitter taste, and is thrown up when taken. Increased hunger at noon. Great hunger or loss of appetite. Violent hunger in afternoon and evening. Unusual longing for ham fat. Burning in the stomach, mouth, and throat, > by eating (swallowing the food). Repugnance to food. Frequent and empty risings, esp. after drinking. Sensation of nausea in throat. Sensation as if posterior part of throat were full of mucus, same after hawking. Nausea, with accumulation of water in mouth, shuddering and trembling of whole body. Violent vomitings of greenish and bitter mucus, accompanied by headache. Vomiting of blood. Aching in stomach. Burning, and sensation of heat in stomach. Inflammation of stomach. Contraction of diaphragm. Abdomen hard and tense. Chronic, cramp-like, acute, pulling, pressive, constrictive, and shooting pains in abdomen. Stitches in l. hypochondrium. Dull pain in region of spleen. Heaviness in abdomen. Sensation of heat, and burning in abdomen. Inflammation of intestines. Expansive pressure in inguinal ring. Drawing in inguinal glands. Flatulent colic, with rumbling and borborygmi in abdomen, difficult respiration, and shivering. Many short, fetid, flatulent discharges, esp. before the stool.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Mez.]. Canine hunger noon and evening. Desire for ham fat, coffee, wine ; beer tastes bitter and causes vomiting. Loss of appetite. Frequent, empty, tasteless eructations. Nausea in throat and stomach ; vomit bitter, sour ; slimy ; oily or greasy. Apprehensiveness at pit of stomach as when expecting unpleasant news. Burning and uneasiness in stomach ; > by eating ; canine hunger at noon and evening. θ Gastrosis. Burning in whole mouth, as from pepper, especially in afternoon after eating ; in morning nausea and faintness ; slight thirst ; poor appetite ; stool every third day ; pressure in stomach and intestines ; hot urine. θ Gastric catarrh. Constant, severe pain and pressure in stomach even after light foods ; constricting, pinching pain with much belching, lasting one to two hours after eating ; pain culminates and ends with retching and vomiting of all food taken ; circumscribed redness of face ; skin cool ; pulse small and frequent ; chilliness alternating with flushes of heat. θ Ulcer of stomach. Induration of stomach. Burning, corroding pains, as if internal surface of gastric mucous membrane was raw, with sensation as if food remained for a long time undigested in stomach and caused pressure ; bloody vomiting ; great depression. θ Chronic gastritis. Great emaciation ; cachexia ; loss of appetite ; disgust for all animal food ; daily vomiting of chocolate colored masses, with hot burning in throat ; vomiturition, with excessive anguish and uninterrupted nausea from morning until night ; all food is immediately thrown up ; stool only every eight or ten days ; constant sleeplessness ; touch clearly reveals two tumors of size of an orange, one in right hypochondrium, the other in scrobiculum the latter movable and sensitive to pressure (relieved). θ Carcinoma ventriculi. Dull pain in region of spleen ; hardness and swelling, with pressive pain. Burning and sensation of heat in abdomen. Stitches in left side, in region of short ribs. Loud flatulence in abdomen, and loud emissions of it. Rumbling and noises in abdomen. Flatus constantly passes, but in a short and interrupted manner. Much short, very offensive flatus, especially before stools.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Constipation after confinement. Prolapse of rectum. Diarrhœa, with small, white particles. Green discharges. Constipation, with hepatic and uterine inertia. Constriction of anus; stitches and prolapse of rectum",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Difficult stools, of the consistence of thick pap, with urgent want to evacuate. Constipation. Constipation, stool dark brown, in knots, very hard balls, with great straining, but not painful. Stools soft, brown, smelling sour. Soft stool in evening, fermented stool, not fully digested, smelling very offensive or sour. Excessive diarrhœa (small stools) with intolerable colic. Brown fæces, containing some white, glistening bodies. Scanty, soft, frequent evacuations. Violent diarrhœa, with insupportable pains in abdomen. [Passes large quantities of blood by bowel with diarrhœa and sickness; is bilious (cured). Mez. often relieves constipation, esp. with hepatic and uterine inertia. R. T. C.]. During (or after) stool, prolapse of rectum with constriction of anus, which makes it very difficult to replace; sore and painful to touch. Before and after stool, creeping in rectum as from ascarides. Stitch in rectum; upwards (in afternoon). Biting, sore pain in anus on walking, and a burning in rectum. Pain in anus and anterior part of penis. Pinching in anus and near anus l. side. Crawling in anus; much itching. Tenesmus, tearing and drawing in anus and perinæum, and through whole urethra. Coldness and shuddering, before, and after the evacuation.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Many discharges of fetid flatus, more before stool. Stool : watery, soft ; brown, sour, fermented ; contains glistening bodies ; undigested ; offensive ; < in evening from suppressed eruption. Small, white, shining grains in brown feces. Stools dark brown, hard balls, much but painless straining. Before stool : colic ; creeping chills, languor and great sensibility to cold air ; copious discharge of fetid flatus. During stool : prolapsus recti ; painless straining ; anus becomes painful and constricted about fallen rectum ; difficult evacuations, of consistency of thick broth, with pressing desire. After stool : chill ; constriction with tenesmus ; weakness ; sensitiveness to cold, open air ; painful tenesmus, extending to perineum and urethra (male) ; chill over whole body ; pain in fissure of anus. Summer diarrhœa of children (complementary Bellad.). Chronic diarrhœa, with psoric anamnesis. Two days after labor, when defecating, painful burning in rectum, passing over into a kind of sore ; tenesmus after discharge of a small quantity of pultaceous feces ; gradually these stools increased and weakened her ; greatly ; four weeks after labor, paleness, general malaise and chilliness ; abdomen tympanitic, sensitive to touch ; over whole abdomen sensation of heat, with burning, cutting, gurgling and borborygmus, as when fluids pass from one part of intestines to another ; constant severe tenesmus, and still she passes, notwithstanding the severity of the pains, only small quantities of fluid or pultaceous masses ; after stool prolapsus recti, which is sore and burning until constriction has passed away ; general chilliness before and after stool, with desire for acid drinks ; no appetite ; regurgitation of food ; sleep only late at night ; restless, throws herself about ; morose and irritable. Constipation. Stools hard as a stone and large ; feel as if they would split anus ; they come in sections ; becomes very much exhausted and trembles with weakness ; stool preceded by chills and followed by long stitches up rectum. θ Constipation. Biting sore pain in anus on walking, and a burning in rectum. Much itching about anus, several times during day and also in evening before going to sleep.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Red flakes float on top of urine. Hot, bloody Biting, burning in forepart of urethra at the close of micturition. Hæmaturia preceded by cramp pain in the bladder, After urinating, a few drops of blood are passed",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Diminished secretion of urine. In morning and forenoon, frequent discharges of large quantities of pale urine. Flock-like cloudiness, and reddish sediment in urine. Hæmaturia. Sticking in kidney, and pain as if torn. Pain, as from excoriation, in urethra. Discharge of mucus from urethra. Discharge of a few drops of blood after urinating. Biting burning in forepart of urethra at close of micturition. After micturition, itching at prepuce.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sticking in kidney and pain as if torn. Frequent and copious discharge of pale urine in morning and forenoon. Itching and sensation of soreness in urethra when urinating, aroused or < by pressure ; intense painful tenesmus ; tearing and drawing in anus and perineum, from which it extends through whole urethra. Urine : diminished ; becomes flaky and has red sediment ; burning ; hot, with reddish sediment. After urinating a few drops of blood are passed. Hæmaturia preceded by crampy pain in bladder.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menses too frequent, soon, profuse. Leucorrhœa like albumen; very corroding",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Chronic leucorrhœa, like white of eggs (malignant, corroding), sometimes also serous. Menses: too frequent and lasting too long; scanty with leucorrhœa and prosopalgia; suppressed. During pregnancy, diarrhœa and prolapsus recti. After confinement, constipation, burning and stitches in rectum. (Climacteric flushings remain away for several months.).",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Menses : too frequent ; too soon, profuse and long lasting ; scanty, with leucorrhœa and prosopalgia ; suppressed. Uterine ulcer, with smarting, burning or prickling sensation ; discharge albuminous, sometimes tinged with blood. Leucorrhœa : like white of egg ; corroding ; chronic malignant. Mucous discharge from vagina and urethra. θ Gonorrhœa. PREGNANCY. PARTURITION. LACTATION. [24] [Mez.]. During pregnancy, diarrhœa with prolapsus recti ; anus after stool contracts around prolapsed rectum, which becomes constricted and sensitive to touch, painful like a sore.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "male": [
+      {
+        "text": "Enlargement of testicles. Violent sexual desire. Gonorrhœa, with hæmaturia",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Tearing, jerking, and lancination, in penis. Tearing and burning lancinations in the end of the glans. Heat and swelling of penis. Violent erections and increased sexual desire. Swelling of testicles. Fine pricking stitches in penis and tip of glans. Abundant secretion of smegma behind glans, like gonorrhœa balani. Swelling (painless) of scrotum.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Violent erections and increased sexual desire. Swollen testicles after maltreated gonorrhœa. Painless swelling of scrotum. Heat and swelling of penis. Fine prickling stitches in penis and at summit of glans. Itching in glans penis. Discharge of watery mucus ; stinging and titillating through whole urethra and perineum ; urethra sore to touch. θ Gonorrhœa. θ Gleet. Gonorrhœa with hæmaturia. Gleet ; whitish, painless discharge, more towards morning ; gouty pains through body.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Pain in neck and back; worse, motion and at night; intolerant of all touch. Pain and burning in tibia and long bones. Legs and feet go to sleep. Pain in hip and knee",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pain in right shoulder joint. Pain in shoulder joint as if it would be torn asunder. Sore feeling in right axilla. Dry tetter, scabby, scabs small, occurring especially in bend of elbows, with red spots size of a dollar. Eruptions on back of hands and wrists half way up to elbow ; itching < by scratching ; small burning vesicles, drying down into crusts, itching and burning after scratching, and becoming moist ; < from application of water. θ Eczema. Right hand cold, left warm ; or both cold. Trembling of right hand. Burning vesicles, surrounded by a red areola, on sides of fingers. Paralysis of flexors of fingers ; finger ends powerless, cannot hold anything. Hands \"go to sleep.\". Twitching pain from hip joint to knee. Right hip joint feels sprained on walking. Pain in hip, leg is shortened. Pain in bones of thigh and leg. Drawing pains, sensation of internal heat of limb, surface being cool ; > in open air. Since confinement, fifteen years ago, ulcer on right thigh, which only closed lately, leaving a small opening oozing a clear fluid ; excruciating pains in tibia, < at night ; skin at ulcerated part brown, dry, with bluish red spots around opening ; slightest pressure of finger causes burning pain, and still she tried to alleviate the deep seated pains by constricting limb with a handkerchief ; periosteum swollen ; stepping on foot prevented by severity of pains ; sleepless at night on account of pains and cramps in calves of legs. θ Periostitis. Right femur from knee to middle greatly swollen ; soft parts not affected ; periphery of affected leg 2 1/2\" larger, five inches above knee, than sound one ; about middle of femur swelling ceased and formed a marked elevation, where it met the unaffected part of bone ; tendons in popliteal space shortened, so that leg was flexed and it became impossible to extend it ; internal and external condyles swollen, patella not affected ; extreme pain at night and on slightest touch ; severe stitching pains in leg ; loss of appetite ; coated tongue ; thirst ; constipation ; turbid urine ; small, quick pulse ; night sweats ; sleeplessness ; great emaciation ; despondency. After healing of axillary abscess, large, irregular, sometimes confluent, distinctly defined, copper colored spots on inner side of thighs extending to groin ; not elevated, not disposed to suppurate, but seat of distressing burning itching, < at menstrual epoch, at which time the spots assume a darker color, especially at edges ; occasional hemicrania, stitches in spleen, frequent chills, trembling of limbs and morbidly fretful. θ Pityriasis versicolor. Cracking in right knee when rising in morning. Acute jerking in left knee. Pressive pain in right tibia. Violent pain in tibia, as if beaten, or as if periosteum was torn off, after midnight, disturbing sleep. Pain in periosteum of long bones, especially tibia, < at night in bed, least touch is intolerable ; < in damp weather. θ Syphilis. θ Rheumatism. Large syphilitic ulcer on left leg ; tibia thickened throughout whole length, and periosteum swollen around ulcer ; in evening, when much fatigued, slight oozing of serum at edges of ulcer ; when thick crust was removed from ulcer, latter appeared shallow and secreted a sanguinous discharge ; burning pain, < from heat of bed. Ulcer on right tibia, three inches long, two wide, above internal malleolus ; surrounding skin coppery red, covered with pustules. Leg, from knee to instep, covered with thick, yellow scab from cracks of which thick, yellow matter oozes on pressure ; scab falls off in pieces, leaving skin deep red, sore, itching violently and exuding a thin, clear fluid ; forming a thin scab under which pus again collects ; skin around scabs dark red, tense, hot, itching ; foot swollen, with painful stitches on beginning to walk ; at night intolerable itching and burning in eruption ; foul odor. θ Herpes crustaceus. Legs and feet \"go to sleep.\". Violent nightly pains in bones of feet ; rheumatism. Stitches in toes of right foot. Violent tearing in ball of left little toe. Trembling of extremities. Pains in periosteum of long bones, especially tibiæ, < at night in bed ; least touch intolerable.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "open air",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "cold air; night, evening until midnight, warm food, touch, motion",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Mez.]. Lying down : itching of scalp <. Cannot extend limb : swelling of femur and shortening of tendons. Stooping : headache > ; chest feels too tight. Motion : cranial bones pain < ; toothache < ; pain in nape < ; difficult, rheumatic pain in scapular muscles ; paralyzed feeling in limbs <. Stepping : prevented by severe pain in limb. Walking : biting, sore pain in arms ; right hip joint feels sprained ; stitches in foot. Morning : chilliness and coldness in body ; pain in vertex > ; eyes inflamed ; tearing in face ; after walk, tearing in teeth ; nausea and faintness ; discharge of pale urine ; gleet < ; sputa < ; inclination to cough ; frequent pulse ; after rising, pain in scapula ; cracking in r. knee. From morning until night : anguish and nausea. Forenoon : discharge of pale urine. Noon : canine hunger. Afternoon : burning in mouth. After meals : dulness of head. During day : expectoration salty ; yawning, stretching. Evening : pain in cranial bones < ; itching in eye < ; prosopalgia < till midnight ; lips painful ; chilliness ; canine hunger ; diarrhœa < ; itching about anus ; whooping cough < ; cough < till 12 P. M. ; in bed inclination to cough ; stitches near spinal marrow ; accelerated or slow pulse ; oozing from ulcer on leg. Night : pain in vertex < ; itching of scalp < ; toothache < ; sleep only late ; whooping cough < ; severe cough < ; pain in tibia < ; sleepless from pain in limb ; pain in periosteum of long bones < ; after midnight awakens from vivid dreams ; rheumatism < ; cystic osteoma < ; exanthema burning ; itching of eruption on finger joints <. Appears to be frequently indicated in January and February. Heat of bed : burning pain in ulcer on leg ; itching <. Warmth : itching of scalp and feet < ; neuralgia < ; chills >. Drinking anything hot : cough <. Warm food : cramping pressure in head <. Warm room : chilliness. Entering room : pains in head <. Wrapping up : head, pains >. When covered : to perspire, pains in head <. Open air : headache < ; teeth painful ; drawing pain of limbs > ; chilliness <. Sudden changes of weather : pains in head <. Application of water : eruption on hands and wrists. Cold : cranial bones sensitive ; drawing pain in scalp < ; causes pain in gums ; great sensibility after stool. Cold, damp air : headache <. Damp weather : rheumatism <. Cold winds : pains in head <. While in wind : drawing in limbs. Drawing in air : toothache >.",
+          "source_id": "hering-guiding-1879"
+        }
+      ]
+    },
+    "relationships": {
+      "antidoted_by": [
+        "Kali hyd",
+        "Merc"
+      ],
+      "_raw": [
+        "Antidoted by:─Aco., Bry., Calc. (headache), K. iod., Merc., Nux. It antidotes: Merc., Nit. ac., Phos., Alcohol. Compatible: Calc., Caust., Ign., Lyc., Merc., Nux, Pho., Puls. Compare: In ciliary neuralgia, Spi. (Mez. pains radiate and shoot down, cold feeling in eye; Spi., stabbing pains in or radiating from eye, eyeballs feel swollen), Thuj., Ced., Ars., Merc. Protruded and constricted rectum, Lach. Eczema, Rhus, Anac. Ulcers on finger-joints, Bor., Sep. Feeling of cold wind blowing in eye, Croc. (across eye), Med., Syph., Thuj. (out of eye). Blinking, Mercurialis. Nausea in throat, Cycl., Phos. ac., Stan., Val. (in rectum, Ruta; in hypogastrium, Puls.). Stitch in rectum, Ign., Pho. Long bones, Angust. Carious teeth, Kre. Vesicles appear round ulcers and itch, Hep. Pains in periosteum at night, Phyt., Merc. Rheumatism and skin, Guaiac., Anac., Rhus.",
+        "Antidoted by : Acon., Bryon., Calc. (headache), Kali iod., Mercur., Nux vom. (neuralgia)",
+        "It antidotes : effects of spirituous liquors, Mercur., Nitr. ac., Phosphor",
+        "Compatible : Calc., Caustic., Ignat., Lycop., Mercur., Nux vom., Phosphor., Pulsat",
+        "Compare : Anac., Guaiac., Phytol., Rhus tox",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "dosing": {
+      "notes": "Sixth to thirtieth potency"
+    },
     "mental_emotional": [
       {
         "text": "Hypochondriacal humour, with sadness and tears. (Fearful depression, miserable feeling). Anguish and inquietude, esp. in solitude, with wish for society. Indifference about everything and everybody around him. Aversion to talk. it seems to him to be hard work to utter one word. Disposed to reproach others or to quarrel. Irresolute. Everything seems dead and nothing makes a vivid impression. Peevishness. Passion. Unfitness for labour. Weak memory (mind is easily confused). Mental torpor. Slow conception. Ideas are frequently lost.",
@@ -611,6 +633,7 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-keynotes-1899",
       "boericke-1927",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",

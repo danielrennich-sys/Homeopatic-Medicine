@@ -1,14 +1,19 @@
 {
   "id": "salyx-nigra",
   "names": {
-    "primary": "Salyx nigra (MARCH)",
-    "latin": "Salyx nigra (MARCH)",
+    "primary": "Salyx Nigra",
+    "latin": "Salyx Nigra",
     "common": [
       "Willow, Black American"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Salyx nigra (MARCH)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

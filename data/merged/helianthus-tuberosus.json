@@ -1,14 +1,17 @@
 {
   "id": "helianthus-tuberosus",
   "names": {
-    "primary": "Helianthus tuberosus",
-    "latin": "Helianthus tuberosus",
+    "primary": "Helianthus Tuberosus",
+    "latin": "Helianthus Tuberosus",
     "common": [
       "Artichoke, Jerusalem"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

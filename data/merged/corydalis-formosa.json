@@ -1,14 +1,17 @@
 {
   "id": "corydalis-formosa",
   "names": {
-    "primary": "CORYDALIS FORMOSA",
-    "latin": "CORYDALIS FORMOSA",
+    "primary": "Corydalis Formosa",
+    "latin": "Corydalis Formosa",
     "common": [
       "Turkey-pea (CORYDALIS - DICENTRA CANADENSIS)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "skin": [
       {

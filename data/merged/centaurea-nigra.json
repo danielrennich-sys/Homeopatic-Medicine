@@ -1,14 +1,19 @@
 {
   "id": "centaurea-nigra",
   "names": {
-    "primary": "Centaurea nigra (LINN.)",
-    "latin": "Centaurea nigra (LINN.)",
+    "primary": "Centaurea Nigra",
+    "latin": "Centaurea Nigra",
     "common": [
       "Knapweed, Black"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Centaurea nigra (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -7,12 +7,13 @@
       "Vegetable Charcoal"
     ],
     "synonyms": [
-      "Carbo Vegetabilis. Vegetable Charcoal",
-      "CARBO VEGETABILIS",
-      "Carbo vegetabilis"
+      "Carbo Vegetabilis. Vegetable Charcoal"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mentals": [
       {
@@ -1319,6 +1320,12 @@
         {
           "text": "evening; night and open air; cold; from fat food, butter, coffee, milk, warm damp weather; wine",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Carb. v.]. Repose : > aching, burning, lassitude, heaviness, numbness. Lying in bed, bending double and getting warm > gastralgia. Lying down : anxiety ; pains in eyes ; cough ; drawing in arm ; cramp in soles ; limbs feel bruised ; < pain in stomach ; on back and stomach. Sitting : < vertigo ; orgasm of blood ; drawing pain of back ; she had to loosen clothing on account of pressure in scrobiculus cordis. Rising : after sitting, stitches in patella ; heaviness and stiffness in limbs. Standing : stiffness of thighs ; lassitude in knees. Motion : slightest, difficult breathing ; stitches and tearing pain in shoulders ; pressing drawing pain below r. axilla ; > sleepiness. Moving : jaws, rustling in ears. Turning : in bed, loses breath. Washing : tearing pains in hands and fingers. Writing : arms weary. Treading : down, pain in metatarsi ; joints feel bruised. Walking : < vertigo ; head sensitive to cold ; > aching pain in orbits ; shortness of breath : drawing pains in hip joints ; stitches in thighs ; constrictive pain in thigh ; lassitude in knees ; cramp in lower legs ; pain in soles ; tearing pain in toes ; foot sweat ; stiffness of legs ; weary after a short walk ; most pains appear. Lifting : thigh, going up-stairs, crampy pain in thigh. Effects from overlifting. Inspiration : stitching pain in liver. Night : flightiness ; fear of ghosts ; epistaxis ; cramp in stomach ; moisture exuding from anus ; soreness and itching ; frequent urging to urinate ; wetting the bed ; mucus in throat ; drawing in arm ; palms of hand itch ; cold knees ; tearing under toe nail ; feet swollen ; weakness ; great restlessness ; exhausting sweats ; burning in bed ; sluggishness. Morning : confusion of head ; trembling anxiety ; fainting after sleep ; headache and nausea ; head sensitive to cold ; itching about eye ; burning-smarting female sexual organs ; cough after waking ; asthma ; stitches and tearing pain in shoulders ; hand burn ; limbs weary ; tired trembling ; indolent, weary ; exhausting sweats ; extreme lassitude. At 1 A. M. : does not fall asleep until after. At 3 A. M. : violent constriction ; labor-like colic. Forenoon : mouth and gums bleed ; sleepiness. Afternoon : hoarseness ; drowsiness. From 4 to 6 A. M. : restless, anxious. Evening : lack of cheerfulness ; anxiety, as if oppressed ; much excited ; throbbing in head ; scalp itches ; eyes pain ; watery discharge from nose ; jerking tearing left zygoma ; drawing pain around waist ; hoarseness obstinate ; cough ; hectic fever ; uneasy feeling in legs ; lassitude of legs ; tearing under toe nails ; legs stiff ; lassitude ; sleepy ; drowsiness ; weariness. Day and night : cough ; itching over body. Ill effects from getting overheated. Warmth : < ulcers on leg. Warm room : > head ; in bed, scalp itches. Warm in bed : itching all over body ; inclination to uncover. From cold and warm substance taken into mouth : toothache. Going from warm to cold places : cough. Cold water : pain in chest. Cold air : < head ; > inveterate cases of asthma ; susceptibility. Open air : > pain in orbits and eyeballs ; lassitude. Damp evening air : < hoarseness. Damp cold weather : < hoarseness. Bad consequences from living in damp dwellings. Windy weather : < joints of hands. Worse in changes of weather, especially warm, damp weather ; protracted sultry weather.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

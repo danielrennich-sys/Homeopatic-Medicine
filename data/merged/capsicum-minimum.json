@@ -1,14 +1,19 @@
 {
   "id": "capsicum-minimum",
   "names": {
-    "primary": "Capsicum minimum (ROXB.)",
-    "latin": "Capsicum minimum (ROXB.)",
+    "primary": "Capsicum Minimum",
+    "latin": "Capsicum Minimum",
     "common": [
       "Cayenne Pepper (Capsicum annuum)"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Capsicum minimum (ROXB.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

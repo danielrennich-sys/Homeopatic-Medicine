@@ -8,11 +8,15 @@
       "Gentians"
     ],
     "synonyms": [
-      "GENTIANA LUTEA",
+      "Gentiana. Gentiana lutea",
       "Gentiana lutea (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -67,7 +71,13 @@
       }
     ],
     "dosing": {
-      "notes": "First to third attenuation"
+      "notes": "First to third attenuation",
+      "entries": [
+        {
+          "text": "Fluid extract, 1/2 to 1 drachm. Compound infusion, B.P. 1/2 to 1 OZ. Compound tincture, B.P. and U.S.P., 1/2 to 1 drachm. Solid extract, B.P., 2 to 8 grains. Culpepper states that our native Gentians 'have been proved by the experience of divers physicians not to be a whit inferior in virtue to that which comes from beyond sea.' Gentian: 'comforts the heart and preserves it against faintings and swoonings: The powder of the dry roots helps the biting of mad dogs and venomous beasts.... The herb steeped in wine, and the wine drank, refreshes such as be over-weary with traveling, and grow lame in their joints, either by cold or evil lodgings: it helps stitches, and griping pains in the sides: is an excellent remedy for such as are bruised by falls . . . when Kine are bitten on the udder by any venomous beast, do but stroke the place with the decoction of any of these and it will instantly heal them.' In the eighteenth century Gentian wine was drunk as an aperitif before dinner. [ Top ] GENTIAN, JAPANESE Botanical: Gentiana scabrae Descripton Other Species",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "keynotes": [
       {
@@ -136,6 +146,48 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "indications": [
+      {
+        "text": "Synonyms—Gentian, Yellow Gentian.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Physiological Action—Tonic in large doses, irritant, causing nausea, vomiting and diarrhea. The fresh root is more active than the dry.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—This is a popular stomachic tonic in cases where enfeeblement has occurred as the result of protracted disease. It has long been given in combination with other tonics or in wine, as an agent in the dyspepsia of the aged, or of gouty patients, and in the gastric inefficiency of infants and children, and to a good advantage in catarrhal diarrhoea.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "As a tonic to the stomach, and the other organs of digestion and appropriation, in those cases where the system is greatly debilitated by protracted disease, it is one of the best remedies, especially by exhausting fevers of malarial origin. It is of much value in malarial conditions generally and has been used to a great extent instead of quinine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "When the periodicity has been overcome by quinine this is a rapid restorative to the system .",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The tincture of gentian is given freely in conjunction with other tonics and with alteratives. It is given with the tincture of iron in the treatment of anemia complicating malarial disease. It is given in conjunction with the iodide of potassium where a tonic and alterative is demanded, and given alternately with hydrocyanic or hydrochloric acid, it is sometimes of great value in the vomiting of pregnancy.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "This agent is perhaps the most valuable of this class. It can be depended upon as a bitter tonic and constant use will establish a confidence in it.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Gentian is one of the most useful of our bitter vegetable tonics. It is specially useful in states of exhaustion from chronic disease and in all cases of general debility, weakness of the digestive organs and want of appetite. It is one of the best strengtheners of the human system, and is an excellent tonic to combine with a purgative to prevent its debilitating effects. Many dyspeptic complaints are more effectually relieved by Gentian bitters than by Peruvian Bark. It is of extreme value in jaundice and is prescribed extensively. Besides being unrivalled as a stomachic tonic, Gentian possesses febrifuge, emmenagogue, anthelmintic and antiseptic properties, and is also useful in hysteria, female weakness, etc. Gentian with equal parts of Tormentil or galls has been used with success for curing intermittent fever. As a simple bitter, Gentian is considered more palatable combined with an aromatic, and for this purpose orange peel is frequently used. A tincture made with 2 OZ. of the root, 1 OZ. of dried orange peel, and 1/2 oz. bruised cardamom seeds in a quart of brandy is an excellent stomachic tonic, and is efficacious in restoring appetite and promoting digestion. A favourite form in which Gentian has been administered in country remedies is as an ingredient in the so-called Stockton bitters, in which Gentian and the root of Sweet Flag play the principal part. The dose of the fluid extract is 1/2 to 1 teaspoonful in water, three times daily. Fresh Gentian root is largely used in Germany and Switzerland for the production of an alcoholic beverage. The roots are cut, macerated with water, fermented and distilled; the distillate contains alcohol and a trace of volatile oil, which imparts to it a characteristic odour and taste.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
     "habitat": [
       {
         "text": "The Yellow Gentian is a native of the Alpine and sub-alpine pastures of central and southern Europe, frequent in the mountains of Spain and Portugal, the Pyrenees, Sardinia and Corsica, the Apennines, the Mountains of Auvergne, the Jura, the lower slopes of the Vosges, the Black Forest and throughout the chain of the Alps as far as Bosnia and the Balkan States. It does not reach the northern countries of the Continent, nor the British Isles. At an elevation of from 3,000 to 4,500 feet, it is a characteristic species of many parts of France and Switzerland, where, even when not in flower, the numerous barren shoots form conspicuous objects: the leaves are at first sight very similar to Veratrum album , the White Hellebore, which is its frequent companion. Out of Europe, the plant occurs in the mountains of Lydia. In some parts it occupies large tracts of country, being untouched by any kind of cattle. All the known species are remarkable for the intensely bitter properties residing in the root and every part of the herbage, hence they are valuable tonic medicines. That most commonly used in Europe is Gentiana lutea , the Yellow Gentian. The root of this species is the principal vegetable bitter employed in medicine, though the roots of several other species, including our native ones, are said to be equally efficacious. Before the introduction of hops, Gentian, with many other bitterherbs, was used occasionally in brewing. Gentian roots are collected and dried in central and southern Europe, much of the supply for this country having formerly come from Germany, though it is also imported from Switzerland, France and Spain, and French Gentian is considered of special excellence. Yellow Gentian is one of the many herbs so far not cultivated in England for medicinal use, though preparations of the root are in constant use in every dispensary, and it is much prescribed also by veterinary surgeons. Though the plant is indigenous in central Europe, it can readily be grown from seed in England, and could quite easily be cultivated as a garden or field crop in this country. Though not often met with, it has been grown in gardens since the time of Gerard, who tells us that a learned French physician sent him from Burgundy plants of this species for his garden on Holborn Hill. It is a highly ornamental plant, forming one of the most stately hardy herbaceous perennials for the garden border, and when successfully treated will grow luxuriantly, even if in the neighbourhood of London. [ Top ]",
@@ -157,12 +209,6 @@
         "text": "The dried Gentian root of commerce contains Gentiin and Gentiamarin, bitter glucosides, together with Gentianic acid (gentisin), the latter being physiologically inactive. Gentiopicrin, another bitter glucoside, a pale yellow crystalline substance, occurs in the fresh root, and may be isolated from it by treatment with boiling alcohol. The saccharine constituents of Gentian are dextrose, laevulose, sucrose and gentianose, a crystallizable, fermentable sugar. It is free from starch and yields from 3 to 4 per cent ash.",
         "source_id": "grieve-modern-herbal-1931"
       }
-    ],
-    "indications": [
-      {
-        "text": "Gentian is one of the most useful of our bitter vegetable tonics. It is specially useful in states of exhaustion from chronic disease and in all cases of general debility, weakness of the digestive organs and want of appetite. It is one of the best strengtheners of the human system, and is an excellent tonic to combine with a purgative to prevent its debilitating effects. Many dyspeptic complaints are more effectually relieved by Gentian bitters than by Peruvian Bark. It is of extreme value in jaundice and is prescribed extensively. Besides being unrivalled as a stomachic tonic, Gentian possesses febrifuge, emmenagogue, anthelmintic and antiseptic properties, and is also useful in hysteria, female weakness, etc. Gentian with equal parts of Tormentil or galls has been used with success for curing intermittent fever. As a simple bitter, Gentian is considered more palatable combined with an aromatic, and for this purpose orange peel is frequently used. A tincture made with 2 OZ. of the root, 1 OZ. of dried orange peel, and 1/2 oz. bruised cardamom seeds in a quart of brandy is an excellent stomachic tonic, and is efficacious in restoring appetite and promoting digestion. A favourite form in which Gentian has been administered in country remedies is as an ingredient in the so-called Stockton bitters, in which Gentian and the root of Sweet Flag play the principal part. The dose of the fluid extract is 1/2 to 1 teaspoonful in water, three times daily. Fresh Gentian root is largely used in Germany and Switzerland for the production of an alcoholic beverage. The roots are cut, macerated with water, fermented and distilled; the distillate contains alcohol and a trace of volatile oil, which imparts to it a characteristic odour and taste.",
-        "source_id": "grieve-modern-herbal-1931"
-      }
     ]
   },
   "evidence": {},
@@ -171,6 +217,7 @@
       "allen-encyclopedia-1874",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "ellingwood-1919",
       "grieve-modern-herbal-1931"
     ]
   }

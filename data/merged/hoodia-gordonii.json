@@ -1,15 +1,20 @@
 {
   "id": "hoodia-gordonii",
   "names": {
-    "primary": "Hoodia",
-    "latin": "Hoodia",
+    "primary": "Hoodia Gordonii",
+    "latin": "Hoodia Gordonii",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Hoodia"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {},
   "evidence": {
-    "summary": "Introduction Hoodia is succulent, cactus-like plant of the Kalahari Desert, extracts of which are marketed as weight loss aids. Hoodia has not been implicated in causing serum enzyme elevations or clinically apparent liver injury. Background Hoodia is prepared from the stems and roots of the succlent plant Hoodia gordonii found in the Kalahari Desert and claimed to be used traditionally by Kalahari Bushmen to reduce their hunger and thirst during long hunts. However, it may be more accurate to say that Hoodia is a food source and was used mostly to quench thirst. Nevertheless, scientific studies in laboratory animals have shown that extracts of hoodia containing an oxypregnane steroidal glycoside have appetite suppressing activity. The traditional use and subsequent laboratory findings led to the marketing of hoodia as a weight loss agent. Dried extracts of stems and roots are used to make powders, capsules, chewable tablets and liquid preparations for making teas. Hoodia is often combined with other purported weight loss herbs such as green tea and chromium picolinate. To date, there have been no prospective controlled trials demonstrating an effect of hoodia on food intake or weight management in humans. In uncontrolled studies, use of hoodia has been reported to have no adverse side effects. Hepatotoxicity Hoodia has been in use as a weight loss agent for several years and has not been convincingly linked to instances of acute liver injury. In a small controlled trial, serum alkaline phosphatase [8-17 U/L] and bilirubin [0.2-0.6 mg/dL], but not ALT levels, were slightly higher in patients on Hoodia compared to placebo, but no patient developed symptoms or clinically apparent liver injury. Likelihood score : E (unlikely cause of clinically apparent liver injury). Other Names: Kalahari cactus, Xhoba Drug Class: Herbal and Dietary Supplements",
+    "summary": "Introduction Hoodia is succulent, cactus-like plant of the Kalahari Desert, extracts of which are marketed as weight loss aids. Hoodia has not been implicated in causing serum enzyme elevations or clinically apparent liver injury. Background Hoodia is prepared from the stems and roots of the succlent plant Hoodia gordonii found in the Kalahari Desert and claimed to be used traditionally by Kalahari Bushmen to reduce their hunger and thirst during long hunts. However, it may be more accurate to say that Hoodia is a food source and was used mostly to quench thirst. Nevertheless, scientific studies in laboratory animals have shown that extracts of hoodia containing an oxypregnane steroidal glycoside have appetite suppressing activity. The traditional use and subsequent laboratory findings led to the marketing of hoodia as a weight loss agent. Dried extracts of stems and roots are used to make powders, capsules, chewable tablets and liquid preparations for making teas. Hoodia is often combined with other purported weight loss herbs such as green tea and chromium picolinate. To date, there have been no prospective controlled trials demonstrating an effect of hoodia on food intake or weight management in humans. In uncontrolled studies, use of hoodia has been reported to have no adverse side effects. Hepatotoxicity Hoodia has been in use as a weight loss agent for several years and has not been convincingly linked to instances of acute liver injury. In a small controlled trial, serum alkaline phosphatase [8-17 U/L] and bilirubin [0.2-0.6 mg/dL], but not ALT levels, were slightly higher in patients on Hoodia compared to placebo, but no patient developed symptoms or clinically apparent liver injury. Likelihood score : E (unlikely cause of clinically apparent liver injury). Other Names: Kalahari cactus, Xhoba Drug Class: Herbal and Dietary Supplements\n\nHoodia is a leafless succulent that grows in Africa’s Kalahari Desert, including parts of Namibia, Botswana, and South Africa. Traditionally, the indigenous San peoples have used hoodia to suppress appetite during long hunts. It’s thought that an oxypregnane steroidal glycoside molecule found in hoodia, known as P57, could have an appetite-reducing effect. Today, hoodia supplements are promoted for appetite suppression and weight loss.",
     "documented_adverse_effects": [
       {
         "section": "PRODUCT INFORMATION",

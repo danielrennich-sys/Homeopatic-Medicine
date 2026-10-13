@@ -1,12 +1,17 @@
 {
   "id": "nitri-dulcis",
   "names": {
-    "primary": "Nitri Dulcis Spiritus",
-    "latin": "Nitri Dulcis Spiritus",
+    "primary": "Nitri Dulcis",
+    "latin": "Nitri Dulcis",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Nitri Dulcis Spiritus"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

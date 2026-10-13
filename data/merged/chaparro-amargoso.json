@@ -1,16 +1,17 @@
 {
   "id": "chaparro-amargoso",
   "names": {
-    "primary": "CHAPARRO AMARGOSO",
-    "latin": "CHAPARRO AMARGOSO",
+    "primary": "Chaparro Amargoso",
+    "latin": "Chaparro Amargoso",
     "common": [
       "Goat-bush"
     ],
-    "synonyms": [
-      "Chaparro Amargoso"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Third attenuation"

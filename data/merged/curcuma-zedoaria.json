@@ -1,14 +1,19 @@
 {
   "id": "curcuma-zedoaria",
   "names": {
-    "primary": "Curcuma zedoaria (ROSCOE)",
-    "latin": "Curcuma zedoaria (ROSCOE)",
+    "primary": "Curcuma Zedoaria",
+    "latin": "Curcuma Zedoaria",
     "common": [
       "Zedoary"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Curcuma zedoaria (ROSCOE)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

@@ -1,17 +1,21 @@
 {
   "id": "aphis-chenopodii",
   "names": {
-    "primary": "Aphis Chenopodii Glauci",
-    "latin": "Aphis Chenopodii Glauci",
+    "primary": "Aphis Chenopodii",
+    "latin": "Aphis Chenopodii",
     "common": [
       "Plant-lice from Chenopodium (CHENOPODI GLAUCI APHIS)"
     ],
     "synonyms": [
+      "Aphis Chenopodii Glauci",
       "APHIS CHENOPODII GLAUCI",
       "Aphis Chenopodii Glauci. (Chenopodii Glauci Aphis.)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

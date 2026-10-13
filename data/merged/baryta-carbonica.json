@@ -7,12 +7,13 @@
       "Carbonate of Baryta (BARYTA CARB)"
     ],
     "synonyms": [
-      "Baryta Carbonica. Barium Carbonate. (BaCO3.)",
-      "BARYTA CARBONICA",
-      "Baryta carbonica"
+      "Baryta Carbonica. Barium Carbonate. (BaCO3.)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -995,6 +996,12 @@
         {
           "text": "while thinking of symptoms; from washing; lying on painful side",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Bar. c.]. Rest : throbbing in back. Sitting : pain in small of back. Standing : cough < ; tension, as if tendons were too short < ; tremor of feet. Lying : heaviness in chest < ; tension, as if tendons were too short, better. Lying on left side : cough < ; palpitation worse. Lying on belly : cough better. Stooping : cough < ; vertigo. Raising arm : pain in deltoid. Moving body : brain seems to move to and fro. Active motion ; cough < ; chill <. Walking : palpitation felt in head. Ascending : short breath. Daybreak : saliva runs out of mouth, while asleep. Morning : erections before rising ; coryza < ; dryness of tongue ; sensation in pharynx as if a fine leaf lay before posterior nares after waking ; viscid phlegm in fauces ; nausea, palpitation and anxiety < ; sickness ; cough < on arising. pain between scapulæ ; cough >. At 8 A. M. : sudden attack, as if circulation had stopped. All day : eyes look sleepy ; weariness ; water runs from mouth. During day : crumbling in decayed tooth ; twitches and jerks of body ; great drowsiness ; sleepiness ; flushes of heat. Evening : headache ; face red ; oppression, must loosen dress ; expectoration prominent ; pain in small of back < ; chill alternately with heat. Evening until midnight : spasmodic cough. Night : in bed everything rocks within him, as in a ship ; toothache < ; diarrhœa ; irritation of bladder ; passing much urine ; seminal emissions ; cough < ; throbbing in panaritium ; pain in legs ; sleepiness ; awakens often. fanciful ravings and stupefaction ; faint feeling, she had to vomit ; restlessness ; sweats ; chill alternating with heat ; flushes of heat ; intolerable tingling over body. Cold air : cough < ; pain in loins ; head sensitive. Cold food : generally better. Cold water : cough <. Cold washing : disposed to catch cold. Open air : headache < ; tension in calf. Damp weather : cough worse. In sun : pain on vertex. Near warm stove : headache worse. Warm food : cough worse.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

@@ -1,14 +1,19 @@
 {
   "id": "calamintha-officinalis",
   "names": {
-    "primary": "Calamintha officinalis (MOENCH)",
-    "latin": "Calamintha officinalis (MOENCH)",
+    "primary": "Calamintha Officinalis",
+    "latin": "Calamintha Officinalis",
     "common": [
       "Calamint"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Calamintha officinalis (MOENCH)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

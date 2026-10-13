@@ -1006,6 +1006,7 @@ function renderIntakeResults(data, redFlags = [], payload = {}) {
             <div style="margin-top:6px">${sourceBadges}</div>
             <div style="margin-top:4px">
                 <span class="badge badge-cat">${r.category}</span>
+                ${r.cell_salt_number ? `<span class="badge" style="background:#1d2d3a;color:#9ec5e8">Cell salt #${r.cell_salt_number}</span>` : ''}
                 <span class="badge badge-src">${r.n_sources} sources</span>
                 ${r.has_traditional ? '<span class="badge" style="background:#3a2d1d;color:#d9a86b">Traditional</span>' : ''}
                 ${r.has_evidence ? '<span class="badge" style="background:#2d1d3a;color:#b36bd9">Evidence</span>' : ''}

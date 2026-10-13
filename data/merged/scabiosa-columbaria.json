@@ -1,14 +1,17 @@
 {
   "id": "scabiosa-columbaria",
   "names": {
-    "primary": "Scabiosa columbaria",
-    "latin": "Scabiosa columbaria",
+    "primary": "Scabiosa Columbaria",
+    "latin": "Scabiosa Columbaria",
     "common": [
       "Scabious, Lesser"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

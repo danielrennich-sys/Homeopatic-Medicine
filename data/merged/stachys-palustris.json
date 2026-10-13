@@ -1,14 +1,19 @@
 {
   "id": "stachys-palustris",
   "names": {
-    "primary": "Stachys palustris (LINN.)",
-    "latin": "Stachys palustris (LINN.)",
+    "primary": "Stachys Palustris",
+    "latin": "Stachys Palustris",
     "common": [
       "Woundwort, Marsh"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Stachys palustris (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

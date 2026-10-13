@@ -1,14 +1,18 @@
 {
   "id": "gymnema-sylvestre",
   "names": {
-    "primary": "Gymnema",
-    "latin": "Gymnema",
+    "primary": "Gymnema Sylvestre",
+    "latin": "Gymnema Sylvestre",
     "common": [],
     "synonyms": [
-      "Gymnema Sylvestre"
+      "Gymnema"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

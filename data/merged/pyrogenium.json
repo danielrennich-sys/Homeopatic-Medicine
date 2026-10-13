@@ -1,16 +1,17 @@
 {
   "id": "pyrogenium",
   "names": {
-    "primary": "PYROGENIUM",
-    "latin": "PYROGENIUM",
+    "primary": "Pyrogenium",
+    "latin": "Pyrogenium",
     "common": [
       "Artificial Sepsin"
     ],
-    "synonyms": [
-      "Pyrogenium"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

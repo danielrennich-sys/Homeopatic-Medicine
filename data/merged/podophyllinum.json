@@ -1,14 +1,17 @@
 {
   "id": "podophyllinum",
   "names": {
-    "primary": "PODOPHYLLINUM",
-    "latin": "PODOPHYLLINUM",
+    "primary": "Podophyllinum",
+    "latin": "Podophyllinum",
     "common": [
       "May-apple (PODOPHYLLUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

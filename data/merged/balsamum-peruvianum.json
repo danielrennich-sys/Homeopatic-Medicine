@@ -8,11 +8,14 @@
       "Balsam of Peru"
     ],
     "synonyms": [
-      "BALSAMUM PERUVIANUM",
       "Balsamum Peruvianum (U. S. P.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

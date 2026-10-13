@@ -1,14 +1,19 @@
 {
   "id": "sorghum-vulgare",
   "names": {
-    "primary": "Sorghum vulgare (PERS.)",
-    "latin": "Sorghum vulgare (PERS.)",
+    "primary": "Sorghum Vulgare",
+    "latin": "Sorghum Vulgare",
     "common": [
       "Broom-Corn"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Sorghum vulgare (PERS.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

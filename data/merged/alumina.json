@@ -7,12 +7,15 @@
       "Oxide et Aluminum-Argilla"
     ],
     "synonyms": [
-      "ALUMINA",
+      "Alumina. Pure Clay. (Al2O3.)",
       "ALUMINA. (OXIDE OF ALUMINUM.)",
       "Alumina. (Argilla.)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mentals": [
       {
@@ -232,172 +235,23 @@
         "source_id": "allen-encyclopedia-1874"
       }
     ],
-    "mental_emotional": [
-      {
-        "text": "Low-spirited; fears loss of reason. Confused as to personal identity. Hasty, hurried. Time passes slowly. Variable mood. Better as day advances. Suicidal tendency when seeing knife or blood",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Humour morose, sad, with despair of cure. Involuntary tears. Anguish and anxiety as if one were threatened with some fatal accident, or had committed some crime. Time passes too slowly; intolerable ennui; an hour seems half a day. Seeing blood on a knife she has horrid ideas of killing herself, though she abhors the idea. Apprehensions. Disposition to be frightened. Air sorrowful and morose. Ill-humour, with unfitness for labour. Disposition to be angry. Obstinate, and contradictory humour. Taking everything in bad part. Humour changeable; at one time bold, at another timid. Weakness of memory. Distraction, inadvertence, and incapability of following up an idea. Absence of ideas. Blunders in speaking. Great vivacity of apprehension, alternately with inadvertence, and deprivation of sight and hearing. Sensation, as if self-consciousness were outside the body.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Consciousness not clear. Consciousness of his personal identity confused. θ Paralysis. Great weakness or loss of memory. Inability to recollect things or follow up a train of thought. θ Cephalalgia. Confusion and obscuration of intellect ; met. θ Spinal disease. Makes mistakes in speaking, using words not intended. Time passes too slowly ; intolerable ennui ; an hour seems half a day. Difficulty of thinking. Mania to kill himself with a sharp weapon. Seeing blood on a knife, she has horrid ideas of killing herself, though she abhors the idea. Crying, against his will. No desire to do anything, especially anything serious. θ Cephalalgia. Depressed and lachrymose. θ Melancholia. Fearfulness. Sad thoughts in morning, joyless and comfortless on awaking. Low-spirited, trifling things appeared insurmountable. θ Liver complaint. Apprehensiveness. Apprehensive of losing his reason. Uneasy evenings, as from impending evil. Fears he is not to recover. Dread of death, with thoughts of suicide. Great anxiety, is fearful and peevish. Anguish, oppressive and vague fearfulness, or uneasiness, as if he had committed a crime. θ Cephalalgia. Anxiety as if threatened with an epileptic fit ; depressed with grief. Variable mood, at one time confident, at another timid. Disposition quiet and resigned ; met. θ Spinal disease. Moroseness. Peevish and whining, with hot earlobes. Easily startled. Sufferings following anger. Mental symptoms worse in morning on awaking. Quickly passing vertigo in morning. Vertigo : everything turns in a circle ; with nausea ; < before breakfast ; on opening eyes ; on stooping ; > after breakfast, and from wiping eyes ; nausea, faintness, pain in nape of neck ; as if drunken ; with seeing white stars ; when closing eyes. Stupefaction, with dread of falling forward. Heaviness of head, with pale, languid face. Dulness and numbness of head. Inability to walk, except with eyes open, and in daytime. θ Locomotor ataxia. Cloudiness and drunken feeling, alternating with pain in kidneys. Easily made drunk, even by weakest spirituous drink. When his eyes were closed, his whole body tottered ; if not firmly held, he fell to ground ; met. θ Spinal disease.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "face": [
-      {
-        "text": "Feels as if albuminous substance had dried on it. Blood-boils and pimples. Twitching of lower jaw. Rush of blood to face after eating",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Aspect gloomy, morose. Rapid alternation of redness and paleness of countenance. Copper-like redness of the cheeks, as in drunkards. Tingling on the face, and tension of the skin, as if it were covered with white of egg dried. Sensation of swelling, and of heaviness of countenance. Bulbous swellings and blood-boils on the face and nose. Red painful spot on the cheek. Roughness of the skin of the face, esp. over the forehead. Heat and redness. Itching and eruption of small pimples over the face. Moist scabs on the temples. Shooting and drawing sensation in the cheek-bones. Transient heat of face. Furunculus in the cheeks. Leprous tubercles in the face. Lips dry, and cracked, with exfoliation of the skin. Swelling of the lips. Pimples and scabby eruptions on the lips. Swelling of the jaws, with tensive pain on opening the mouth, and on chewing. Shortening of the lower jaw. Involuntary spasmodic twitching of lower jaw. Trismus.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Sallow skin. Pale languid face with heaviness of head. Tearing and lancinating in malar bone. Tension of skin of face, as though white of egg had dried on it. Itching of various parts of face ; of forehead, with rough skin. Blood-boils on face and nose. Tetter on temples and forearm. θ Leucorrhœa. Gloomy, pale, or alternately red and pale. Heat and redness ; met. θ Spinal disease. Coppery cheeks. Bloated places, like bulbous excrescences ; nodular swellings. Tension and drawing in jaws and cheeks, with increase of saliva. Tensive pain in articulation of jaw, when chewing or opening mouth. Upper lip covered with little blisters. Lower jaw seems shortened. Lips dry, chapped. Involuntary spasmodic twitching of lower jaw, with hemorrhage of bowels ; dark, offensive stools. Trismus.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "mouth_throat": [
-      {
-        "text": "Sore. Bad odor from it. Teeth covered with sordes. Gums sore, bleeding. Tensive pain in articulation of jaw when opening mouth or chewing",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Dry, sore; food cannot pass, œsophagus contracted. Feels as if splinter or plug were in throat. Irritable, and relaxed throat. Looks parched and glazed. Clergyman's sore throat in thin subjects. Thick, tenacious mucus drops from posterior nares. Constant inclination to clear the throat",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Pains in the teeth on chewing, or in the evening, in bed. Tearing in the teeth, extending to other parts, as far as the zygomatic bone, and in the forehead and temples. Piercing pain in the carious teeth. Ulceration of the roots of the teeth. Ulcer on the gums. Swelling of the gums, which have a tendency to bleed. Sensation as though the teeth were elongated. Odontalgia, with nervous irritation, as after a chill, or after the use of Chamomilla. Pain as of excoriation in the mouth, palate, tongue, and gums, which almost prevents eating. Small ulcers in the mouth. Dryness of the mouth, chiefly on waking. Accumulation of a sweetish or sour saliva in the mouth, like actual salivation. Musty or putrid smell from the mouth. Tongue loaded with a black or yellowish coating. Expectoration of bloody mucus. Sore throat, which is aggravated in the evening and at night, but which is ameliorated on taking anything warm, and which is less painful in the morning. Contractive, or shooting pains in the throat, chiefly on swallowing. Difficult deglutition, as if the gullet were contracted. Cramp-like pressure and squeezing in the œsophagus. Sensation, as if the œsophagus were contracted when swallowing a small morsel of food; it is felt until it enters into the stomach. Pains in throat evening and night. Swelling of the tonsils. Great dryness in the throat. Accumulation of a thick and viscous mucus in the throat, with difficult expectoration. Painful ulcers in the fauces, secreting a brown, badly-smelling pus. Sensation of a splinter in the throat.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Teeth feel long and sore. Toothache ; teeth feel loose and elongated, < from chewing, in open air, evening. Drawing toothache, extending to other parts, as down larynx, neck or shoulders. θ During pregnancy. Teeth covered with sordes. Swelling of gums ; they easily bleed and ulcerate. Saltish blood seems to come from teeth. Taste flat ; met. θ Spinal disease. Tongue coated with a thin slimy fur ; met. θ Spinal disease. Taste : acrid, sweetish or fatty ; almost lost ; like blood. Tingling, itching on tongue, must scratch it. θ During pregnancy. Bites his tongue while asleep. Musty, bad odor from mouth. Small ulcers in mouth. Saliva increased, although mouth may feel dry. Sensation of soreness in mouth when eating. Increased saliva and mucus. Dryness in mouth. Inflammatory redness in back of throat. Transient stitches in throat. Dryness of throat, as if parched. Rawness and roughness in throat, inducing hawking or coughing in evening, with secretion of mucus. Pressure in throat as from a plug, with soreness and dryness. Sensation of swelling in sides of throat. Sense of constriction from pharynx down to stomach, as if food could not pass. Great dryness of throat especially on awaking, voice husky ; constant hawking, and sensation of a lump in throat. θ Chronic catarrh. Feeling of a splinter in throat, stinging on swallowing. Copious, thick, tenacious mucus in throat, evening and morning on awaking ; can be expectorated only in lumps, with great effort. Thick mucus, dropping from posterior nares. Ulcers in fauces, spongy ; secreting a yellowish-brown, badly smelling pus ; with boring pains from fauces to right temple and head. Painful soreness in throat and upper part of œsophagus, < swallowing empty. Throat feels relaxed. Feels food whole length of œsophagus. Swallowing painful, > after warm drinks ; swallowing saliva or liquids often > ; swallows solids with difficulty. On waking in morning, pharynx feels narrower than usual, as if contracted and lame. Violent pressive pain, as if a portion of œsophagus was contracted or compressed, in middle of chest, especially during deglutition, but also when not swallowing, with oppression of chest, alternately with palpitation of heart, especially after a meal. Swallowing causes crepitation in ears. Pains in throat ; < evening and night.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "stomach_abdomen": [
-      {
-        "text": "Abnormal cravings-chalk, charcoal, dry food, tea-grounds. Heartburn; feels constricted. Aversion to meat (Graph; Arn; Puls). Potatoes disagree. No desire to eat. Can swallow but small morsels at a time. Constriction of œsophagus",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Colic, like painter's colic. Pressing in both groins toward sexual organs. Left-sided abdominal complaints",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Sweetish taste, or a taste of blood in the mouth. Rough taste, astringent, or bitter and insipid. Bulimy. Irregular appetite; at one time too strong, at another too weak. Food appears insipid, esp. in the evening, and principally bread and meat. Distaste for animal food. Craving, with want of appetite. Appetite for dry foods; for starch; chalk; clean white rags; charcoal; cloves; acids; coffee or tea grounds; dry rice. Desire for hot drinks. Desire for vegetables, for fruits, and spoon meats. After having eaten, and chiefly in the evening, hiccough, pressure in the stomach and abdomen, distaste, nausea, and lassitude. Potatoes excite nausea and bitter eructations. All irritating things immediately start cough. Eructations, sour and acrid, and pyrosis. Chronic tendency to eructation. Frequent eructations. Nausea, with faintness. Frequent nausea and inclination to vomit, chiefly when speaking, when re-entering the room after walking, and in the morning. Pressure in the stomach, chiefly in the evening and after eating. Contraction and constriction in the region of the stomach, often as far as the throat and breast, and sometimes with difficult respiration. Pain, as from excoriation, in the pit of the stomach and in the hypochondria, principally on turning the body in bed, or on stooping. Painful sensibility of the liver on stooping, followed sometimes by shooting pains. Colic whenever the body is exposed to a chill. Colic with drawing pains, principally in the evening, or at night, or after dinner. Cutting pains, chiefly in the morning. Flatulent colic. The colic is ameliorated by heat applied externally. Painter's colic. Protrusion and incarceration of inguinal hernia.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Alum.]. No desire to eat. Has no appetite, food has no taste. Irregular appetite. Longing for fruit and vegetables ; potatoes disagree. Aversion to meat ; to beer ; meat has no taste. Thirst all day. Appetite for starch, chalk ; clean white rags ; charcoal, cloves, acids, coffee or tea-grounds, dry rice, and other indigestible things. θ Chlorosis. Before eating : canine hunger ; seems to quiver all over. Better while eating. Worse from eating potatoes. θ Colic. θ Indigestion. Worse from tobacco smoke. All irritating things, like salt, wine, vinegar, pepper, etc., immediately start cough. Throat sore after using onions in food. Easily drunken from weakest spirituous drinks. Mucus in throat, tasting sweet, after dinner. Worse from cold, > from warm diet. Worse after eating soups. After eating : languor in evening ; must lie down at noon ; phlegm in chest. Eating removes faintness at stomach. After breakfast : vertigo ; nausea better. After dinner : sweet tasting mucus. Aggravation or appearance of all symptoms immediately after dinner or in evening. Worse from warm drink : chill. Better from warm drink : throat. Hiccough, Belching, Nausea and Vomiting. Chronic inclination to belch, in old people. Eructations : sour ; bitter, after potatoes ; < evenings. Heartburn after supper ; sourish risings, with profuse flow of water from mouth. Nausea : with vertigo ; stitches in brain ; chilliness ; pale face, desire to lie down, faintness ; > after breakfast. Frequent nausea ; faint nausea. Vomits mucus and water. Vomiting of food, mucus or bile ; met. θ Spinal disease. Distension of stomach. Constriction and twisting in stomach, extending up œsophagus to throat. Stitches in pit of stomach, extending upward to chest. Drawing or oppressive pain, going upward to chest and throat ; after potatoes. Pains in epigastrium and hypochondria when stooping. Contractions in both hypochonders. Spasmodic pains in hypochondria and stomach with dyspnœa almost to suffocation. Liver pains, as if bruised, when stooping ; stitches when rising again. Tearing from liver to hip. Shooting pain in region of spleen. Stitches in both hypochondria ; < from motion. Shooting in left hypochondrium going upward and forward to cardiac region, < on deep inspiration. Seems to hang down heavily, like a load, when walking, afternoons. Reaching too high strains abdominal muscles. Pains < sitting bent. Pressing in both groins, towards sexual organs, evenings. Stitching, pressing pain in region of abdominal ring, like from hernia, with tension as far as side of abdomen. Flatulent colic, bellyache. Colic in morning. Painters' colic. Soreness and twitching of right inguinal glands.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "stool_rectum": [
-      {
-        "text": "Hard dry, knotty; no desire. Rectum sore, dry, inflamed, bleeding. Itching and burning at anus. Even a soft stool is passed with difficulty. Great straining. Constipation of infants (Collins; Psor; Paraf) and old people from inactive rectum, and in women of very sedentary habit. Diarrhœa on urinating. Evacuation preceded by painful urging long before stool, and then straining at stool",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Stools hard, unfrequent, and scanty, sometimes with pain in the anus. Constipation and obstruction of the abdomen. Difficult stool, from inactivity of the intestines. Difficult evacuations from want of peristaltic motion of the intestines; even the soft stool can only be passed by great pressing. Constipation of pregnant women, children, and painters. No desire for, and no ability to pass stool, until there is a large accumulation. Hard, knotty stools, covered with mucus. Small stools, sometimes like pipe stems (also Phosphor.). Voiding of much slimy matter with the stool, during the continuance of colic. Loose stools with pain in the belly and tenesmus. Green stools in summer complaints. Loss of blood during and after the stools. Burning and itching in the anus. Blind piles protrude, become moist, with lancinating pain; are hard and itch. Pressure and shooting pain in the perinæum.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Inactivity of rectum ; even soft stool requires great straining. No desire for, and no ability to pass stool, until there is a large accumulation. After each dysenteric stool, involuntary urination. Severe hemorrhage from bowels with flow of urine. θ Typhoid. Pressing to stool aggravates her symptoms. Tenesmus in rectum and bladder at same time. θ Proctitis. Stools too scanty. Stools : hard and knotty or covered with mucus ; like sheep's dung, with cutting in anus, followed by blood ; like pipe stems. Constipation from great dryness of mucous follicles of rectum, with long-lasting pain in rectum. Diarrhœa, urging in rectum, bloody, scanty stools. Clots of blood pass from anus. Dropping of blood during an evacuation. Hemorrhoids, < in evening, > after night's rest. Itching and burning at anus. Perineum : pressure when blowing nose ; sweats and is tender to touch. Soft and thin stool, passing with difficulty. Chronic diarrhœa ; < on alternate days ; from walking ; > from a short sleep or warm applications. Diarrhœa whenever she urinates. Chronic diarrhœa. θ Chlorosis. Blind piles protrude, become moist, with lancinating pain ; are hard and itch. During stool : rectum as if constricted and dried up ; throbbing in small of back ; excoriated feeling in rectum ; chills all over ; discharge of prostatic juice. Varices become moist, sting and burn. Itching with burning excoriation and great sensitiveness. θ Hemorrhoids. Fistula ani. Sensation of weakness of sphincter ani. Pulsating in anus. Torpidity of rectum ; rectum seems paralyzed. Itching of anus.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "male": [
-      {
-        "text": "Excessive desire. Involuntary emissions when straining at stool. Prostatic discharge",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Sexual desire increased; or suppressed. Frequent pollutions and nocturnal erections. Copious secretion behind the glans. Excoriation of the prepuce. Contractive pain in the spermatic cord, with contraction of the testicle. Hardness and painful sensibility in one of the testes. Flowing of prostate fluid during difficult stools. Pains in the perinæum, during coition, and while the erection continues. Increase of suffering after pollution. Sweat on perinæum at beginning of erection or during coition.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Excessive sexual desire. Frequent and painful erections, < at night. Involuntary emissions, followed by all his old symptoms. Sexual desire lessened. θ Impotence. Feeling of weakness in bladder and genitals ; he fears he will wet the bed. Discharge of prostatic fluid during difficult stool. Light yellow pus from urethra, causing itching of glans penis. Sensation of weakness in penis. Left testicle hard and very painful. Tickling on genitals and thighs. Sweat on perineum, with sensitiveness to touch. Pressure in perineum at beginning of an erection or during coitus.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "female": [
-      {
-        "text": "Menses too early, short, scanty, pale, followed by great exhaustion (Carb an; Coccul). Leucorrhœa acrid, profuse transparent, ropy, with burning; worse during daytime, and after menses. Relieved by washing with cold water",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Menstruation scanty, too early, and of short duration; blood pale. Menses too copious, with inflation of the abdomen. During the period of menstruation, sleep agitated, with many dreams, great activity in the circulation, heat in the face, headache, and palpitation of the heart. Before and during menstruation, colics, headaches, and other painful affections. After the menses great fatigue. Corrosive leucorrhœa, with smarting in the genital parts. Leucorrhœa before or after the menses, and often with trembling, fatigue, and colic. Leucorrhœa flesh-coloured, or aqueous, and causing stiffness of the linen; transparent mucus before and after menstruation.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Sexual desire decreased. Weakness of sexual parts. Prolapsus uteri. Bland, painless ulcers upon os. θ Prolapsus uteri. Severe painful swelling in either or both ovaries, very sensitive to touch. θ Metritis. During an evacuation before menses, she has pinching, writhing and pressing like labor-pains. Menses : too early, short, scanty, and of pale blood ; too early ; preceded by headache ; delay, finally appear, being pale and scanty. Menses scanty, pale and painful. θ Prolapsus uteri. Before menses : many dreams, on awaking face hot, headache and palpitation ; abundant mucous discharge. During menses : corroding urine and diarrhœa ; bloatedness. After menses : exhausted in body and mind. θ Leucorrhœa. Leucorrhœa : of transparent mucus, attended with tremor and sensation as if everything would fall out of abdomen ; acrid, corrosive ; profuse, relieved by cold washing ; during day ; with tetter on temples ; corroding, profuse, running down to heels, often only in daytime, relieved by cold washes. Painful throbbing in left side of vagina, like the tick of a watch. Stitches in l. side of vulva, extending up to chest. Free light yellow excoriating discharge from vagina. Itching and burning pimples on labia. Inflammation and swelling of vagina. Stitches, throbbing and itching in vagina. θ Prolapsus uteri. PREGNANCY. PARTURITION. LACTATION. [24] [Alum.]. Gastric and abdominal symptoms during pregnancy : heartburn ; constipation from inactive rectum ; groaning at night, crying out \"it is not I,\" begging them to stop ; tongue tingles ; mucous leucorrhœa, which runs down limbs. Itching in mamma. Constipation of sucklings.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "skin": [
-      {
-        "text": "Chapped and dry tettery. Brittle nails. Intolerable itching when getting warm in bed. Must scratch until it bleeds; then becomes painful. Brittle skin on fingers",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Miliary eruption in the arms and legs, with much itching and serous bleeding after having scratched. Chapped skin and bulbous eruptions. Boils or itching exanthemata on perinæum. The slightest injuries of the skin smart, and become inflamed. Leprous pimples. Scurf and tetters, which itch or become moist chiefly in the evening. Renewal of cutaneous symptoms at every new or full moon. Rhagades. Brittle nails.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Skin yellow. θ Liver complaint. Intolerable itching of whole body, especially when getting warm in bed ; scratches until skin bleeds, which is then painful. Eruptions humid, scabby, sore, gnawing. Ulcerated surface secretes a yellow-brownish, badly smelling pus. Blood-boils. Rhagades. Bulbous excrescences. Leprosy. Dry, tettery, itching eruption. Tetter itching in evening. Formication in skin.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "modalities": {
-      "better_from": [
-        {
-          "text": "in open air; from cold washing; in evening and on alternate days",
-          "source_id": "boericke-1927"
-        },
-        {
-          "text": "damp weather",
-          "source_id": "boericke-1927"
-        }
-      ],
-      "worse_from": [
-        {
-          "text": "periodically; in afternoon; from potatoes",
-          "source_id": "boericke-1927"
-        },
-        {
-          "text": "in morning on awaking; warm room",
-          "source_id": "boericke-1927"
-        }
-      ]
-    },
-    "relationships": {
-      "complementary": [
-        "Bryonia"
-      ],
-      "antidoted_by": [
-        "Ipecac",
-        "Chamom"
-      ],
-      "_raw": [
-        "Compare: Aluminium (which has been used on indications taken from the proving of Alumina). Antidote to: Lead. Antidoted by: Bry., Camph., Cham., Ipec. Complementary: Bry. Follows well: Bry., Lach., Sul. Similar to: Alumen; Arg. nit. (clergyman's sore throat, paralysis); Bar. c. (hypochondriasis of aged; constipation); Bry., Calc.; Cham. (useful as an intermediate remedy); Con. (old people; squint) Ferrum (chlorosis; relaxed abdomen; disgust for meat, &c.) Fer. iod. (profuse transparent leucorrhœa); Graphit. (chlorosis, skin rough, chapped, itching nails; blepharitis, &c.); Ipec.; Kali bi. (clergyman's sore throat) Lach. (sad on waking; climaxis); Lyc. (clergyman's sore throat) Pic. ac., Plumb. (colic, constipation) Puls. (tearful, peevish; head, &c., > in open air; ozæna; taste lost averse to meat; scanty menses complaints at puberty; lack of animal heat; soles of feet sore, walking; toes red, itching, &c.); Ruta (loss of power of internal recti); Sepia (irritable, tearful; ozæna; scanty menses; puberty prolapsus uteri; inactive rectum weakness in urinary organs, &c.); Sil., Sul., Zinc. (inner canthus granular lids; from wine).",
-        "Similar to : Bar. carb. (hypochondriasis of aged ; constipation) ; Bryon. (peevish, irritable ; gastric and abdominal symptoms ; constipation ; throbbing headache ; dry cough with vomiting ; stitches in chest ; dryness of mucous surfaces ; fever, etc.) ; Calc. ostr. ; Chamom. (useful as an intermediate remedy) ; Conium (old people ; loss of power of internal recti of eyes) ; Ferrum (chlorosis ; relaxed abdomen ; disgust for meat, etc.) ; Ferr. jod. (profuse, transparent leucorrhœa) ; Graphit. (chlorosis ; skin rough, chapped, itching ; nails ; blepharitis, etc.) ; Ipec. ; Laches. (sad on waking ; climaxis) ; Pulsat. (tearful, peevish ; head, etc., better in open air ; ozæna ; taste lost ; averse to meat ; chlorosis ; scanty menses ; complaints at puberty ; lack of animal heat ; soles of feet sore, < walking ; toes red, itching, etc.) ; Plumbum (colic ; constipation, etc.) ; Ruta (loss of power of internal recti of eyes) ; Sepia (irritable, tearful ; ozæna ; scanty menses ; puberty ; prolapsus uteri ; inactive rectum ; weakness in urinary organs, etc.) ; Silic. ; Sulphur ; Zincum (inner canthus ; granular lids)",
-        "Compare with the following in clergyman's sore throat : Arg. nitr., Kali bich., Lycop., etc",
-        "Alumin. follows : Bryon., Laches., Sulphur ; and is followed by : Bryon",
-        "Alumin. and Bryon. are complementary",
-        "Antidotes to Alumin. : Bryon., Camphor, Chamom., Ipec",
-        "Alumin. antidotes : lead-poisoning, as in painter's colic ; ailments from lead",
-        "Copyright © Médi-T ® 2002",
-        "Main"
-      ]
-    },
-    "dosing": {
-      "notes": "Sixth to thirtieth and higher. Action slow in developing"
-    },
     "keynotes": [
+      {
+        "text": "Adapted to persons who suffer from chronic diseases; \"the Aconite of chronic diseases.\". Constitutions deficient in animal heat (Cal., Sil.). Spare, dry, thin subjects; dark complexion; mild, cheerful disposition; hypochondriacs; dry, tettery, itching eruption, worse in winter (Petr.); intolerable itching of whole body when getting warm in bed (Sulph.); scratches until bleeds, then becomes painful. Time passes too slowly; an hour seems half a day (Can. Ind.). Inability to walk, except with the eyes open, and in the daytime; tottering and falling when closing eyes (Arg. n., Gels.). Abnormal appetite; craving for starch, chalk, charcoal, cloves, coffee or tea grounds, acids and indigestible things (Cic., Psor.); potatoes disagree. Chronic eructations for years; worse in evening. All irritating things - salt, wine, vinegar, pepper - immediately produce cough. Constipation: no desire for and no ability to pass stool until there is a large accumulation (Melil.); great straining, must grasp the seat of closet tightly; stool hard, knotty, like laurel berries, covered with mucus; of soft, clayey, adhering to parts (Plat.). Inactivity of rectum, even soft stool requires great straining (Anac., Plat., Sil., Ver.). Constipation: of nursing children, from artificial food; bottle-fed babies; of old people (Lyc., Op.); of pregnancy, from inactive rectum (Sep.). Diarrhoea when she urinates. Has to strain at stool in order to urinate. Leucorrhoea: acrid and profuse, running down to the heels (Syph.); worse during the daytime; > by cold bathing. After menses: exhausted physically and mentally, scarcely able to speak (Carbo an., Coc.). Talking fatigues; faint and tired, must sit down.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relationship. - Complementary: to Bryonia. Follows: Bry., Lach., Sulph. Alumina is the chronic of Bryonia. Similar: to Bar. c., Con., in ailments of old people.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - In cold air; during winter; while sitting; from eating potatoes; after eating soups; on alternate days; at new and full moon.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Amelioration. - Mild summer weather; form warm drinks; while eating (Psor.); in wet weather (Caust.). Alumina is one of the chief antidotes for lead poisoning; painter's colic; ailments from lead.",
+        "source_id": "allen-keynotes-1899"
+      },
       {
         "text": "color=\"#800000\">ALUMINA Oxide et Aluminum-Argilla A very general condition corresponding to this drug is dryness of mucous membranes and skin, and tendency to paretic muscular states. Old people, with lack of vital heat, or prematurely old, with debility. Sluggish functions, heaviness, numbness, and staggering, and the characteristic constipation find an excellent remedy in Alumina. Disposition to colds in the head, and eructations in spare, dry, thin subjects. Delicate children, products of artificial baby foods.",
         "source_id": "boericke-1927"
@@ -1327,6 +1181,177 @@
         "source_id": "nash-leaders-1899"
       }
     ],
+    "mental_emotional": [
+      {
+        "text": "Low-spirited; fears loss of reason. Confused as to personal identity. Hasty, hurried. Time passes slowly. Variable mood. Better as day advances. Suicidal tendency when seeing knife or blood",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Humour morose, sad, with despair of cure. Involuntary tears. Anguish and anxiety as if one were threatened with some fatal accident, or had committed some crime. Time passes too slowly; intolerable ennui; an hour seems half a day. Seeing blood on a knife she has horrid ideas of killing herself, though she abhors the idea. Apprehensions. Disposition to be frightened. Air sorrowful and morose. Ill-humour, with unfitness for labour. Disposition to be angry. Obstinate, and contradictory humour. Taking everything in bad part. Humour changeable; at one time bold, at another timid. Weakness of memory. Distraction, inadvertence, and incapability of following up an idea. Absence of ideas. Blunders in speaking. Great vivacity of apprehension, alternately with inadvertence, and deprivation of sight and hearing. Sensation, as if self-consciousness were outside the body.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Consciousness not clear. Consciousness of his personal identity confused. θ Paralysis. Great weakness or loss of memory. Inability to recollect things or follow up a train of thought. θ Cephalalgia. Confusion and obscuration of intellect ; met. θ Spinal disease. Makes mistakes in speaking, using words not intended. Time passes too slowly ; intolerable ennui ; an hour seems half a day. Difficulty of thinking. Mania to kill himself with a sharp weapon. Seeing blood on a knife, she has horrid ideas of killing herself, though she abhors the idea. Crying, against his will. No desire to do anything, especially anything serious. θ Cephalalgia. Depressed and lachrymose. θ Melancholia. Fearfulness. Sad thoughts in morning, joyless and comfortless on awaking. Low-spirited, trifling things appeared insurmountable. θ Liver complaint. Apprehensiveness. Apprehensive of losing his reason. Uneasy evenings, as from impending evil. Fears he is not to recover. Dread of death, with thoughts of suicide. Great anxiety, is fearful and peevish. Anguish, oppressive and vague fearfulness, or uneasiness, as if he had committed a crime. θ Cephalalgia. Anxiety as if threatened with an epileptic fit ; depressed with grief. Variable mood, at one time confident, at another timid. Disposition quiet and resigned ; met. θ Spinal disease. Moroseness. Peevish and whining, with hot earlobes. Easily startled. Sufferings following anger. Mental symptoms worse in morning on awaking. Quickly passing vertigo in morning. Vertigo : everything turns in a circle ; with nausea ; < before breakfast ; on opening eyes ; on stooping ; > after breakfast, and from wiping eyes ; nausea, faintness, pain in nape of neck ; as if drunken ; with seeing white stars ; when closing eyes. Stupefaction, with dread of falling forward. Heaviness of head, with pale, languid face. Dulness and numbness of head. Inability to walk, except with eyes open, and in daytime. θ Locomotor ataxia. Cloudiness and drunken feeling, alternating with pain in kidneys. Easily made drunk, even by weakest spirituous drink. When his eyes were closed, his whole body tottered ; if not firmly held, he fell to ground ; met. θ Spinal disease.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "face": [
+      {
+        "text": "Feels as if albuminous substance had dried on it. Blood-boils and pimples. Twitching of lower jaw. Rush of blood to face after eating",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Aspect gloomy, morose. Rapid alternation of redness and paleness of countenance. Copper-like redness of the cheeks, as in drunkards. Tingling on the face, and tension of the skin, as if it were covered with white of egg dried. Sensation of swelling, and of heaviness of countenance. Bulbous swellings and blood-boils on the face and nose. Red painful spot on the cheek. Roughness of the skin of the face, esp. over the forehead. Heat and redness. Itching and eruption of small pimples over the face. Moist scabs on the temples. Shooting and drawing sensation in the cheek-bones. Transient heat of face. Furunculus in the cheeks. Leprous tubercles in the face. Lips dry, and cracked, with exfoliation of the skin. Swelling of the lips. Pimples and scabby eruptions on the lips. Swelling of the jaws, with tensive pain on opening the mouth, and on chewing. Shortening of the lower jaw. Involuntary spasmodic twitching of lower jaw. Trismus.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sallow skin. Pale languid face with heaviness of head. Tearing and lancinating in malar bone. Tension of skin of face, as though white of egg had dried on it. Itching of various parts of face ; of forehead, with rough skin. Blood-boils on face and nose. Tetter on temples and forearm. θ Leucorrhœa. Gloomy, pale, or alternately red and pale. Heat and redness ; met. θ Spinal disease. Coppery cheeks. Bloated places, like bulbous excrescences ; nodular swellings. Tension and drawing in jaws and cheeks, with increase of saliva. Tensive pain in articulation of jaw, when chewing or opening mouth. Upper lip covered with little blisters. Lower jaw seems shortened. Lips dry, chapped. Involuntary spasmodic twitching of lower jaw, with hemorrhage of bowels ; dark, offensive stools. Trismus.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Sore. Bad odor from it. Teeth covered with sordes. Gums sore, bleeding. Tensive pain in articulation of jaw when opening mouth or chewing",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Dry, sore; food cannot pass, œsophagus contracted. Feels as if splinter or plug were in throat. Irritable, and relaxed throat. Looks parched and glazed. Clergyman's sore throat in thin subjects. Thick, tenacious mucus drops from posterior nares. Constant inclination to clear the throat",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pains in the teeth on chewing, or in the evening, in bed. Tearing in the teeth, extending to other parts, as far as the zygomatic bone, and in the forehead and temples. Piercing pain in the carious teeth. Ulceration of the roots of the teeth. Ulcer on the gums. Swelling of the gums, which have a tendency to bleed. Sensation as though the teeth were elongated. Odontalgia, with nervous irritation, as after a chill, or after the use of Chamomilla. Pain as of excoriation in the mouth, palate, tongue, and gums, which almost prevents eating. Small ulcers in the mouth. Dryness of the mouth, chiefly on waking. Accumulation of a sweetish or sour saliva in the mouth, like actual salivation. Musty or putrid smell from the mouth. Tongue loaded with a black or yellowish coating. Expectoration of bloody mucus. Sore throat, which is aggravated in the evening and at night, but which is ameliorated on taking anything warm, and which is less painful in the morning. Contractive, or shooting pains in the throat, chiefly on swallowing. Difficult deglutition, as if the gullet were contracted. Cramp-like pressure and squeezing in the œsophagus. Sensation, as if the œsophagus were contracted when swallowing a small morsel of food; it is felt until it enters into the stomach. Pains in throat evening and night. Swelling of the tonsils. Great dryness in the throat. Accumulation of a thick and viscous mucus in the throat, with difficult expectoration. Painful ulcers in the fauces, secreting a brown, badly-smelling pus. Sensation of a splinter in the throat.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Teeth feel long and sore. Toothache ; teeth feel loose and elongated, < from chewing, in open air, evening. Drawing toothache, extending to other parts, as down larynx, neck or shoulders. θ During pregnancy. Teeth covered with sordes. Swelling of gums ; they easily bleed and ulcerate. Saltish blood seems to come from teeth. Taste flat ; met. θ Spinal disease. Tongue coated with a thin slimy fur ; met. θ Spinal disease. Taste : acrid, sweetish or fatty ; almost lost ; like blood. Tingling, itching on tongue, must scratch it. θ During pregnancy. Bites his tongue while asleep. Musty, bad odor from mouth. Small ulcers in mouth. Saliva increased, although mouth may feel dry. Sensation of soreness in mouth when eating. Increased saliva and mucus. Dryness in mouth. Inflammatory redness in back of throat. Transient stitches in throat. Dryness of throat, as if parched. Rawness and roughness in throat, inducing hawking or coughing in evening, with secretion of mucus. Pressure in throat as from a plug, with soreness and dryness. Sensation of swelling in sides of throat. Sense of constriction from pharynx down to stomach, as if food could not pass. Great dryness of throat especially on awaking, voice husky ; constant hawking, and sensation of a lump in throat. θ Chronic catarrh. Feeling of a splinter in throat, stinging on swallowing. Copious, thick, tenacious mucus in throat, evening and morning on awaking ; can be expectorated only in lumps, with great effort. Thick mucus, dropping from posterior nares. Ulcers in fauces, spongy ; secreting a yellowish-brown, badly smelling pus ; with boring pains from fauces to right temple and head. Painful soreness in throat and upper part of œsophagus, < swallowing empty. Throat feels relaxed. Feels food whole length of œsophagus. Swallowing painful, > after warm drinks ; swallowing saliva or liquids often > ; swallows solids with difficulty. On waking in morning, pharynx feels narrower than usual, as if contracted and lame. Violent pressive pain, as if a portion of œsophagus was contracted or compressed, in middle of chest, especially during deglutition, but also when not swallowing, with oppression of chest, alternately with palpitation of heart, especially after a meal. Swallowing causes crepitation in ears. Pains in throat ; < evening and night.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Abnormal cravings-chalk, charcoal, dry food, tea-grounds. Heartburn; feels constricted. Aversion to meat (Graph; Arn; Puls). Potatoes disagree. No desire to eat. Can swallow but small morsels at a time. Constriction of œsophagus",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Colic, like painter's colic. Pressing in both groins toward sexual organs. Left-sided abdominal complaints",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Sweetish taste, or a taste of blood in the mouth. Rough taste, astringent, or bitter and insipid. Bulimy. Irregular appetite; at one time too strong, at another too weak. Food appears insipid, esp. in the evening, and principally bread and meat. Distaste for animal food. Craving, with want of appetite. Appetite for dry foods; for starch; chalk; clean white rags; charcoal; cloves; acids; coffee or tea grounds; dry rice. Desire for hot drinks. Desire for vegetables, for fruits, and spoon meats. After having eaten, and chiefly in the evening, hiccough, pressure in the stomach and abdomen, distaste, nausea, and lassitude. Potatoes excite nausea and bitter eructations. All irritating things immediately start cough. Eructations, sour and acrid, and pyrosis. Chronic tendency to eructation. Frequent eructations. Nausea, with faintness. Frequent nausea and inclination to vomit, chiefly when speaking, when re-entering the room after walking, and in the morning. Pressure in the stomach, chiefly in the evening and after eating. Contraction and constriction in the region of the stomach, often as far as the throat and breast, and sometimes with difficult respiration. Pain, as from excoriation, in the pit of the stomach and in the hypochondria, principally on turning the body in bed, or on stooping. Painful sensibility of the liver on stooping, followed sometimes by shooting pains. Colic whenever the body is exposed to a chill. Colic with drawing pains, principally in the evening, or at night, or after dinner. Cutting pains, chiefly in the morning. Flatulent colic. The colic is ameliorated by heat applied externally. Painter's colic. Protrusion and incarceration of inguinal hernia.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Alum.]. No desire to eat. Has no appetite, food has no taste. Irregular appetite. Longing for fruit and vegetables ; potatoes disagree. Aversion to meat ; to beer ; meat has no taste. Thirst all day. Appetite for starch, chalk ; clean white rags ; charcoal, cloves, acids, coffee or tea-grounds, dry rice, and other indigestible things. θ Chlorosis. Before eating : canine hunger ; seems to quiver all over. Better while eating. Worse from eating potatoes. θ Colic. θ Indigestion. Worse from tobacco smoke. All irritating things, like salt, wine, vinegar, pepper, etc., immediately start cough. Throat sore after using onions in food. Easily drunken from weakest spirituous drinks. Mucus in throat, tasting sweet, after dinner. Worse from cold, > from warm diet. Worse after eating soups. After eating : languor in evening ; must lie down at noon ; phlegm in chest. Eating removes faintness at stomach. After breakfast : vertigo ; nausea better. After dinner : sweet tasting mucus. Aggravation or appearance of all symptoms immediately after dinner or in evening. Worse from warm drink : chill. Better from warm drink : throat. Hiccough, Belching, Nausea and Vomiting. Chronic inclination to belch, in old people. Eructations : sour ; bitter, after potatoes ; < evenings. Heartburn after supper ; sourish risings, with profuse flow of water from mouth. Nausea : with vertigo ; stitches in brain ; chilliness ; pale face, desire to lie down, faintness ; > after breakfast. Frequent nausea ; faint nausea. Vomits mucus and water. Vomiting of food, mucus or bile ; met. θ Spinal disease. Distension of stomach. Constriction and twisting in stomach, extending up œsophagus to throat. Stitches in pit of stomach, extending upward to chest. Drawing or oppressive pain, going upward to chest and throat ; after potatoes. Pains in epigastrium and hypochondria when stooping. Contractions in both hypochonders. Spasmodic pains in hypochondria and stomach with dyspnœa almost to suffocation. Liver pains, as if bruised, when stooping ; stitches when rising again. Tearing from liver to hip. Shooting pain in region of spleen. Stitches in both hypochondria ; < from motion. Shooting in left hypochondrium going upward and forward to cardiac region, < on deep inspiration. Seems to hang down heavily, like a load, when walking, afternoons. Reaching too high strains abdominal muscles. Pains < sitting bent. Pressing in both groins, towards sexual organs, evenings. Stitching, pressing pain in region of abdominal ring, like from hernia, with tension as far as side of abdomen. Flatulent colic, bellyache. Colic in morning. Painters' colic. Soreness and twitching of right inguinal glands.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Hard dry, knotty; no desire. Rectum sore, dry, inflamed, bleeding. Itching and burning at anus. Even a soft stool is passed with difficulty. Great straining. Constipation of infants (Collins; Psor; Paraf) and old people from inactive rectum, and in women of very sedentary habit. Diarrhœa on urinating. Evacuation preceded by painful urging long before stool, and then straining at stool",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Stools hard, unfrequent, and scanty, sometimes with pain in the anus. Constipation and obstruction of the abdomen. Difficult stool, from inactivity of the intestines. Difficult evacuations from want of peristaltic motion of the intestines; even the soft stool can only be passed by great pressing. Constipation of pregnant women, children, and painters. No desire for, and no ability to pass stool, until there is a large accumulation. Hard, knotty stools, covered with mucus. Small stools, sometimes like pipe stems (also Phosphor.). Voiding of much slimy matter with the stool, during the continuance of colic. Loose stools with pain in the belly and tenesmus. Green stools in summer complaints. Loss of blood during and after the stools. Burning and itching in the anus. Blind piles protrude, become moist, with lancinating pain; are hard and itch. Pressure and shooting pain in the perinæum.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Inactivity of rectum ; even soft stool requires great straining. No desire for, and no ability to pass stool, until there is a large accumulation. After each dysenteric stool, involuntary urination. Severe hemorrhage from bowels with flow of urine. θ Typhoid. Pressing to stool aggravates her symptoms. Tenesmus in rectum and bladder at same time. θ Proctitis. Stools too scanty. Stools : hard and knotty or covered with mucus ; like sheep's dung, with cutting in anus, followed by blood ; like pipe stems. Constipation from great dryness of mucous follicles of rectum, with long-lasting pain in rectum. Diarrhœa, urging in rectum, bloody, scanty stools. Clots of blood pass from anus. Dropping of blood during an evacuation. Hemorrhoids, < in evening, > after night's rest. Itching and burning at anus. Perineum : pressure when blowing nose ; sweats and is tender to touch. Soft and thin stool, passing with difficulty. Chronic diarrhœa ; < on alternate days ; from walking ; > from a short sleep or warm applications. Diarrhœa whenever she urinates. Chronic diarrhœa. θ Chlorosis. Blind piles protrude, become moist, with lancinating pain ; are hard and itch. During stool : rectum as if constricted and dried up ; throbbing in small of back ; excoriated feeling in rectum ; chills all over ; discharge of prostatic juice. Varices become moist, sting and burn. Itching with burning excoriation and great sensitiveness. θ Hemorrhoids. Fistula ani. Sensation of weakness of sphincter ani. Pulsating in anus. Torpidity of rectum ; rectum seems paralyzed. Itching of anus.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "male": [
+      {
+        "text": "Excessive desire. Involuntary emissions when straining at stool. Prostatic discharge",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Sexual desire increased; or suppressed. Frequent pollutions and nocturnal erections. Copious secretion behind the glans. Excoriation of the prepuce. Contractive pain in the spermatic cord, with contraction of the testicle. Hardness and painful sensibility in one of the testes. Flowing of prostate fluid during difficult stools. Pains in the perinæum, during coition, and while the erection continues. Increase of suffering after pollution. Sweat on perinæum at beginning of erection or during coition.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Excessive sexual desire. Frequent and painful erections, < at night. Involuntary emissions, followed by all his old symptoms. Sexual desire lessened. θ Impotence. Feeling of weakness in bladder and genitals ; he fears he will wet the bed. Discharge of prostatic fluid during difficult stool. Light yellow pus from urethra, causing itching of glans penis. Sensation of weakness in penis. Left testicle hard and very painful. Tickling on genitals and thighs. Sweat on perineum, with sensitiveness to touch. Pressure in perineum at beginning of an erection or during coitus.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Menses too early, short, scanty, pale, followed by great exhaustion (Carb an; Coccul). Leucorrhœa acrid, profuse transparent, ropy, with burning; worse during daytime, and after menses. Relieved by washing with cold water",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Menstruation scanty, too early, and of short duration; blood pale. Menses too copious, with inflation of the abdomen. During the period of menstruation, sleep agitated, with many dreams, great activity in the circulation, heat in the face, headache, and palpitation of the heart. Before and during menstruation, colics, headaches, and other painful affections. After the menses great fatigue. Corrosive leucorrhœa, with smarting in the genital parts. Leucorrhœa before or after the menses, and often with trembling, fatigue, and colic. Leucorrhœa flesh-coloured, or aqueous, and causing stiffness of the linen; transparent mucus before and after menstruation.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sexual desire decreased. Weakness of sexual parts. Prolapsus uteri. Bland, painless ulcers upon os. θ Prolapsus uteri. Severe painful swelling in either or both ovaries, very sensitive to touch. θ Metritis. During an evacuation before menses, she has pinching, writhing and pressing like labor-pains. Menses : too early, short, scanty, and of pale blood ; too early ; preceded by headache ; delay, finally appear, being pale and scanty. Menses scanty, pale and painful. θ Prolapsus uteri. Before menses : many dreams, on awaking face hot, headache and palpitation ; abundant mucous discharge. During menses : corroding urine and diarrhœa ; bloatedness. After menses : exhausted in body and mind. θ Leucorrhœa. Leucorrhœa : of transparent mucus, attended with tremor and sensation as if everything would fall out of abdomen ; acrid, corrosive ; profuse, relieved by cold washing ; during day ; with tetter on temples ; corroding, profuse, running down to heels, often only in daytime, relieved by cold washes. Painful throbbing in left side of vagina, like the tick of a watch. Stitches in l. side of vulva, extending up to chest. Free light yellow excoriating discharge from vagina. Itching and burning pimples on labia. Inflammation and swelling of vagina. Stitches, throbbing and itching in vagina. θ Prolapsus uteri. PREGNANCY. PARTURITION. LACTATION. [24] [Alum.]. Gastric and abdominal symptoms during pregnancy : heartburn ; constipation from inactive rectum ; groaning at night, crying out \"it is not I,\" begging them to stop ; tongue tingles ; mucous leucorrhœa, which runs down limbs. Itching in mamma. Constipation of sucklings.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Chapped and dry tettery. Brittle nails. Intolerable itching when getting warm in bed. Must scratch until it bleeds; then becomes painful. Brittle skin on fingers",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Miliary eruption in the arms and legs, with much itching and serous bleeding after having scratched. Chapped skin and bulbous eruptions. Boils or itching exanthemata on perinæum. The slightest injuries of the skin smart, and become inflamed. Leprous pimples. Scurf and tetters, which itch or become moist chiefly in the evening. Renewal of cutaneous symptoms at every new or full moon. Rhagades. Brittle nails.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Skin yellow. θ Liver complaint. Intolerable itching of whole body, especially when getting warm in bed ; scratches until skin bleeds, which is then painful. Eruptions humid, scabby, sore, gnawing. Ulcerated surface secretes a yellow-brownish, badly smelling pus. Blood-boils. Rhagades. Bulbous excrescences. Leprosy. Dry, tettery, itching eruption. Tetter itching in evening. Formication in skin.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "in open air; from cold washing; in evening and on alternate days",
+          "source_id": "boericke-1927"
+        },
+        {
+          "text": "damp weather",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "periodically; in afternoon; from potatoes",
+          "source_id": "boericke-1927"
+        },
+        {
+          "text": "in morning on awaking; warm room",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Alum.]. Resting head relieves headache. Raising head : increases vertigo, nausea and vomiting ; met. θ Spinal disease. During rest : pain in small of back. Aversion to motion. Complaints from carrying on back ; or bodily exertion. Pain in chest from lifting or carrying things. Stitches in hypochondria, worse from motion. Moderate exercise (in open air) relieves. Walking about or moving feet relieves uneasiness. Headache, > lying, < walking in open air. When attempting to walk, great weakness and uncertainty in lower limbs, has to be led ; met. θ Spinal disease. When walking : abdomen hangs heavily ; discharge of dark blood from rectum ; fluor albus more profuse. Talking or a short walk fatigues very much ; causes numbness of limbs, flushes of heat. Lying down : > headache ; < lassitude, yet there is desire to lie down. Going down-stairs : stitches in chest. Worse from dancing : renal pains. Worse ascending : frontal headache. Stepping : < frontal headache ; numbness of heel ; pain in sole of foot. Straining, lifting, etc., cause soreness in chest and abdomen. Reaching high : strains abdominal muscles. Sitting : weariness of legs ; pain in foot joint ; stretching limbs. Sitting bent : pain in abdomen < ; oppressed respiration ; constriction in chest. Stooping : vertigo ; pain in vertex ; constriction of chest ; pain in scrobiculum, liver, hypochondria and abdomen ; stitch from abdomen to chest. Short-breathed lying on back, not on side. Better lying on left side ; < lying on right. Worse from standing and sitting : pain and heat in forehead. Time passes too slowly. Remission from evening until morning. Worse evening and night : throat complaints. Towards morning : hoarseness. Before breakfast : vertigo, faint nausea, relieved after eating. Morning : mental depression ; transient vertigo ; pain in head and neck > ; burning in eyes ; dry mucus in eyes ; cough and sputa ; pressure on chest ; colic. Worse morning and evening : burning of eyes ; mucus in throat. Worse all day : mucous leucorrhœa ; drowsiness. Worse alternate days : constipation ; chronic diarrhœa ; prolapsus uteri ; chlorosis. Worse afternoon : hoarseness. Worse evening : apprehension ; tetter on scalp ; dim sight, dryness, pressure and burning in eyes ; spasmodic closure of eyelids ; one ear red and hot ; tearing and stitches in ear ; ozæna ; toothache ; pains in throat ; eructations ; hemorrhoids ; weakness in bladder ; hoarseness ; languor ; heaviness in lower limbs ; heat. On going to bed : pains in head and neck. From 4 P. M. till going to bed she feels well. θ Melancholy. At night : headache < ; spasmodic closure of lids ; pains in throat < ; frequent urination ; pain in chest <. New and full moon : tetter on scalp ; heat. Unpleasant want of animal heat. Warm food and drinks relieve throat. She feels better in open air. θ Prolapsus uteri. Takes cold easily sitting in room, gets hoarse ; this lessens when walking in open air. Generally > in warmth ; < in cold air, outdoors. Better walking, outdoors, in mild weather ; inclination to be in open air. Cannot bear the cold, nor a warm room. Warmth of bed : body itches. Open air : pain in forehead, dulness of sight, cold feeling in eyes ; toothache < ; hoarseness ; oppressed breathing > ; chilliness with headache. Worse in dry weather ; thin fecal stools. Winter : rhagades ; eruptions. Cold washing : leucorrhœa > ; rhagades. Better in wet weather or moistening the diseased part.",
+          "source_id": "hering-guiding-1879"
+        }
+      ]
+    },
+    "relationships": {
+      "complementary": [
+        "Bryonia"
+      ],
+      "antidoted_by": [
+        "Ipecac",
+        "Chamom"
+      ],
+      "_raw": [
+        "Compare: Aluminium (which has been used on indications taken from the proving of Alumina). Antidote to: Lead. Antidoted by: Bry., Camph., Cham., Ipec. Complementary: Bry. Follows well: Bry., Lach., Sul. Similar to: Alumen; Arg. nit. (clergyman's sore throat, paralysis); Bar. c. (hypochondriasis of aged; constipation); Bry., Calc.; Cham. (useful as an intermediate remedy); Con. (old people; squint) Ferrum (chlorosis; relaxed abdomen; disgust for meat, &c.) Fer. iod. (profuse transparent leucorrhœa); Graphit. (chlorosis, skin rough, chapped, itching nails; blepharitis, &c.); Ipec.; Kali bi. (clergyman's sore throat) Lach. (sad on waking; climaxis); Lyc. (clergyman's sore throat) Pic. ac., Plumb. (colic, constipation) Puls. (tearful, peevish; head, &c., > in open air; ozæna; taste lost averse to meat; scanty menses complaints at puberty; lack of animal heat; soles of feet sore, walking; toes red, itching, &c.); Ruta (loss of power of internal recti); Sepia (irritable, tearful; ozæna; scanty menses; puberty prolapsus uteri; inactive rectum weakness in urinary organs, &c.); Sil., Sul., Zinc. (inner canthus granular lids; from wine).",
+        "Similar to : Bar. carb. (hypochondriasis of aged ; constipation) ; Bryon. (peevish, irritable ; gastric and abdominal symptoms ; constipation ; throbbing headache ; dry cough with vomiting ; stitches in chest ; dryness of mucous surfaces ; fever, etc.) ; Calc. ostr. ; Chamom. (useful as an intermediate remedy) ; Conium (old people ; loss of power of internal recti of eyes) ; Ferrum (chlorosis ; relaxed abdomen ; disgust for meat, etc.) ; Ferr. jod. (profuse, transparent leucorrhœa) ; Graphit. (chlorosis ; skin rough, chapped, itching ; nails ; blepharitis, etc.) ; Ipec. ; Laches. (sad on waking ; climaxis) ; Pulsat. (tearful, peevish ; head, etc., better in open air ; ozæna ; taste lost ; averse to meat ; chlorosis ; scanty menses ; complaints at puberty ; lack of animal heat ; soles of feet sore, < walking ; toes red, itching, etc.) ; Plumbum (colic ; constipation, etc.) ; Ruta (loss of power of internal recti of eyes) ; Sepia (irritable, tearful ; ozæna ; scanty menses ; puberty ; prolapsus uteri ; inactive rectum ; weakness in urinary organs, etc.) ; Silic. ; Sulphur ; Zincum (inner canthus ; granular lids)",
+        "Compare with the following in clergyman's sore throat : Arg. nitr., Kali bich., Lycop., etc",
+        "Alumin. follows : Bryon., Laches., Sulphur ; and is followed by : Bryon",
+        "Alumin. and Bryon. are complementary",
+        "Antidotes to Alumin. : Bryon., Camphor, Chamom., Ipec",
+        "Alumin. antidotes : lead-poisoning, as in painter's colic ; ailments from lead",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "dosing": {
+      "notes": "Sixth to thirtieth and higher. Action slow in developing"
+    },
     "chest_heart": [
       {
         "text": "Oppression at the chest. Dyspnœa when seated. Nocturnal pressure in the chest. Sensation of constriction in the chest, chiefly when seated in a bending attitude, or while stooping. Pain, as of excoriation, in the chest and in the pit of the stomach, sometimes with cough. Pain in the sternum on touching it. Palpitation and shocks at the heart. Palpitation every morning on waking; irregular beats. Wakes 4 to 5 a.m. with anxiety at heart, > immediately after rising.",
@@ -1352,6 +1377,7 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-keynotes-1899",
       "boericke-1927",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",

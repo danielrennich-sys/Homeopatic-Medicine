@@ -8,12 +8,14 @@
       "Hemlock, Water"
     ],
     "synonyms": [
-      "Cicuta Virosa. Water Hemlock (Umbelliferae)",
-      "CICUTA VIROSA",
-      "Cicuta virosa"
+      "Cicuta Virosa. Water Hemlock (Umbelliferae)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -399,6 +401,12 @@
         {
           "text": "from touch, draughts, concussion, tobacco smoke",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Cic.]. When at rest : headache < ; pressive, stupefying headache ; shocks in head better. While lying : jerking of head or throwing it backward ; on side, is straightened out upon back quick as lightning. When standing still : desire to hold on to something ; vertigo. After standing : weakness in knees and muscles of back. Lies on back unable to turn. Sitting in apparent sleep : sinking of head forward. On attempting to rise : darkness before eyes ; falling back of head ; vomiting. On sitting erect ; headache and pressure better. On rising from bed : vertigo. On attempting to stand : vertigo ; wishes to hold on to something. On stooping : falling ; vomiting of bile ; of blood, during pregnancy. On raising arm : sensation of heaviness in arm ; stitches in shoulder. On walking : loss of sight ; vertigo ; as if brain was loose and was shaken ; epistaxis ; soreness as if bruised at lower end of sternum ; does not step properly, feet tilt inward. At night : sweat, most on abdomen ; profuse sweat ; unable to sleep. In morning : on waking, headache ; when eating, nausea ; sweat, most on abdomen. During midday : loss of appetite ; more fatigued than at evening. Worse in afternoon. From noon till evening : eructations. Whole day : want of breath ; jerking in left arm. Warmth : > shocks in head ; chilliness with desire for. Cold : shocks in head < ; generally <.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

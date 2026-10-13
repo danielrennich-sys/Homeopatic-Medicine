@@ -1,12 +1,17 @@
 {
   "id": "oleum-terebinthinae",
   "names": {
-    "primary": "Oleum Terebinthinae, Oleum Terebinthinae Rectificatum",
-    "latin": "Oleum Terebinthinae, Oleum Terebinthinae Rectificatum",
+    "primary": "Oleum Terebinthinae",
+    "latin": "Oleum Terebinthinae",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Oleum Terebinthinae, Oleum Terebinthinae Rectificatum"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

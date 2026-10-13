@@ -1,14 +1,19 @@
 {
   "id": "catechu-nigrum",
   "names": {
-    "primary": "Catechu nigrum, Acacia catechu (WILLD.)",
-    "latin": "Catechu nigrum, Acacia catechu (WILLD.)",
+    "primary": "Catechu Nigrum",
+    "latin": "Catechu Nigrum",
     "common": [
       "Catechu, Black"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Catechu nigrum, Acacia catechu (WILLD.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

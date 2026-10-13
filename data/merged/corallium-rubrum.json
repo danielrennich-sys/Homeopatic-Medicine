@@ -6,12 +6,12 @@
     "common": [
       "Red Coral (CORALLIUM)"
     ],
-    "synonyms": [
-      "CORALLIUM RUBRUM",
-      "Corallium rubrum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -117,6 +117,12 @@
         {
           "text": "in open air, changing from a warm too cold room",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Cor. r.]. Standing : falls asleep. Motion : eyes pain violently during. Sitting up : nausea and headache <. When shaking head or quickly moving it : sensation as if wind was blowing through skull. Violent headache, obliging him to move head from side to side, but without relief, not > by sitting. Bending head forward : heat in face ; pain in left submaxillary gland <. On closing eyes : they feel hot, as if bathed in tears. On drawing jaw far downward : pain in left articulation, also when biting or yawning. Stooping : headache < ; congestion of blood to head. Walking : headache > ; lassitude in all the limbs after ; great fatigue after. In morning : inclination to cough, difficult hawking of mucus ; spasmodic cough <. In afternoon : cough >. Evening : pressure in eyes ; cough > ; lassitude in limbs. At night : bleeding of nose ; profuse discharge of mucus from anus ; cannot fall asleep before midnight. Latter part of night : spasmodic cough <. Heat : chill > by outward. Uncovering of body : headache > for a short time ; hot parts feel cold. Feels cold uncovered and too hot when covered. Open air : headache >. Change of air : sets patient coughing.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

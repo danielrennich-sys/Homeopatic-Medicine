@@ -1,12 +1,15 @@
 {
   "id": "natrum-silicatum",
   "names": {
-    "primary": "NATRUM SILICATUM",
-    "latin": "NATRUM SILICATUM",
+    "primary": "Natrum Silicatum",
+    "latin": "Natrum Silicatum",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

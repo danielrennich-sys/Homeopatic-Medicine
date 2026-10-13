@@ -1,14 +1,19 @@
 {
   "id": "macis",
   "names": {
-    "primary": "Macis (U. S. P.)",
-    "latin": "Macis (U. S. P.)",
+    "primary": "Macis",
+    "latin": "Macis",
     "common": [
       "Mace"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Macis (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

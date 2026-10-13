@@ -1,8 +1,8 @@
 {
   "id": "chrysarobinum",
   "names": {
-    "primary": "CHRYSAROBINUM",
-    "latin": "CHRYSAROBINUM",
+    "primary": "Chrysarobinum",
+    "latin": "Chrysarobinum",
     "common": [
       "Goa Powder-Andira araroba",
       "Chrysarobin"
@@ -11,7 +11,11 @@
       "Chrysarobinum (U. S. P.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "eyes": [
       {

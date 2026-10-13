@@ -8,13 +8,14 @@
       "Croton"
     ],
     "synonyms": [
-      "Croton Tiglium. Croton Oil Seeds. (Euphorbiaccae)",
-      "CROTON TIGLIUM",
-      "Croton tiglium (WILLD,)",
-      "Croton tiglium"
+      "Croton tiglium (WILLD,)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -34,19 +35,129 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "head": [
+      {
+        "text": "Pressing pain in forehead, especially orbits",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Head confused: on rising, as if by a cloud, with dulness and pressure in the forehead in the forehead, with pressure and heaviness; with pressure in the temples in the occiput, sometimes as though it were held in a vice (on l. side), with heaviness in the head, and digging in the eyes, with fulness, cloudiness, and heaviness in the forehead, esp. on r. side, with pressure, proceeding downwards from the occiput to the part underneath the ear, with lancinations. Giddiness in the head, as after spirituous liquors. Vertigo with dulness of the head, pale complexion, debility and nausea; in the open air. Vertigo: with headache; with heaviness of the head, so as to cause falling while standing upright; hardly permitting a sitting posture, esp. on raising the eyes; with bewilderment of the head until supper-time; on walking in the open air; esp. on the r. side, with aching in the eye; in the sinciput, with draggings across the nose to the forehead. Headache; in the morning. Fulness in the head, with numbness and weight in the forehead, every day, and with great heaviness, which prevents reading; with sensation of vertigo and pressure in the forehead. Pressure in the head; in the r. temple and the side of the forehead; in the sinciput, and sometimes chiefly on the l. side; or else with violent pains, throbbings, and tension proceeding from the forehead, with bewilderment of the whole head, after a meal. Numbness in the orbits, within doors and towards night; above all in the air. Pressure at the occiput. Tension at the sinciput, with pressure and dartings. Squeezing in the temples. Tearings, ascending towards the vertex; in the forehead, extending to r. temple, where they become lancinations. Lancinations in forehead, above r. eye; in l. temple; between the occiput and the nape of the neck. Congestion in the head, proceeding from the abdomen, with hot skin and perspiration. Externally, pricking in the teguments of the head; tingling at the occiput; jerking of the head; burning at the temple, as by live coals; sensitiveness of the teguments of the head: the hat gives pain.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sensitiveness of head ; weight of hat causes headache. Heat and heaviness in head, soreness in eyeballs when turning eyes ; bad taste in mouth, feels clammy and nasty ; thirst ; weak, faint spells ; flushes of heat. Sticking pain in head, eyes and forehead. Headache worse in morning. Sensitiveness of head to pressure of hat. Boring of head into pillow ; fontanelles sunken. θ Cholera infantum. Crusta lactea.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Granular lids; pustules of cornea. Red and raw appearance. Feel drawn backward. Eruptions around eyes. Tensive pain above right orbit",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Lancinations, esp. in l. eye; jerkings and dartings in the angle of the l. eye; with frequent contractions and jerking of the whole eye; contractive pains in the l. eyelids, esp. towards the internal angle. Sensation as of a string pulling eyeball back into head. Stinging in the eyeball. Itching of the eyelids. Irritation of the conjunctiva. Inflammatory redness of the l. conjunctiva. Ulceration of the conjunctiva, contraction of the pupil, and profuse lachrymation and dimness of the cornea. Hypopion. Inflammation of the eye, in which a drop of oil has been introduced, extending over the whole side of the face. Burning pain in the inflamed eye, with burning in the ear, vertigo, and fainting. Œdematous swelling of the eyelids. Small vesicles round the eye. Swelling of a subcutaneous gland below the inferior r. eyelid, with redness of the skin. Much quivering of the eyelids. Lachrymation. Sight bedimmed, as though crossed by a fog or by smoke; cloud before the weak eye; before both; the sight is lost, sometimes as by vertigo (in a room), or else by heaviness and weakness of the eyes.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Opacity of cornea. Keratitis pustulosa : with much eruption on lids and face ; with excessive photophobia. Ulceration of conjunctiva, contraction of pupil, profuse lachrymation and dimness of cornea. Conjunctivitis pustulosa, eyes feel hot and burning, especially at night ; face red and burning ; feverish ; marked photophobia, ciliary injection, with considerable pain in and around eye, usually worse at night. Pustules terminating in ulcers and ulceration of cornea, with much pain in supra-ciliary region and eruption on face ; much pain in eye, whenever a movement from bowels occurred. Iritis with pustular eruption on face. Irritation and inflammatory redness of conjunctiva. Violent ophthalmia ; on second day, ulceration of conjunctiva over cornea and sclera, irritation of sclera and iris ; contraction of pupil ; injected state of vessels of conjunctiva, sclera and eyelids, profuse lachrymation, photophobia, violent pains disturbing night's rest ; burning and violent pain of eye. Pain which seemed to extend from pupil of left eye to back part of head. θ Neuralgia. Sensation as of a string pulling eyeball back into head. Sticking pain in eyes ; eyes swollen ; veil before eyes. Stinging in eyeball. Soreness in eyeballs when turning eyes. Burning pain in inflamed eye, with burning in ear, vertigo and fainting. Blepharitis with vesicular eruption on lids and face. Itching of eyelids. Œdematous swelling of eyelids (eyelids look puffed). Twitching of eyelids. Copious lachrymation.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Copious watery stools, with much urging; always forcibly shot out, with gurgling in intestines; worse, drinking the least quantity, or even while eating. Constant urging to stool, followed by sudden evacuation. Swashing sensation in intestines",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Urgent inclination to go to stool: with rumbling and pinching in the abdomen; as from heat and agitation in the abdomen; with pressure on the anus, as in diarrhœa; in the morning in bed, and after getting up, stool, followed by excoriating pain in the anus; sudden, immediately after rising or commencing exercise; so pressing that the closet cannot be reached soon enough. Stools: soft, like pap, sometimes with burning at the anus; viscid, of good consistence, mucous, aqueous, sometimes copious and frequent, even at night, or else with lancinations in the anus; liquid, with scraping at the anus; yellow, loose, sometimes after vomiting, or else following sweat, mucous, with tenesmus; dark green, liquid, followed by long-continued debility; now firm, afterwards bilious mucous, and finally aqueous; brown, pap-like, with mucus, or else followed by borborygmi in the l. side: greyish-green, dirty brown, quick, and ejected by one effort. Stool as soon as he drinks (the child has a stool and colic as soon as it nurses). After taking coffee, the stools (frequent) cease. After the stool, drawings and pressure in the upper part of the abdomen, and the umbilical region. Ejection of ascarides, and of the tænia solium. Pressure and tenesmus in the rectum, with cutting pains going round it on being seated. In the anus: burning, which sometimes does not permit the patient to remain seated, with swelling of the surrounding parts, or with pulsations and lancinations; scraping after a stool; pains of excoriation and burning after taking exercise, contractive and lancinating pains in walking; pain as if a peg were endeavouring to pass out; pain of excoriation after the stool, with prolapsus ani, and inclination to go to stool, and on compressing the abdomen, pressure on the anus extending to the genital parts and the glans; with this, much anguish, oppression, sweat on the forehead, and nausea, with loss of sight and hearing; rest soothes the pains.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Flatulence, soon followed by urgent desire for stool. Evacuation sudden, and with much flatus. Stools occur suddenly, one gush and it is finished, great prostration after a passage. θ Cholera infantum. Constant urging to stool, followed by sudden, pasty evacuation, which is shot out of rectum, of a dirty green color and offensive. Watery, yellow, at times slightly green passages, passed in a single gush ; each stool seems to \"drain child dry\", but notwithstanding, very little prostration, passages every half hour, from 8 A. M. till evening, none at night. Pasty, light brown stool covered with mucus, with frequent urging, followed by rumbling, gurgling in left side of abdomen. Stool : dark green ; tenacious, mucous ; watery, mixed with whitish flakes ; watery, painless ; coming out like a shot ; < from drink and food. During stool : sweat, nausea ; colic ; scraping of posterior wall of rectum ; disagreeable sensation through whole body ; nauseous taste ; protrusion of rectum. After stool : sweat on forehead ; pressing in epigastrium and umbilicus, with protrusion of rectum and constant urging to stool ; nausea, with fainting ; great pallor, weakness and prostration. Stools preceded by colic and borborygmus ; during stool cutting in abdomen with sensitiveness ; after stool, burning in anus ; greatest prostration, patient even fainting ; coldness of body ; dizziness ; face sunken and altered in expression. θ Cholerine. Vomiting and diarrhœa after taking least nourishment ; stools profuse, watery, yellow and at times yellowish-green ; stool passed with a single gush ; has about twenty-five stools during day, none at night ; extreme prostration and emaciation ; symptoms of hydrocephaloid already developed ; boring of head in pillow ; fontanelles sunken ; body and extremities cool ; convulsions. θ Cholera infantum. Diarrhœa coming on suddenly ; pain in abdomen, faint feeling before, during and after stool ; sweat on face after stool. Gushing, sudden discharge of watery stool, mixed with undigested food, immediately after feeding, with great weakness and pallor, vomiting at same time. Diarrheic attack during night, very copious fecal evacuations, gradually losing their natural color and consistence with each successive stool ; swashing feeling and sound in abdomen ; great apprehension of a serious termination. θ Diarrhœa. Every movement of body renews discharges, producing at first very violent pain in bowels with tenesmus ; discharges frequent and small. Intermittent diarrhœa, with great and sudden weakness. Diarrheic stool accompanied by sweat, tenesmus, or with nausea and colic. Diarrhœa : worse after drinking ; while nursing ; while eating ; during Summer ; from fruit and sweetmeats. Upon pressure at umbilicus, a painful sensation is felt down to anus, where there is constant pressure outward. Dragging in anus, as if diarrhœa would easily ensue. Burning in anus. Pain in anus, as if a plug was forcing outward. At anus : itching ; pulsations ; constrictive sensation ; stitches.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Night urine foaming; dark orange color; turbid on standing; greasy particles floating on top. Day urine is pale, with white sediment",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "In the r. renal region, violent lancinations, which cut short respiration. Inclination to urinate, sometimes immediately after having made water; increased emission, sometimes with frequency, even every half-hour. Urine: yellow, copious; cloud in the urine, which is sometimes turbid; after the cloud has disappeared, brown crystallisations float in its place; urine pale, frothy, in the morning; pale, with white sediment, in the daytime; orange-yellow pale at night, a little turbid and fleecy at the bottom; high-coloured, fiery-red, and very fleecy; night and morning; blood-red, depositing much mucus at the bottom, which, on being disturbed, forms elongating threads; thick sediment in the urine, afterwards urine with a streaked coating. When urinating, heat in the urethra, or in the glans.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Burning in urethra when urinating. Increased secretion of (turbid) urine. Urine dark and fiery, flocculent with greasy particles floating on top ; turbid sediment which is somewhat lighter colored at bottom of vessel. Night urine is foaming, pale, orange-colored, with a slightly turbid appearance at bottom of vessel, first part of urine being a little flocculent. Blood-red urine, exhibiting a quantity of mucus at bottom of vessel, which is drawn into threads by shaking. After lapse of twenty-four hours, brownish crystals form, floating about at spot where the cloud was seen and deposited on walls of vessel.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Drawing-pain through the left chest into the back. Asthma, with cough; cannot expand the chest. Nursing women; every suck the child gives produces pain from nipple back. Inflamed breasts. Cough; as soon as he touches the pillow must get up. Sensitive to deep breathing",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Respiration impeded by aching in the abdomen: difficult, with oppression; sometimes with anguish. Respiration laboured sometimes with fulness and anguish in the chest. Respiration short, after a stool. Dyspnœa aggravated on going up stairs. Chest painful on pressing upon it. Fulness and painful sensitiveness of the two cavities, with burning lancinations on l. side, and towards the shoulder-blades, or else with pressure and burning on r. side, and on l. Particular uneasiness in the chest and abdomen. Feeling of emptiness in the chest. Pressure on the chest: in breathing deeply; violent in the evening; deep in the middle of the chest. Lancinations in the chest: below, to r., during in inspiration; sometimes on l. side, esp. in the evening. Pulsation, backwards from the r. side. Burning in the chest, sometimes violent, extending to the intestines. Palpitation of the heart: sometimes violent, such as may be felt externally; during coition; after a meal, esp. on lying down; sudden throbbing in the region of the aorta. Palpitation of the heart, with difficulty of breathing, esp. on going up stairs. Frequent lancinations in the region of the heart, sometimes more esp. during inspiration; frequent jerkings towards the heart; the l. ventricle of the heart is chiefly affected. Externally, pulsation, and throbbing-bubbling in (r.) side of chest; tearing pains.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sensation of hollowness in chest, as if everything was hanging down. Feeling of fulness in both sides of chest, with burning stitches in left side of thorax and towards both scapulæ. Drawing pain through left pectoral region into back. Palpitation of heart, with difficulty of breathing, especially on going up stairs. Stitches in region of heart during an expiration. Pulse frequent and full. Chest painful when touched.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Feels hide-bound. Intense itching; but scratching is painful. Pustular eruption, especially on face and genitals, with fearful itching, followed by painful burning. Vesicles; confluent oozing. Vesicular erysipelas, itching exceedingly. Herpes zoster; stinging, smarting pains of the eruption",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Heat, esp. of the hands, with swelled veins. Itching, followed by burning pain. The patient can't bear to scratch very hard as it hurts; a very slight scratch, a mere rub suffices to allay the itching. Erysipelas that itches exceedingly. Vesicular inflammation (scarlet redness) of the skin. Redness, warmth, stinging here and there, with pustules, running into one, oozing and forming a grey-brown crust on the day following, which finally falls off. Pustules, with inflammation, nearly general, of the teguments of the abdomen, followed by desquamation. Herpetic eruption on the scrotum.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sensation as if hide-bound. Eruptions itch very much, patient, however, is not able to scratch very hard as it hurts ; a very slight scratch, a mere rub suffices to allay the itching. Erysipelas, with excessive itching. Itching followed by painful burning. Intense itching, > by very gentle scratching. Scarlet redness of skin (with vesicles). Redness, warmth, stinging here and there ; pustules running into one, oozing and forming a grey brown crust, which finally falls off. Red moist spot, exuding offensive moisture, on left thigh opposite scrotum ; it is painfully sore to touch and on walking ; troublesome smarting when walking. Itching and painful burning, with redness of skin ; formation of vesicles and pustules ; desiccation of pustules ; desquamation and falling off of pustules. Eczema over whole body to soles of feet, with violent itching. Eczema on face and genitals. Erysipelas of face ; œdematous indented eyelid and large water blisters on chin. Pure idiopathic eczema, such as usually appears in children. Vesicular eruption, with itching, burning, stinging, and redness of skin, and speedy development of sero-purulent exudation. Vesicles, especially on abdomen, confluent and form large brown scabs, < after eating, > after sleep, > by gentle rubbing ; swelling of the glands. Herpetic eruption on scrotum. Pustules, first size of millet seeds, growing larger, oozing and forming a grey brown crust. Pustular eruption upon an inflamed base on septum nasi, plugging nostril ; with itching and stinging pain. Itching pustules. Right face first affected, then left, or it may go downward, involving scrotum. θ Rhus poisoning. Impetigo ; prurigo ; pustules.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": {
+      "better_from": [],
+      "worse_from": [
+        {
+          "text": "least food or drink; during summer; touch, night and morning, washing",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Crot. t.]. Lying : cough <. Obstinate cough < when lying in bed, compelled to jump up and walk about ; compelled to lie in bed in partly sitting posture. Sense of suffocation, compelling him to jump out of bed and sleep in a chair. Motion : discharges renewed by every. Inability to move left arm or lie down ; least attempt to stir causes pain to reappear. Turning eyes : soreness in eyeballs. Walking : corrosive itching pain on scrotum < ; red moist spot on left thigh painfully sore, troublesome smarting. On going up stairs : palpitation of heart, with difficult breathing. Morning : headache < ; cough. In afternoon : pain in soles of feet, spreading towards great toe <. During day : about twenty-five stools, none at night. Evening : cough. Night : eyes < ; violent pains in eye disturb sleep ; diarrheic attack during ; urine foaming, turbid at bottom ; eczema on scrotum itching excessively ; cough < ; pain in left arm <. Open air : dizziness and faintness <. Cold water : while overheated, complete loss of voice from drinking. Hot milk : colic >. Summer : diarrhœa <.",
+          "source_id": "hering-guiding-1879"
+        }
+      ]
+    },
+    "relationships": {
+      "antidoted_by": [
+        "Ant tart"
+      ],
+      "_raw": [
+        "Antidoted by: Ant. t. Antidote to: Rhus. Compatible: K. bro. Compare: Elat., Verat., Ricin., Euphorb., Anac., Colch., Rhus, Phos.; in pains in breast, Bry., Borax., Phelland., and Sil.; in faintness during stool, scanty stools, Dulc., Ox. ac., Petrol., Sars., Sul. (stools not scanty, Apis., Nux mosch., Puls., Spi., Ver.); faintness after stool, Nux.",
+        "Antidoted by : Ant. tart",
+        "It antidotes : Rhus tox",
+        "Compatible : with Kali brom. cured chronic infantile diarrhœa",
+        "Compare : Anac., Apis, Colchic., Mezer., Rhus tox., Veratr., Phelland, Phosphor., Silic. (pain from the nipple through to the back)",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "dosing": {
+      "notes": "Sixth to thirtieth potency",
+      "entries": [
+        {
+          "text": "Dose of the oil, 1/2 to 1 minim on a lump of sugar Collodium Crotons B.P.C., a powerful counter-irritant and vesicant. Liniment of Croton oil, B.P., seldom used owing to the painful inflammation which may be produced. [ Top ] Purchase from Richters Related Muira Puama (Croton echioides) Dried Bark",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
+    },
     "keynotes": [
-      {
-        "text": "Affects mucous membrane of intestinal tract, producing transudations of watery portions of blood, a copious, watery diarrhoea (Ver.), and develops an acute eczema over the whole body (Rhus). The bowels are moved as if by spasmodic jerks, \"coming out like a shot\" (Gamb.); as soon as patient eats, drinks, or even while eating; yellow watery stool. Constant urging to stool followed by sudden evacuation, which is shot out of the rectum (Gamb., Grat., Pod., Thuja). Swashing sensation in intestines, as from water, before stool (rumbling before stool, Aloe). Drawing pain through the chest from breast to scapula, of same side every time the child nurses; nipple very sore. Intense itching of skin, but so tender is unable to scratch; > by gentle rubbing; eczema over whole body. Intense itching of genitals of both sexes (Rhus); vesicular eruption on male; so sensitive and sore is unable to scratch. Cough: as soon as the head touched the pillow a spasmodic paroxysm of cough set in; suffocated, must walk about the room or sleep in a chair.",
-        "source_id": "allen-keynotes-1899"
-      },
-      {
-        "text": "Relations. - Compare: Kali br., Phos. in chronic infantile diarrhoea; Sil. pain from nipple through to back when nursing.",
-        "source_id": "allen-keynotes-1899"
-      },
-      {
-        "text": "Aggravation. - Diarrhoea; every motion; after drinking; while eating or nursing (Arg. n., Ars.); during summer; from fruit and sweetmeats (Gamb.); the least food or drink.",
-        "source_id": "allen-keynotes-1899"
-      },
       {
         "text": "color=\"#800000\">CROTON TIGLIUM Croton-oil Seed Is a valuable remedy in diarrhœa, summer complaint, and skin affections. These may alternate with each other. Feels tight all over. It is one of the antidotes to Rhus poisoning, as is evident from its wide and intense action upon skin and mucous surface, causing both irritation and inflammation, with formation of vesicles and mucous discharges. Has elective affinity for skin of face and external genitals. Burning in the œsophagus.",
         "source_id": "boericke-1927"
@@ -316,116 +427,6 @@
         "source_id": "nash-leaders-1899"
       }
     ],
-    "head": [
-      {
-        "text": "Pressing pain in forehead, especially orbits",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Head confused: on rising, as if by a cloud, with dulness and pressure in the forehead in the forehead, with pressure and heaviness; with pressure in the temples in the occiput, sometimes as though it were held in a vice (on l. side), with heaviness in the head, and digging in the eyes, with fulness, cloudiness, and heaviness in the forehead, esp. on r. side, with pressure, proceeding downwards from the occiput to the part underneath the ear, with lancinations. Giddiness in the head, as after spirituous liquors. Vertigo with dulness of the head, pale complexion, debility and nausea; in the open air. Vertigo: with headache; with heaviness of the head, so as to cause falling while standing upright; hardly permitting a sitting posture, esp. on raising the eyes; with bewilderment of the head until supper-time; on walking in the open air; esp. on the r. side, with aching in the eye; in the sinciput, with draggings across the nose to the forehead. Headache; in the morning. Fulness in the head, with numbness and weight in the forehead, every day, and with great heaviness, which prevents reading; with sensation of vertigo and pressure in the forehead. Pressure in the head; in the r. temple and the side of the forehead; in the sinciput, and sometimes chiefly on the l. side; or else with violent pains, throbbings, and tension proceeding from the forehead, with bewilderment of the whole head, after a meal. Numbness in the orbits, within doors and towards night; above all in the air. Pressure at the occiput. Tension at the sinciput, with pressure and dartings. Squeezing in the temples. Tearings, ascending towards the vertex; in the forehead, extending to r. temple, where they become lancinations. Lancinations in forehead, above r. eye; in l. temple; between the occiput and the nape of the neck. Congestion in the head, proceeding from the abdomen, with hot skin and perspiration. Externally, pricking in the teguments of the head; tingling at the occiput; jerking of the head; burning at the temple, as by live coals; sensitiveness of the teguments of the head: the hat gives pain.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Sensitiveness of head ; weight of hat causes headache. Heat and heaviness in head, soreness in eyeballs when turning eyes ; bad taste in mouth, feels clammy and nasty ; thirst ; weak, faint spells ; flushes of heat. Sticking pain in head, eyes and forehead. Headache worse in morning. Sensitiveness of head to pressure of hat. Boring of head into pillow ; fontanelles sunken. θ Cholera infantum. Crusta lactea.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "eyes": [
-      {
-        "text": "Granular lids; pustules of cornea. Red and raw appearance. Feel drawn backward. Eruptions around eyes. Tensive pain above right orbit",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Lancinations, esp. in l. eye; jerkings and dartings in the angle of the l. eye; with frequent contractions and jerking of the whole eye; contractive pains in the l. eyelids, esp. towards the internal angle. Sensation as of a string pulling eyeball back into head. Stinging in the eyeball. Itching of the eyelids. Irritation of the conjunctiva. Inflammatory redness of the l. conjunctiva. Ulceration of the conjunctiva, contraction of the pupil, and profuse lachrymation and dimness of the cornea. Hypopion. Inflammation of the eye, in which a drop of oil has been introduced, extending over the whole side of the face. Burning pain in the inflamed eye, with burning in the ear, vertigo, and fainting. Œdematous swelling of the eyelids. Small vesicles round the eye. Swelling of a subcutaneous gland below the inferior r. eyelid, with redness of the skin. Much quivering of the eyelids. Lachrymation. Sight bedimmed, as though crossed by a fog or by smoke; cloud before the weak eye; before both; the sight is lost, sometimes as by vertigo (in a room), or else by heaviness and weakness of the eyes.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Opacity of cornea. Keratitis pustulosa : with much eruption on lids and face ; with excessive photophobia. Ulceration of conjunctiva, contraction of pupil, profuse lachrymation and dimness of cornea. Conjunctivitis pustulosa, eyes feel hot and burning, especially at night ; face red and burning ; feverish ; marked photophobia, ciliary injection, with considerable pain in and around eye, usually worse at night. Pustules terminating in ulcers and ulceration of cornea, with much pain in supra-ciliary region and eruption on face ; much pain in eye, whenever a movement from bowels occurred. Iritis with pustular eruption on face. Irritation and inflammatory redness of conjunctiva. Violent ophthalmia ; on second day, ulceration of conjunctiva over cornea and sclera, irritation of sclera and iris ; contraction of pupil ; injected state of vessels of conjunctiva, sclera and eyelids, profuse lachrymation, photophobia, violent pains disturbing night's rest ; burning and violent pain of eye. Pain which seemed to extend from pupil of left eye to back part of head. θ Neuralgia. Sensation as of a string pulling eyeball back into head. Sticking pain in eyes ; eyes swollen ; veil before eyes. Stinging in eyeball. Soreness in eyeballs when turning eyes. Burning pain in inflamed eye, with burning in ear, vertigo and fainting. Blepharitis with vesicular eruption on lids and face. Itching of eyelids. Œdematous swelling of eyelids (eyelids look puffed). Twitching of eyelids. Copious lachrymation.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "stool_rectum": [
-      {
-        "text": "Copious watery stools, with much urging; always forcibly shot out, with gurgling in intestines; worse, drinking the least quantity, or even while eating. Constant urging to stool, followed by sudden evacuation. Swashing sensation in intestines",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Urgent inclination to go to stool: with rumbling and pinching in the abdomen; as from heat and agitation in the abdomen; with pressure on the anus, as in diarrhœa; in the morning in bed, and after getting up, stool, followed by excoriating pain in the anus; sudden, immediately after rising or commencing exercise; so pressing that the closet cannot be reached soon enough. Stools: soft, like pap, sometimes with burning at the anus; viscid, of good consistence, mucous, aqueous, sometimes copious and frequent, even at night, or else with lancinations in the anus; liquid, with scraping at the anus; yellow, loose, sometimes after vomiting, or else following sweat, mucous, with tenesmus; dark green, liquid, followed by long-continued debility; now firm, afterwards bilious mucous, and finally aqueous; brown, pap-like, with mucus, or else followed by borborygmi in the l. side: greyish-green, dirty brown, quick, and ejected by one effort. Stool as soon as he drinks (the child has a stool and colic as soon as it nurses). After taking coffee, the stools (frequent) cease. After the stool, drawings and pressure in the upper part of the abdomen, and the umbilical region. Ejection of ascarides, and of the tænia solium. Pressure and tenesmus in the rectum, with cutting pains going round it on being seated. In the anus: burning, which sometimes does not permit the patient to remain seated, with swelling of the surrounding parts, or with pulsations and lancinations; scraping after a stool; pains of excoriation and burning after taking exercise, contractive and lancinating pains in walking; pain as if a peg were endeavouring to pass out; pain of excoriation after the stool, with prolapsus ani, and inclination to go to stool, and on compressing the abdomen, pressure on the anus extending to the genital parts and the glans; with this, much anguish, oppression, sweat on the forehead, and nausea, with loss of sight and hearing; rest soothes the pains.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Flatulence, soon followed by urgent desire for stool. Evacuation sudden, and with much flatus. Stools occur suddenly, one gush and it is finished, great prostration after a passage. θ Cholera infantum. Constant urging to stool, followed by sudden, pasty evacuation, which is shot out of rectum, of a dirty green color and offensive. Watery, yellow, at times slightly green passages, passed in a single gush ; each stool seems to \"drain child dry\", but notwithstanding, very little prostration, passages every half hour, from 8 A. M. till evening, none at night. Pasty, light brown stool covered with mucus, with frequent urging, followed by rumbling, gurgling in left side of abdomen. Stool : dark green ; tenacious, mucous ; watery, mixed with whitish flakes ; watery, painless ; coming out like a shot ; < from drink and food. During stool : sweat, nausea ; colic ; scraping of posterior wall of rectum ; disagreeable sensation through whole body ; nauseous taste ; protrusion of rectum. After stool : sweat on forehead ; pressing in epigastrium and umbilicus, with protrusion of rectum and constant urging to stool ; nausea, with fainting ; great pallor, weakness and prostration. Stools preceded by colic and borborygmus ; during stool cutting in abdomen with sensitiveness ; after stool, burning in anus ; greatest prostration, patient even fainting ; coldness of body ; dizziness ; face sunken and altered in expression. θ Cholerine. Vomiting and diarrhœa after taking least nourishment ; stools profuse, watery, yellow and at times yellowish-green ; stool passed with a single gush ; has about twenty-five stools during day, none at night ; extreme prostration and emaciation ; symptoms of hydrocephaloid already developed ; boring of head in pillow ; fontanelles sunken ; body and extremities cool ; convulsions. θ Cholera infantum. Diarrhœa coming on suddenly ; pain in abdomen, faint feeling before, during and after stool ; sweat on face after stool. Gushing, sudden discharge of watery stool, mixed with undigested food, immediately after feeding, with great weakness and pallor, vomiting at same time. Diarrheic attack during night, very copious fecal evacuations, gradually losing their natural color and consistence with each successive stool ; swashing feeling and sound in abdomen ; great apprehension of a serious termination. θ Diarrhœa. Every movement of body renews discharges, producing at first very violent pain in bowels with tenesmus ; discharges frequent and small. Intermittent diarrhœa, with great and sudden weakness. Diarrheic stool accompanied by sweat, tenesmus, or with nausea and colic. Diarrhœa : worse after drinking ; while nursing ; while eating ; during Summer ; from fruit and sweetmeats. Upon pressure at umbilicus, a painful sensation is felt down to anus, where there is constant pressure outward. Dragging in anus, as if diarrhœa would easily ensue. Burning in anus. Pain in anus, as if a plug was forcing outward. At anus : itching ; pulsations ; constrictive sensation ; stitches.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "urinary": [
-      {
-        "text": "Night urine foaming; dark orange color; turbid on standing; greasy particles floating on top. Day urine is pale, with white sediment",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "In the r. renal region, violent lancinations, which cut short respiration. Inclination to urinate, sometimes immediately after having made water; increased emission, sometimes with frequency, even every half-hour. Urine: yellow, copious; cloud in the urine, which is sometimes turbid; after the cloud has disappeared, brown crystallisations float in its place; urine pale, frothy, in the morning; pale, with white sediment, in the daytime; orange-yellow pale at night, a little turbid and fleecy at the bottom; high-coloured, fiery-red, and very fleecy; night and morning; blood-red, depositing much mucus at the bottom, which, on being disturbed, forms elongating threads; thick sediment in the urine, afterwards urine with a streaked coating. When urinating, heat in the urethra, or in the glans.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Burning in urethra when urinating. Increased secretion of (turbid) urine. Urine dark and fiery, flocculent with greasy particles floating on top ; turbid sediment which is somewhat lighter colored at bottom of vessel. Night urine is foaming, pale, orange-colored, with a slightly turbid appearance at bottom of vessel, first part of urine being a little flocculent. Blood-red urine, exhibiting a quantity of mucus at bottom of vessel, which is drawn into threads by shaking. After lapse of twenty-four hours, brownish crystals form, floating about at spot where the cloud was seen and deposited on walls of vessel.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "chest_heart": [
-      {
-        "text": "Drawing-pain through the left chest into the back. Asthma, with cough; cannot expand the chest. Nursing women; every suck the child gives produces pain from nipple back. Inflamed breasts. Cough; as soon as he touches the pillow must get up. Sensitive to deep breathing",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Respiration impeded by aching in the abdomen: difficult, with oppression; sometimes with anguish. Respiration laboured sometimes with fulness and anguish in the chest. Respiration short, after a stool. Dyspnœa aggravated on going up stairs. Chest painful on pressing upon it. Fulness and painful sensitiveness of the two cavities, with burning lancinations on l. side, and towards the shoulder-blades, or else with pressure and burning on r. side, and on l. Particular uneasiness in the chest and abdomen. Feeling of emptiness in the chest. Pressure on the chest: in breathing deeply; violent in the evening; deep in the middle of the chest. Lancinations in the chest: below, to r., during in inspiration; sometimes on l. side, esp. in the evening. Pulsation, backwards from the r. side. Burning in the chest, sometimes violent, extending to the intestines. Palpitation of the heart: sometimes violent, such as may be felt externally; during coition; after a meal, esp. on lying down; sudden throbbing in the region of the aorta. Palpitation of the heart, with difficulty of breathing, esp. on going up stairs. Frequent lancinations in the region of the heart, sometimes more esp. during inspiration; frequent jerkings towards the heart; the l. ventricle of the heart is chiefly affected. Externally, pulsation, and throbbing-bubbling in (r.) side of chest; tearing pains.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Sensation of hollowness in chest, as if everything was hanging down. Feeling of fulness in both sides of chest, with burning stitches in left side of thorax and towards both scapulæ. Drawing pain through left pectoral region into back. Palpitation of heart, with difficulty of breathing, especially on going up stairs. Stitches in region of heart during an expiration. Pulse frequent and full. Chest painful when touched.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "skin": [
-      {
-        "text": "Feels hide-bound. Intense itching; but scratching is painful. Pustular eruption, especially on face and genitals, with fearful itching, followed by painful burning. Vesicles; confluent oozing. Vesicular erysipelas, itching exceedingly. Herpes zoster; stinging, smarting pains of the eruption",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Heat, esp. of the hands, with swelled veins. Itching, followed by burning pain. The patient can't bear to scratch very hard as it hurts; a very slight scratch, a mere rub suffices to allay the itching. Erysipelas that itches exceedingly. Vesicular inflammation (scarlet redness) of the skin. Redness, warmth, stinging here and there, with pustules, running into one, oozing and forming a grey-brown crust on the day following, which finally falls off. Pustules, with inflammation, nearly general, of the teguments of the abdomen, followed by desquamation. Herpetic eruption on the scrotum.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Sensation as if hide-bound. Eruptions itch very much, patient, however, is not able to scratch very hard as it hurts ; a very slight scratch, a mere rub suffices to allay the itching. Erysipelas, with excessive itching. Itching followed by painful burning. Intense itching, > by very gentle scratching. Scarlet redness of skin (with vesicles). Redness, warmth, stinging here and there ; pustules running into one, oozing and forming a grey brown crust, which finally falls off. Red moist spot, exuding offensive moisture, on left thigh opposite scrotum ; it is painfully sore to touch and on walking ; troublesome smarting when walking. Itching and painful burning, with redness of skin ; formation of vesicles and pustules ; desiccation of pustules ; desquamation and falling off of pustules. Eczema over whole body to soles of feet, with violent itching. Eczema on face and genitals. Erysipelas of face ; œdematous indented eyelid and large water blisters on chin. Pure idiopathic eczema, such as usually appears in children. Vesicular eruption, with itching, burning, stinging, and redness of skin, and speedy development of sero-purulent exudation. Vesicles, especially on abdomen, confluent and form large brown scabs, < after eating, > after sleep, > by gentle rubbing ; swelling of the glands. Herpetic eruption on scrotum. Pustules, first size of millet seeds, growing larger, oozing and forming a grey brown crust. Pustular eruption upon an inflamed base on septum nasi, plugging nostril ; with itching and stinging pain. Itching pustules. Right face first affected, then left, or it may go downward, involving scrotum. θ Rhus poisoning. Impetigo ; prurigo ; pustules.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "modalities": {
-      "better_from": [],
-      "worse_from": [
-        {
-          "text": "least food or drink; during summer; touch, night and morning, washing",
-          "source_id": "boericke-1927"
-        }
-      ]
-    },
-    "relationships": {
-      "antidoted_by": [
-        "Ant tart"
-      ],
-      "_raw": [
-        "Antidoted by: Ant. t. Antidote to: Rhus. Compatible: K. bro. Compare: Elat., Verat., Ricin., Euphorb., Anac., Colch., Rhus, Phos.; in pains in breast, Bry., Borax., Phelland., and Sil.; in faintness during stool, scanty stools, Dulc., Ox. ac., Petrol., Sars., Sul. (stools not scanty, Apis., Nux mosch., Puls., Spi., Ver.); faintness after stool, Nux.",
-        "Antidoted by : Ant. tart",
-        "It antidotes : Rhus tox",
-        "Compatible : with Kali brom. cured chronic infantile diarrhœa",
-        "Compare : Anac., Apis, Colchic., Mezer., Rhus tox., Veratr., Phelland, Phosphor., Silic. (pain from the nipple through to the back)",
-        "Copyright © Médi-T ® 2002",
-        "Main"
-      ]
-    },
-    "dosing": {
-      "notes": "Sixth to thirtieth potency"
-    },
     "mental_emotional": [
       {
         "text": "Sadness, sometimes with dislike to labour; or else with anxiety, and displeasure concerning everything. Frequent melancholy. Agitation. Grumbling, discontented humour. Dislike to labour. Nothing is desired but loitering, and to avoid all serious undertakings. Disordered aspect, with eyes haggard, sparkling. Weakness of memory. Feeling as though one cannot think outside of himself, \"feels all pent up\" inside, and no chance for the thoughts to flow out.",
@@ -571,7 +572,6 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
-      "allen-keynotes-1899",
       "boericke-1927",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",

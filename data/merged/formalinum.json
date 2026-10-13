@@ -1,14 +1,17 @@
 {
   "id": "formalinum",
   "names": {
-    "primary": "FORMALINUM",
-    "latin": "FORMALINUM",
+    "primary": "Formalinum",
+    "latin": "Formalinum",
     "common": [
       "Aqueous Solution (35 per cent) of Formaldehyde Gas (FORMALIN)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

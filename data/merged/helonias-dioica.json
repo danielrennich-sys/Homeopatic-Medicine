@@ -1,17 +1,19 @@
 {
   "id": "helonias-dioica",
   "names": {
-    "primary": "Helonias Dioica. Unicorn Plant. (Melanthaceae.)",
-    "latin": "Helonias Dioica. Unicorn Plant. (Melanthaceae.)",
+    "primary": "Helonias Dioica",
+    "latin": "Helonias Dioica",
     "common": [
       "Unicorn-root (HELONIAS - CHAMAELIRIUM)"
     ],
     "synonyms": [
-      "HELONIAS DIOICA",
-      "Helonias Dioica"
+      "Helonias Dioica. Unicorn Plant. (Melanthaceae.)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -134,6 +136,12 @@
         {
           "text": "motion, touch",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Helon.]. Stooping : < pain in head ; pain in occiput <. Sitting down : tired aching in sacral and lumbar region. Motion : burning sensation in top of head > ; numbness in feet > ; feels uterus move ; menstrual flow < ; pain in hip-joint < ; profound debility > ; of arms causes chills. Wants to be continually moving about. Least exertion : causes loss of fetus. Going up stairs : palpitation. Can walk but a few steps at a time. Walking : excites pain during pregnancy. Morning : yellow stools ; headache in occiput. During day : sleepy ; colic-like pain in hypogastric region. Afternoon : weariness, languor, weight in region of kidneys ; mind dull, inactive. At 2.30 P. M. : dull heat and pressure in vertex. Evening : weariness, languor ; mind inactive ; sensation as if cold wind was blowing up her limbs. Night : must get up several times to urinate ; frequent erections ; burning and heat in dorsal region ; pain in back < ; in upper part of sacrum and pelvis <. Air : chest sensitive to. Warm room : < toothache. Warm moist air : < sore throat. From being in hot sun : eyes inflamed and burning.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

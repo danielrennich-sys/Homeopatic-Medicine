@@ -1,14 +1,19 @@
 {
   "id": "tanacetum-balsamita",
   "names": {
-    "primary": "Tanacetum balsamita (LINN.)",
-    "latin": "Tanacetum balsamita (LINN.)",
+    "primary": "Tanacetum Balsamita",
+    "latin": "Tanacetum Balsamita",
     "common": [
       "Costmary"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Tanacetum balsamita (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "melaleuca-leucadendron",
   "names": {
-    "primary": "Melaleuca leucadendron (LINN.)",
-    "latin": "Melaleuca leucadendron (LINN.)",
+    "primary": "Melaleuca Leucadendron",
+    "latin": "Melaleuca Leucadendron",
     "common": [
       "Cajuput"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Melaleuca leucadendron (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

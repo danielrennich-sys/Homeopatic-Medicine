@@ -1,14 +1,19 @@
 {
   "id": "scilla-nutans",
   "names": {
-    "primary": "Scilla nutans (S. M.) Hyacinthus nonscriptus (LINN.)",
-    "latin": "Scilla nutans (S. M.) Hyacinthus nonscriptus (LINN.)",
+    "primary": "Scilla Nutans",
+    "latin": "Scilla Nutans",
     "common": [
       "Bluebell"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Scilla nutans (S. M.) Hyacinthus nonscriptus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

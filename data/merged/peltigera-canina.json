@@ -1,14 +1,19 @@
 {
   "id": "peltigera-canina",
   "names": {
-    "primary": "Peltigera Canina (HOFFM.)",
-    "latin": "Peltigera Canina (HOFFM.)",
+    "primary": "Peltigera Canina",
+    "latin": "Peltigera Canina",
     "common": [
       "Liverwort, English"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Peltigera Canina (HOFFM.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

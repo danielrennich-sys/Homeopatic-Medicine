@@ -8,12 +8,14 @@
       "Violet, Sweet"
     ],
     "synonyms": [
-      "VIOLA ODORATA",
-      "Viola odorata (LINN.)",
-      "Viola odorata"
+      "Viola odorata (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -115,6 +117,12 @@
         {
           "text": "cool air",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Viol. o.]. Lies on back during sleep, left hand above head, knees bent. Bending head forward and backward : tension in scalp <. Morning : bruised pain in bones on awaking ; yawning. Daytime : dyspnœa and cough <. Toward evening : dryness and burning in lids. Evening : pain in cervical muscles. After staying in a cold room during Fall season : hoarseness.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

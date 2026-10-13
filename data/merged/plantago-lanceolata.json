@@ -1,14 +1,17 @@
 {
   "id": "plantago-lanceolata",
   "names": {
-    "primary": "Plantago lanceolata",
-    "latin": "Plantago lanceolata",
+    "primary": "Plantago Lanceolata",
+    "latin": "Plantago Lanceolata",
     "common": [
       "Plantain, Ribwort"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

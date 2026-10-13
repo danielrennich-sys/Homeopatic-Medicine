@@ -1,14 +1,19 @@
 {
   "id": "echium-vulgare",
   "names": {
-    "primary": "Echium vulgare (LINN.)",
-    "latin": "Echium vulgare (LINN.)",
+    "primary": "Echium Vulgare",
+    "latin": "Echium Vulgare",
     "common": [
       "Bugloss, Viper's"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Echium vulgare (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

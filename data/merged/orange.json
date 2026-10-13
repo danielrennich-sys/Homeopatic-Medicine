@@ -1,14 +1,19 @@
 {
   "id": "orange",
   "names": {
-    "primary": "Orange, Bitter",
-    "latin": "Orange, Bitter",
+    "primary": "Orange",
+    "latin": "Orange",
     "common": [
       "Orange, Bitter"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Orange, Bitter"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

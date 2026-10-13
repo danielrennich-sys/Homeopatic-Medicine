@@ -8,11 +8,13 @@
     ],
     "synonyms": [
       "Crotalus Horridus. Poison of Rattlesnake (Crotalidae)",
-      "CROTALUS HORRIDUS",
       "Crotalus Horridus (Rattlesnake)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -642,6 +644,12 @@
         {
           "text": "right side; open air; evening and morning; in spring, coming on of warm weather; yearly; on awaking; damp and wet; jar",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Crot. h.]. Resting head : > vertigo. Lying down : headache compels. Cannot lie on left side. On lying on right side or back : dark green vomiting. When lying on left side ; sensitiveness of heart. Cannot bear right leg straightened, lies with it bent and supported by a pillow. Head thrown up and backward, with diphtheria. Sinking down towards foot of bed. Sitting : legs go to sleep. Standing : oozing of blood from anus ; great tendency of hemorrhoids to bleed. Motion : vomiting ; soreness in back part of head < ; nausea ; heat in forehead and burning in chest <. Can hardly raise himself in bed. Sitting up in bed : soreness in back part of head <. On assuming upright position : fainting. Legs go to sleep when crossing them. On moving arm : pain from right shoulder along neck <. On sewing : going to sleep of hands. Walking : headache, with vertigo, nausea and vomiting > ; oozing of blood from anus ; as if a tendon was drawing from sole of right foot through bone of leg during and after. Going up stairs : aching in region of heart, down left arm and through to left shoulder blade, also on ascending hill. Exertion : vomiting on least ; going to sleep of hands from least ; easily tired by slightest. Time. In morning : on awaking, headache over eyes ; sickness of stomach ; headache, going off while dressing ; pain around eyes < ; lids swollen, with pains in forehead and occiput ; sickness of stomach ; vomits everything she eats. In afternoon : can eat better. During day : feels sick if she sleeps. In evening : pains around eyes < ; swelling of feet. At night : awakes struggling with imaginary foes ; delirium ; headache with fever < ; wakes up grinding teeth, face much distorted ; sleeps only in middle of night. Open air : lightness of head ; headache with vertigo, nausea and vomiting better. Cold air : great irritability and sensitiveness of throat to dry or ; laryngitis acuta with great sensitiveness to dry or ; dry cough < in dry or. Summer : diarrhœa ; tubercle on wrist more pronounced.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

@@ -1,14 +1,19 @@
 {
   "id": "anemone-pulsatilla",
   "names": {
-    "primary": "Anemone pulsatilla (LINN.)",
-    "latin": "Anemone pulsatilla (LINN.)",
+    "primary": "Anemone Pulsatilla",
+    "latin": "Anemone Pulsatilla",
     "common": [
       "Anemone Pulsatilla"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Anemone pulsatilla (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

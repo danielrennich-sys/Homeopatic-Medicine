@@ -1,18 +1,19 @@
 {
   "id": "stannum-metallicum",
   "names": {
-    "primary": "Stann",
-    "latin": "Stann",
+    "primary": "Stannum Metallicum",
+    "latin": "Stannum Metallicum",
     "common": [
       "Tin (STANNUM)"
     ],
     "synonyms": [
-      "STANNUM METALLICUM",
-      "Stannum metallicum",
-      "Stannum Metallicum"
+      "Stann"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {

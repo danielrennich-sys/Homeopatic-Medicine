@@ -1,14 +1,19 @@
 {
   "id": "chirata",
   "names": {
-    "primary": "Chirata (U. S. P.)",
-    "latin": "Chirata (U. S. P.)",
+    "primary": "Chirata",
+    "latin": "Chirata",
     "common": [
       "Chirata"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Chirata (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

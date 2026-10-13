@@ -1,19 +1,21 @@
 {
   "id": "lachnanthes-tinctoria",
   "names": {
-    "primary": "LACHNANTHES TINCTORIA",
-    "latin": "LACHNANTHES TINCTORIA",
+    "primary": "Lachnanthes Tinctoria",
+    "latin": "Lachnanthes Tinctoria",
     "common": [
       "Spirit-weed (LACHNANTHES)",
       "Lachnanthes"
     ],
     "synonyms": [
-      "Lachnanthes tinctoria (ELL.)",
-      "Lachnanthes Tinctoria",
-      "Lachnanthes tinctoria"
+      "Lachnanthes tinctoria (ELL.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "head": [
       {

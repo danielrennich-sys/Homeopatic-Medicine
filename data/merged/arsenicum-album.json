@@ -1,19 +1,20 @@
 {
   "id": "arsenicum-album",
   "names": {
-    "primary": "Ars",
-    "latin": "Ars",
+    "primary": "Arsenicum Album",
+    "latin": "Arsenicum Album",
     "common": [
       "Arsenious Acid-Arsenic Trioxide"
     ],
     "synonyms": [
-      "ARSENICUM ALBUM",
-      "Arsenicum Album",
-      "Arsenicum  Album",
-      "Arsenicum album"
+      "Ars",
+      "Arsenicum  Album"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mentals": [
       {
@@ -406,6 +407,12 @@
         {
           "text": "wet weather, after midnight; from cold, cold drinks, or food. Seashore. Right side",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Ars.]. From climbing mountains or other muscular exertions : want of breath, prostration, sleeplessness and other ailments. Cannot remain in same position. Lying in bed : gloomy forebodings ; asthma. Lying on back : pains about navel < ; burning pain in back. Lying down : must, on account of weakness ; pains worse. Sitting up in bed : toothache better. Must sit up in bed : asthma. Sitting : stitching in hemorrhoids. Sitting bent : ovarian pains worse. Half-sitting posture : sleeps in that way. Motion : flushes and chilliness with irritability ; sensation of brain beating against skull ; head confused in paraplegia ; headache < ; eyes more painful ; ovarian pains < ; constriction of chest < ; > gouty and rheumatic pains in limbs. causes fainting ; < heat. Walking : reels with headache ; relieves pain in supraorbital region and teeth ; headache < ; stitches in hemorrhoids ; cough in open air ; causes fainting ; in open air, shuddering. Ascending : asthma < ; constriction of chest ; aggravates valvular troubles. Must move : head and feet in hemicrania ; cannot lie still. Bending over : ovarian pains worse. Rising up in bed : beating in head < ; excessive nausea And vomiting. Turning in bed : breathless. Evening : periodical throbbing in head ; swollen frontal eminences < ; otalgia < ; loss of breath ; constriction of chest and anxiety ; chilliness in chest ; cramp in legs ; sopor ; crawling. At 2 P. M. : headache begins to lessen. At 3 P. M. : chill. At 10 P. M. : ophthalmia decreased. At 12 P. M. : springs out of bed with asthma. After midnight : restlessness and anxiety < ; ophthalmia < ; diarrhœa < ; asthma > ; coldness of extremities < ; heat with anxiety. Night : periodical throbbing in head ; pains of erysipelas < ; pulsating stitches in eyes ; pains in and over eyes reach their acme ; diarrhœa < ; hemorrhoids more painful ; croup < ; cough < ; no expectoration ; hæmoptysis ; palpitation. < ; valvular troubles are aggravated ; rheumatic pains in arm < ; cannot lie still ; pains < ; restlessness < ; itching and burning < ; chilliness ; heat. Day and night : colic. Midnight till morning : restless slumber. At 2 A. M. : cramp in stomach ; asthma ; fever and sweat. From 1 to 5 A. M. : angina pectoris. Until 3 A. M. : sleepless. About 3 A. M. : awaked by fever and backache. After 3 A. M. : sleep disturbed. After 4 A. M. : no sleep from pain in ulcerated leg. Morning : periodical throbbing in head ; putrid sweet taste ; diarrhœa ; hacking cough ; faint, anxious, weak, sweat ; rigor with cramp in chest. At 5 A. M. : ophthalmia begins. At 7 A. M. : headache begins. From 10 to 11 A. M. : chill. At 11 A. M. : headache reaches climax. Forenoon : coldness ; fever attacks mostly begin. Noon : ophthalmia at acme ; paroxysm of fever. Afternoon chill towards 4 o'clock : conjunctivitis periodical. Daytime : expectoration ; chill, sweat at night. Changes of warmth and cold : oppressed breathing. Cold washing : beating in head >. Cold damp cellars : induce attacks of sciatica and asthma. Cold weather : sore nose < ; excites toothache. Stormy weather : oppressed breathing. Cold water : makes teeth sensitive. Sea bathing : induces many complaints. Open air : headache < ; heaviness of head > ; head sensitive to ; ophthalmia > ; humming in ears > ; suffocative cough when walking. Uncovering ; head <. Warm wraps : head >. Warm applications : generally > ophthalmia. Warm clothing : oppressed breathing <. Warm room : humming in ears <. Heat : hemorrhoids >. Hot stove : toothache >.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

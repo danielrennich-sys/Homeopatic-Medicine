@@ -1,17 +1,19 @@
 {
   "id": "cenchris-contortrix",
   "names": {
-    "primary": "CENCHRIS CONTORTRIX",
-    "latin": "CENCHRIS CONTORTRIX",
+    "primary": "Cenchris Contortrix",
+    "latin": "Cenchris Contortrix",
     "common": [
       "Copperhead Snake (ANCISTRODON)"
     ],
     "synonyms": [
-      "Cenchris Contortrix",
       "CENCHRIS CONTORTRIX : PROVING"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

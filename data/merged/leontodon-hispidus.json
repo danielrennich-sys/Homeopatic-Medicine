@@ -1,14 +1,19 @@
 {
   "id": "leontodon-hispidus",
   "names": {
-    "primary": "Leontodon hispidus (LINN.)",
-    "latin": "Leontodon hispidus (LINN.)",
+    "primary": "Leontodon Hispidus",
+    "latin": "Leontodon Hispidus",
     "common": [
       "Hawkbit, Rough"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Leontodon hispidus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

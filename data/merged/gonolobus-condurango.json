@@ -1,14 +1,19 @@
 {
   "id": "gonolobus-condurango",
   "names": {
-    "primary": "Gonolobus Condurango (NICHOLS)",
-    "latin": "Gonolobus Condurango (NICHOLS)",
+    "primary": "Gonolobus Condurango",
+    "latin": "Gonolobus Condurango",
     "common": [
       "Condurango"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Gonolobus Condurango (NICHOLS)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

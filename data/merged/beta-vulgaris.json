@@ -1,14 +1,17 @@
 {
   "id": "beta-vulgaris",
   "names": {
-    "primary": "BETA VULGARIS",
-    "latin": "BETA VULGARIS",
+    "primary": "Beta Vulgaris",
+    "latin": "Beta Vulgaris",
     "common": [
       "Beet-root"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "veronica-beccabunga",
   "names": {
-    "primary": "Veronica beccabunga (LINN.)",
-    "latin": "Veronica beccabunga (LINN.)",
+    "primary": "Veronica Beccabunga",
+    "latin": "Veronica Beccabunga",
     "common": [
       "Brooklime"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Veronica beccabunga (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

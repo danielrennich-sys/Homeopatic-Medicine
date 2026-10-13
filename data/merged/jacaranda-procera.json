@@ -1,14 +1,19 @@
 {
   "id": "jacaranda-procera",
   "names": {
-    "primary": "Jacaranda procera (SPRENG.)",
-    "latin": "Jacaranda procera (SPRENG.)",
+    "primary": "Jacaranda Procera",
+    "latin": "Jacaranda Procera",
     "common": [
       "Caroba"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Jacaranda procera (SPRENG.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "ferula-galbaniflua",
   "names": {
-    "primary": "Ferula galbaniflua (BOISS. ET BUHSE)",
-    "latin": "Ferula galbaniflua (BOISS. ET BUHSE)",
+    "primary": "Ferula Galbaniflua",
+    "latin": "Ferula Galbaniflua",
     "common": [
       "Galbanum"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ferula galbaniflua (BOISS. ET BUHSE)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

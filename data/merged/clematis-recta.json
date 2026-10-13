@@ -1,14 +1,17 @@
 {
   "id": "clematis-recta",
   "names": {
-    "primary": "Clematis recta",
-    "latin": "Clematis recta",
+    "primary": "Clematis Recta",
+    "latin": "Clematis Recta",
     "common": [
       "Clematis"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

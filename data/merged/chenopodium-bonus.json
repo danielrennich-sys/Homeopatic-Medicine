@@ -1,14 +1,19 @@
 {
   "id": "chenopodium-bonus",
   "names": {
-    "primary": "Chenopodium Bonus Henricus",
-    "latin": "Chenopodium Bonus Henricus",
+    "primary": "Chenopodium Bonus",
+    "latin": "Chenopodium Bonus",
     "common": [
       "Goosefoots"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Chenopodium Bonus Henricus"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

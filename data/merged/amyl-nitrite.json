@@ -1,12 +1,15 @@
 {
   "id": "amyl-nitrite",
   "names": {
-    "primary": "AMYL NITRITE",
-    "latin": "AMYL NITRITE",
+    "primary": "Amyl Nitrite",
+    "latin": "Amyl Nitrite",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

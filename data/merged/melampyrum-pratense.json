@@ -1,14 +1,19 @@
 {
   "id": "melampyrum-pratense",
   "names": {
-    "primary": "Melampyrum pratense (LINN.)",
-    "latin": "Melampyrum pratense (LINN.)",
+    "primary": "Melampyrum Pratense",
+    "latin": "Melampyrum Pratense",
     "common": [
       "Cow-Wheat"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Melampyrum pratense (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

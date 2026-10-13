@@ -1,14 +1,19 @@
 {
   "id": "plantago-psyllium",
   "names": {
-    "primary": "Plantago Psyllium (LINN.)",
-    "latin": "Plantago Psyllium (LINN.)",
+    "primary": "Plantago Psyllium",
+    "latin": "Plantago Psyllium",
     "common": [
       "Plantain, Psyllium"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Plantago Psyllium (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

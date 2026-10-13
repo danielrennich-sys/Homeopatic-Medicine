@@ -1,17 +1,19 @@
 {
   "id": "lac-caninum",
   "names": {
-    "primary": "Lac Caninum. Dogs (Milk.)",
-    "latin": "Lac Caninum. Dogs (Milk.)",
+    "primary": "Lac Caninum",
+    "latin": "Lac Caninum",
     "common": [
       "Dog's Milk"
     ],
     "synonyms": [
-      "LAC CANINUM",
-      "Lac Caninum"
+      "Lac Caninum. Dogs (Milk.)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -344,6 +346,12 @@
         {
           "text": "morning of one day and in the evening of next",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Lac. c.]. Rest : headache >. Lying on back : with hands over face, falls asleep ; separating knees as far as possible > soreness of vulva. Lying down : thinks how horrible it would be if a very sharp pain, like a knife, should go through her ; causes congestion ; cough < ; does not seem to touch bed. Could not lie flat : great difficulty in breathing. Sitting : as if she was going deranged. Bending head forward : causes congestion. Leaning forward : nausea ; pain in abdomen <. Standing : leucorrhœa <. Cannot find comfortable position in bed, there is no way she can put her hands that they do not bother her. Motion : painful on account of soreness of ovarian region ; > hoarseness ; pains in hip and knee joints < ; soreness of joints < ; sharp, darting pains in knee and ankle < ; pain in knee <. Flexing leg on abdomen : tension in groin >. Cannot straighten herself : pain in back. Could not raise arm : pain in shoulder. Exertion : dull pain in left superior maxillary. Must jump up and stir about to > feeling as if breath would leave her. Walking : leucorrhœa < ; sores between labia and thighs < ; pain in right leg ; felt as if walking on air. Does not want to walk or stand : sensation in groin <. Going down stairs : trembling of leg. Morning : dull, frontal headache ; left superior maxillary feels sore ; nausea, weak, sinking feeling in stomach pit ; much prostration. At 4 A. M. : copious epistaxis. At 9 A. M. : sharp pain on top of head. Noon : throat > ; soreness of vulva comes suddenly. Day : pains in head. Afternoon : headache ; hoarseness ; constriction of chest. Evening : abdomen hard and swollen ; intense soreness of vulva ; aching in breasts. At 9.45 P. M. : dyspeptic pain in stomach pit. Night : constant noise in head < ; sensation as if bed was in motion ; sore spot in left side of throat removed by 1 A. M. ; next night same on right side ; pain in tonsil ; gnawing < ; felt she would suffocate ; throat < ; dreams of urinating ; urine frequent ; rheumatic pains < ; burning of hands and feet ; very restless ; limbs cold. After midnight : very severe frontal headache. Heat : soreness of joints < ; pains in ankles > while heat is applied. Warm room : pain in forehead >. Warm applications : pains in superior maxillary >. Open air : headache > ; mucus in mouth <. Exposure to draft : severe pain in right shoulder. Cold night air : sharp, darting pains in knee and ankle. During and after a cold northeast storm : throat <. Cold winds : terrible pain in forehead. Washing : causes pain in herpetic eruption. Cold applications : soreness of superior maxillary > ; pain in upper canines >. Cold water : sore throat momentarily >.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

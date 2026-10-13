@@ -1,14 +1,19 @@
 {
   "id": "ichthyocolla",
   "names": {
-    "primary": "Ichthyocolla (U. S. P.)",
-    "latin": "Ichthyocolla (U. S. P.)",
+    "primary": "Ichthyocolla",
+    "latin": "Ichthyocolla",
     "common": [
       "Isinglass"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ichthyocolla (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

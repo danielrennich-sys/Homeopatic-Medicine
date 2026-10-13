@@ -9,13 +9,16 @@
     ],
     "synonyms": [
       "Eupatorium Perfoliatum. Boneset. (Compositae.)",
-      "EUPATORIUM PERFOLIATUM",
+      "Eupatorium. Eupatorium perfoliatum",
       "Eupatorium perfoliatum (LINN.)",
-      "Eupatorium Perfoliatum (Boneset)",
-      "Eupatorium perfoliatum"
+      "Eupatorium Perfoliatum (Boneset)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -411,6 +414,12 @@
           "text": "periodically",
           "source_id": "boericke-1927"
         }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Eup. per.]. Must lie high with head and shoulders, on account of dyspnœa. After lying : pain in occiput. While in great pain he lies quiet. Lying on back : cough <. Could not raise head from pillow. Kneeling with face towards pillow : cough >. While sitting, aching in hips. Must support chest with hands during cough. Cannot lie on left side. Rising : in bed, vertigo ; pain in forehead > ; pain in neck and occiput > ; stiffness and general soreness when rising. Standing on foot : pain < ; soreness. Walks about crouched up. Walking : lameness of right hip and leg. Motion : faintness ; nausea ; stitches and soreness in hepatic region ; pains in cardiac region and behind sternum ; pain in occiput < ; pains in loins and soreness ; chilliness ; sweat <. Cannot turn body because of soreness behind sternum. Cannot keep still, although there is great desire to do so. Morning : attack of whirling around in brain ; attacks of chills ; diarrhœa ; sore throat < ; heat in soles of feet ; pains in bones ; chilliness ; slight perspiration. From 2 to 4 A. M. : cough. At 7 A. M. : chill. At 9 A. M. : stretchy and pale ; chill. Forenoon : fever. At 2 P. M. : severe headache with chill. From 10 A. M. to 4 P. M. : pains <. All day : sick headache. Evenings : cough < ; during sleep some sweat. Night : feels as if he was going out of his mind ; thirst ; sick stomach ; beating in epigastrium ; cough with headache ; chilliness ; coldness during sweat ; pungent heat and sweat. Wants to be warmly covered during chill. From uncovering : chilliness. Better in house : headache. Aggravated when first going in open air : headache. After being in an ice-house : chill and fever.",
+          "source_id": "hering-guiding-1879"
+        }
       ]
     },
     "dosing": {
@@ -507,6 +516,50 @@
     ],
     "indications": [
       {
+        "text": "Related entry: Eupatorium purpureum",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonyms—Boneset, Ague Weed.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Physiological Action—Stimulating tonic, aperient, diaphoretic, emetic, antiperiodic.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The action of this agent upon the stomach is somewhat unique, differing in some important particulars from that of other stomach tonics.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—It is valuable in catarrhal disorders of whatever nature, whether gastric, intestinal, post-nasal, bronchial or vesical. It has an undoubted soothing influence upon the nervous system, and is of much value in stomach disorders of nervous origin. In a case of neurasthenia of long standing, complicated with emphysema, the patient, an extremely nervous woman, persistently regurgitated all the food she took. There was no nausea, no vomiting; the food simply came back after it was swallowed. Fifteen drops of the fluid extract of boneset every two hours was given. The second day the patient was relieved, and there was no return of the disorder after the fifth day, for several months, when it recurred for a short time, but was promptly relieved by the same medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In a case of intractable hiccough in an old man, when every possible remedy had failed and death seemed inevitable, boneset, fifteen drops in an infusion of capsicum, every hour, produced a permanent cure.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is a typical diaphoretic, although not powerful in its action. In intermittent fever of the severest types, in remittent fever, in continued fevers of any type, and in the exanthemata, given in hot infusion in the early stages, it produces delightful results.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Dr. Locke says the remedy is specific in masked intermittent fever, in which there is sluggishness of every function and irregular occurrence of chill and fever, the fever followed with but little reaction, almost no perspiration, but with severe aching in the bones. He uses the infusion, made by steeping one ounce of the foliage of the plant in a quart of boiling water. Of this a half teacupful is given every fifteen minutes until the patient vomits thoroughly. He then puts the patient to bed and continues the remedy in smaller doses at lengthened intervals until the patient has perspired for two or three hours, when the medicine is discontinued and tonics are then given.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In conditions due to malaria, where there is intermittent headache, or severe irregular brow-ache, where many of the symptoms of ague are present, this remedy takes precedence over every other.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
         "text": "The flowering tops and leaves of Eupatorium perfoliatum, Linné (Nat. Ord. Compositae). Swamps and low meadows throughout the United States. Dose, 5 to 60 grains.Common Names: Boneset, Thoroughwort, Indian Sage, Ague Weed, Through-Stem, Thorough-Wax, Crosswort, Vegetable Antimony.",
         "source_id": "felter-eclectic-1922"
       },
@@ -588,6 +641,7 @@
       "boericke-1927",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
+      "ellingwood-1919",
       "felter-eclectic-1922",
       "grieve-modern-herbal-1931",
       "guernsey-keynotes-1887",

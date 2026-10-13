@@ -1,15 +1,145 @@
 {
   "id": "polymnia-uvedalia",
   "names": {
-    "primary": "Polymnia uvedalia (LINN.)",
-    "latin": "Polymnia uvedalia (LINN.)",
+    "primary": "Polymnia Uvedalia",
+    "latin": "Polymnia Uvedalia",
     "common": [
-      "Bearsfoot (American)"
+      "Bearsfoot (American)",
+      "Uvedalia"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Polymnia. Polymnia uvedalia",
+      "Polymnia uvedalia (LINN.)",
+      "Polymnia"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
+    "indications": [
+      {
+        "text": "Synonyms—Bearsfoot, leaf-cup, yellow leaf-cup.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Physiological Action—Given in large doses polymnia acts as an emeto-cathartic, producing painful evacuations, with severe emesis, and if pushed produces gastro-intestinal inflammation, dizziness, convulsions and even death.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Specific Symptomatology—It is indicated in conditions of inactivity of the organs, with passive fullness of the circulation of the parts, or of surrounding tissues which may be of a sodden inelastic character. Inactive engorgements, or stagnations of the circulation, are general conditions pointing to the use of this agent. Scudder gave as its indications full, flabby, sallow tissues, impaired circulation, glandular enlargement and other impaired functions from lack of tone.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—The older writers of our school lauded this remedy as of much importance in rheumatism. Others spoke of it favorably in the same class of cases in which phytolacca is used. Dr. Pruitt used it in the form of an ointment, in inflammation of the mammary glands, and other glandular inflammations, especially if abscesses had formed. The specific influence of the remedy, however, as agreed by all writers, is upon enlargement of the spleen. This gland is influenced in chronic malarial conditions, in scrofulous diseases and in tubercular difficulties. It is upon the malarial form of splenic enlargement that it acts to the best advantage.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It should be used freely internally, and externally the hot infusion must be applied. Other marked indications may be met with selected remedies.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is indicated also in the glandular and structural hypertrophy of other organs. A chronically enlarged inactive engorged liver, with tenderness on pressure, is quickly and satisfactorily cured by it. A womb enlarged from subinvolution or other hypertrophy, yields satisfactorily to its influence.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It has been used in mastitis or \"caked breast\" so-called, to excellent advantage, but its prolonged use may suppress the secretion of milk. It is an active stimulant to the removal of waste in all the conditions mentioned. The removal of chronic inflammatory deposits stimulates the capillary circulation to better action and relieves the aching pain and soreness common to such conditions.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It has been praised most highly in the treatment of rheumatism, lumbago, myalgia, and other painful conditions dependent upon the imperfect removal of the products of retrograde metamorphosis. It is a remedy of much value in scrofulous conditions with glandular indurations or abscess.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Its external application has relieved many cases of severe spinal irritation, especially if present with the general conditions named above as indicating the use of this agent.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Dr. Scudder gave the following list of disorders, in which it had a direct influence: Chronic enlargement of the spleen, chronic enlargement of the liver, chronic hypertrophy of the cervix uteri, chronic gastritis, chronic metritis with hypertrophy, uterine subinvolution and general glandular enlargement. The remedy, no doubt, stands at the head of spleen remedies, but it is not used as it should be, the younger physicians paying but little attention to it. It influences all of the ductless glands.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Dr. Felter says, when dyspepsia depends upon a sluggish circulation in the gastric and hepatic arteries, and is attended with full, heavy, burning sensation, in the parts supplied by these arteries, this is our remedy. It has benefited leucocythemia . lts use should be persisted in for weeks. A common cause of failure in the treatment of chronic diseases is the lack of persistency.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The solid extract of polymnia is readily incorporated with any ointment base, and the external use of the agent over enlarged glands is often as important as its internal use.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Scudder claimed that it was the best hair tonic in the materia medica, in the proportions of four ounces of the tincture with twelve ounces of bay rum, to be rubbed thoroughly into the scalp. A good combination would be castor oil three parts, glycerine one part, lanolin three parts, extract uvedalia two parts, melted and rubbed together and cooled. This should be rubbed thoroughly into the roots of the hair. The addition of a very small quantity of cantharides improves this in stubborn cases.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Anodyne laxative and stimulant, valuable in malarial enlargements of the spleen, swollen glands and dyspepsia caused by the spleen. Of great use applied externally in stimulating the growth of the hair, and is an ingredient of many American hair ointments and lotions.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "The root of Polymnia Uvedalia, Linné (Nat. Ord. Compositae). Central United States to Florida. Dose, 5 to 30 grains.Common Names: Uvedalia, Bear's Foot, Leaf Cup.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Principal Constituents.—A dark-brown, acrid resin and a straw-colored, balsam-like resin.Preparations.—1. Specific Medicine Polymnia. Dose, 1 to 30 drops.2. Unguentum Polymnia, Ointment of Polymnia (Uvedalia Ointment). Fresh Polymnia, 8; Lard or mutton tallow, 16. Light green in color.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Specific Indications.—Full, sodden, inelastic, flabby tissues; splenic and hepatic enlargement, with fullness, weight and burning in the hypochondriac and epigastric regions; congestion and impairment of the functions of the organs supplied by the celiac axis; impaired blood-making with tumid abdomen; low, inflammatory deposits.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—External. Uvedalia stimulates the growth of hair. Scudder advised the following hair tonic: Rx Specific Medicine Polymnia, 2 fluidounces; Bay Rum, 6 fluidounces. Mix. Sig.: Rub thoroughly into the scalp once or twice a day. Howe added to this lotion Tincture of Cantharis, 2 fluidrachms, and Fowler's Solution of Arsenic, 2 fluidrachms. Uvedalia ointment may be used, rubbed warm and well into the abdomen, for the reduction of engorged spleen (ague cake); the specific medicine must be administered internally at the same time. Its discutient powers have been taken advantage of in other painful swellings due to low inflammatory deposits and in mammitis particularly, scrofulous enlargement of the lymphatic glands, and spinal irritation.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Internal. Polymnia is one of the best of the spleen remedies reducing engorgement of that organ best when due to malarial cachexia. To a lesser degree it has a similar effect upon the liver. Its special field of activity is upon the parts supplied with blood by the celiac distribution. It is thought to favor a better splenic participation in blood-making; and may well be further studied for its influence upon all the ductless glands. In atonic dyspepsia and chronic gastritis depending upon a general cachexia, most often malarial, with a sluggish gastric and hepatic circulation, and attended by full, heavy, burning sensation it is often of signal benefit. It is still undetermined whether it exerts a specific influence upon leucocythemia; but it is certain that the correction of splenic and hepatic wrongs by this drug cannot but exert a beneficial effect. To be of any service in affections of the ductless glands it should be administered for a prolonged period. Scudder valued it for uterine subinvolution and hypertrophy of the cervix, when indicated by the sodden inelastic condition, pallid tissues and impaired circulation above referred to. Large doses of polymnia are said to produce painful emeto-catharsis, gastro-intestinal inflammation, convulsions and death.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Preparations: Fluid Extract of Polymnia",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The root of Polymnia Uvedalia, Linné. Nat. Ord.—Compositae. COMMON NAMES: Bearsfoot, Leaf-cup.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—This is a large, perennial plant, from 3 to 6 feet in height, and found in ravines, on the edges of woods, etc., in the central states, from Illinois to Florida. The stems are erect, stout, branched, and covered with a rough, hoary pubescence. The leaves are large, thin, opposite, deltoid in outline, and abruptly contracted at the base to short dilated leaf-stalks. They are 3-lobed, with acute, sinuate-angled lobes, bright green on both surfaces, and studded below with numerous rough points. The flower heads appear late in summer, and are disposed in loose, corymbose clusters. The involucre is double; the outer consisting of about 5 ovate, obtuse, leaf-like scales, which are ciliate on the margin; and the inner, of the smaller thin bracts of the pistillate flowers. The flower heads are radiate, and the receptacle chaffy. The ray flowers are about 10, in a single row, each being nearly 1 inch in length; they are oblong, of a bright-yellow color, and equally 3-toothed at the apex. The ray flowers are pistillate, and alone fertile, as the disk-florets, although perfect, do not produce fruit. The fruit is an obovoid, black achenium, slightly flattened, and ribbed lengthwise.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History, Description, and Chemical Composition.—Polymnia Uvedalia was introduced as a medicine, about 1870, by Dr. J. W. Pruitt, the root being the part employed. This, when dry, is from 6 to 12 inches in length, and from ¼ inch to ½ inch in diameter at the base of the plant. It extends downward into the ground, and running parallel with it several small roots springing from the base of the plant are often observed. The shape is somewhat like that of dandelion, but longer, not so tapering, and more flattened from the effect of drying. Toward the lower end it often divides into several fleshy rootlets, and secondary roots frequently spring from the main root. The outer surface is of a leather-color, and very much wrinkled longitudinally. Internally, it is white, or of a greenish cast, and soft, with the exception of a few woody fibers near the bark. It contains a large amount of resin, and exhales an unpleasant, animal-like odor when broken. Alcohol extracts from the root all its medicinal principles, the extractive matter mainly consisting of glucose in considerable proportion; a form of tannin which precipitates ferrous sulphate, black; an odorous principle, soluble in water and alcohol; and a mixture of two resins, which is present in greater amount than any other of its characteristic constituents; this resinous compound is heavier than water, of a brownish-yellow color, soft and sticky at ordinary temperatures, and possesses the odor of the root. It dissolves completely in chloroform, ether, and alcohol, imperfectly in benzin, which separates it into: (1) A dark-brown, hard resin, of an acrid taste, which remains undissolved; this is insoluble in carbon disulphide, but freely dissolves in chloroform, ether, and alcohol. (2) A light straw-colored, balsam-like, resinous body, heavier than water, rather thicker than Canada balsam, which it otherwise very nearly resembles; it readily dissolves in ether, alcohol, benzin, chloroform, and carbon disulphide, has the odor of polymnia root, and likewise an acrid taste. Undoubtedly, polymnia depends upon these resinous bodies for its medicinal virtues. The aqueous solution of the evaporated tincture yields a precipitate with phospho-molybdate of ammonium, but not with other alkaloidal reagents, and after precipitation of the tannin with either ferrous sulphate or gelatin, the filtrates give negative results with the phospho-molybdate of ammonium. Polymnia Uvedalia is used in medicine in form of tincture and ointment.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "OINTMENT OF POLYMNIA.—Take of fresh polymnia root 8 troy ounces; lard or mutton suet 16 troy ounces; cut the root into small pieces, and, having added the lard, heat the mixture until water ceases to evaporate, and then strain while hot. The ointment is of a light-greenish color, and possesses the disagreeable odor of the root.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Polymnia was introduced to the medical profession, in 1870, by Dr. J. W. Pruitt, although it had several years previously been highly lauded, under the name of Bear's foot, as a remedy in rheumatism. Dr. Pruitt recommended it in the form of ointment, as a local application in mammary and other glandular tumors or abscesses, in splenic enlargement, and, indeed, in all painful swellings and local inflammations. Subsequently, he employed a tincture of it internally, in connection with its external use, and found its efficacy to be thereby augmented. The tincture alone, was likewise found efficient in the treatment of chronic intermittent fever, ozoena, scrofulous ophthalmia, and similar affections. According to Dr. Pruitt, it may be considered a specific in splenic enlargement from malarial influence. Prof. J. M. Scudder, M. D., has used it with good effect in chronic gastritis, chronic hepatic enlargement, hypertrophy of the cervix uteri, chronic metritis with hypertrophy, uterine subinvolution, and engorgement of the lower lobes of the lungs; according to him the indications for its use are full, flabby, sallow tissues, impaired circulation, atonic impairment of function, and glandular enlargement. The efficacy of this drug in the affections named has been corroborated by many other practitioners who have tested it. It stands to-day at the head of spleen remedies, influencing not only the splenic circulation and reducing hypertrophies of that organ, but has more or less control over the other distributive branches of the coeliac axis. It is a remedy for congestive or engorged states of the spleen and other ductless glands. When dyspepsia depends upon a sluggish circulation in the gastric and hepatic arteries, and is attended with full, heavy, and burning sensations in the parts supplied by those branches, we have in uvedalia an efficient remedy. It even exerts a beneficial action in some cases of that intractable malady, leucocythemia, though it more often fails. The remedy to be of benefit in all glandular difficulties should be used for several weeks. For its influence in splenic engorgement (ague cake) the ointment should be applied warm over the spleen, while specific polymnia uvedalia should be given in from 5 to 10-drop doses every 3 or 4 hours. It is a remedy for imperfect blood-elaboration with tumid, sodden abdomen, and for the removal of low inflammatory deposits. With Prof. Scudder the following was a favorite hair tonic: Rx Specific uvedalia ℥ii, bay rum, ℥vi. Mix. Rub thoroughly into the scalp once or twice a day. White swelling is stated to have been cured by the use of polymnia, both internally and as a local application, but we know of no authentic cases. The ointment appears to be a stimulating discutient. The dose of the tincture is from 10 to 60 minims, 2 or 3 times a day; of specific polymnia uvedalia from 2 to 20 drops.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Specific Indications and Uses.—Full, sodden, inelastic, flabby tissues; splenic and hepatic enlargements, fullness, weight and burning in the region of liver, stomach and spleen, congestive states and impaired functions of the parts supplied by the coeliac axis; impaired blood-making with tumid abdomen; low inflammatory deposits.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Species.—Polymnia canadensis, Linné, is a smaller plant than the preceding, and is found in similar localities. The stems are clammy, pubescent, and have long internodes. The lower leaves are pinnately-parted, the upper ovate, five-lobed, abrupt at the base, sub-regularly sinuate-toothed, and on slender, horizontal leaf-stalks. The flower-heads are smaller than those of the P. Uvedalia, and have acute involucral scales. The rays are of a pale, sulphur-yellow color, and are not longer than the involucre; they are three-toothed at the apex, the middle tooth being longer than the others. The two plants we have just described, are the only other indigenous species of Polymnia, and, together with a few South American species, constitute the genus.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ],
     "habitat": [
       {
         "text": "New York to Missouri and southward.",
@@ -19,12 +149,6 @@
     "keynotes": [
       {
         "text": "A tall branching plant found growing in very rich soil the root is greyish brown in colour and furrowed, bark thin, brittle and easily scales off, odourless, taste salty and slightly bitter.",
-        "source_id": "grieve-modern-herbal-1931"
-      }
-    ],
-    "indications": [
-      {
-        "text": "Anodyne laxative and stimulant, valuable in malarial enlargements of the spleen, swollen glands and dyspepsia caused by the spleen. Of great use applied externally in stimulating the growth of the hair, and is an ingredient of many American hair ointments and lotions.",
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
@@ -38,7 +162,10 @@
   "evidence": {},
   "provenance": {
     "sources": [
-      "grieve-modern-herbal-1931"
+      "ellingwood-1919",
+      "grieve-modern-herbal-1931",
+      "felter-eclectic-1922",
+      "kings-american-1898"
     ]
   }
 }

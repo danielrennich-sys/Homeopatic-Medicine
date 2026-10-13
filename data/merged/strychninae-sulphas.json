@@ -1,14 +1,19 @@
 {
   "id": "strychninae-sulphas",
   "names": {
-    "primary": "Strychninae Sulphas (U. S. P.)",
-    "latin": "Strychninae Sulphas (U. S. P.)",
+    "primary": "Strychninae Sulphas",
+    "latin": "Strychninae Sulphas",
     "common": [
       "Strychnine Sulphate"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Strychninae Sulphas (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

@@ -1,17 +1,20 @@
 {
   "id": "sempervivum-tectorum",
   "names": {
-    "primary": "SEMPERVIVUM TECTORUM",
-    "latin": "SEMPERVIVUM TECTORUM",
+    "primary": "Sempervivum Tectorum",
+    "latin": "Sempervivum Tectorum",
     "common": [
       "Houseleek"
     ],
     "synonyms": [
-      "Sempervivum Tectorum",
       "Sempervivum tectorum (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "mouth_throat": [
       {

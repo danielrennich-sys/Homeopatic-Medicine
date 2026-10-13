@@ -1,12 +1,15 @@
 {
   "id": "lachnanthes-tinc",
   "names": {
-    "primary": "LACHNANTHES TINC",
-    "latin": "LACHNANTHES TINC",
+    "primary": "Lachnanthes Tinc",
+    "latin": "Lachnanthes Tinc",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

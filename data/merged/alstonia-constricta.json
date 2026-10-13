@@ -7,10 +7,15 @@
       "Alstonia Bark"
     ],
     "synonyms": [
+      "Alstonia. Alstonia constricta",
       "Alstonia constricta (F. MUELL.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -33,19 +38,35 @@
         "Compare: Alet. f., Lil. t., Helon., Cedron, Ceanoth., China, Fer. Copyright © Médi-T ® 2000 Main"
       ]
     },
-    "habitat": [
-      {
-        "text": "New South Wales and Australia.",
-        "source_id": "grieve-modern-herbal-1931"
-      }
-    ],
-    "constituents": [
-      {
-        "text": "Contains three alkaloids Alstonine, Porphrine and Astonidine, and traces of others.",
-        "source_id": "grieve-modern-herbal-1931"
-      }
-    ],
     "indications": [
+      {
+        "text": "Synonyms—Australian fever bark, Bitter bark, Alstonia bark.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Specific Symptomatology—General malarial cachexia, periodicity, fever with marked intermissions or remissions. Malarial fever, with exacerbations. General atony of the glandular organs, with sallow skin, heavily coated tongue and constipation.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—This remedy was brought to the notice of the profession by Dr. John M. Scudder. He regarded it superior in its tonic and restorative properties to calisaya bark in certain specific conditions. His indications were as follows: The tongue inclined to be dirty, skin dark and sallow, the urine depositing a sediment, with a general lack of tone.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "When the above conditions are present from malaria, it is directly indicated.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is an antiperiodic, when persisted in, in chronic cases, but for immediate effects, in acute cases, it does not replace quinine. Dr. John Fearn advises it where there are gastro-intestinal disorders, depending upon chronic malaria, such as atonic dyspepsia, lienteric diarrhoea, and dysentery. In these chronic cases, it will sometimes succeed when quinine fails. It is well to prepare the patient for its use by a hot bath, and a diaphoretic. It is a cerebrospinal stimulant and tonic. It acts directly upon the great sympathetic nervous system and stimulates the vital forces, through the improvement of every organic function. It improves the blood-making processes and assists in more perfect elimination by increased tonicity. Dr. King reported the cure of obstinate cases of tertian fever, attended with attacks of severe gastric pain, and irritability, with neuralgia, in the upper extremities. It seems to antagonize the malarial influences and to so completely destroy the malarial plasmodium that the condition is permanently cured.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
       {
         "text": "Used for chronic diarrhoea, dysentery and in intermittent fever; also as an anthelmintic. Scientific investigation has failed to show why it is of such service in malaria, but herbalists consider it superior to quinine and of great use in convalescence, also much used by homoeopaths.",
         "source_id": "grieve-modern-herbal-1931"
@@ -111,6 +132,18 @@
         "source_id": "kings-american-1898"
       }
     ],
+    "habitat": [
+      {
+        "text": "New South Wales and Australia.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Contains three alkaloids Alstonine, Porphrine and Astonidine, and traces of others.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
     "dosing": [
       {
         "text": "Powdered bark 2 to 8 grains. Fluid extract, 4 to 40 minims.",
@@ -122,6 +155,7 @@
   "provenance": {
     "sources": [
       "clarke-dictionary-1900",
+      "ellingwood-1919",
       "grieve-modern-herbal-1931",
       "kings-american-1898"
     ]

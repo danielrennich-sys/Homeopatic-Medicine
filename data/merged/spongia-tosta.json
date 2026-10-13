@@ -1,18 +1,19 @@
 {
   "id": "spongia-tosta",
   "names": {
-    "primary": "Spongia Tosta. Roasted Sponge. (Spongia.)",
-    "latin": "Spongia Tosta. Roasted Sponge. (Spongia.)",
+    "primary": "Spongia Tosta",
+    "latin": "Spongia Tosta",
     "common": [
       "Roasted Sponge"
     ],
     "synonyms": [
-      "SPONGIA TOSTA",
-      "Spongia Tosta",
-      "Spongia tosta"
+      "Spongia Tosta. Roasted Sponge. (Spongia.)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -477,6 +478,12 @@
         {
           "text": "ascending, wind, before midnight",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Spong.]. Slight pain in goitre ; stitches in wrist. Lying : strong pulsation about ear on which she is lying ; dull, tremulous roaring in head ; double vision > ; bores head backward ; dyspnœa < ; suffocative cough < ; after, symptoms of circulation < ; twitching of cervical muscles ; stinging in knee. Lying in a horizontal position : headache > ; congestion of blood to head >. Lying on back : pressing headache > ; throat symptoms > ; brings on cough ; dyspnœa <. Must lie on back : ulcerative feeling in pit of stomach. Lying on right side : painful constriction of left side ; brings on cough ; symptoms of circulation <. In side on which he lies : digging in hip. Cannot lie : on account of want of breath ; asthma ; pneumonia. Lying with head low : dyspnœa < ; all symptoms of bronchitis < ; attacks of oppression and cardiac pain <. Sitting : as if head would fall to one side ; pain in frontal eminence < ; up in bed, sudden burning and compression passes off ; tensive pain in abdomen ; painful constriction in left side ; cramplike pain in left groin ; pressing tearing pain in region of abdominal ring ; cough > ; stitches in left chest ; fine tearing pain in sacrum. Stitches in armpit ; prickling in armpit ; stinging above r. knee ; could not keep leg stretched out ; stitches in heels. Sits up in bed : croup ; suffocative paroxysm passes off. Must sit up : on account of shortness of breath. Stooping : stinging in left hypogastrium < ; tensive pain in abdomen < ; dyspnœa < ; stiffness of neck ; back of neck snaps. Bending body forward : dyspnœa > ; symptoms of circulation <. Bending back : dyspnœa <. Holding head upright : dull pressure in occiput >. Bending head backward ; congestion of blood to head ; tension in neck ; in croup ; tension of cervical muscles. Bending fingers : tension. Could not bend fingers : swollen. When holding arm bent : tearing in joint. Raising arms above head : becomes faint. Erect position : writhed and struggled into with croup ; pressing sensation up and down spine. Standing : pain in ilium and sacrum ; stitch out at heel. Rising : headache ; cough <. Must change posture frequently : restlessness in legs. Motion : of scalp, sensitiveness of cranial integuments ; of eyes, < stinging pain ; every slight, loses her breath and becomes faint ; brings on cough ; every trifling, grows weak ; congestion to chest ; after moderate, grows suddenly weak ; cough < ; of neck, pain in swollen glands ; stitches in elbow joint ; finger seemed tense ; stitches in heel pass off. After every exertion : dyspnœa <. Exertion : suddenly exhausted ; congestion to chest ; exhaustion of chest ; slight, suffocating palpitation. Opening mouth wide, then biting teeth firmly together ; cramp in neck. Masticating : teeth feel dull and loose ; gums painful ; pain in molars. Swallowing : stitches in neck pass off ; violent straining pain ; pain in goitre ; a moving sensation in goitre ; stinging pain in goitre ; as if goitre were alive. Turning head : stitch in occiput ; neck pains ; neck stiff ; tensive pain in head ; larynx sensitive ; to right side, stiffness of left. Stepping : tension in thigh. Walking : tensive pain in abdomen and right groin ; tottering ; stitches beneath second rib ; pain in sacral region, particularly setting down left foot ; stitches in thigh < ; heaviness in knee joint ; tiredness in knees ; as if weight were hanging to tibia ; stitches in calf ; itching in popliteal space ; left lower leg spasmodically drawn up ; pain in heel < ; long time, pricking in heels. Going up stairs : suffocating palpitation ; symptoms of circulation <. Ascending ground : suffocating palpitation. After exercise : heat. Toward morning : starting out of sleep. Between 1 and 2 A. M. : awakened by suffocation. Morning : involuntary discharge from bowels ; stinging in throat < ; rumbling in abdomen < ; digging in hip ; expectoration only of small quantities of tough, yellow, hardened mucus ; pulsating, sharp stitches through thigh ; early, sweat. Forenoon : pressing pain in gastric region. Day and night : dry cough ; hollow cough, with some expectoration. Afternoon : pressure in epigastrium ; cough < ; tearing in tibia ; after brief naps numbness of legs ; chill <. Evening : stinging and pressing pain in eyes ; cramplike pain from jaw to cheek ; cold sweat in face ; stinging in throat < ; rumbling in abdomen < ; cutting in hypogastrium ; cracked voice ; pressing inward in larynx ; contraction in larynx ; croupy cough < ; till midnight cough < ; induration of breast comes on ; neck cold ; stinging in knee ; chill <. At 9 P. M. : sudden attack of croup. Night : vertigo when awaking, with nausea ; things appear in flames ; figures of light ; restless and easily frightened ; as if a battery of guns were discharged in ears ; a vexed expression, with cough ; stitch from jaw to ear ; suffocating spells ; rattling breathing, terminating cough ; in middle, spells of choking ; after a chill burning heat of skin ; suffocation about larynx ; awakes in fear and terror ; tossing about ; chill < ; heat ; sweat. Before midnight : croup < ; dry sound of breathing and cough ; sleepless until. At midnight : wakes and cannot get to sleep again. After 12 P. M. : awakes, violent palpitation ; awakes with suffocation. Heat does not > chilliness of back. Hot room : dry bronchitis <. Hot tea : cough <. Near warm stove : chill with shaking. Warm room : coming into from open air, headache ; cough <. Warm drinks : distress in stomach > ; cough > ; dyspnœa. In bed : chill <. Indoors : cough <. Open air : pain in left ear ; pain from jaw to cheek ; tension in articulation of jaw ; grows suddenly weak ; after walking, chill. Sudden change of atmosphere : spasmodic paroxysms of cough and dyspnœa <. After taking cold : asthma. Dry, cold weather : headache >. Dry, cold winds : coryza. Washing : headache >. Wet weather : cough <. Cold : tea or water brings on cough ; weather, subject to attacks of dyspnœa ; air, cough <. Frosty weather : cough >.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

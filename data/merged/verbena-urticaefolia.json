@@ -1,14 +1,17 @@
 {
   "id": "verbena-urticaefolia",
   "names": {
-    "primary": "VERBENA URTICAEFOLIA",
-    "latin": "VERBENA URTICAEFOLIA",
+    "primary": "Verbena Urticaefolia",
+    "latin": "Verbena Urticaefolia",
     "common": [
       "Blue Vervain (VERBENA)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Single dose of the tincture. In epilepsy must be continued for a long time. Verbena in the form of a tea as a diuretic drink is used by Vannier (Paris) to aid elimination in tubercular therapy"

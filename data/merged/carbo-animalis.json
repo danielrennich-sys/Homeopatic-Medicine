@@ -8,13 +8,15 @@
     ],
     "synonyms": [
       "Carbo Animalis. Animal Charcoal",
-      "CARBO ANIMALIS",
       "Carbo  Animalis,  Graphites  And  Petroleum",
-      "Carbo Animalis (U. S. P.)",
-      "Carbo animalis"
+      "Carbo Animalis (U. S. P.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -356,6 +358,12 @@
         {
           "text": "after shaving, loss of animal fluids",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Carb. an.]. Rest : < stupefaction in head, with dulness in occiput. Lying down : aching in region of liver ; drawing pain in small of back ; coccyx feels bruised. Sitting : up, vertigo and confusion, > when reclining ; coccyx feels bruised. Rising : vertigo. Standing : leucorrhœa. Stooping : nausea on rising after ; heaviness in forehead. Motion : brain feels as if loose. Walking : splashing in left hemisphere of brain ; piles burn and sting ; leucorrhœa ; drawing pain in small of back ; painful tension in calves. Eating : causes fatigue. Night : heaviness in head ; left eye red and burning, preventing sleep ; coryza ; scraping in throat ; nausea ; sticking in groin ; frequent desire to urinate ; cough with expectoration ; sweat ; febrile chill ; fever at night, chill without thirst ; backache ; heat with great thirst. Morning : confused ; head heavy, irritable mood ; vertigo ; epistaxis ; stupefying headache ; dry coryza ; bitter taste ; taste of manure in mouth ; weight in stomach ; rawness and hoarseness in throat ; oppression ; severe dry cough ; palpitation after eating ; violent trembling of hands ; sweat, towards. Forenoon : stupefying headache ; sleepy. From 9 A. M. till 3 P. M. : very cold feet. Afternoon : chill. Evening : coryza ; scraping in throat ; hoarseness ; pulse accelerated ; chill. At 11 P. M. : chill. Day : during, toothache ; cough with expectoration ; legs \"go to sleep ;\" chilliness. Warmth : > brain feeling as if loose, during motion. Warm room : > stupefaction in head, with dulness in occiput. Cold : cannot bear anything to touch teeth ; teeth sensitive to cold. In cold air : < heaviness in head, at night. Dry, cold air : < tenseness of scalp on forehead and vertex. Cold, damp air : < stupefaction in head, with dulness in occiput. In open air : < throbbing headache ; sensitive to air. Wet weather : < pain in top of head, as if skull had been split or torn asunder.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

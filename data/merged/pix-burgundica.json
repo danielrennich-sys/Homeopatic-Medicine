@@ -1,14 +1,19 @@
 {
   "id": "pix-burgundica",
   "names": {
-    "primary": "Pix Burgundica (U. S. P.)",
-    "latin": "Pix Burgundica (U. S. P.)",
+    "primary": "Pix Burgundica",
+    "latin": "Pix Burgundica",
     "common": [
       "Burgundy Pitch"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Pix Burgundica (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

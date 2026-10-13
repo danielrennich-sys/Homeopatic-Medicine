@@ -1,14 +1,20 @@
 {
   "id": "dictamnus-albus",
   "names": {
-    "primary": "Dictamnus albus",
-    "latin": "Dictamnus albus",
+    "primary": "Dictamnus Albus",
+    "latin": "Dictamnus Albus",
     "common": [
       "Burning Bush"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Dictamnus"
+    ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {
@@ -20,6 +26,10 @@
       {
         "text": "The members of this small genus are plants about 2 feet high, bearing flowers in a long, pyramidal, loose spike, varying in colour from pale purple to white. It prefers to grow in woods in warm places. The whole plant, especially when rubbed, gives out an odour like lemon-peel, and when bruised this grows more like that of a fine balsam, strongest in the pedicels of the flowers. It is due to an essential oil, which gives off an inflammable vapour in heat or in dry, cloudy weather, which also congeals as resinous wax, exuding from rusty-red glands in the flowers. This accounts for the fact that the atmosphere surrounding it will often take fire if approached by a lighted candle, without injuring the plant. The fragrant leaves and handsome flowers cause it to be frequently cultivated in gardens. The prepared root-bark is whitish, almost odourless, and rolled in pieces from 1 to 2 inches long.",
         "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "The authorities for Dictamnus are Stoerck, and Noack and Trinks. The few symptoms recorded show relationship to Ruta.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "constituents": [
@@ -44,13 +54,47 @@
       {
         "text": "Several drugs bear the name of Dictamnus,such as Dictamnus of Barbados, or Arrowroot des tilles. The leaves of a plant growing in Crete and Candy were used by the Ancients for wounds, and it is still known as Dictamnus or Dittany of Crete, being Origanum Dictamnus of the Labiatae family. [ Top ]",
         "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T DICTAMNUS. Dictamnus Fraxinella, Linn. Natural order , Rutaceæ. Common name , Fraxinella. Preparation , Tincture of whole plant. Authority. Stoerck, in Die Flammula Jovis, etc., from Noack and Trink's Mat. Med. ► Frequent emission of copious, offensive flatus. ► Itching in the anus. ► Increased stools. ► Constipation. ► Greatly increased secretion of urine. ► Discharge of much tenacious mucus from the uterus, at first brown, afterwards white, at last streaked with blood. ► Increase of the leucorrha, with profuse discharge of urine, with distressing tenesmus and painful erosion of the genitals. ► Profuse metrorrhagia for nine days (recurring after ten days, upon the continued use of the drug, and lasting several days, with physical weakness). ► Aggravation of the epileptic attack. [10.] ► Profuse perspiration. [From Zorn, Botanologia Medica. Berlin, 1714, p. 265.] Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Constipation; Flatulence; Leucorrhœa; Metrorrhagia",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Frequent emission of copious, offensive flatus. Itching in anus. Increased stools. Constipation.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Greatly increased secretion of urine.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "female": [
+      {
+        "text": "Discharge of much tenacious mucus from uterus, at first brown, afterwards white; at last streaked with blood. Increase of leucorrhœa with distressing tenesmus and painful erosion of genitals. Profuse metrorrhagia for nine days (recurring after ten days, upon the continued use of the drug, and lasting several days with physical weakness).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Profuse perspiration. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
       }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "grieve-modern-herbal-1931"
+      "grieve-modern-herbal-1931",
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900"
     ]
   }
 }

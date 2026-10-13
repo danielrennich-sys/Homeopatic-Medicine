@@ -1,14 +1,19 @@
 {
   "id": "garrya-fremonti",
   "names": {
-    "primary": "Garrya fremonti (TORR.)",
-    "latin": "Garrya fremonti (TORR.)",
+    "primary": "Garrya Fremonti",
+    "latin": "Garrya Fremonti",
     "common": [
       "Fever Bush"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Garrya fremonti (TORR.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

@@ -3,15 +3,27 @@
   "names": {
     "primary": "Cheiranthus Cheiri",
     "latin": "Cheiranthus Cheiri",
-    "common": [],
-    "synonyms": []
+    "common": [
+      "Wallflower"
+    ],
+    "synonyms": [
+      "Cherranthus cheiri (LINN.)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {
         "text": "Our knowledge of the medicinal use of Cheiranth. is due to Dr. Cooper. The cases cured with it are as follows: (1) Young man, deafness and Otorrhœa left side. Is cutting three wisdom teeth. Cured by two doses of Ø given at six weeks' interval. (2) Girl, 22, deaf after measles, cutting wisdom teeth. Greatly improved. (3) Girl, 20, used to taking purgative pills, had pain in lower back, jaundiced appearance, bilious feeling, sickness of stomach. Cheir. ch. removed the symptoms at once. Cooper considers as a keynote of the remedy, \"Nose stopped at night from irritation of cutting wisdom teeth.\"",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "his homely perennial plant of the cabbage family was introduced into this country over 300 years ago, and its delightful fragrance soon made it a general favourite. It has single flowers, yellowy orange in its wild state, and quickly spreads abundantly from seed, commencing to bloom in early spring, and continuing most of the summer. In olden times this flower was carried in the hand at classic festivals, hence it was called Cherisaunce by virtue of its cordial qualities.",
+        "source_id": "grieve-modern-herbal-1931"
       }
     ],
     "generalities": [
@@ -28,12 +40,31 @@
       "_raw": [
         "Compare: (Botan.) Armor., Sinap., Brassica, Raphan. (wisdom teeth) Mag. c., Fer. pic."
       ]
-    }
+    },
+    "habitat": [
+      {
+        "text": "All Southern Europe, on old walls, quarries and seacliffs.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Oil, a powerful glucoside, of the digitalis group, and cherinine, a crystalline alkaloid.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "(In homoeopathic medicine a tincture of the whole plant has been found useful in the effects of cutting the wisdom tooth. -EDITOR.) The oil has a pleasing perfume if diluted, but in full strength a disagreeable odour. The alkaloid is useful acting on nerve centres and on the muscles. Purchase from Richters Wallflower (Cheiranthus cheiri) Seeds",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "grieve-modern-herbal-1931"
     ]
   }
 }

@@ -1,14 +1,17 @@
 {
   "id": "lippia-citriodora",
   "names": {
-    "primary": "Lippia citriodora",
-    "latin": "Lippia citriodora",
+    "primary": "Lippia Citriodora",
+    "latin": "Lippia Citriodora",
     "common": [
       "Verbena, Lemon"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

@@ -1,12 +1,17 @@
 {
   "id": "lobelia-coerulea",
   "names": {
-    "primary": "Lobelia Coerulea. (Lobelia Syphilitica.)",
-    "latin": "Lobelia Coerulea. (Lobelia Syphilitica.)",
+    "primary": "Lobelia Coerulea",
+    "latin": "Lobelia Coerulea",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Lobelia Coerulea. (Lobelia Syphilitica.)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

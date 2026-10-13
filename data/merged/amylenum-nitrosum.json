@@ -1,18 +1,20 @@
 {
   "id": "amylenum-nitrosum",
   "names": {
-    "primary": "Amylenum Nitrosum. Nitrite of Amyl (C5H11NO2.)",
-    "latin": "Amylenum Nitrosum. Nitrite of Amyl (C5H11NO2.)",
+    "primary": "Amylenum Nitrosum",
+    "latin": "Amylenum Nitrosum",
     "common": [
       "Amyl Nitrite (AMYL NITROSUM)"
     ],
     "synonyms": [
-      "AMYLENUM NITROSUM",
-      "Amylenum Nitrosum",
+      "Amylenum Nitrosum. Nitrite of Amyl (C5H11NO2.)",
       "AMYLENUM NITROSUM--Amyl. Nitrit"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

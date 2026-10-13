@@ -1,14 +1,19 @@
 {
   "id": "ligusticum-scoticum",
   "names": {
-    "primary": "Ligusticum Scoticum (LINN.)",
-    "latin": "Ligusticum Scoticum (LINN.)",
+    "primary": "Ligusticum Scoticum",
+    "latin": "Ligusticum Scoticum",
     "common": [
       "Lovage, Scotch"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ligusticum Scoticum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

@@ -1,16 +1,18 @@
 {
   "id": "spigelia-anthelmintica",
   "names": {
-    "primary": "Spigelia    Anthelmintica,  Curare  And  The",
-    "latin": "Spigelia    Anthelmintica,  Curare  And  The",
+    "primary": "Spigelia Anthelmintica",
+    "latin": "Spigelia Anthelmintica",
     "common": [],
     "synonyms": [
-      "SPIGELIA ANTHELMINTICA",
-      "Spigelia Anthelmintica",
+      "Spigelia    Anthelmintica,  Curare  And  The",
       "Spigelia anthelmintica (Spigelia anthelmia)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

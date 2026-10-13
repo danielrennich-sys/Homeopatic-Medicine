@@ -1,14 +1,19 @@
 {
   "id": "purslane",
   "names": {
-    "primary": "Purslane, Green",
-    "latin": "Purslane, Green",
+    "primary": "Purslane",
+    "latin": "Purslane",
     "common": [
       "Purslane, Green"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Purslane, Green"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

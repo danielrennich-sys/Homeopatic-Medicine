@@ -1,14 +1,17 @@
 {
   "id": "rhodium-metallicum",
   "names": {
-    "primary": "RHODIUM METALLICUM",
-    "latin": "RHODIUM METALLICUM",
+    "primary": "Rhodium Metallicum",
+    "latin": "Rhodium Metallicum",
     "common": [
       "Metal Chemical Element (RHODIUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

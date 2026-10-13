@@ -1,12 +1,17 @@
 {
   "id": "mercurius-cyanide",
   "names": {
-    "primary": "Mercurius Cyanide. Cyanide of Mercury. (Hg(CN2).)",
-    "latin": "Mercurius Cyanide. Cyanide of Mercury. (Hg(CN2).)",
+    "primary": "Mercurius Cyanide",
+    "latin": "Mercurius Cyanide",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Mercurius Cyanide. Cyanide of Mercury. (Hg(CN2).)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

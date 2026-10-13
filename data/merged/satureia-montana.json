@@ -1,14 +1,19 @@
 {
   "id": "satureia-montana",
   "names": {
-    "primary": "Satureia montana (LINN.)",
-    "latin": "Satureia montana (LINN.)",
+    "primary": "Satureia Montana",
+    "latin": "Satureia Montana",
     "common": [
       "Savory, Winter"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Satureia montana (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

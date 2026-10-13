@@ -1,14 +1,19 @@
 {
   "id": "papaver-rhoeas",
   "names": {
-    "primary": "Papaver Rhoeas (LINN.)",
-    "latin": "Papaver Rhoeas (LINN.)",
+    "primary": "Papaver Rhoeas",
+    "latin": "Papaver Rhoeas",
     "common": [
       "Poppy, Red"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Papaver Rhoeas (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

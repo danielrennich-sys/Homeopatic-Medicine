@@ -1,14 +1,19 @@
 {
   "id": "valerianella-olitoria",
   "names": {
-    "primary": "Valerianella olitoria (MOENCH)",
-    "latin": "Valerianella olitoria (MOENCH)",
+    "primary": "Valerianella Olitoria",
+    "latin": "Valerianella Olitoria",
     "common": [
       "Corn Salad"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Valerianella olitoria (MOENCH)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

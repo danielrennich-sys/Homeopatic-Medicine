@@ -8,12 +8,15 @@
       "Jalap"
     ],
     "synonyms": [
-      "JALAPA",
       "Jalapa (Ipomoea jalapa)",
       "Jalapa (U. S. P.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

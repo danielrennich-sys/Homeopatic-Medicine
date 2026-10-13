@@ -1,12 +1,17 @@
 {
   "id": "vipera-lachesis",
   "names": {
-    "primary": "Vipera Lachesis, Fel",
-    "latin": "Vipera Lachesis, Fel",
+    "primary": "Vipera Lachesis",
+    "latin": "Vipera Lachesis",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Vipera Lachesis, Fel"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -1,16 +1,17 @@
 {
   "id": "agave-americana",
   "names": {
-    "primary": "AGAVE AMERICANA",
-    "latin": "AGAVE AMERICANA",
+    "primary": "Agave Americana",
+    "latin": "Agave Americana",
     "common": [
       "Century Plant"
     ],
-    "synonyms": [
-      "Agave Americana"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Tincture"

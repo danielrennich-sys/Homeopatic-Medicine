@@ -1,14 +1,19 @@
 {
   "id": "citrullus-colocynthis",
   "names": {
-    "primary": "Citrullus colocynthis (SCHRAD.)",
-    "latin": "Citrullus colocynthis (SCHRAD.)",
+    "primary": "Citrullus Colocynthis",
+    "latin": "Citrullus Colocynthis",
     "common": [
       "Apple (Bitter)"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Citrullus colocynthis (SCHRAD.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

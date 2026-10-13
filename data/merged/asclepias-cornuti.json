@@ -1,19 +1,22 @@
 {
   "id": "asclepias-cornuti",
   "names": {
-    "primary": "Asclepias Cornuti (Syriaca)",
-    "latin": "Asclepias Cornuti (Syriaca)",
+    "primary": "Asclepias Cornuti",
+    "latin": "Asclepias Cornuti",
     "common": [
       "Silk-weed (ASCLEPIAS SYRIACA)",
       "Milkweed"
     ],
     "synonyms": [
-      "ASCLEPIAS CORNUTI",
-      "ASCLEPIAS CORNUTI. (ASCLEPIAS SYRIACA.)",
-      "Asclepias Cornuti"
+      "Asclepias Cornuti (Syriaca)",
+      "ASCLEPIAS CORNUTI. (ASCLEPIAS SYRIACA.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

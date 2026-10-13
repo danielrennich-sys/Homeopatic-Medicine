@@ -1,14 +1,19 @@
 {
   "id": "santolina-chamaecyparissus",
   "names": {
-    "primary": "Santolina Chamaecyparissus (LINN.)",
-    "latin": "Santolina Chamaecyparissus (LINN.)",
+    "primary": "Santolina Chamaecyparissus",
+    "latin": "Santolina Chamaecyparissus",
     "common": [
       "Lavender Cotton"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Santolina Chamaecyparissus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

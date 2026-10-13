@@ -1,14 +1,19 @@
 {
   "id": "prunus-avium",
   "names": {
-    "primary": "Prunus avium and Other Species (LINN.)",
-    "latin": "Prunus avium and Other Species (LINN.)",
+    "primary": "Prunus Avium",
+    "latin": "Prunus Avium",
     "common": [
       "Cherry Stalks"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Prunus avium and Other Species (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

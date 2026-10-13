@@ -8,11 +8,14 @@
       "Woorari"
     ],
     "synonyms": [
-      "CURARE",
       "Curare. (Curara)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -170,6 +173,12 @@
         {
           "text": "dampness, cold weather, cold wind; 2 am; right side",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Cur.]. Lying : in bed < aching in feet and back. Lie down and stretch : pain in head forcing him to. Always desires to put her feet out of bed. Cannot stand : so weak. Standing : fainting. Laughing : cough, soreness of chest <. Rising : fear of falling forward. Stretch : desire to stretch elbows. Moving : cough < ; crampy pains. Does not like to move. Motion : perspires. On least movement : crampy pains in hips. Walking : fainting while walking ; legs give way. At 2 A. M. : rigors. Morning : nausea ; cough troublesome ; heat > ; general weakness. At 2 or 3 P. M. : fever continuing into night ; 4 P. M., fever. In evenings : arms and hands swollen ; great thirst. At night : restless ; great thirst ; heat < ; cold and bloody sweat. All night : vomits green bile. Aggravation by dampness, damp weather, change of weather, or cold wind. Open air : heat <. Cold air : cough < by breathing. Damp weather : cough and soreness of chest < ; soreness and pains in arms <.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

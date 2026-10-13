@@ -1,14 +1,17 @@
 {
   "id": "berberis-asiatica",
   "names": {
-    "primary": "Berberis asiatica",
-    "latin": "Berberis asiatica",
+    "primary": "Berberis Asiatica",
+    "latin": "Berberis Asiatica",
     "common": [
       "Barberry (Indian)"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

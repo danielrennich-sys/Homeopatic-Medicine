@@ -1,15 +1,19 @@
 {
   "id": "angelica-sinensis",
   "names": {
-    "primary": "Dong Quai",
-    "latin": "Dong Quai",
+    "primary": "Angelica Sinensis",
+    "latin": "Angelica Sinensis",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Dong Quai"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {},
   "evidence": {
-    "summary": "",
     "lactation_safety": [
       {
         "section": "Drug Levels and Effects",
@@ -17,7 +21,6 @@
         "source": "LactMed-NIH"
       }
     ],
-    "documented_adverse_effects": [],
     "regulatory": [
       "LactMed - NIH Drugs and Lactation Database"
     ],

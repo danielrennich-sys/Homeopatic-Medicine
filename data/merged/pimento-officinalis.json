@@ -1,14 +1,19 @@
 {
   "id": "pimento-officinalis",
   "names": {
-    "primary": "Pimento officinalis (LINDL.)",
-    "latin": "Pimento officinalis (LINDL.)",
+    "primary": "Pimento Officinalis",
+    "latin": "Pimento Officinalis",
     "common": [
       "Allspice"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Pimento officinalis (LINDL.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

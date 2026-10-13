@@ -1,16 +1,17 @@
 {
   "id": "ferrum-picricum",
   "names": {
-    "primary": "FERRUM PICRICUM",
-    "latin": "FERRUM PICRICUM",
+    "primary": "Ferrum Picricum",
+    "latin": "Ferrum Picricum",
     "common": [
       "Picrate of Iron"
     ],
-    "synonyms": [
-      "Ferrum Picricum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "ears": [
       {

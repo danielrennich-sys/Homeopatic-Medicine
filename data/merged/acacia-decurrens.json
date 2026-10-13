@@ -1,14 +1,19 @@
 {
   "id": "acacia-decurrens",
   "names": {
-    "primary": "Acacia decurrens, Acacia arabica",
-    "latin": "Acacia decurrens, Acacia arabica",
+    "primary": "Acacia Decurrens",
+    "latin": "Acacia Decurrens",
     "common": [
       "Acacia Bark"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Acacia decurrens, Acacia arabica"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

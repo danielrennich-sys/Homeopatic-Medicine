@@ -9,12 +9,14 @@
     ],
     "synonyms": [
       "Ranunculus Bulbosus. Buttercup. (Ranunculaceae.)",
-      "RANUNCULUS BULBOSUS",
-      "Ranunculus bulbosus (LINN.)",
-      "Ranunculus bulbosus"
+      "Ranunculus bulbosus (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -286,6 +288,12 @@
         {
           "text": "open air, motion, contact, atmospheric changes, wet, stormy weather, evening. Cold air brings on all sorts of ailments",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Ran. b.]. Lying down : headache over r. eye <. Could not lie down : pain in side. Could not lie on side : dyspnœa. Sitting up : fainting. Sat bent forward in bed and leaning toward left side : pain in side. Has to sit or stand stooping, with head and chest forward to left side. Standing : headache over right eye > ; stitches and tightness in chest ; stitches in heel. Indisposition to standing or walking : irritability of cerebro-spinal system. Change of position : bruised pains <. Motion : pain in left side of chest < ; of arm or trunk < sticking above left nipple ; causes fainting ; soreness of chest < ; abdomen < ; of arm, tenderness of breast ; slightest, causes intense pain in side ; sciatica < ; sometimes > pain in knee ; bruised pains <. Walking : headache > ; pressure in head < ; stitches in abdomen ; after having been seated stitches in shoulder ; stitches and tightness in chest ; sticking in left chest continuous ; stitches disappear ; weakness in lower limbs. Morning : pain as if bruised in region of lowest true rib left side ; sticking pain above nipple ; pressure and bruised sensation in left side of chest ; pulse slower ; sweat scanty. Forenoon : stitches in abdomen ; violent pain in chest ; weakness in lower limbs. Day : tired and broken down. Immediately after dinner : stitches through abdomen. Afternoon : increased thirst ; nausea ; stitches in heel ; chilly, with heat in face <. Evening : pressing headache < ; pressure in temples ; stitches in ears ; nose stuffed up ; dry heat in face ; hypochondria feel painful ; heavy short breathing ; oppression of chest ; stitches and tightness in chest ; pulse full, hard, rapid ; trembling of limbs ; falls asleep late ; chilly, with heat in face <. Night : sleep disturbed by itching of chilblains ; wakes several times. After midnight : intermittent fever. Room : stitches or tightness in chest. Open air : stitches and tightness in chest, as if she had cold cloths applied to thorax ; well-covered chest is chilly. Change of temperature : causes or aggravates headache ; excites ovarian neuralgia ; stitches about chest ; trembling of limbs. From room into open air : vertigo ; pain in forehead and vertex <. From cold air into room : headache <. Sudden exposure to cold while overheated, or vice versa ; pneumonia. Cold : tenderness of breast < ; ulcers <. Draft of cold air : bruised pains in different parts of body <. Rainy stormy weather : sciatica < ; rheumatic pains <.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

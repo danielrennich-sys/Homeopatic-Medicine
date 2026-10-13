@@ -1,14 +1,19 @@
 {
   "id": "grindelia-camporum",
   "names": {
-    "primary": "Grindelia camporum (GREENE), Grindelia cuneifolia, Grindelia squarrosa",
-    "latin": "Grindelia camporum (GREENE), Grindelia cuneifolia, Grindelia squarrosa",
+    "primary": "Grindelia Camporum",
+    "latin": "Grindelia Camporum",
     "common": [
       "Grindelia"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Grindelia camporum (GREENE), Grindelia cuneifolia, Grindelia squarrosa"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

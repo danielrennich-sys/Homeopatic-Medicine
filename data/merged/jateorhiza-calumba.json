@@ -1,14 +1,19 @@
 {
   "id": "jateorhiza-calumba",
   "names": {
-    "primary": "Jateorhiza calumba (MIERS)",
-    "latin": "Jateorhiza calumba (MIERS)",
+    "primary": "Jateorhiza Calumba",
+    "latin": "Jateorhiza Calumba",
     "common": [
       "Calumba"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Jateorhiza calumba (MIERS)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

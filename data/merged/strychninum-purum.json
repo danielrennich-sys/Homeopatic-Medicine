@@ -1,14 +1,17 @@
 {
   "id": "strychninum-purum",
   "names": {
-    "primary": "STRYCHNINUM PURUM",
-    "latin": "STRYCHNINUM PURUM",
+    "primary": "Strychninum Purum",
+    "latin": "Strychninum Purum",
     "common": [
       "Alkaloid of Nux Vomica (STRYCHNINUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

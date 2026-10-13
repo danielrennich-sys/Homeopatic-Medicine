@@ -1,14 +1,19 @@
 {
   "id": "piper",
   "names": {
-    "primary": "Piper (U. S. P.)",
-    "latin": "Piper (U. S. P.)",
+    "primary": "Piper",
+    "latin": "Piper",
     "common": [
       "Piper"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Piper (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

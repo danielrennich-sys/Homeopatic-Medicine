@@ -1,14 +1,17 @@
 {
   "id": "torula-cerevisiae",
   "names": {
-    "primary": "TORULA CEREVISIAE",
-    "latin": "TORULA CEREVISIAE",
+    "primary": "Torula Cerevisiae",
+    "latin": "Torula Cerevisiae",
     "common": [
       "Saccharomyces - Yeast Plant"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

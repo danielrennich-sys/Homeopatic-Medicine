@@ -1,14 +1,19 @@
 {
   "id": "copaifera-langsdorffii",
   "names": {
-    "primary": "Copaifera Langsdorffii (DESF.)",
-    "latin": "Copaifera Langsdorffii (DESF.)",
+    "primary": "Copaifera Langsdorffii",
+    "latin": "Copaifera Langsdorffii",
     "common": [
       "Copaiba"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Copaifera Langsdorffii (DESF.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

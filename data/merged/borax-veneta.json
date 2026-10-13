@@ -1,8 +1,8 @@
 {
   "id": "borax-veneta",
   "names": {
-    "primary": "BORAX VENETA",
-    "latin": "BORAX VENETA",
+    "primary": "Borax Veneta",
+    "latin": "Borax Veneta",
     "common": [
       "Borate of Sodium (BORAX)"
     ],
@@ -11,6 +11,9 @@
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

@@ -8,13 +8,18 @@
       "Dulcamara"
     ],
     "synonyms": [
-      "DULCAMARA",
+      "Dulcamara. Bitter-sweet. (Solanaceae.)",
+      "Dulcamara. Solanum dulcamara",
       "Dulcamara. (Solanum dulcamara)",
       "Dulcamara (U. S. P.)",
       "Dulcamara (Solanum dulcamara)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -42,250 +47,23 @@
         "source_id": "hering-guiding-1879"
       }
     ],
-    "head": [
-      {
-        "text": "Mental confusion. Occipital pain ascending from nape of neck. Headache relieved by conversation. Rejects things asked for. Back part of head chilly, heavy, aching, during cold weather. Ringworm of scalp. Scaldhead, thick brown crusts, bleeding when scratched. Buzzing in head",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Vertigo when rising from bed, with darkness before the eyes. Giddiness early in the morning, > on getting up. Giddiness so as to occasion failing, with trembling of the whole body, and general weakness. Giddiness, with heat ascending to the face. Dull pressure, as if a board were resting heavily on the forehead. Pressive stunning pains in different parts of the head. Piercing and burning pain in the forehead, with digging from the inside outwards, with the sensation as if the brain were enlarged; in evening till midnight and when becoming cold; > when lying down. Bursting pains extending from forehead to bridge of nose. The headache is by the slightest movement, and even by speaking. Boring headache, from within to without, in the temples and forehead; before midnight and when lying quiet; > when talking. Sensation of heaviness in the head. Congestion in the head, with buzzing in the ears, and hardness of hearing. Sensation in the occiput as if it were enlarged. Stupefying headache; heaviness of the head. Stupefying ache in occiput ascending from nape of neck. Unpleasant sensation of chilliness in the cerebellum and over the back, with the sensation as if the hair were standing on end; returning everyday in the evening. Thick crusts on the scalp, causing the hair to fall off.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Sensation as of a board pressing against the forehead. Boring, burning in forehead, with digging in brain ; < from motion, even talking ; head heavy ; increased flow of saliva, with dryness of tongue and thirst ; pulse hard and tense ; great weakness and prostration in limbs. Boring headache from within to without, in the temples and forehead ; < before midnight and when lying quiet. Pressing, stupefying pain in forehead, with obstruction of nose. Bursting pains extending from forehead to bridge of nose. Stupefying ache in occiput, ascending from nape of neck. Chilliness in cerebellum and over back, returning every evening ; cerebellum as if enlarged ; < in cold, damp weather ; < until 2 P. M. ; > better lying down. Congestion to head, buzzing in ears, dull hearing ; < from getting feet wet. Feeling as if head was enlarged. Continual dull pain in head, chest, and stomach, with great uneasiness, depression of spirits, labored respiration, mental confusion, and inability to concentrate thoughts. θ Chronic. headache. Catarrhal and rheumatic headaches, < in damp, cold weather. Sensation of chilliness in cerebellum and over back ; feeling as if hair stood on end ; recurs every evening. Ringworm of scalp ; glands about throat swollen. Thick crusts on scalp, causing hair to fall out. Scald-head, thick, brown crusts with reddish borders on forehead, temples, and chin, bleeding when scratched. Tinea capitis, crusta lactea and dandruff, < by change of weather.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "nose": [
-      {
-        "text": "Dry coryza. Complete stoppage of nose. Stuffs up when there is a cold rain. Thick, yellow mucus, bloody crusts. Profuse coryza. Wants nose kept warm, least cold air stops the nose. Coryza of the new born",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Epistaxis of a very hot and bright red blood, with pressive pain above the nose. Coryza; dry; with stoppage of the nose, in cold air.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Nosebleed, hot, clear blood ; pressure above nose ; < after getting wet. Coryza, dry ; > during motion ; < during rest ; renewed by slightest exposure, and < in cold air. Severe coryza, skin hot, dry ; limbs cold, stiff, numb and painful ; general offensive sweat ; coryza with children. Nostrils entirely filled up, preventing breathing through nose, constant sneezing, profuse discharge of water from nose and eyes, < in open air, > in closed room, < on awaking in morning, in evening, eyes sometimes swelled and full, at one time nose most affected, then again. eyes, cannot be near cut grass or newly mown hay, > at sea-side. θ Hay fever. Stoppage of nose ; discharge suppressed from least contact with cold air. Nasal catarrh dry, in a dry atmosphere.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "eyes": [
-      {
-        "text": "Every time he takes cold it settles in eyes. Thick, yellow discharge; granular lids. Hay-fever; profuse, watery discharge, worse in open air",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Aching in the eyes, esp. when reading. Sensation as if fire were issuing from the eyes when walking in the sun or in the room. Inflammation of the eyes (ophthalmia from catching cold). Itching of the eyelids in the cold air. Ptosis. Eyelids dry. Sparks before the eyes. Confused sight, as from incipient amaurosis, sees everything as through gauze.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Aching in eyes when reading ; sight dim ; scintillations ; < at rest. Threatened amaurosis in scrofulous children. Dim sight, sees as through a gauze. Sparks before eyes. Sensation as if fire were darting out of eyes, when walking in sun or in room. Pupils greatly dilated. Idiopathic iritis after exposure in damp weather ; < at night, also in cold air ; > during motion and from warmth. Ophthalmia ; scrofulous, from every exposure to cold. Ophthalmia neonatorum (often accompanied by constipation), with chemosis of conjunctiva. Scrofulous blepharophthalmia and adenitis ; crusty eruption on margin of eyelids and swelling and induration of cervical glands. Twitching of eyelids in cold air. Paralysis of upper lids. Eruption of yellow vesicles under eyes ; bluish-red cheeks.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "ears": [
-      {
-        "text": "Earache, buzzing, stitches, and swelling of parotids. Middle-ear catarrh (Merc dulc; Kal mur)",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Otalgia, at night, with nausea. Acute pullings, with shootings in the ears.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Buzzing in the ears. Dull pains, humming in ears, obtuse hearing. Earache ; nausea ; buzzing ; < at night and when still. Earache the whole night, preventing sleep. Stitches in auditory meatus and parotid gland. Swelling of parotids ; also after measles.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "face": [
-      {
-        "text": "Tearing in cheek extending to ear, orbit, and jaw, preceded by coldness of parts, and attended by canine hunger. Humid eruption on cheeks and face generally",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Paleness of the face, with circumscribed redness of the cheeks. Eruptions and warts on the face. Thick, brownish or yellowish, scabs on the face, on the forehead, on the temples, and on the chin. Crusta lactea. Moist tetter in the cheeks. Twitching of the lips in the cold air. Paralysis of the lower jaw. Swelling of the sub-maxillary glands. Redness of the face. Distortion of the mouth; it is drawn to one side.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Complexion pale, watery or milky. Face pale, with circumscribed red cheeks. Face bloated ; dropsy. Facial neuralgia on left side, involving temple, ear, orbit and jaws ; usually seemed to start from malar bone ; paroxysms preceded by the parts becoming very cold, and attended by canine hunger ; < or excited by slightest exposure to cold ; > by external. warmth. Faceache and asthma, after disappearance of tetters in face. Humid eruptions on cheeks. Pimples and little ulcers around mouth, with tearing pains when moving the parts. Thick brown-yellow crusts on face, forehead, temples and chin ; crusta lactea. Thick brown herpetic crusts on face, with reddish borders, bleeding when scratched. Impetigo faciei. Warts and eruptions on face. Convulsions beginning in face. Twitchings of lips when in the cold air. Toothache with salivation. Teeth feel blunt. Mouth distorted ; drawn to one side.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "mouth_throat": [
-      {
-        "text": "Saliva tenacious, soapy. Dry, rough tongue, rough scraping in throat, after taking cold in damp weather. Cold-sores on lips. Facial neuralgia; worse, slightest exposure to cold",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Salivation; saliva tenacious, soap-like. Dryness of the tongue and roughness, with much thirst and increased flow of saliva. Tongue loaded with thick mucus. Swelling of the tongue, hindering speech and impeding breathing. Stammering from time to time as if drunk; indistinct articulation, though he tried constantly to speak. Pimples and ulcers in the mouth. Gums loosened and fungous. Paralysis of the tongue, and obstructed speaking, esp. after taking cold. Itching, crawling on the tip of the tongue. Sore throat, as if from elongation of the uvula, with pressive pain. Burning heat in the palate. Sore throat, as after a chill. Continual hawking up of very tough saliva, with much rawness in the fauces.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Toothache from cold, especially with diarrhœa ; confusion in head ; profuse salivation ; teeth feel blunt, or as if asleep. Scurvy from cold. Receding, spongy gums ; ptyalism. Bitter taste. Itching, crawling on tip of tongue. Mouth and tongue dry ; dry, swollen tongue. Dryness and roughness of tongue, with much thirst and increased flow of saliva. Swelling of tongue, hindering speech and impeding breathing. Inarticulate speech from a swollen tongue, but talks incessantly. Tongue and jaws become lame, if cold air or water chills him. Tongue paralyzed from cold. Saliva tenacious, soap-like ; gums spongy. Increased flow of saliva ; rheumatic. Mouth dry, without thirst. Stomacace, rheumatic, also after abuse of mercury, with ptyalism and swollen cervical glands. Mucous membrane of mouth greatly swollen and very red ; throughout its whole extent here and there raw, excoriated and very painful spots denuded of epithelium ; talking, chewing, and swallowing greatly impeded ; teeth thickly coated with tenacious, foul mucus, deeply. imprinting cheeks and edges on tongue ; constant flow of saliva, which as well as the breath, has a fetid, putrefactive odor ; attack preceded by paleness of face, heaviness of eyes, and lassitude of limbs. θ. Stomacace. Ulceration trivial, but swelling extreme, with spongy, loose gums and swollen tongue ; holds cold water constantly in mouth, as pain and heat is > thereby. θ Cancrum oris. Much mucus in fauces. Continual hawking up of very tough saliva, with much rawness in fauces. Tonsillitis from every cold change. Pressure, as if uvula were too long. Catarrhal angina after catching cold ; hyperemia of soft palate and uvula ; swelling of tonsils ; difficult deglutition.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "stomach_abdomen": [
-      {
-        "text": "Vomiting of white, tenacious mucus. Aversion to food. Burning thirst for cold drinks. Heartburn. Nausea accompanies the desire for stool. Chilliness during vomiting",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Colic from cold. Acts prominently on umbilical region. Cutting pain about navel. Swelling of inguinal glands (Merc)",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Sickly and saponaceous taste in the mouth. Bitterness in the mouth. Burning thirst for cold drinks, generally with dryness of the tongue, joined to a more abundant secretion of saliva. Hunger after the fever-heat. Hunger, with repugnance to all food. Distension of the abdomen and epigastrium after eating moderately. Nausea, with vomiting of viscid phlegm. Vomiting of (white) tenacious mucus (morning). Aching in the stomach, extending to the chest. Cramp-like contraction in the stomach, so as to suspend respiration. Retraction of the epigastrium, with burning pain. Sensation of inflation in the pit of the stomach, with disagreeable sensation of emptiness in the abdomen. Retraction of the pit of the stomach, with burning pain. Pains in the umbilical region. Shooting, pinchings, and cuttings in the umbilical region, esp. at night. Pinchings, gnawing, and sensation as if a worm were wriggling in the abdomen. Pain in the abdomen as from the effects of cold. Inflammatory congestion and induration of the inguinal glands, with drawing and tensive pains. Swelling of the inguinal glands. Dropsy of the abdomen.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Dulc.]. Hunger, without appetite. θ Pemphigus. Hunger, after the fever. Great thirst for cold drinks. Unquenchable thirst. Aversion to food ; shuddering as though he would vomit. Empty eructations, with shuddering as from disgust. Frequent eructations while eating. Nausea, loss of appetite. θ Cholerine. Nausea, vomiting, disgust for coffee, great thirst. Nausea accompanies the desire for stool ; general prostration. θ Diarrhœa from cool change of weather. Great chilliness during vomiting. Vomiting, early in morning, of tenacious mucus. Vomiting : of greenish, yellow, slimy substances, together with the liquid drank ; after cold drinks. Retraction and burning in epigastric region. Sensation of inflation in pit of stomach, with disagreeable sensation of emptiness in abdomen. Diaphragmitis, with simultaneous rheumatic affections of spinal cord. Indigestion with chilliness, < every cool change of weather. Cutting pain about navel. Violent pinching in abdomen, as if worms were crawling up and down in it and were gnawing and pinching the parts. Colic, as if diarrhœa would occur, with rumbling in bowels and pain in small of back. Colic after a cold ; griping, nausea, followed by diarrhœa. Colic, such as is usually caused by cold and wet weather. Dropsy of the abdomen. Swelling of inguinal glands from a cold.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "stool_rectum": [
-      {
-        "text": "Green, watery, slimy, bloody, mucus, especially in summer, when the weather suddenly becomes cold; from damp, cold weather and repelled eruptions",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Constipation. Difficult, dry, infrequent stool. Diarrhœa, as after a chill, with cuttings, or with vomitings, risings, and thirst. Diarrhœa of greenish (white) or brownish mucus. Slimy diarrhœa, with faintness. Chronic, bloody diarrhœa, with biting at the anus. Sanguineous diarrhœa, with itching in the anus, and prolapsus of the rectum. Nocturnal watery diarrhœa, with colic, particularly in the summer; also when the weather suddenly becomes cool. with prolapsus recti.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Vomiting and diarrhœa, with great inclination to chilliness during vomiting ; copious mucous, or watery yellowish evacuations, expelled with much force ; faintness when at stool. θ. Influenza. Desire for stool, in evening, with griping in whole lower abdomen, followed by a large, moist, at last very thin, sour smelling stool, after which relief, but feeling of weakness. Nightly stools with colic, especially in umbilical region ; loss of appetite, thirst, nausea, vomiting, pale face, languor, restlessness. Severe cutting in abdomen, < about umbilicus, followed by nausea, cold sweat, watery diarrhœa and occasional vomiting ; at night, stools follow each other in rapid succession, nausea is constant, with eructations and violent thirst ; biting in rectum as from salt. evacuations often green, bilious. θ After exposure. Alternately watery, or slimy, or dark-brown fecal diarrhœa, preceded by cutting in abdomen and followed by burning in anus ; tongue coated, no appetite ; abdomen bloated. θ Diarrhœa. and catarrh of stomach. Bloody diarrhœa of fifteen months duration, brought on by exposure to cold and dampness ; violent cutting around navel, < at night ; unceasing, unquenchable thirst ; pain and diarrhœa allow no sleep at night ; rectum protrudes ; biting at anus, as from. pepper. Diarrhœa with great prostration or colicky pains around umbilicus ; < after every change of cold weather. Drawing and tearing in limbs, stiffness of limbs ; painful stiffness of nape of neck ; pain in small of back ; diarrhœa without much pain ; little urging ; slimy, bloody discharges. θ. Dysentery. Profuse diarrhœa with severe cutting in abdomen ; evacuations mucous and bloody with tenesmus and pain in back ; chilliness alternating with heat, great thirst. Patient lies in a constant drowsy condition, cheeks slightly flushed, soft and painless bloating of abdomen, great emaciation of body, aversion to all food ; painless, thin, yellowish, greenish, watery stools, sometimes passing involuntarily, and containing flakes of mucus. urine turbid with white sediment ; neither speaks nor eats ; at night, moaning and restless tossing about. Patient pale, weak, emaciated and without least desire for food ; after eating, morning, and frequently in evening, and particularly in damp weather, watery, slimy, lienteric stool, preceded by pains in abdomen and followed by tenesmus. θ. Chronic diarrhœa. Thin stools, several afternoons in succession, with flatulence. Yellow watery diarrhœa twice a day, with tearing cutting colic before each evacuation, as after taking cold. Slimy diarrhœa with faintness. Slimy, alternate yellow and greenish diarrhœa. Slimy, brown, liquid stools. θ Pemphigus. Intestinal catarrh with mucous stools and tenesmus. Chronic, bloody diarrhœa, with biting at anus, or with vomiting, eructations and thirst. Stools : frequent ; scanty ; corrosive ; whitish, watery ; with flocculi ; slimy, mucous, watery, yellow-green ; changeable, white, yellow or green ; watery ; sour smelling ; nausea, with desire to evacuate ; < at night and. in wet weather. Diarrhœa : from cold, or change from warm to cold, especially cold, damp weather ; in morning, profuse thin stools ; of rheumatic origin ; during dentition ; with colic, particularly in summer ; with prolapsus recti. Dysentery, from cold, damp weather ; increased flow of saliva ; burning, itching of rectum ; heat of skin ; thirst. Cholera infantum, relapse from an unusually cold night or caused thereby. Constipation and painful strangury.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "urinary": [
-      {
-        "text": "Must urinate when getting chilled. Strangury, painful micturition. Catarrh of bladder from taking cold. Urine has thick, mucous, purulent sediment. Ischuria from wading with bare feet in cold water",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Retention of urine. Scanty and fetid urine. Clear and viscid urine, or troubled, with sediment-like mucus. Red, burning urine. Involuntary discharge of urine, as from paralysis of the bladder. Difficult (painful) urination, water issuing drop by drop. Thickening of the bladder. Discharge of mucus from the urethra. Stricture of the urethra. Turbid and whitish urine.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Dropsy, with pain in region of kidneys, and albumen in urine. Bright's disease from exposure to cold and dampness. Constant desire to urinate, felt deep in abdomen. θ Cystitis. Constant desire to urinate, with an unpleasant sensation of bearing down towards the vesical region and urethra. Retention of urine ; strangury from cold, or cold drinks. Urine passed involuntarily. θ Paralysis of bladder. Catarrh with strangury, followed after six weeks by incontinence of urine ; very impatient, scolding and irritable mood. Painful pressing about bladder and urethra, discharge of a few drops of urine, with mucous sediment. Burning in meatus urinarius while urinating. Urine : scanty, fetid, turbid ; on standing, oily ; containing a tough, jelly-like, white or red mucus mixed with blood ; milky ; fetid or muco-purulent ; reddish, burning. Emission of urine, drop by drop ; slimy sediment. Urine offensive, turbid when passed, and excoriating the skin. θ Pemphigus. Catarrh of the bladder from taking cold in damp weather.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "female": [
-      {
-        "text": "Suppression of menses from cold or dampness. Before appearance of menses, a rash appears on skin, or sexual excitement. Dysmenorrhœa, with blotches all over; mammæ engorged and sore, delicate, sensitive to cold",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Catamenia retarded, and too abundant; blood watery, thin. Tettery eruption of the labia. Miliary eruption before the catamenia. Suppressed menstruation from cold. Tetters on the breast in nursing women. Suppression of milk from a cold.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Heat and itching in genitals, with desire for an embrace, < by a cold change in the weather. Menses too late and too short ; blood watery, thin ; suppressed by cold. Dysmenorrhœa in those taking cold easily ; has blotches all over, especially in cold, damp weather ; liable to take cold in head. Rash before menses. As a forerunner of catamenia, a rash appearing on skin, with extraordinary sexual excitement during rash and catamenia. Herpetic eruptions on vulva, < by every cold change of weather, or by exposure in cold, damp situations. Catarrhal ailments in damp, cold weather. Mamma engorged, hard, sore and painful, with leucorrhœa or amenorrhœa. PREGNANCY. PARTURITION. LACTATION. [24] [Dulc.]. Threatened miscarriage induced by exposure in a damp, cold place, as in a spring-house or cellar. Lochia suppressed by cold or damp. Mamma swollen, inactive, painless, itching, in consequence of a cold which seems to have settled in them. Suppression of milk or lochia, from taking cold. Herpes on mamma ; nursing women. After weaning, mother has eruptions on the skin ; sore nipples.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "respiratory": [
-      {
-        "text": "Cough worse cold, wet weather, with free expectoration, tickling in larynx. Cough, hoarse, spasmodic. Whooping-cough, with excessive secretion of mucus. Winter coughs, dry, teasing. Asthma with dyspnœa. Loose, rattling cough; worse wet weather. Must cough a long time to expel phlegm. Cough after physical exertion",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Dulc.]. Rough, hoarse voice. θ Catarrh after measles. Constant titillation in larynx, with desire to cough. Trachea full of mucus, tough, greenish expectoration with moderate cough. θ Laryngo tracheitis. Influenza. Bronchitis of children, caused by cold, damp air, with offensive smelling night-sweats. Labored respiration. Asthma, with faceache, after disappearance of tetters in face. Asthma humidum, dyspnœa, loose rattling cough, copious sputa ; < during wet weather. Oppression of chest, from mucus. Cough dry, hoarse, and rough, or, loose, with copious expectoration of mucus, and dull hearing. θ Catarrhal fever. Cough from damp, cold atmosphere, or from getting wet ; must cough a long time to expel phlegm, especially infants and old people ; threatened paralysis of vagi. Spasmodic cough, with profuse secretion of mucus in larynx and trachea. Barking cough after a deep breath. Panting cough, like whooping cough, < from each deep inspiration. Whooping cough ; attacks excited by excessive secretion of mucus in larynx and trachea ; during each attack easy expectoration of tasteless mucus, often streaked with blood. Chronic mucous cough after measles. Cough : < lying down, from warmth of room, or deep inspiration ; > in open air. During cough : stitches in sides ; hoarseness. Tough, greenish expectoration, with moderate cough ; diarrhœa ; great disposition to catch cold. θ Phthisis. Easy expectoration of tasteless mucus, often streaked with blood. Expectoration of bright blood.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "back": [
-      {
-        "text": "Stiff neck. Pain in small of back, as after long stooping. Stiffness and lameness across neck and shoulders, after getting cold and wet",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Stiffness at the nape of the neck. Stiffness of the neck from a cold. Engorgement and induration of the glands of the nape, and of the neck. Violent pains in the lumbar region, above the hips, digging, shooting, or drawing, chiefly at night during repose. Lameness of the small of the back, from a cold. Shooting pullings in the loins, shoulders, and arms.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Neck stiff, back painful, loins lame, after taking cold. Pain in nape, as if head had been lying in an uncomfortable position. Swelling of glands on neck. Adenitis, glands swollen, often very painful and sensitive ; cervical and submaxillary lymphatic glands (with a sub-inflammatory condition), painful every turn of head. Chilliness with dull pain in region of lower cervical and upper dorsal vertebræ ; difficulty in raising head or turning about in bed ; at night, fever, sleeplessness ; in morning motion of arms greatly impaired, as if they were of wood, numbness and formication in right. hand, cannot close the hand ; pulse 100, hard ; temperature of skin elevated ; tongue dry ; loss of appetite ; urine scanty, dark, offensive, ammoniacal ; stool absent ; spine not sensitive to pressure ; cervical portion of spinal column stiff, any. motion thereof causing disagreeable tension and dull pain deep in, which extends toward both shoulders. θ Myelitis. Lassitude, pains like those brought on by a cold ; dryness, heat and burning of skin ; restlessness ; delirium at night ; nausea and vomiting of mucus ; sensation of inflation at pit of stomach ; white mucous diarrhœa ; diarrhœa with faintness. oppression or tightness of chest ; pinching or deep cutting pain in chest ; constrictive pain as if in muscles of back ; drawing in muscles of thigh ; bloatedness and swelling of leg ; burning in feet ; < at night, from cold, while lying down and from. washing. θ Myelitis. Spinal meningitis during scarlatina or measles, eruption does not develop. Myelitis after taking cold during menstruation. Hyperemia of the spinal cord. Rheumatic affections of spinal cord. Dull stitches in both loins, with sensation as of squeezing from within outward, at every inspiration, while sitting bent (after a short walk). Deeply cutting pain in right loin, transiently disappearing upon pressure. Drawing pain from small of back down thighs, during rest ; stitches when moving, > by pressure. Pain in small of back, as after stooping a long time. Severe rheumatic stitching pressing pains in arms and back, after catching cold while sweating ; pains < at night and while resting ; > from motion ; slight fever, much thirst. Burning in head, with stupefying headache, red face, dry tongue, burning heat in gums, unquenchable thirst for extremely cold drinks ; anorexia ; urine very red, with painful burning on urination ; sleepless ; skin dry and hot, burning sensation in skin ; severe. rheumatic stitching, drawing in small of back, shoulders, and arms ; after getting wet whilst warm. Lameness in the small of the back, from a cold. Cold chilly feeling in small of back. Sacrum feels cold.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "extremities": [
-      {
-        "text": "Paralysis; paralyzed limbs, feet icy cold. Warts on hands. Perspiration on palms of hands. Pain in shin-bones. Rheumatism alternates with diarrhœa. Rheumatic symptoms after acute skin eruptions",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Paralysis of arms ; they are icy cold, especially during rest. Paralytic, bruised pain in left arm. Herpes on arms and hands. Exostosis on the arm, from suppressed itch. Warts on hands, on backs of fingers. Sweat in palms of hands. Drawing-tearing pain, or constant pain, at one time sticking, at another pinching, in both thighs, disappearing on walking, then changing to weariness, and immediately returning while sitting. Drawing from small of back through thighs, during rest, with stitches in parts during motion, which are > by pressure. Herpetic eruption on knee. Exostosis on upper part of right tibia, with bluish-red spots ; suppurating lumps. Intolerable (non-syphilitic) pains in shin-bones, < at night, from rest, obliging him to walk the floor, and in damp weather. Swelling of calf of leg ; scrofula. Gout in big toe ; first left, then right. Tingling and burning in feet. Erysipelas of feet ; skin peels off ; itching. Cold limbs. Rheumatism after acute eruptions, or when chronic forms alternate with attacks of diarrhœa. After getting wet, tearing in limbs, particularly in feet ; restless sleep, profuse sweat. Stitching-drawing and tearing pains in limbs after an acute eruption or after catching cold ; < at night, or during evening, when there is an exacerbation of fever. Rheumatism after exposure to wet ; parts as if beaten ; severe pains when remaining in one position, subside only when he moves about. Pains in the joints on exposure to cold. Sharp shooting pains in left toes and thumb. Sudden swelling of body and puffiness of limbs, at times painful, or accompanied by a sensation as if going to sleep. White blotches with red areola on arms and thighs.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "skin": [
-      {
-        "text": "Adenitis. Pruritus, always worse in cold, wet weather. Herpes zoster, pemphigus. Swelling and indurated glands from cold. Vesicular eruptions. Sensitive bleeding ulcers. Little boils. Red spots, urticaria, brought on by exposure, or sour stomach. Humid eruptions on face, genitals, hands, etc. Warts, large, smooth, on face and palmar surface of hands. Anasarca. Thick, brown-yellow crusts, bleeding when scratched",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Dryness and heat of the skin. Miliary nettle-rash, with fever. Tetters of different kinds, such as humid, scaly, pale tetters, oozing after having been scratched; reddish tetters, with red areola, bleeding after having been scratched; tetters with red edges, painfully sensitive to the touch, and to cold water; small, round, yellowish-brown tetters, bleeding after having been scratched; dry, furfuraceous tetters. Tettery scabs over the whole body. Tettery eruptions, with swelling of the glands. Warts. Tetters in the joints. Eruption of itching pustules, which pass into suppuration, and become covered with a scab, esp. in the lower limbs and the hinder part of the body. Red spots, as if caused by flea-bites.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Skin hot and dry. Sticking itching in various parts of body. Sticking sensation as of needles, over whole surface of body. θ Urticaria. Burning itching, like the rapid crawling of insects. Skin delicate and sensitive to cold ; has urticaria or some other eruption every time she takes cold, or is long exposed to cold. Vesicular eruption, large as a pea, containing yellow, translucent fluid, and on a red, inflamed base, covering whole body, except face. θ Pemphigus. Vesicular eruption on face and extremities, oozing a watery fluid. Tetter, oozing a watery fluid, bleeds after scratching. Eruption of itching pustules, ceasing to itch after scabbing over ; sensitive to touch ; < from washing. Bright red acuminated pimples, filling with pus. Small furuncles on places formerly injured by concussion. Red spots, as from flea-bites. Nettle-rash over whole body, without fever. Nettle-rash ; with much itching ; after scratching in burns ; < in warmth, > in cold ; with gastric fever. Eczema scrofulosum ; tettery crusts over whole body ; glandular enlargements ; exudating vesicles on face and extremities ; eruption of itching vesicles, which pass into suppuration, and become covered with a crust, especially on lower limbs and posterior. surface of body. Impetiginous eczema of scrofulous children. Thick brown herpes, red border ; glands swollen. Thick crusts all over body. Round, scaly and small herpes ; suppurating yellow herpes. Herpetic eruptions associated with fetid perspiration ; skin affection < by application of cold water. Herpes preputialis, easily bleeding, brown, dry, humid or furfuraceous, red, pale-red or with a red areola. Lichen (mehlflechte) on knee, old, obstinate, size of a dollar. Retrocession of eruptions, from exposure to damp, cold air. Suppressed itch. Skin callous. Warts, fleshy, or large, smooth ; on dorsa of hands and on face. Insensible, painless ulcers, hard, sensitive ; < at night, from wet or cold and when weather changes. Painful ulcers ; discharge scanty. Swelling and induration of glands.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "fever_chill": [
-      {
-        "text": "Dry burning heat all over. Chilliness towards evening, mostly in back. Icy coldness, with pains. Dry heat and burning of skin. Chilliness with thirst",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "In the evening, frequent shiverings and coldness, not even relieved by the heat of the fire. Cold during the pains. At first, febrile shivering, then burning heat with stunning pain in the head, face red, burning heat in the palate, and insatiable thirst for cold drinks. Dry, burning heat over the whole body. Heat and burning in the back. Dry heat and burning sensation in the skin, with delirium and thirst. Heat with delirium without thirst. Fever, with aggravation in the evening. Pulse small, hard, and tight, esp. at night. General sweat, esp. at night. Fetid sweat, with discharge of much urine. Fetid perspiration, at night and in the morning, over the whole body; during the day, more on the back, in the armpits and hands. Perspiration suppressed and entirely wanting. Copyright © Médi-T ® 2000 Main.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Chilliness of back, without thirst, in open air, but especially in a draft. Chilliness, mostly towards evening, over back, nape of neck, occiput, with sensation as if hair stood on end. Shaking, with a feeling of coldness, or actual coldness over whole body, cannot get warm near hot stove, with shuddering from time to time. Chill commencing in or spreading from back, not > by warmth ; mostly towards evening. Chill : with pains ; with violent thirst ; without thirst. Chilliness alternating with fever, mind dull, face red, skin dry and hot ; nausea with anxiety ; sleeplessness at night ; pulse feels hard, somewhat accelerated ; general prostration. θ. Diarrhœa. General dry burning heat all over. Heat : burning in back ; with delirium ; without thirst. Burning in skin of whole back as if he were sitting by a hot stove, with sweat in face and moderate heat. Double tertian fever. Scarlet fever, particularly in scrofulous subjects, pain in limbs, cold shuddering up back in evening, vomiting followed in many cases by sopor ; dry burning heat of skin ; frequently, suppression of urine. As the case progresses, the pains become. particularly severe in head and feet ; eruption assumes a miliary character, although light-red spots can also be detected ; redness of gums and throat, with difficult deglutition ; great swelling of the glands of neck and of those about ears ; at times the inflammation. extends to larynx, causing a croupous cough ; high fever with delirium and thirst ; urine turbid and offensive. Cases where the eruption is scanty and does not develop properly, looking very much like a nettlerash, with slight anginose symptoms, but severe pains in limbs, which. often cause crying and are frequently followed by œdematous swelling of whole body ; extremely tardy desquamation. Typhoid fever, when patient distinctly remembers having taken cold ; tongue clean, stools yellow, liquid, with rumbling, cutting, digging and griping pain in umbilical region or whole abdomen. Fevers caused by exposure ; living in damp rooms, sleeping in a damp bed ; during cold, rainy, changeable weather. Fetid sweat, with skin diseases ; copious limpid urine. Offensive sweat, night and morning, over whole body ; during day, more over back, in axillæ and palms. Sweat suppressed and entirely wanting. Conditions arising from sudden cooling of body whilst sweating.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "modalities": {
-      "better_from": [
-        {
-          "text": "from moving about, external warmth",
-          "source_id": "boericke-1927"
-        }
-      ],
-      "worse_from": [
-        {
-          "text": "at night; from cold in general, damp, rainy weather",
-          "source_id": "boericke-1927"
-        }
-      ]
-    },
-    "relationships": {
-      "complementary": [
-        "Baryta carb"
-      ],
-      "antidoted_by": [
-        "Camph",
-        "Cupr"
-      ],
-      "_raw": [
-        "Dulc. antidotes: Cupr. and Merc. Is antidoted by: Camph., Cup., Ip., Kali c., Merc. Follows well: Bry., Calc. c., Lyc., Rhus t., Sep., Verat. Incompatible: Bell., Lach. Complementary: Baryta c. Compare: Acon., Ars., Cham., Helleb., Nit. ac., Puls., Staph., Sul. In faintness during stool, Crot. t., Ver. Effects of cold, moist winds, Ars., Calc., Nux m. (cold, dry winds, Aco., Bry.). Effects of exposure to wet, and > by motion, Rhus. Rheumatic paralysis, Rhus, Caust. Hasty speech and actions, Hep., Bell., Lach., Sul. Paralysis of lungs, Solania.",
-        "It antidotes : Cuprum, Mercur",
-        "Antidoted by : Camphor. Cuprum, Ipec., Kali carb., Mercur",
-        "Compatible after : Bryon, Calc. ostr., Lycop., Rhus tox., Sepia, Veratr",
-        "Incompatible : Bellad., Laches",
-        "Complementary : Baryta carb",
-        "Compare : Acon., Act rac., Arsen., Bellad., Bryon., Calc. ostr., Cham., Cuprum, Helleb., Ipec., Kali carb., Lycop., Mercur., Nitr. ac., Pulsat., Rhus tox., Sepia, Staphis., Stannum, Sulphur and Veratr",
-        "Copyright © Médi-T ® 2002",
-        "Main"
-      ]
-    },
-    "dosing": {
-      "notes": "Second to thirtieth potency"
-    },
     "keynotes": [
+      {
+        "text": "Adapted to persons of phlegmatic scrofulous constitutions; restless, irritable. Catarrhal rheumatism or skin affections, brought on or aggravated by exposure to cold, damp, rainy weather, or sudden changes in hot weather (Bry.). Increased secretions of mucous membranes; perspiration being suppressed from cold. Patients living or working in a damp, cold basement, or a milk dairy (Aran., Ars., Nat. s.). Mental confusion; cannot find the right word for anything. Skin is delicate, sensitive to cold, liable to eruptions, especially urticaria; every time patient takes cold or is long exposed to cold. Anasarca; after ague, rheumatism, scarlet fever. Dropsy: after suppressed sweat; suppressed eruptions; exposure to cold. Diarrhoea: from taking cold in damp places, or during damp, foggy weather; change from warm to cold weather (Bry.). Catarrhal ischuria in grown-up children, with milky urine; from wading with bare feet in cold water; involuntary. Rash before the menses (Con. - during profuse menses, Bell., Graph.). Urticaria over whole body, no fever; itching burns after scratching; in cold. Thick, brown-yellow crusts on scalp, face, forehead, temples, chin; with reddish borders, bleeding when scratched. Warts, fleshy, large, smooth; on face or back of hands and fingers (Thuja.).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Complementary: to, Baryta carb., Kali s. Incompatible: with, Acet. ac., Bell., Lach., should not be used before or after. Follows well: after, Cal., Bry., Lyc., Rhus, Sep. Similar: to, Mer., in ptyalism, glandular swellings, bronchitis, diarrhoea; susceptibility to weather changes; night pains; to, Kali s. the chemical analogue. For the bad effects or abuse of Mercury.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - From cold in general; cold air; cold wet weather; suppressed menstruation, eruptions, sweat.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Amelioration. - From moving about (Fer., Rhus).",
+        "source_id": "allen-keynotes-1899"
+      },
       {
         "text": "color=\"#800000\">DULCAMARA Bitter-sweet Hot days and cold nights towards the close of summer are especially favorable to the action of Dulcamara, and is one of the remedies that correspond in their symptoms to the conditions found as effects of damp weather, colds after exposure to wet, especially diarrhœa. It has a specific relation also to the skin, glands, and digestive organs, mucous membranes secreting more profusely while the skin is inactive. The rheumatic troubles induced by damp cold are aggravated by every cold change and somewhat relieved by moving about. Results from sitting on cold, damp ground. Icy coldness. One-sided spasms with speechlessness. Paralysis of single parts. Congestive headache, with neuralgia and dry nose. Patients living or working in damp, cold basements (Nat sulph). Eruptions on hands, arms or face around the menstrual period.",
         "source_id": "boericke-1927"
@@ -715,6 +493,255 @@
         "source_id": "nash-leaders-1899"
       }
     ],
+    "head": [
+      {
+        "text": "Mental confusion. Occipital pain ascending from nape of neck. Headache relieved by conversation. Rejects things asked for. Back part of head chilly, heavy, aching, during cold weather. Ringworm of scalp. Scaldhead, thick brown crusts, bleeding when scratched. Buzzing in head",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Vertigo when rising from bed, with darkness before the eyes. Giddiness early in the morning, > on getting up. Giddiness so as to occasion failing, with trembling of the whole body, and general weakness. Giddiness, with heat ascending to the face. Dull pressure, as if a board were resting heavily on the forehead. Pressive stunning pains in different parts of the head. Piercing and burning pain in the forehead, with digging from the inside outwards, with the sensation as if the brain were enlarged; in evening till midnight and when becoming cold; > when lying down. Bursting pains extending from forehead to bridge of nose. The headache is by the slightest movement, and even by speaking. Boring headache, from within to without, in the temples and forehead; before midnight and when lying quiet; > when talking. Sensation of heaviness in the head. Congestion in the head, with buzzing in the ears, and hardness of hearing. Sensation in the occiput as if it were enlarged. Stupefying headache; heaviness of the head. Stupefying ache in occiput ascending from nape of neck. Unpleasant sensation of chilliness in the cerebellum and over the back, with the sensation as if the hair were standing on end; returning everyday in the evening. Thick crusts on the scalp, causing the hair to fall off.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sensation as of a board pressing against the forehead. Boring, burning in forehead, with digging in brain ; < from motion, even talking ; head heavy ; increased flow of saliva, with dryness of tongue and thirst ; pulse hard and tense ; great weakness and prostration in limbs. Boring headache from within to without, in the temples and forehead ; < before midnight and when lying quiet. Pressing, stupefying pain in forehead, with obstruction of nose. Bursting pains extending from forehead to bridge of nose. Stupefying ache in occiput, ascending from nape of neck. Chilliness in cerebellum and over back, returning every evening ; cerebellum as if enlarged ; < in cold, damp weather ; < until 2 P. M. ; > better lying down. Congestion to head, buzzing in ears, dull hearing ; < from getting feet wet. Feeling as if head was enlarged. Continual dull pain in head, chest, and stomach, with great uneasiness, depression of spirits, labored respiration, mental confusion, and inability to concentrate thoughts. θ Chronic. headache. Catarrhal and rheumatic headaches, < in damp, cold weather. Sensation of chilliness in cerebellum and over back ; feeling as if hair stood on end ; recurs every evening. Ringworm of scalp ; glands about throat swollen. Thick crusts on scalp, causing hair to fall out. Scald-head, thick, brown crusts with reddish borders on forehead, temples, and chin, bleeding when scratched. Tinea capitis, crusta lactea and dandruff, < by change of weather.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Dry coryza. Complete stoppage of nose. Stuffs up when there is a cold rain. Thick, yellow mucus, bloody crusts. Profuse coryza. Wants nose kept warm, least cold air stops the nose. Coryza of the new born",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Epistaxis of a very hot and bright red blood, with pressive pain above the nose. Coryza; dry; with stoppage of the nose, in cold air.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Nosebleed, hot, clear blood ; pressure above nose ; < after getting wet. Coryza, dry ; > during motion ; < during rest ; renewed by slightest exposure, and < in cold air. Severe coryza, skin hot, dry ; limbs cold, stiff, numb and painful ; general offensive sweat ; coryza with children. Nostrils entirely filled up, preventing breathing through nose, constant sneezing, profuse discharge of water from nose and eyes, < in open air, > in closed room, < on awaking in morning, in evening, eyes sometimes swelled and full, at one time nose most affected, then again. eyes, cannot be near cut grass or newly mown hay, > at sea-side. θ Hay fever. Stoppage of nose ; discharge suppressed from least contact with cold air. Nasal catarrh dry, in a dry atmosphere.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Every time he takes cold it settles in eyes. Thick, yellow discharge; granular lids. Hay-fever; profuse, watery discharge, worse in open air",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Aching in the eyes, esp. when reading. Sensation as if fire were issuing from the eyes when walking in the sun or in the room. Inflammation of the eyes (ophthalmia from catching cold). Itching of the eyelids in the cold air. Ptosis. Eyelids dry. Sparks before the eyes. Confused sight, as from incipient amaurosis, sees everything as through gauze.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Aching in eyes when reading ; sight dim ; scintillations ; < at rest. Threatened amaurosis in scrofulous children. Dim sight, sees as through a gauze. Sparks before eyes. Sensation as if fire were darting out of eyes, when walking in sun or in room. Pupils greatly dilated. Idiopathic iritis after exposure in damp weather ; < at night, also in cold air ; > during motion and from warmth. Ophthalmia ; scrofulous, from every exposure to cold. Ophthalmia neonatorum (often accompanied by constipation), with chemosis of conjunctiva. Scrofulous blepharophthalmia and adenitis ; crusty eruption on margin of eyelids and swelling and induration of cervical glands. Twitching of eyelids in cold air. Paralysis of upper lids. Eruption of yellow vesicles under eyes ; bluish-red cheeks.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Earache, buzzing, stitches, and swelling of parotids. Middle-ear catarrh (Merc dulc; Kal mur)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Otalgia, at night, with nausea. Acute pullings, with shootings in the ears.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Buzzing in the ears. Dull pains, humming in ears, obtuse hearing. Earache ; nausea ; buzzing ; < at night and when still. Earache the whole night, preventing sleep. Stitches in auditory meatus and parotid gland. Swelling of parotids ; also after measles.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "face": [
+      {
+        "text": "Tearing in cheek extending to ear, orbit, and jaw, preceded by coldness of parts, and attended by canine hunger. Humid eruption on cheeks and face generally",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Paleness of the face, with circumscribed redness of the cheeks. Eruptions and warts on the face. Thick, brownish or yellowish, scabs on the face, on the forehead, on the temples, and on the chin. Crusta lactea. Moist tetter in the cheeks. Twitching of the lips in the cold air. Paralysis of the lower jaw. Swelling of the sub-maxillary glands. Redness of the face. Distortion of the mouth; it is drawn to one side.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Complexion pale, watery or milky. Face pale, with circumscribed red cheeks. Face bloated ; dropsy. Facial neuralgia on left side, involving temple, ear, orbit and jaws ; usually seemed to start from malar bone ; paroxysms preceded by the parts becoming very cold, and attended by canine hunger ; < or excited by slightest exposure to cold ; > by external. warmth. Faceache and asthma, after disappearance of tetters in face. Humid eruptions on cheeks. Pimples and little ulcers around mouth, with tearing pains when moving the parts. Thick brown-yellow crusts on face, forehead, temples and chin ; crusta lactea. Thick brown herpetic crusts on face, with reddish borders, bleeding when scratched. Impetigo faciei. Warts and eruptions on face. Convulsions beginning in face. Twitchings of lips when in the cold air. Toothache with salivation. Teeth feel blunt. Mouth distorted ; drawn to one side.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Saliva tenacious, soapy. Dry, rough tongue, rough scraping in throat, after taking cold in damp weather. Cold-sores on lips. Facial neuralgia; worse, slightest exposure to cold",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Salivation; saliva tenacious, soap-like. Dryness of the tongue and roughness, with much thirst and increased flow of saliva. Tongue loaded with thick mucus. Swelling of the tongue, hindering speech and impeding breathing. Stammering from time to time as if drunk; indistinct articulation, though he tried constantly to speak. Pimples and ulcers in the mouth. Gums loosened and fungous. Paralysis of the tongue, and obstructed speaking, esp. after taking cold. Itching, crawling on the tip of the tongue. Sore throat, as if from elongation of the uvula, with pressive pain. Burning heat in the palate. Sore throat, as after a chill. Continual hawking up of very tough saliva, with much rawness in the fauces.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Toothache from cold, especially with diarrhœa ; confusion in head ; profuse salivation ; teeth feel blunt, or as if asleep. Scurvy from cold. Receding, spongy gums ; ptyalism. Bitter taste. Itching, crawling on tip of tongue. Mouth and tongue dry ; dry, swollen tongue. Dryness and roughness of tongue, with much thirst and increased flow of saliva. Swelling of tongue, hindering speech and impeding breathing. Inarticulate speech from a swollen tongue, but talks incessantly. Tongue and jaws become lame, if cold air or water chills him. Tongue paralyzed from cold. Saliva tenacious, soap-like ; gums spongy. Increased flow of saliva ; rheumatic. Mouth dry, without thirst. Stomacace, rheumatic, also after abuse of mercury, with ptyalism and swollen cervical glands. Mucous membrane of mouth greatly swollen and very red ; throughout its whole extent here and there raw, excoriated and very painful spots denuded of epithelium ; talking, chewing, and swallowing greatly impeded ; teeth thickly coated with tenacious, foul mucus, deeply. imprinting cheeks and edges on tongue ; constant flow of saliva, which as well as the breath, has a fetid, putrefactive odor ; attack preceded by paleness of face, heaviness of eyes, and lassitude of limbs. θ. Stomacace. Ulceration trivial, but swelling extreme, with spongy, loose gums and swollen tongue ; holds cold water constantly in mouth, as pain and heat is > thereby. θ Cancrum oris. Much mucus in fauces. Continual hawking up of very tough saliva, with much rawness in fauces. Tonsillitis from every cold change. Pressure, as if uvula were too long. Catarrhal angina after catching cold ; hyperemia of soft palate and uvula ; swelling of tonsils ; difficult deglutition.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Vomiting of white, tenacious mucus. Aversion to food. Burning thirst for cold drinks. Heartburn. Nausea accompanies the desire for stool. Chilliness during vomiting",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Colic from cold. Acts prominently on umbilical region. Cutting pain about navel. Swelling of inguinal glands (Merc)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Sickly and saponaceous taste in the mouth. Bitterness in the mouth. Burning thirst for cold drinks, generally with dryness of the tongue, joined to a more abundant secretion of saliva. Hunger after the fever-heat. Hunger, with repugnance to all food. Distension of the abdomen and epigastrium after eating moderately. Nausea, with vomiting of viscid phlegm. Vomiting of (white) tenacious mucus (morning). Aching in the stomach, extending to the chest. Cramp-like contraction in the stomach, so as to suspend respiration. Retraction of the epigastrium, with burning pain. Sensation of inflation in the pit of the stomach, with disagreeable sensation of emptiness in the abdomen. Retraction of the pit of the stomach, with burning pain. Pains in the umbilical region. Shooting, pinchings, and cuttings in the umbilical region, esp. at night. Pinchings, gnawing, and sensation as if a worm were wriggling in the abdomen. Pain in the abdomen as from the effects of cold. Inflammatory congestion and induration of the inguinal glands, with drawing and tensive pains. Swelling of the inguinal glands. Dropsy of the abdomen.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Dulc.]. Hunger, without appetite. θ Pemphigus. Hunger, after the fever. Great thirst for cold drinks. Unquenchable thirst. Aversion to food ; shuddering as though he would vomit. Empty eructations, with shuddering as from disgust. Frequent eructations while eating. Nausea, loss of appetite. θ Cholerine. Nausea, vomiting, disgust for coffee, great thirst. Nausea accompanies the desire for stool ; general prostration. θ Diarrhœa from cool change of weather. Great chilliness during vomiting. Vomiting, early in morning, of tenacious mucus. Vomiting : of greenish, yellow, slimy substances, together with the liquid drank ; after cold drinks. Retraction and burning in epigastric region. Sensation of inflation in pit of stomach, with disagreeable sensation of emptiness in abdomen. Diaphragmitis, with simultaneous rheumatic affections of spinal cord. Indigestion with chilliness, < every cool change of weather. Cutting pain about navel. Violent pinching in abdomen, as if worms were crawling up and down in it and were gnawing and pinching the parts. Colic, as if diarrhœa would occur, with rumbling in bowels and pain in small of back. Colic after a cold ; griping, nausea, followed by diarrhœa. Colic, such as is usually caused by cold and wet weather. Dropsy of the abdomen. Swelling of inguinal glands from a cold.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Green, watery, slimy, bloody, mucus, especially in summer, when the weather suddenly becomes cold; from damp, cold weather and repelled eruptions",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Constipation. Difficult, dry, infrequent stool. Diarrhœa, as after a chill, with cuttings, or with vomitings, risings, and thirst. Diarrhœa of greenish (white) or brownish mucus. Slimy diarrhœa, with faintness. Chronic, bloody diarrhœa, with biting at the anus. Sanguineous diarrhœa, with itching in the anus, and prolapsus of the rectum. Nocturnal watery diarrhœa, with colic, particularly in the summer; also when the weather suddenly becomes cool. with prolapsus recti.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Vomiting and diarrhœa, with great inclination to chilliness during vomiting ; copious mucous, or watery yellowish evacuations, expelled with much force ; faintness when at stool. θ. Influenza. Desire for stool, in evening, with griping in whole lower abdomen, followed by a large, moist, at last very thin, sour smelling stool, after which relief, but feeling of weakness. Nightly stools with colic, especially in umbilical region ; loss of appetite, thirst, nausea, vomiting, pale face, languor, restlessness. Severe cutting in abdomen, < about umbilicus, followed by nausea, cold sweat, watery diarrhœa and occasional vomiting ; at night, stools follow each other in rapid succession, nausea is constant, with eructations and violent thirst ; biting in rectum as from salt. evacuations often green, bilious. θ After exposure. Alternately watery, or slimy, or dark-brown fecal diarrhœa, preceded by cutting in abdomen and followed by burning in anus ; tongue coated, no appetite ; abdomen bloated. θ Diarrhœa. and catarrh of stomach. Bloody diarrhœa of fifteen months duration, brought on by exposure to cold and dampness ; violent cutting around navel, < at night ; unceasing, unquenchable thirst ; pain and diarrhœa allow no sleep at night ; rectum protrudes ; biting at anus, as from. pepper. Diarrhœa with great prostration or colicky pains around umbilicus ; < after every change of cold weather. Drawing and tearing in limbs, stiffness of limbs ; painful stiffness of nape of neck ; pain in small of back ; diarrhœa without much pain ; little urging ; slimy, bloody discharges. θ. Dysentery. Profuse diarrhœa with severe cutting in abdomen ; evacuations mucous and bloody with tenesmus and pain in back ; chilliness alternating with heat, great thirst. Patient lies in a constant drowsy condition, cheeks slightly flushed, soft and painless bloating of abdomen, great emaciation of body, aversion to all food ; painless, thin, yellowish, greenish, watery stools, sometimes passing involuntarily, and containing flakes of mucus. urine turbid with white sediment ; neither speaks nor eats ; at night, moaning and restless tossing about. Patient pale, weak, emaciated and without least desire for food ; after eating, morning, and frequently in evening, and particularly in damp weather, watery, slimy, lienteric stool, preceded by pains in abdomen and followed by tenesmus. θ. Chronic diarrhœa. Thin stools, several afternoons in succession, with flatulence. Yellow watery diarrhœa twice a day, with tearing cutting colic before each evacuation, as after taking cold. Slimy diarrhœa with faintness. Slimy, alternate yellow and greenish diarrhœa. Slimy, brown, liquid stools. θ Pemphigus. Intestinal catarrh with mucous stools and tenesmus. Chronic, bloody diarrhœa, with biting at anus, or with vomiting, eructations and thirst. Stools : frequent ; scanty ; corrosive ; whitish, watery ; with flocculi ; slimy, mucous, watery, yellow-green ; changeable, white, yellow or green ; watery ; sour smelling ; nausea, with desire to evacuate ; < at night and. in wet weather. Diarrhœa : from cold, or change from warm to cold, especially cold, damp weather ; in morning, profuse thin stools ; of rheumatic origin ; during dentition ; with colic, particularly in summer ; with prolapsus recti. Dysentery, from cold, damp weather ; increased flow of saliva ; burning, itching of rectum ; heat of skin ; thirst. Cholera infantum, relapse from an unusually cold night or caused thereby. Constipation and painful strangury.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Must urinate when getting chilled. Strangury, painful micturition. Catarrh of bladder from taking cold. Urine has thick, mucous, purulent sediment. Ischuria from wading with bare feet in cold water",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Retention of urine. Scanty and fetid urine. Clear and viscid urine, or troubled, with sediment-like mucus. Red, burning urine. Involuntary discharge of urine, as from paralysis of the bladder. Difficult (painful) urination, water issuing drop by drop. Thickening of the bladder. Discharge of mucus from the urethra. Stricture of the urethra. Turbid and whitish urine.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Dropsy, with pain in region of kidneys, and albumen in urine. Bright's disease from exposure to cold and dampness. Constant desire to urinate, felt deep in abdomen. θ Cystitis. Constant desire to urinate, with an unpleasant sensation of bearing down towards the vesical region and urethra. Retention of urine ; strangury from cold, or cold drinks. Urine passed involuntarily. θ Paralysis of bladder. Catarrh with strangury, followed after six weeks by incontinence of urine ; very impatient, scolding and irritable mood. Painful pressing about bladder and urethra, discharge of a few drops of urine, with mucous sediment. Burning in meatus urinarius while urinating. Urine : scanty, fetid, turbid ; on standing, oily ; containing a tough, jelly-like, white or red mucus mixed with blood ; milky ; fetid or muco-purulent ; reddish, burning. Emission of urine, drop by drop ; slimy sediment. Urine offensive, turbid when passed, and excoriating the skin. θ Pemphigus. Catarrh of the bladder from taking cold in damp weather.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Suppression of menses from cold or dampness. Before appearance of menses, a rash appears on skin, or sexual excitement. Dysmenorrhœa, with blotches all over; mammæ engorged and sore, delicate, sensitive to cold",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Catamenia retarded, and too abundant; blood watery, thin. Tettery eruption of the labia. Miliary eruption before the catamenia. Suppressed menstruation from cold. Tetters on the breast in nursing women. Suppression of milk from a cold.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Heat and itching in genitals, with desire for an embrace, < by a cold change in the weather. Menses too late and too short ; blood watery, thin ; suppressed by cold. Dysmenorrhœa in those taking cold easily ; has blotches all over, especially in cold, damp weather ; liable to take cold in head. Rash before menses. As a forerunner of catamenia, a rash appearing on skin, with extraordinary sexual excitement during rash and catamenia. Herpetic eruptions on vulva, < by every cold change of weather, or by exposure in cold, damp situations. Catarrhal ailments in damp, cold weather. Mamma engorged, hard, sore and painful, with leucorrhœa or amenorrhœa. PREGNANCY. PARTURITION. LACTATION. [24] [Dulc.]. Threatened miscarriage induced by exposure in a damp, cold place, as in a spring-house or cellar. Lochia suppressed by cold or damp. Mamma swollen, inactive, painless, itching, in consequence of a cold which seems to have settled in them. Suppression of milk or lochia, from taking cold. Herpes on mamma ; nursing women. After weaning, mother has eruptions on the skin ; sore nipples.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Cough worse cold, wet weather, with free expectoration, tickling in larynx. Cough, hoarse, spasmodic. Whooping-cough, with excessive secretion of mucus. Winter coughs, dry, teasing. Asthma with dyspnœa. Loose, rattling cough; worse wet weather. Must cough a long time to expel phlegm. Cough after physical exertion",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Dulc.]. Rough, hoarse voice. θ Catarrh after measles. Constant titillation in larynx, with desire to cough. Trachea full of mucus, tough, greenish expectoration with moderate cough. θ Laryngo tracheitis. Influenza. Bronchitis of children, caused by cold, damp air, with offensive smelling night-sweats. Labored respiration. Asthma, with faceache, after disappearance of tetters in face. Asthma humidum, dyspnœa, loose rattling cough, copious sputa ; < during wet weather. Oppression of chest, from mucus. Cough dry, hoarse, and rough, or, loose, with copious expectoration of mucus, and dull hearing. θ Catarrhal fever. Cough from damp, cold atmosphere, or from getting wet ; must cough a long time to expel phlegm, especially infants and old people ; threatened paralysis of vagi. Spasmodic cough, with profuse secretion of mucus in larynx and trachea. Barking cough after a deep breath. Panting cough, like whooping cough, < from each deep inspiration. Whooping cough ; attacks excited by excessive secretion of mucus in larynx and trachea ; during each attack easy expectoration of tasteless mucus, often streaked with blood. Chronic mucous cough after measles. Cough : < lying down, from warmth of room, or deep inspiration ; > in open air. During cough : stitches in sides ; hoarseness. Tough, greenish expectoration, with moderate cough ; diarrhœa ; great disposition to catch cold. θ Phthisis. Easy expectoration of tasteless mucus, often streaked with blood. Expectoration of bright blood.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "Stiff neck. Pain in small of back, as after long stooping. Stiffness and lameness across neck and shoulders, after getting cold and wet",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Stiffness at the nape of the neck. Stiffness of the neck from a cold. Engorgement and induration of the glands of the nape, and of the neck. Violent pains in the lumbar region, above the hips, digging, shooting, or drawing, chiefly at night during repose. Lameness of the small of the back, from a cold. Shooting pullings in the loins, shoulders, and arms.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Neck stiff, back painful, loins lame, after taking cold. Pain in nape, as if head had been lying in an uncomfortable position. Swelling of glands on neck. Adenitis, glands swollen, often very painful and sensitive ; cervical and submaxillary lymphatic glands (with a sub-inflammatory condition), painful every turn of head. Chilliness with dull pain in region of lower cervical and upper dorsal vertebræ ; difficulty in raising head or turning about in bed ; at night, fever, sleeplessness ; in morning motion of arms greatly impaired, as if they were of wood, numbness and formication in right. hand, cannot close the hand ; pulse 100, hard ; temperature of skin elevated ; tongue dry ; loss of appetite ; urine scanty, dark, offensive, ammoniacal ; stool absent ; spine not sensitive to pressure ; cervical portion of spinal column stiff, any. motion thereof causing disagreeable tension and dull pain deep in, which extends toward both shoulders. θ Myelitis. Lassitude, pains like those brought on by a cold ; dryness, heat and burning of skin ; restlessness ; delirium at night ; nausea and vomiting of mucus ; sensation of inflation at pit of stomach ; white mucous diarrhœa ; diarrhœa with faintness. oppression or tightness of chest ; pinching or deep cutting pain in chest ; constrictive pain as if in muscles of back ; drawing in muscles of thigh ; bloatedness and swelling of leg ; burning in feet ; < at night, from cold, while lying down and from. washing. θ Myelitis. Spinal meningitis during scarlatina or measles, eruption does not develop. Myelitis after taking cold during menstruation. Hyperemia of the spinal cord. Rheumatic affections of spinal cord. Dull stitches in both loins, with sensation as of squeezing from within outward, at every inspiration, while sitting bent (after a short walk). Deeply cutting pain in right loin, transiently disappearing upon pressure. Drawing pain from small of back down thighs, during rest ; stitches when moving, > by pressure. Pain in small of back, as after stooping a long time. Severe rheumatic stitching pressing pains in arms and back, after catching cold while sweating ; pains < at night and while resting ; > from motion ; slight fever, much thirst. Burning in head, with stupefying headache, red face, dry tongue, burning heat in gums, unquenchable thirst for extremely cold drinks ; anorexia ; urine very red, with painful burning on urination ; sleepless ; skin dry and hot, burning sensation in skin ; severe. rheumatic stitching, drawing in small of back, shoulders, and arms ; after getting wet whilst warm. Lameness in the small of the back, from a cold. Cold chilly feeling in small of back. Sacrum feels cold.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Paralysis; paralyzed limbs, feet icy cold. Warts on hands. Perspiration on palms of hands. Pain in shin-bones. Rheumatism alternates with diarrhœa. Rheumatic symptoms after acute skin eruptions",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Paralysis of arms ; they are icy cold, especially during rest. Paralytic, bruised pain in left arm. Herpes on arms and hands. Exostosis on the arm, from suppressed itch. Warts on hands, on backs of fingers. Sweat in palms of hands. Drawing-tearing pain, or constant pain, at one time sticking, at another pinching, in both thighs, disappearing on walking, then changing to weariness, and immediately returning while sitting. Drawing from small of back through thighs, during rest, with stitches in parts during motion, which are > by pressure. Herpetic eruption on knee. Exostosis on upper part of right tibia, with bluish-red spots ; suppurating lumps. Intolerable (non-syphilitic) pains in shin-bones, < at night, from rest, obliging him to walk the floor, and in damp weather. Swelling of calf of leg ; scrofula. Gout in big toe ; first left, then right. Tingling and burning in feet. Erysipelas of feet ; skin peels off ; itching. Cold limbs. Rheumatism after acute eruptions, or when chronic forms alternate with attacks of diarrhœa. After getting wet, tearing in limbs, particularly in feet ; restless sleep, profuse sweat. Stitching-drawing and tearing pains in limbs after an acute eruption or after catching cold ; < at night, or during evening, when there is an exacerbation of fever. Rheumatism after exposure to wet ; parts as if beaten ; severe pains when remaining in one position, subside only when he moves about. Pains in the joints on exposure to cold. Sharp shooting pains in left toes and thumb. Sudden swelling of body and puffiness of limbs, at times painful, or accompanied by a sensation as if going to sleep. White blotches with red areola on arms and thighs.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Adenitis. Pruritus, always worse in cold, wet weather. Herpes zoster, pemphigus. Swelling and indurated glands from cold. Vesicular eruptions. Sensitive bleeding ulcers. Little boils. Red spots, urticaria, brought on by exposure, or sour stomach. Humid eruptions on face, genitals, hands, etc. Warts, large, smooth, on face and palmar surface of hands. Anasarca. Thick, brown-yellow crusts, bleeding when scratched",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Dryness and heat of the skin. Miliary nettle-rash, with fever. Tetters of different kinds, such as humid, scaly, pale tetters, oozing after having been scratched; reddish tetters, with red areola, bleeding after having been scratched; tetters with red edges, painfully sensitive to the touch, and to cold water; small, round, yellowish-brown tetters, bleeding after having been scratched; dry, furfuraceous tetters. Tettery scabs over the whole body. Tettery eruptions, with swelling of the glands. Warts. Tetters in the joints. Eruption of itching pustules, which pass into suppuration, and become covered with a scab, esp. in the lower limbs and the hinder part of the body. Red spots, as if caused by flea-bites.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Skin hot and dry. Sticking itching in various parts of body. Sticking sensation as of needles, over whole surface of body. θ Urticaria. Burning itching, like the rapid crawling of insects. Skin delicate and sensitive to cold ; has urticaria or some other eruption every time she takes cold, or is long exposed to cold. Vesicular eruption, large as a pea, containing yellow, translucent fluid, and on a red, inflamed base, covering whole body, except face. θ Pemphigus. Vesicular eruption on face and extremities, oozing a watery fluid. Tetter, oozing a watery fluid, bleeds after scratching. Eruption of itching pustules, ceasing to itch after scabbing over ; sensitive to touch ; < from washing. Bright red acuminated pimples, filling with pus. Small furuncles on places formerly injured by concussion. Red spots, as from flea-bites. Nettle-rash over whole body, without fever. Nettle-rash ; with much itching ; after scratching in burns ; < in warmth, > in cold ; with gastric fever. Eczema scrofulosum ; tettery crusts over whole body ; glandular enlargements ; exudating vesicles on face and extremities ; eruption of itching vesicles, which pass into suppuration, and become covered with a crust, especially on lower limbs and posterior. surface of body. Impetiginous eczema of scrofulous children. Thick brown herpes, red border ; glands swollen. Thick crusts all over body. Round, scaly and small herpes ; suppurating yellow herpes. Herpetic eruptions associated with fetid perspiration ; skin affection < by application of cold water. Herpes preputialis, easily bleeding, brown, dry, humid or furfuraceous, red, pale-red or with a red areola. Lichen (mehlflechte) on knee, old, obstinate, size of a dollar. Retrocession of eruptions, from exposure to damp, cold air. Suppressed itch. Skin callous. Warts, fleshy, or large, smooth ; on dorsa of hands and on face. Insensible, painless ulcers, hard, sensitive ; < at night, from wet or cold and when weather changes. Painful ulcers ; discharge scanty. Swelling and induration of glands.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Dry burning heat all over. Chilliness towards evening, mostly in back. Icy coldness, with pains. Dry heat and burning of skin. Chilliness with thirst",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "In the evening, frequent shiverings and coldness, not even relieved by the heat of the fire. Cold during the pains. At first, febrile shivering, then burning heat with stunning pain in the head, face red, burning heat in the palate, and insatiable thirst for cold drinks. Dry, burning heat over the whole body. Heat and burning in the back. Dry heat and burning sensation in the skin, with delirium and thirst. Heat with delirium without thirst. Fever, with aggravation in the evening. Pulse small, hard, and tight, esp. at night. General sweat, esp. at night. Fetid sweat, with discharge of much urine. Fetid perspiration, at night and in the morning, over the whole body; during the day, more on the back, in the armpits and hands. Perspiration suppressed and entirely wanting. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Chilliness of back, without thirst, in open air, but especially in a draft. Chilliness, mostly towards evening, over back, nape of neck, occiput, with sensation as if hair stood on end. Shaking, with a feeling of coldness, or actual coldness over whole body, cannot get warm near hot stove, with shuddering from time to time. Chill commencing in or spreading from back, not > by warmth ; mostly towards evening. Chill : with pains ; with violent thirst ; without thirst. Chilliness alternating with fever, mind dull, face red, skin dry and hot ; nausea with anxiety ; sleeplessness at night ; pulse feels hard, somewhat accelerated ; general prostration. θ. Diarrhœa. General dry burning heat all over. Heat : burning in back ; with delirium ; without thirst. Burning in skin of whole back as if he were sitting by a hot stove, with sweat in face and moderate heat. Double tertian fever. Scarlet fever, particularly in scrofulous subjects, pain in limbs, cold shuddering up back in evening, vomiting followed in many cases by sopor ; dry burning heat of skin ; frequently, suppression of urine. As the case progresses, the pains become. particularly severe in head and feet ; eruption assumes a miliary character, although light-red spots can also be detected ; redness of gums and throat, with difficult deglutition ; great swelling of the glands of neck and of those about ears ; at times the inflammation. extends to larynx, causing a croupous cough ; high fever with delirium and thirst ; urine turbid and offensive. Cases where the eruption is scanty and does not develop properly, looking very much like a nettlerash, with slight anginose symptoms, but severe pains in limbs, which. often cause crying and are frequently followed by œdematous swelling of whole body ; extremely tardy desquamation. Typhoid fever, when patient distinctly remembers having taken cold ; tongue clean, stools yellow, liquid, with rumbling, cutting, digging and griping pain in umbilical region or whole abdomen. Fevers caused by exposure ; living in damp rooms, sleeping in a damp bed ; during cold, rainy, changeable weather. Fetid sweat, with skin diseases ; copious limpid urine. Offensive sweat, night and morning, over whole body ; during day, more over back, in axillæ and palms. Sweat suppressed and entirely wanting. Conditions arising from sudden cooling of body whilst sweating.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "from moving about, external warmth",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "at night; from cold in general, damp, rainy weather",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Dulc.]. Worse lying on back > on side. Worse when stooping, > when erect. Worse bending diseased part backwards. Worse dancing. At rest : scintillations < ; buzzing in ears < dry coryza < ; tickling in larynx < ; drawing pain from small of back down thighs ; arms icy cold ; intolerable pains in shin bones ; rheumatism <. Lying quiet : headache < ; cerebellum as if enlarged, > ; cough < ; myelitis <. Sitting : pain from sternum to spine ; dull stitches in both loins ; drawing tearing pain in thighs. Rising : pain from sternum to spine >. Walking : vertigo ; sensation as if fire were darting out of eyes ; after short walk dull stitches in both loins ; drawing tearing pain in thighs disappears ; pain in shin bones forces him to walk ; must get up and walk at night. Motion : headache < ; iritis > ; dry coryza > ; pimples and ulcers around mouth painful ; cervical and submaxillary lymphatic glands painful ; stitches in back ; pain in back > ; stitches in thighs ; drawing in small of back ; rheumatism >. Morning : on awaking dizzy, dark before eyes ; hay fever < ; vomiting ; watery, slimy stools ; profuse thin stools ; motion of arms greatly impaired ; offensive sweat. Day : pulse slow ; sweat on back ; sweat in axillæ ; sweat on palms. Until 2 P. M. : cerebellum as if enlarged. Evening : hay fever < ; desire for stool ; watery, slimy stools, preceded by pains in abdomen and followed by tenesmus ; tearing drawing pains in limbs < ; on falling asleep, starts as if in affright ; chilliness over back towards evening ; cold shuddering. up back. Night : delirium ; idiopathic iritis < ; buzzing in ears < ; earache the whole night ; stools with colic ; stools follow each other in rapid succession ; violent cutting around navel < ; pain prevents sleep ; moaning ; restless tossing. about ; palpitation ; pulse small, hard and tense ; pulse frequent ; fever ; sleeplessness ; myelitis < ; pain in back < ; intolerable pain in shin bones ; stitching drawing pains in limbs < ; must get up and walk about the room. sleeplessness ; offensive sweat. Before midnight : headache <. After midnight : sleep restless. After 3 A. M. : sleep very restless. Warmth : idiopathic iritis > ; facial neuralgia > ; cough < ; chill not > ; nettle rash <. Cannot get warm near hot stove. Closed room : nostrils stopped up ; constant sneezing < ; profuse discharge of water from nose and eyes <. Dry air : nasal catarrh dry. Open air : nostrils stopped up ; constant sneezing ; profuse discharge of water from nose and eyes ; cough > ; chilliness. Cold : ophthalmia from exposure ; twitching of eyelids ; dry coryza < ; discharge from nose suppressed from least contact with cold air ; facial neuralgia < ; twitching of lips ; toothache ; diarrhœa ; scurvy ; tongue and jaws become lame. from contact ; tongue paralyzed by ; ulceration in mouth > by holding cold water in it ; tonsillitis from cold change of weather ; great thirst for cold drinks ; diarrhœa from cool change of weather ; vomiting after cold drinks ; dysentery <. strangury from cold drinks ; pains in joints ; paralysis of different parts from cold ; exposure causes urticaria ; nettle rash > ; herpetic eruptions < by applications of cold water. Damp weather : watery, slimy stools, preceded by pain in abdomen and followed by tenesmus ; asthma < ; hydrothorax < ; intolerable pain in shin bones. Change of weather ; tinea capitis, crusta lactea, and dandruff < ; tonsillitis ; diarrhœa from cool change ; indigestion with chilliness < ; diarrhœa and colic < by cold change ; heat and itching on genitals < ; herpetic eruption on vulva < ; cold. change, tuberculosis < ; insensible painless ulcers <. Getting wet feet : dull hearing < ; pressure above nose < ; cough ; rheumatic pains in small of back getting wet whilst warm ; tearing in limbs ; rheumatism. Cold, damp weather : cerebellum as if enlarged ; catarrhal and rheumatic headache < ; idiopathic iritis ; bloody diarrhœa brought on by exposure ; dysentery, Bright's disease ; catarrh of bladder ; dysmenorrhœa with blotches all over < ; herpetic. eruptions on vulva < ; catarrhal ailments (female sexual organs) ; threatened miscarriage by exposure ; bronchitis of children ; cough ; fever caused by exposure ; dropsical affections ; retrocession of eruptions from exposure ; insensible painless. ulcers <.",
+          "source_id": "hering-guiding-1879"
+        }
+      ]
+    },
+    "relationships": {
+      "complementary": [
+        "Baryta carb"
+      ],
+      "antidoted_by": [
+        "Camph",
+        "Cupr"
+      ],
+      "_raw": [
+        "Dulc. antidotes: Cupr. and Merc. Is antidoted by: Camph., Cup., Ip., Kali c., Merc. Follows well: Bry., Calc. c., Lyc., Rhus t., Sep., Verat. Incompatible: Bell., Lach. Complementary: Baryta c. Compare: Acon., Ars., Cham., Helleb., Nit. ac., Puls., Staph., Sul. In faintness during stool, Crot. t., Ver. Effects of cold, moist winds, Ars., Calc., Nux m. (cold, dry winds, Aco., Bry.). Effects of exposure to wet, and > by motion, Rhus. Rheumatic paralysis, Rhus, Caust. Hasty speech and actions, Hep., Bell., Lach., Sul. Paralysis of lungs, Solania.",
+        "It antidotes : Cuprum, Mercur",
+        "Antidoted by : Camphor. Cuprum, Ipec., Kali carb., Mercur",
+        "Compatible after : Bryon, Calc. ostr., Lycop., Rhus tox., Sepia, Veratr",
+        "Incompatible : Bellad., Laches",
+        "Complementary : Baryta carb",
+        "Compare : Acon., Act rac., Arsen., Bellad., Bryon., Calc. ostr., Cham., Cuprum, Helleb., Ipec., Kali carb., Lycop., Mercur., Nitr. ac., Pulsat., Rhus tox., Sepia, Staphis., Stannum, Sulphur and Veratr",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "dosing": {
+      "notes": "Second to thirtieth potency"
+    },
     "mental_emotional": [
       {
         "text": "Mental agitation. Great impatience and restlessness. Impatient desire for different things, which are rejected as soon as they are obtained. Inclination to scold, without being angry. Combative disposition, without anger. Nocturnal delirium, with aggravation of pains.",
@@ -756,6 +783,62 @@
       }
     ],
     "indications": [
+      {
+        "text": "Synonyms—Bittersweet, woody nightshade.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Potatoes and tomatoes belong to this family, and although the fruit is edible, the vines are usually poisonous.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Solanine may be obtained from the new sprouts of the ordinary potato.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Physiological Action—This agent is a powerful poison to all living protoplasm. It coagulates the blood and destroys the integrity of the corpuscles.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Injected into the veins it causes dyspnea, thrombosis in the vessels and arrest of respiration. Toxic doses produce tremors, muscular contractions, central paralysis, collapse, coma, a violent fall of the temperature and death.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is a narcotic, and in toxic doses causes nausea, vomiting, faintness, pain in the joints, numbness of the limbs, dryness of the mouth, convulsive movements, a small hard pulse, paralysis of the tongue, a purplish color of the face and hands, twitching of the eyelids and lips, trembling of the limbs, erythematous eruption, suppression of venereal desire, though recovery has followed after very large doses. Clarus administered six grains of solanine, which produced general cephalic distress, with occipital pain, increase of the frequency and loss of the force of the pulse, followed after some hours by sudden vomiting, diarrhea, great weakness, and marked dyspnea.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—Dulcamara is a remedy for all conditions resulting from suppression of secretion, from exposure to cold and dampness. It will restore normal excretion and secretion.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In acute coryza, in bronchial and nasal catarrh, in lung congestion and bronchial cough, with pain in the chest, all from cold, in bronchial asthma, and in acute bronchitis it is an excellent auxiliary remedy.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In eruptive fevers it assists in determining the eruption to the surface, especially if there is retrocession. It has a direct action upon the skin also, being given in pustular eczemas and vesicular disorders quite freely. It has produced good results in psoriasis, pityriasis, lepra, and other scaly skin disorders. It acts as an alterative in such cases, and will influence the skin derangements of scrofula and syphilis to a certain extent. It is available in the various skin disorders of childhood from disordered blood and deranged stomach.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is an excellent alterative, if administered with care, and is therefore valuable in syphilis, scrofula, and other blood disorders. In acute and chronic rheumatism from exposure to dampness and cold, and in gout, it has been advantageously used.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Nervous irritation with depression, with hyperesthesia of the organs, and pruritus pudendi are relieved by it. It may be used in spermatorrhea with undue excitement, priapism, nymphomania, and satyriasis. It should be given first in small doses, increased to full amount if necessary. In suppression of the menses with headache and nausea and acute ovarian congestion, it will work well.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is advised in the treatment of catarrh of the bladder, and as a stimulant to the urinary secretion.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
       {
         "text": "Related entry: Solanum carolinense",
         "source_id": "felter-eclectic-1922"
@@ -886,9 +969,11 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-keynotes-1899",
       "boericke-1927",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
+      "ellingwood-1919",
       "felter-eclectic-1922",
       "guernsey-keynotes-1887",
       "hahnemann-chronic-diseases-1896",

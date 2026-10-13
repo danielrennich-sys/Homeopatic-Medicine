@@ -1,14 +1,17 @@
 {
   "id": "stigmata-maydis",
   "names": {
-    "primary": "STIGMATA MAYDIS",
-    "latin": "STIGMATA MAYDIS",
+    "primary": "Stigmata Maydis",
+    "latin": "Stigmata Maydis",
     "common": [
       "Corn-silk (ZEA)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "urinary": [
       {

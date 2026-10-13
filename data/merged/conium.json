@@ -7,11 +7,14 @@
       "Conium"
     ],
     "synonyms": [
-      "CONIUM",
       "Conium (U. S. P.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "mentals": [
       {

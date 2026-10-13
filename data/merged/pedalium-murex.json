@@ -1,14 +1,19 @@
 {
   "id": "pedalium-murex",
   "names": {
-    "primary": "Pedalium Murex (LINN.) Tribulus terrestes (LINN.)",
-    "latin": "Pedalium Murex (LINN.) Tribulus terrestes (LINN.)",
+    "primary": "Pedalium Murex",
+    "latin": "Pedalium Murex",
     "common": [
       "Burra Gookeroo"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Pedalium Murex (LINN.) Tribulus terrestes (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

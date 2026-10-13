@@ -1,7 +1,7 @@
 {
   "id": "ferrum-phosphoricum",
   "names": {
-    "primary": "Cell Salt #4 - Ferrum Phosphoricum",
+    "primary": "Ferrum Phosphoricum",
     "latin": "Ferrum Phosphoricum",
     "common": [
       "Phosphate of Iron",
@@ -9,15 +9,17 @@
       "Iron Phosphate"
     ],
     "synonyms": [
-      "FERRUM PHOSPHORICUM",
       "Ferrum Phosphoricum Hydricum",
       "Cell Salt #4",
       "Schuessler Salt #4",
       "Tissue Salt #4",
-      "Ferrum Phosphoricum"
+      "Cell Salt #4 - Ferrum Phosphoricum"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -268,6 +270,12 @@
         {
           "text": "at night and 4 to 6 pm; touch, jar, motion, right side",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Ferr. p.]. Desire to lie down. Recumbent position : > diurnal enuresis. Standing : desire to urinate <. Stooping : sharp pain through head ; cannot see ; faceache < ; produces tormenting cough. Motion : causes headache ; < pain in arm and shoulder ; gentle motion > pain in upper arm and shoulder ; swelling in arm allows no motion ; pain in knees < ; articular rheumatism <. Exertion : sputa blood-streaked. Desire to get out of bed and run about. Can hardly move about. Between 4 and 6 A. M. : sweat. Morning : vomiting ; greatly depressed. By day : bloody and watery discharges ; frequent desire to urinate ; cough. Evening : sensation of constriction, must loosen her clothes. Night : great nervousness ; bloody and watery discharges ; cough < ; more rattling of mucus on chest ; sleepless. Midnight till morning : bloody serous stools. Open air : < cough. Warm drinks : toothache <. Cold air : top of head sensitive to : sputa blood-streaked. Cold and cold drinks : > toothache.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

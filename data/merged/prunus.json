@@ -1,14 +1,19 @@
 {
   "id": "prunus",
   "names": {
-    "primary": "Prunus (U. S. P.)",
-    "latin": "Prunus (U. S. P.)",
+    "primary": "Prunus",
+    "latin": "Prunus",
     "common": [
       "Prune"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Prunus (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

@@ -1,14 +1,15 @@
 {
   "id": "lac-felinum",
   "names": {
-    "primary": "LAC FELINUM",
-    "latin": "LAC FELINUM",
+    "primary": "Lac Felinum",
+    "latin": "Lac Felinum",
     "common": [],
-    "synonyms": [
-      "Lac Felinum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

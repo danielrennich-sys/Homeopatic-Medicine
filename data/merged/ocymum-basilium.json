@@ -1,14 +1,19 @@
 {
   "id": "ocymum-basilium",
   "names": {
-    "primary": "Ocymum basilium (LINN.)",
-    "latin": "Ocymum basilium (LINN.)",
+    "primary": "Ocymum Basilium",
+    "latin": "Ocymum Basilium",
     "common": [
       "Basil, Sweet"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ocymum basilium (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

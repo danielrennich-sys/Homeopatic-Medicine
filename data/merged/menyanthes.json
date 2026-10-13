@@ -6,11 +6,13 @@
     "common": [
       "Buckbean"
     ],
-    "synonyms": [
-      "MENYANTHES"
-    ]
+    "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

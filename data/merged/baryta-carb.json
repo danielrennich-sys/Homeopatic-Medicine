@@ -1,12 +1,17 @@
 {
   "id": "baryta-carb",
   "names": {
-    "primary": "Baryta  Carb.,  Strontiana    Carb.,   And",
-    "latin": "Baryta  Carb.,  Strontiana    Carb.,   And",
+    "primary": "Baryta Carb",
+    "latin": "Baryta Carb",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Baryta  Carb.,  Strontiana    Carb.,   And"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

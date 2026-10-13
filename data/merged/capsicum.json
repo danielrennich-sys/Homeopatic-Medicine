@@ -4,15 +4,21 @@
     "primary": "Capsicum",
     "latin": "Capsicum",
     "common": [
-      "Capsicum"
+      "Capsicum",
+      "Cayenne Pepper (CAPSICUM)"
     ],
     "synonyms": [
-      "CAPSICUM",
+      "Capsicum. Cayenne Pepper (Solanaccae)",
       "Capsicum. (Capsicum Annuum.)",
-      "Capsicum (U. S. P.)"
+      "Capsicum (U. S. P.)",
+      "Capsicum Annuum"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -37,6 +43,14 @@
       }
     ],
     "keynotes": [
+      {
+        "text": "Persons with light hair, blue eyes, nervous but stout and plethoric habit. Phlegmatic diathesis; lack of reactive force, especially with fat people, easily exhausted; indolent, dreads any kind of exercise; persons inclined to be jovial, yet angry at trifles. Children; dread open air; always chilly; refractory, clumsy, fat, dirty, and disinclined to work or think. Desires to be let alone; wants to lie down and sleep; Homesickness (of indolent, melancholic), with red cheeks and sleeplessness. Constriction: in fauces; throat; nares; chest; bladder; urethra; rectum. Burning and smarting sensation, as from cayenne pepper, in throat and other parts, not > heat. Tonsillitis: with burning, smarting pain; intense soreness; constriction of throat with burning; inflamed, dark red, swollen. The burning spasmodic constriction and other pains, worse between acts of deglutition (Ign.). Painful swelling behind ear (mastoid), extremely sore and sensitive to touch. Every stool is followed by thirst and every drink by shuddering. As the coldness of the body increases, so also does the ill-humor. Nervous, spasmodic cough; in sudden paroxysms; as if head would fly to pieces. With every explosive cough (and at no other time) there escapes a volume of pungent, fetid air. Pain in distant parts on coughing (bladder, knees, legs, ears).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Compare: Apis, Bell., Bry., Calad., Puls. Cina follows well in intermittent fever. The constricting, burning, smarting pains differentiate from Apis and Belladonna.",
+        "source_id": "allen-keynotes-1899"
+      },
       {
         "text": "Capsicum should be studied in connection with the other great members of the Solanum family, Belladonna, Stramonium, Hyoscyamus, Dulcamara, Solanum Carolinense, Solanum nigrum, Solanum tuberosum (Potato), and Lycopersicum esculentum (Tomato). It acts with great intensity on the mucous membranes, and also on the bones: affections of bones in general; pains in bones of face; inflammation of petrous bone. Capsicum corresponds especially to persons of light hair and blue eyes; also to persons of lax fibre and muscles; obesity; lazy, fat, unclean persons who dread the open air; clumsy children; awkward persons; hæmorrhoidal troubles. Lack of reaction and bodily irritability. Symptoms generally appear on left side. As with Dulcamara, there is extreme sensitiveness to cold and damp which most symptoms. The well-known burning effects of red pepper is a leading indication for its use Burning pains\" wherever occurring demand that Capsicum should have the first consideration, if there are no other determining symptoms in favour of another remedy. The burning of Caps. is from cold water. Redness of the skin, and even a scarlet eruption like Belladonna. Very characteristic is a cough with fetid breath, or bad taste. Cough causing splitting pain in head. Chill at 10.30 a.m., beginning between shoulders and running down back. A case of poisoning in a worker in a capsicum-plaister factory brought out: severe chill with shaking; and it ended in an intense coryza. Caps. 30 brought speedy relief in a case of tympanites following laparotomy, the concomitant symptoms being: cold nose and extremities, and cyanosis. Caps. is a notable fever remedy. The patient is thirsty─but drinking causes shuddering. Absence of thirst during heat. Burning, pungent pains, by application of cold water, are very marked. Burning, pungent sensation in face by slightest draught of cold air; burning in throat; burning blisters in roof of mouth (diphtheria or gangrene); constriction of throat, spasmodic closure, pain when not swallowing; burning in rectum, tenesmus, hæmorrhage; burning on urination; burning in bladder. Caps. is among the remedies of the front rank in stomatitis in inflammation of the middle ear, with involvement of mastoid cells in the sore throat of smokers and drinkers, with inflammation, burning, relaxed uvula, sometimes dry, sometimes with tough mucus difficult to dislodge. Local burning and general chilliness distinguish Caps. in a vast number of cases. Caps. is indicated where there is lack of reaction in persons of lax fibre. The mental state shows home-sickness. \"Home-sickness, with red cheeks and sleeplessness; with hot feeling in fauces.\" (With a few doses of Caps. I cured completely an Australian girl, of florid complexion, who had come to London to study, and who was quite incapacitated by home-sickness.) There is awkwardness, fearfulness, obstinacy. Alternating states; laughs and weeps by turns; is now jocose and sings, but becomes angry from slightest cause. Delirium: it has been given with great success in delirium tremens, mostly in drachm doses of the tincture, given in milk. > From heat is the most important modality. Patients who cannot get to sleep without a hot bottle at their back. Rest some forms of headache and > others. Motion = headache as if skull would split; as if bruised; asthma; chilliness; stiff joints to crack. Ascending = asthma. By touch. Shuns open air; dreads uncovering; dreads air, especially a draught. Spirits become lower as body becomes cooler. Sensation as if cayenne pepper were sprinkled on parts. Violent pains in various places; now here now there. Sensation as if parts would go to sleep. I had one patient on whom Caps. acted well in summer, but not in winter. Equal parts of tincture of Caps. and glycerine make an excellent liniment for external use in many cases of chronic rheumatism and neuralgia.",
         "source_id": "clarke-dictionary-1900"
@@ -268,6 +282,14 @@
       {
         "text": "Lack of reaction especially fat people.",
         "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "color=\"#800000\">CAPSICUM ANNUUM Cayenne Pepper (CAPSICUM) Seems to suit especially persons of lax fiber, weak; diminished vital heat. A relaxed plethoric sluggish, cold remedy. Not much reactive force. Such persons are fat, indolent, opposed to physical exertion, averse to go outside of their routine, get homesick easily. General uncleanliness of body. Abstainers from accustomed alcoholics. It affects the mucous membranes, producing a sensation of constriction. Inflammation of petrous bone. Burning pains and general chilliness. Older people who have exhausted their vitality, especially by mental work, and poor living; blear-eyed appearance; who do not react. Fear of slightest draught. Marked tendency to suppuration in every inflammatory process. Prostration and feeble digestion of alcoholics. Myalgia, aching and jerking of muscles.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Capsicum annuum. Mind and Disposition. Peevish, easily offended. Home-sickness, with redness of the cheeks and sleeplessness. Head. Vertigo and giddiness, especially during the cold stage of the intermittent fever if the head would burst, with fulness. Pressing headache, as if the head would burst, with fulness, nausea, and vomiting ; worse in the evening, -from moving the head,- when walking in the cold air ; better when lying with the head high, and from heat. [5] One-sided headache, pressing, with nausea and vomiting ; worse from moving the head and eyes. Darting pain through the head ; worse during rest ; better from moving about. Eyes. Burning in the eyes, (in the morning), with redness and lachrymation. Objects appear black when brought before the eyes, (incipient amaurosis). Ears. Swelling behind the ears, painful to the touch. [10] Hardness hearing after previous burning and stinging in the ear. Nose. Bleeding from the nose, in the morning in bed. Face. Redness of the cheeks, (without heat often changing to paleness. Dull pressing pain in the cheek bone, excited by touching the parts. Swollen, cracked lips. [15] Lips peel off ; burning of the lips. Mouth and Throat. Burning blisters in the mouth. Stomacace. Fetid odor from the mouth. Spasmodic contraction of the throat. Inflammation, with dark redness and burning of the throat. The pain in the throat is worse between the acts of deglutition. Appetite and Taste. [20] Unnaturally increased appetite, alternated with aversion to food. Taste sour. Thirstlessness. Stomach and Abdomen. Burning in the stomach, (after eating). Distention of the abdomen, with suffocative arrest of breathing. [25] Colic from flatulence. Painless rumbling in the abdomen. Stool and Anus. Dysentery ; stools of bloody mucus with tenesmus, and strangury. Diarrha at night, with burning at the anus. Hæmorrhoidal tumors, with burning, (bleeding). Urinary Organs. [30] Strangury, with tenesmus of the bladder. Spasmodic contraction of the neck of the bladder. Burning while urinating. Discharge of blood from the urethra, which is painful to the touch. Sexual Organs. Men . Impotence, with coldness of the scrotum. [35] Purulent discharge from the urethra. Dwindling of the testes. Chest. Oppressed breathing appearing to come from the abdomen, or from fulness of the chest. Asthma with redness of the face, eructation and sensation at ; if the chest were extended. Deep breathing, almost like a sigh. [40] Dry, hard cough in the evening and at night, with pain in distant parts, (stitches in the bladder, pain in the know or legs, ears, throat). When coughing, he exhales fetid smelling air. Generalities. Aversion to exercise. Phlegmatic temperament, and relaxed fibres. Fever. Pulse irregular, and often intermitting. [45] Chill almost always with violent thirst worse after drinking. Heat, with perspiration, and no thirst. Perspiration after the chill, without previous heat. On the upper part of the legs cold perspiration. Skin. Sensation over the whole body, as if the parts would go to sleep. Conditions. [50] Stiffness and painfulness of all the joints when beginning to move. Cracking of all the joints, (finger joints, knee). Most complaints are aggravated from eating and drinking ; are most severe on beginning to exercise ; and axe relieved or ameliorated by continued exercise. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
       }
     ],
     "relationships": {
@@ -279,6 +301,10 @@
         "Compare : Arnic., Bellad. (headache, etc.), Bryon. (headache, cough, etc.), Calad., Chelidon., Cina, Cinchon., Crot. tig. (after drinking urging to stool), Helleb. (colic with spasm of bladder), Ignat., Lycop., Natr. carb. (tenesmus of rectum and bladder), Nux vom., Pulsat., Silica, Stramon., Veratr. and Viola od",
         "Copyright © Médi-T ® 2002",
         "Main"
+      ],
+      "antidoted_by": [
+        "Cina",
+        "Calad"
       ]
     },
     "mental_emotional": [
@@ -289,6 +315,10 @@
       {
         "text": "Coma and delirium. θ Typhus. θ Yellow fever. Forgetfulness. Children become clumsy, awkward ; especially with headache. Cloudiness of intellect ; idiocy, melancholy, hypochondriasis. Haunted by a disposition to suicide. He is taciturn, peevish and obstinate. Disinclination to think and work. He is in a contented mood, is jocose, and sings, and still he becomes angry from the slightest cause. Homesickness : with red cheeks and sleeplessness ; with hot feeling in fauces. Melancholy or hypochondriasis. Fear of censure. Fearfulness. Awakens with fright, screams, and remains full of fear. Anxiety and fear, as though he was going to die. Peevish, irritable, angry ; easily offended, takes everything in bad part. Obstinacy. After emotions, fever, with red cheeks. Intoxication. Vertigo : reeling from side to side ; with hypochondriasis and torpid digestion ; during cold stage of intermittent fever. Senses obtuse.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Excessive peevishness. Homesickness, with sleeplessness and disposition to suicide. Wants to be let alone. Peppery disposition. Delirium tremens",
+        "source_id": "boericke-1927"
       }
     ],
     "head": [
@@ -299,6 +329,10 @@
       {
         "text": "Empty, stupid feeling in head. Darting pains in head ; < at rest ; > walking. Headache, as if skull would split, when moving head, walking, or coughing. A bursting headache, or feeling as if brain was too full, or head too large. Bursting headache in evening, > from lying with head high. Bursting pain and throbbing in head. θ Pertussis. θ Intermittent fever. Headache as if skull was bruised, on moving head and on walking. Throbbing headache in forehead and temples. Pressing headache in forehead and temples. Constant pressive headache in forehead, above root of nose, with stitches through ear and over eye. Pressing headache in forehead, as though a pressure from occiput would force the brain out through forehead, accompanied by cutting pain coming forward from occiput. Pressive headache with nausea and vomiting. Drawing tearing in left side of head. Violent, deeply penetrating stitches in vertex. A headache, more stitching than tearing ; < during rest ; > on motion. Headache during chill. θ Intermittent. Chronic headache with absence of perspiration. Megrim and hysterical cephalalgia. Brain symptoms in measles. Head seems too large. Drawing, tearing pain in right frontal bone. Skull feels bruised, on moving head, or walking. Tinea capitis. Chilliness of scalp, followed by burning itching of integuments of skull, > from scratching. Biting itching on hairy scalp, as from lice, compelling him to scratch ; after scratching roots of hair and scalp feel painful, as though hair was being pulled out. Sweat on forehead ; cold sweat on forehead, with sensation of fainting. Swelling on mastoid process behind ear, painful to contact. Periostitis and caries of mastoid process.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Bursting headache; worse, coughing. Hot face. Red cheeks. Face red, though cold (Asafaet)",
+        "source_id": "boericke-1927"
       }
     ],
     "eyes": [
@@ -319,6 +353,10 @@
       {
         "text": "Cannot bear noise. θ Intermittent fever. Dull hearing, after previous burning and stinging in ear. Catarrhal deafness. Stitching pains in ears, with burning and stinging ; hardness of hearing. A pressive pain in ear with every cough, as if an abscess would open. θ Pertussis. A pressive pain very deep in ears. Pressive, later an itching pain, deep in ear. Aching in one or both ears when coughing. Itching pain very deep in ear. θ Otitis. Tympanum perforated, and cavity filled with thick, yellow pus. θ Otitis. Tearing in concha of ear. Ears very hot. θ Pertussis. Tearing pain behind left ear. Swelling behind ear, painful to touch. Painful swelling behind ear ; periostitis and caries of mastoid process. Deep-seated swelling under ear. θ Otitis.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Burning and stinging in ears. Swelling and pain behind ears. Inflammation of mastoid. Tenderness over the petrous bone; extremely sore and tender to touch (Onosmod). Otorrhœa and mastoid disease before suppuration",
+        "source_id": "boericke-1927"
       }
     ],
     "nose": [
@@ -349,6 +387,14 @@
       {
         "text": "Teeth feel elongated and dull. Drawing pain in teeth ; carious toothache with or without swelling of cheeks. Teeth dirty and painful. θ Stomatitis. Gums : hot, burning, swollen, inflamed and sensitive ; spongy, retracted from teeth. θ Stomatitis. Taste : sour ; flat, watery, followed by heartburn ; foul, like putrid water. θ Diarrhœa. θ Intermittent. θ Dysentery. When coughing, the air from lungs causes a strange, offensive taste in mouth. Small burning blisters on tongue. θ Scarlatina. Tongue and inside of lips full of flat, sensitive, spreading ulcers, with a lardaceous centre. θ Stomatitis. Feeling of dryness of tongue without thirst. Fetid odor, unbearable, carrion-like. θ Stomacace. Saliva : viscid, offensive, copious. θ Stomatitis. θ Scarlatina. Salivation during chill. θ Intermittent. Burning blisters in mouth. θ Scarlatina. Small, flat, burning ulcers in mouth and fauces. Tough mucus in mouth, or dryness. Cancrum oris. Pain in upper part of fauces between acts of deglutition, as if parts were sore and were being spasmodically drawn together, as in waterbrash. Burning soreness with ulcers on fauces. θ Angina faucium. Painful pressure in hard and soft palate while swallowing. θ Scarlatina. θ Angina aphthosa. Tough congealed mucus in posterior nares, on rising in morning, requiring much hawking to dislodge. Uvula elongated, feels as if pressing on something hard. Continuous stitches in throat, exciting dry, convulsive cough. θ Pertussis. Stinging, causing night cough. Continued stitching in throat, in region of epiglottis, causing a dry cough without relief. Tonsillitis with burning, smarting pain. Left tonsil inflamed ; right painful. θ Asthma. Great soreness in throat, with smarting. θ Scarlatina. Spasmodic contraction of throat. θ Angina faucium. Constriction of throat, with burning ; whitish deposit. θ Scarlatina. θ Diphtheria. Burning and other pains in throat < between acts of deglutition. Pain in throat, only when coughing, as from a single swelling. Pressive pain in throat, as if an abscess would break, during a paroxysm of coughing. θ Pertussis. Sensation of roughness in throat. Throat inflamed, dark red, burning, pressing. Whitish spots in throat, with a red halo. Inflammation of throat, dark purplish-red color of velum palati, right side, near eustachian tube, with most violent pains, causing anxiety ; salivation and thirst for cold water ; heat, with shuddering and cold finger-tips ; pulse unchanged ; < in morning and towards evening. Relaxed sore throat with cough ; subacute inflammation of throat, with dryness and smarting ; relaxed uvula of smokers and drinkers. Pain on swallowing, as in inflammation of throat, but when not swallowing, drawing pain in throat. Difficulty in swallowing, tongue furred ; haggard look. Dysphagia paralytica. Torpidity of fauces, pharynx and œsophagus. Aphthous angina. Tonsillitis. Angina pharyngea maligna, gangrenosa. Deposits covering a considerable portion of fauces, with smarting. θ Diphtheria. In scarlatinal anginas with redness of face as in tipplers, small red spots in face, burning vesicles in mouth and on tongue.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Hot feeling in fauces. Subacute inflammation of Eustachian tube with great pain. Pain and dryness in throat extending to the ears. Sore throat of smokers and drinkers. Smarting in; constriction. Burning constriction worse between acts of deglutition. Inflamed uvula and palate; swollen and relaxed",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Herpes labialis (Apply one drop of the mother tincture). Stomatitis. Disagreeable smell from mouth. Fetid odor from mouth",
+        "source_id": "boericke-1927"
       }
     ],
     "stomach_abdomen": [
@@ -359,6 +405,10 @@
       {
         "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Caps.]. Appetite increased, alternating with aversion to food and complete anorexia. Thirstlessness, or intense thirst with abdominal uneasiness, but no tenderness on pressure. Thirst, during fever only, for large quantities. Thirstily, as the chill comes on. θ Intermittent. Thirst after stool. θ Dysentery. Desire for coffee, but it nauseates. θ Diarrhœa. Dipsomania ; morning vomiting, sinking at stomach. Food tastes sour. θ Diarrhœa. Better while eating ; < after. After eating : burning in stomach. Vegetables cause flatulence. Water causes : purging ; shuddering ; tenesmus and thin stool ; chills. Drinking cold water > cough. Nausea, and attacks of suffocation, after coffee, yet desire for it. Belching, with stitch in side, while walking. Heartburn ; waterbrash. θ Catarrh of stomach. Nausea and vomiting, with headache. Nervous, spasmodic vomiting. Vomits phlegm, with chill. θ Intermittent. Vomiting in malignant fevers. θ Yellow fever. Pressing pain in scrobiculum. Stitches in scrobiculum on breathing deeply, from talking and from touch. Accumulation of mucus and acids in stomach. Burning in stomach. θ Gastralgia. θ Colic. Sensitiveness and aching in region of stomach and duodenum after colic. θ Dysentery. Sensation as if cold water were in stomach. Stomach icy cold, or burning in it. Deranged stomach, with fever. Dyspepsia from torpidity, particularly in old people. Gastralgia and gastromalacia. \"Catching\" pain in region of liver, or in lower portion of right lung, with each cough. θ Pleuro-pneumonia. Spleen sensitive, swollen, especially after abuse of quinine. Painful enlargement of spleen. θ Intermittent. Burning or cutting pains in abdomen. θ Hemorrhoids. Cutting and twisting pain in bowels, as from wind ; before stool. θ Dysentery. Drawing and twisting in abdomen, with and without diarrhœa. Peculiar feeling in abdomen, a sort of drawing ; he must bend double. Colic, with cutting-twisting pain about navel, and passage of tough mucus, like diarrhœa, at times mixed with black blood ; after every stool, thirst, and after every drink, shivering. Flatulence and wind-colic. Abdomen distended to bursting. θ Dysentery. Sore pains in abdomen and loins. A tensive pain, extending from abdomen to chest, as from distension in abdomen ; cannot bear clothing. A pressive tension in abdomen, especially in epigastric region, between pit of stomach and navel, < on motion, together with a pressive tension in lower portion of back. Abdomen distended ; suffocative arrest of breathing. θ Dysentery. θ Cystitis. Pain in inguinal region. Hernia ventosa.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Burning in tip of tongue. Atonic dyspepsia. Much flatulence, especially in debilitated subjects. Intense craving for stimulants. Vomiting, sinking at pit of stomach. Much thirst; but drinking causes shuddering",
+        "source_id": "boericke-1927"
       }
     ],
     "stool_rectum": [
@@ -369,6 +419,10 @@
       {
         "text": "Stools : frequent, small, with tenesmus and burning in rectum and bladder ; bloody, mucous, shaggy ; greenish, frothy, < at night ; tenacious mucus, mixed with black blood. Mucous diarrhœa with tenesmus. Dysentery : tenesmus and strangury ; pain < from a current of air, even if warm. After a drink, must go to stool, but was costive ; only a little mucus passed. Before stool : cutting, flatulent colic, twisting pains about umbilicus. During stool : tenesmus ; cutting and twisting. After stool :tenesmus ; burning at anus ; thirst, drinking causes shuddering ; drawing pains in back. Smarting and burning pain in anus and rectum. θ Diarrhœa. θ Dysentery. Biting-stinging pain in anus, with diarrhœa-like stool. Violent tenesmus. θ Dysentery. Tenesmus of rectum and bladder at same time. Hemorrhoids : burning as if pepper was sprinkled on them, swollen, itching, throbbing ; with sore feeling in anus ; bleeding or blind ; with mucous discharge ; with bloody, mucous stools ; with drawing pain in small of back and cutting pain in abdomen. Suppressed hemorrhoidal flow, causing melancholy.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Bloody mucus, with burning and tenesmus; drawing pain in back after stool. Thirsty after stool, with shivering. Bleeding piles, with soreness of anus. Stinging pain during stool",
+        "source_id": "boericke-1927"
       }
     ],
     "urinary": [
@@ -379,6 +433,10 @@
       {
         "text": "Renal pains, with or without calculi. θ Nephritis. Burning in bladder. θ Dysentery. θ Gonorrhœa. Colic, with spasm of bladder. Burning in orifice of urethra, immediately before, during, and for a minute after urinating. Stitches, as with needles, in forepart of urethra, when not urinating. Pressure towards bladder, and some stitches extending from within outward in region of neck of bladder, while coughing, and some time afterwards. Tenesmus vesicæ ; strangury. θ Dysentery. Frequent, unsuccessful desire to urinate. θ Diarrhœa. Frequent micturition, scalding, smarting, sticking pain in urethra, tenesmus and even chordee ; (as inflammation subsides discharge less and thinner). θ Gonorrhœa. Burning, smarting after urination. Burning-biting pain in urethra, after urinating. Retention of urine, spasm of bladder. θ Cystitis, in horses. Urine red, or bloody. Inflammation of neck of bladder. θ Cystitis. Purulent discharge from urethra, sometimes bleeding. θ Gonorrhœa. Male Sexual Organs.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Strangury, frequent, almost ineffectual urging. Burning in orifice. Comes first in drops, then in spurts; neck of bladder spasmodically contracted. Ectropion of meatus",
+        "source_id": "boericke-1927"
       }
     ],
     "male": [
@@ -389,6 +447,10 @@
       {
         "text": "Painful erections at night ; cream-like discharge from urethra ; burning, when urinating ; at other times cutting, stinging in urethra. Discharge from urethra : purulent ; bloody, urethra painful to touch ; cream-like. Gonorrhœa : second stage ; white discharge, like cream ; excessive sensibility of parts to contact ; chordee, which can only be appeased or subdued in cold water. Protracted gleet. Coldness of scrotum, and impotence ; dwindling of testicles and extinction of sexual instinct ; shrivelling of spermatic cords ; emaciation ; falling off of beard and weakness of sight. Prepuce swollen. Crampy, testicular pains after emissions. Pain in prostate gland. θ Gonorrhœa. Coldness of scrotum, in morning on walking.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Coldness of scrotum, with impotency, atrophied testicles, loss of sensibility in testicles, with softening and dwindling. Gonorrhœa, with chordee, excessive burning, pain in prostate",
+        "source_id": "boericke-1927"
       }
     ],
     "female": [
@@ -399,6 +461,10 @@
       {
         "text": "Discharge of fetid mucus from vagina. During menstruation : nausea ; pressure in epigastrium. Disordered menstruation, with a pushing or sticking sensation in left ovarian region. PREGNANCY. PARTURITION. LACTATION. [24] [Caps.]. During pregnancy : affections of ears ; heartburn, vomiting ; mucous diarrhœa ; hemorrhoids ; burning in anus.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Climacteric disturbances with burning of tip of tongue (Lathyrus). Uterine hæmorrhage near the menopause, with nausea. Sticking sensation in left ovarian region",
+        "source_id": "boericke-1927"
       }
     ],
     "chest_heart": [
@@ -439,6 +505,10 @@
       {
         "text": "Fever heat, with violent burning and headache. Absence of thirst during heat. θ Intermittent. Heat, followed by chill, with thirst. Great sleepiness after fever ; could scarcely prevent herself from going to sleep ; especially after eating. Heat lessened by motion. Fever at 11 A. M. (following chill at 10.30 A. M.), lasting all night, with great thirst. Skin cool, pulse slow, want of appetite. θ Dysentery. Coldness over whole body ; limbs are cold without shivering. Shivering and chilliness after every drink. Chilly externally ; inwardly, burning. Chill begins in back, with thirst, < after drinking, lessened when walking out of doors. Chilly on moving. Chill at 10.30 A. M., commencing between shoulders and running down back. Evening chill. Chilliness when airing the bed. Chill in open air, particularly in a draught. Thirst just before and during chill. During chill, cold across chest, with a sensation as of water dropping down back. During chill : anxiety, giddiness and dulness of head ; intolerance of noise ; cannot collect her thoughts and is awkward so that she runs into everything ; tearing pains in back and limbs, extorting cries and causing the patient to bend up ; > by putting hot things to back. Chill, followed by sweat ; or by heat, with sweat and thirst. Sweat : violent, copious ; lessened by motion. Sweat coming on soon after fever commences, and continuing with it. Profuse sweat after fever, all night. Intermittent, with torpidity of abdominal nervous centres and painful enlargement of spleen. Intermittent fever, with predominance of chill, accompanied by thirst, without much heat. Hectic fever after emotions, and in nostalgia. Putrid typhus, with extreme prostration and black vomit.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Coldness, with ill-humor. Shivering after drinking. Chill begins in back; better, heat. Must have something hot to back. Thirst before chill",
+        "source_id": "boericke-1927"
       }
     ],
     "indications": [
@@ -591,31 +661,57 @@
       {
         "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Caps.]. Hoarseness from straining voice, in singers, preachers, etc. Hoarseness, nose stopped up, throat feels rough. θ Scarlatina. Excessive tingling and tickling in larynx, < after lying down, in evening. θ Pertussis. Crawling and tickling in larynx and trachea, with a dry, hacking cough, in evening, after lying down. Tickling sensitiveness in trachea, causing him to sneeze violently a few times. Chronic sore throat. θ Bronchitis maligna. Exhalation from lungs, on coughing, causes a strong offensive taste in mouth. Seems as if she could not get air deep enough into lungs. Deep breathing, almost like a sigh. θ Pertussis. Respiration slow. Asthma : with red face, eructations, chest feels distended ; wheezing inspiration ; breathing < when moving about, ascending or walking. Sibilant rales mostly left side posteriorly, during inspiration ; spongy sound during expiration ; constant dyspnœa ; oppression at bifurcation of bronchia, > from successful cough. θ Asthma. Dyspnœa, which seems to rise from stomach, or from fulness of chest. Painful cough. Frequent dry, hacking cough. Dry, hard evening cough, with pain in distant parts. Evening and night cough, with hectic. Nervous, spasmodic cough. Cough in sudden paroxysms, convulses whole body. Cough, with headache, as if head would fly to pieces. Cries after coughing. θ Whooping cough. With every explosive cough (and at no other time) there escape a volume of pungent, fetid air. θ Pleuro-pneumonia. Coughing or sneezing causes a sudden pain in one or other of limbs. Cough, with drawing from chest into neck. Cough, with feeling of pulling upward from stomach, up chest to throat pit. Stitches in suffering parts, with cough. During cough : splitting pain in head ; drawing or stinging in sides of chest ; stitches in back and bladder ; pressive ulcerative pain in neck or ear ; bursting pain in head, chest and bladder ; escape of urine ; pressure about thighs ; inclination to vomit, or vomiting ; offensive breath ; pain in knees or legs, ears and throat. Cough < : after anger ; after warm drinks ; evening, night ; when lying ; after sharp winds ; dry, cold weather ; any draught, warm or cold. Expectoration infrequent ; particularly in morning. Sputa dirty brown, not rusty. θ Pleuro-pneumonia.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Constriction of chest; arrests breathing Hoarseness. Pain at apex of heart or in rib region, worse touch. Dry, hacking cough, expelling an offensive breath from lungs. Dyspnœa. Feels as if chest and head would fly to pieces. Explosive cough. Threatening gangrene of lung. Pain in distant parts on coughing-bladder, legs, ears, etc",
+        "source_id": "boericke-1927"
       }
     ],
     "extremities": [
       {
         "text": "Drawing-tearing pain in arms. Shooting-tearing from hip to knee and foot, especially when coughing. Sticking-tearing pain from hip joints to feet, especially on coughing. Drawing pain in hip joint (pain like a stiff neck), < from touch and bending trunk backward. Caries of right hip ; left leg atrophied and painful. Tensive pain in knee. An internal pain in left leg made up of drawing and stitching. Single stitches in right great toe, produced by stamping foot. Cold sweat on upper part of legs. Cold feet. Violent pains in left atrophic leg. θ Spinal curvature, with coxarthrocace. Paralysis of lower extremities. Rheumatic pain in limbs. θ Cough. Tearing in limbs ; they are drawn up during chill. θ Intermittent. Weakness and heaviness of limbs, followed by trembling of upper limbs and knees ; hands refused to write. Stiffness and painfulness of all joints on beginning to walk. Pains in joints from taking cold.",
         "source_id": "hering-guiding-1879"
-      }
-    ],
-    "modalities": [
+      },
       {
-        "text": "REST. POSITION. MOTION. [35] [Caps.]. Rest : < darting pains in head ; < headache. Lying : cough worse. Lie down : great desire. He shuns all motion. Inclination to bend forward. Moving : head, headache as if skull would split, and as if bruised ; asthma ; chilly ; joints stiff, crack on. Talking : stitches in scrobiculum. Walking : > darting pains in head ; head as if bruised ; asthma ; pains in sternum. Ascending : asthma. Remission during day and before midnight. Night : painful erections. Morning : in bed, nosebleed ; coldness of scrotum. At 10.30 A. M. : chill. At 11 A. M. : fever. Evening : tip op nose very hot and red ; pain in face ; pressure in zygoma ; cough < ; pulse and strong ; chill ; bursting headache. Shuns open air ; sedentary ; uncleanly ; chill in open air. Dreads uncovering, even in hot stage. Generally better in warmth. Great sensitiveness to cool air, particularly a draught. Elevated temperature of intestinal canal. Cool air, especially a draught of air, becomes very unpleasant ; warmth of body becomes less and less and intolerance of a cool temperature greater and greater. In proportion as coldness of body increases, low-spiritedness and contraction of pupils increase. Heat of hands, but not of remaining portion of body.",
-        "source_id": "hering-guiding-1879"
+        "text": "Pain from hips to feet. Sciatica, worse bending backward; worse, coughing. Tensive pain in the knee",
+        "source_id": "boericke-1927"
       }
     ],
+    "modalities": {
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Caps.]. Rest : < darting pains in head ; < headache. Lying : cough worse. Lie down : great desire. He shuns all motion. Inclination to bend forward. Moving : head, headache as if skull would split, and as if bruised ; asthma ; chilly ; joints stiff, crack on. Talking : stitches in scrobiculum. Walking : > darting pains in head ; head as if bruised ; asthma ; pains in sternum. Ascending : asthma. Remission during day and before midnight. Night : painful erections. Morning : in bed, nosebleed ; coldness of scrotum. At 10.30 A. M. : chill. At 11 A. M. : fever. Evening : tip op nose very hot and red ; pain in face ; pressure in zygoma ; cough < ; pulse and strong ; chill ; bursting headache. Shuns open air ; sedentary ; uncleanly ; chill in open air. Dreads uncovering, even in hot stage. Generally better in warmth. Great sensitiveness to cool air, particularly a draught. Elevated temperature of intestinal canal. Cool air, especially a draught of air, becomes very unpleasant ; warmth of body becomes less and less and intolerance of a cool temperature greater and greater. In proportion as coldness of body increases, low-spiritedness and contraction of pupils increase. Heat of hands, but not of remaining portion of body.",
+          "source_id": "hering-guiding-1879"
+        }
+      ],
+      "better_from": [
+        {
+          "text": "while eating, from heat",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "open air, uncovering, draughts",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
     "skin": [
       {
         "text": "Burning in skin. Stitching, burning, itching over whole body, < on breast and face. Skin bloated, flabby. Formication. Itching < from scratching. Acne rosacea. Scarlet eruption on neck and breast, face of extreme redness, sometimes alternating with a mottled appearance ; lips swollen and cracked, burning blisters in mouth and on tongue ; saliva very slimy and little increased in quantity ; tickling and roughness in throat, with sneezing and a hacking cough. θ Scarlatina. Herpetic-like eruption on forehead, on face itching-burning. Herpes. Scrofulous ulcers ; carbuncle.",
         "source_id": "hering-guiding-1879"
       }
-    ]
+    ],
+    "dosing": {
+      "notes": "Third to sixth attenuation. In delirium tremens, dram doses of tincture in milk or tincture or orange peel"
+    }
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-keynotes-1899",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
       "felter-eclectic-1922",
@@ -624,7 +720,9 @@
       "kent-lectures-1905",
       "kent-mm-1911",
       "kings-american-1898",
-      "nash-leaders-1899"
+      "nash-leaders-1899",
+      "boericke-1927",
+      "lippe-textbook-mm-1866"
     ]
   }
 }

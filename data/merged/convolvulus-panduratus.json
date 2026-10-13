@@ -1,14 +1,17 @@
 {
   "id": "convolvulus-panduratus",
   "names": {
-    "primary": "Convolvulus panduratus",
-    "latin": "Convolvulus panduratus",
+    "primary": "Convolvulus Panduratus",
+    "latin": "Convolvulus Panduratus",
     "common": [
       "Potato, Wild"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "spinacia-oleracea",
   "names": {
-    "primary": "Spinacia oleracea (LINN.)",
-    "latin": "Spinacia oleracea (LINN.)",
+    "primary": "Spinacia Oleracea",
+    "latin": "Spinacia Oleracea",
     "common": [
       "Spinach"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Spinacia oleracea (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

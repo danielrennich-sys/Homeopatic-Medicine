@@ -1,14 +1,19 @@
 {
   "id": "guaiaci-resina",
   "names": {
-    "primary": "Guaiaci Resina (U. S. P.)",
-    "latin": "Guaiaci Resina (U. S. P.)",
+    "primary": "Guaiaci Resina",
+    "latin": "Guaiaci Resina",
     "common": [
       "Guaiac"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Guaiaci Resina (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

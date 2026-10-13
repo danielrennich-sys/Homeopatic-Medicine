@@ -1,14 +1,19 @@
 {
   "id": "prunus-domestica",
   "names": {
-    "primary": "Prunus domestica (LINN.)",
-    "latin": "Prunus domestica (LINN.)",
+    "primary": "Prunus Domestica",
+    "latin": "Prunus Domestica",
     "common": [
       "Prunes"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Prunus domestica (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

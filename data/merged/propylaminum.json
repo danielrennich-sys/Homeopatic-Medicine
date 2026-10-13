@@ -1,14 +1,17 @@
 {
   "id": "propylaminum",
   "names": {
-    "primary": "PROPYLAMINUM",
-    "latin": "PROPYLAMINUM",
+    "primary": "Propylaminum",
+    "latin": "Propylaminum",
     "common": [
       "Distilled Herring-brine (PROPYLAMIN - TRIMETHYLAMINUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "extremities": [
       {

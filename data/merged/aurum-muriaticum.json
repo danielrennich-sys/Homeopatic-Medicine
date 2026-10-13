@@ -9,12 +9,13 @@
     "synonyms": [
       "Aurum Muriaticum Natronatum",
       "AURUM MURIATICUM NATRONATUM",
-      "Aurum Muriaticum Kalinatum",
-      "AURUM MURIATICUM",
-      "Aurum muriaticum"
+      "Aurum Muriaticum Kalinatum"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -355,9 +356,7 @@
         "Gold salts and mercury salts both loosen cohesion of organic tissue. Both stimulate the absorbent, secreting and excreting functions of skin, kidneys and salivary glands. Employed for a longer period they initiate a peculiar metamorphosis of plastic life. They differ from the mercurials in stimulating more the activity of heart and bloodvessels, but not fluidly organic tissue so powerfully as dry mercury",
         "Similar to : Acon., Amm. carb. (hyperemia of chest from heart disease) ; Arg. met., Arg. nitr., Arsen. (dropsy, albuminuria, heart) ; Bellad., Cinnab. (syphilis) ; Ferrum, Glonoine (intermediate remedy in neurosis cordis) ; Lycop., Mercur., Nitr. ac., Phosphor., Platin., Silic., Sulphur",
         "Incompatible : sulphur springs",
-        "Antidotes : Bellad., Cinnab., Mercur",
-        "Copyright © Médi-T ® 2002",
-        "Main"
+        "Antidotes : Bellad., Cinnab., Mercur"
       ]
     },
     "head": [

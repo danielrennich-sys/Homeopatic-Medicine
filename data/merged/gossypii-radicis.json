@@ -1,14 +1,19 @@
 {
   "id": "gossypii-radicis",
   "names": {
-    "primary": "Gossypii Radicis Cortex (U. S. P.)",
-    "latin": "Gossypii Radicis Cortex (U. S. P.)",
+    "primary": "Gossypii Radicis",
+    "latin": "Gossypii Radicis",
     "common": [
       "Cotton Root Bark"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Gossypii Radicis Cortex (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

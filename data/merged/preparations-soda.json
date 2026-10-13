@@ -1,12 +1,17 @@
 {
   "id": "preparations-soda",
   "names": {
-    "primary": "Preparations  Of  Soda",
-    "latin": "Preparations  Of  Soda",
+    "primary": "Preparations Soda",
+    "latin": "Preparations Soda",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Preparations  Of  Soda"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

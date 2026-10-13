@@ -1,16 +1,17 @@
 {
   "id": "arbutus-andrachne",
   "names": {
-    "primary": "ARBUTUS ANDRACHNE",
-    "latin": "ARBUTUS ANDRACHNE",
+    "primary": "Arbutus Andrachne",
+    "latin": "Arbutus Andrachne",
     "common": [
       "Strawberry Tree"
     ],
-    "synonyms": [
-      "Arbutus Andrachne"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Tincture, to third potency"

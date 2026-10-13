@@ -1,14 +1,19 @@
 {
   "id": "ferula-foetida",
   "names": {
-    "primary": "Ferula foetida (REGEL.)",
-    "latin": "Ferula foetida (REGEL.)",
+    "primary": "Ferula Foetida",
+    "latin": "Ferula Foetida",
     "common": [
       "Asafetida"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ferula foetida (REGEL.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

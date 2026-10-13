@@ -1,12 +1,15 @@
 {
   "id": "ranunculus-bulb",
   "names": {
-    "primary": "RANUNCULUS BULB",
-    "latin": "RANUNCULUS BULB",
+    "primary": "Ranunculus Bulb",
+    "latin": "Ranunculus Bulb",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

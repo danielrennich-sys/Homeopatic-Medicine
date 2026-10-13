@@ -1,16 +1,18 @@
 {
   "id": "rhus-aromatica",
   "names": {
-    "primary": "RHUS AROMATICA",
-    "latin": "RHUS AROMATICA",
+    "primary": "Rhus Aromatica",
+    "latin": "Rhus Aromatica",
     "common": [
       "Fragrant Sumach"
     ],
-    "synonyms": [
-      "Rhus Aromatica"
-    ]
+    "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "urinary": [
       {

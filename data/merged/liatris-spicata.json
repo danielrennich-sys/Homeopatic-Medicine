@@ -1,21 +1,31 @@
 {
   "id": "liatris-spicata",
   "names": {
-    "primary": "LIATRIS SPICATA",
-    "latin": "LIATRIS SPICATA",
+    "primary": "Liatris Spicata",
+    "latin": "Liatris Spicata",
     "common": [
       "Colic Root (LIATRIS SPICATA - SERRATULA)",
       "Snakeroot, Button"
     ],
     "synonyms": [
-      "Liatris Spicata",
+      "Liatris. Liatris spicata",
       "Liatris spicata (WILLD.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "dosing": {
-      "notes": "1 to 4 drams of tincture of infusion"
+      "notes": "1 to 4 drams of tincture of infusion",
+      "entries": [
+        {
+          "text": "A decoction is taken three or four times daily in 2-OZ. doses.",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "keynotes": [
       {
@@ -41,15 +51,39 @@
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
-    "habitat": [
+    "indications": [
       {
-        "text": "Southern Ontario southwards.",
+        "text": "Synonyms—Gay Feather, Colic Root.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Physiological Action—The agent has the properties, to a mild degree, of a bitter tonic. It is said to act as an antispasmodic to spasm of the muscular structure of the intestines, relieving spasmodic colic. It stimulates the kidneys and has been used in dropsies. It may be used in the latter stages of fevers as an eliminant.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—Liatris stimulates the stomach mildly, and is a tonic and antispasmodic to the entire gastro-intestinal apparatus, relieving colic and soothing irritation, after fevers and after other acute prostrating diseases, restoring healthy glandular action. Its eliminative action is quite marked, it having been often used in syphilis and scrofula.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is a prompt diuretic, relieving kidney irritation and assisting in the removal of dropsical effusions, but we have more direct and efficient remedies.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Useful for its diuretic properties and as a local application for sore throat and gonorrhoea, for which it is exceedingly efficacious. Being an active diuretic it is valuable in the treatment of Bright's disease. Its agreeable odour is due to Coumarin, which may be detected on the surface of its spatulate leaves.",
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
-    "indications": [
+    "habitat": [
       {
-        "text": "Useful for its diuretic properties and as a local application for sore throat and gonorrhoea, for which it is exceedingly efficacious. Being an active diuretic it is valuable in the treatment of Bright's disease. Its agreeable odour is due to Coumarin, which may be detected on the surface of its spatulate leaves.",
+        "text": "Southern Ontario southwards.",
         "source_id": "grieve-modern-herbal-1931"
       }
     ]
@@ -59,6 +93,7 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
+      "ellingwood-1919",
       "grieve-modern-herbal-1931"
     ]
   }

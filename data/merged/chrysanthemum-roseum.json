@@ -1,14 +1,19 @@
 {
   "id": "chrysanthemum-roseum",
   "names": {
-    "primary": "Chrysanthemum roseum (ADAM), Pyrethrum roseum (BIEB.), Chrysanthemum carneum",
-    "latin": "Chrysanthemum roseum (ADAM), Pyrethrum roseum (BIEB.), Chrysanthemum carneum",
+    "primary": "Chrysanthemum Roseum",
+    "latin": "Chrysanthemum Roseum",
     "common": [
       "Pellitory, Persian"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Chrysanthemum roseum (ADAM), Pyrethrum roseum (BIEB.), Chrysanthemum carneum"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

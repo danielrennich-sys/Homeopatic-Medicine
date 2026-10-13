@@ -1,16 +1,17 @@
 {
   "id": "magnolia-grandiflora",
   "names": {
-    "primary": "MAGNOLIA GRANDIFLORA",
-    "latin": "MAGNOLIA GRANDIFLORA",
+    "primary": "Magnolia Grandiflora",
+    "latin": "Magnolia Grandiflora",
     "common": [
       "Magnolia"
     ],
-    "synonyms": [
-      "Magnolia Grandiflora"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "chest_heart": [
       {

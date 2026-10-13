@@ -7,11 +7,13 @@
       "Mercuric Sulphide (MERCURIUS SULPHURATUS RUBER)"
     ],
     "synonyms": [
-      "CINNABARIS",
       "Cinnabaris (Red Sulphide of Mercury.)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -145,6 +147,12 @@
         {
           "text": "lying on right side (feels as if contents of body were being dragged over to that side)",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Cinnb.]. At rest : rheumatic pain in right knee joint >. Lying on back : pain in forehead and top of head <. Lying on left side : pain in forehead and top of head <. Turning on right side : > pain in forehead and top of head. After rising : pain in forehead and top of head >. Stretching : > oppression and contracted feeling of chest. Stooping : dizziness. Walking : profuse, offensive sweat between thighs ; rheumatic pain in right knee joint <. After walking : pain in tendo-achillis and os calcis. In morning : dizziness, after rising ; pain in forehead and top of head after waking ; soreness over exit of supraorbital nerve < ; discharge of blepharitis < ; tongue coated white ; soreness of throat ; pulse slower ; metallic taste. In forenoon : flashes of heat in abdomen with great flatulency. At noon : perspiration <. After dinner : ringing in ears, with dulness and heaviness of head ; unconquerable desire to sleep ; symptoms >. During day : secretion of tenacious mucus, inclination to empty deglutition ; soreness of throat ; sleepiness. Early in evening : unconquerable desire to sleep. In evening : heaviness of lids < ; increased sexual desire with violent erections ; hoarseness ; pulse accelerated. At 8 P. M. : right molars and bicuspids feel soft, heavy and too large. Late in evening : dulness and heaviness in head with ringing in ears. At night : pain of left eye < ; kerato-iritis and uncomplicated iritis < ; soreness along course of supraorbital nerve and corresponding side of head < ; inflammation with dryness in mouth and throat < ; dryness and irritation of throat ; painful diarrhœa ; frequent and increased emission of watery urine ; pain in urethra wakes him up ; pains in thighs < ; violent itching on inside of thighs, knees and legs < ; painful twitching in leg awakens from sleep ; sleepless ; restlessness and sleeplessness from a constant flow of ideas ; internal and external heat of body. After midnight : awakens suddenly with oppression of chest. At 2 or 3 A. M. : right molars and bicuspids feel soft, heavy and too large. In open air : weariness, languor, tiredness and prostration > when riding ; symptoms >. In warm room : coldness and chilliness. Heat : > dull pain in forehead, which is cold. Worse in Summer.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

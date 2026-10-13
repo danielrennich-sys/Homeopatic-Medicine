@@ -1,12 +1,17 @@
 {
   "id": "chromium-kali",
   "names": {
-    "primary": "Chromium Kali Sulphuratum",
-    "latin": "Chromium Kali Sulphuratum",
+    "primary": "Chromium Kali",
+    "latin": "Chromium Kali",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Chromium Kali Sulphuratum"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

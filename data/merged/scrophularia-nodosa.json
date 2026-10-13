@@ -1,17 +1,21 @@
 {
   "id": "scrophularia-nodosa",
   "names": {
-    "primary": "SCROPHULARIA NODOSA",
-    "latin": "SCROPHULARIA NODOSA",
+    "primary": "Scrophularia Nodosa",
+    "latin": "Scrophularia Nodosa",
     "common": [
       "Knotted Figwort",
       "Figwort, Knotted"
     ],
     "synonyms": [
-      "Scrophularia nodosa"
+      "Scrophularia. Scrophularia nodosa"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "head": [
       {
@@ -65,7 +69,13 @@
       ]
     },
     "dosing": {
-      "notes": "Tincture and first potency. Apply locally to cancerous glands also Semper viv"
+      "notes": "Tincture and first potency. Apply locally to cancerous glands also Semper viv",
+      "entries": [
+        {
+          "text": "Fluid extract, 1/2 to 1 drachm.",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "keynotes": [
       {
@@ -73,15 +83,39 @@
         "source_id": "boericke-1927"
       }
     ],
-    "preparation": [
+    "indications": [
       {
-        "text": "Herb. The Knotted Figwort, common throughout England, is similar in general habit to the Water Figwort, but differs both in the form of its root and in having more acutely heartshaped leaves. The stem, too, is without the projections or wings at its angles, and the lobes of the calyx have only a very narrow membraneous margin. The plant, also, though found in rather moist, bushy places, either in cultivated or waste ground, and in damp woods, is not distinctly an aquatic, like the Water Figwort. The flowers, which resemble in appearance and character the Water Figwort, are in bloom during July and are specially visited by wasps. During the thirteen months' siege of Rochelle by the army of Richelieu in 1628, the tuberous roots of this Figwort yielded support to the garrison for a considerable period, from which circumstance the French still call it Herbe du siège . The taste and smell of the tubers are unpleasant, and they would never be resorted to for food except in times of famine.",
+        "text": "Synonyms—Carpenter's square, Scrofula plant, Figwort, Heal-all.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Specific Symptomatology—Marked evidences of cachexia. Depraved blood from any cause: glandular disorders of a chronic character, accompanied with disease of the skin. Ulcerations, eczema, excoriations from chronic skin disease. Those cases in which there is a peculiar pinkish tint, or pink and white tint to the complexion, with puffiness of the face, with full lips of a pallid character, are benefited by this remedy.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—The agent is administered in that class of cases, with the indications named, where a pure blood alterative is demanded. Its influence is perhaps more general than that of some of the better known remedies, but demands more time In the accomplishment of its results.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In disease of the glandular organs, resulting in dyscrasia; in general scrofula, in some cases of secondary syphilis, in depraved conditions of the system, where dropsy follows the remedy is demanded. Gross claimed that it was especially curative where from blood dyscrasia, ulceration would readily follow contusions, or wounds would not heal readily. It has been used to correct difficult menstruation and restore the lochial discharge. In the form of all ointment, it is applied to glandular inflammations, especially those of the mammary gland, and testicle, to bruises, ring worm, piles and chronic, painful swellings or enlargements. The agent should have more general use.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It has been called the Scrofula Plant, on account of its value in all cutaneous eruptions, abscesses, wounds, etc., the name of the genus being derived from that of the disease for which it was formerly considered a specific. It has diuretic and anodyne properties. The whole herb is used, collected in June and July and dried. A decoction is made of it for external use and the fresh leaves are also made into an ointment. Of the different kinds of Figwort used, this species is most employed, principally as a fomentation for sprains, swellings, inflammations, wounds and diseased parts, especially in scrofulous sores and gangrene. The leaves simply bruised are employed by the peasantry in some districts as an application to burns and swellings. The Welsh so highly esteem the plant that they call it Deilen Ddu ('good leaf'). In Ireland, it is known as Rose Noble and as Kernelwort. Gerard tells us, referring to what he evidently considered an exaggerated estimate of its worth: 'Divers do rashly teach that if it be hanged about the necke or else carried about one, it keepeth a man in health.' The herb was said to be curative of hydrophobia, by taking 'every morning while fasting a slice of bread and butter on which the powdered knots of the roots had been spread and eating it up with two tumblers of fresh spring water. Then let the patient be well clad in woollen garments and made to take a long, fast walk until in a profuse perspiration, the treatment being continued for seven days.' A decoction of the herb has been successfully used as a cure for the scab in swine. Cattle, as a rule, will refuse to eat the leaves, as they are bitter, acrid and nauseating, producing purging and vomiting if chewed.",
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
-    "indications": [
+    "preparation": [
       {
-        "text": "It has been called the Scrofula Plant, on account of its value in all cutaneous eruptions, abscesses, wounds, etc., the name of the genus being derived from that of the disease for which it was formerly considered a specific. It has diuretic and anodyne properties. The whole herb is used, collected in June and July and dried. A decoction is made of it for external use and the fresh leaves are also made into an ointment. Of the different kinds of Figwort used, this species is most employed, principally as a fomentation for sprains, swellings, inflammations, wounds and diseased parts, especially in scrofulous sores and gangrene. The leaves simply bruised are employed by the peasantry in some districts as an application to burns and swellings. The Welsh so highly esteem the plant that they call it Deilen Ddu ('good leaf'). In Ireland, it is known as Rose Noble and as Kernelwort. Gerard tells us, referring to what he evidently considered an exaggerated estimate of its worth: 'Divers do rashly teach that if it be hanged about the necke or else carried about one, it keepeth a man in health.' The herb was said to be curative of hydrophobia, by taking 'every morning while fasting a slice of bread and butter on which the powdered knots of the roots had been spread and eating it up with two tumblers of fresh spring water. Then let the patient be well clad in woollen garments and made to take a long, fast walk until in a profuse perspiration, the treatment being continued for seven days.' A decoction of the herb has been successfully used as a cure for the scab in swine. Cattle, as a rule, will refuse to eat the leaves, as they are bitter, acrid and nauseating, producing purging and vomiting if chewed.",
+        "text": "Herb. The Knotted Figwort, common throughout England, is similar in general habit to the Water Figwort, but differs both in the form of its root and in having more acutely heartshaped leaves. The stem, too, is without the projections or wings at its angles, and the lobes of the calyx have only a very narrow membraneous margin. The plant, also, though found in rather moist, bushy places, either in cultivated or waste ground, and in damp woods, is not distinctly an aquatic, like the Water Figwort. The flowers, which resemble in appearance and character the Water Figwort, are in bloom during July and are specially visited by wasps. During the thirteen months' siege of Rochelle by the army of Richelieu in 1628, the tuberous roots of this Figwort yielded support to the garrison for a considerable period, from which circumstance the French still call it Herbe du siège . The taste and smell of the tubers are unpleasant, and they would never be resorted to for food except in times of famine.",
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
@@ -96,6 +130,7 @@
   "provenance": {
     "sources": [
       "boericke-1927",
+      "ellingwood-1919",
       "grieve-modern-herbal-1931"
     ]
   }

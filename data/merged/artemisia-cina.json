@@ -1,14 +1,19 @@
 {
   "id": "artemisia-cina",
   "names": {
-    "primary": "Artemisia cina (BERG.)",
-    "latin": "Artemisia cina (BERG.)",
+    "primary": "Artemisia Cina",
+    "latin": "Artemisia Cina",
     "common": [
       "Wormseed, Levant"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Artemisia cina (BERG.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

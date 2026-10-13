@@ -1,18 +1,22 @@
 {
   "id": "gossypium-herbaceum",
   "names": {
-    "primary": "GOSSYPIUM HERBACEUM",
-    "latin": "GOSSYPIUM HERBACEUM",
+    "primary": "Gossypium Herbaceum",
+    "latin": "Gossypium Herbaceum",
     "common": [
       "Cotton-plant (GOSSYPIUM)",
       "Cotton Root"
     ],
     "synonyms": [
-      "Gossypium Herbaceum",
+      "Gossypium. Gossypium herbaceum",
       "Gossypium herbaceum (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "head": [
       {
@@ -133,6 +137,28 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "indications": [
+      {
+        "text": "Synonym—Cotton.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—Gossypium is used as an emmenagogue and parturient.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It has a wide reputation among the slave women of the South as an abortifacient. It was used by them in the form of a strong infusion of the green root and is of value in suppression of the menses from whatever cause. It produces firm, regular and strong uterine contractions, much resembling ustilago maydis and cimicifuga in its action. It may be used in uterine inertia to increase the natural expulsive power of the womb and prevent the dangers of post-partum hemorrhage. It is a hemostatic of some power being used principally to control the hemorrhage of uterine fibroids and incipient cancer. It is a valuable agent for metrorrhagia and menorrhagia, but is not in general use, as the uterine tonics and stimulants in common use accomplish these results in their wider beneficial influence.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Mainly used as an abortifacient in place of ergot, being not so powerful but safer; it was used largely in this way by the slaves in the south. It not only increases the contractions of the uterus in labour, but also is useful in the treatment of metrorrhagia, specially when dependent on fibroids; useful also as an ecbolic; of value in sexual lassitude. A preparation of cotton seed increases milk of nursing mothers.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
     "preparation": [
       {
         "text": "Bark of root and of other cultivated species.",
@@ -152,12 +178,6 @@
     "constituents": [
       {
         "text": "A peculiar acid resin, odourless and insoluble in water, absorbing oxygen when exposed, then changes to a red colour. The bark also contains sugar, gum, tannin, fixed oil, chlorophyll.",
-        "source_id": "grieve-modern-herbal-1931"
-      }
-    ],
-    "indications": [
-      {
-        "text": "Mainly used as an abortifacient in place of ergot, being not so powerful but safer; it was used largely in this way by the slaves in the south. It not only increases the contractions of the uterus in labour, but also is useful in the treatment of metrorrhagia, specially when dependent on fibroids; useful also as an ecbolic; of value in sexual lassitude. A preparation of cotton seed increases milk of nursing mothers.",
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
@@ -197,6 +217,7 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
+      "ellingwood-1919",
       "grieve-modern-herbal-1931",
       "hering-guiding-1879"
     ]

@@ -3,12 +3,17 @@
   "names": {
     "primary": "Kali Chloricum",
     "latin": "Kali Chloricum",
-    "common": [],
+    "common": [
+      "Chlorate of Potassium-K clo. 3 (KALI CHLORICUM)"
+    ],
     "synonyms": [
-      "Kali chloricum"
+      "KALIUM CHLORICUM"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -24,7 +29,64 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "mouth_throat": [
+      {
+        "text": "Profuse secretion of acid saliva. Whole mucous surface red, tumid, with gray-based ulcers. Tongue swollen. Stomatitis-aphthous and gangrenous. Fetor. Mercurial stomatitis (as a mouth wash)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Aching in upper teeth. Cramp-like drawing in cheeks, extending to articulation of jaw, with stinging pain in jaw and teeth. Teeth blunted. The teeth are set on edge. Gums bright red. Gums bleed easily on brushing teeth. Tongue white; in middle. Tongue coated; at back with diarrhœa. Two symmetrical ulcers on sides of tongue. Tongue cold and throat. Sticking (stinging) burning on tongue. Smarting of tongue. (Stomatitis; ulcerative and follicular, mucous surface red and tumid, and grey-based ulcers in cheeks, lips, &c.). Tanned appearance of mucous membrane of mouth and throat. Contracted feeling in muscles of palate. Salivation; acid. Taste: burning, alkaline; as of blue vitriol; salt; sour; saltish, sour; bitter, sourish; bitter, > expectoration of mucus; bitter, with coldness of tongue (like laurel-water with salt); lost. Submaxillary glands swollen, throat red and œdematous. Pain in throat and stomach, with inclination to eructate. Scraping; roughness; rawness; dryness of throat; and of chest; with violent cough as from sulphur fumes. Swallowing difficult. Dryness of fauces. Cynanche tonsillaris. Throat constricted.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Feeling of weight in epigastric and umbilical region. Flatulence. Vomiting of greenish-black matter",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Appetite increased; paroxysms of ravenous hunger, > a drink of water, then loss of appetite. Appetite diminished; lost. Thirst. (Desire for acids removed.). Eructations: of air, sourish; violent, with alternating pains in chest and abdomen. Frequent risings of flatus. Aching in the stomach and precordial region, sometimes with inclination to eructate, or with apathetic humour and shiverings. Sensation of heat or coldness in stomach. Incisive pains in region of stomach. Nausea; and shivering; and attempts to vomit, though nothing but air was ejected. Vomiting: sudden; incessant; of all food; of offensive dark green mucus. Acute gastritis, nausea, pain in splenic region, enlargement of spleen. Cardialgia. (Gastralgia.). Pyrosis. Cutting in stomach. Pressure with feeling of emptiness. Pressure in epigastric region; and of stomach with apathy and chilliness. Heavy pain in stomach after a walk of an eighth of a mile, with sinking sensation. Weight, fulness, distension in epigastric region, regularly and generally increased for six hours; repeated next day; > at night. Warmth in stomach. Much commotion and flatulence in abdomen. Movings (frequent) with inclination to diarrhœa. Fatulence: during day; in afternoon; with epigastric distress, preventing sleep. Griping. Colic, with diarrhœa and shifting of the flatulence. Intermittent weight, tension and pain in umbilical region. Pressure: in l. hypochondrium; in r. extending to umbilicus; tensive in r., > emission of flatus. Pain in pelvic region, with diarrhœa.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Diarrhœa; profuse, greenish mucus",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "External piles; with constipation. Congestions and obstructions to portal system and liver, with hæmorrhoidal complaints. Persistent pain in rectum. Urging; constant, with normal stool. Stool: liquid; thin; diarrhœa; violent, constantly getting more liquid, at last consisting only of mucus; copious, as after a refrigerant purging salt (painful); with weakness. Slow, hard and dry evacuations. the latter part is mixed with mucus and blood. Liquid, loose, and sometimes mucous evacuations. Painful diarrhœa. Dysentery; much blood passing with the slime. Stool hard; and at last mixed with mucus and blood. Green stools. Light-coloured stools. Stool indolent, delayed.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Albuminous, scanty, suppressed. Hæmaturia; diuresis. Nucleo-albumin and bile, high Phosphoric acid, with low total solids",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Nephritis. Urging; frequent. Itching in urethra and scrotum. Inability to empty bladder. Could pass only a few drops of bloody urine. Frequent micturition; and copious, with irritation about bladder and urethra. Hæmaturia. Urine: increased in evening and night; scanty; black and albuminous, greenish-black, containing hæmatin; urine containing albumen, casts, and altered blood, drawn off by catheter; acid and deposits urates abundantly; turbid; suppressed. (Albuminuria during gestation.).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Jaundice. Itching miliary or papular eruptions. Discolored; chocolate tint",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Cyanosis, lips and extremities. Icterus. Duskiness of skin. Small purple maculæ on forearms. Rash, with painful pimples on l. shoulder. Pimples: on forehead; between lip and chin; on thigh; red pimples; burning on l. cheek; itchings; itching pimples, with vesicles on back of l. hand, > during day, but returning next morning. Miliary eruptions. Itching pustules filled with matter, surrounded by red areola, on limbs. Numerous small red papulæ. Itching vesicles on back of r. hand. Itching over whole body: in evening in bed; in face; at night, next morning red pimples on legs and shoulders, not on joints, then pimples on face.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "dosing": {
+      "notes": "Second to sixth potency. Use cautiously locally as it is poisonous"
+    },
     "keynotes": [
+      {
+        "text": "color=\"#800000\">KALIUM CHLORICUM Chlorate of Potassium-K clo. 3 (KALI CHLORICUM) Acts very destructively upon the kidneys, producing a croupous nephritis, hemoglobinuria, etc. Parenchymatous nephritis with stomatitis. Produces most acute ulcerative and follicular stomatitis. Noma. Toxæmic conditions of pregnancy (urinary symptoms). Chronic nephritis; hepatitis. Septicæmia. Anæmia.",
+        "source_id": "boericke-1927"
+      },
       {
         "text": "The Chlorate of Potash is not to be confounded with the chloride which constitutes the Kali muriaticum of Schüssler. Hering has amalgamated the symptoms of the two under the heading Kali mur., but I think it best to keep them separate. Kali chlor. is an exceedingly active poison. It has long been used in the old school, in solution, as a wash for sore mouth and for foul ulcers. Hutchinson observed a number of case in which it produced the very condition which it was given to cure: \"Most acute ulceration and follicular stomatitis. The whole mucous surface was red and tumid, and in the cheeks, lips, &c., were numerous grey-based ulcers.\" Rushmore (H. P., xii. 530) records a proving in an unmarried lady, 50, short, brunette, who had had goître in early life, which disappeared under the application of Iodine. Later on a fibroid tumour developed in the uterus, and for this the patient was advised to take crude Potassium chlorate, dissolved in water, daily. The following symptoms were observed: Increased moral irritability. Felt dreadfully dull and stupid. Dizzy on stooping and rising. Slight headache over eyes, objects appear double, beside each other. Face swelled so she could hardly see on rising in morning. Smarting of tongue. It took away her desire for acids. Diminished appetite. Much commotion and flatulence in abdomen. Increased urine. Dreams worse, of terrible things never thought of. Great coolness; shivering on cold days; seemed as if it cooled off her blood. Clumsiness. General bloated feeling.─Fatal poisoning has occurred, death taking place in convulsions. The blood is disorganised, and after death liver, spleen and kidneys are found softened and filled with disorganised blood; this should give it a place in cases of lardaceous and fatty degeneration of solid viscera. Mouth, hypochondria, and rectum are the parts most affected. In the provers great weakness was manifested, rheumatic and neuralgic pains, many occurring in the facial nerves. Facial paralysis has been cured with it. The heart was the seat of much disturbance, and a coldness was felt about the precordia. The stomach and bowels were disordered, and Allen credits it with the cure of this: \"Dysentery, with most violent cutting pains as from knives, frequent stools, tenesmus, making the patient cry out, evacuations very small, almost pure blood, great prostration.\" The sexual organs were excited. The skin also manifested a number of symptoms: Pimples in various parts; between lip and chin. It has cured epithelioma of face and of great toe (Allen). Sir James Simpson recommended it in 20-grain doses daily where abortion was likely to occur from fatty degeneration of the placenta (Brunton). As this is frequently a syphilitic affection it is probable that when successful it neutralised that disease. By jar of coughing or sneezing (eyes). Mental symptoms > by nose-bleed.",
         "source_id": "clarke-dictionary-1900"
@@ -75,30 +137,6 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
-    "mouth_throat": [
-      {
-        "text": "Aching in upper teeth. Cramp-like drawing in cheeks, extending to articulation of jaw, with stinging pain in jaw and teeth. Teeth blunted. The teeth are set on edge. Gums bright red. Gums bleed easily on brushing teeth. Tongue white; in middle. Tongue coated; at back with diarrhœa. Two symmetrical ulcers on sides of tongue. Tongue cold and throat. Sticking (stinging) burning on tongue. Smarting of tongue. (Stomatitis; ulcerative and follicular, mucous surface red and tumid, and grey-based ulcers in cheeks, lips, &c.). Tanned appearance of mucous membrane of mouth and throat. Contracted feeling in muscles of palate. Salivation; acid. Taste: burning, alkaline; as of blue vitriol; salt; sour; saltish, sour; bitter, sourish; bitter, > expectoration of mucus; bitter, with coldness of tongue (like laurel-water with salt); lost. Submaxillary glands swollen, throat red and œdematous. Pain in throat and stomach, with inclination to eructate. Scraping; roughness; rawness; dryness of throat; and of chest; with violent cough as from sulphur fumes. Swallowing difficult. Dryness of fauces. Cynanche tonsillaris. Throat constricted.",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
-    "stomach_abdomen": [
-      {
-        "text": "Appetite increased; paroxysms of ravenous hunger, > a drink of water, then loss of appetite. Appetite diminished; lost. Thirst. (Desire for acids removed.). Eructations: of air, sourish; violent, with alternating pains in chest and abdomen. Frequent risings of flatus. Aching in the stomach and precordial region, sometimes with inclination to eructate, or with apathetic humour and shiverings. Sensation of heat or coldness in stomach. Incisive pains in region of stomach. Nausea; and shivering; and attempts to vomit, though nothing but air was ejected. Vomiting: sudden; incessant; of all food; of offensive dark green mucus. Acute gastritis, nausea, pain in splenic region, enlargement of spleen. Cardialgia. (Gastralgia.). Pyrosis. Cutting in stomach. Pressure with feeling of emptiness. Pressure in epigastric region; and of stomach with apathy and chilliness. Heavy pain in stomach after a walk of an eighth of a mile, with sinking sensation. Weight, fulness, distension in epigastric region, regularly and generally increased for six hours; repeated next day; > at night. Warmth in stomach. Much commotion and flatulence in abdomen. Movings (frequent) with inclination to diarrhœa. Fatulence: during day; in afternoon; with epigastric distress, preventing sleep. Griping. Colic, with diarrhœa and shifting of the flatulence. Intermittent weight, tension and pain in umbilical region. Pressure: in l. hypochondrium; in r. extending to umbilicus; tensive in r., > emission of flatus. Pain in pelvic region, with diarrhœa.",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
-    "stool_rectum": [
-      {
-        "text": "External piles; with constipation. Congestions and obstructions to portal system and liver, with hæmorrhoidal complaints. Persistent pain in rectum. Urging; constant, with normal stool. Stool: liquid; thin; diarrhœa; violent, constantly getting more liquid, at last consisting only of mucus; copious, as after a refrigerant purging salt (painful); with weakness. Slow, hard and dry evacuations. the latter part is mixed with mucus and blood. Liquid, loose, and sometimes mucous evacuations. Painful diarrhœa. Dysentery; much blood passing with the slime. Stool hard; and at last mixed with mucus and blood. Green stools. Light-coloured stools. Stool indolent, delayed.",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
-    "urinary": [
-      {
-        "text": "Nephritis. Urging; frequent. Itching in urethra and scrotum. Inability to empty bladder. Could pass only a few drops of bloody urine. Frequent micturition; and copious, with irritation about bladder and urethra. Hæmaturia. Urine: increased in evening and night; scanty; black and albuminous, greenish-black, containing hæmatin; urine containing albumen, casts, and altered blood, drawn off by catheter; acid and deposits urates abundantly; turbid; suppressed. (Albuminuria during gestation.).",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
     "male": [
       {
         "text": "Violent (frequent) erections, with itching on scrotum; with emissions. Frequent pollutions with lascivious dreams. Depression of desire, with chilliness and apathy.",
@@ -114,12 +152,6 @@
     "back": [
       {
         "text": "Pain in lumbar region, with weight. Heaviness in lumbar region, with dragging and increased urine.",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
-    "skin": [
-      {
-        "text": "Cyanosis, lips and extremities. Icterus. Duskiness of skin. Small purple maculæ on forearms. Rash, with painful pimples on l. shoulder. Pimples: on forehead; between lip and chin; on thigh; red pimples; burning on l. cheek; itchings; itching pimples, with vesicles on back of l. hand, > during day, but returning next morning. Miliary eruptions. Itching pustules filled with matter, surrounded by red areola, on limbs. Numerous small red papulæ. Itching vesicles on back of r. hand. Itching over whole body: in evening in bed; in face; at night, next morning red pimples on legs and shoulders, not on joints, then pimples on face.",
         "source_id": "clarke-dictionary-1900"
       }
     ],
@@ -140,6 +172,7 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "boericke-1927",
       "clarke-dictionary-1900",
       "lippe-textbook-mm-1866"
     ]

@@ -1,12 +1,15 @@
 {
   "id": "ferrum-arsenicosum",
   "names": {
-    "primary": "FERRUM ARSENICOSUM",
-    "latin": "FERRUM ARSENICOSUM",
+    "primary": "Ferrum Arsenicosum",
+    "latin": "Ferrum Arsenicosum",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -1,12 +1,17 @@
 {
   "id": "rhodiola-rosea",
   "names": {
-    "primary": "Rhodiola",
-    "latin": "Rhodiola",
+    "primary": "Rhodiola Rosea",
+    "latin": "Rhodiola Rosea",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Rhodiola"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {},
   "evidence": {
     "summary": "Rhodiola grows in cold regions and at high altitudes in Europe, Asia, and North America. Rhodiola has a long history of use in Russia, Scandinavia, and other parts of Europe. Traditionally, rhodiola was used for work performance, endurance, fatigue, depression, and altitude sickness. Today, rhodiola is promoted for improving athletic performance, mood, and cognition; increasing energy; and reducing stress.",

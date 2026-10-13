@@ -1,14 +1,19 @@
 {
   "id": "ergota",
   "names": {
-    "primary": "Ergota (U. S. P.)",
-    "latin": "Ergota (U. S. P.)",
+    "primary": "Ergota",
+    "latin": "Ergota",
     "common": [
       "Ergot"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ergota (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

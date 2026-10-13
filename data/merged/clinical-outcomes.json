@@ -7,10 +7,11 @@
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {},
   "evidence": {
-    "summary": "",
-    "documented_adverse_effects": [],
     "hepatotoxicity": [
       {
         "section": "LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet].",

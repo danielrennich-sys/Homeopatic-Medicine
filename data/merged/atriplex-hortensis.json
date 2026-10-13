@@ -1,14 +1,19 @@
 {
   "id": "atriplex-hortensis",
   "names": {
-    "primary": "Atriplex hortensis Uses",
-    "latin": "Atriplex hortensis Uses",
+    "primary": "Atriplex Hortensis",
+    "latin": "Atriplex Hortensis",
     "common": [
       "Arrach (Garden)"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Atriplex hortensis Uses"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

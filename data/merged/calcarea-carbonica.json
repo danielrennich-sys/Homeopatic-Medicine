@@ -1,18 +1,19 @@
 {
   "id": "calcarea-carbonica",
   "names": {
-    "primary": "Calc",
-    "latin": "Calc",
+    "primary": "Calcarea Carbonica",
+    "latin": "Calcarea Carbonica",
     "common": [
       "Carbonate of Lime (CALCAREA CARBONICA - OSTREARUM)"
     ],
     "synonyms": [
-      "CALCAREA CARBONICA",
-      "Calcarea Carbonica",
-      "Calcarea carbonica"
+      "Calc"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mentals": [
       {

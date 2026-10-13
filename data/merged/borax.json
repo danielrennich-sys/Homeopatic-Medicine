@@ -5,11 +5,14 @@
     "latin": "Borax",
     "common": [],
     "synonyms": [
-      "BORAX",
+      "Borax. Biborate of Soda",
       "Borax. (Borax Veneta.)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -30,6 +33,22 @@
       }
     ],
     "keynotes": [
+      {
+        "text": "Dread of downward motion in nearly all complaints. Great anxiety from downward motion; when laying the child down on a couch or in the crib, cries and clings to the nurse; when rocking, dancing, swinging; going down stairs or rapidly down hill; horseback riding (compare Sanic.). Children awake suddenly, screaming and grasping sides of cradle, without apparent cause (Apis, Cina, Stram.). Excessively nervous, easily frightened by the slightest noise or an unusual sharp sound, a cough, sneeze, a cry, lighting a match, etc. (Asar., Calad.). Hair becomes frowsy and tangled; splits, sticks together at eh tips; if these bunches are cut off, they form again, cannot be combined (Flour. ac., Lyc., Psor., Tub.). Eyelashes: loaded with dry, gummy exudation; agglutinated in morning; turn inward and inflame the eye, especially at outer canthus; tendency to \"wild hairs.\". Nostrils crusty, inflamed; tip of nose shining red; red noses of young women. Stoppage of right nostril, or first right then left with constant blowing of nose (Am. c., Lac c., Mag. m.). Aphthae: in the mouth, on the tongue, inside of the cheek; easily bleeding when eating or touched; prevents child from nursing; with hot mouth, dryness and thirst (Ars.); cracked and bleeding tongue (Arum.); salivation, especially during dentition. Aphthous sore mouth; is worse from touch; eating salty or sour food; of old people, often from plate of teeth (Alumen). Child has frequent urination and screams before urine passes (Lyc., Sanic., Sars.). Leucorrhoea: profuse, albuminous, starchy, with sensation as if warm water were flowing down; for two weeks between the catamenia (compare, Bov., Con.). Skin: unhealthy, slight injuries suppurate (Calend., Hep., Mer., Sil.).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relation. - Borax follows: Calc., Psor., Sanic., Sulph. Is followed: by, Ars., Bry., Lyc., Phos., Sil. Incompatible: should not be used before or after, Acetic acid, vinegar, wine.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Aggravation. - Downward motion; from sudden, slight noises; smoking, which may bring on diarrhoea; damp, cold weather; before urinating.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Amelioration. - Pressure; holding painful side with hand.",
+        "source_id": "allen-keynotes-1899"
+      },
       {
         "text": "Borax has some very peculiar symptoms which will serve as keynotes to many cases. Chief among them are: (1) Sensitiveness to sudden noises, as a distant shot, which causes violent starting. (It has cured \"shot-shyness\" in sporting dogs.) (2) Intolerance of downward motions a child screams when nurse puts it into cot, or when she rocks it symptoms are worse going downstairs; sea-sickness (when the downward motion is felt most: \"Every time the ship goes down, everything in me comes up\"). Restlessness with ebullitions, especially after talking, with nausea. Laughter alternating with weeping. Cobweb sensations; sore mouth; infant pale, earthy, flesh flabby; screams out in sleep, wakes frightened and clings to nurse; excessively nervous, a slight noise arouses. Starts with pain. Muco-cutaneous surfaces are sore; in the eyelids there is ingrowing of lashes. Otorrhœa and inflammation of auricle: \"starts with the pains.\" Nostrils ulcerated; soreness, pain and swelling of tip of nose. Aphthæ; mouth of child feels hot to mother's nipple; child lets go nipple and cries with pain and vexation, or else refuses breast altogether. Diarrhœa with pain or soft yellow stools accompanying aphthæ. Child screams before urinating (from inflammation of mucous membrane). Leucorrhœa clear, copious, albuminous, unnaturally hot. Painful nursing; pain after nursing; empty feeling in breasts; they ache because they are empty, > by pressure: this is characteristic. Dysmenorrhœa (may be membranous), pain excessive during flow. Leucorrhœa preceding and following menses, albuminous, acrid. Herpetic eruptions; pleuritic symptoms (upper right chest) and cough, with expectoration of a mushy, mouldy odour. A notable symptom is: Before the easy stool in afternoon, fretful, ill-humoured, indolent, and discontented; after it, lively, contented, and cheerful. Another mental symptom is: Idles through the afternoon does not really get to work; changes from one business to another from one room to another. It is suited to the period of dentition; to persons with light hair; lax skins and muscles; wrinkled skin consequences of getting cold in cold and wet weather; riding eating fruit. Symptoms are in warm weather, after menstruation. Parts usually red turn white. Many Natrum symptoms appear in the proving. Stitching pains predominate.",
         "source_id": "clarke-dictionary-1900"
@@ -711,6 +730,7 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-keynotes-1899",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
       "guernsey-keynotes-1887",

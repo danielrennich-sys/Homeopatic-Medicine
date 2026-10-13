@@ -1,14 +1,17 @@
 {
   "id": "matricaria-inodora",
   "names": {
-    "primary": "Matricaria inodora",
-    "latin": "Matricaria inodora",
+    "primary": "Matricaria Inodora",
+    "latin": "Matricaria Inodora",
     "common": [
       "Mayweed, Scentless"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

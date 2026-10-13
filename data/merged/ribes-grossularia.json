@@ -1,14 +1,17 @@
 {
   "id": "ribes-grossularia",
   "names": {
-    "primary": "Ribes grossularia",
-    "latin": "Ribes grossularia",
+    "primary": "Ribes Grossularia",
+    "latin": "Ribes Grossularia",
     "common": [
       "Gooseberry"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

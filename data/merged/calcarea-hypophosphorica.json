@@ -1,12 +1,15 @@
 {
   "id": "calcarea-hypophosphorica",
   "names": {
-    "primary": "CALCAREA HYPOPHOSPHORICA",
-    "latin": "CALCAREA HYPOPHOSPHORICA",
+    "primary": "Calcarea Hypophosphorica",
+    "latin": "Calcarea Hypophosphorica",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

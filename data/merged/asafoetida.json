@@ -1,25 +1,160 @@
 {
   "id": "asafoetida",
   "names": {
-    "primary": "AsafTida",
-    "latin": "AsafTida",
+    "primary": "Asafœtida",
+    "latin": "Asafœtida",
     "common": [
+      "Gum of the Stinkasand (ASAFOETIDA)",
       "Asafoetida"
     ],
     "synonyms": [
-      "Asafœtida",
+      "ASA FOETIDA",
+      "Asafoetida. Ferula foetida",
       "Asafoetida (Ferula fetida)",
       "ASAFOETIDA",
       "Asafoetida",
-      "Asafoetida (U. S. P.)"
+      "Asa Foetida",
+      "Asafoetida (U. S. P.)",
+      "Asa F",
+      "Asa ftida (Assaftida)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
+    "head": [
+      {
+        "text": "Irritable; complains of her troubles; sensitive. Boring above eyebrows. Pressive pain from within outward",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pressive pain in forehead from within outward; with it vertigo and vanishing of sight. Single deep-penetrating stitches in left frontal eminence. Heaviness and pressure in forehead and r. half of the head. Drawing, pressive pains like a plug, in sides of head or temples; most on l. side. The pains in the head cease, or change from touch. Rush of blood to head and warmth of face. All headaches towards evening; in room while at rest, sitting or lying; > when rising or moving about in the open air.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pain in left side of head extending to eyes, changing into intermitting, severe pain and slight fulness of brain. A sudden pain in left temple, like an inward-pressing pointed plug. Inner semilateral headache, oftener on left side. Pressive pain in forehead and left side of head from within outward. Dull pain and fulness in left side of head, with bleeding from left nostril, heart beating slowly. Fulness and throbbing in head, heart beats feebly, with apprehension. Fulness of head when riding in a carriage. Pressure in sides of head or temples, like from a dull stick, better from touch. Fulness of head, changing gradually into aching and pressing pain, as if whole brain was compressed ; with dizziness, increased heat of skin and some quickness of pulse. Awoke with fulness of head, which gradually changed to periodically recurring pains, lasting, more or less, into next night. Drawing, wavelike pressure through left half of forehead, ending in dull pressure on frontal eminence. Flying stitch from within outward, in forehead, temples and sides of head. Jerking through head. Single, sudden, and deep penetrating stitches under left frontal eminence, like shocks followed by some sensitiveness. Pain as if a nail or plug was driven into brain. Crampy pain in forehead above eyebrows. The brain seems tense. Rush of blood to head, and warmth of face. Congestive headache. Sensation of swashing in head as of water, and gurgling behind upper part of frontal bone. All headaches < towards evening, in room, while at rest, sitting or lying ; > when rising or moving about in open air. Reading and writing make her worse. The pains in the head cease, or change from touch. Nervous headache of hysterical or scrofulous people. Cold sensation in head. Pain in right parietal, as from a deeply penetrating plug. The pains in head cease or are changed from external touch. Cold sweat on forehead.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Orbital neuralgia; better, pressure and rest. Iritis and intraocular inflammations, with boring, throbbing pains at night. Stitches under left frontal eminences. Boring pains in and around eyes. Syphilitic iritis. Superficial corneal ulcer with digging pains; worse at night",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Nocturnal throbbing pains in and around the head; syphilitic iritis. Extensive superficial ulceration of the cornea, with burning, sticking, or pressive pains, from within outward; rest and pressure relieve. Sharp pain extending through eye into head on touching. Sensation of dryness in the eyes. Dryness and burning in, the eyes. Severe boring pains over the eyebrows.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Dimness of sight ; letters become darker on writing ; disappear after blinking. Mist before eyes. Muscæ volitantes. Sight worn from reading or writing. Boring pain above eyebrows ; burning, especially at night. θ Iritis, kerato-iritis, retinitis, of syphilitic origin. Dull pressure at external border of left orbit. Troublesome dryness of eyes. Burning in eyes ; stitches ; dryness. Periodic burning in eyes and pressing together of lids as if overcome with sleep. Burning in eyeballs ; in left as from within outward. Sharp pain extending through eye into head, upon touching. Nocturnal, throbbing pains in and around eye and head. θ Syphilitic iritis, abuse of mercury. Deep-seated inflammation of eyeball, attended by ciliary pains. θ Iritis, kerato-iritis, irido-choroiditis and retinitis, especially if of syphilitic origin. Extensive superficial ulceration of cornea, with burning, sticking or pressing pains, from within outward ; rest and pressure relieve ; also > in open air ; numbness around eye. Itching in right eye. Periodic burning in eyes and pressing together of lids ; as if overcome with sleep.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Offensive otorrhœa, with boring pains in mastoid bone. Mastoid disease with pain in temporal region with pushing out sensation. Offensive, purulent discharge",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Hardness of hearing, with discharge of offensive, thin pus from the ears.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "The faintness is brought on by noise, or being in crowded streets. Hardness of hearing, with discharge of pus from ears. Hardness of hearing, with thin, purulent discharge of an extremely offensive odor. θ After scarlatina, or abuse of mercury. Otorrhœa with offensive discharge and diseased bones.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Syphilitic ozæna, with very offensive purulent discharge. Caries of nasal bones (Aurum)",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Ozæna; discharge of very offensive greenish matter from the nose; bones swollen and inflamed after Mercury or in scrofula.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Offensive discharge from nose ; stench from nose. θ After mercury or in scrofula. Unpainful tension over bones of nose, with feeling of numbness. Swelling and inflammation affecting bones, with a feeling as if nose would burst. Pressure in nose, especially right wing, as if it would burst. Feeling as if nose stopped up high up, so that he cannot breathe through it, with fulness of head, when riding in a carriage. Fluent coryza. Discharge of very offensive matter from nose ; with caries of bones. θ Ozæna. A little pimple on tip of nose. Flushes and heat of face, of one cheek after eating. Small tubercules in cheeks. Numbness of bones of face ; painless tension in various places.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Globus hystericus. Ball rises in throat. Sensation as if peristaltic motion were reversed, and œsophagus were driven from stomach to throat",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Grinding of teeth. Bluntness of teeth. Greasy, rancid taste in mouth; and of phlegm hawked up. Speech unintelligible; tongue white, swollen (chorea). Constantly chewing, and working frothy slime out of mouth. Sensation of dryness in the mouth and throat. Dryness of mouth, throat, and œsophagus. Sensation of a ball rising in the throat, obliging frequent swallowing to keep it down, and causing at times difficult breathing; globus hystericus. Sensation in the œsophagus as if the peristaltic motions were from below upward.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Grinding of teeth ; starting at night ; transient griping pains in region of navel. θ Chorea. Bluntness of teeth. Severe drawing in lower incisors. Soreness of gums. Greasy, rancid taste in mouth and of phlegm hawked up. Speech unintelligible ; tongue white, swollen. θ Chorea. Sensation of dryness in mouth and throat, even when moist, without thirst. Saliva predominantly decreased, except in mercurial caries, when acrid salivation exists. Burning in mouth. Constantly chewing and working frothy slime out of mouth, with swollen tongue. θ Chorea. Sensation as if peristaltic motion was reversed and œsophagus being drawn from stomach up towards throat. Sensation of pressure, as if a body or lump was ascending in throat, has to swallow frequently. Burning, followed by soreness, in fauces and pharynx. Darting stitches, from chest upward towards œsophagus. Tender feeling in throat, < when swallowing. Sensation of a ball rising in throat, causes difficulty in breathing. θ Hysteria. Hysterical spasms affecting œsophagus. In evening a hysterical rising in throat, as if a ball or large body ascended from stomach to œsophagus, or even pharynx, obliging him repeatedly to attempt to swallow it. θ Globus hystericus. Dryness and burning in œsophagus.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Great difficulty in bringing up wind. Flatulence and regurgitation of liquid. Hysterical flatulence. Great distention. Sensation of emptiness and weakness, with distention and beating in stomach and abdomen. Forcible eructation of gas. Pulsation in pit of stomach. Violent gastralgia; cutting and burning in stomach and region of diaphragm. Gurgling and rolling of wind, which escapes afterwards with loud and difficult eructation",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Ravenous hunger. Desire for wine. Disgust for all food. Pulsation in the pit of the stomach, perceptible to the hand and eye even. Rising in throat. Loathing; inclination to vomit. Sensation of fulness and distension in stomach. Eructations; smelling like garlic; tasting rancid, sharp, or putrid. Flatus passing upward, none down. Great distension of the abdomen. Pulsations in abdomen. Heat in spleen and abdomen. Colic with distension and a \"rising-up\" feeling; > by external pressure; at height of pain, fainting. Sense of fulness, and as if beaten, in epigastrium and whole abdomen. Pressive pain on drawing in abdominal muscles. Lancinations; dartings in abdominal-muscles.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Asaf.]. Ravenous hunger, with pain in upper abdomen, as from a cold, and as if diarrhœa would set in. Hunger with desire for strong, cooling food. Desire for wine. Great disgust for all food. θ Chorea. Beer tastes slimy, aversion to it. Great dejection, with epigastric pressure after eating : hypochondriacal. After eating : heat in face, with anguish ; pressure in stomach ; stitches about lower ribs ; tension in abdomen ; winding and twisting in bowels ; great difficulty in breathing ; febrile state. After drinking : diarrhœa ; heaviness and cold feeling in intestines. After meals flatulent distension of abdomen. After eating anything sour griping pains in region of navel. θ Chorea. Eructations : smelling like garlic ; tasting rancid, sharp, or putrid ; smelling like feces ; tasting like carrion. Flatus passing upward, none down. Hiccough-like contractions of diaphragm. θ Chorea. Pressing, cutting, stitching pains in spells, not regular ; full of wind ; pressing upward (never down) ; gulping up rancid fluid ; constipation. θ Gastralgia. Dyspepsia, with much pulsation in pit of stomach. Pulsation in pit of stomach, perceptible to sight and touch. Sensation of fulness in stomach. \"Gone,\" empty feeling in pit of stomach, not a pain, but \"it hurts there ;\" pulsations after eating ; < about 11 o'clock A. M. ; faint feeling. θ Hysteria. Cardialgia. Meteorism of stomach when feeling of tension is great and eructating is difficult. Increased warmth and aching in stomach, towards left side, not all on right, but more up into œsophagus, like globus hystericus. In morning sensation in epigastric region and in whole abdomen, as if it were beaten, with sense of fulness in former, and eructations. Stitches in right hypochondrium, towards diaphragm. Pressure from interior of liver, to chest, after dinner, with labored breathing and violent pulsations. Violent pressure in scrobiculum, towards liver, while sitting. Stitches as if in diaphragm, right side. Heat in spleen and abdomen. Gastric and abdominal sufferings, accompanied by pulsations in epigastrium. Heat in abdomen. Pressure in abdomen. Griping (into a ball) pain below navel when standing. Intermittent griping in upper abdomen. Pain in upper abdomen, as from taking cold, and as if diarrhœa would ensue, with a kind of ravenous hunger. Bellyache, as if intestines were torn or cut ; places in side sore, as if raw, with it feeling as of something rising from chest to throat ; pressure relieves. Gripings, with flatulence. Wind colic, with abdominal pulsations ; very painful distension of abdomen, rumbling ; relieved by passing wind. Pinching colic and escape of wind. Flatulent colic and diarrhœa ; distension of abdomen. Colic, with distension and a \"rising up feeling,\" as if peristaltic action was reversed ; > from external pressure ; causes fainting. See 13. Abdomen soft, distended. θ Chorea. In flanks a pressive pain or drawing in abdominal muscles. Sensation in epigastric region and abdomen in morning, as if beaten.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "female": [
+      {
+        "text": "Mammæ turgid with milk in the unimpregnated. Deficient milk, with oversensitiveness",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Labour-like pains in uterine region, with cutting and bearing-down. Excited sexual desire. Leucorrhœa profuse, greenish, thin, and offensive. Swelling and inflammation of the genitals. Mammæ turgid with milk; when not pregnant. Deficient milk with over-sensitiveness. Milk increased; or diminished.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Excited sexual desire. θ Nymphomania in a plethoric woman. Bearing down in genitals, < when riding in a carriage. Uterine ulcer, sensitive and painful, with offensive discharge. Menses too early, too scanty, and last but a short time. Labor-like pains in uterine region, with cutting and bearing down. Leucorrhœa profuse, greenish, thin and offensive. Swelling and inflammation of genitals. PREGNANCY. PARTURITION. LACTATION. [24] [Asaf.]. Miscarriages. Is said to kill fetus and dries up milk. Mamma turgid with milk, like in ninth month ; without being pregnant. Deficient of milk, with oversensitiveness. (In sick :) Labor-like pains ; cutting, bearing down, intermitting. Milk increased or diminished. Restores wasted and drying up \"breast of milk.\". Ten days after delivery milk diminished ; 14th day only a few drops could be squeezed out with difficulty ; after 5 drops of tincture, copious milk, but offensive to child ; 3d centesimal answered as well. Milk had disappeared within three weeks of her delivery ; six confinements.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Distended, griping, with hunger. Obstinate constipation. Pain in perineum, as if something dull pressed out. diarrhœa, extremely offensive, with meteorism, and regurgitation of food",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pain in perineum, as from something dull pressing out. Stool profuse, watery, or thick, papescent, brown, and exceedingly offensive. Diarrhœa, very offensive, with pain in the abdomen and discharge of fetid flatus. Stool stinking; slow; difficult; hard.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Painful diarrhœa. Watery, liquid stools of most disgusting smell ; pains in abdomen and discharge of fetid flatus. Watery stools of disgusting odor ; discharge profuse and greenish. Blackish-brown, papescent, offensive stools, which relieve. Stool profuse, thick, papescent, brown, and very offensive. Only slime passes, no feces. Obstinate constipation, with abdominal and hemorrhoidal cramps, tenesmus and distended abdomen. Pain in perineum, as from something dull pressing out.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Spasmodic tightness, as if lungs could not be fully expanded. Palpitation more like a tremor",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Oppressive pressing, aching pains in the chest. Stitches in chest (r. side), from within outward. Nervous palpitation, with small, quick, irregular pulse. Continual pain about heart region. At times heart feels bound tightly, as if it could not beat; afterwards only on exertion or walking. Heart feels swollen to bursting.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pressure on sternum, when stooping, writing ; going off by deep breathing. Pressure and burning under sternum ; frequent disposition to cough. Compression of chest, as from a heavy weight. See 26. Pressing stitches in chest. Pressure on chest, with a constriction in throat. Oppressive aching feeling in chest ; > from expectorating mucus. Pressive pain in right side of chest, from within outward. Pressure in left intercostal muscles, from within outward, < during inspiration and expectoration. Stitches in chest from within outward. θ Whooping cough. Burning in chest, runs through both arms and through lower limbs down into toes. Single violent stitches from within outward, at short intervals ; renewed when chest is touched. θ Pleuro-pneumonia. Shooting from just below left nipple through to back on walking. Spasmodic constriction of thorax with cough. Spasmodic constriction, as if lungs could not properly expand, respiration normal. Spasmodic contractions of chest, with slow, small contracted, irregular pulse. Throbbing in chest. Dropsy of chest ; relieved the oppression in 6, 12, or 36 hours ; 3d every 2 or 4 hours. Discomfort of thorax from want of distension of lungs. Increased action of heart on slightest excitement. Palpitation, with faintness, rush of blood to head, flushing of face, anxiety and slow breathing, from excitement. θ Irritable heart. Violent palpitation of heart and excitement of mind. Acute rheumatic heart disease, with tightness across chest. θ Hydrothorax. Continual pain about region of heart. At times heart feels bound together tightly, as if it could not beat ; afterwards only on exertion or walking. Congestion towards heart ; feeling of fulness ; small pulse ; followed by loose stool. Slight palpitation of heart, more like a tremor, several times when sitting. Nervous palpitation, with small pulse ; from overexertion or suppression of discharges (in women). Pressure in region of heart, as if heart was too full and expanded ; pulse small. Feeling as if heart would burst ; quick breathing and apprehension ; has to walk in open air. Feeling as if heart was swollen, preventing a deep inspiration. Palpitation like a tremor while sitting. Beating of heart small, quick, irregular. Heart sometimes beats very feebly. Sometimes heart beats short and quick, at other times he feels as if there was no action of it. Heart's action is quickened by a deep inspiration. At night, when lying on back, palpitation and suffocative feeling, as if heart would burst, he must sit up, which relieves him. Heart symptoms and faintness < after seminal emission. Pulse small, spasmodically contracted, rather quick. θ Chorea. Small, infrequent pulse, with violent action of heart and no disturbance of respiration indicating nervous weakness of organ. Pulse small, rapid, irregular. See 28. Pulse accelerated, but unequal, small. θ Asthma, congestion to heart, etc. Sensation as if one pressed very sharply with point of finger on xiphoid cartilage ; also when swallowing.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
     "generalities": [
       {
-        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T <<<<< ASAFTIDA. STOOL AND ANUS. ► Tenesmus, [3] . ► *Pain in the perineum, as though something dull pressed out there (first day), [1] . ► Constant dysenteric feeling, as if a stool would take place, [3] . ► Persistent but fruitless urging to stool, [3] . ► Fruitless urging to stool, [3] . [250.] ► Frequent urging to stool, [3] . ► More frequent stools than usual in twenty-four hours, [1] . ► Causes diarrha, [2] . ► Watery stools, [3] . ► Mushy stools, with much flatulence, without pain, but with feeling of fulness and heaviness in the abdomen, [3] . ► Small, partly hard, partly mushy stools, [3] . ► *Profuse, thick, papescent, brown, and very offensive stool , [3] . ► Very solid, dark-brown, nauseously offensive stool, [3] . ► Hard, dark, offensive stool, [3] . ► Fluid stools, with violent pressing down on the rectum, [3] . [260.] ► Thick, papescent stools, light yellow, [3] . ► *Symptoms relieved after a blackish-brown, very thick, papescent, and exceedingly offensive stool , [3] . ► Watery stools, without bellyache, but with profuse discharge of flatulence, which did not remove the great distension of the abdomen, [3] . ► Diarrha, with pains in the bowels (two and a half hours), [1] . ► Diarrha, two to three times daily, with bellyache, for three days. Diarrha, three to four times daily, for four days in succession, with bellyache, [1] . ► Flatulence with diarrha (five hours), [1] . ► Two stools without pain, but some rumbling, and leaving heaviness and distension of the abdomen behind, [3] . ► Constipation, [3] . ► Constipation with almost constant tenesmus, [3] . ► Constipation for two days, then a difficult hard stool, [3] . [270.] ► Constipation and much tenesmus, with distension of the abdomen, [3] . URINARY ORGANS. ► Repeated stitches in the urethra, [4] . ► Severe slight stitches in the urethra, [4] . ► Stitching and burning in the urethra, but not when urinating, [4] . ► The urine is smaller in quantity and darker, [4] . ► The urine smells strongly of the drug, [4] . ► Urine acrid and pungent, though lighter colored, [3] . ► Urine brownish-yellow, [3] . ► Urine brownish-yellow ammoniacal, but without sediment, [3] . ► Urine dark, and ammoniacal, [3] . [280.] ► Easy discharge of dark-brown urine, which deposited no sediment, but which smelled very strong and pungent, [3] . SEXUAL ORGANS. ► Peculiar pressing toward the genital organs, with pains in, and tenderness of, the testicles, [3] . ► Drawing in the glans penis while urinating, [3] . ► The drawing pain in the glans penis alternately disappeared and returned, [3] . ► Pointed stitches close to the penis in the mons veneris (second hour), [1] . ► Needle-like stitches, externally, on the penis (sixtieth hour), [1] . ► Swelling of the scrotum, [5] . ► Increase of sexual inclination for several hours, [3] . ► *Swelling of the female genitals (so great, that antiphlogistic remedies had to be used), [5] . ► Nymphomania in a plethoric woman (from large doses), [6] . [290.] ► Violent laborlike pains in the region of the uterus, intermitting, [3] . ► Menses ten days too soon, scanty for three days, then became natural, [3] . RESPIRATORY APPARATUS. ► So smothered in the air-passages that he must hack repeatedly; the tone of the hacking cough is not clear, but hoarse (from smelling the strong tincture), [1] . ► Dry irritative cough, excited by tickling in the larynx, [3] . ► Frequent cough, with slimy expectoration, [3] . ► Slightly quickened respiration, [3] . ► Quickness of breathing, interrupted by coughing and yawning, [3] . CHEST. ► The breasts swelled as large as if she were in the last month of pregnancy, and a milky discharge escaped from them, [5] . ► In the region of the short ribs, right around across the back, a jerklike constriction, [1] . ►► *Spasmodic tightness of the chest, as if the lungs could not be fully expanded , [3] . [300.] ► Spasmodic contraction of the chest, so severe that the pulse became small, contracted, irregular, and slow-60 or 65, [3] . ► *Oppressive aching feeling in the chest, relieved by mucous expectoration , [3] . ► Severe pressure in some dorsal vertebræ, [4] . ► Drawing pressive pain, with contraction of the chest (half an hour), [1] . ► Pressure here and there in the thorax and in the muscles of the back, [4] . ► Pressure on the chest, with constriction of the throat (sixty-third hour), [1] . ► Pressive pain in the left intercostal muscles, from within outward (thirty-seventh hour), [1] . ► *Pressure in the left intercostal muscles, from within outward, which is worse during inspiration and expiration (fifth hour), [1] . ► Decided oppression of the chest, [3] . ► Slight oppression of the chest, [3] . [310.] ► Spasmodic oppression of the chest, [3] . ► *The oppression of the chest increased to an agonizing degree, preventing respiration, and driving the patient about in a restless manner , [3] . ► Great oppression of the chest, with pressure and throbbing in it, when lying, soon after a meal (second day), [1] . ► Burrowing sticking, from the diaphragm out to the left ribs, continues on inspiration and expiration (sixty-seventh hour), [1] . ► Penetrating stitches in the chest after hawking, when standing and sitting (sixty-fourth hour), [1] . ► Needle stitches in all the intercostal muscles, when sitting, [1] . ► Stitches and pressure in the chest, when lying, with very difficult sighing, sobbing inspiration; on pressing with the hand on the chest, or on sitting up, it disappears (second day), [1] . ► Weak movements in the left intercostal muscles (four and a half hours), [1] . ► When stooping, severe pain back in the region of the left short ribs, [4] . ► Burning drawing in the right intercostal muscles (sixty-first hour), [1] . [320.] ► Pressive sticking in the right cavity of the thorax, then fine stitches, with pressive pain, in the ribs near the spine (fifth hour), [1] . ► Pressure under the left front edges of the ribs, [4] . ► Pressure in the thorax, to the right side, extending outward (sixty-ninth hour), [1] . ► Lasting pressure behind, in the region of the left short ribs, [4] . ► *Pressive pain in the right side of the chest, from within outward (twenty-sixth hour), [1] . ► Pressure in front, below the edge of the left ribs, [4] . ► Oppression of chest, especially on left side, [3] . ► Drawing-sticking pain in the left side of the chest (four and a half hours), [1] . ► A pressive sticking pain on the lower ribs of the right side, which extends into the abdomen to the flank of the same side (half an hour), [1] . ► Stitch in the right ribs (sixth hour), [1] . [330.] ► Tensive stitches in the left intercostal muscles (fifty-eighth hour), [1] . ► Dull stitches in the left ribs (sixty-third hour), [1] . ► Pinching sharp stitches in the right inner side of the ribs (twenty-seventh hour), [1] . ► Boring stitches in the left cavity of the thorax, from within outward, continuing the same during inspiration and expiration, [1] . ► Boring dull stitches in the left side, extending outward to the ribs, continuing during inspiration and expiration (forty-seventh hour), [1] . ► Stitches in the region of the diaphragm, on the right side (twenty-fourth hour), [1] . ► After a meal, stitches in the region of the last true ribs, right side, and oppression of the chest, [1] . ► Pressure in the sternum, [4] . ► Pressure in the sternum and on the right side of it, [4] . ► On bending the thorax forward, a pressure on the lower part of the sternum (first day), [1] . [340.] ► Even on compressing the abdomen, pressure on the lower part of the sternum, and nausea, with fulness at the pit of stomach (second day), [1] . ► Pressive pain in the middle of the sternum, with a kind of nausea rising up from the chest (thirty-fourth hour), [1] . ► Dull pressure in the sternum; passes off on inspiring and expiring, but returns on writing (three-quarters of an hour), [1] . ► Pressive stitches in the sternum, from within outward (thirty-second hour), [1] . ► Fleeting but very painful stitches under the breast-bone, with aching and burning in the chest, and frequent inclination to cough, [3] . ► Pressive throbbing in the thorax, extending to the fauces, on standing and sitting (sixty-fourth hour), [1] . HEART AND PULSE. ► Congestion and distension of the heart, attended with smallness of the pulse, and followed by loose stool, [3] . ► *Slight palpitation of the heart, more like a tremor, several times, when sitting , [4] . ► Aching pain in the region of the heart, as if from overfilling, [3] . ► Quickness of the pulse, [3] . [350.] ► Fulness and quickness of the pulse, [3] . ► Pulse small and frequent, [3] . ► *The beating of the heart and pulse became somewhat small, quick, and irregular , [3] . ► Pulse small and rather slow, [3] . NECK AND BACK. ► Twitching in the muscles of the right side of the neck (twenty-third hour), [1] . ► Clucking in the muscles of the left scapula (forty-second hour), [1] . ► Drawing pain in the muscles of the neck, right side, [4] . ► Drawing down along the left side of the neck, on motion (second day), [1] . ► Pressure in the right side of the neck (second hour), [1] . ► Attacks of pain in the back, especially below the scapula (sixth hour), [1] . [360.] ► Pain in the back, especially in the right scapula (twenty-ninth hour), [1] . ► Repeated transient drawings in the left scapula, [1] . ► Pressive pain in the right scapula (two and a half hours), [1] . ► Cutting pain below the right scapula (fifty-fourth hour), [1] . ► Dull stitches externally in the left scapula (twenty-fourth hour), [1] . ► *Fine burning stitches in and behind the right scapula, extending toward the ribs (second and third hour), [1] . ► Under the left shoulder-blade, when stooping, severe stitches, [4] . ► Itching on the right scapula (forty-second hour), [1] . ► Twitching in the muscles of the lower half of the back, when sitting, [1] . ► *Cannot work on account of the backache (thirtieth hour), [1] . [370.] ► Pain in the right side of the back (sixth hour), [1] . ► Perceptible sensation of heat along the back, [4] . ► Burning in the vertebræ, more on the left side, [1] . ► Severe pressure in some of the costal vertebræ, [4] . ► Pressing pains, sometimes very severe, on both sides of the spinal column, in the region of the short ribs, repeating several times, and sometimes aggravated by the motion of the trunk, [4] . ► Stitch in the latissimus dorsi, near the upper arm (first day), [1] . ► Tensive stitch in the dorsal muscles of the left side, from below upward (twenty-fourth hour), [1] . ► Transient stitches in the right side of the back (forty-ninth hour), [1] . ► Crawling in the skin of the back, [4] . ► Drawing pressive pain along the four to five last dorsal and the first lumbar vertebræ, as if it were internal along the bodies of the vertebræ themselves (first day), [1] . [380.] ► Continual dull pressure in the lumbar region, [4] . ► Pressive pain in the small of the back, especially on bending the upper part of the body forward and backward (first day), [1] . ► Tearing pain in the small of the back, when sitting, [1] . ► Tensive sticking in the left loin, continuing during inspiration and expiration disappearing on walking (twenty-sixth hour), [1] . ► Boring sticking in the left loin, from within outward, disappears on inspiration and expiration (forty-first hour), [1] . ► Burrowing pressive sticking in the left loin, from within outward, toward the ribs, with anxiety (forty-fifth hour), [1] . ► Fine stitches, as with needles, around the left loin (twenty-sixth hour), [1] . ► Fine stitches, from the right loin toward the ribs (fifth hour), [1] . ► Stitch extending along the sacrum to the anus (first day), [1] . EXTREMITIES IN GENERAL. ► In many places on the limbs, rapidly passing cramplike drawings, like a twitching, [1] . [390.] ► Bruised feeling in the extremities, especially in the knees, when sitting, [4] . ► Rheumatic pains in the arms and legs, especially in the joints and shoulder-blades, but shifting locally from time to time, [3] . ► Drawing and stitching in the calves, in the muscles of the arms, here and there, more in the flexors, [4] . ► Pressure on the joint of the right great toe, above the right carpus, and on the back of the right hand, [4] . ► Shortly after waking up, tearing in the right shoulder, and several times in the left tibia; after rising, in the joint of the left foot, in the toes, and in the finger-joints, [4] . ► Severe bruised feeling in the muscles of the upper arm, in the joints of the hands and feet, and severely in paroxysms in some places, [4] . UPPER EXTREMITIES. ► Twitching in the left shoulder-joint, toward the outer side (ninth hour), [1] . ► Twitching in the left shoulder (first hour), [1] . ► Twitching in the deltoid muscle (second hour), [1] . ► Twitching in the deltoid muscle (fourth hour), [1] . [400.] ► Drawing in the muscles of the left shoulder-blade, [4] . ► Paralytic drawing pain along the left shoulder and down the upper arm, in rest (second day), [1] . ► Pressing pains in the shoulder-joints, [4] . ► Frequent pressure in the shoulders, more in the right, [4] . ► Below the right axilla toward the front an intermitting severe inward pressure, without oppression of respiration, [1] . ► Beneath the left axilla a transient inward pressure, [1] . ► A pressive pain at the scapular end of the clavicle when sitting (first day), [1] . ► Dull stitches in the left shoulder (first hour), [1] . ► Stitches in the left shoulder-joint from within outward (twenty-sixth hour), [1] . ► Below the left axilla some fine superficial but sensitive needle stitches, [1] . [410.] ► Fine tensive stitches in the shoulder-joint extending inward (second hour), [1] . ► Bruised sensation in the shoulder and elbow-joints, [4] . ► Twitching in the left upper arm-joint, extending inward (forty-eighth hour), [1] . ► Twitching in the muscles on the outer side of the left upper arm (fourth hour), [1] . ► A drawing pain around the head of the humerus, on holding the arm still, with a kind of trembling over irritability (as after great fatigue) in the muscles themselves, so that he must constantly move them (first day), [1] . ► Tensive drawing in the left upper arm on the inner side (third hour), [1] . ► Pressing in the muscles of the right upper arm, [4] . ► Pressure on the muscles of the right arm, [4] . ► Intermittent cramplike pressure in the left upper arm not far from the shoulder, [1] . ► Burning stitch on the outer side of the right upper arm (forty-eighth hour), [1] . [420.] ► Tensive stitches in the right upper arm from the upper part outward toward the inner side, immediately, [1] . ► Boring stitches in the inner surface of the right upper arm, which do not disappear on motion (forty-third hour), [1] . ► Pressive sticking in the right upper arm, on its inner surface from within outward (sixty-eighth hour), [1] . ► Sticking pain on the inner side of the left upper arm (twenty-sixth hour), [1] . ► Twitching sensation in the inner muscles of the left upper arm (thirty-fourth hour), [1] . ► Burning on the outer side of the right elbow-joint (seventh hour), [1] . ► Fine stitch in the elbows (twenty-sixth and sixty-fourth hour), [1] . ► A fine, long stitch extending into the bend of the elbow (sixty-fourth hour), [1] . ► A cramplike twitching extends down the right forearm, with the feeling as if the hand would stiffen, [1] . ► In slow intermissions, cramplike drawing streaming up along the inner surface of the left forearm, [1] . [430.] ► Pressure on the outside of the left forearm (second hour), [1] . ► Boring pressure on the inner side of the left forearm from within outward (first hour), [1] . ► On moving the finger, tearing pains along up the forearm, [1] . ► Tearing pains up along the forearm, on bending the fingers (first day), [1] . ► Dull sticking on the inside of the right forearm, [1] . ► Tearing stitches followed by burning extend up the right forearm, during rest (second day), [1] . ► Stitches on the skin of the right forearm, [4] . ► Pain as if beaten in the bones of the wrist, in rest (second day), [1] . ► A scraping sensation on the inner (ulnar) condyle at the wrist, [1] . ► The hands soon get icy cold, the coldness of the back increases and keeps on, with slow pulse, [4] . [440.] ► Pressure on the joints of the hands, [4] . ► In bed, repeatedly, severe pressing in the joints of the right hand and in the right temple, and these appeared at 6 A.M., exactly on awaking, and with pressing in the neck, [4] . ► A dull pain in the palm of the right hand as from a pressive body, with the sensation as if the hand would stiffen, [1] . ► Pressive sticking on the back of the right hand (eighth hour), [1] . ► Cramplike sensitive twitching in the metacarpal bones of the left thumb , [1] . ► Frequent pains in the joint of the left thumb, [4] . ► A numblike pain on the metacarpal bone of the left middle finger, as if an oppressive body lay on it, [1] . ► A transient cramplike pain in the right thumb, with unhindered motion of it; immediately afterward, also in the left thumb, [1] . ► Severe aching, from time to time, in the external condyle of the wrist-side of the thumb, [1] . ► Cramplike aching in the flesh between the metacarpal bones of the left thumb and index finger, [1] . [450.] ► Pointed sticking burning at the tip of the left index finger (sixty-third hour), [1] . ► Drawing pain in the joints of all the fingers, [4] . ► Drawing in the joints of the fingers, on the dorsum of the hands and feet, [4] . ► Pressure at the root of the middle and index finger of the right hand, continuing on various motions (eighth hour), [1] . ► Pressive pain from the right wrist, extending into the right index finger (twenty-ninth hour), [1] . ► Pressing pain in the joints of the left thumb, [4] . ► Pressure on the inner side of the thumb (ninth hour), [1] . ► Severe pressing in the joints of the left thumb, and later in the joints of the other fingers, [4] . ► On lying and in rest, drawing pressure on the back of the finger, and jerks from the forearm to the elbow (second day), [1] . ► Stitches in the finger-joints, [4] . [460.] ► Dull stitch from the thumb outward toward the back of the hand (forty-fifth hour), [1] . ► Frequent stitches in paroxysms in the joints of the small finger, worse on motion of the joint, [4] . >>>>> Copyright © Médi-T ® 2000 Main",
-        "source_id": "allen-encyclopedia-1874"
+        "text": "[Bones] Darting pain and caries in bones. Periosteum painful, swollen, enlarged. Ulcers affecting bones; thin, ichorous pus",
+        "source_id": "boericke-1927"
       },
       {
         "text": "Clinical: Asthma; Bone, disease of; Chorea; Diarrhœa; Dyspepsia; Flatulence; Headache; Heart, affections of; Hypersensitiveness; Hysteria Iritis; Lactation, disorders of; Mercury, effects of; Neuralgia; Obesity; Orbital neuralgia; Ozæna; Syphilis; Tympanitis; Ulcers; Whitlow",
@@ -38,17 +173,45 @@
         "source_id": "hering-guiding-1879"
       }
     ],
-    "keynotes": [
+    "skin": [
       {
-        "text": "The symptoms of Asafœtida present an almost perfect picture of hysteria, of the flatulent order. Reversed peristalsis of stomach and bowels. Excessive abdominal distension and sensation as if everything in the abdomen would burst through the mouth. After belching of wind strong rancid taste in mouth. Sinking sensation at epigastrium, 11 a.m. Hysteria from suddenly suppressed discharges. Many of the discharges of Asaf. are fetid: watery stools of most disgusting odour; profuse and greenish; fetid flatus. Eructations smelling like garlic. Hiccough-like contractions of diaphragm. Griping (into a ball) pain below navel while standing. Heat in spleen and abdomen. Stitches in right hypochondrium, towards the diaphragm. Asaf. affects the left side generally: left side of abdomen; left hypochondrium; left side of neck and nape; left arm; left leg. Hysterical restlessness and anxiety. Eyes inflamed, dry sensation, > in open air. The fetid smell of the drug may be regarded as one of its \"signatures.\" Fetid discharge from nose; bones affected. The following is a strong characteristic: Bones of orbits bruised, sore, and sensitive (iritis; after abuse of Mercury. Merc. has less of the sensitiveness). Caries of bones. Multiple nodes on roof of mouth, discoloured, bone deeply involved. Deficient milk with over-sensitiveness after confinement. Periosteal affections ending in ulcers which are so sensitive that no dressing is tolerated. Pressing pains in various parts, especially pressure from within outwards, in room, > in open air. Many symptoms come on or are after eating or drinking. Heat in face after eating. Diarrhœa after eating. Suited to: nervous and hysterical people; phlegmatic, scrofulous, and syphilitic who have taken much Mercury. Sensitiveness to contact is a leading characteristic. Most pains are accompanied by numbness in the affected parts. Many symptoms appear while sitting and are > in open air. Touch > pain in head; on touch pains cease or change place. Scratching > itching.",
+        "text": "Itching, better scratching; ulcers painful on edges. Suppressed skin symptoms produce nervous disorders",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Itching, better by scratching; pricking, burning skin. Ulcers with high, hard edges, sensitive to touch, easily bleeding; old ulcers on forearm, wrist, hand; ulcers, esp. when affecting the bones; pus profuse, greenish, thin, offensive, even ichorous. Ulcers, very painful to contact, esp. in the circumference, gangrenous.",
         "source_id": "clarke-dictionary-1900"
       },
       {
-        "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T ASAFTIDA General Characteristics-- A very great sensitiveness, hypersensitiveness , particularly of those in whom the venous system preponderates over the arterial; very weakly and delicate persons. It affects the left hypochondriac region; left side of the abdomen; left side of the neck, and nape of the neck: left upper extremity and left lower extremity; left ear; general symptoms left side. Mental.-- Dissatisfied with one's self; complaints about one's troubles. Head.-- Inner semi-lateral, on either side, but generally on the left. Heaviness and pressure in the forehead and right half of the head. Ears.-- Fetid or purulent discharge; badly smelling. Nose.-- Ozæna with discharge of green fetid pus. Throat.-- Pressure in sophagus as if a body were ascending, obliging one to swallow frequently; globus hystericus. Stomach.-- Fatty taste. Rising in the throat. Loathing; inclination to vomit; pressure in from below upwards into the sophagus; pulsations in the pit of the stomach, perceptible to the hand and eye even. Abdomen.-- Heaviness in; stitches; lancinations; dartings; bloated. Flatus very offensive. Sensation as if peristaltic motion were taking place from below upwards. Inner region of the spleen. Stool.-- Stool stinking; slow; difficult; hard. Diarrha of most disgusting odor. Fetid flatus. Sexual.-- Female : Labor-like pains in the uterus, of cutting and bearing down character. Deficiency of milk. Nipples. Urine.-- Urine smells like Ammonia . Bones.-- Bones of the arm; sensation as if bones were bending; darting pain in; caries in; caries of the periosteum; painfulness in; painfulness of the periosteum, accompanied with great sensitiveness; enlargement of; softening or swelling of; swelling of the periosteum. Skin.-- Itching, better by scratching; pricking, burning skin. Ulcers in general; hard on circumference; with bloody pus; with thin pus; painful ulcers; painful on the edges; sensitive on the circumference, with high, hard edges; prickings on circumference. Sensations.-- Big toe. Pain, jerking in outer parts particularly; pressing from within outwards; darting in outer parts, in inner parts, from within outward; in the muscles; burning darting in the muscles; quivering in the external parts; tension in inner parts; in right side of back, near scapula. Intermittent, pulsative, oppressive, darting, also tearing pains, from within outwards; often relieved by scratching or rubbing. Generalities.-- Asthma of different kinds. Old ulcers on forearm, wrist, hand; ulcers, especially when affecting the bones; thin ichorous pus. Better.-- From scratching; from being touched. Remedies to follow: China, Mercur., Pulsat . Antidotes:-- China, Mercur . Copyright © Médi-T 2000",
-        "source_id": "guernsey-keynotes-1887"
+        "text": "Dark red, hot swellings. Itching, pricking, burning of skin ; itching > by scratching. Skin puffed up, inflamed. Sphacelus. Flat eruptions, painful. Ulcers with extreme sensitiveness ; patient flinches from even the softest dressing ; or from near approach of any one. Ulcers with high, hard, bluish edges, sensitive to touch, easily bleeding ; pus profuse, greenish, thin, offensive, even ichorous. See 44. Shooting pain around ulcer. Ulcers grow black. Old scars break open and turn black. Ulcers penetrating to bones, discharging thin, fetid ichor. Ulcers or sores looking raw, bloody or dark ; or discharge copiously. Quivering in skin.",
+        "source_id": "hering-guiding-1879"
       }
     ],
+    "modalities": {
+      "better_from": [
+        {
+          "text": "open air; from motion, pressure",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "at night; from tough; left side, during rest, warm applications",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Asaf.]. Rest : headache < ; eyes > ; < in bed. Sitting up : headache < ; tension in head > ; pressure in scrobiculum < ; suffocative feeling > ; palpitation < ; pains in sacrum <. Standing : griping below navel ; weakness. Stooping : pressure on sternum. Lying : weakness ; headache <. Putting foot to ground : sticking in great toe. Moving fingers : pain in forearm <. Motion : headache > ; asthma <. Overexertion : palpitation <. Swallowing : tenderness in throat <. After motion : aching in testicles. Gaping ; cough <. Deep breathing : pressure in sternum >. Inspiration : pain in intercostal muscles <. Walking : shooting from nipple to back. Excitement : palpitation <. Morning : abdomen feels beaten ; fulness and eructations ; tearings in joints ; chest oppressed. At 8.30 to 9 A. M. : chills, with heat of face. At 11 A. M. : faint feeling < ; goneness in stomach. During day : expectoration worse. Afternoon : tension in head < ; drawing in glans penis ; cough ; shivering over back ; heat in toes. Between 3 and 4 P. M. : coldness and trembling, with stitches in head. Evening : vanishing of sight ; headache < ; hysteria ; pains often better ; sleepy. Evening till 2 A. M. : neuralgia. Night : pain in eyes < ; cough < ; palpitation ; ulcer < ; pain across chest ; bone pains ; pain in ulcer unbearable. Midnight : pain left half of body. After midnight : sleeplessness. In room : all headaches worse. Open air : headache > ; eye > ; heart > ; desires to be in open air. Could not remain in-doors, must walk about in open air. In warm feather beds : lower limbs ache more.",
+          "source_id": "hering-guiding-1879"
+        }
+      ]
+    },
     "relationships": {
+      "antidoted_by": [
+        "China",
+        "Mercur"
+      ],
       "_raw": [
         "Antidoted by: Puls., Caust., Camph., Chi., Merc., Val. Useful in ailments from: Puls., Merc., Alcohol. Similar to: Arg. n. > open air); Aur. (bone diseases, iritis); Castor., Chi., Caust., Crot. t. (whooping-cough); Hep. (sensitiveness round ulcers; faints from pains), Mang. acet., and Kali iod. (nodes: Mang., bluish; K. iod., pink; pain unbearable. Asaf. the nodes are multiple and discoloured); Ign., Merc., Mosch., Phos., Puls., Thuj., Val. Compare family relations: Ammoniac., Cicut., Con.",
         "Antidotes to Asaf : Pulsat., Caustic., Camphor., Cinchon., Mercur., Valer",
@@ -60,6 +223,371 @@
         "Main"
       ]
     },
+    "dosing": {
+      "notes": "Second to sixth potency"
+    },
+    "keynotes": [
+      {
+        "text": "color=\"#800000\">ASA FOETIDA Gum of the Stinkasand (ASAFOETIDA) The flatulence and spasmodic contraction of stomach and œsophagus with reverse peristalsis are the most marked symptoms. In its selection, its relation to the hysterical and hypochondriacal patients, must be borne in mind. Besides these superficial symptoms, it has been found to affect favorably deep ulcerations, caries of bones, especially in the syphilitic organism; here the extreme sensitiveness and terrible throbbing, nightly pains, guiding to its use.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The symptoms of Asafœtida present an almost perfect picture of hysteria, of the flatulent order. Reversed peristalsis of stomach and bowels. Excessive abdominal distension and sensation as if everything in the abdomen would burst through the mouth. After belching of wind strong rancid taste in mouth. Sinking sensation at epigastrium, 11 a.m. Hysteria from suddenly suppressed discharges. Many of the discharges of Asaf. are fetid: watery stools of most disgusting odour; profuse and greenish; fetid flatus. Eructations smelling like garlic. Hiccough-like contractions of diaphragm. Griping (into a ball) pain below navel while standing. Heat in spleen and abdomen. Stitches in right hypochondrium, towards the diaphragm. Asaf. affects the left side generally: left side of abdomen; left hypochondrium; left side of neck and nape; left arm; left leg. Hysterical restlessness and anxiety. Eyes inflamed, dry sensation, > in open air. The fetid smell of the drug may be regarded as one of its \"signatures.\" Fetid discharge from nose; bones affected. The following is a strong characteristic: Bones of orbits bruised, sore, and sensitive (iritis; after abuse of Mercury. Merc. has less of the sensitiveness). Caries of bones. Multiple nodes on roof of mouth, discoloured, bone deeply involved. Deficient milk with over-sensitiveness after confinement. Periosteal affections ending in ulcers which are so sensitive that no dressing is tolerated. Pressing pains in various parts, especially pressure from within outwards, in room, > in open air. Many symptoms come on or are after eating or drinking. Heat in face after eating. Diarrhœa after eating. Suited to: nervous and hysterical people; phlegmatic, scrofulous, and syphilitic who have taken much Mercury. Sensitiveness to contact is a leading characteristic. Most pains are accompanied by numbness in the affected parts. Many symptoms appear while sitting and are > in open air. Touch > pain in head; on touch pains cease or change place. Scratching > itching.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. ASA FOETIDA. Natural order.- Umbelliferae. General Analysis.- Through the nervous system acts particularly upon the female generative organs and the respiratory system, giving rise to conditions simulating ovarian irritation, hysteria, asthma, etc. Also acts upon the bones and skin. Characteristic symptoms. Mind.- (Asa Foetida) Hysterical restlessness and anxiety. Unsteady and fickle. III humor ; irritable ( Bry ., Cham., Nux v .) ; apprehensive. Head.- (Asa Foetida) Pressive pain in forehead from within outward. ( Acon ., Bry.) Single deep-penetrating stitches in left frontal eminence. Drawing, pressive pains like a plug (Anac.), in sides of head or temples ; most on left side. Eyes.- (Asa Foetida) Nocturnal throbbing pains in and around the head ; syphilitic iritis. Extensive superficial ulceration of the cornea, with burning, sticking, or pressive pains, from within outward ; rest and pressure relieve. Dryness and burning in the eyes. ( Ars., Sulph .) Severe boring pains over the eyebrows. Nose.- (Asa Foetida) Offensive discharge from the nose ; bones swollen and inflamed. Face.- (Asa Foetida) Sensation of numbness in the bones of the face. Swelling of the lower lip. Throat.- (Asa Foetida) Dryness of mouth, throat, and oesophagus. Sensation of a ball rising in the throat (Lyc ., Sulph., Mag. mur., Physos .), obliging frequent swallowing to keep it down , and causing at times difficult breathing. Sensation in the oesophagus as if the peristaltic motions were from below upward. Stomach.- (Asa Foetida) Pulsation in the pit of the stomach (Ant. tart., Puls., Sep.) Sensation of fullness and distention in stomach. (Cinch.) Eructations ; smelling like garlic ; tasting rancid, sharp, or putrid. Flatus passing upward, none down. Abdomen.- (Asa Foetida) Great distension of the abdomen. (Ant. crud., Cinch.) Sense of fullness, and as if beaten, in epigastrium and whole abdomen. (Merc.) Pressive pain on drawing in abdominal muscles. Stool and Anus.- (Asa Foetida) Dull, pressive pain in perineum. Stool profuse, watery, or thick, papescent, brown, and exceedingly offensive. (Ars., Lept., Bapt .) Urinary Organs.- (Asa Foetida) Urine brown and of pungent smell. ( Benz. ac .) Spasm of bladder during and after urination. Female Organs.- (Asa Foetida) Labor-like pains in uterine region, with cutting and bearing down. ( Agar ., Aloe, Caul ., Cimic., Puls .) Excited sexual desire. (Canth.) Leucorrhoea profuse, greenish, thin, and offensive. Swelling and inflammation of the genitals. Respiratory Organs.- (Asa Foetida) Spasmodic tightness of the chest, as if the lungs could not be fully expanded. (Crot. tig., Ign., Laur.) Oppressive, pressing, aching pains in the chest. Stitches in the chest (right side), from within outward. Heart and Pulse.- (Asa Foetida) Nervous palpitation (Cocc.), with small, quick, irregular pulse. Neck and Back.- (Asa Foetida) Fine burning stitches behind right scapula, extending to ribs. Cannot work on account of backache. Upper Limbs.- (Asa Foetida) Tearing stitches in upper arm and forearm, down to tips of fingers. Twitching of the muscles of the arms. Lower Limbs.- (Asa Foetida) Twitching of the muscles of the legs. Swelling and caries of the tibia, and bones of the feet. ( Hep. s., Kali, Merc., Mez., Nitr. ac., Phos. ac., Sil .) Painful throbbing in tip of great toe. Generalities.- (Asa Foetida) Hysteria, with much trouble about throat or oesophagus. Skin.- (Asa Foetida) Ulcers with high, hard edges , sensitive to touch, easily bleeding (Hep. s., Merc., Mez.) ; pus profuse, greenish, thin, offensive, even ichorous. Fever.- (Asa Foetida) Chills run over body from time to time. Heat on the face after dinner, with anxiety and sleepiness, without thirst. Aggravation.- (Asa Foetida) Most symptoms while sitting. Amelioration.- (Asa Foetida) In open air ; from motion. Therapeutic Range.- (Asa Foetida) Hysteria ; hyper-sensitive conditions ; hypochondria ; asthma ; pertussis ; indigestion ; cardialgia ; diarrhoea. Mercurial and scrofulous affections of the bones and skin-caries and ulcers ; rickets ; tertiary and secondary syphilis. Conditions.- (Asa Foetida) Particularly adapted to nervous, hysterical, scrofulous individuals, with venous haemorrhoidal constitutions ; to scrofulous, bloated, clumsy children. To syphilitic patients who have taken much Mercury. Compare.- (Asa Foetida) Ambr ., Aur ., Ars., Bell., Bry., Calc. c., Caust., Cinch., Carb. v., Coff. c., Coni., Lyc., Merc., Mosch ., Nitr. ac., Phos ., Puls., Sep., Sil ., Sulph ., Valer . Antidotes.- (Asa Foetida) Caust., Camph., Cinch., Merc., Puls., Electricity. Antidotes.- (Asa Foetida) Merc., Puls. Copyright © Robert Séror 2003",
+        "source_id": "cowperthwaite-textbook-1891"
+      },
+      {
+        "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T ASAFTIDA General Characteristics-- A very great sensitiveness, hypersensitiveness , particularly of those in whom the venous system preponderates over the arterial; very weakly and delicate persons. It affects the left hypochondriac region; left side of the abdomen; left side of the neck, and nape of the neck: left upper extremity and left lower extremity; left ear; general symptoms left side. Mental.-- Dissatisfied with one's self; complaints about one's troubles. Head.-- Inner semi-lateral, on either side, but generally on the left. Heaviness and pressure in the forehead and right half of the head. Ears.-- Fetid or purulent discharge; badly smelling. Nose.-- Ozæna with discharge of green fetid pus. Throat.-- Pressure in sophagus as if a body were ascending, obliging one to swallow frequently; globus hystericus. Stomach.-- Fatty taste. Rising in the throat. Loathing; inclination to vomit; pressure in from below upwards into the sophagus; pulsations in the pit of the stomach, perceptible to the hand and eye even. Abdomen.-- Heaviness in; stitches; lancinations; dartings; bloated. Flatus very offensive. Sensation as if peristaltic motion were taking place from below upwards. Inner region of the spleen. Stool.-- Stool stinking; slow; difficult; hard. Diarrha of most disgusting odor. Fetid flatus. Sexual.-- Female : Labor-like pains in the uterus, of cutting and bearing down character. Deficiency of milk. Nipples. Urine.-- Urine smells like Ammonia . Bones.-- Bones of the arm; sensation as if bones were bending; darting pain in; caries in; caries of the periosteum; painfulness in; painfulness of the periosteum, accompanied with great sensitiveness; enlargement of; softening or swelling of; swelling of the periosteum. Skin.-- Itching, better by scratching; pricking, burning skin. Ulcers in general; hard on circumference; with bloody pus; with thin pus; painful ulcers; painful on the edges; sensitive on the circumference, with high, hard edges; prickings on circumference. Sensations.-- Big toe. Pain, jerking in outer parts particularly; pressing from within outwards; darting in outer parts, in inner parts, from within outward; in the muscles; burning darting in the muscles; quivering in the external parts; tension in inner parts; in right side of back, near scapula. Intermittent, pulsative, oppressive, darting, also tearing pains, from within outwards; often relieved by scratching or rubbing. Generalities.-- Asthma of different kinds. Old ulcers on forearm, wrist, hand; ulcers, especially when affecting the bones; thin ichorous pus. Better.-- From scratching; from being touched. Remedies to follow: China, Mercur., Pulsat . Antidotes:-- China, Mercur . Copyright © Médi-T 2000",
+        "source_id": "guernsey-keynotes-1887"
+      },
+      {
+        "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Asa Foetida",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Introduction: This remedy in olden times was frequently abused for man and beast. Our grandfathers supposed it was a protection against disease and hence they used it in the stables.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Lumps of \"foetty,\" as they called it, where put in the corn for the horse, to keep off distempter.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "What it has accomplished I am unable to say, but it is certain that these farmers looked upon Asa foetida as a great protective against disease.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It has been used also by the laity as a medicine for fainting, for hysteria, and all sorts of nervous symptoms and complaints.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The use is justified by the proving. These things are scarcely worthy of note, but it shows the general use among the people, as a domestic medicine, in crude form. It has been used more extensively in this form than in professional practice in a legitimate way.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Aspect: There is one class of patients you will find who will trouble you. Those cases that come into your office with puffed, venous, purple faces; they have an appearance of plethora; the face looks puffed, bloated and dropsical at times; it is a dark red, dusky face; such a face we shall cure sometimes with Asa foetida. Carbo an., Aurum, Carbo veg. and Pulsatilla are also related to this kind of face, but it is a very troublesome face, it shows more or less cardiac disturbance and venous stasis.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The venous side of the heart will often be involved, or be about to be involved, when you have this kind of face.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "I never like to see them come into my office, for they are hard cases to manage. They have deep-seated troubles, with bleeding, they are subject to sudden inflammations, and they do not rally quickly.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Constitution: In this constitution we have ulcerations; a little place will ulcerate and suppurate, and the ulceration will burrow; this is just what this remedy does.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Another thing this kind of constitution will do is to set up an inflammatory condition of the periosteum with swelling, periostitis of the tibia for instance, where the circulation is not very active; inflammation of cartilages with tumefaction and purple skin, stitching pains and dropsy, ulcerations and fistulous openings. This medicine is good for just such states.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Ulcers with extreme sensitiveness.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Patients often say,",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"I get no sympathy when I am sick because I look so well;\" fat, flabby and purple.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This remedy will seldom be thought of in lean persons; they seem to be free from complaints like those of Asa foetida, but in fat, flabby persons, extremely nervous, extremely sensitive to pain, full of hysteria.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Purple when out in the cold, purple when excited. In other words, you see before you the venous constitution, and these people get the worst kind of hysteria; they go off almost from no cause into fainting; from a close room, from excitement, from any disturbance; sometimes cramps come on, but more especially fainting.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "They are subject to stitching pains from the bone to the surface; that is, from within out. The periosteum, becomes irritated, and glands become swollen.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Syphilis sometimes produces this kind of condition. Vascular disturbances in the body; periostitis, necrosis, induration of glands, nerve syphilis and head pains. in old syphilitics with this kind of venous face, subject to bleeding, ulcers turn black or become purple. In this there is a similarity to Lachesis.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Old scars turn purple, threaten to suppurate, take! on a venous aspect, become painful and turn black. Ulcers form at the site of old scars in old syphilitic patients and sometimes in psoric patients. Most complaints come on during rest and are better by slow motion.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There is another grand feature running through this remedy; it is full of discharges, catarrhal discharges, discharges from ulcers, watery discharges from different places and even watery stool; and all these discharges are horribly offensive and ichorous.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Deep, flat ulcers from bone and periosteal affections give out a watery, bloody discharge that is horribly offensive, with pains shooting outwards. Get the idea of the venous stasis well fixed in your mind and with this syphilitic state added to it.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There are many pains running through the remedy and they are night pains like those of syphilis, nightly bone pains, and pains in the periosteum.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The ulcers are deep, with bluish edges. Varicose veins surround the ulcers. Inflammation of the bone and periosteum, with blueness all around the ulcers.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "When there has been an inflammatory condition of the periosteum, somewhat passive in character, the skin adheres to the bone, glues down to it by adhesion. It is too feeble to ulcerate, it does not get up a likely inflammation, but only a passive state, The glands all over the body are hot and throbbing, with shooting, jerking pains, in syphilis or old psoric and scrofulous complaints.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The bone pains that are felt in the head are sometimes very distressing. Old syphilitic bone pains in the head, stitching, penetrating. It seems where there are lumps and nodules, about the head, this medicine seems to burry things. Shooting, stitching, tearing pains, under left frontal eminence.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This stitching pain is sometimes described as if a nail or plug were driven into the head. These nervous headaches are syphilitic hysterical or scrofulous; hysterical pains described as rending, tearing, stitching.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Head: All over the head there is stitching pain, but in the frontal eminence, in the temples, there is a sensation as if a nail or plug were driven in, and most of the pains seem to bore, as if they extended from the bone to the surface, and hence are said to be from within out.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Eyes: It is useful in old syphilitics who are subject to eye complaints, ulcers on the eyeball, ulcers on the cornea, ameliorated in the open air, with a sensation of numbness in the eyes; inflammation of the iris, with ragged appearance of the iris; they are subject also to severe, sharp stitching pains that come from within out.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "The remedy is full of burning, and so the eyeballs burn, better in the open air. Iritis, but the inflammation sometimes involves the choroid, the retina, and mucous membrane, making a general inflammatory condition of syphilitic character.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There are tearing pains in various places around the eyes; sticking, stitching pains, worse at night. Ulcers, with stitching pains, worse at night. Burning. stitching in the eyes with dryness, so that the lids stick to the balls of the eyes, pain worse at night.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There is a misty appearance before the eyes, dullness as if looking through a fog. It also seems as if the atmosphere were filled with little floating black flies.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Muscae volantes.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "You have looked into the air and seen little gnats and mosquitoes; well it appears to these patients as if these were there when they are not there. The discharge from the eyes is ichorous, bloody and often offensive.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This same syphilitic miasm may attack the car and the bones of the car. These bones may decay and the hearing be lost.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Burning in the ear with discharge of foetid pus.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Stitching pains in the ears from within out.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Nose: A horribly offensive discharge comes from the nose; ulcers high up in the nose; caries of the bones of the nose; syphilitic ozoena. Putrid old catarrhs.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Feeling as if the nose stopped high up, as if he could not breathe through it, with fullness of the head, when riding in a carriage.\" (Aurum, Aurum mur.)",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Numbness is a great feature of this remedy, numbness of the scalp, or deep in the head; numbness here and there; numb, dead feeling associated with the pain; numbness after pain; often numbness after sleep.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Other nervous manifestations occur besides those that are hysterical. It has choreic motions. You would expect such a peculiar nervous constitution to have almost everything among its nervous symptoms.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Constantly chewing and working frothy slime out of mouth, with swollen tongue.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Speech unintelligible.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Grinding of teeth; starting at night.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Swelling of the lips, and of the whole buccal mucous membrane, especially the lower lip, with burning in the mouth.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There are syphilitic symptoms in the throat, attended with the usual burning, darting, stitching in ulcers; pain when swallowing; a sensation of a ball rising in the throat, such as occurs in globus hystericus; choking, must constantly swallow.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Hysterical and choreic affections of the oesophagus and trachea. Spasms of the oesophagus. This lump in the throat, or suffocation, is a sort of hysterical spasm of the oesophagus.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Dryness and burning in the oesophagus.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Stomach: In the stomach troubles, if you have ever seen a typical case of Asa foetida, you will wonder where all the air comes from; it comes up in volumes.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Hiccough-like contractions of the diaphragm.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Choreic jerkings of the diaphragm, with expulsion of wind like the sound of a pop-gun going off almost every second. It is a condition that the patient has no control over; It is like the shooting off of little, guns forcing loud belching, loud eructations of wind from the stomach.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "There are a few symptoms mentioned in the text just here that are worthy of note.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Pulsation in pit of stomach; perceptible to sight and touch.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Pressing, cutting, stitching pains.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "A queer observation has been made that flatus was not passed downward, but all upwards.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Eructations; smelling like garlic; tasting rancid, sharp or putrid.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Always horribly offensive. Offensiveness is a characteristic of the remedy. And then there is a",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"gone empty feeling in the pit of the stomach,\" not a pain.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Pulsations after eating.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Meteorism of the stomach.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Abdomen: The remedy has many gastric and abdominal complaints; full of bellyache; stitching pains, colic. The diarrhoea is more or less troublesome.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "These patients are afflicted with diarrhoea from the slightest indigestion, after any indiscretion in diet, a painful watery diarrhoea.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Liquid stools of most disgusting smell.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Blackish-brown papescent offensive stools, which relieve.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Genitals: \"Bearing down in genitals, worse when riding in a carriage.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Uterine ulcer sensitive and painful.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This medicine has been very useful in palliating uterine cancer in such constitutions as described those with purple faces, never the very pallid ones.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Women of feeble, flabby, venous constitutions are subject to hemorrhages and miscarriages. Women who are not pregnant sometimes have the breasts fill up with milk, wonderfully annoying thing, and but few remedies have it; this is one of the few.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "It has also deficiency of milk.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Ten days after delivery milk diminished.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "These patients sometimes get hysterical asthma; all sorts of disturbance in breathing, dyspnoea.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Asthmatic feeling in trachea.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Asthmatic attacks at least once a day all her life, brought on by every bodily exertion, coition, especially by every satisfying meal.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Attacks of dyspnoea after coition, like Ambra.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Obstinate titillating cough < at night.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Many of these complaints are worse at night; nightly aggravations. Syphilitic complaints are commonly worse at night and such anti syphilitic remedies as Mercurius, Staphysagria, Hepar, Nitric acid, etc. are all worse at night.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Among the other chest complaints, I will read a few of those that are marked here prominently and are striking ones.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Pressure and burning of the sternum.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Compression of chest as from a heavy weight.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Stitches in chest.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "\"Single, violent stitches from within outward, at short intervals.\"",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "This remedy is full of rheumatism and gouty symptoms; gouty affections in general, in nervous constitutions.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "When such a nervous constitution finally produces gouty formations, the nervousness often disappears; for it has been relieved by the deposit in the joints; a transformation scene has taken place.",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-lectures-1905"
+      },
+      {
+        "text": "LECTURES ON HOMOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror Asa Foetida Introduction : This remedy in olden times was frequently abused for man and beast. Our grandfathers supposed it was a protection against disease and hence they used it in the stables. Lumps of \"foetty,\" as they called it, where put in the corn for the horse, to keep off distempter. What it has accomplished I am unable to say, but it is certain that these farmers looked upon Asa foetida as a great protective against disease. It has been used also by the laity as a medicine for fainting, for hysteria, and all sorts of nervous symptoms and complaints. The use is justified by the proving. These things are scarcely worthy of note, but it shows the general use among the people, as a domestic medicine, in crude form. It has been used more extensively in this form than in professional practice in a legitimate way. Aspect : There is one class of patients you will find who will trouble you. Those cases that come into your office with puffed, venous, purple faces; they have an appearance of plethora; the face looks puffed, bloated and dropsical at times; it is a dark red, dusky face; such a face we shall cure sometimes with Asa foetida . Carbo an., Aurum, Carbo veg. and Pulsatilla are also related to this kind of face, but it is a very troublesome face, it shows more or less cardiac disturbance and venous stasis. The venous side of the heart will often be involved, or be about to be involved, when you have this kind of face. I never like to see them come into my office, for they are hard cases to manage. They have deep-seated troubles, with bleeding, they are subject to sudden inflammations, and they do not rally quickly. Constitution : In this constitution we have ulcerations; a little place will ulcerate and suppurate, and the ulceration will burrow; this is just what this remedy does. Another thing this kind of constitution will do is to set up an inflammatory condition of the periosteum with swelling, periostitis of the tibia for instance, where the circulation is not very active; inflammation of cartilages with tumefaction and purple skin, stitching pains and dropsy, ulcerations and fistulous openings. This medicine is good for just such states. \"Ulcers with extreme sensitiveness.\" Patients often say, \"I get no sympathy when I am sick because I look so well;\" fat, flabby and purple. This remedy will seldom be thought of in lean persons; they seem to be free from complaints like those of Asa foetida , but in fat, flabby persons, extremely nervous, extremely sensitive to pain, full of hysteria. Purple when out in the cold, purple when excited. In other words, you see before you the venous constitution, and these people get the worst kind of hysteria; they go off almost from no cause into fainting; from a close room, from excitement, from any disturbance; sometimes cramps come on, but more especially fainting. They are subject to stitching pains from the bone to the surface; that is, from within out. The periosteum, becomes irritated, and glands become swollen. Syphilis sometimes produces this kind of condition. Vascular disturbances in the body; periostitis, necrosis, induration of glands, nerve syphilis and head pains. in old syphilitics with this kind of venous face, subject to bleeding, ulcers turn black or become purple. In this there is a similarity to Lachesis. Old scars turn purple, threaten to suppurate, take! on a venous aspect, become painful and turn black. Ulcers form at the site of old scars in old syphilitic patients and sometimes in psoric patients. Most complaints come on during rest and are better by slow motion. There is another grand feature running through this remedy; it is full of discharges, catarrhal discharges, discharges from ulcers, watery discharges from different places and even watery stool; and all these discharges are horribly offensive and ichorous. Deep, flat ulcers from bone and periosteal affections give out a watery, bloody discharge that is horribly offensive, with pains shooting outwards. Get the idea of the venous stasis well fixed in your mind and with this syphilitic state added to it. There are many pains running through the remedy and they are night pains like those of syphilis, nightly bone pains, and pains in the periosteum. The ulcers are deep, with bluish edges. Varicose veins surround the ulcers. Inflammation of the bone and periosteum, with blueness all around the ulcers. When there has been an inflammatory condition of the periosteum, somewhat passive in character, the skin adheres to the bone, glues down to it by adhesion. It is too feeble to ulcerate, it does not get up a likely inflammation, but only a passive state, The glands all over the body are hot and throbbing, with shooting, jerking pains, in syphilis or old psoric and scrofulous complaints. The bone pains that are felt in the head are sometimes very distressing. Old syphilitic bone pains in the head, stitching, penetrating. It seems where there are lumps and nodules, about the head, this medicine seems to burry things. Shooting, stitching, tearing pains, under left frontal eminence. This stitching pain is sometimes described as if a nail or plug were driven into the head. These nervous headaches are syphilitic hysterical or scrofulous; hysterical pains described as rending, tearing, stitching. Head : All over the head there is stitching pain, but in the frontal eminence, in the temples, there is a sensation as if a nail or plug were driven in, and most of the pains seem to bore, as if they extended from the bone to the surface, and hence are said to be from within out. Eyes : It is useful in old syphilitics who are subject to eye complaints, ulcers on the eyeball, ulcers on the cornea, ameliorated in the open air, with a sensation of numbness in the eyes; inflammation of the iris, with ragged appearance of the iris; they are subject also to severe, sharp stitching pains that come from within out. The remedy is full of burning, and so the eyeballs burn, better in the open air. Iritis, but the inflammation sometimes involves the choroid, the retina, and mucous membrane, making a general inflammatory condition of syphilitic character. There are tearing pains in various places around the eyes; sticking, stitching pains, worse at night. Ulcers, with stitching pains, worse at night. Burning. stitching in the eyes with dryness, so that the lids stick to the balls of the eyes, pain worse at night. There is a misty appearance before the eyes, dullness as if looking through a fog. It also seems as if the atmosphere were filled with little floating black flies. \"Muscae volantes.\" You have looked into the air and seen little gnats and mosquitoes; well it appears to these patients as if these were there when they are not there. The discharge from the eyes is ichorous, bloody and often offensive. This same syphilitic miasm may attack the car and the bones of the car. These bones may decay and the hearing be lost. \"Burning in the ear with discharge of foetid pus.\" Stitching pains in the ears from within out . Nose : A horribly offensive discharge comes from the nose; ulcers high up in the nose; caries of the bones of the nose; syphilitic ozoena. Putrid old catarrhs. \"Feeling as if the nose stopped high up, as if he could not breathe through it, with fullness of the head, when riding in a carriage.\" (Aurum, Aurum mur.) Numbness is a great feature of this remedy, numbness of the scalp, or deep in the head; numbness here and there; numb, dead feeling associated with the pain; numbness after pain; often numbness after sleep. Other nervous manifestations occur besides those that are hysterical. It has choreic motions. You would expect such a peculiar nervous constitution to have almost everything among its nervous symptoms. \"Constantly chewing and working frothy slime out of mouth, with swollen tongue.\" \"Speech unintelligible.\" \"Grinding of teeth; starting at night.\" Swelling of the lips, and of the whole buccal mucous membrane, especially the lower lip, with burning in the mouth. There are syphilitic symptoms in the throat, attended with the usual burning, darting, stitching in ulcers; pain when swallowing; a sensation of a ball rising in the throat, such as occurs in globus hystericus; choking, must constantly swallow. Hysterical and choreic affections of the oesophagus and trachea. Spasms of the oesophagus. This lump in the throat, or suffocation, is a sort of hysterical spasm of the oesophagus. \"Dryness and burning in the oesophagus.\" Stomach : In the stomach troubles, if you have ever seen a typical case of Asa foetida , you will wonder where all the air comes from; it comes up in volumes. \"Hiccough-like contractions of the diaphragm.\" Choreic jerkings of the diaphragm, with expulsion of wind like the sound of a pop-gun going off almost every second. It is a condition that the patient has no control over; It is like the shooting off of little, guns forcing loud belching, loud eructations of wind from the stomach. There are a few symptoms mentioned in the text just here that are worthy of note. \"Pulsation in pit of stomach; perceptible to sight and touch.\" \"Pressing, cutting, stitching pains.\" A queer observation has been made that flatus was not passed downward, but all upwards. \"Eructations; smelling like garlic; tasting rancid, sharp or putrid.\" Always horribly offensive. Offensiveness is a characteristic of the remedy. And then there is a \"gone empty feeling in the pit of the stomach,\" not a pain. \"Pulsations after eating.\" \"Meteorism of the stomach.\" Abdomen : The remedy has many gastric and abdominal complaints; full of bellyache; stitching pains, colic. The diarrhoea is more or less troublesome. These patients are afflicted with diarrhoea from the slightest indigestion, after any indiscretion in diet, a painful watery diarrhoea. \"Liquid stools of most disgusting smell.\" \"Blackish-brown papescent offensive stools, which relieve.\" Genitals : \"Bearing down in genitals, worse when riding in a carriage.\" \"Uterine ulcer sensitive and painful.\" This medicine has been very useful in palliating uterine cancer in such constitutions as described those with purple faces, never the very pallid ones. Women of feeble, flabby, venous constitutions are subject to hemorrhages and miscarriages. Women who are not pregnant sometimes have the breasts fill up with milk, wonderfully annoying thing, and but few remedies have it; this is one of the few. It has also deficiency of milk. \"Ten days after delivery milk diminished.\" These patients sometimes get hysterical asthma; all sorts of disturbance in breathing, dyspnoea. \"Asthmatic feeling in trachea.\" \"Asthmatic attacks at least once a day all her life, brought on by every bodily exertion, coition, especially by every satisfying meal.\" Attacks of dyspnoea after coition, like Ambra . \"Obstinate titillating cough < at night.\" Many of these complaints are worse at night; nightly aggravations. Syphilitic complaints are commonly worse at night and such anti syphilitic remedies as Mercurius, Staphysagria, Hepar, Nitric acid , etc. are all worse at night. Among the other chest complaints, I will read a few of those that are marked here prominently and are striking ones. \"Pressure and burning of the sternum.\" \"Compression of chest as from a heavy weight.\" \"Stitches in chest.\" \"Single, violent stitches from within outward, at short intervals.\" This remedy is full of rheumatism and gouty symptoms; gouty affections in general, in nervous constitutions. When such a nervous constitution finally produces gouty formations, the nervousness often disappears; for it has been relieved by the deposit in the joints; a transformation scene has taken place. Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
+        "source_id": "kent-mm-1911"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Asa ftida (Assaftida). Mind and Disposition. Hysterical restlessness and anxiety. Head. The pains in the head cease, or change from touch. Eyes. Sensation of dryness in the eyes. Ears. Hardness of hearing, with discharge of pus from the oars. Nose. [5] Ozæna, discharge of very offensive matter from the nose. Face. Sensation of numbness in the bones of the face. Mouth and Throat. Sensation of dryness in the mouth and throat. Sensation of a ball rising in the throat. Abdomen. Pulsation in the pit of the stomach. [10] Sensation of fulness in the stomach. Stool and Anus. Diarrha, very offensive, with pain in the abdomen and discharge of fetid flatus. Urine. Urine brown, and of pungent smell. Spasm in the bladder during and after urination. Respiratory Organs. Spasmodic dyspna, as if the lungs could not be sufficiently expanded. [15] Stitches in the chat from within outwards. Extremities. Twitching of the muscles of the arms and legs. Ulcer on the tibia. Swelling and caries of the bones of the feet. Stitches and pulsation in the big toe. Generalities. [20] Sense of rigor. Body heavy and bloated. Hysterical attacks. Twitching and jerking in the muscles. Dull stitches (periodically) from within outwards, changed or relieved is touch. [25] Pains in the inside of the joints and limbs. St. Vitus' dance. Sleep. Much against his habit, he is much inclined to sleep. Fever. Pulse small, rapid, and unequal. Heat in the face after dinner, with anxiety or drowsiness, without thirst. Skin. [30] Ulcers, very painful to contact, especially in the circumference, gangrenous. Inflammation and caries of the bones, with thin, fetid pus. Conditions. Bad effects, from the abuse of mercury, especially in syphilis. Moot pains are accompanied by numbness in the affected parts. Many symptoms appear while sitting, and are relieved in the open air. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      }
+    ],
     "mental_emotional": [
       {
         "text": "Dissatisfied with one's self; complaints about one's troubles. Hysterical restlessness and anxiety. Unsteady and fickle. Ill-humour; irritable; apprehensive. Over-sensitive, excitable. If he thinks of having taken the drug, it causes faintness.",
@@ -70,46 +598,6 @@
         "source_id": "hering-guiding-1879"
       }
     ],
-    "head": [
-      {
-        "text": "Pressive pain in forehead from within outward; with it vertigo and vanishing of sight. Single deep-penetrating stitches in left frontal eminence. Heaviness and pressure in forehead and r. half of the head. Drawing, pressive pains like a plug, in sides of head or temples; most on l. side. The pains in the head cease, or change from touch. Rush of blood to head and warmth of face. All headaches towards evening; in room while at rest, sitting or lying; > when rising or moving about in the open air.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Pain in left side of head extending to eyes, changing into intermitting, severe pain and slight fulness of brain. A sudden pain in left temple, like an inward-pressing pointed plug. Inner semilateral headache, oftener on left side. Pressive pain in forehead and left side of head from within outward. Dull pain and fulness in left side of head, with bleeding from left nostril, heart beating slowly. Fulness and throbbing in head, heart beats feebly, with apprehension. Fulness of head when riding in a carriage. Pressure in sides of head or temples, like from a dull stick, better from touch. Fulness of head, changing gradually into aching and pressing pain, as if whole brain was compressed ; with dizziness, increased heat of skin and some quickness of pulse. Awoke with fulness of head, which gradually changed to periodically recurring pains, lasting, more or less, into next night. Drawing, wavelike pressure through left half of forehead, ending in dull pressure on frontal eminence. Flying stitch from within outward, in forehead, temples and sides of head. Jerking through head. Single, sudden, and deep penetrating stitches under left frontal eminence, like shocks followed by some sensitiveness. Pain as if a nail or plug was driven into brain. Crampy pain in forehead above eyebrows. The brain seems tense. Rush of blood to head, and warmth of face. Congestive headache. Sensation of swashing in head as of water, and gurgling behind upper part of frontal bone. All headaches < towards evening, in room, while at rest, sitting or lying ; > when rising or moving about in open air. Reading and writing make her worse. The pains in the head cease, or change from touch. Nervous headache of hysterical or scrofulous people. Cold sensation in head. Pain in right parietal, as from a deeply penetrating plug. The pains in head cease or are changed from external touch. Cold sweat on forehead.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "eyes": [
-      {
-        "text": "Nocturnal throbbing pains in and around the head; syphilitic iritis. Extensive superficial ulceration of the cornea, with burning, sticking, or pressive pains, from within outward; rest and pressure relieve. Sharp pain extending through eye into head on touching. Sensation of dryness in the eyes. Dryness and burning in, the eyes. Severe boring pains over the eyebrows.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Dimness of sight ; letters become darker on writing ; disappear after blinking. Mist before eyes. Muscæ volitantes. Sight worn from reading or writing. Boring pain above eyebrows ; burning, especially at night. θ Iritis, kerato-iritis, retinitis, of syphilitic origin. Dull pressure at external border of left orbit. Troublesome dryness of eyes. Burning in eyes ; stitches ; dryness. Periodic burning in eyes and pressing together of lids as if overcome with sleep. Burning in eyeballs ; in left as from within outward. Sharp pain extending through eye into head, upon touching. Nocturnal, throbbing pains in and around eye and head. θ Syphilitic iritis, abuse of mercury. Deep-seated inflammation of eyeball, attended by ciliary pains. θ Iritis, kerato-iritis, irido-choroiditis and retinitis, especially if of syphilitic origin. Extensive superficial ulceration of cornea, with burning, sticking or pressing pains, from within outward ; rest and pressure relieve ; also > in open air ; numbness around eye. Itching in right eye. Periodic burning in eyes and pressing together of lids ; as if overcome with sleep.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "ears": [
-      {
-        "text": "Hardness of hearing, with discharge of offensive, thin pus from the ears.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "The faintness is brought on by noise, or being in crowded streets. Hardness of hearing, with discharge of pus from ears. Hardness of hearing, with thin, purulent discharge of an extremely offensive odor. θ After scarlatina, or abuse of mercury. Otorrhœa with offensive discharge and diseased bones.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "nose": [
-      {
-        "text": "Ozæna; discharge of very offensive greenish matter from the nose; bones swollen and inflamed after Mercury or in scrofula.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Offensive discharge from nose ; stench from nose. θ After mercury or in scrofula. Unpainful tension over bones of nose, with feeling of numbness. Swelling and inflammation affecting bones, with a feeling as if nose would burst. Pressure in nose, especially right wing, as if it would burst. Feeling as if nose stopped up high up, so that he cannot breathe through it, with fulness of head, when riding in a carriage. Fluent coryza. Discharge of very offensive matter from nose ; with caries of bones. θ Ozæna. A little pimple on tip of nose. Flushes and heat of face, of one cheek after eating. Small tubercules in cheeks. Numbness of bones of face ; painless tension in various places.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
     "face": [
       {
         "text": "Sensation of numbness in the bones of the face; painless tension in various places. Swelling of the lower lip. Numbing pressure on chin.",
@@ -117,36 +605,6 @@
       },
       {
         "text": "Drawing pains in caries of lower maxilla, with salivation ; after abuse of mercury. Swelling of lower lip. Lips puffed up, lower lip and left corner of mouth most. Numb pressure on chin.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "mouth_throat": [
-      {
-        "text": "Grinding of teeth. Bluntness of teeth. Greasy, rancid taste in mouth; and of phlegm hawked up. Speech unintelligible; tongue white, swollen (chorea). Constantly chewing, and working frothy slime out of mouth. Sensation of dryness in the mouth and throat. Dryness of mouth, throat, and œsophagus. Sensation of a ball rising in the throat, obliging frequent swallowing to keep it down, and causing at times difficult breathing; globus hystericus. Sensation in the œsophagus as if the peristaltic motions were from below upward.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Grinding of teeth ; starting at night ; transient griping pains in region of navel. θ Chorea. Bluntness of teeth. Severe drawing in lower incisors. Soreness of gums. Greasy, rancid taste in mouth and of phlegm hawked up. Speech unintelligible ; tongue white, swollen. θ Chorea. Sensation of dryness in mouth and throat, even when moist, without thirst. Saliva predominantly decreased, except in mercurial caries, when acrid salivation exists. Burning in mouth. Constantly chewing and working frothy slime out of mouth, with swollen tongue. θ Chorea. Sensation as if peristaltic motion was reversed and œsophagus being drawn from stomach up towards throat. Sensation of pressure, as if a body or lump was ascending in throat, has to swallow frequently. Burning, followed by soreness, in fauces and pharynx. Darting stitches, from chest upward towards œsophagus. Tender feeling in throat, < when swallowing. Sensation of a ball rising in throat, causes difficulty in breathing. θ Hysteria. Hysterical spasms affecting œsophagus. In evening a hysterical rising in throat, as if a ball or large body ascended from stomach to œsophagus, or even pharynx, obliging him repeatedly to attempt to swallow it. θ Globus hystericus. Dryness and burning in œsophagus.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "stomach_abdomen": [
-      {
-        "text": "Ravenous hunger. Desire for wine. Disgust for all food. Pulsation in the pit of the stomach, perceptible to the hand and eye even. Rising in throat. Loathing; inclination to vomit. Sensation of fulness and distension in stomach. Eructations; smelling like garlic; tasting rancid, sharp, or putrid. Flatus passing upward, none down. Great distension of the abdomen. Pulsations in abdomen. Heat in spleen and abdomen. Colic with distension and a \"rising-up\" feeling; > by external pressure; at height of pain, fainting. Sense of fulness, and as if beaten, in epigastrium and whole abdomen. Pressive pain on drawing in abdominal muscles. Lancinations; dartings in abdominal-muscles.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Asaf.]. Ravenous hunger, with pain in upper abdomen, as from a cold, and as if diarrhœa would set in. Hunger with desire for strong, cooling food. Desire for wine. Great disgust for all food. θ Chorea. Beer tastes slimy, aversion to it. Great dejection, with epigastric pressure after eating : hypochondriacal. After eating : heat in face, with anguish ; pressure in stomach ; stitches about lower ribs ; tension in abdomen ; winding and twisting in bowels ; great difficulty in breathing ; febrile state. After drinking : diarrhœa ; heaviness and cold feeling in intestines. After meals flatulent distension of abdomen. After eating anything sour griping pains in region of navel. θ Chorea. Eructations : smelling like garlic ; tasting rancid, sharp, or putrid ; smelling like feces ; tasting like carrion. Flatus passing upward, none down. Hiccough-like contractions of diaphragm. θ Chorea. Pressing, cutting, stitching pains in spells, not regular ; full of wind ; pressing upward (never down) ; gulping up rancid fluid ; constipation. θ Gastralgia. Dyspepsia, with much pulsation in pit of stomach. Pulsation in pit of stomach, perceptible to sight and touch. Sensation of fulness in stomach. \"Gone,\" empty feeling in pit of stomach, not a pain, but \"it hurts there ;\" pulsations after eating ; < about 11 o'clock A. M. ; faint feeling. θ Hysteria. Cardialgia. Meteorism of stomach when feeling of tension is great and eructating is difficult. Increased warmth and aching in stomach, towards left side, not all on right, but more up into œsophagus, like globus hystericus. In morning sensation in epigastric region and in whole abdomen, as if it were beaten, with sense of fulness in former, and eructations. Stitches in right hypochondrium, towards diaphragm. Pressure from interior of liver, to chest, after dinner, with labored breathing and violent pulsations. Violent pressure in scrobiculum, towards liver, while sitting. Stitches as if in diaphragm, right side. Heat in spleen and abdomen. Gastric and abdominal sufferings, accompanied by pulsations in epigastrium. Heat in abdomen. Pressure in abdomen. Griping (into a ball) pain below navel when standing. Intermittent griping in upper abdomen. Pain in upper abdomen, as from taking cold, and as if diarrhœa would ensue, with a kind of ravenous hunger. Bellyache, as if intestines were torn or cut ; places in side sore, as if raw, with it feeling as of something rising from chest to throat ; pressure relieves. Gripings, with flatulence. Wind colic, with abdominal pulsations ; very painful distension of abdomen, rumbling ; relieved by passing wind. Pinching colic and escape of wind. Flatulent colic and diarrhœa ; distension of abdomen. Colic, with distension and a \"rising up feeling,\" as if peristaltic action was reversed ; > from external pressure ; causes fainting. See 13. Abdomen soft, distended. θ Chorea. In flanks a pressive pain or drawing in abdominal muscles. Sensation in epigastric region and abdomen in morning, as if beaten.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "stool_rectum": [
-      {
-        "text": "Pain in perineum, as from something dull pressing out. Stool profuse, watery, or thick, papescent, brown, and exceedingly offensive. Diarrhœa, very offensive, with pain in the abdomen and discharge of fetid flatus. Stool stinking; slow; difficult; hard.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Painful diarrhœa. Watery, liquid stools of most disgusting smell ; pains in abdomen and discharge of fetid flatus. Watery stools of disgusting odor ; discharge profuse and greenish. Blackish-brown, papescent, offensive stools, which relieve. Stool profuse, thick, papescent, brown, and very offensive. Only slime passes, no feces. Obstinate constipation, with abdominal and hemorrhoidal cramps, tenesmus and distended abdomen. Pain in perineum, as from something dull pressing out.",
         "source_id": "hering-guiding-1879"
       }
     ],
@@ -170,26 +628,6 @@
         "source_id": "hering-guiding-1879"
       }
     ],
-    "female": [
-      {
-        "text": "Labour-like pains in uterine region, with cutting and bearing-down. Excited sexual desire. Leucorrhœa profuse, greenish, thin, and offensive. Swelling and inflammation of the genitals. Mammæ turgid with milk; when not pregnant. Deficient milk with over-sensitiveness. Milk increased; or diminished.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Excited sexual desire. θ Nymphomania in a plethoric woman. Bearing down in genitals, < when riding in a carriage. Uterine ulcer, sensitive and painful, with offensive discharge. Menses too early, too scanty, and last but a short time. Labor-like pains in uterine region, with cutting and bearing down. Leucorrhœa profuse, greenish, thin and offensive. Swelling and inflammation of genitals. PREGNANCY. PARTURITION. LACTATION. [24] [Asaf.]. Miscarriages. Is said to kill fetus and dries up milk. Mamma turgid with milk, like in ninth month ; without being pregnant. Deficient of milk, with oversensitiveness. (In sick :) Labor-like pains ; cutting, bearing down, intermitting. Milk increased or diminished. Restores wasted and drying up \"breast of milk.\". Ten days after delivery milk diminished ; 14th day only a few drops could be squeezed out with difficulty ; after 5 drops of tincture, copious milk, but offensive to child ; 3d centesimal answered as well. Milk had disappeared within three weeks of her delivery ; six confinements.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "chest_heart": [
-      {
-        "text": "Oppressive pressing, aching pains in the chest. Stitches in chest (r. side), from within outward. Nervous palpitation, with small, quick, irregular pulse. Continual pain about heart region. At times heart feels bound tightly, as if it could not beat; afterwards only on exertion or walking. Heart feels swollen to bursting.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Pressure on sternum, when stooping, writing ; going off by deep breathing. Pressure and burning under sternum ; frequent disposition to cough. Compression of chest, as from a heavy weight. See 26. Pressing stitches in chest. Pressure on chest, with a constriction in throat. Oppressive aching feeling in chest ; > from expectorating mucus. Pressive pain in right side of chest, from within outward. Pressure in left intercostal muscles, from within outward, < during inspiration and expectoration. Stitches in chest from within outward. θ Whooping cough. Burning in chest, runs through both arms and through lower limbs down into toes. Single violent stitches from within outward, at short intervals ; renewed when chest is touched. θ Pleuro-pneumonia. Shooting from just below left nipple through to back on walking. Spasmodic constriction of thorax with cough. Spasmodic constriction, as if lungs could not properly expand, respiration normal. Spasmodic contractions of chest, with slow, small contracted, irregular pulse. Throbbing in chest. Dropsy of chest ; relieved the oppression in 6, 12, or 36 hours ; 3d every 2 or 4 hours. Discomfort of thorax from want of distension of lungs. Increased action of heart on slightest excitement. Palpitation, with faintness, rush of blood to head, flushing of face, anxiety and slow breathing, from excitement. θ Irritable heart. Violent palpitation of heart and excitement of mind. Acute rheumatic heart disease, with tightness across chest. θ Hydrothorax. Continual pain about region of heart. At times heart feels bound together tightly, as if it could not beat ; afterwards only on exertion or walking. Congestion towards heart ; feeling of fulness ; small pulse ; followed by loose stool. Slight palpitation of heart, more like a tremor, several times when sitting. Nervous palpitation, with small pulse ; from overexertion or suppression of discharges (in women). Pressure in region of heart, as if heart was too full and expanded ; pulse small. Feeling as if heart would burst ; quick breathing and apprehension ; has to walk in open air. Feeling as if heart was swollen, preventing a deep inspiration. Palpitation like a tremor while sitting. Beating of heart small, quick, irregular. Heart sometimes beats very feebly. Sometimes heart beats short and quick, at other times he feels as if there was no action of it. Heart's action is quickened by a deep inspiration. At night, when lying on back, palpitation and suffocative feeling, as if heart would burst, he must sit up, which relieves him. Heart symptoms and faintness < after seminal emission. Pulse small, spasmodically contracted, rather quick. θ Chorea. Small, infrequent pulse, with violent action of heart and no disturbance of respiration indicating nervous weakness of organ. Pulse small, rapid, irregular. See 28. Pulse accelerated, but unequal, small. θ Asthma, congestion to heart, etc. Sensation as if one pressed very sharply with point of finger on xiphoid cartilage ; also when swallowing.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
     "back": [
       {
         "text": "Fine burning stitches in and behind r. scapula, extending to ribs. Very violent sacral pains. Cannot work on account of the backache. Crawls run over back in afternoon.",
@@ -197,16 +635,6 @@
       },
       {
         "text": "Fine, burning stitches in and behind r. scapula, extending towards ribs. Drawing downward, in left side of neck, on motion. Stitches in muscles of back. Dull pains, or drawing and cutting below scapulæ. Burning along vertebræ, to left. Aching inwardly, along last dorsal and first lumbar vertebræ. Boring sticking in left loin, from within outward, going off during an inspiration. Lancinations from right loin towards ribs. Sticking, with pressure in region of right ribs towards spine. Cannot work on account of backache. Stitches along sacrum down to anus. Pain in sacrum while sitting. Crawls run over back, in afternoon.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "skin": [
-      {
-        "text": "Itching, better by scratching; pricking, burning skin. Ulcers with high, hard edges, sensitive to touch, easily bleeding; old ulcers on forearm, wrist, hand; ulcers, esp. when affecting the bones; pus profuse, greenish, thin, offensive, even ichorous. Ulcers, very painful to contact, esp. in the circumference, gangrenous.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Dark red, hot swellings. Itching, pricking, burning of skin ; itching > by scratching. Skin puffed up, inflamed. Sphacelus. Flat eruptions, painful. Ulcers with extreme sensitiveness ; patient flinches from even the softest dressing ; or from near approach of any one. Ulcers with high, hard, bluish edges, sensitive to touch, easily bleeding ; pus profuse, greenish, thin, offensive, even ichorous. See 44. Shooting pain around ulcer. Ulcers grow black. Old scars break open and turn black. Ulcers penetrating to bones, discharging thin, fetid ichor. Ulcers or sores looking raw, bloody or dark ; or discharge copiously. Quivering in skin.",
         "source_id": "hering-guiding-1879"
       }
     ],
@@ -231,6 +659,30 @@
       }
     ],
     "indications": [
+      {
+        "text": "Part Employed—The dried milky juice obtained by incising the green matured root of the Ferula foetida.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—This agent is a mildly stimulating nerve sedative. Its soothing influence upon the brain is of no mean order. This is especially observed in hysterical conditions, in hystero-epilepsy and in hypochondriasis. It arrests hysterical paroxysms and produces quiet and rest with a pleasant sense of exhilaration. It relieves the flatulence of hysteria also. In nervousness, especially that of weakened and exhausted conditions, and of children, it is soothing, and often wards off spasms.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In spasmodic conditions of the stomach and bowels with tympanites, in the absence of active inflammation it is a remedy long used. In accumulations of gas in the stomach or bowels it has been used to, the best advantage.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In spasmodic bronchial affections, in whooping cough, and in asthma it was a favorite with the older doctors. In the bronchial catarrhs of the aged and infants it has been given with advantage, especially if nervous depression was present. A three-grain pill was the celebrated \"Keeley cure\" for la grippe, and those who have used the remedy in epidemic influenza are usually enthusiastic in its praise.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
       {
         "text": "A gum-resin derived from the rhizome and rootlets of Ferula Asafetida, Linné; Ferula foetida, Regel, and other species of Ferula (Nat. Ord. Umbelliferae). Persia and other parts of Western Asia. Dose, 1 to 10 grains.Common Names: Asafetida, Gum Asafetida.",
         "source_id": "felter-eclectic-1922"
@@ -303,23 +755,22 @@
         "text": "Twitching in left upper arm joint, extending inward. Fine stitch in elbows. Quivering in shoulder joint ; in deltoid muscle. Stitches and jerking in upper arm. Drawing pain along upper arm down to elbow, a fine stitch in elbow. Child always missed laying hold of anything she wished. θ Chorea. Frequent muscular jactitation in arms and hands. Tearing in forearm down to tips of fingers. When moving fingers, pain in forearm. Tearing stitches followed by burning in right forearm. Scraping sensation on styloid process of ulna. Cramplike, sensitive twitching in metacarpal bone of left thumb. Whitlow, violent nightly pains, threatened necrosis. Pain as if beaten in bones of wrist. Aching, drawing in wrist joints. θ Syphilis. Carious ulcer on tibia, extremely sore around, discharge offensive ; skin adheres to bone. Muscular twitching in legs and feet. Child, æt. 9, could not walk. θ Chorea. Caries of tibia. The apparently healthy portion of tibia lying beneath peculiar carious ulcer became again sensitive and painful to slightest touch, or even approach of finger, so also to removal of charpie, and at night almost unendurable. Swelling around ankle joint, cannot use foot. Burning in roots of toe nails, prevents sleep. Psoitis if suppuration seems impending ; also if pelvic bones are involved. Lassitude of lower limbs. Quivering of portions of muscles on thighs. Occasional tingling in legs after much walking. Twitching on inner side of right knee joint. Swelling and caries of bones of feet. Sticking sensation on ball of great toe when putting foot to ground. Pain as if a splinter of bone was sticking in right fibula, just above outer malleolus. θ After a sprain. Cold swelling around ankles. A sensitive throbbing in left great toe from time to time. Stitches and pulsation in big toe. Painful throbbing in tip of great toe. Heat in toes. Constant convulsive tremor of limbs, could be > by hands of another person. θ Chorea. Twitching of muscles of arms and legs. Pains mostly on flexor sides of limbs. Pains in inside of joints and limbs.",
         "source_id": "hering-guiding-1879"
       }
-    ],
-    "modalities": [
-      {
-        "text": "REST. POSITION. MOTION. [35] [Asaf.]. Rest : headache < ; eyes > ; < in bed. Sitting up : headache < ; tension in head > ; pressure in scrobiculum < ; suffocative feeling > ; palpitation < ; pains in sacrum <. Standing : griping below navel ; weakness. Stooping : pressure on sternum. Lying : weakness ; headache <. Putting foot to ground : sticking in great toe. Moving fingers : pain in forearm <. Motion : headache > ; asthma <. Overexertion : palpitation <. Swallowing : tenderness in throat <. After motion : aching in testicles. Gaping ; cough <. Deep breathing : pressure in sternum >. Inspiration : pain in intercostal muscles <. Walking : shooting from nipple to back. Excitement : palpitation <. Morning : abdomen feels beaten ; fulness and eructations ; tearings in joints ; chest oppressed. At 8.30 to 9 A. M. : chills, with heat of face. At 11 A. M. : faint feeling < ; goneness in stomach. During day : expectoration worse. Afternoon : tension in head < ; drawing in glans penis ; cough ; shivering over back ; heat in toes. Between 3 and 4 P. M. : coldness and trembling, with stitches in head. Evening : vanishing of sight ; headache < ; hysteria ; pains often better ; sleepy. Evening till 2 A. M. : neuralgia. Night : pain in eyes < ; cough < ; palpitation ; ulcer < ; pain across chest ; bone pains ; pain in ulcer unbearable. Midnight : pain left half of body. After midnight : sleeplessness. In room : all headaches worse. Open air : headache > ; eye > ; heart > ; desires to be in open air. Could not remain in-doors, must walk about in open air. In warm feather beds : lower limbs ache more.",
-        "source_id": "hering-guiding-1879"
-      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "allen-encyclopedia-1874",
+      "boericke-1927",
       "clarke-dictionary-1900",
+      "cowperthwaite-textbook-1891",
+      "ellingwood-1919",
       "felter-eclectic-1922",
       "guernsey-keynotes-1887",
       "hering-guiding-1879",
-      "kings-american-1898"
+      "kent-lectures-1905",
+      "kent-mm-1911",
+      "kings-american-1898",
+      "lippe-textbook-mm-1866"
     ]
   }
 }

@@ -1,14 +1,19 @@
 {
   "id": "cochlearia-officinalis",
   "names": {
-    "primary": "Cochlearia officinalis (LINN.)",
-    "latin": "Cochlearia officinalis (LINN.)",
+    "primary": "Cochlearia Officinalis",
+    "latin": "Cochlearia Officinalis",
     "common": [
       "Scurvy Grass"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Cochlearia officinalis (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

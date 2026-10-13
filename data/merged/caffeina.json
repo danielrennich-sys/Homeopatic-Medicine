@@ -1,14 +1,19 @@
 {
   "id": "caffeina",
   "names": {
-    "primary": "Caffeina (U. S. P.)",
-    "latin": "Caffeina (U. S. P.)",
+    "primary": "Caffeina",
+    "latin": "Caffeina",
     "common": [
       "Caffeine"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Caffeina (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

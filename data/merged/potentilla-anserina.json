@@ -1,14 +1,19 @@
 {
   "id": "potentilla-anserina",
   "names": {
-    "primary": "Potentilla anserina (LINN.)",
-    "latin": "Potentilla anserina (LINN.)",
+    "primary": "Potentilla Anserina",
+    "latin": "Potentilla Anserina",
     "common": [
       "Silverweed"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Potentilla anserina (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

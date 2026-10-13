@@ -1,12 +1,15 @@
 {
   "id": "aurum-arsenicum",
   "names": {
-    "primary": "AURUM ARSENICUM",
-    "latin": "AURUM ARSENICUM",
+    "primary": "Aurum Arsenicum",
+    "latin": "Aurum Arsenicum",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

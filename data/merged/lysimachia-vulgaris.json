@@ -1,14 +1,19 @@
 {
   "id": "lysimachia-vulgaris",
   "names": {
-    "primary": "Lysimachia vulgaris (LINN.)",
-    "latin": "Lysimachia vulgaris (LINN.)",
+    "primary": "Lysimachia Vulgaris",
+    "latin": "Lysimachia Vulgaris",
     "common": [
       "Loosetrife, Yellow"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Lysimachia vulgaris (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

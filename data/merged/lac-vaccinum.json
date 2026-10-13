@@ -1,19 +1,21 @@
 {
   "id": "lac-vaccinum",
   "names": {
-    "primary": "LAC VACCINUM",
-    "latin": "LAC VACCINUM",
+    "primary": "Lac Vaccinum",
+    "latin": "Lac Vaccinum",
     "common": [
       "Skimmed Milk (LAC DEFLORATUM)"
     ],
     "synonyms": [
       "LAC VACCINUM DEFLORATUM",
-      "Lac Vaccinum",
       "Lac Vaccinum Coagulatum",
       "Lac Vaccinum Defloratum"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

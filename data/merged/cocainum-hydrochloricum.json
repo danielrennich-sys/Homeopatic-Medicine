@@ -1,14 +1,17 @@
 {
   "id": "cocainum-hydrochloricum",
   "names": {
-    "primary": "COCAINUM HYDROCHLORICUM",
-    "latin": "COCAINUM HYDROCHLORICUM",
+    "primary": "Cocainum Hydrochloricum",
+    "latin": "Cocainum Hydrochloricum",
     "common": [
       "An Alkaloid from Erythroxylon Coca (COCAINA)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

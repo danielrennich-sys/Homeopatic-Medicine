@@ -1,14 +1,19 @@
 {
   "id": "lippia-dulcis",
   "names": {
-    "primary": "Lippia dulcis (TREV.)",
-    "latin": "Lippia dulcis (TREV.)",
+    "primary": "Lippia Dulcis",
+    "latin": "Lippia Dulcis",
     "common": [
       "Lippia"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Lippia dulcis (TREV.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

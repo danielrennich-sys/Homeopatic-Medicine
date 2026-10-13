@@ -1,14 +1,17 @@
 {
   "id": "eosinum",
   "names": {
-    "primary": "EOSINUM",
-    "latin": "EOSINUM",
+    "primary": "Eosinum",
+    "latin": "Eosinum",
     "common": [
       "(EOSIN)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Second decimal (1 % sol)"

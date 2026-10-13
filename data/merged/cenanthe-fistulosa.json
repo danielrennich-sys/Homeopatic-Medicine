@@ -1,14 +1,19 @@
 {
   "id": "cenanthe-fistulosa",
   "names": {
-    "primary": "Cenanthe fistulosa (LINN.)",
-    "latin": "Cenanthe fistulosa (LINN.)",
+    "primary": "Cenanthe Fistulosa",
+    "latin": "Cenanthe Fistulosa",
     "common": [
       "Lovage, Water"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Cenanthe fistulosa (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

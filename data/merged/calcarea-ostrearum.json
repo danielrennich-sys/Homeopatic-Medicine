@@ -1,15 +1,18 @@
 {
   "id": "calcarea-ostrearum",
   "names": {
-    "primary": "Calcarea Ostrearum. Middle layer of Oyster Shell. (Calcium Carbonate)",
-    "latin": "Calcarea Ostrearum. Middle layer of Oyster Shell. (Calcium Carbonate)",
+    "primary": "Calcarea Ostrearum",
+    "latin": "Calcarea Ostrearum",
     "common": [],
     "synonyms": [
-      "Calcarea Ostrearum. (Calcarea Carbonica.)",
-      "CALCAREA OSTREARUM"
+      "Calcarea Ostrearum. Middle layer of Oyster Shell. (Calcium Carbonate)",
+      "Calcarea Ostrearum. (Calcarea Carbonica.)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

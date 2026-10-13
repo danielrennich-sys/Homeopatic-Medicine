@@ -1,14 +1,17 @@
 {
   "id": "sanicula-aqua",
   "names": {
-    "primary": "SANICULA AQUA",
-    "latin": "SANICULA AQUA",
+    "primary": "Sanicula Aqua",
+    "latin": "Sanicula Aqua",
     "common": [
       "The Water of Sanicula Springs, Ottawa, I11 (SANICULA)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

@@ -7,10 +7,15 @@
       "Boxwood, American"
     ],
     "synonyms": [
+      "Cornus. Cornus florida",
       "Cornus florida (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -99,6 +104,32 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "indications": [
+      {
+        "text": "Synonym—Dogwood.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—This agent is indicated not only to correct the atonic conditions of the glandular structure of the gastro-intestinal apparatus in malaria, but as an antidote to the malarial poison itself. It has marked control over many of the manifestations of malaria.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Its influence upon the stomach in these cases increases the appetite at once, improves the character of the digestion and relieves the drowsiness and dullness apt to follow imperfect digestion. It is a tonic in enfeebled conditions of the stomach from whatever cause and improves intestinal digestion.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Before Europeans discovered America, the Red Indianswere using the bark in the same way as Peruvian bark. It is valuable in intermittent fevers, as a weak tonic for the stomach, and antiperiodic, as a stimulant and astringent. As a poultice in anthrax, indolent ulcers, and inflamed erysipelas, it is tonic, stimulant and antiseptic. In the recent state it should be avoided, as it disagrees with stomach and bowels. Cinchona bark or sulphate of quinea often replace it officially. 35 grains of Cornus bark are equal to 30 grains of cinchona bark. The leaves make good fodder for cattle, and in Italy the oil is used in soups. The ripe fruit, infused in brandy, is used as a stomachic in domestic practice, and a tincture of the berries restores tone to the stomach in alcoholism. Hippocrates, Dioscorides, and Pliny recommend them in diarrhoea.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
     "preparation": [
       {
         "text": "The dried bark of the root.",
@@ -117,12 +148,6 @@
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
-    "indications": [
-      {
-        "text": "Before Europeans discovered America, the Red Indianswere using the bark in the same way as Peruvian bark. It is valuable in intermittent fevers, as a weak tonic for the stomach, and antiperiodic, as a stimulant and astringent. As a poultice in anthrax, indolent ulcers, and inflamed erysipelas, it is tonic, stimulant and antiseptic. In the recent state it should be avoided, as it disagrees with stomach and bowels. Cinchona bark or sulphate of quinea often replace it officially. 35 grains of Cornus bark are equal to 30 grains of cinchona bark. The leaves make good fodder for cattle, and in Italy the oil is used in soups. The ripe fruit, infused in brandy, is used as a stomachic in domestic practice, and a tincture of the berries restores tone to the stomach in alcoholism. Hippocrates, Dioscorides, and Pliny recommend them in diarrhoea.",
-        "source_id": "grieve-modern-herbal-1931"
-      }
-    ],
     "dosing": [
       {
         "text": "Formerly, 1 to 2 oz. of the powder between paroxysms of intermittent fever. Of fluid extract, 30 minims as a tonic. Of cornin, 2 grains.",
@@ -135,6 +160,7 @@
     "sources": [
       "allen-encyclopedia-1874",
       "clarke-dictionary-1900",
+      "ellingwood-1919",
       "grieve-modern-herbal-1931"
     ]
   }

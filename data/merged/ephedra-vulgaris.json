@@ -3,15 +3,27 @@
   "names": {
     "primary": "Ephedra Vulgaris",
     "latin": "Ephedra Vulgaris",
-    "common": [],
-    "synonyms": []
+    "common": [
+      "Ephedra"
+    ],
+    "synonyms": [
+      "Ephedra vulgaris (RICH.)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {
         "text": "Ephedra has been proved in Russia by Dr. B. H. Mouravow (Universal Homœopathic Annual, p. 56). It produced symptoms when twenty drops of a strong alcoholic extract were taken five times a day; fifteen drops four times a day having been taken without apparent effect. Extreme apathy was produced, stiff-neck, and backward pulling of whole body on turning the head. There was also starting of the eyes from the orbits as if pushed out. This suggested exophthalmic goître to Mouravow, who considered that the drug acted on the ganglions of the sympathetic nerve, and caused congestion of the spinal cord.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "It is found on sandy seashores and in temperate climates of both hemispheres. The plant has stamens and pistils on separate flowers--staminate flowers in catkins and a membraneous perianth, pistillate flowers terminal on axillary stalks, within a two-leaved involucre. Fruit has two carpels with a single seed in each and is a succulent cone, branches slender and erect, small leaves, scale-like, articulated and joined at the base into a sheath.",
+        "source_id": "grieve-modern-herbal-1931"
       }
     ],
     "generalities": [
@@ -76,12 +88,31 @@
         "text": "Longing for sleep. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "habitat": [
+      {
+        "text": "West Central China, Southern Siberia, Japan.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "Ephedrine is salt of an alkaloid and is in shining white crystals very soluble in water.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "indications": [
+      {
+        "text": "A sympathetic nerve stimulant resembling adrenaline, its effect on the unstriped muscular fibres is remarkable. It acts promptly in relieving swellings of the mucous membrane. It has valuable antispasmodic properties, acts on the air passages and is of benefit in asthma and hay fever; it is also employed for rheumatism; a 5 to 10 per cent solution has mydriatic properties, prophylactically used for low blood pressure in influenza, pneumonia, etc. Used in tablet form for oral or hypodermic administration and in ampuls for hypodermic, intramuscular and intravenous use. It can advantageously be used in solution with liquid paraffin, either alone or in conjunction with methol camphor and oil of thyme. Dose, 1/2 to 1 grain. [ Top ] Purchase from Richters American Ephedra 'Mormon Tea' (Ephedra nevadensis) Seeds and Plants",
+        "source_id": "grieve-modern-herbal-1931"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "grieve-modern-herbal-1931"
     ]
   }
 }

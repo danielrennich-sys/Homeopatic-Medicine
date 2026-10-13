@@ -1,14 +1,17 @@
 {
   "id": "methylenum-coeruleum",
   "names": {
-    "primary": "METHYLENUM COERULEUM",
-    "latin": "METHYLENUM COERULEUM",
+    "primary": "Methylenum Coeruleum",
+    "latin": "Methylenum Coeruleum",
     "common": [
       "One of the Aniline Dyes (METHYLENE BLUE)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "3x attenuation. A 2 per cent solution locally, in chronic otitis with foul smelling discharge. A 1 per cent aqueous solution for ulcers and abscesses of cornea"

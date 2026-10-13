@@ -8,11 +8,14 @@
       "Nightshade, Black"
     ],
     "synonyms": [
-      "SOLANUM NIGRUM",
       "Solanum nigrum (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

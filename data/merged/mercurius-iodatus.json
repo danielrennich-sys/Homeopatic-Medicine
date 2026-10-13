@@ -1,13 +1,14 @@
 {
   "id": "mercurius-iodatus",
   "names": {
-    "primary": "Mercurius Iodatus Flavus",
-    "latin": "Mercurius Iodatus Flavus",
+    "primary": "Mercurius Iodatus",
+    "latin": "Mercurius Iodatus",
     "common": [
       "Proto-iodide of Mercury",
       "Bin-iodide of Mercury"
     ],
     "synonyms": [
+      "Mercurius Iodatus Flavus",
       "Mercurius Iodatus Ruber",
       "MERCURIUS IODATUS FLAVUS",
       "MERCURIUS IODATUS RUBER",
@@ -17,6 +18,9 @@
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -72,10 +76,6 @@
         "source_id": "kent-lectures-1905"
       },
       {
-        "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
-        "source_id": "kent-lectures-1905"
-      },
-      {
         "text": "Mercurius Iodatus Ruber (Bin-iodide of Mercury.)",
         "source_id": "kent-lectures-1905"
       },
@@ -85,10 +85,6 @@
       },
       {
         "text": "These two iodides have more rapid and greater induration beneath ulcers and chancres than Merc., and in old syphilitics the iodides are sometimes more useful.",
-        "source_id": "kent-lectures-1905"
-      },
-      {
-        "text": "Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
         "source_id": "kent-lectures-1905"
       },
       {
@@ -141,7 +137,7 @@
       }
     ],
     "dosing": {
-      "notes": "Second trituration"
+      "notes": "Second trituration\n\nThird trituration. Mercuric iodide is far more active as a bactericide than the other mercurials, including the chloride"
     },
     "nose": [
       {

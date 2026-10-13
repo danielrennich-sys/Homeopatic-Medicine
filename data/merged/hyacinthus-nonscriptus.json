@@ -1,14 +1,17 @@
 {
   "id": "hyacinthus-nonscriptus",
   "names": {
-    "primary": "Hyacinthus nonscriptus",
-    "latin": "Hyacinthus nonscriptus",
+    "primary": "Hyacinthus Nonscriptus",
+    "latin": "Hyacinthus Nonscriptus",
     "common": [
       "Hyacinth, Wild"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "tragacantha",
   "names": {
-    "primary": "Tragacantha (U. S. P.)",
-    "latin": "Tragacantha (U. S. P.)",
+    "primary": "Tragacantha",
+    "latin": "Tragacantha",
     "common": [
       "Tragacanth"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Tragacantha (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

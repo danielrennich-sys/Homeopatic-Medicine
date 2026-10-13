@@ -1,14 +1,19 @@
 {
   "id": "geum-urbanum",
   "names": {
-    "primary": "Geum urbanum (LINN.)",
-    "latin": "Geum urbanum (LINN.)",
+    "primary": "Geum Urbanum",
+    "latin": "Geum Urbanum",
     "common": [
       "Avens"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Geum urbanum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

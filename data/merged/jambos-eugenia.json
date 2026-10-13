@@ -1,12 +1,17 @@
 {
   "id": "jambos-eugenia",
   "names": {
-    "primary": "Jambos Eugenia. (Eugenia Jambos.)",
-    "latin": "Jambos Eugenia. (Eugenia Jambos.)",
+    "primary": "Jambos Eugenia",
+    "latin": "Jambos Eugenia",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Jambos Eugenia. (Eugenia Jambos.)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

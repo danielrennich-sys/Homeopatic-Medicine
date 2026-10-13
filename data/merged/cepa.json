@@ -1,12 +1,15 @@
 {
   "id": "cepa",
   "names": {
-    "primary": "CEPA",
-    "latin": "CEPA",
+    "primary": "Cepa",
+    "latin": "Cepa",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

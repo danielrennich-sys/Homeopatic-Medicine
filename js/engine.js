@@ -861,6 +861,7 @@ async function intakeMatch(payload, onStatus = () => {}) {
         const score = scores.get(ri) || 0;
         return {
             id: e.id, primary: e.primary, latin: e.latin, category: e.category,
+            cell_salt_number: e.cell_salt_number || null,
             n_sources: e.n_sources, has_traditional: e.has_traditional, has_evidence: e.has_evidence,
             score: Math.round(score * 10) / 10,
             db_score: Math.round(score * 10) / 10,

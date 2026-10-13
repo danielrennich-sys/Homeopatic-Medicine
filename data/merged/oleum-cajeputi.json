@@ -1,12 +1,17 @@
 {
   "id": "oleum-cajeputi",
   "names": {
-    "primary": "Oleum Cajeputi. (Cajeputi.)",
-    "latin": "Oleum Cajeputi. (Cajeputi.)",
+    "primary": "Oleum Cajeputi",
+    "latin": "Oleum Cajeputi",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Oleum Cajeputi. (Cajeputi.)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

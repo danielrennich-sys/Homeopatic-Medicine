@@ -1,14 +1,17 @@
 {
   "id": "indigofera-tinctoria",
   "names": {
-    "primary": "Indigofera tinctoria",
-    "latin": "Indigofera tinctoria",
+    "primary": "Indigofera Tinctoria",
+    "latin": "Indigofera Tinctoria",
     "common": [
       "Indigo"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

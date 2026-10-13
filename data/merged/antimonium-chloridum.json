@@ -1,12 +1,17 @@
 {
   "id": "antimonium-chloridum",
   "names": {
-    "primary": "Antimonium Chloridum. (Antimonium Muriaticum.)",
-    "latin": "Antimonium Chloridum. (Antimonium Muriaticum.)",
+    "primary": "Antimonium Chloridum",
+    "latin": "Antimonium Chloridum",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Antimonium Chloridum. (Antimonium Muriaticum.)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

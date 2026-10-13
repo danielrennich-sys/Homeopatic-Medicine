@@ -1,14 +1,18 @@
 {
   "id": "hepar-sulfuris",
   "names": {
-    "primary": "Hepar Sulfuris Calcareum",
-    "latin": "Hepar Sulfuris Calcareum",
+    "primary": "Hepar Sulfuris",
+    "latin": "Hepar Sulfuris",
     "common": [],
     "synonyms": [
+      "Hepar Sulfuris Calcareum",
       "Hepar sulfuris calcareum"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

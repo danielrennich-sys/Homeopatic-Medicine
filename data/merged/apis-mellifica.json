@@ -1,22 +1,24 @@
 {
   "id": "apis-mellifica",
   "names": {
-    "primary": "Apis",
-    "latin": "Apis",
+    "primary": "Apis Mellifica",
+    "latin": "Apis Mellifica",
     "common": [
       "The Honey-Bee",
       "Apis"
     ],
     "synonyms": [
+      "Apis",
       "Apis Mellifica. Poison of the Honey Bee (Apium virus.)",
-      "APIS MELLIFICA",
       "Apis. Apis mellifica",
-      "Apis. (Apis Mellifica.)",
-      "Apis Mellifica",
-      "Apis mellifica"
+      "Apis. (Apis Mellifica.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "mentals": [
       {
@@ -967,6 +969,12 @@
         {
           "text": "heat in any form; touch; pressure; late in afternoon; after sleeping; in closed and heated rooms. Right side",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Apis]. Motion : headaches < ; pain in eyes < ; in diarrhœa, followed by stool ; pain under scapulæ ; dull pain in abdomen < ; causes stool. Exertion increases vertigo and prostration ; shortness of breath. Dull pains in region of tumors, most on commencing to walk and on stooping. θ Swollen ovaries. Stooping : increases headache ; renal pains ; pains in ovarian tumors. Rising after sitting : pain in head < ; bruised pain in back and limbs <. Bending backward or forward : suffocation in ascites <. Obliged to bend forward in contractive pain in hypochondria. θ Ovaritis. Bending head backward relieves headaches. Bores head back into pillow in hydrocephalus. Must hold head and eyes down in chronic headaches. Ascending increases oppressed breathing in ascites. Raising arms increases tightness in ovarian region. Moves right arm now and then in tubercular meningitis. On removing boots, feet feel swollen and stiff. Lying : vertigo, extreme ; nausea in hydrocephalus ; pain violent in belly ; breathing < ; cough <. Lying on back : puffed, flushed face, difficult breathing. Lying on left side : difficult breathing in ascites ; cough worse. Recumbent posture aggravates many of the sufferings, which are > when sitting. Lying : on right side ; pain in ovaries <. Must lie down from weakness. Sitting : vertigo < ; shortness of breath in ascites >. Sitting in bed, head on hands, elbows on knee, cannot lie down, cough forces him up (oil). θ Catarrh. Obliged to remain in his chair nearly all night. θ Ascites. Attempting to sit down : pain in coccygeal region <. Inclined to sit quiet with sickly feeling in abdomen. Standing : causes more pain in ovarian tumor ; vertigo. Relief in no position in heart disease. Least movement, even that of hands, < pains in lower limbs. θ Chronic rheumatism. Chewing : pains in ears. Moving head to right side : rheumatic stitches in neck <. Walking and movement in general ameliorate many of the worst sufferings and attacks. Walks with inconvenience. θ Ascites. Going up and down-stairs quickly : difficulty of breathing with swelling of abdomen. After unusual walking and climbing up-stairs. θ Thrombosis. Walking : soreness of left ovary < ; pains in abdomen. Dyspnœa, especially after exercise. θ Chest complaint. After overexertions dropsical symptoms returned. After carrying a child during sleepless nights. θ Rheumatism of arm. Very stiff, could with difficulty stoop and rise up again on account of great hardness and swelling of legs. θ Dropsy. Lies like a skeleton in bed, and on back (oil). θ Spinal disease. Lies all the time on her back. θ Typhus. He must lie down flat on ground. Unable to lie down without panting. θ Dropsy. Inability to lie in a horizontal position. θ Hydrothorax. Unable to lie down. θ Organic disease of heart. She could not lie down. θ Dropsy after scarlatina. Had not been able to lie down for months for fear of suffocating. θ Anasarca. Night : nursing child refuses milk, not so in daytime ; squinting, trembling of eyeball ; stitches in and around eye ; difficult breathing in laryngitis ; cough ; strangling ; feet swollen and stiff ; restless, dreaming ; sleepless in erysipelas, can see better than in daytime ; irritation of urinary organs < ; frequent urination. Nocturnal sufferings, besides those dependent on sleep, are most in eye and chest. At 9 P. M. to 4 A. M. : incessant cough. Latter part of night : sleepless. Towards night : increase of weariness, copious nosebleed, rigor, headache, mucus in mouth, bellyache, urging to stool and heartburn. Always < towards morning. θ Dropsy. At 5 A. M. : heat and fever followed by shaking chill. Morning : aching at umbilicus ; diarrhœa < ; hoarseness ; sleeps till late ; dry coryza, bellyache with call to stool. In morning less disturbed ; weakened consciousness. θ Typhus. Day : stupid state in tubercular meningitis ; vomiting. Day and night : must urinate every half hour. At 3 to 4 P. M. : chill. At 4 P. M. : sudden coryza. Afternoon : fever, intermittent. Evening : tip of nose cold, with chilliness ; pain in coccygeal region < ; chill < ; fluent coryza ; very sleepy. Evening ; suffering and vertigo, headache, pain in eyes, toothache ; bellyache ; hoarseness, but most cough, shivering and heat. Before midnight : cough awakens. Before going to bed in evening a hard shivering fit. θ Chronic rheumatism. Spring : spells of vertigo. Fall : hives <. Heat of stove increases chill. Warm room : headaches < ; breathing in laryngitis and ascites < ; chill <. Heated room intolerable. Warmth of bed : rash with itching < ; breathing in laryngitis <. In-doors : sweat is increased. Open air, out-of-doors : relieves headache ; difficult respiration ; rash with itching. Inclination for open air. Shunning cold air. Uncovering relieves heat. Cold water relieves eyelids (applied locally). Worse getting wet through, but better from washing or moistening part in cold water. Cold water relieves pains, swelling and burning. Cold water, desire for washing face. Cold weather : increases asthma ; cough ; pain in chest ; rash with itching ; prostration. Changing weather increases rash with itching. Spring : spells of vertigo ; prostration. North wind : takes cold.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

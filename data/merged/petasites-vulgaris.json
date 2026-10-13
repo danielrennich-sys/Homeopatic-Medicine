@@ -1,14 +1,19 @@
 {
   "id": "petasites-vulgaris",
   "names": {
-    "primary": "Petasites vulgaris (DESF.)",
-    "latin": "Petasites vulgaris (DESF.)",
+    "primary": "Petasites Vulgaris",
+    "latin": "Petasites Vulgaris",
     "common": [
       "Butterbur"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Petasites vulgaris (DESF.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

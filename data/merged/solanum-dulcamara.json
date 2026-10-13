@@ -1,14 +1,19 @@
 {
   "id": "solanum-dulcamara",
   "names": {
-    "primary": "Solanum dulcamara (LINN.)",
-    "latin": "Solanum dulcamara (LINN.)",
+    "primary": "Solanum Dulcamara",
+    "latin": "Solanum Dulcamara",
     "common": [
       "Nightshade, Woody"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Solanum dulcamara (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

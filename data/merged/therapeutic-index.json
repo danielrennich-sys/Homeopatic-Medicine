@@ -1,12 +1,15 @@
 {
   "id": "therapeutic-index",
   "names": {
-    "primary": "Therapeutic index",
-    "latin": "Therapeutic index",
+    "primary": "Therapeutic Index",
+    "latin": "Therapeutic Index",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -1,14 +1,17 @@
 {
   "id": "symplocarpus-foetidus",
   "names": {
-    "primary": "Symplocarpus foetidus",
-    "latin": "Symplocarpus foetidus",
+    "primary": "Symplocarpus Foetidus",
+    "latin": "Symplocarpus Foetidus",
     "common": [
       "Skunk-Cabbage"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

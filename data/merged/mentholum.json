@@ -1,14 +1,17 @@
 {
   "id": "mentholum",
   "names": {
-    "primary": "MENTHOLUM",
-    "latin": "MENTHOLUM",
+    "primary": "Mentholum",
+    "latin": "Mentholum",
     "common": [
       "(MENTHOL)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

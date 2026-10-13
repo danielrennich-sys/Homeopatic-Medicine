@@ -1,14 +1,17 @@
 {
   "id": "thallium-metallicum",
   "names": {
-    "primary": "THALLIUM METALLICUM",
-    "latin": "THALLIUM METALLICUM",
+    "primary": "Thallium Metallicum",
+    "latin": "Thallium Metallicum",
     "common": [
       "The Metal Thallium (THALLIUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "extremities": [
       {

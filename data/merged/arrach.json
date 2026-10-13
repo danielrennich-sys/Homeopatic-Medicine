@@ -1,14 +1,19 @@
 {
   "id": "arrach",
   "names": {
-    "primary": "Arrach (Halberd-Leaved)",
-    "latin": "Arrach (Halberd-Leaved)",
+    "primary": "Arrach",
+    "latin": "Arrach",
     "common": [
       "Arrach (Halberd-Leaved)"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Arrach (Halberd-Leaved)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -7,14 +7,25 @@
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
+      {
+        "text": "ASTRAGALUS MENZIESII.",
+        "source_id": "allen-encyclopedia-1874"
+      },
       {
         "text": "From eating some of the green leaves J. M. Selfridge experienced: Burning in pharynx, œsophagus, stomach. Fulness right temple and right upper jaw; slight nausea, with shivering and chilliness; dizziness and fulness of the head. Later, weakness and sense of emptiness in stomach; eating relieved empty sensation, but not the weakness. Pressive pains in both temples; later, slight pain in left maxilla; and still later, aching in right maxilla, with pressure in both bones. Copyright © Médi-T ® 2000 Main",
         "source_id": "clarke-dictionary-1900"
       }
     ],
     "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T ASTRAGALUS MENZIESII. Astragalus Menziesii, Gray. Natural order , Leguminosæ. Authority. J. M. Selfridge, Trans. Pacific Hom. Med. Soc., 1874-76, p. 178. ► Ate some of the green leaves at 4.30 P.M. In fifteen minutes I experienced a slight burning sensation in pharynx, sophagus, and stomach. At 5 P.M. a feeling of fulness in right temple and superior maxillary bone; also slight nausea, accompanied with shivering and chilliness, such as frequently precede or accompany nausea; 5.20, experienced occasional attacks of dizziness, with fulness of the head; 5.45, felt weak; arms felt as if trembling; 6.30, still felt weak, with a sense of emptiness in the stomach; 7 P.M., ate a light supper, which did not remove the weakness, although the feeling of emptiness was relieved. Had a pressive pain in both temples, which lasted until 9 o'clock; 7.30, felt as if my nerves were all trembling; 9.15, had a slight pain in left superior maxillary bone, followed by a feeling of pressure, which continued but a minute or two; 9.20, aching in the right superior maxillary, with a sense of pressure in both bones; also slight pain in the masseter muscles. Restless sleep after midnight. Frequently disturbed sleep, with dreams of quarrelling. Had a stool at 7.15 A.M., an unusual hour; loose, like diarrha, with burning and tenesmus; 8 A.M., slight burning at anus, recurring occasionally; 9.15, occasional feeling of tenesmus. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
       {
         "text": "Clinical: Emptiness, sensation of; Face, bones of, painful; Headache",
         "source_id": "clarke-dictionary-1900"
@@ -24,6 +35,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "allen-encyclopedia-1874",
       "clarke-dictionary-1900"
     ]
   }

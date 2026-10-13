@@ -6,10 +6,37 @@
     "common": [
       "Bindweed, Syrian"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Convolvulus. Convolvulus scammonia"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
+    "indications": [
+      {
+        "text": "Synonym—Scammony.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—Scammony is a vermifuge and is useful in combination with other vermifuges to increase their action. It also acts as a cathartic for their removal, as its cathartic influence is of considerable importance. It is hydragogue and irritating in large doses and more or less depressing. It has a certain eliminative influence, and like podophyllum, has been given in conjunction with alteratives. It is greatly superseded in this line of action, by many other of our agents better known.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Scammony is a drastic cathartic, closely allied in its operation to Jalap; though not so nauseous, it is more active and irritating, and in inflammatory conditions of the alimentary canal should not be used. The root itself is seldom used: the resin prepared from it is generally combined with other cathartics to diminish its action and prevent griping. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
     "habitat": [
       {
         "text": "The Syrian Bindweed, or Scammony (C. Scammonia), can be grown here and will thrive well on dry soil, but we import from Smyrna and Aleppo what is needed for medicinal purposes.",
@@ -19,12 +46,6 @@
     "keynotes": [
       {
         "text": "It has flowers of a very delicate tint of sulphur yellow and leaves of a similar shape to our native species. The roots are 3 to 4 feet long and from 9 to 12 inches in circumference; tapering, covered with a light grey bark and containing a milky juice. Scammony is a gummy resin, obtained from this milky juice of the root by clearing away the earth from the upper part of the root and cutting off the top obliquely, about 2 inches below where the stalks spring. Then a vessel is fixed in such a position as to receive the exuding juice, which gradually hardens and becomes the Scammony of commerce. The best Scammony is black, resinous and shining when in the lump, but of a whitish-ash colour when powdered, with a strong cheesy smell and a somewhat acrid taste, turning milky when touched by the tongue. It occurs in commerce in irregular pieces 1 to 2 inches or more in diameter.",
-        "source_id": "grieve-modern-herbal-1931"
-      }
-    ],
-    "indications": [
-      {
-        "text": "Scammony is a drastic cathartic, closely allied in its operation to Jalap; though not so nauseous, it is more active and irritating, and in inflammatory conditions of the alimentary canal should not be used. The root itself is seldom used: the resin prepared from it is generally combined with other cathartics to diminish its action and prevent griping. [ Top ]",
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
@@ -38,6 +59,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "ellingwood-1919",
       "grieve-modern-herbal-1931"
     ]
   }

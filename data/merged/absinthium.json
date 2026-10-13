@@ -8,13 +8,16 @@
       "Absinthium"
     ],
     "synonyms": [
-      "ABSINTHIUM",
       "ABSINTHIUM (ARTEMISIA ABSINTHIUM)",
       "Absinthium (Artemisia absinthium)",
       "Absinthium (U. S. P.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

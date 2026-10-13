@@ -6,11 +6,13 @@
     "common": [
       "Red-Root"
     ],
-    "synonyms": [
-      "CEANOTHUS"
-    ]
+    "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

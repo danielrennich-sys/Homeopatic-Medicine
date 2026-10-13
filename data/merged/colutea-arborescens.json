@@ -1,14 +1,17 @@
 {
   "id": "colutea-arborescens",
   "names": {
-    "primary": "Colutea arborescens",
-    "latin": "Colutea arborescens",
+    "primary": "Colutea Arborescens",
+    "latin": "Colutea Arborescens",
     "common": [
       "Senna, Bladder"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

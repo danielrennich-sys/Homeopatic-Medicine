@@ -214,6 +214,13 @@ mark.hl b { color: #7ec8a0; font-weight: 700; }
     background: #1d3a2d; color: #7ec8a0; border: 1px solid #4a9a6e; border-radius: 6px;
     padding: 4px 10px; cursor: pointer; font-size: 0.78rem;
 }
+.draft-bar {
+    display: none; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;
+    margin-bottom: 14px; padding: 8px 12px; border-radius: 8px;
+    background: #141a21; border: 1px solid #2f3336; color: #8b8f94; font-size: 0.78rem;
+}
+.draft-bar.on { display: flex; }
+.draft-bar .link { color: #6bb3d9; cursor: pointer; }
 
 /* Modal */
 .modal-overlay {
@@ -265,6 +272,8 @@ mark.hl b { color: #7ec8a0; font-weight: 700; }
 <div class="container">
     <!-- Index loading status (written by engine.js); empty once the index is ready -->
     <div id="loadingStatus" class="hint" style="text-align:center;color:#d9a86b;margin-bottom:10px"></div>
+    <!-- Autosave notice: answers are kept in this browser's storage so a reload never loses them -->
+    <div id="draftBar" class="draft-bar"><span id="draftText"></span><span class="link" onclick="clearDraft()">Clear form</span></div>
     <!-- Progress -->
     <div class="progress-bar" id="progressBar"></div>
     <div class="step-nav" id="stepNav"></div>
@@ -857,6 +866,7 @@ function showStep(n) {
     currentStep = n;
     renderProgress();
     window.scrollTo({top: 0, behavior: 'smooth'});
+    if (typeof scheduleSave === 'function' && !restoring) scheduleSave();   // remember the step you were on
 }
 
 function nextStep() { if (currentStep < STEPS.length - 1) showStep(currentStep + 1); }
@@ -869,8 +879,11 @@ function addSymptom() {
     const template = document.querySelector('.symptom-entry').cloneNode(true);
     template.dataset.idx = idx;
     template.querySelector('.remove-btn').style.display = '';
-    // Reset values
-    template.querySelectorAll('select').forEach(s => s.selectedIndex = 0);
+    // Reset values (a multi-select must be cleared, not set to its first option)
+    template.querySelectorAll('select').forEach(s => {
+        if (s.multiple) [...s.options].forEach(o => o.selected = false);
+        else s.selectedIndex = 0;
+    });
     template.querySelectorAll('textarea').forEach(t => t.value = '');
     // Fix names
     template.querySelectorAll('[name]').forEach(el => {
@@ -881,10 +894,91 @@ function addSymptom() {
 
 function removeSymptom(btn) {
     btn.closest('.symptom-entry').remove();
+    scheduleSave();
+}
+
+// === DRAFT AUTOSAVE (this browser only) ===
+// Everything typed is saved to localStorage as you go, restored when the page
+// opens again (including added symptoms and the step you were on), and
+// removed with "Clear form". Storage can be unavailable (private windows),
+// so every access is guarded.
+const DRAFT_KEY = 'homeopathy_intake_draft';
+let draftTimer = null;
+let restoring = false;   // don't overwrite the "Restored..." notice while filling the form back in
+
+function serializeForm() {
+    const fields = {};
+    document.getElementById('intakeForm').querySelectorAll('[name]').forEach(el => {
+        if (el.type === 'checkbox') { if (el.checked) (fields[el.name] = fields[el.name] || []).push(el.value); return; }
+        if (el.tagName === 'SELECT' && el.multiple) {
+            const v = [...el.selectedOptions].map(o => o.value);
+            if (v.length) fields[el.name] = v;
+            return;
+        }
+        if (el.value !== '' && el.value != null) fields[el.name] = el.value;
+    });
+    return { savedAt: Date.now(), step: currentStep, fields };
+}
+
+function saveDraft() {
+    try {
+        const d = serializeForm();
+        if (!Object.keys(d.fields).filter(k => k !== 'severity').length) return;   // nothing typed yet
+        localStorage.setItem(DRAFT_KEY, JSON.stringify(d));
+        showDraftBar(`Your answers are saved in this browser as you type (last saved ${fmtTime(d.savedAt)}). They stay on this device only.`);
+    } catch (e) { /* storage unavailable */ }
+}
+function scheduleSave() { clearTimeout(draftTimer); draftTimer = setTimeout(saveDraft, 400); }
+
+function restoreDraft() {
+    let d;
+    try { d = JSON.parse(localStorage.getItem(DRAFT_KEY) || 'null'); } catch (e) { return false; }
+    if (!d || !d.fields || !Object.keys(d.fields).length) return false;
+    restoring = true;
+    // Re-create the extra symptom entries that were added
+    const idxs = Object.keys(d.fields).map(k => (k.match(/^sx_\w+_(\d+)$/) || [])[1]).filter(x => x != null).map(Number);
+    const maxIdx = idxs.length ? Math.max(...idxs) : 0;
+    while (symptomCount <= maxIdx) addSymptom();
+    const form = document.getElementById('intakeForm');
+    for (const [name, val] of Object.entries(d.fields)) {
+        const els = form.querySelectorAll(`[name="${CSS.escape(name)}"]`);
+        if (!els.length) continue;
+        const el = els[0];
+        if (el.type === 'checkbox') els.forEach(cb => { cb.checked = Array.isArray(val) && val.includes(cb.value); });
+        else if (el.tagName === 'SELECT' && el.multiple) [...el.options].forEach(o => { o.selected = Array.isArray(val) && val.includes(o.value); });
+        else el.value = Array.isArray(val) ? val[0] : val;
+    }
+    if (d.fields.severity) document.getElementById('severityVal').textContent = d.fields.severity;
+    if (Number.isInteger(d.step) && d.step > 0 && d.step < STEPS.length) showStep(d.step);
+    showDraftBar(`Restored the answers you entered on ${fmtTime(d.savedAt)}. They are saved in this browser as you type.`);
+    restoring = false;
+    return true;
+}
+
+function clearDraft() {
+    if (!confirm('Clear all your answers and start over?')) return;
+    try { localStorage.removeItem(DRAFT_KEY); } catch (e) { /* ignore */ }
+    const form = document.getElementById('intakeForm');
+    form.reset();
+    form.querySelectorAll('.symptom-entry').forEach((el, i) => { if (i > 0) el.remove(); });
+    symptomCount = 1;
+    document.getElementById('severityVal').textContent = '5';
+    document.getElementById('draftBar').classList.remove('on');
+    showStep(0);
+}
+
+function showDraftBar(text) {
+    document.getElementById('draftText').textContent = text;
+    document.getElementById('draftBar').classList.add('on');
+}
+function fmtTime(ts) {
+    try { return new Date(ts).toLocaleString([], { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' }); }
+    catch (e) { return ''; }
 }
 
 // === SUBMIT ===
 function submitForm() {
+    saveDraft();
     const form = document.getElementById('intakeForm');
     const data = new FormData(form);
     const payload = {};
@@ -1206,6 +1300,15 @@ function switchTab(id) {
 }
 
 init();
+
+// Autosave: restore a saved draft, then save on every change
+restoreDraft();
+{
+    const form = document.getElementById('intakeForm');
+    form.addEventListener('input', scheduleSave);
+    form.addEventListener('change', scheduleSave);
+    window.addEventListener('beforeunload', saveDraft);
+}
 
 // Load the database engine
 // The Find button stays disabled until the index is ready

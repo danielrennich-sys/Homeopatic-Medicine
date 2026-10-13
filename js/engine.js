@@ -42,7 +42,8 @@ async function loadSearchIndex() {
 
     setStatus('Loading remedy database...');
     try {
-        const resp = await fetch('data/search_index.json');
+        const resp = await fetch('data/search_index.json', { cache: 'no-cache' });
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
         searchIndex = await resp.json();
         setStatus(`Building index for ${searchIndex.length} remedies...`);
 
@@ -148,7 +149,7 @@ function keywordSearch(query, category = '', dualOnly = false, limit = 100) {
 async function loadRemedyDetail(remedyId) {
     const safeId = remedyId.toLowerCase().replace(/[^a-z0-9\-]/g, '');
     try {
-        const resp = await fetch(`data/merged/${safeId}.json`);
+        const resp = await fetch(dataUrl(`data/merged/${safeId}.json`));
         if (!resp.ok) return null;
         return await resp.json();
     } catch {
@@ -190,14 +191,38 @@ const Passages = {
     remById: new Map(),
 };
 
+/** Fetch JSON while reporting bytes received (the index is a few MB). */
+async function fetchJsonWithProgress(url, onBytes) {
+    // no-cache = revalidate with the server (a cheap 304 when unchanged), so a
+    // fresh page never pairs with a stale index after a deploy
+    const resp = await fetch(url, { cache: 'no-cache' });
+    if (!resp.ok) throw new Error(`HTTP ${resp.status} loading ${url}`);
+    if (!resp.body || !onBytes) return resp.json();
+    const reader = resp.body.getReader();
+    const chunks = [];
+    let received = 0;
+    for (;;) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        chunks.push(value);
+        received += value.length;
+        onBytes(received);
+    }
+    const all = new Uint8Array(received);
+    let pos = 0;
+    for (const c of chunks) { all.set(c, pos); pos += c.length; }
+    return JSON.parse(new TextDecoder().decode(all));
+}
+
 async function loadPassageIndex() {
     const statusEl = document.getElementById('loadingStatus');
     const setStatus = (msg) => { if (statusEl) statusEl.textContent = msg; };
-    setStatus('Loading passage index...');
+    Passages.error = '';
+    setStatus('Loading the remedy index (about 3 MB)…');
     try {
-        const resp = await fetch(PIDX_BASE + '_meta.json');
-        if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-        const meta = await resp.json();
+        const meta = await fetchJsonWithProgress(PIDX_BASE + '_meta.json',
+            n => setStatus(`Loading the remedy index… ${(n / 1048576).toFixed(1)} MB received`));
+        setStatus('Preparing the index…');
         const n = meta.n;
         const pRem = new Int32Array(n), pItem = new Int32Array(n);
         const pStart = new Int32Array(n), pLen = new Int32Array(n);
@@ -223,13 +248,21 @@ async function loadPassageIndex() {
         meta.remedies.forEach((r, i) => Passages.remById.set(r.id, i));
         Passages.ready = true;
         setStatus('');
-        console.log(`Passage index: ${n} passages over ${meta.remedies.length} remedies`);
+        console.log(`Passage index: ${n} passages over ${meta.remedies.length} remedies (build ${meta.build || '?'})`);
         return true;
     } catch (err) {
-        setStatus('Error loading passage index: ' + err.message);
+        Passages.error = err.message;
+        setStatus('Could not load the remedy index (' + err.message + '). Please reload the page to try again.');
         console.error('Failed to load passage index:', err);
         return false;
     }
+}
+
+// Data files are versioned by the index build so a cached shard or remedy
+// file from a previous deploy is never used with a newer index.
+function dataUrl(path) {
+    const build = Passages.meta && Passages.meta.build;
+    return build ? `${path}?v=${build}` : path;
 }
 
 // --- Tokenizer. MUST match scripts/build_passage_index.py ---
@@ -291,7 +324,7 @@ async function getPostings(stem) {
     const shard = Passages.shards3.has(stem.slice(0, 3)) ? stem.slice(0, 3) : stem.slice(0, 2);
     if (!Passages.shardCache.has(shard)) {
         Passages.shardCache.set(shard,
-            fetch(PIDX_BASE + shard + '.json').then(r => r.ok ? r.json() : {}).catch(() => ({})));
+            fetch(dataUrl(PIDX_BASE + shard + '.json')).then(r => r.ok ? r.json() : {}).catch(() => ({})));
     }
     const obj = await Passages.shardCache.get(shard);
     const enc = obj[stem];
@@ -1026,6 +1059,7 @@ window.HomeopathyDB = {
     foldText,
     get ready() { return dataReady; },
     get passagesReady() { return Passages.ready; },
+    get passagesError() { return Passages.error || ''; },
     get remedyCount() { return Passages.ready ? Passages.meta.remedies.length : searchIndex.length; },
     get passageCount() { return Passages.ready ? Passages.meta.n : 0; },
 };

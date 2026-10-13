@@ -1,13 +1,198 @@
 {
   "id": "tarentula-hispana",
   "names": {
-    "primary": "Tarentula hispana",
-    "latin": "Tarentula hispana",
+    "primary": "Tarentula Hispana",
+    "latin": "Tarentula Hispana",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
+    "repertory": [
+      {
+        "text": "Time: Time, periodically, yearly, agg.; Time, evening, agg., 7 P.M..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Cold, of single parts; as hands in cold water, of head, feet, etc. agg.; Foods, drink, tobacco, amel.; Hair, combing or brushing, agg.; Lying, on hands and knees, amel.; Motion, rapid, violent, (running, dancing, etc.) amel.; Motion, slow, gentle, etc., amel.; Music, amel.; Rubbing, stroking, etc., amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Generalities: Injury.); Carphology, one spot, lips, fingers, etc.; Hardness, induration; Mind.).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Mind: Alternations.); Mind, deceit, duplicity, lying, tricky, etc.; Motion, rapid, amel.); Mind, malice, hatred; Mind, moral perversions; Mind, profanity; Generalities.).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mind"
+      },
+      {
+        "text": "Head: Head, blow, shock, thrust, etc. as of a; Head, coldness.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Head"
+      },
+      {
+        "text": "External Head ; Bones And Scalp: External head; bones and scalp, hair, pulls her; External head; bones and scalp, rolling of.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "External Head ; Bones And Scalp"
+      },
+      {
+        "text": "Face: Face, pale, linea nasalis.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Face"
+      },
+      {
+        "text": "Mouth And Throat: Mouth and throat, right; Mouth and throat, tonsils, suppurating.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mouth And Throat"
+      },
+      {
+        "text": "Appetite: Appetite, craves, coarse, raw food, chalk, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Appetite"
+      },
+      {
+        "text": "Micturition: Micturition, difficult, in presence of others.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Micturition"
+      },
+      {
+        "text": "Female Organs: Female organs, itching.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Female Organs"
+      },
+      {
+        "text": "Respiration: Respiration.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Respiration"
+      },
+      {
+        "text": "Heart, Circulation And Pulse: Heart, circulation and pulse, arms, left, to; Heart, circulation and pulse, valves.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Heart, Circulation And Pulse"
+      },
+      {
+        "text": "Upper Limbs: Upper limbs, restless.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Upper Limbs"
+      },
+      {
+        "text": "Skin: Hæmorrhages.); Skin, eruptions, impetigo.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Skin"
+      },
+      {
+        "text": "Aaa: Active, agile; Air, open, amel.; Albuminous, clear; Alternations, contraction and relaxation; Arms, restless.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Blood; Bones, sawing; Brain, needles; Burning, stinging.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Carbuncle; Carphology; Cellular tissue; Chest, spine, pressure, agg.; Chorea; Control, lacks; Cough, noise, agg.; Cough, smoking, amel.; Crafty; Craves, coarse or raw food; Craves, condiments, spices, pickles, etc.; Cunning, deceit; Cupped.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Death, agony.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Fff: Face, emaciated; Face, red; Face, swollen; Fear, approach; Festination; Fidgety; Fingers, tips, sensitive; Foot, sweat, cold.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Ggg: Gangrene; Genitals, dry; Genitals, heat; Genitals, raw; Genitals, sensitive; Genitals, swelled.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Hair, pulls the; Hands, clammy; Hands, restless, busy; Hands, tremble; Hateful; Head, left to face and neck; Heart; Heart, arms, to left; Heart, hands over; Heart, spine, touch, agg.; Heart, turns over, twists, etc.; Heat, feet, cold, with; Heat, pungent, glowing; Hysteria [[mind]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Iii: Insanity, craziness.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      },
+      {
+        "text": "Kkk: Kleptomania.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Kkk"
+      },
+      {
+        "text": "Lll: Laughs, screams then; Legs, restless; Legs, twitching; Leucorrha, lumpy, curdy; Leucorrha, lumpy, clear; Leucorrha, sticky; Lips, picking at; Lying, on it, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Mmm: Malignancy; Malingering; Menses, itching [[causing]]; Menses, painful, more flow more pain; Motion, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Noise [[agg.]]; Numb, painless, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ooo: Occiput, blow on [[as of]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ooo"
+      },
+      {
+        "text": "Ppp: Palms, abscess; Paralysis, spasms then; Pelvis, heavy; Periodicity; Periodicity, exact; Prickling.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Rrr: Relaxation, amel.; Respiration, cough, agg.; Respiration, difficult, short.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Self, torture; Semen, hot; Sensitive, susceptible, etc.; Sepsis; Sly; Soles, itch; Spasm; Spots, cold; Stomach, anxiety, emotions; Stool, oily; Suppuration, deep; Sweat, acrid; Sweat, profuse, drenching; Synalgias.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Tears, thick.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Ulcer, bluish; Ulcer, deep; Urine, sediment, sand; Uterus, burning; Uterus, motions in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vagina, dry; Vagina, heat; Vagina, raw; Vagina, scratching, agg.; Vertigo, spasm.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Www: Walk, must.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      },
+      {
+        "text": "General Analysis: CHILLED, cold becoming, while hot, by ices, uncovering a part, as head, hand-hands, etc. in cold water, etc.., Agg.; HARDNESS.",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
+    ],
     "keynotes": [
       {
         "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
@@ -330,6 +515,8 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
       "kent-lectures-1905"
     ]
   }

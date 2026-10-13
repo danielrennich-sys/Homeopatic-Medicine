@@ -1,17 +1,17 @@
 {
   "id": "ocimum-canum",
   "names": {
-    "primary": "OCIMUM CANUM",
-    "latin": "OCIMUM CANUM",
+    "primary": "Ocimum Canum",
+    "latin": "Ocimum Canum",
     "common": [
       "Brazilian Alfavaca"
     ],
-    "synonyms": [
-      "Ocimum Canum",
-      "Ocimum canum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "urinary": [
       {
@@ -108,6 +108,43 @@
         "text": "Is sudorific. Used in bilious remittent fevers. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Generalities: Calculi, atheroma, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Urinary Organs: Urinary organs, kidneys, right; Urinary organs, ureters.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Urinary Organs"
+      },
+      {
+        "text": "Ggg: Glands, inguinal.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Kkk: Kidneys, colic.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Kkk"
+      },
+      {
+        "text": "Mmm: Mammæ.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Uuu: Ureters, sore.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "General Analysis: CALCULI, atheroma, etc..",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
     ]
   },
   "evidence": {},
@@ -115,6 +152,8 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
       "lippe-textbook-mm-1866",
       "nash-leaders-1899"
     ]

@@ -1,12 +1,17 @@
 {
   "id": "rhodium-oxydatum",
   "names": {
-    "primary": "Rhodium Oxydatum Nitricum",
-    "latin": "Rhodium Oxydatum Nitricum",
+    "primary": "Rhodium Oxydatum",
+    "latin": "Rhodium Oxydatum",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Rhodium Oxydatum Nitricum"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

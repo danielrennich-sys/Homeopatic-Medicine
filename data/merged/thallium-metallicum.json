@@ -1,14 +1,17 @@
 {
   "id": "thallium-metallicum",
   "names": {
-    "primary": "THALLIUM METALLICUM",
-    "latin": "THALLIUM METALLICUM",
+    "primary": "Thallium Metallicum",
+    "latin": "Thallium Metallicum",
     "common": [
       "The Metal Thallium (THALLIUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "extremities": [
       {
@@ -24,12 +27,20 @@
         "text": "color=\"#800000\">THALLIUM METALLICUM The Metal Thallium (THALLIUM) Thallium seems to influence the endocrines, especially the thyroid and adrenaline. Most horrible neuralgic, spasmodic, shooting pains. Muscular atrophy. Tremors. Relieves the violent pains in locomotor ataxia. Paralysis of lower limbs. Pain in stomach and bowels, like electric shocks. Paraplegia. Alopecia following acute, exhausting diseases. Night sweats. Polyneuritis. Dermal trophic lesions.",
         "source_id": "boericke-1927"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Ttt: Toes, thighs to.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "boericke-1927"
+      "boericke-1927",
+      "boger-synoptic-key-1915"
     ]
   }
 }

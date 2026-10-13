@@ -1,14 +1,19 @@
 {
   "id": "iris-pseudacorus",
   "names": {
-    "primary": "Iris Pseudacorus (LINN.)",
-    "latin": "Iris Pseudacorus (LINN.)",
+    "primary": "Iris Pseudacorus",
+    "latin": "Iris Pseudacorus",
     "common": [
       "Iris Pseudacorus"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Iris Pseudacorus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

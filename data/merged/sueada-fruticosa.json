@@ -1,14 +1,17 @@
 {
   "id": "sueada-fruticosa",
   "names": {
-    "primary": "Sueada fruticosa",
-    "latin": "Sueada fruticosa",
+    "primary": "Sueada Fruticosa",
+    "latin": "Sueada Fruticosa",
     "common": [
       "Blite, Sea"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

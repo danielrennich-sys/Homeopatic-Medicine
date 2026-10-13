@@ -4,11 +4,12 @@
     "primary": "Dolichos",
     "latin": "Dolichos",
     "common": [],
-    "synonyms": [
-      "DOLICHOS"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -22,6 +23,10 @@
       {
         "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T DOLICHOS Intense itching of the skin with no appearance of swelling or rash . Constipation with this intense itch, but no rash. Jaundice, yellow in spots or all over, and itching excessively at night. Copyright © Médi-T 2000",
         "source_id": "guernsey-keynotes-1887"
+      },
+      {
+        "text": "Main Condensed Materia Medica. By Constantine Hering. Presented by Médi-T . DOLICHOS. [Dolich.] Cowhage. Jeanes. Leguminosæ. [ 5 ] * [ 10 ] * [ 13 ] * [ 20 ] * [ 27 ] * [ 43 ] * [ 46 ] * [ 48 ] [5] Eyes. ► Eyes yellow. θ Jaundice. [10] Teeth. ► Soreness and tenderness of gums, in teething children. ► Gums swollen ; neuralgic pains in them, worse at night. [13] Throat. ► Pain, like a splinter, near and right tonsil, worse when swallowing. [20] Stool, etc. ► Constipation during teething or pregnancy. ► White stools. θ Jaundice. [27] Cough. ► On lying down at night. [43] Sensations. ► Neuralgic pains following herpes zoster. [46] Skin. ► Violent itching all over body, without any visible eruption. θ Constipation during pregnancy. θ Jaundice. ► Dry, tettery eruption on arms and limbs, resembling zona. [48] Relationship. ► In teething affections, if feverish symptoms exist, always give a dose of Acon . before the Dolich . ; where this precaution has been neglected, convulsions have followed the use of even the high potencies. Copyright © Médi-T 2005. Main",
+        "source_id": "hering-condensed-mm-1877"
       }
     ],
     "generalities": [
@@ -81,7 +86,8 @@
     "sources": [
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
-      "guernsey-keynotes-1887"
+      "guernsey-keynotes-1887",
+      "hering-condensed-mm-1877"
     ]
   }
 }

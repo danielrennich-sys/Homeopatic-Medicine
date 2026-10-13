@@ -4,17 +4,20 @@
     "primary": "Ferrum Sulphuricum",
     "latin": "Ferrum Sulphuricum",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Ferrum Sulfuricum"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
-    "keynotes": [
-      {
-        "text": "Ferr. sul. has the leading features of the other Ferrums, but many of the Sulphur characters appear, in the modalities especially. There is from warmth or warm room (toothache); > from cold air or from ice (toothache) or from fresh air. It is like Sulph. also in acidity and eructations of food in particles. Other noteworthy symptoms are: Passive hæmorrhages. Pain in gall-bladder. Pallor or flushing. Sensation as if all the blood were rushing into head and face. Sensation of fermentation or purring in stomach. Feeling of general heat and disposition to sweat, with sensation in skin of back as if he wore a stout woollen shirt. Muscular pains or contractions. Local atony; disposition to congestions; nettlerash; aphthæ; eczema, with sluggish liver.",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
     "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T FERRUM SULFURICUM. Ferrous sulphate; SO 3 FeO 7 H 2 O, Iron or green vitriol, Copperas. Preparation , Trituration with sugar of milk. Authority. O. A. Moore, effects on a boy aged 14 years, of picking, for three days, the crystals from strings, in a vessel where it was placed to crystallize; Lond. Med. Gaz., N. S. (1841-2), 2, 231. ► Headache. ► Sickness, which continued for two hours, during which he vomited two or three times. ► Colicky pains in abdomen. ► Contractions in arms, hands, and feet. Arms bent at elbows, and fingers drawn towards forearm by flexure of wrist. ► Knees slightly flexed; toes drawn upwards rigidly towards ankle. Hands yield to forcible extension, but immediately return to same condition. ► Limbs very painful, especially the feet and calves, where the pain was \"distracting.\" SUPPLEMENT: FERRUM SULFURICUM. Authority. 2 , M. P. Limousin, Lamothe, Annal. d'Hyg., Jan. 1851 (Pharm. Journ., vol. xi, 1851-52, p. 84), a man named Matet was poisoned by an unknown quantity. ► Groaning, [2] . ► Vomiting, [2] . ► Complained of a pain in his side, [2] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
       {
         "text": "Clinical: Aphthæ; Bulimy; Cardialgia; Chorea; Constipation; Diarrhœa; Eczema; Gall-bladder, pain in; Gastritis; Gonorrhœa; Hæmorrhages; Headache; Helminthiasis; Menorrhagia; Nettlerash; Scrofula; Spasms; Toothache; Worms",
         "source_id": "clarke-dictionary-1900"
@@ -26,6 +29,12 @@
       {
         "text": "Chorea. Right : pain shooting down side of back. Left : pain in sole of foot. As if all the blood were rushing into head and face ; sensation of fermentation, or of a noise or movement like purring of a cat in region of stomach ; sensation on skin of back as if he wore a stout woolen shirt. Pain : in head ; in walls of meatus auditorius externus ; after eating ; in region of gall-bladder ; in abdomen ; shooting down right side of back ; in sole of foot ; in middle of thick, fleshy part ; in lower limbs. Distracting pain : in feet and calves. Tearing pain : in tooth. Colicky pains : in abdomen. Throbbing : forehead. Aching pain : through lower part of leg. Smarting : in throat. Burning : in head. Soreness : of soft palate. Feeling of general heat. Dull pain : through head ; in upper part of forehead. Contractions : in arms ; hands ; in feet. Pressing : forehead. Confusion : of head. Ringing : in ears. Heaviness : in upper part of forehead. Emaciation. θ Diarrhœa. (OBS :) Local atony ; disposition to congestions, nettle-rash, aphthæ. (OBS :) Relaxed condition of ligaments ; joints easily dislocated ; hernia. Passive bloody or mucous flux, from genitals or alimentary canal. Hydrops ; scrofula. Boy, æt. thirteen months ; diarrhœa.",
         "source_id": "hering-guiding-1879"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Ferr. sul. has the leading features of the other Ferrums, but many of the Sulphur characters appear, in the modalities especially. There is from warmth or warm room (toothache); > from cold air or from ice (toothache) or from fresh air. It is like Sulph. also in acidity and eructations of food in particles. Other noteworthy symptoms are: Passive hæmorrhages. Pain in gall-bladder. Pallor or flushing. Sensation as if all the blood were rushing into head and face. Sensation of fermentation or purring in stomach. Feeling of general heat and disposition to sweat, with sensation in skin of back as if he wore a stout woollen shirt. Muscular pains or contractions. Local atony; disposition to congestions; nettlerash; aphthæ; eczema, with sluggish liver.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "relationships": {
@@ -160,6 +169,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "allen-encyclopedia-1874",
       "clarke-dictionary-1900",
       "hering-guiding-1879"
     ]

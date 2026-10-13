@@ -1,14 +1,17 @@
 {
   "id": "momordica-balsamina",
   "names": {
-    "primary": "Momordica balsamina",
-    "latin": "Momordica balsamina",
+    "primary": "Momordica Balsamina",
+    "latin": "Momordica Balsamina",
     "common": [
       "Apple (Balsam)"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

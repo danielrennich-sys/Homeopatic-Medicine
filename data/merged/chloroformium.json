@@ -1,14 +1,17 @@
 {
   "id": "chloroformium",
   "names": {
-    "primary": "CHLOROFORMIUM",
-    "latin": "CHLOROFORMIUM",
+    "primary": "Chloroformium",
+    "latin": "Chloroformium",
     "common": [
       "Chloroform (CHLOROFORMUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

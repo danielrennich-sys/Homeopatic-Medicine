@@ -1,14 +1,17 @@
 {
   "id": "ammonium-valerianicum",
   "names": {
-    "primary": "AMMONIUM VALERIANICUM",
-    "latin": "AMMONIUM VALERIANICUM",
+    "primary": "Ammonium Valerianicum",
+    "latin": "Ammonium Valerianicum",
     "common": [
       "Valerianate of Ammonia"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "chest_heart": [
       {

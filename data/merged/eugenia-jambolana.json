@@ -1,14 +1,19 @@
 {
   "id": "eugenia-jambolana",
   "names": {
-    "primary": "Eugenia Jambolana (LANK,)",
-    "latin": "Eugenia Jambolana (LANK,)",
+    "primary": "Eugenia Jambolana",
+    "latin": "Eugenia Jambolana",
     "common": [
       "Jambul"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Eugenia Jambolana (LANK,)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

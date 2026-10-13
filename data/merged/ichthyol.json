@@ -6,8 +6,19 @@
     "common": [],
     "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
+    "repertory": [
+      {
+        "text": "Nnn: Nose, discharges, cold.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      }
+    ],
     "indications": [
       {
         "text": "Other tomes: --",
@@ -58,6 +69,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "boger-synoptic-key-1915",
       "ellingwood-1919"
     ]
   }

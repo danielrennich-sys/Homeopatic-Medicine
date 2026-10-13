@@ -1,14 +1,19 @@
 {
   "id": "strophanthus-kombe",
   "names": {
-    "primary": "Strophanthus Kombé (OLIV.)",
-    "latin": "Strophanthus Kombé (OLIV.)",
+    "primary": "Strophanthus Kombe",
+    "latin": "Strophanthus Kombe",
     "common": [
       "Strophanthus"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Strophanthus Kombé (OLIV.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

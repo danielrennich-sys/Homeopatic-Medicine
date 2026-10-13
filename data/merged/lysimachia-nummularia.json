@@ -1,14 +1,19 @@
 {
   "id": "lysimachia-nummularia",
   "names": {
-    "primary": "Lysimachia nummularia (LINN.)",
-    "latin": "Lysimachia nummularia (LINN.)",
+    "primary": "Lysimachia Nummularia",
+    "latin": "Lysimachia Nummularia",
     "common": [
       "Moneywort"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Lysimachia nummularia (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

@@ -5,14 +5,18 @@
     "latin": "Asimina Triloba",
     "common": [
       "American Papaw",
-      "Papaw Seeds"
+      "Papaw Seeds",
+      "Papaw"
     ],
     "synonyms": [
-      "ASIMINA TRILOBA",
-      "Asimina triloba"
+      "Asimina"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -41,6 +45,10 @@
       }
     ],
     "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Asimina Triloba. The Papaw, a small tree growing in the south and Southwest of the United States, ripens a fleshy fruit, which is edible when ripe. A tincture is prepared from the crushed seeds. The cutaneous disturbance (and fever) were caused by eating the skin of the fruit. Compare Anacardium, Rhus t., Cocculus . ► Languid and pale. ► Discomfort all day. ► Did not care to converse, even with his best friends. ► Headache ; morning on waking ; became general through frontal region after walking in open air and somewhat relieved. ► Aching in temples ; morning on rising, involving eye, with occasional sharp pain over it, which was agg. by a single cough. ► Throat sore, but not so much so as the hoarseness would indicate. ► Stomach felt increased in size ; soreness on pressure. ► Colic. ► Rumbling pain in abdomen in evening, with desire for stool, then a peppy, insufficient stool. ► Soreness in abdomen, agg. pressure. ► Pain in left hypochondrium. ► Rectum and bowels inactive. ► Insufficient stool. ► Hoarseness ; with unusual difficulty in talking, seeming as if mucus membrane were thickened, and organs slow to respond to efforts of speech. ► Cough slight and dry. ► Aching pain in upper part of chest, agg. left side ; in upper part of left lung. ► Lower end of sternum sore on pressure. ► Pain in left shoulder, involving pectoral muscles. ► Sharp pain in left hip-joint at 10.30 A.M ., and in evening. ► Eyes red, burning and smarting, lids swollen, and face covered with pale red eruption, with some swelling of integument and with much smarting and burning, if allowed to run its course watery vesicles form, which coalesce, burst and form large dark crusts, but on this occasion, after Rhus tox . 3d, the eruption did not form crusts and subsided in a few days, when the stomach became tender to touch, as if \"sore inside,\" for three days, with bloating, then amel. by appearance of dry, papular eruption in patches over body and extremities, with now and then a watery vesicle, and with intense itching and burning, agg. scratching and heat, amel. cold air and cold water, the eruption beginning with a red, itching, burning point, after scratching and rubbing a blotch like hives, the itching agg. from early in evening till after rising in morning, the poisoning has followed this course several times, it began this time on left cheek. ► Waking about daylight, unrefreshed, with headache. ► Did not rest well at night, turned and moved all night, could not dismiss from my thoughts what had occurred during the day, and got up unrefreshed. ► Fever, with vomiting of ingesta, scarlet eruption, pulse rapid, full and steady, fauces red and swollen, tonsils and submaxillary glands enlarged, yellowish diarrha, frontal headache, soreness of throat and nausea, afterwards desquamation of cuticle and a carbuncle on anterior aspect of thigh, the eruption fever and diarrha being much like some cases of scarlet fever, and the diarrha lasting much longer than the other symptoms, all the other children had the eruption on neck and upper limbs. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
       {
         "text": "color=\"#800000\">ASIMINA TRILOBA American Papaw Produces a series of symptoms much like scarlet fever; sore throat, fever, vomiting, scarlet eruption; tonsils and submaxillary glands enlarged, with diarrhœa. Fauces red and swollen, face swollen. Desire for ice-cold things. Hoarseness. Languid, drowsy irritable. Acne. Itching in evening on undressing.",
         "source_id": "boericke-1927"
@@ -150,6 +158,34 @@
       {
         "text": "Emetic, for which a saturated tincture of the bruised seeds is employed, dose, 10 to 60 drops. The bark is a bitter tonic and is said to contain a powerful acid, the leaves are used as an application to boils and ulcers.",
         "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Related entry: Carica Papaya.—Papaw",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The seed of Asimina triloba, Dunal (Anona triloba, Linné; Orchidocarpum arietinum, Michaux; Porcelia triloba, Persoon; Uvaria triloba, Torrey and Gray). Nat. Ord.—Anonaceae. COMMON NAMES: Papaw, Pawpaw, Asiminer (Louisiana), American custardapple. ILLUSTRATION: Lloyd's Drugs and Medicines of North America, Vol. II, plate xxxiii.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—This is a small and beautiful indigenous tree, growing from 10 to 20 feet high. The young shoots and expanding leaves are clothed with a rusty down, soon glabrous. The leaves are thin, smooth, entire, ovate-oblong, acuminate, 8 to 12 inches long, by 3 or 4 broad, tapering to very short petioles. The flowers are dull-purple, axillary, and solitary; the petals veiny, round-ovate, the outer ones orbicular, and three or four times as large as the calyx. The flowers appear early with the leaves (which are then small), and are about 1 ½ inch wide. The fruit is a yellowish, ovoid oblong, pulpy pod, 2 or 3 inches long by about 1 inch in diameter, fragrant, sweet, edible in autumn, and contains about 8 seeds (W.—G.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History.—The papaw (sometimes improperly called the American custard-apple tree) is an inhabitant of the Middle, Southern, and Western States, growing in rich soil, and on the banks of streams, and flowering from March to June. The fruit is large and fleshy, and has an unpleasant odor, but when ripe and after frost, the pulp is sweet, luscious, and yellow, similar to custard; it is considered a healthy fruit, and is sedative and laxative. The seeds, which are the parts used, have a fetid odor, similar to stramonium; they are covered with a tough, hard, exterior coat, of a light-brownish color and smooth externally, lighter and wrinkled internally, inclosing a kernel of a whitish-yellow color, compressed, deeply fissured on both sides, nearly inodorous, very faintly bitter and sweetish, and dry and branny when chewed, leaving a very persistent, faint, but rather unpleasant sensation of nausea. They are of various shapes, being flat, ovoid, nearly circular, or somewhat reniform, with a longitudinal furrow or depression along the center of each of the flat surfaces, and frequently a ridge or elevation instead of the furrow. They yield their properties to alcohol. This fruit must not be confounded with the true papaw, from the Carica Papaya, an American tropical plant, whose fruit is the true custard-apple.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chemical Composition.—The only chemical investigation of papaw seeds that we are aware of has been made by Prof. J. U. Lloyd, who isolated therefrom an alkaloid exhibiting anodyne properties, and to which he gave the name asiminine.It occurs as a white, tasteless, and colorless, amorphous alkaloid. In water it is practically insoluble, though it freely dissolves in alcohol and ether, and less readily in chloroform and benzol. Its soluble salts, and most of them are freely soluble in water, are bitter. Diluted alkalies precipitate the alkaloid from such solutions. The hydrochlorate, the salt most available for medicinal use, forms beautiful crystalline squares, or \"interlocked sections of cubes,\" odorless, white, \"at first sweetish, then bitter, leaving a bitter after-taste.\" Crystalline laminae are the forms assumed by the sulphate. Nitric acid strikes with it a carmine red, quickly changing to deep-black purple. The reaction is delicate, and should be differentiated from morphine, in that its color is not blood-red, and that it deepens to purple, and finally to dark red. It does not become lighter in color, nor does it turn yellow when treated with nitric acid. All parts of the asimina tree yield a fetid, volatile oil, and bitter extractive was obtained from the bark (see Lloyd's Drugs and Medicines of North America, Vol. II, pp. 54, 55).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Uses, and Dosage.—Emetic, for which purpose a saturated tincture of the bruised seeds is employed, in doses of from 10 to 60 drops. The bark is said to be a bitter tonic, and has been used as such in domestic practice. The medical properties of this agent have not been fully investigated.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
       }
     ],
     "mental_emotional": [
@@ -211,10 +247,12 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "boericke-1927",
       "clarke-dictionary-1900",
       "grieve-modern-herbal-1931",
-      "hering-guiding-1879"
+      "hering-guiding-1879",
+      "kings-american-1898"
     ]
   }
 }

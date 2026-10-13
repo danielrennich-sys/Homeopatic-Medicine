@@ -1,14 +1,19 @@
 {
   "id": "southernwood",
   "names": {
-    "primary": "Southernwood, Field",
-    "latin": "Southernwood, Field",
+    "primary": "Southernwood",
+    "latin": "Southernwood",
     "common": [
       "Southernwood, Field"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Southernwood, Field"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

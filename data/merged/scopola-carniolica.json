@@ -1,14 +1,19 @@
 {
   "id": "scopola-carniolica",
   "names": {
-    "primary": "Scopola carniolica (JACQ.)",
-    "latin": "Scopola carniolica (JACQ.)",
+    "primary": "Scopola Carniolica",
+    "latin": "Scopola Carniolica",
     "common": [
       "Scopolia"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Scopola carniolica (JACQ.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

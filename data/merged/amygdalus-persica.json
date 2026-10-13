@@ -1,16 +1,20 @@
 {
   "id": "amygdalus-persica",
   "names": {
-    "primary": "AMYGDALUS PERSICA",
-    "latin": "AMYGDALUS PERSICA",
+    "primary": "Amygdalus Persica",
+    "latin": "Amygdalus Persica",
     "common": [
       "Peach Tree"
     ],
     "synonyms": [
-      "Amygdalus Persica"
+      "Amygdalus. Amygdalus persica"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Fresh infusion or mother tincture"
@@ -22,6 +26,22 @@
       }
     ],
     "indications": [
+      {
+        "text": "Synonym—The Peach Tree.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—The older physicians suggested this remedy as specific to irritation in the stomach, with persistent nausea and vomiting, especially valuable in childhood where the tongue was elongated and pointed, the edges red and the stomach tender on pressure. It has invariably disappointed the author, but other physicians use it with much confidence. it is said to relieve nervous vomiting and the vomiting of pregnancy, and the persistent vomiting of cholera infantum. It is sometimes best given in strong infusion of the bark of the green twigs. The influence claimed for this by Scudder has not been confirmed by more recent observers.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
       {
         "text": "The leaves and bark of the twigs of Amygdalus Persica, Linné (Nat. Ord. Rosaceae). Native to Persia. Cultivated everywhere.Common Name: Peach tree.",
         "source_id": "felter-eclectic-1922"
@@ -80,6 +100,7 @@
   "provenance": {
     "sources": [
       "boericke-1927",
+      "ellingwood-1919",
       "felter-eclectic-1922",
       "kings-american-1898"
     ]

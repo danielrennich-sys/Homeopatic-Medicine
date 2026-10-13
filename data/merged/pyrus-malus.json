@@ -1,14 +1,17 @@
 {
   "id": "pyrus-malus",
   "names": {
-    "primary": "Pyrus malus",
-    "latin": "Pyrus malus",
+    "primary": "Pyrus Malus",
+    "latin": "Pyrus Malus",
     "common": [
       "Apple"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

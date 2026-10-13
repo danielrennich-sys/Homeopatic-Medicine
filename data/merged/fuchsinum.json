@@ -1,14 +1,19 @@
 {
   "id": "fuchsinum",
   "names": {
-    "primary": "FUCHSINUM",
-    "latin": "FUCHSINUM",
+    "primary": "Fuchsinum",
+    "latin": "Fuchsinum",
     "common": [
       "A Coloring Substance Used in Adulteration of Wine (FUCHSINA - MAGENTA)"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Fuchsin"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "6x to 30th potency"
@@ -18,12 +23,19 @@
         "text": "color=\"#800000\">FUCHSINUM A Coloring Substance Used in Adulteration of Wine (FUCHSINA - MAGENTA) Produces redness of ears, deep red discoloration of mouth swollen gums, with burning and tendency to salivation; deep red urine, albuminous, and light red, profuse diarrhœa, with abdominal pains. Cortical substance of kidneys degenerated. Useful in cortical nephritis with albuminuria.",
         "source_id": "boericke-1927"
       }
+    ],
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T FUCHSIN. Dr. Charvet, Annals d'Hyg. Pub., 1863, vol. xxii, p. 281, effects on workers. [This long and detailed account, filling some thirty pages in the original cannot be accepted as pure effects of anilin-red, since the admixture of Arsenic in appreciable quantities throws great doubt upon the origin of many symptoms. -T. F. A.] Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "boericke-1927"
+      "boericke-1927",
+      "allen-encyclopedia-1874"
     ]
   }
 }

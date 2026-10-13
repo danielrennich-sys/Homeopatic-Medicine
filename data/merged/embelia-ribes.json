@@ -1,14 +1,19 @@
 {
   "id": "embelia-ribes",
   "names": {
-    "primary": "Embelia Ribes and robusta (BURM.)",
-    "latin": "Embelia Ribes and robusta (BURM.)",
+    "primary": "Embelia Ribes",
+    "latin": "Embelia Ribes",
     "common": [
       "Embelia"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Embelia Ribes and robusta (BURM.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

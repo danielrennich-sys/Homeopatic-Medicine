@@ -1,14 +1,17 @@
 {
   "id": "polygonum-fagopyrum",
   "names": {
-    "primary": "Polygonum fagopyrum",
-    "latin": "Polygonum fagopyrum",
+    "primary": "Polygonum Fagopyrum",
+    "latin": "Polygonum Fagopyrum",
     "common": [
       "Buckwheat"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

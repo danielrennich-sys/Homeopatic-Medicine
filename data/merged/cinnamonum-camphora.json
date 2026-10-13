@@ -1,14 +1,19 @@
 {
   "id": "cinnamonum-camphora",
   "names": {
-    "primary": "Cinnamonum camphora (T. NEES and EBERM.)",
-    "latin": "Cinnamonum camphora (T. NEES and EBERM.)",
+    "primary": "Cinnamonum Camphora",
+    "latin": "Cinnamonum Camphora",
     "common": [
       "Camphor"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Cinnamonum camphora (T. NEES and EBERM.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

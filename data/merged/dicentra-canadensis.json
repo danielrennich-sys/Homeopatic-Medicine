@@ -1,14 +1,19 @@
 {
   "id": "dicentra-canadensis",
   "names": {
-    "primary": "Dicentra Canadensis (D.C.)",
-    "latin": "Dicentra Canadensis (D.C.)",
+    "primary": "Dicentra Canadensis",
+    "latin": "Dicentra Canadensis",
     "common": [
       "Turkey Corn"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Dicentra Canadensis (D.C.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

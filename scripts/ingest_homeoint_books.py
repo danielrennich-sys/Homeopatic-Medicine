@@ -38,8 +38,13 @@ import urllib.request
 from html import unescape
 from pathlib import Path
 
+import os
+
 ROOT = Path(__file__).resolve().parents[1]
-PROCESSED_DIR = ROOT / "data" / "processed"
+# Overridable so the ingest can be run from a worktree against the main
+# checkout's (gitignored) data directories.
+PROCESSED_DIR = Path(os.environ.get("HOMEO_PROCESSED_DIR", ROOT / "data" / "processed"))
+RAW_ROOT = Path(os.environ.get("HOMEO_RAW_DIR", ROOT / "data" / "raw"))
 PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
 CTX = ssl.create_default_context()
@@ -102,18 +107,39 @@ def clean_text(s: str) -> str:
 
 
 def parse_index(html: str) -> list[str]:
-    """Return slug names (no .htm) for entries in this book."""
-    pat = re.compile(r'href="([a-z][a-z0-9_\-]*)\.htm"', re.IGNORECASE)
+    """Return slug names (no .htm) for entries in this book.
+
+    Slugs may live in a letter sub-directory ("a/abies-c"): Allen's Handbook
+    and Hering's Condensed MM link index.htm -> a.htm -> a/abies-c.htm.
+    """
+    pat = re.compile(r'href="((?:[a-z]/)?[a-z][a-z0-9_\-]*)\.htm"', re.IGNORECASE)
     seen = set()
     out = []
     for m in pat.finditer(html):
         slug = m.group(1).lower()
-        if slug in NAV_SLUGS:
+        if slug in NAV_SLUGS or slug.split("/")[-1] in NAV_SLUGS:
             continue
         if slug in seen:
             continue
         seen.add(slug)
         out.append(slug)
+    return out
+
+
+def expand_letter_pages(base_url: str, raw_dir: Path, slugs: list[str]) -> list[str]:
+    """If the index only lists letter pages (a.htm, b.htm...), follow them one
+    level to collect the remedy pages they link to."""
+    letters = [s for s in slugs if re.fullmatch(r"[a-z]", s)]
+    if len(letters) < 10:
+        return slugs
+    out = [s for s in slugs if not re.fullmatch(r"[a-z]", s)]
+    for letter in letters:
+        page = fetch(base_url + f"{letter}.htm", raw_dir / f"{letter}.htm", allow_404=True)
+        if not page:
+            continue
+        for s in parse_index(page):
+            if "/" in s and s not in out:
+                out.append(s)
     return out
 
 
@@ -177,6 +203,7 @@ def ingest(book_id: str, base_url: str, raw_dir: Path, out_filename: str,
     if not slugs:
         print(f"[{book_id}] no entries found in index", file=sys.stderr)
         return
+    slugs = expand_letter_pages(base_url, raw_dir, slugs)
     print(f"[{book_id}] {len(slugs)} candidate entries")
 
     records = []
@@ -204,127 +231,127 @@ def ingest(book_id: str, base_url: str, raw_dir: Path, out_filename: str,
 CONFIGS = {
     "hahnemann_chronic": {
         "base_url": "http://www.homeoint.org/books/hahchrdi/",
-        "raw_dir": ROOT / "data" / "raw" / "hahnemann_chronic",
+        "raw_dir": RAW_ROOT / "hahnemann_chronic",
         "out": "hahnemann_chronic.json",
         "source_id": "hahnemann-chronic-diseases-1896",
     },
     "lippe_mm": {
         "base_url": "http://www.homeoint.org/books1/lippemm/",
-        "raw_dir": ROOT / "data" / "raw" / "lippe_mm",
+        "raw_dir": RAW_ROOT / "lippe_mm",
         "out": "lippe_mm.json",
         "source_id": "lippe-textbook-mm-1866",
     },
     "cowperthwaite": {
         "base_url": "http://www.homeoint.org/seror/cowperthwaite/",
-        "raw_dir": ROOT / "data" / "raw" / "cowperthwaite",
+        "raw_dir": RAW_ROOT / "cowperthwaite",
         "out": "cowperthwaite.json",
         "source_id": "cowperthwaite-textbook-1891",
     },
     "hering_condensed": {
         "base_url": "http://www.homeoint.org/books1/heringcondensed/",
-        "raw_dir": ROOT / "data" / "raw" / "hering_condensed",
+        "raw_dir": RAW_ROOT / "hering_condensed",
         "out": "hering_condensed.json",
         "source_id": "hering-condensed-mm-1877",
     },
     "lippe_keynotes": {
         "base_url": "http://www.homeoint.org/books2/lippkeyn/",
-        "raw_dir": ROOT / "data" / "raw" / "lippe_keynotes",
+        "raw_dir": RAW_ROOT / "lippe_keynotes",
         "out": "lippe_keynotes.json",
         "source_id": "lippe-keynotes-1886",
     },
     "boger_synoptic": {
         "base_url": "http://www.homeoint.org/books2/bogersyn/",
-        "raw_dir": ROOT / "data" / "raw" / "boger_synoptic",
+        "raw_dir": RAW_ROOT / "boger_synoptic",
         "out": "boger_synoptic.json",
         "source_id": "boger-synoptic-key-1915",
     },
     "allen_handbook": {
         "base_url": "http://www.homeoint.org/books1/allenhandbook/",
-        "raw_dir": ROOT / "data" / "raw" / "allen_handbook",
+        "raw_dir": RAW_ROOT / "allen_handbook",
         "out": "allen_handbook.json",
         "source_id": "allen-handbook-1889",
     },
     "allen_clinical": {
         "base_url": "http://www.homeoint.org/books2/allenclin/",
-        "raw_dir": ROOT / "data" / "raw" / "allen_clinical",
+        "raw_dir": RAW_ROOT / "allen_clinical",
         "out": "allen_clinical.json",
         "source_id": "allen-clinical-mm-1898",
     },
     "guernsey": {
         "base_url": "http://www.homeoint.org/books4/guernsey/",
-        "raw_dir": ROOT / "data" / "raw" / "guernsey",
+        "raw_dir": RAW_ROOT / "guernsey",
         "out": "guernsey_keynotes.json",
         "source_id": "guernsey-keynotes-1887",
     },
     "roberts": {
         "base_url": "http://www.homeoint.org/books4/roberts/",
-        "raw_dir": ROOT / "data" / "raw" / "roberts",
+        "raw_dir": RAW_ROOT / "roberts",
         "out": "roberts_sensations.json",
         "source_id": "roberts-sensations-1937",
     },
     "nash_therap": {
         "base_url": "http://www.homeoint.org/books2/nashtherap/",
-        "raw_dir": ROOT / "data" / "raw" / "nash_therap",
+        "raw_dir": RAW_ROOT / "nash_therap",
         "out": "nash_therapeutics.json",
         "source_id": "nash-therapeutics-1900",
     },
     "kent_mm": {
         "base_url": "http://www.homeoint.org/books3/kentmm/",
-        "raw_dir": ROOT / "data" / "raw" / "kent_mm",
+        "raw_dir": RAW_ROOT / "kent_mm",
         "out": "kent_mm.json",
         "source_id": "kent-mm-1911",
     },
     "kent_newr": {
         "base_url": "http://www.homeoint.org/books2/kentnewr/",
-        "raw_dir": ROOT / "data" / "raw" / "kent_newr",
+        "raw_dir": RAW_ROOT / "kent_newr",
         "out": "kent_new_remedies.json",
         "source_id": "kent-new-remedies-1926",
     },
     "allen_nosodes": {
         "base_url": "http://www.homeoint.org/books1/allennosodes/",
-        "raw_dir": ROOT / "data" / "raw" / "allen_nosodes",
+        "raw_dir": RAW_ROOT / "allen_nosodes",
         "out": "allen_nosodes.json",
         "source_id": "allen-materia-medica-nosodes-1910",
     },
     "clarke_prescriber": {
         "base_url": "http://www.homeoint.org/books1/clarkeprescriber/",
-        "raw_dir": ROOT / "data" / "raw" / "clarke_prescriber",
+        "raw_dir": RAW_ROOT / "clarke_prescriber",
         "out": "clarke_prescriber.json",
         "source_id": "clarke-prescriber-1895",
     },
     "gentry": {
         "base_url": "http://www.homeoint.org/books1/gentry/",
-        "raw_dir": ROOT / "data" / "raw" / "gentry",
+        "raw_dir": RAW_ROOT / "gentry",
         "out": "gentry.json",
         "source_id": "gentry-rubrical-mm-1890",
     },
     "hutch700": {
         "base_url": "http://www.homeoint.org/books2/hutch700/",
-        "raw_dir": ROOT / "data" / "raw" / "hutch700",
+        "raw_dir": RAW_ROOT / "hutch700",
         "out": "hutchinson_700.json",
         "source_id": "hutchinson-700-1903",
     },
     "arndt": {
         "base_url": "http://www.homeoint.org/books2/arndt/",
-        "raw_dir": ROOT / "data" / "raw" / "arndt",
+        "raw_dir": RAW_ROOT / "arndt",
         "out": "arndt.json",
         "source_id": "arndt-system-mm-1885",
     },
     "bidwhow": {
         "base_url": "http://www.homeoint.org/books2/bidwhow/",
-        "raw_dir": ROOT / "data" / "raw" / "bidwhow",
+        "raw_dir": RAW_ROOT / "bidwhow",
         "out": "bidwell_how.json",
         "source_id": "bidwell-how-to-use-1915",
     },
     "boger_genera": {
         "base_url": "http://www.homeoint.org/books5/bogergena/",
-        "raw_dir": ROOT / "data" / "raw" / "boger_genera",
+        "raw_dir": RAW_ROOT / "boger_genera",
         "out": "boger_genera_morborum.json",
         "source_id": "boger-genera-morborum-1907",
     },
     "morgan": {
         "base_url": "http://www.homeoint.org/books5/dewey/",
-        "raw_dir": ROOT / "data" / "raw" / "dewey",
+        "raw_dir": RAW_ROOT / "dewey",
         "out": "dewey_essentials.json",
         "source_id": "dewey-essentials-1894",
     },

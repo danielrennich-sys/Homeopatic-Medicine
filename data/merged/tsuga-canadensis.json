@@ -1,14 +1,19 @@
 {
   "id": "tsuga-canadensis",
   "names": {
-    "primary": "Tsuga Canadensis (CARR.)",
-    "latin": "Tsuga Canadensis (CARR.)",
+    "primary": "Tsuga Canadensis",
+    "latin": "Tsuga Canadensis",
     "common": [
       "Pinus Bark. Hemlock Spruce"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Tsuga Canadensis (CARR.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

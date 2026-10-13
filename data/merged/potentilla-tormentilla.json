@@ -1,14 +1,19 @@
 {
   "id": "potentilla-tormentilla",
   "names": {
-    "primary": "Potentilla Tormentilla (NECK.)",
-    "latin": "Potentilla Tormentilla (NECK.)",
+    "primary": "Potentilla Tormentilla",
+    "latin": "Potentilla Tormentilla",
     "common": [
       "Tormentil"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Potentilla Tormentilla (NECK.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

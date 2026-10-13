@@ -1,14 +1,19 @@
 {
   "id": "mentha-spicata",
   "names": {
-    "primary": "Spearmint",
-    "latin": "Spearmint",
+    "primary": "Mentha Spicata",
+    "latin": "Mentha Spicata",
     "common": [
       "Spearmint"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Spearmint"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

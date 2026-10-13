@@ -1,18 +1,21 @@
 {
   "id": "hydrocotyle-asiatica",
   "names": {
-    "primary": "HYDROCOTYLE ASIATICA",
-    "latin": "HYDROCOTYLE ASIATICA",
+    "primary": "Hydrocotyle Asiatica",
+    "latin": "Hydrocotyle Asiatica",
     "common": [
       "Indian Pennywort (HYDROCOTYLE)",
       "Hydrocotyle"
     ],
     "synonyms": [
-      "Hydrocotyle Asiatica",
       "Hydrocotyle Asiatica (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "face": [
       {

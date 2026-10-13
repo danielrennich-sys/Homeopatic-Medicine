@@ -1,14 +1,19 @@
 {
   "id": "centranthus-rubra",
   "names": {
-    "primary": "Centranthus rubra (D. C.)",
-    "latin": "Centranthus rubra (D. C.)",
+    "primary": "Centranthus Rubra",
+    "latin": "Centranthus Rubra",
     "common": [
       "Valerian, Red-Spur"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Centranthus rubra (D. C.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

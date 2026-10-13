@@ -1,14 +1,17 @@
 {
   "id": "vipera-berus",
   "names": {
-    "primary": "VIPERA BERUS",
-    "latin": "VIPERA BERUS",
+    "primary": "Vipera Berus",
+    "latin": "Vipera Berus",
     "common": [
       "The German Viper (VIPERA)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "face": [
       {

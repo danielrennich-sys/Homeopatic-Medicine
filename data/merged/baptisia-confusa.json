@@ -1,12 +1,17 @@
 {
   "id": "baptisia-confusa",
   "names": {
-    "primary": "Baptisia Confusa Acetica",
-    "latin": "Baptisia Confusa Acetica",
+    "primary": "Baptisia Confusa",
+    "latin": "Baptisia Confusa",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Baptisia Confusa Acetica"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

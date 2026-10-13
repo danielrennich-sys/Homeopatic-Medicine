@@ -1,24 +1,33 @@
 {
   "id": "eructations",
   "names": {
-    "primary": "ERUCTATIONS",
-    "latin": "ERUCTATIONS",
+    "primary": "Eructations",
+    "latin": "Eructations",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
-    "keynotes": [
+    "comparative": [
       {
-        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY ERUCTATIONS. Eructations : Arg-n., Asar., Bell., Bry., Carb-v., Cocc., Con., Lyc., Merc., Nat-m., Nux-v., Saba., Sep., Sul., Ver-a. Eructations, abortive : Ars., Con., Grap. Eructations, acrid : Merc. Eructations, coughing , when : Amb., Kali-bi., Sang., Sul-ac., Ver-a. Eructations, eggs , like bad : Arn. Eructations, empty : Bry., Calc-c., Carb-v., Con., Grap., Pho., Sep., Sul. Eructations, frothy : Kre. Eructations, ingesta , tasting of : Ant-c., Bry., Pul. Eructations, loud , noisy : Arg-n., Asaf., Kali-bi., Petr., Pho. Eructations, nauseous , foul : Asaf., Carb-v., Pul., Sul. Eructations, rancid : Asaf., Carb-v. Eructations, relief , without : Chin., Lyc. Eructations, sour : Calc-c., Chin., Lyc., Mag-c., Nat-m., Nat-p., Nux-v., Pul., Sul. Copyright © Médi-T 1999",
-        "source_id": "boger-synoptic-key-1915"
+        "text": "[The Ophidia] There is craving for coffee, but it does not relieve. Milk dis- agrees in both remedies, but only the snake-poison has craving for it. Carbo veg. has aggravation from fats, tainted meats, fish, oysters, foods causing flatulency, ices, vinegar, and sour cabbage — the latter principally on account of the flatulency it causes. Eructations are sour, rancid. Both drugs have relief of flatulent distension from belching, but Lachesis has an ill feeling in addition, which is relieved. Both drugs experience freer breathing after belching. In Carbo veg. this is expressed as the lessening of a tension and upward drawing which marks the costal attachments of the diaphragm; in Lachesis there is a relief after eructations which seem to suffocate him. They come rapidly, and induce the ever-present Lachesis constriction of the throat. The latter remedy also has empty eructations, which in- tensify the pains.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      },
+      {
+        "text": "[The Ophidia] The acid acts well when the patient is weak, emaciated and com- plains of trembling, which, however, is more subjective than objective. He is anxious and restless; must do everything hurriedly. The face is pale, and sometimes presents dry, shrivelled spots, especially when the haemorrhoids are worse. Eructations are sour. The stomach feels relaxed and cold. Wine may palliate and distilled liquors aggravate, as in Lachesis; but the peculiarity of the acid is that the stomach re- jects cold water unless it is mixed with brandy. The abdominal mus- cles are spasmodically retracted. Stools are yellow, like Lachesis, but present a chopped appearance, and are stringy; they are watery, diar- rhoeic and very offensive. Piles are moist, burn, and may prevent defaecation.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
       }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "boger-synoptic-key-1915"
+      "farrington-clinical-1908"
     ]
   }
 }

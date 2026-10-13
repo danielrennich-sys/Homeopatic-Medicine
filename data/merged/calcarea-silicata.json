@@ -1,14 +1,17 @@
 {
   "id": "calcarea-silicata",
   "names": {
-    "primary": "CALCAREA SILICATA",
-    "latin": "CALCAREA SILICATA",
+    "primary": "Calcarea Silicata",
+    "latin": "Calcarea Silicata",
     "common": [
       "Silicate of Lime"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

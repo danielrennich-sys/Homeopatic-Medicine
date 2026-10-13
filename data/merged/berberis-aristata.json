@@ -1,14 +1,17 @@
 {
   "id": "berberis-aristata",
   "names": {
-    "primary": "Berberis aristata",
-    "latin": "Berberis aristata",
+    "primary": "Berberis Aristata",
+    "latin": "Berberis Aristata",
     "common": [
       "Barberry, Nepal"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

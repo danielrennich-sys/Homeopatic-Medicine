@@ -1,14 +1,17 @@
 {
   "id": "skatolum",
   "names": {
-    "primary": "SKATOLUM",
-    "latin": "SKATOLUM",
+    "primary": "Skatolum",
+    "latin": "Skatolum",
     "common": [
       "(SKATOL)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

@@ -7,10 +7,14 @@
       "Rag-Weed (AMBROSIA)"
     ],
     "synonyms": [
-      "AMBROSIA ARTEMISIAEFOLIA"
+      "AMBROSIA ARTEMISIAEFOLIA",
+      "Ambrosia Artemisiaefolia"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -50,14 +54,32 @@
     ],
     "dosing": {
       "notes": "Tincture, to third potency; 10 drops in water during and after attack of epistaxis. In hay-fever high potencies"
-    }
+    },
+    "repertory": [
+      {
+        "text": "Nose And Accessory Cavities: Nose and accessory cavities, coryza, annual (hay fever).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nose And Accessory Cavities"
+      },
+      {
+        "text": "Nnn: Nose, discharges, cold.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Rrr: Respiration, sneezing, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      }
+    ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
       "boericke-1927",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "boger-synoptic-key-1915"
     ]
   }
 }

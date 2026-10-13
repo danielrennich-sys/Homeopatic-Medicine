@@ -1,14 +1,17 @@
 {
   "id": "fuligo-ligni",
   "names": {
-    "primary": "FULIGO LIGNI",
-    "latin": "FULIGO LIGNI",
+    "primary": "Fuligo Ligni",
+    "latin": "Fuligo Ligni",
     "common": [
       "Soot"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Sixth trituration"

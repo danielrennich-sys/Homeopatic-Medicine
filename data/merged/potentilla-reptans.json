@@ -1,14 +1,19 @@
 {
   "id": "potentilla-reptans",
   "names": {
-    "primary": "Potentilla reptans (LINN.)",
-    "latin": "Potentilla reptans (LINN.)",
+    "primary": "Potentilla Reptans",
+    "latin": "Potentilla Reptans",
     "common": [
       "Five-Leaf Grass"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Potentilla reptans (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

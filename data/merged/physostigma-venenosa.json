@@ -1,0 +1,149 @@
+{
+  "id": "physostigma-venenosa",
+  "names": {
+    "primary": "Physostigma Venenosa",
+    "latin": "Physostigma Venenosa",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Pression, spine, on, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Head: Head, vertex, across (ear to ear); Head, diuresis, with; Head, pressure, agg. (vertex).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Head"
+      },
+      {
+        "text": "Eyes: Eyes, twisting or revolving, as if.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eyes"
+      },
+      {
+        "text": "Bbb: Bathing; Bowels, inactive.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Chest, backward thro' left; Chill, cold, etc.; Chill, cold, water [[agg.]]; Collapse, dry; Craves, refused, what is.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Descending, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Eee: Eyes, lids, twitch; Eyes, strain, sprained, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Forehead, nose to.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Hands, offensive; Head, low, amel. [[lying]]; Heart, neck and throat to; Heat, and cold, agg.; Hiccough, breath, short with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Lll: Lain on, parts, agg.; Legs, twitching; Liver, griping.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Mmm: Mind, active; Mouth, loose skin, in [[feeling]]; Muscles, knots; Muscles, obey feebly; Muscles, weak.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Ppp: Paralysis, agitans.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Shuddering, shivers; Spine, burning, heat, etc.; Stool, tarry.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Teeth, quivering; Teeth, rough; Throat, lump, ball, stick; Tongue, oily; Trembling, delirium, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Uterus, numb.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vision, accommodation [[affected]]; Vision, one eye, using, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Www: Water, cold, too.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      },
+      {
+        "text": "Generalities: Aversion: To cold water ; omits bath on account of it",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Band: to cold water ; omits bath on account of it | From warmth: In open air",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Liability to take cold: Sore and stiff all over as from a cold | Fainting with coldness of: to cold water omits bath on account of it",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Kreos. Excretions: Worse from exercise",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Mental: Worse from mental activity",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Rheumatic: Severe sharp pains in various parts of body | Languor and drowsiness: Of muscular system",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Sore: And stiff all over as from a cold",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Wasted: to cold water omits bath on account of it | From eating veal: From mental activity",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890"
+    ]
+  }
+}

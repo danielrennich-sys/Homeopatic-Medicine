@@ -1,14 +1,19 @@
 {
   "id": "fleur-de",
   "names": {
-    "primary": "Fleur De Luce",
-    "latin": "Fleur De Luce",
+    "primary": "Fleur De",
+    "latin": "Fleur De",
     "common": [
       "Fleur De Luce"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Fleur De Luce"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

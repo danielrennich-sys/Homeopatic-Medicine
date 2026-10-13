@@ -1,16 +1,17 @@
 {
   "id": "astacus-fluviatilis",
   "names": {
-    "primary": "ASTACUS FLUVIATILIS",
-    "latin": "ASTACUS FLUVIATILIS",
+    "primary": "Astacus Fluviatilis",
+    "latin": "Astacus Fluviatilis",
     "common": [
       "Crawfish (CANCER ASTACUS)"
     ],
-    "synonyms": [
-      "Astacus Fluviatilis"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "skin": [
       {

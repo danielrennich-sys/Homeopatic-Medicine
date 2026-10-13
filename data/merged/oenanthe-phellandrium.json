@@ -1,14 +1,19 @@
 {
   "id": "oenanthe-phellandrium",
   "names": {
-    "primary": "Oenanthe phellandrium (LANK.)",
-    "latin": "Oenanthe phellandrium (LANK.)",
+    "primary": "Oenanthe Phellandrium",
+    "latin": "Oenanthe Phellandrium",
     "common": [
       "Dropwort, Water"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Oenanthe phellandrium (LANK.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

@@ -1,24 +1,28 @@
 {
   "id": "nausea",
   "names": {
-    "primary": "NAUSEA",
-    "latin": "NAUSEA",
+    "primary": "Nausea",
+    "latin": "Nausea",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
-    "keynotes": [
+    "comparative": [
       {
-        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY NAUSEA. Nausea : Aeth., Ant-c., Ant-t., Ars., Bry., Carb-v., Cham., Cocc., Colch., Cup., Dig., Hep., Ign., Ip., Lyc., Nit-ac., Nux-v., Pho., Pul., Rhus-t., Sep., Sil., Sul., Ver-a. Nausea, continuous : Ip., Iris., Nux-v., Sil. Nausea, deathly , anxious : Ant-t. Nausea, morning : Cimi., Nux-v., Pul., Sep. Nausea, odors (cooking, etc.), agg. : Ars., Cocc., Colch., Dig., Ip., Merc-i-f., Sep., Stan. Nausea, stomach , felt in : Ver-a. Nausea, throat , in : Cycl., Pho-ac., Stan., Val. Copyright © Médi-T 1999",
-        "source_id": "boger-synoptic-key-1915"
+        "text": "[The Ophidia] Arsenicum intensifies the gastric and systemic weakness to which we referred in the remedies just considered. While it is true that the pa- tient does not fully realize his want of strength, and hence does not care so much to lie quietly, nevertheless the actual amount of his vitality is seriously reduced. In a word, he is excessively weak without feeling so fatigued. Any exertion produces fainting. Taste is lost, or is bitter, sour, and putrid. The stomach feels swollen as if full of water. Craving for acids and for coffee; the latter, as in Lachesis, agrees with the patient. There are burning feelings, red rough tongue, and anx- iety and distress after eating, as in subacute gastritis, which no remedy pictures better. Nausea is frequent, and often periodical (12 p. m.) and is accompanied by great prostration. The vomiting is of many- kinds, but is distinguished from the bilious, slimy, or bloody emesis of Lachesis by its irregular convulsive character, indicative of gastric",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
       }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "boger-synoptic-key-1915"
+      "farrington-clinical-1908"
     ]
   }
 }

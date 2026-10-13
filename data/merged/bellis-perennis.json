@@ -8,11 +8,14 @@
       "Daisy, Common"
     ],
     "synonyms": [
-      "BELLIS PERENNIS",
       "Bellis perennis (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -114,7 +117,59 @@
       "_raw": [
         "Compare: Arn., Calend., Hyperic., Con., Ars., Hamam., Vanad. In effects of fag, Pic. ac."
       ]
-    }
+    },
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Cold, while hot, sweating, by ices, uncovering a part, as hand, etc., agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Generalities: Cancer, scirrhus type.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Bbb: Bathing, cold, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Coccyx.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Iii: Injuries.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      },
+      {
+        "text": "Mmm: Mammæ, nodes in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Ppp: Pus, acrid; Pus, hair, destroys.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Uuu: Urination, involuntary, lying, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vertigo, senile.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "General Analysis: CHILLED, cold becoming, while hot, by ices, uncovering a part, as head, hand-hands, etc. in cold water, etc.., Agg..",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
+    ]
   },
   "evidence": {},
   "provenance": {
@@ -122,6 +177,8 @@
       "allen-encyclopedia-1874",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
       "grieve-modern-herbal-1931"
     ]
   }

@@ -1,14 +1,19 @@
 {
   "id": "ledum-latifolium",
   "names": {
-    "primary": "Ledum latifolium (JACQ.)",
-    "latin": "Ledum latifolium (JACQ.)",
+    "primary": "Ledum Latifolium",
+    "latin": "Ledum Latifolium",
     "common": [
       "Labrador Tea"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ledum latifolium (JACQ.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

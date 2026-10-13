@@ -1,14 +1,15 @@
 {
   "id": "aurum-foliatum",
   "names": {
-    "primary": "AURUM FOLIATUM",
-    "latin": "AURUM FOLIATUM",
+    "primary": "Aurum Foliatum",
+    "latin": "Aurum Foliatum",
     "common": [],
-    "synonyms": [
-      "Aurum foliatum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

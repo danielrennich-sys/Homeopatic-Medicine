@@ -1,21 +1,23 @@
 {
   "id": "eupatorium-aromaticum",
   "names": {
-    "primary": "EUPATORIUM AROMATICUM",
-    "latin": "EUPATORIUM AROMATICUM",
+    "primary": "Eupatorium Aromaticum",
+    "latin": "Eupatorium Aromaticum",
     "common": [
       "Pool-root"
     ],
-    "synonyms": [
-      "Eupatorium Aromaticum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
-    "dosing": {
-      "notes": "Tincture, locally, in sore mouth and sore nipples. Internally, tincture to third attenuation"
-    },
     "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Eupatorium Aromaticum. A tincture of the fresh root is used. Clinical :- ► Great soreness of the mouth in an infant. ► Vomiting of bile, pain in stomach, headache and fever. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
       {
         "text": "color=\"#800000\">EUPATORIUM AROMATICUM Pool-root Nervous erethism; restlessness and morbid watchfulness. Hysteria and chorea. Low fevers, with extreme restlessness. Aphthous disease. Sore nipples. Sore mouth in infants. Vomiting of bile, pain in stomach, headache, and fever.",
         "source_id": "boericke-1927"
@@ -25,6 +27,9 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "dosing": {
+      "notes": "Tincture, locally, in sore mouth and sore nipples. Internally, tincture to third attenuation"
+    },
     "generalities": [
       {
         "text": "Clinical: Ague; Aphthæ; Gravel; Neurasthenia",
@@ -35,6 +40,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "allen-handbook-1889",
       "boericke-1927",
       "clarke-dictionary-1900"
     ]

@@ -1,14 +1,19 @@
 {
   "id": "alpinia-officinarum",
   "names": {
-    "primary": "Alpinia officinarum (HANCE.)",
-    "latin": "Alpinia officinarum (HANCE.)",
+    "primary": "Alpinia Officinarum",
+    "latin": "Alpinia Officinarum",
     "common": [
       "Galangal"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Alpinia officinarum (HANCE.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

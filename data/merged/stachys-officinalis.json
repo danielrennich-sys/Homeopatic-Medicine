@@ -1,16 +1,20 @@
 {
   "id": "stachys-officinalis",
   "names": {
-    "primary": "Betony, Wood",
-    "latin": "Betony, Wood",
+    "primary": "Stachys Officinalis",
+    "latin": "Stachys Officinalis",
     "common": [
       "Betony, Wood"
     ],
     "synonyms": [
+      "Betony, Wood",
       "Betony"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {
@@ -42,7 +46,6 @@
     ]
   },
   "evidence": {
-    "summary": "",
     "lactation_safety": [
       {
         "section": "Drug Levels and Effects",
@@ -50,7 +53,6 @@
         "source": "LactMed-NIH"
       }
     ],
-    "documented_adverse_effects": [],
     "regulatory": [
       "LactMed - NIH Drugs and Lactation Database"
     ],

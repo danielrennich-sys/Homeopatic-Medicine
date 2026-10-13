@@ -1,17 +1,18 @@
 {
   "id": "aralia-spinosa",
   "names": {
-    "primary": "Aralia spinosa",
-    "latin": "Aralia spinosa",
+    "primary": "Aralia Spinosa",
+    "latin": "Aralia Spinosa",
     "common": [
       "Angelica Tree",
       "Prickly Elder"
     ],
-    "synonyms": [
-      "Aralia Spinosa"
-    ]
+    "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

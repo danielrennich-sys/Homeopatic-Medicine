@@ -1,16 +1,17 @@
 {
   "id": "ichthyolum",
   "names": {
-    "primary": "ICHTHYOLUM",
-    "latin": "ICHTHYOLUM",
+    "primary": "Ichthyolum",
+    "latin": "Ichthyolum",
     "common": [
       "A Combination of Sulphonated Hydrocarbons, a Fossil Product of Complex Structure found in Tyrol, supposed to be Fish Deposits, contains 10 % Sulphur."
     ],
-    "synonyms": [
-      "Ichthyolum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

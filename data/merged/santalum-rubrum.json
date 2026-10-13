@@ -1,14 +1,19 @@
 {
   "id": "santalum-rubrum",
   "names": {
-    "primary": "Santalum Rubrum (U. S. P.)",
-    "latin": "Santalum Rubrum (U. S. P.)",
+    "primary": "Santalum Rubrum",
+    "latin": "Santalum Rubrum",
     "common": [
       "Red Saunders"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Santalum Rubrum (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

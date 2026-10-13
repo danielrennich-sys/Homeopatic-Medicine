@@ -1,12 +1,17 @@
 {
   "id": "essentials-homoeopathic",
   "names": {
-    "primary": "ESSENTIALS OF Homoeopathic Materia Medica and Homoeopathic Pharmacy",
-    "latin": "ESSENTIALS OF Homoeopathic Materia Medica and Homoeopathic Pharmacy",
+    "primary": "Essentials Homoeopathic",
+    "latin": "Essentials Homoeopathic",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "ESSENTIALS OF Homoeopathic Materia Medica and Homoeopathic Pharmacy"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

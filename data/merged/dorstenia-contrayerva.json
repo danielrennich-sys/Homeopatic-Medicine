@@ -1,14 +1,19 @@
 {
   "id": "dorstenia-contrayerva",
   "names": {
-    "primary": "Dorstenia Contrayerva (LINN.)",
-    "latin": "Dorstenia Contrayerva (LINN.)",
+    "primary": "Dorstenia Contrayerva",
+    "latin": "Dorstenia Contrayerva",
     "common": [
       "Contrayerva"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Dorstenia Contrayerva (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

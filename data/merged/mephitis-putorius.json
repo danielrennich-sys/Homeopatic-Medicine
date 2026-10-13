@@ -1,17 +1,19 @@
 {
   "id": "mephitis-putorius",
   "names": {
-    "primary": "MEPHITIS PUTORIUS",
-    "latin": "MEPHITIS PUTORIUS",
+    "primary": "Mephitis Putorius",
+    "latin": "Mephitis Putorius",
     "common": [
       "Skunk (MEPHITIS)"
     ],
     "synonyms": [
-      "Mephitis Putorius",
-      "Mephitis putorius"
+      "Mephitis"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {
@@ -21,6 +23,10 @@
       {
         "text": "Fancies so vivid they unfit for labor. Talkative, as if drunk ; excited, with heat of head. Angry about trifles or imaginary things. Disinclination to work, with inclination to stretch. Vertigo : sitting, stooping, turning in bed. Numb and dull, with sensation as if head became enlarged, with ill humor and nausea.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Ill-humour about trifles or imaginary troubles. Unfitness for intellectual labour, caused by too lively an imagination, excessive loquacity, as from drinking too much. Excitement, with heat in head. Dejection, with painful muscles. Indolence, with desire to stretch.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "eyes": [
@@ -31,6 +37,10 @@
       {
         "text": "Inability to read fine print. Letters become blurred, he is unable to discern them, they run together. Weakness of sight, with headache and pain in eyes. Pain in eyes : when turning them in certain directions ; as from a foreign body ; as from overexertion. Stitches in eyes as from needles. Stinging and itching in eyes, evening and morning. Inflammation of eyes and lids, especially right side. Redness of conjunctivæ. Heat and burning of eyes. Pressing on lids, with burning of margins as if a stye would form.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Lancination in eyes like the pricking of needles. Pains in eyes on turning them (in certain directions), as if some foreign body were in them, or as if they were much fatigued. Heat, burning, and aching in eyes, esp. morning and evening. As of fire thrown into eye. Sensation on opening the lids as of breaking glass. Aching (pressing) of eyelids, and burning on margins, as if a stye were forming. Injection of veins in sclerotica. Redness of conjunctiva, as from ecchymosis. Myopia. Confusion of letters when reading (they become blurred, he is unable to discern them, they run together). Inability to read small print. Nocturnal blindness. While the sight is weak there are generally pains in eyes or head. Eyes affected principally in evening.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "mouth_throat": [
@@ -41,6 +51,10 @@
       {
         "text": "Sudden jerks in roots of teeth ; strumming toothache. Pains in hollow back teeth. Taste in mouth : coppery ; as after eating onions. Want of sensation in tongue.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Pains in teeth which are carious (molars), esp. in lower jaw. Sudden shocks in roots of teeth. Drawing and tearing in teeth. 10.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "respiratory": [
@@ -61,6 +75,10 @@
       {
         "text": "Frequent yawning ; lachrymation. Extremely sleepy in morning, during day, even in company. Cannot sleep whole night. Sleeplessness from \"fidgets\" in left side, both legs and arms. Nightmare. Awakens in night with congestion to legs. Night walking, open eyes, angry gestures ; hair on head rises, cannot be made conscious. Vivid dreams which he recollects. Asthma during sleep ; not waking ; continues after he has waked up.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Great inclination to sleep, so great that patient will fall asleep even when in company. Diurnal sleepiness, with sound sleep at night. Frequent yawning, which causes tears to flow. Very vivid dreams, the recollection of which is retained. Dreams of fire, water, distressing losses, of spitting of blood, &c. Nightmare. Asthma during sleep. Waking at night, with rush of blood to, and heat in limbs (lower legs). Somnolent heaviness in morning, with burning in eyes and tearing in limbs; greatly > by a change of position. Frequent and early waking, often with a feeling of good health.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "dosing": {
@@ -78,24 +96,59 @@
       {
         "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Mephitis putorius. Mind and Disposition. Great talkativeness as if he were intoxicated. Excited, with heat of the head. Angry about trifles or about imaginary things. The fancies are so vivid that he is unfitted, for mental labor. Head. [5] Numb and dull, with the sensation as if the head became enlarged, with ill-humor and, nausea. Vertigo when stooping ; sudden vertigo while sitting. Vertigo when turning in bed. Headache while riding in a carriage. Pain over the eyes. [10] Violent pain the head, as if a fulness were pressing upwards. Heaviness and heavy pressure in the back part of the head, as if fingers were pressing on it. Eyes. Pain in the eyes when turning them in certain directions. Pain as if something had lodged in the eyes. Pain in the eyes as from over-exertion. [15] Stitches in the eyes as from needles. Heat and burning of the eyes. Pressing on the lids with burning of the margins, as if a stye would form. Inability to read fine print. The letters become blurred, he is unable to discern them, they run together. [20] The weakness of sight in generally accompanied by headache and pain in the eyes. Ears. Erysipelas of the ear, with itching, heat, redness and blisters. Nose. Dry nose ; bleeding from the nose. Mouth and Throat. Sudden jerks in the roots of the teeth. Coppery taste in the mouth. Stomach and Abdomen. [25] Nausea with emptiness in the stomach, and sensation as if the head were distended. Pressure in the stomach, and colic. Rheumatic pain in the region of the liver. Stool and Anus. Stools rare but soft. Urinary Organs. Frequent micturition with clear urine. [30] The urine is turbid in the morning, after evening fever. Sexual Organs. Men . Warmth of the genitals. Itching of the scrotum. Women . Soreness of the genitals and swelling of the labia. Respiratory Organs. When drinking or talking, liability to have something get into the larynx. [35] Cough with fluent coryza and soreness in the chest. Coughing from talking or reading aloud. Rattling cough every morning. Hooping-cough, worse at night and after lying down ; with convulsions ; with complete suffocative feeling, he can not exhale ; vomiting of all the food some hours after eating ; bloated face. Pains in the chest (on the last left short rib) when touching and pressing on it ; but especially when coughing and sneezing. Back. [40] Stitches in the spinal column during motion. Pain in the back and all the limbs, with lameness. Tension and pain in the right side of the neck. Extremities. Upper . Rheumatic pains in the arms relieved on motion. Restlessness in the left arm with insensibility. [45] Trembling of the arm when leaning on it. Twitching with the hands. Lower . Rheumatic pains from the hips down to the feet. Restlessness in the lower limbs as if they were to become insensible : the knee feels bruised. Stitches in the feet. [50] Cramp pain in the (left) foot. Arthritic pain in the heel. Pain in the big toe as if it were being pinched off. Corns with pain and burning. Generalities. Rheumatic pains. [55] Wandering pains, with much pressure to urinate and shocks. Sensation of lameness, especially with the pains. Fine, nervous vibrations, reaching to the interior of the bones, causing a good deal of anxiety. Inclination to stretch oneself, with disinclination to do any thing. Sleep. Frequent yawning with lachrymation. [60] Sleepiness during the day, even when in company. Wakens from sleep at night with congestion of blood to the lower legs. Nightmare. Vivid dreams which he well recollects. He wakens early and feels very well. Fever. [65] Chilliness in the evening, with desire to urinate and colic, as if diarrha would set in. Increased warmth, especially in the morning. Warmth at night (genitals, head and lower legs). Less chilliness than usual in cold weather, and no more aversion to cold washing. Washing in ice-cold water causes a pleasant sensation. Conditions. [70] Sensation of coldness, and restlessness predominates. The cough is worse at night, and causes great distress when inhaling. Copyright © Médi-T 2006",
         "source_id": "lippe-textbook-mm-1866"
+      },
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Mephitis. The liquid obtained from the anal glands of the skunk is diluted with alcohol. Clinical :- ► Spasmodic cough, especially whooping cough, with mucous râles through upper part of chest and suffocation, feeling as if he could not exhale, vomiting of food, etc. ► Asthma. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "Mephitis was proved by Hering in the 30th. Among the symptoms he developed was \"choking while eating or drinking,\" and \"cough on reading aloud, while talking, and after drinking; caused by choking.\" Lower ribs painful to touch or pressure, esp. on coughing or sneezing. Neidhard gave Meph. to \"a young man afflicted with symptoms of consumption,\" in whom it produced \"a spasmodic cough with a crowing sound, lasting all night and returning several times.\" This homœopathic aggravation suggested to Neidhard to use Meph. in whooping-cough, and this is his conclusion, quoted by Hering: \"If the facts collected since 1851, which are numerous, do not prove that Meth. will supersede all other remedies in whooping-cough, it certainly may be considered a valuable specific. In order to ensure its full success, it should be exhibited in the lower dilutions, from one to three, at least in severe cases.\" Guernsey gives it as: \"Whooping, or any other kind of cough which is very violent, coming on spasmodically, and seeming as though each spell would terminate life.\" Farrington says the note of Meph. is nervous exhaustion. In whooping-cough the catarrh is slight, whoop decided; at night and after lying down. Suffocative feeling; cannot exhale; vomits food sometimes hours after eating. Asthma of drunkards; of consumptives (after Dros.). T. M. Stewart reports (H. R., xvi. 71) the case of a man, 47, who had a constant hacking cough coming on during conversation. For this the uvula was amputated. As soon as he recovered from the operation the condition was this: \"Coughs after reading aloud, or drinking any fluid; cough spasmodic, hollow, hoarse, at night and on lying down; loose in mornings.\" Amb., Cham., K. bi., Rumex, Pho., failed to relieve; Meph. 1m. cured promptly.─Another point about Meth. is the rush of warmth it causes to various parts. It enables patients to endure extreme cold; makes them less chilly in cold weather. Washing in ice-water is pleasant. Awakens at night with congestion to legs. Legs uneasy as if they would become insensible. Fidgety feet. A short sleep seems to refresh. A. M. Cushing calls attention to the possibilities of the remedy in weak sight (H. R., iv. 237), and tells of a friend of his who had a dose direct from the skunk injected into his eyes: \"It was as though fire had entered his eyes.\" For a time he was totally blind; but when his sight returned it was so keen that he could count the panes in a window said to be two miles distant. In another case, after getting the poison out of the eye, there was for weeks after a sensation on opening the lids as of breaking glass. On Farrington's advice it was antidoted by Crotal. Rest and lying down . Sitting up and motion >. Night and daybreak. Warm stove > colic from cold. > Cold washing. Ice-water asthma. Touch .",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. MEPHITIS . (Mephitis Americana.) Class.- Mammalia. Order.- Carnivora. Family.- Mustelodae. Common names.- Skunk. Pole Cat. General Analysis.- Acts prominently upon the cerebrospinal system, especially the pneumogastric, inducing spasmodic conditions of the respiratory organs, which has led to its use in the treatment of asthma and whooping cough. Characteristic symptoms. Eyes.- (Mephitis) Stitches, as if with needles in the eyes. Pain above the eyes. Conjunctivae red and injected. Letters become blurred ; unable to distinguish them ; they run together ; short-sighted. Mouth.- (Mephitis) Sudden jerks in roots of teeth. Stomach.- (Mephitis) No appetite in morning. Nausea, with emptiness in stomach, and sensation as if head were distended. Pressure in stomach, and colic. Stool.- (Mephitis) Stools infrequent, but thin. Respiratory Organs.- (Mephitis) When drinking, the fluid gets into the larynx. Asthma, as from inhaling vapor of sulphur ; of drunkards ; during sleep. Inhalation difficult ; exhalation almost impossible ; or barking. Cough after drinking, talking, or loud reading ; spasmodic, hollow, or deep, with rawness, hoarseness, and pain through chest, with suffocative feeling when inhaling ; cannot exhale ; vomits food some hours after eating ; worse at night and after lying down ; in morning loose, with some expectoration. Limbs.- (Mephitis) Uneasiness in arms and legs. Rheumatic pains in limbs. Burning and pain in corns. Generalities.- (Mephitis) Convulsions ; restlessness. Inclination to stretch ; disinclination to work. Paralyzed sensation, especially with the pains. Very fine nervous vibrations, causing great uneasiness, as if extending into the interior of the bones. Sleep.- (Mephitis) Asthma during sleep. Awakens early, and feels refreshed. Sleepy in the morning. Vivid, remembered dreams. Fever.- (Mephitis) Increased warmth, especially in the morning. Less chilly in cold air ; cold water agreeable. Therapeutic Range.- (Mephitis) Asthma ; whooping cough ; prosopalgia. Compare.- (Mephitis) Ambr., Ars., Corall. rub., Dros., Coccus. Copyright © Robert Séror 2003",
+        "source_id": "cowperthwaite-textbook-1891"
+      },
+      {
+        "text": "Main Condensed Materia Medica. By Constantine Hering. Presented by Médi-T . MEPHITIS. [Mephit.] Skunk. Hering. Mustelidæ. [ 1 ] * [ 2 ] * [ 3 ] * [ 5 ] * [ 6 ] * [ 7 ] * [ 8 ] * [ 10 ] * [ 11 ] * [ 14 ] * [ 15 ] * [ 16 ] * [ 17 ] * [ 18 ] * [ 20 ] * [ 21 ] * [ 22 ] * [ 23 ] * [ 25 ] * [ 26 ] * [ 27 ] * [ 28 ] * [ 31 ] * [ 32 ] * [ 33 ] * [ 35 ] * [ 36 ] * [ 37 ] * [ 38 ] * [ 39 ] * [ 40 ] * [ 42 ] * [ 43 ] * [ 45 ] [1] Mind. ► Fancies so vivid they unfit for mental labour. ► Talkative, as if drunk ; excited, with heat of the head. ► Angry about trifles, or imaginary things. [2] Sensorium. ► Vertigo, sitting, stooping, turning in bed. ► Numb and dull, with sensation as if head became enlarged, with ill-humor and nausea. [3] Inner Head. ► Fulness in head, worse on vertex, worse studying. ► Headache while riding in a carriage. ► Heaviness and pressure in back part of head, as if fingers were pressing on it. [5] Eyes. ► Inability to read fine print. ► Letters become blurred, he is unable to discern them, they run together. ► Weakness of sight, generally with headache and pain in eyes. ► Pain in eyes : when turning them in certain directions ; as from a foreign body ; as from overexertion. ► Stitches in eyes as from needles. ► Stinging and itching in eyes evenings and mornings. ► Inflammation of eyes and lids, especially right side. ► Redness of the conjunctiva. ► Heat and burning of the eyes. [6] Ears. ► Fetid discharge from ears. ► Erysipelas of the ear, with itching, heat, redness and blisters. [7] Nose. ► Dry nose ; bleeding from the nose. ► Fluent coryza, cough and soreness in chest. [8] Face. ► Bloated face. [10] Teeth. ► Sudden jerks in roots of teeth ; strumming toothache. [11] Tongue, etc. ► Coppery taste in the mouth. ► Talking : 27 . [14] Desires and Aversions. ► Wants every dish very much salted. [15] Eating and Drinking. ► After eating : 27 . Drinking : 27 . [16] Nausea and Vomiting. ► Nausea, with emptiness in the stomach, and sensation as if the head were distended. [17] Stomach. ► Pressure in the stomach, and colic. [18] Hypochondria. ► Rheumatic pain in region of liver. [20] Stool, etc. ► Thin, infrequent. [21] Urine. ► Difficulty in urinating all day ; stream interrupted. ► Frequent micturition, with clear urine. ► Urine is turbid in the morning, after evening fever. [22] Male Sexual Organs. ► Warmth of the genitals at night. ► Itching of the scrotum. [23] Female Sexual Organs. ► Burning leucorrha. ► Soreness of genitals and swelling of labia. [25] Larynx. ► When drinking or talking, liability to have something get into the larynx. [26] Breathing. ► Asthma : as from inhaling vapor of sulphur in sleep ; of drunkards. ► Inhalation difficult, exhalation almost impossible ; or barking. [27] Cough. ► After drinking, talking or loud reading ; spasmodic, hollow or deep ; with rawness, hoarseness and pain through chest ; with suffocative feeling when inhaling ; cannot inhale ; vomits all food some hours after eating ; convulsions ; worse at night and after lying down ; in the morning it is loose, with some expectoration. [28] Lungs. ► Pains in the chest (last left short rib) when touching it ; more when coughing and sneezing. [31] Neck and Back. ► Stitches in the spinal column during motion. ► Pain in the back and all the limbs, with lameness. [32] Upper Limbs. ► Rheumatic pains in arms, relieved on motion. ► Restless in left arm, with insensibility. ► Trembling of arm when leaning on it. ► Painful twitching of the left hand. [33] Lower limbs. ► Rush of blood to the legs at night. ► Rheumatic pains from hips to feet ; arthritic pain in heel. ► Legs restless as if becoming insensible ; knees feel bruised. ► Spasmodic pain in left foot. ► Stitches in the feet. ► Pain in big toe as if being pinched off. ► Corns, with pain and burning. [35] Position, etc. ► With slightest manual work sweat breaks out. ► Motion : 31 , 32 . Turning in bed : 2 . Sitting : 2 . Stooping : 2 . [36] Nerves. ► Convulsions. ► Inclination to stretch with disinclination to do anything. ► Restlessness. [37] Sleep. ► Frequent yawning ; lachrymation. ► Sleepy during day, even in company. ► Cannot sleep the whole night. ► Awakens early and feels refreshed. ► Awakens at night with congestion to legs. ► Night walking, open eyes, angry face. ► Hair on head rises, cannot be made conscious. ► Vivid dreams, which he recollect. ► Asthma during sleep ; not waking ; continues after he has waked up. [38] Time. ► Morning : 21 , 27 , 37 , 40 . Evening : 21 . Morning and evening : 5 . Night : 22 , 27 , 33 , 37 . Day : 21 , 37 . [39] Temperature and Weather. ► Cold : colic worse. ► Feels less chilly in cold weather ; feels pleasant after ice-cold washing. [40] Chill, Fever and Sweat. ► Cold feeling predominates ; evening chilliness, with desire to urinate, colic as if diarrha would set in. ► Increased warmth, especially in the morning. [42] Sides. ► Right : 5 , 31 . Left : 28 , 32 , 33 . [43] Sensations. ► Strumming through the body ; anxiety. ► Feels as if threads had been drawn through head and trunk. ► Wandering pains with pressure to urinate. [45] Contact, Injuries, etc. ► Touch : 28 . Riding : 3 . Copyright © Médi-T 2005. Main",
+        "source_id": "hering-condensed-mm-1877"
+      }
+    ],
+    "comparative": [
+      {
+        "text": "[The Acids] Under the influence of Fluoric acid, a short sleep seems to refresh. This effect may also be produced by low potencies of Mephitis putorius.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Acids"
       }
     ],
     "head": [
       {
         "text": "Pain above eyes ; violent pain in head, as if a fulness was pressing upwards. Fulness of forehead and front part of head. Fulness in head, more on vertex, < from studying. Headache while riding in a carriage. Heaviness in back part of head, as if fingers were pressing on it. Slight pain like pulsation or undulation in front part of head, left side, > on stooping reading, < on writing steadily. Strange feeling in right side of cerebellum.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Vertigo on stooping suddenly, when seated, when moving the head, when turning in bed, or in the evening. Confused dulness in the head, as if it had grown larger, accompanied by ill-humour and nausea. Violent headache, with sensation of fulness, as if caused by a weight or by pressure, esp. in the occiput. Violent pain in head as if a fulness were pressing upwards. Sensation in (back of head) various parts, as if the finger were pressed into them. Pain above eyes. Headache from motion of a carriage, or else in evening.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "ears": [
       {
         "text": "Fetid discharge from ears. Erysipelas of ear, with itching, heat, redness and blisters. Neuralgic pain in and about ears ; deafness.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Tearing in the ears, or in the jaw and teeth. Otalgia. Itching heat, redness, blisters, and erysipelas in the external part of the (r.) ear.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "nose": [
       {
         "text": "Dry nose ; bleeding from nose ; swelling. Fluent coryza, cough and soreness in chest.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Dryness of the nose. Epistaxis. Prolonged inclination to sneeze. Fluent coryza, with pain, as from excoriation in the chest.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "face": [
@@ -108,30 +161,50 @@
       {
         "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Meph.]. Wants every dish very much salted. No appetite in morning. Nausea, with emptiness in stomach and sensation as if head was distended. Pressure in stomach, with colic. Rheumatic pain in region of liver. Pain under short ribs. Colic from cold, > near warm stove.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Nausea, with scraping in throat (emptiness in stomach), and sensation as if the head were swollen, when fasting. Sobbing eructations. Risings, > by discharge of flatus. Tendency to choke, when drinking and speaking. Troublesome and ineffectual want to hawk. Metallic (coppery) taste. Desire for salted food. Hunger, alternating with absence of appetite. Absence of appetite in morning, and also repugnance to tobacco-smoke. Painful weariness, and desire to sleep after a meal. Pains in hypochondria. Rheumatic pains in r. side (pressure), or pains as from flatulency (in l. side). Aching (in region of liver) in stomach, with colic. Sensation of emptiness in stomach and nausea. Colic, as from diarrhœa, but without evacuation. Aching and movements in abdomen, as if caused by a chill, with sensation of coldness, trembling, and want to urinate, relieved when near fire. Pains in abdomen in evening.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "stool_rectum": [
       {
         "text": "Stool infrequent but thin.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Evacuations infrequent, but liquid. Diarrhœa.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "urinary": [
       {
         "text": "Difficulty in urinating, all day ; stream interrupted. Frequent micturition : with clear urine ; with rheumatic pain ; with chill. Urine turbid in morning, after evening fever.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Frequent want to make water, esp. at night, with emission of clear urine. The urine becomes turbid (in morning), and deposits a sediment, in evening, after an attack of fever.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "male": [
       {
         "text": "Dwindling of testicles from masturbation. Heat of genitals at night. Itching of scrotum.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Itching in scrotum. Heat in genital organs.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "female": [
       {
         "text": "Burning leucorrhœa. Soreness of genitals and swelling of labia and uterus.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Excoriation of genital organs, in females, and swelling of labia majora.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "chest_heart": [
@@ -144,6 +217,10 @@
       {
         "text": "Stitches in spinal column during motion. Pain in back and all limbs, with lameness. Tension and pain in right side of neck.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Pains in (r.) side of neck. Tension in muscles of nape. Pain, and a sort of paralysis, in back and in all limbs. Lancination in spine during motion. Contusive pains in loins in morning.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "extremities": [
@@ -162,12 +239,28 @@
       {
         "text": "Very fine nervous vibrations, causing great uneasiness. Convulsions. Inclination to stretch one's self, with disinclination to do anything. Restlessness. Lameness, especially with the pains. Every ten minutes : paroxysms of cough at night. Every night : eight or more paroxysms. Right : strange feeling in side of cerebellum ; inflammation of eyes and lids < ; strange feeling in lung ; tension and pain in side of neck ; sensation in arm over deltoid muscles, similar to that produced by substance on throat. Left : undulation in side of front part of head ; pains under short ribs ; restlessness in arm ; painful twitching of hand ; peculiar spasmodic pain in foot ; \"fidgets\" in side. Strumming through body ; anxiety. Feels as if threads had been drawn through head and trunk. Wandering pains with pressure to urinate. Fine nervous vibrations in bones. A kind of burning feeling as from raw onions, in stomach, nose, head, right arm, right lung and down œsophagus. As if head became enlarged ; as if a fulness was pressing upwards in head ; as if fingers were pressing on back of head ; pain as from a foreign body in eyes ; as from overexertion ; stitches in eyes as from needles ; as if a stye would form ; as if head was distended ; as if inhaling vapor of sulphur ; legs as if becoming insensible ; as if big toe was being pinched off ; as if diarrhœa would set in. Pain : above eyes ; in eyes ; in hollow back teeth ; under short ribs ; through chest ; in back and all limbs ; in r. side of neck ; in big toe in corns. Violent pain : in head. Stitches : in eyes as from needles ; in spinal column ; in feet. Neuralgic pains : in and about ears. Rheumatic pain : in region of liver ; when urinating ; in arms ; from hips to feet ; wandering, in limbs. Arthritic pain : in heel. Spasmodic pain : in left foot. Slight pain-like pulsation in front part of head. Painful twitching : of left hand. Sudden jerks : in roots of teeth. Stinging and itching : in eyes. Soreness : in chest ; of genitals. Burning : of eyes ; of margins of eyes ; in corns. Heat : of eyes ; of ears ; of genitals. Pressure : in stomach. Fulness : of forehead and front part of head ; in head. Heaviness : in back part of head. Tension : in right side of neck. Pressing : on lids. Lameness : in back and limbs. Suffocative feeling : in larynx. Strange feeling : in right side of cerebellum ; in lungs. Restlessness : in left arm. Fidgets : in left side, both legs and arms. Trembling : of arm. Itching : of ears ; of scrotum. TOUCH. PASSIVE MOTION. INJURIES. [45] [Meph.]. Touch : on last short ribs, pain. Riding in a carriage : headache. Horseback riding : asthma <. Baby, æt. 20 mos. ; pertussis. Boy, æt. 1 ; pertussis. Child, æt. 2 ; pertussis. Boy, æt. 3 ; pertussis. Boy, æt. 4 ; pertussis. Girl, æt. 6 ; pertussis. Boy, æt. 6 ; pertussis. Boy, æt. 6 ; pertussis. Two children, æt. 8 1/2 and 5 1/2 ; pertussis. Girl, æt. 9 ; pertussis. Man, æt. 26 ; bilious temperament, while in army two years previously had suffocative catarrh ; asthma.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T MEPHITIS. Mephitis putorius; M. chinga, Tied. Class , Mammalia. Order , Carnivora. Family , Mustelidæ. Common names , Skunk, stinkthier. Authorities. Hering, Corresp. Blatt., symptoms obtained from 30th dilution, and several from inhaling the substance while preparing the dilutions. (Dr. Neidhard's report of the effect of the substance on a young man \" afflicted with symptoms of consumption ,\" producing a spasmodic cough with a crowing sound, lasting all night and returning several times, N. Am. J. of Hom., 3, 505, is not admitted). MIND. ► Emotional. ► Excited mood, with warmth of the head, [1] . ► (Very talkative, almost as if intoxicated), [1] . ► Fretful about trifles or only fancied occurrences, [1] . ► Intellectual. ► Disinclination to work, with inclination to stretch , [1] . ► Aversion to mental labor, on account of distracting fancies, [1] . HEAD. ► Confusion and Vertigo. ► Dull confusion of the head, as if it became enlarge, with ill-humor and nausea, [1] . ► Vertigo on stooping; suddenly while sitting; on various motions of the head; or on turning over in bed, [1] . ► General Head. ► Feeling of heaviness; a dull pressure, especially in the occiput, as if here and there pressed in with the finger, [1] . ► Headache on riding a carriage, [1] . [10.] ► Violent headache follows fulness, which presses upward, [1] . EYE. ► Red vessels in the eyes, [1] . ► Pain as from exerting the eyes, [1] . ► Pain as if something were in the eye, [1] . ► Heat, burning and burning pressure in the eyes, especially in the morning and evening, [1] . ► Stitches as if with needles in the eyes , [1] . ► Pain above the eyes , [1] . ► Pressure upon the lids, a burning in the margins as if styes would develop, [1] . ► *Redness of the conjunctivæ, as if injected with blood , [1] . ► Pain in the eyes on turning them in various directions, [1] . ► Vision. [20.] ► Weakness of vision; also, usually, pain in the eyes or head, [1] . ► Dimness of vision, [1] . ► Short-sighted; he is unable to distinguish letters ; they run together, [1] . ► (Night-blindness), [1] . EAR. ► Earache, [1] . ► Tearing in the ear, or in the jaws and teeth, [1] . NOSE. ► Fluent coryza and cough, with soreness of the chest, [1] . ► Nose-bleed, [1] . ► Nose dry, [1] . ► Long-lasting irritation to sneeze, [1] . MOUTH. [30.] ► Pains in the hollow back teeth , especially of the lower jaw; sudden jerking in the roots of the teeth; tearing drawing, [1] . ► Coppery taste in the mouth, [1] . THROAT. ► Distressing irritation to ineffectual hawking, [1] . ► Choking while drinking and talking, [1] . ► Pain in the right side of the throat, [1] . ► Tension in the cervical muscles of the right side, [1] . STOMACH. ► Appetite. ► Appetite at one time great, at another slight, [1] . ► No appetite in the morning , not even for smoking, [1] . ► Eructations. ► Eructations relieving the flatulent troubles, [1] . ► Hiccough-like eructations, [1] . ► Nausea. [40.] ► Nausea, with a feeling as if the head were distended; with emptiness, [1] . ► Nausea , with scraping in the palate, [1] . ► Stomach. ► Feeling of emptiness and nausea, [1] . ► Pressure in the stomach, with colic , [1] . ABDOMEN. ► Pain in the hepatic region, [1] . ► Pain as from flatulence in the left side, [1] . ► Colic as in diarrha, without stool, [1] . STOOL. ► Diarrha, [1] . ► Stool infrequent but thin , [1] . URINARY ORGANS. ► Urging to urinate, very frequent micturition, especially at night; urine clear, [1] . [50.] ► Urine turbid, with sediment, in the morning after the evening fever, [1] . SEXUAL ORGANS. ► Warmth of the genitals, [1] . ► Soreness of the female genitals, with swelling of the labia, [1] . RESPIRATORY ORGANS. ► Cough on reading aloud, while talking, and after drinking; caused by choking, [1] . CHEST. ► Rheumatic pain in the right side, [1] . ► Sore pain behind the last ribs and posteriorly, extending up into the chest internally, on deep breathing or moving the back, [1] . ► Pain in the lowest ribs of the left side, to touch, pressure, especially on coughing and sneezing, [1] . BACK. ► Stitches in the spine on moving, [1] . ► Weariness in the small of the back, in the morning, [1] . SUPERIOR EXTREMITIES. ► Trembling of the arm, on resting upon it, [1] . [60.] ► Uneasiness in the left arm , which seems insensible, [1] . ► Rheumatic pains in the arms ; paralytic drawing pains, better on moving, [1] . ► Tearing a bruised feeling in the bones of the arms, [1] . ► In the first joint of the index finger, a disagreeable feeling, that obliges him to stretch and crack it, [1] . INFERIOR EXTREMITIES. ► Woke at night with rush of blood to the legs ; heat in them, [1] . ► Drawing rheumatic pains in the thighs and hip, especially in the lower leg, extending down to the foot, [1] . ► The knees feel beaten, [1] . ► *Uneasiness in the both lower legs , as if they would become insensible, [1] . ► Sudden cramplike pain in the left foot, that compels him to hop, [1] . ► Stitches in the foot, [1] . [70.] ► Pain like gout in the heel, [1] . ► Burning in the little toe, [1] . ► Throbbing like a pinching in the great toe, [1] . ► Burning and pain in the corns , [1] . GENERAL SYMPTOMS. ► Great weakness and weariness, whereby the muscles are painful to touch and motion, [1] . ► Prostrated and sleepy after eating, [1] . ► Uneasiness of the whole body internally, with an indescribable extremely unpleasant sensation, [1] . ► Paralyzed sensation , especially with the pains, [1] . ► Pain in the back and all the limbs, with paralysis, [1] . ► Wandering pains, with desire to urinate, [1] . [80.] ► Rheumatic pains of various kinds in different provers, [1] . ► Frequent sensations like electric shocks, [1] . ► Very fine nervous vibrations causing great uneasiness , as if extending into the interior of the bones, [1] . ► In the evening vertigo, headache, symptoms in the eyes, toothache, colic, a feeling of coldness, uneasiness, [1] . ► Some of the symptoms rapidly alternate with others quite different, during the first days; afterwards they become more constant, until at last, after several weeks, they disappear, [1] . ► Smelling Camphor relieved for only a short time, without removing the symptoms, [1] . ► Washing in ice-cold water is very agreeable, [1] . SKIN. ► Pimples on the forehead, lower jaw, back, nates, and the inner side of the thighs, [1] . ► Itching, heat, redness, and erysipelas, with vesicles on the right external ear, [1] . ► Itching on the scalp, face, and chin, [1] . [90.] ► Itching on the scrotum, [1] . SLEEP AND DREAMS. ► Sleepiness. ► Frequent yawning, so that the eyes fill with tears, [1] . ► Sleepiness, sleep in the midst of society, [1] . ► Sleep the greater part of the day, after good sleep at night, [1] . ► Extremely sleepy in the morning , stretching for an hour as if stupefied, with burning in the eyes, tearing in all the limbs; he was uncommonly refreshed by turning upon the other side, [1] . ► Sleeplessness. ► *Woke earlier than usual in the morning , [1] . ► Dreams. ► Very vivid remembered dreams of water, fire, spitting, blood, of disheartening loss, [1] . ► Nightmare, [1] . FEVER. ► Chilliness. ► Pressure and chills in the abdomen, as from taking cold, with a feeling of coldness, shivering, and desire to urinate, better by a warm stove, [1] . ► Coldness and desire to urinate, with colic as before diarrha; in the evening, [1] . ► Heat. [100.] ► Increased warmth, especially in the morning ; is less chilly in the cold air, and does not dread cold water, [1] . ► Warmth in the head, genitals, and legs, at night, [1] . CONDITIONS. ► Aggravation. ► ( Morning ), No appetite; weariness in small of back; warmth . ► ( Evening ), Vertigo, etc.; coldness, etc. ► ( Night ), Frequent micturition; rush of blood to legs; warmth in head. ► ( Motion ), Pains in arms. ► ( Riding in carriage ), Headache. ► Amelioration. ► ( Washing in ice-cold water ), Is very agreeable. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Asthma; Blindness; Choking, easy; Cold, sensitiveness to; Eyes, affections of; Laryngismus; Sight, weak; Whooping-cough",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Cough when reading aloud, when speaking, and after a fit of choking whilst drinking (liability to have something get into larynx). Cough in morning, with expectoration proceeding from catarrh. Mucus expelled by a fit of coughing every morning. Catarrhal sufferings. Pains in (l.) ribs, when touched, but esp. when coughing and sneezing. Cough with fluent coryza and soreness in chest. Pain, as from excoriation, in back part of ribs, and in chest, when taking a deep inspiration, and when moving the back. Rattling cough every morning. Whooping-cough, at night and after lying down; with convulsions; with complete suffocative feeling, he cannot exhale; vomiting of all food some hours after eating, bloated face. Pains in chest (on last l. short rib) when touching and pressing on it; but esp. when coughing and sneezing. Asthma, as from inhaling vapour of sulphur; of drunkards; during sleep. Rheumatic pains in arms, with paralytic drawings, > by movement. Uneasiness in (l.) arm, which is, as it were, insensible. Trembling in arm on resting upon it. Jerking in hand. Distressing sensation in first phalanx of finger, which renders it needful to stretch and crack it. Drawing and rheumatic pains in thighs, hip, and foot, but chiefly in leg. Contusive pains in knee. Cramp-like and sudden pain in (l.) foot, which causes patient to hop. Uneasiness in legs, as if they were about to go to sleep. Lancinations in foot. Pain in heel, resembling gout. Pricking or sensation of pinching in great toe (as if it were being pinched off). Burning in little toe. Constant pains and burning in corns. Rheumatic pains. Shifting pains, with want to urinate. Occasionally a sensation as if struck by electric sparks. Convulsions. Sensation of paralysis, esp. during the pains. Great dejection and lassitude, during which the muscles are painful when touched or exercised. Indolence, with desire to stretch, and stretching. Internal agitation of whole body, with sensation of unspeakable uneasiness. Slight quivering of the nerves, as far as interior of bones, causing a good deal of anxiety. Many symptoms manifest themselves in morning.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "fever_chill": [
       {
         "text": "Cold feeling predominates ; evening chilliness, with desire to urinate ; colic as if diarrhœa would set in. Increased warmth, especially in morning.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Coldness in evening, with want to make water, and colic, as if preceding diarrhœa. Heat in head, in genital organs and in legs, at night. Increased heat, esp. in morning, with skin less sensitive to cold and cold water. Washing with cold water is found very agreeable. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "skin": [
@@ -180,17 +273,134 @@
       "_raw": [
         "Compare : in asthma, Drosera, Rumex and Sticta ; in pertussis, Coral. rubr. and Drosera ; in vertigo, Carbo veg. ; in loquacity, Amanita (Agaric.) and Laches. ; in effects on nervous system generally, Castor. and Moschus ; in chorea, with fidgety feet and legs, Act. rac., Am. carb., Arsen., Asaf., Aurum, Sticta and Tarent",
         "Copyright © Médi-T ® 2002",
-        "Main"
+        "Main",
+        "According to Hering, Meph. has a very short action. Antidoted by: Camph., but only temporarily. Crotal. relieved eye symptoms. Follows well: Dros. (in cough of consumptives). Compare: Whooping-cough, Coral. (Coral has smothering before the cough and great exhaustion after). Dros. (Dros. has frequent spells of barking cough; after twelve midnight; holds sides; vomits if cannot raise sputa). Cough from reading or writing, Aur., Nux, Plat. Cough in night, Rumex ( 2 a.m.), Sticta (with splitting headache). Awakes at night with congestion to legs, Aur. Short sleep seems to refresh, Flu. ac., Menth. Night-blindness, Bell. Aversion to tobacco-smoke, Ign. Easy choking, Lach. Fidgety feet, Tarent., Meny., Zinc., Caust., Ars., Asaf., Asar., Act. r., Aur., Sticta. Loquacity, Agar., Lach. Nervous symptoms generally, Castor, Mosch."
       ]
-    }
+    },
+    "repertory": [
+      {
+        "text": "Time: Time, night, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Exhalation, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Cough: Cough, convulsions, with; Cough, spasmodic, violent, whooping, etc.; Cough, suffocating, choking.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Cough"
+      },
+      {
+        "text": "Aaa: Asthma, consumptives, of; Asthma, drunkards, of.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Bathing, cold, amel.; Blood, rushes of, downward.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Choking; Choking, goitre, in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Lll: Larynx, constriction; Legs, blood rushes of.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Ooo: Offensive.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ooo"
+      },
+      {
+        "text": "Rrr: Respiration, gasping.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Swallowing [[agg.]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "General Analysis: Agg..",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      },
+      {
+        "text": "Generalities: Anxiety: Nervous vibrations through body causing anxiety and uneasiness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Bones: Faint nervous vibrations, seeming to reach interior of bones",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Indisposition: Inclination to stretch, with indisposition to do anything | Interior: Faint, nervous vibrations, seeming to reach interior of bones",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Heaviness and lameness: Rheumatic, wandering pains with lameness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Nervous: Faint nervous vibrations seeming to reach interior of bones | Irritable, trembling: Vibrations through body causing anxiety and uneasiness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Rheumatic wandering pains with lameness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Pains: Wandering pains with lameness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Uncovers: Nervous vibrations through body causing anxiety and uneasiness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Vibrations: nervous vibrations seeming to reach interior of bones | Vibrations: Nervous vibrations through body causing anxiety and uneasiness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Wandering: Rheumatic wandering pains with lameness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "boericke-1927",
+      "farrington-clinical-1908",
       "guernsey-keynotes-1887",
       "hering-guiding-1879",
-      "lippe-textbook-mm-1866"
+      "lippe-textbook-mm-1866",
+      "allen-encyclopedia-1874",
+      "allen-handbook-1889",
+      "clarke-dictionary-1900",
+      "cowperthwaite-textbook-1891",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890",
+      "hering-condensed-mm-1877"
     ]
   }
 }

@@ -7,6 +7,9 @@
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -100,12 +103,55 @@
         "text": "Coldness: in stomach and bowels; umbilical and lumbar regions. Tendency to sweat. Cold sweat on palms. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Aaa: Ankles, cramp.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Fff: Floating [[as if]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Ggg: Goitre.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Heart; Heart, endocarditis; Heart, muscle exhaustion; Heart, palpitation; Heart, palpitation, lying, agg.; Heart, palpitation, lying, agg., left; Heart, valves; Heat, exhaustion.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Jjj: Jerks.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Jjj"
+      },
+      {
+        "text": "Lll: Legs, calf, cramp; Legs, floating; Legs, presses foot to floor [[must]]; Lying, side, on [[agg.]]; Lying, side, on, left [[agg.]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Nnn: Naso-pharynx; Naso-pharynx, hot, dry; Nose, discharges, crusts, scabs, from; Nose, discharges, lumpy; Nose, dry; Nose, obstructed, at night; Nose, posterior nares, hot.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Vvv: Vertigo; Vertigo, lying, side, left, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "boger-synoptic-key-1915"
     ]
   }
 }

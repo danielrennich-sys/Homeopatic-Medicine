@@ -1,14 +1,19 @@
 {
   "id": "calotropis-procera",
   "names": {
-    "primary": "Calotropis procera (R. BR.) and gigantea",
-    "latin": "Calotropis procera (R. BR.) and gigantea",
+    "primary": "Calotropis Procera",
+    "latin": "Calotropis Procera",
     "common": [
       "Calotropis"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Calotropis procera (R. BR.) and gigantea"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

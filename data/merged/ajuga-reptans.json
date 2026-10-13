@@ -1,14 +1,19 @@
 {
   "id": "ajuga-reptans",
   "names": {
-    "primary": "Ajuga reptans (LINN.)",
-    "latin": "Ajuga reptans (LINN.)",
+    "primary": "Ajuga Reptans",
+    "latin": "Ajuga Reptans",
     "common": [
       "Bugle, Common"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ajuga reptans (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

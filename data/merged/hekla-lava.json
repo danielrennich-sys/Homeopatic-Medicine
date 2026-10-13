@@ -1,0 +1,33 @@
+{
+  "id": "hekla-lava",
+  "names": {
+    "primary": "Hekla Lava",
+    "latin": "Hekla Lava",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Generalities: Bones, exostoses.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Jjj: Jaws, thickened (lower).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Jjj"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

@@ -1,14 +1,19 @@
 {
   "id": "blite",
   "names": {
-    "primary": "Blite, Annual Sea",
-    "latin": "Blite, Annual Sea",
+    "primary": "Blite",
+    "latin": "Blite",
     "common": [
       "Blite, Annual Sea"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Blite, Annual Sea"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -1,16 +1,17 @@
 {
   "id": "latrodectus-mactans",
   "names": {
-    "primary": "LATRODECTUS MACTANS",
-    "latin": "LATRODECTUS MACTANS",
+    "primary": "Latrodectus Mactans",
+    "latin": "Latrodectus Mactans",
     "common": [
       "Spider"
     ],
-    "synonyms": [
-      "Latrodectus Mactans"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {
@@ -103,13 +104,57 @@
         "text": "Skin cold as marble. Skin very cold (few m.). Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Heart, Circulation And Pulse: Heart, circulation and pulse, arms, to.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Heart, Circulation And Pulse"
+      },
+      {
+        "text": "Aaa: Axillæ, ache in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Ccc: Chest, arms, into.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Dreams, flying, of.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Fff: Female organs, pruritus.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Heart, angina; Heart, arms, to left; Heart, axillæ to; Heart, goitre heart.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Sss: Stings [[of bees, insects]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "General Analysis: ANGINA PECTORIS.",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "boericke-1927",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915"
     ]
   }
 }

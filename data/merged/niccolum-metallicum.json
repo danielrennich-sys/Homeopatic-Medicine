@@ -1,14 +1,17 @@
 {
   "id": "niccolum-metallicum",
   "names": {
-    "primary": "NICCOLUM METALLICUM",
-    "latin": "NICCOLUM METALLICUM",
+    "primary": "Niccolum Metallicum",
+    "latin": "Niccolum Metallicum",
     "common": [
       "Metallic Nickel (NICCOLUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {
@@ -74,12 +77,20 @@
         "text": "color=\"#800000\">NICCOLUM METALLICUM Metallic Nickel (NICCOLUM) Periodical nervous sick headaches, with asthenopia, weak digestion, constipation. Catarrh. Suits debilitated, nervous, literary patients, with frequent headaches, dyspepsia and constipation.",
         "source_id": "boericke-1927"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Time: Time, periodically, fourteen days, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "boericke-1927"
+      "boericke-1927",
+      "boger-synoptic-key-1915"
     ]
   }
 }

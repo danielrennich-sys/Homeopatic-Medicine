@@ -1,12 +1,17 @@
 {
   "id": "gummi-gutti",
   "names": {
-    "primary": "Gummi gutti (Gambogia)",
-    "latin": "Gummi gutti (Gambogia)",
+    "primary": "Gummi Gutti",
+    "latin": "Gummi Gutti",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Gummi gutti (Gambogia)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

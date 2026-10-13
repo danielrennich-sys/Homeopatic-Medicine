@@ -1,8 +1,8 @@
 {
   "id": "aralia-nudicaulis",
   "names": {
-    "primary": "Aralia nudicaulis (LINN.)",
-    "latin": "Aralia nudicaulis (LINN.)",
+    "primary": "Aralia Nudicaulis",
+    "latin": "Aralia Nudicaulis",
     "common": [
       "Bamboo Brier",
       "Sarsaparilla, American",
@@ -10,10 +10,13 @@
       "False Sarsaparilla"
     ],
     "synonyms": [
-      "Aralia Nudicaulis"
+      "Aralia nudicaulis (LINN.)"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

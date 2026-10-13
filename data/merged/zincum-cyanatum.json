@@ -7,6 +7,9 @@
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -51,13 +54,21 @@
         "text": "Constipation.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Sss: Stool, colors, several.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "boger-synoptic-key-1915"
     ]
   }
 }

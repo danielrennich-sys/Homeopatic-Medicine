@@ -1,14 +1,17 @@
 {
   "id": "cobaltum-metallicum",
   "names": {
-    "primary": "COBALTUM METALLICUM",
-    "latin": "COBALTUM METALLICUM",
+    "primary": "Cobaltum Metallicum",
+    "latin": "Cobaltum Metallicum",
     "common": [
       "The Metal Cobalt (COBALTUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {
@@ -78,12 +81,55 @@
         "text": "color=\"#800000\">COBALTUM METALLICUM The Metal Cobalt (COBALTUM) Adapted to neurasthenic spinal states. Sexual disturbances. Fatigue, agitation, and bone pains, worse in morning.",
         "source_id": "boericke-1927"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Nervous effects.); Position, sitting, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Tongue: Tongue, across.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Tongue"
+      },
+      {
+        "text": "Bbb: Back, coition, emissions, etc., agg.; Ball, lump, globus, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Fff: Foamy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Mmm: Motion, continued [[amel.]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Navel, empty.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Sss: Sour.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Www: Weak, emissions, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "boericke-1927"
+      "boericke-1927",
+      "boger-synoptic-key-1915"
     ]
   }
 }

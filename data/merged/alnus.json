@@ -8,9 +8,17 @@
     ],
     "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Alnus. Clinical :- ► This drug has been used for strumous disorders, enlarged submaxillary glands, leucorrhas, with erosions of cervix, which bleed easily, amenorrha, burning pain from back to pubis. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
       {
         "text": "Alnus is an unproved remedy. The bark-tincture of Alnus rubra is used by eclectics as an \"alterative\" in scrofulous conditions, in chronic skin affections, rheumatism, syphilis, gravel, and gleet. The plant grows in swamps and marshes. Among its indications are: Leucorrhœa with erosions which bleed easily; amenorrhœa with burning pains from back to pubis. Hæmaturia. Cooper, who has used a fresh plant tincture of A. glutinosa, gives: \"Pain in rectum after stool\"; and \"heaviness in head as after being drunk the night before\" as having been produced by it. Hale gives as particularly indicating it: \"Eruptions on the skin alternating with diseased conditions of mucous membrane.\"",
         "source_id": "clarke-dictionary-1900"
@@ -69,6 +77,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "allen-handbook-1889",
       "clarke-dictionary-1900",
       "kings-american-1898"
     ]

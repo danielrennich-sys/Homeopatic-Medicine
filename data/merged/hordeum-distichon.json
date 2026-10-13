@@ -1,14 +1,19 @@
 {
   "id": "hordeum-distichon",
   "names": {
-    "primary": "Hordeum distichon (LINN.)",
-    "latin": "Hordeum distichon (LINN.)",
+    "primary": "Hordeum Distichon",
+    "latin": "Hordeum Distichon",
     "common": [
       "Barley"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Hordeum distichon (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

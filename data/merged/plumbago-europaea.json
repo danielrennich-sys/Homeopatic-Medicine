@@ -1,14 +1,19 @@
 {
   "id": "plumbago-europaea",
   "names": {
-    "primary": "Plumbago Europaea (LINN.)",
-    "latin": "Plumbago Europaea (LINN.)",
+    "primary": "Plumbago Europaea",
+    "latin": "Plumbago Europaea",
     "common": [
       "Plumbago"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Plumbago Europaea (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

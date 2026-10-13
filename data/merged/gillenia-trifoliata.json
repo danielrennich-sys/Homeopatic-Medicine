@@ -1,14 +1,19 @@
 {
   "id": "gillenia-trifoliata",
   "names": {
-    "primary": "Gillenia trifoliata (MOENCH.)",
-    "latin": "Gillenia trifoliata (MOENCH.)",
+    "primary": "Gillenia Trifoliata",
+    "latin": "Gillenia Trifoliata",
     "common": [
       "Indian Physic"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Gillenia trifoliata (MOENCH.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

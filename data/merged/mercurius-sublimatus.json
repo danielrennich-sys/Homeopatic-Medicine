@@ -1,12 +1,15 @@
 {
   "id": "mercurius-sublimatus",
   "names": {
-    "primary": "Mercurius sublimatus",
-    "latin": "Mercurius sublimatus",
+    "primary": "Mercurius Sublimatus",
+    "latin": "Mercurius Sublimatus",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

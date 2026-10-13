@@ -1,16 +1,19 @@
 {
   "id": "larix-americana",
   "names": {
-    "primary": "Larix Americana (MICHX.)",
-    "latin": "Larix Americana (MICHX.)",
+    "primary": "Larix Americana",
+    "latin": "Larix Americana",
     "common": [
       "Tamarac"
     ],
     "synonyms": [
-      "Larix Americana"
+      "Larix Americana (MICHX.)"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

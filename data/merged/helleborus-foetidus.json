@@ -1,0 +1,96 @@
+{
+  "id": "helleborus-foetidus",
+  "names": {
+    "primary": "Helleborus Fœtidus",
+    "latin": "Helleborus Fœtidus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "The effects of Hel. f. have been observed on several persons. It is a violent narcotico-acrid poison, and in fatal poisoning cases death has taken place in convulsions. The vision is disordered; choleraic symptoms occur; skin, hair, and nails exfoliate. The anxiety is > after vomiting.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Cholera; Hair, failing off; Nails, falling off; Scarlatina; Skin, peeling; Stiff-neck",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Thumping pain below and behind l. ear. Fatal convulsions. Swooning.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Verat. alb. (copious liquid stools); Hell. n., Hell. v., Colch."
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Dreadful anxiety; > after vomiting.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Great difficulty in reading, in evening, by candle-light; the sensation is as when the light flickers from a draught of air; cannot follow the lines.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Smarting at tip of tongue. Painful sensation like aphthæ in mouth (inhaling fumes of triturated plant). Taste of manure; tongue yellow in middle. Excoriation of mouth and throat. 11.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea and vomiting of food (taken an hour before with relish). Constant inclination to vomit. When pounding the plant it seems that the epigastrium with difficulty keeps time with the inflation of the chest on inspiration. Frightful pain in pit of stomach. Colic.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Violent purging and vomiting with pain in stomach. Abundant liquid stool during night; next day two liquid, whitish stools; again a liquid stool forty-eight hours later.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Tightness of chest, can scarcely half draw his breath.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "back": [
+      {
+        "text": "Numbness in muscles of neck; sensibility to touch blunted it becomes stiff eighteen hours later.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Skin of whole body peels, hair falls out, all the nails fall off. Profuse discharge from ulcerated surface (from application).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Stirs a good deal in his sleep. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "clarke-dictionary-1900"
+    ]
+  }
+}

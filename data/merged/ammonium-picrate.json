@@ -1,0 +1,27 @@
+{
+  "id": "ammonium-picrate",
+  "names": {
+    "primary": "Ammonium Picrate",
+    "latin": "Ammonium Picrate",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Ammonium Picrate. Clinical :- ► Periodical neuralgia in right side of occiput, boring extending to the ear, orbit and jaw, vertigo on rising, especially in irregular menstruation. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-handbook-1889"
+    ]
+  }
+}

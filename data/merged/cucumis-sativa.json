@@ -1,14 +1,19 @@
 {
   "id": "cucumis-sativa",
   "names": {
-    "primary": "Cucumis sativa (LINN.)",
-    "latin": "Cucumis sativa (LINN.)",
+    "primary": "Cucumis Sativa",
+    "latin": "Cucumis Sativa",
     "common": [
       "Cucumber"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Cucumis sativa (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

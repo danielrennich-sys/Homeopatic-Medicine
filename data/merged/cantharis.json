@@ -1,18 +1,27 @@
 {
   "id": "cantharis",
   "names": {
-    "primary": "Canth",
-    "latin": "Canth",
+    "primary": "Cantharis",
+    "latin": "Cantharis",
     "common": [
-      "Cantharides"
+      "Cantharides",
+      "Spanish Fly (CANTHARIS)"
     ],
     "synonyms": [
-      "Cantharis",
-      "CANTHARIS",
-      "Cantharis (U. S. P.)"
+      "Canth",
+      "Cantharides. Spanish Flies (Cantharideae)",
+      "Cantharides. Cantharis vesicatoria",
+      "Cantharides. (Cantharis Vesicatoria.)",
+      "Cantharis (U. S. P.)",
+      "Cantharides",
+      "Cantharis Vesicatoria"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "mentals": [
       {
@@ -28,6 +37,14 @@
       {
         "text": "Vertigo, with loss of consciousness, and mist before the sight, chiefly in the open air. Headache, which interrupts sleep at night. Pressive lancinations in the head, which disappear on walking. Acute drawing pains in the head, with vertigo. Congestion in the head. Throbbing in the brain, and heat, which ascends to the head. Sensation of burning in the head, as if the interior were raw, with inflammation of the brain. Drawing, jerking, and gnawing in the bones of the head. Headache, as if the hair were pulled. Hair standing on end. Headache, as if coming from the nape of the neck, and wishing to escape by the forehead. Burning in the sides of the head, ascending from the neck, with soreness and giddiness; in the morning and afternoon; when standing or sitting; > when walking or lying down.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Soreness and burning in brain. Dull heavy pain in forehead. Confusion of head in morning with pulsations in forehead. Burning in sides of head, ascending from neck, with soreness and giddiness ; < morning and afternoon ; when standing or sitting ; > while walking or lying down. Stitches in side of head and occiput. Painful tearing on vertex, with sensation as if some one was pulling a lock of hair upward. Violent lancinating pains deep in brain, especially in occiput. θ Cerebro-spinal meningitis. Heaviness in occiput, with drowsiness and incapacity to think. Head and throbbing in head. Sensation of fulness, with head rising up into head, with anxiousness. Headache from washing or bathing. Cerebro-spinal meningitis : paroxysms of rage and fury ; pain deep in brain, with an expression of great suffering ; base of brain is chief seat of pain ; urine dribbles or passes with burning-cutting pain. Hair falls out when combing. θ During confinement or lactation. Scales on scalp ; enormous dandruff.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Burning in brain. Sensation as if boiling water in brain. Vertigo; worse in open air",
+        "source_id": "boericke-1927"
       }
     ],
     "face": [
@@ -38,6 +55,14 @@
       {
         "text": "Paleness of the face. Face hollow, hippocratic, with features which express anguish and despair. Yellowish colour of the face. Erysipelatous inflammation and desquamation of the cheeks. Burning redness and swelling of the face. Swelling at one side of the face (r.), with tension. Swelling and inflammation of the lips. Fissure and exfoliation of the lips. Trismus.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Expression of extreme suffering, terror or despair. Sunken, hippocratic countenance. Deathlike look during and after the pains. Face : hot, red and swollen ; swollen and puffy ; flushed when stooping ; yellow, or very pale. Face fallen in ; cheeks bluish. θ Acute mania. Erysipelas beginning on dorsum of nose and spreading to cheeks, more to right. Dry lips without thirst. The jaws tightly closed, almost approaching trismus, especially when they wished to give her water or medicine, which she prevented by angrily tossing about. θ Acute mania.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Pale, wretched, death-like appearance. Itching vesicles on face, burning when touched. Erysipelas of face, with burning, biting heat with urinary symptoms. Hot and red",
+        "source_id": "boericke-1927"
       }
     ],
     "mouth": [
@@ -72,12 +97,28 @@
       {
         "text": "Retention of urine, with cramp-like pains in the bladder. Urgent and ineffectual efforts to make water, with painful emission, drop by drop. Difficult emission of urine, in a weak and scattered stream. Increased secretion of urine. Urine, pale yellow, or of a deep red colour. Flow of sanguineous mucus from the bladder. Emission of blood, drop by drop. Purulent urine. Burning smarting, on making water. Incisive pains in the front part of the urethra, during the emission of urine, and afterwards. Sharp, tearing, and incisive pains, successive pullings and pulsations in the urinary organs. Burning, stinging and tearing in the kidneys. Pressing pain in the kidneys, extending to the bladder; along the ureters; relieved by pressing upon the glans. Inflammation and ulceration of the kidneys, of the bladder, and of the urethra. Exceedingly painful sensibility of the region of the bladder on its being touched.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Dull pressing pains in both kidneys. Pain in region of kidneys and urging to urinate, steadily increasing in severity. Constant, dull painful sensation in region of kidneys, late in evenings. Paroxysmal cutting and burning pains in both kidneys, the region very sensitive to slightest touch, alternating with pain in tip of penis ; urging to urinate ; painful evacuation, by drops, of bloody urine and, at times, of pure blood. Inflammation of kidneys ; excessively violent pains of bladder ; gangrene of mucous coat of bladder ; paralysis of neck of bladder ; desire to urinate, frequent and violent, with scanty discharge with great pain, and often bloody. Dull, heavy distensive pain in region of kidney, either side, no relief in any position ; continued rolling and twisting of body, with groans and cries, resulting in nausea, retching and vomiting, unless the stomach is empty ; no great desire to urinate, but a tingling thrill running down dorsum to penis to glans. θ Renal calculus. Very frequent painful straining, but with discharge of so small quantity that he had to be frequently catheterized, which caused terrible pain ; urine cloudy, of a somewhat bright yellow color ; after standing a little, a sediment of mucus and phosphatic salts appeared : immediately on being passed was of alkaline reaction ; some pus with the urine ; region of bladder very sensitive to pressure ; attacks of painful urination more frequent and painful at night, he slept but little. θ Catarrh of bladder. Every two hours an attack of very painful urging to urinate, during which, with whining or groaning, a quantity of clear urine was discharged, accompanied by pressure on rectum and passage each time of a little soft, but otherwise normal stool. θ Bladder complaint in an old man. Violent tenesmus vesicæ and strangury. Painful discharge of a few drops of bloody urine, causing very severe sharp pain, as if a red-hot iron was passed along urethra ; this pain was most acutely felt as membranous portion of canal, and in meatus urinarius. Cutting and contracting pains from ureters down towards penis ; at times pains pass from without inward ; pressure on glans relieves pain somewhat. Violent burning, cutting pains in neck of bladder, extending to fossa navicularis, < before and after urinating. Violent pains in bladder with frequent urging ; intolerable tenesmus. Heaviness in bladder, feels sore on slightest motion. Urging to urinate from smallest quantity of urine in bladder. Dribbling discharge, reddish, sometimes mixed with blood. Urging, < when standing, and still more when walking ; > when sitting. With urging to urinate, stitching pain in forepart of neck of bladder ; on continued urging only a few drops pass. Frequent painful urination, constantly preceded by violent pain in glans. Ardor urinæ. Before, during and after urinating fearful cutting pains in urethra ; she must double herself and scream from pains. Burning, when urinating, and when not. Urine passes in thin and divided stream. θ Stricture. Fruitless effort to urinate. Frequent and copious urination. Enuresis. Retention of urine, causing pain. θ Suppressed gonorrhœa. Urine contained (when finally passed) much albumen, was almost black. θ Acute mania. Urine dark colored. Urine : turbid and scanty ; cloudy during night, like mealy water, with white sediment ; albuminous, containing cylindrical casts ; deposits greyish-white granules. Red-colored urine, as if mixed with blood. Atony of bladder from long retention of urine. Hemorrhoidal affections of bladder and enlarged prostate. Intense vesical spasm. Post-scarlatinal nephritis ; threatening uræmia. Morbus Brightii : early stage, especially when occurring from blows on loins, or sudden change of temperature. Diabetes insipidus.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Intolerable urging and tenesmus. Nephritis with bloody urine. Violent paroxysms of cutting and burning in whole renal region, with painful urging to urinate; bloody urine, by drops. Intolerable tenesmus; cutting before, during, and after urine. Urine scalds him, and is passed drop by drop. Constant desire to urinate. Membranous scales looking like bran in water. Urine jelly-like, shreddy",
+        "source_id": "boericke-1927"
       }
     ],
     "respiratory": [
       {
         "text": "RESPIRATORY ORGANS. ► Larynx and Trachea. [1070.] ► Hawking of tenacious mucus from the larynx (after half an hour), [8] . ► Intense pain in larynx (one case), (third day), [53] . ► Burning in the larynx and stomach, [27] . ► Tickling, provoking cough, [8] . ► Contraction of the trachea, [2] . ► Voice. ► Rough voice (second day), [94] . ► Hoarse voice, [87] . ► Hoarseness in the chest, [1a] . ► Voice feeble, [50] . ► *Speech very low, with sensation of weakness of the vocal organs (twelfth day), [6] . [1080.] ► On deep respiration, and a speaking, she feels as if she dare not exert herself, on account of extraordinary weakness of the respiratory organs; she therefore speaks only in a weak and frightened tone, [6] . ► Inability to speak (sexton), [86] . ► Cough and Expectoration. ► Cough, with pain in the abdomen, [1a] . ► Hacking cough, frequently (second day), [6] . ► Frequent dry hacking cough (fifteenth day), [6] . ► Several short paroxysms of dry cough, caused by irritation in the larynx, with more rapid respiration and a sort of tightness in the chest (immediately after taking), [2] . ► Cough in the morning on rising, with difficult expectoration, [1a] . ► Sputa frothy and bloody, [96] . ► Bloody expectoration after short cough (eighth day), [6] . ► Respiration. ► Hurried breathing (soon after), [76] . [1090.] ► Respiration hurried, [76] . ► Hurried respiration (after one hour), [99] . ► Hurried and difficult respiration, [60] . ► Difficult respiration, [25] . ► Respiration becomes difficult, [29] . ► Difficult and oppressed respiration, partly, as it appears, on account of contraction of the larynx and the trachea, partly also on account of dryness of the nose (soon after), [8] . ► Respiration labored, [96] . ► Breathing laborious, [50] . ► Gasps for breath, [96] . ► On ascending a mountain he gets out of breath; it catches him in the chest; he becomes nauseated (third day), [14] . [1100.] ► Oppression of breathing (second day), [6] . ► Threatening suffocation (sexton), [86] .",
         "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Canth.]. Complete loss of voice ; much cough ; threw himself about in bed, from anxiety. θ Croup. Speech very low, with sensation of weakness of vocal organs. Voice : hoarse ; feeble and indistinct. Burning and stinging in larynx, especially when attempting to hawk up tough mucus. Catarrh in larger bronchia, with profuse, yellow expectoration. When breathing deeply, and when speaking, she feels as if she dare not exert herself, on account of extraordinary weakness of respiratory organs ; speech therefore weak and timorous. Oppression of breathing, with sensation of constriction of pharynx. Dry, hacking cough. During cough : shortness of breath ; pain in abdomen ; erections.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Voice low; weak feeling. Stitches in chest (Bry; Kal c; Squilla). Pleurisy, with exudation",
+        "source_id": "boericke-1927"
       }
     ],
     "chest": [
@@ -100,12 +141,28 @@
       {
         "text": "Stiffness in the nape of the neck, with tension when bending it over. Acute drawing pains in the back. Tearing in the back (after rising from a seat). Sensation of constriction in the spine. Emprosthotonos and opisthotonos.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Stiffness of neck, with tensive pain on stooping. Stiffness, tearing, and lancinating in nape of neck to head. Tearing in cervical muscles. Tearing pain in back, especially mornings. Pressing, gnawing and tearing in back, while walking, after rising from a seat. Pain in loins, with incessant desire to urinate. Pain in loins, kidneys and abdomen, with such pain on urinating that he could not pass a single drop without moaning and screaming. Lancinations and tearing in os coccygis, causing him to start. θ Coccygodynia. In left lumbar region, sensation of coldness and formication, on a spot the size of a hand. Dragging in back, as before menstruation, followed by slight show ; t. Opisthotonus.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Pain in loins, with incessant desire to urinate",
+        "source_id": "boericke-1927"
       }
     ],
     "extremities": [
       {
         "text": "EXTREMITIES IN GENERAL. ► Objective. ► Great weakness of limbs (second day), [92] . ► In the morning, laxness and lassitude in all the limbs, so that he remains in bed much longer than usual (second day), [3] . ► Weariness in the hands and feet (fourth day), [6] . ► Collapse of limbs, [4] . ► Trembling of the limbs, [4] , [87] . [1270.] ► Trembling of the limbs, [87] . ► Trembling and weakness of the limbs, lasting a long time, [94] . ► Trembling of the hands and feet, during the chill, in the evening, [6] . ► Unconscious tossing about of the limbs, [64] . ► Convulsions in all the limbs, [93] . ► Numbness of arms and legs (after three weeks), [98] . ► Subjective. ► A feeling of dryness in the joints of the arms and limbs, for twelve days, [1a] . ► Pain and stiffness of limbs (after three weeks), [96] . ► Contracting, almost paralytic, pain in the limbs, [1] . ► Drawings in the extremities, [87] . [1280.] ► Drawing, almost paralytic, pain in the limbs, [1a] . ► The forearms and lower legs feel bruised (third, fourth, fifth and sixth days), [6] . >>>>> Copyright © Médi-T ® 2000 Canth.",
         "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Tearing and stitching pains in arms. Drawing pains in shoulder joint. Eczematous vesicles between fingers, itching and burning fearfully. Eczematous eruption on dorsum of left hand, between and upon fingers ; burning, pricking, shallow vesicles filling with fluid and soon drying into thin crusts, which peeled off, leaving denuded spots ; < from cool water, > from warmth. Coxalgia with spasmodic pains in bladder and strangury. Tearing from right, later left hip bone, down to knees. Knees totter when ascending steps. Violent pains in knees ; sometimes boring. Pain in soles, as from an ulcer, could not step. Fearful pain in soles of feet, like an ulcer ; she could not step for four days. \"Going to sleep\" of lower extremities. Contraction of lower limbs. Darting pain from right foot to right side of head in paroxysms. θ Neuralgia. Weakness and trembling of limbs. Tearing in limbs, relieved by rubbing. Dropsical swelling of hands and feet. (In sick :) Cold extremities. Cold sweat of hands and feet.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Tearing in limbs. Ulcerative pain in soles; cannot step",
+        "source_id": "boericke-1927"
       }
     ],
     "lower_extremities": [
@@ -122,6 +179,14 @@
       {
         "text": "Itching vesicles, with burning pain on being touched. Blisters, from burns. Erysipelatous inflammations. Acute drawing pains in ulcers, with increased suppuration.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Ulcerative pain in skin when touched. Erythema, from exposure to rays of sun. θ Eczema solaris. Vesicles all over body, < between toes, which are all sore and suppurating. Vesicular erysipelas ; blebs swell and exude much watery matter. Erysipelatous inflammation of skin, followed by prickling. Superficial ulcerations caused by burns, with burning pains and lachrymation. Burns, before blisters form, and when they have formed. [Obs. Recommended by Dr. Hering as a most valuable remedy in scalds and burns. The injured part is immersed or bathed in a few drops of the tincture in water. A potency may be given inwardly. To demonstrate the truth of similia, he frequently challenged skeptics to burn their fingers and then immerse the injured members in a dilution of Cantharides. --The editors.]. Pemphigus. Psoriasis. Pityriasis, especially in children. Itching, changing place, like from lice. Ulceration and gangrene after exanthematous disease. Ulcers with itching, tearing and lacerating, or burning, smarting and stinging ; pus copious, inodorous, slightly yellow, sometimes tinged with blood, < from rubbing and scratching. Carbuncle. Immovable, firm, hard tumor, directly above symphysis pubis. Eczema : watery vesicles, as if excoriated ; burning, itching, and when touched burning and smarting ; eruption mostly on right side ; early inflammatory stage. Petechiæ. Large burning, painful blisters on an erysipelatous base. Variola : dysuria and bloody urine ; distressing headache and backache ; eruption not properly developed, or assuming an hemorrhagic hue.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Dermatitis venenata with bled formation. Secondary eczema about scrotum and genitals, following excessive perspiration. Tendency to gangrene. Eruption with mealy scales. Vesicular eruptions, with burning and itching. Sunburn. Burns, scalds, with rawness and smarting, relieved by cold applications, followed by undue inflammation. Erysipelas, vesicular type, with great restlessness. Burning in soles of feet at night",
+        "source_id": "boericke-1927"
       }
     ],
     "sleep": [
@@ -132,6 +197,10 @@
       {
         "text": "Great drowsiness, esp. in the afternoon, with yawnings and stretching. Sleeplessness without apparent cause. At night, half sleep, with frequent waking.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sleeplessness ; anxious dreams ; erections. Sleepy, but cannot sleep soundly on account of sudden twitchings. θ Sequel of a burn.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "generalities": [
@@ -146,9 +215,25 @@
       {
         "text": "Hoarseness, with painful rattling of viscid mucus, copious, and coming from the chest, and with incisive shootings in the trachea. Oppression of breathing, with sensation of constriction of the pharynx. Stitches in the chest during air inspiration. (Inflammation of the lungs.). Inflammation of the larynx. Sensation of excessive weakness in the organs of respiration, on speaking and on breathing deeply. Voice feeble, timid, and trembling. Weakness and swelling of limbs. Dropsical swelling of hands and feet. Cold sweat of hands and feet. Acute tractive pains in the arms. Want of strength in the hands. Eczematous eruption on dorsum of hand and between fingers, itching and burning fearfully, from cold water, > from warmth. Pains in the hips, with spasmodic sufferings in the urinary passages. Acute tractive, piercing pains, in the legs, from the feet to the hips. Trembling of the legs. Darting pain from r. foot to r. side of h cad in paroxysms. Burning pains, as from excoriation, in all the cavities of the body. Acute shootings towards the interior in different parts. Drawing, arthritic pains in the limbs, with affection of the urinary ducts, mitigated by rubbing. Violent pains, with groans and lamentations. Sensation of dryness in the joints. Want of flexibility of the whole body. Dejection and weakness, with excessive sensibility in all parts of the body, trembling, and desire to lie down. Prostration of strength, proceeding even to paralysis. Convulsions, tetanus. The sufferings show themselves chiefly on the r. side, and are mitigated in a recumbent posture. The symptoms are renewed every seven days.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Restlessness, compelling him to move about continually. Subsultus tendinum. Weakness, prostration, faintness, general coldness, collapse. θ Diphtheria. Universal tetanic spasms, trembling, fainting. Convulsions, with dysuria and hydrophobic symptoms ; bright light, drink or sound of falling water, touching larynx, or painful parts, cause or renew spasm ; excessive desire for sexual intercourse. Hysteria with urinary troubles. Paraplegia occurring in morbus Brightii. Hemiplegia of right side with aphasia. Tetanic or epileptiform convulsions, followed by coma. Some symptoms appear every seventh day. Sides : of head, burning. Right : ear, tearing ; mastoid process ; liver painful and sensitive ; axilla into chest, fine stitching ; tearing in hip bone ; darting pain in foot and head. Left : lumbar region, sensation of coldness ; eczematous eruption on dorsum of hand and fingers. Raw and sore pain in whole body, internally and externally. Every part oversensitive, accompanied by excessive weakness. Burning, stitching and tearing pains predominate. As if some one was pulling a lock of hair ; as if a red-hot iron was passed along urethra. Darting, stinging pain on different parts of body at same time. Compare Crot. tigl. Prickling : after erysipelas. Stitching : in neck of bladder ; in sides of head and occiput ; in groins ; from axilla into chest ; in heart ; in sternum ; in arms. Lancinating pain : deep in brain ; nape of neck ; in os coccygis. Cutting : in both kidneys ; from ureters downward towards penis ; in neck of bladder ; stitches along trachea ; in abdomen ; in groins. Shooting : in chest. Pain : in tip of penis ; in abdomen ; in loins ; in knees ; in soles. Darting pain : from right foot into head. Boring : in knees. Tearing : and stitching pains in anus ; on vertex ; in nape of neck ; in back ; in cervical muscles ; in os coccygis ; in arms ; from hip bones to knees ; in limbs. Drawing : in spermatic cord ; in region of heart ; in shoulder joints. Dragging : in back. Burning : in throat ; violent, in stomach ; intestinal tract ; in anus ; in both kidneys ; when urinating ; excretory ducts ; in larynx ; in brain ; in eyes ; in mouth ; in region of pylorus ; about umbilicus ; in groins ; in bladder ; in chest ; in palms ; in soles. Biting : in anus ; in eyes. Stinging : in eyes. Smarting : in eyes. Scraped : sensation in throat. Dull pressing pain : in both kidneys. Pressure : in scrobiculum. Dull, heavy pain : in forehead ; in region of kidney. Throbbing : in head. Fulness : in head ; in stomach, chest and abdomen. Dryness : in mouth. Heaviness : in bladder ; of head ; in occiput. Coldness : in left lumbar region. Formication : in lumbar region. Itching : between fingers ; violent in vagina. Crawling sensation : in heart. Acts on parenchyma of kidneys and destroys them. Increased secretions from mucous membranes and ulcerated surfaces. Hemorrhages from nose, mouth, intestinal canal, urinary and genitals organs. Great emaciation. θ Catarrh of bladder. Swelling, heat, redness, even gangrene of parts. Pleurisy, particularly in morbus Brightii. Dropsy from atony of urinary organs, with ischuria. Skin affections, particularly of an erysipelatous, vesicular character. Suppuration of internal organs. TOUCH. PASSIVE MOTION. INJURIES. [45] [Canth.]. On being touched or disturbed had violent attacks, so that it took four men to hold her. θ Acute mania. Touching the larynx or painful parts renews symptoms. θ Spasms. Pressure : on stomach produces convulsions ; swelling of glans painful. Scalds and burns. See 46. A boy, æt. 6, light complexion. θ Sequel of a burn. A woman in third month of pregnancy. θ Eczema of hands. Woman, æt. 29, scrofulous. θ Kidney affection.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Cantharis. A tincture is prepared by digesting one part of the pulverized dried Spanish flies (Cantharis vesicatoria) in five parts of alcohol. General Action :- ► Spanish flies applied to the skin produce blisters (vesication, with inflammation and even sloughing). ► It produces (taken internally) the most violent inflammation of the whole gastro-intestinal canal, especially of the lower bowel. ► It is eliminated by the kidneys, and causes acute inflammation of that organ, and of the entire urinary tract. ► In some cases it produces sexual excitement. ► Delirium and convulsions occasionally result from large doses. Allies :- ► Merc. cor., Terebinth., Caps., Ars., Apis, Nit. ac . Generalities :- ► ► Marasmus . ► Emaciation. ► Bent almost double, with arms folded across hypogastrium. ► Increased plasticity of blood drawn from veins. ► Trembling. ► Throwing herself about as if on fire. ► Twitching of tendons ; intermittent, painful twitching, now on right side of occiput, now on external surface of left knee. ► Catalepsy. ► Epilepsy ; complicated with hysterical symptoms. ► Convulsions ; with horror of liquids ; in paroxysms, with priapism. ► Convulsions almost constantly, sometimes he tossed about in despair, sometimes he got up, rushed like a madman to another bed in the same room, bent the curtain rods like reeds, screamed, eight men could scarcely hold him sometimes emprosthotonos, sometimes opisthotonos, sometimes mouth open, sometimes trismus, with grinding of teeth, running of frothy, at times blood-streaked saliva, face expressive of fright and despair, in the convulsions the hair bristled, the gaze fixed, eyes sparkled, then rolled frightfully, pulse full and slow, abdominal muscles contracted when pressing on umbilical region, that part of abdomen seemed glued to spine, especially recti, which were like tightened cords ( Plumbum ), then spasms became general and head was thrown back, on attempting to make applications to most painful part of abdomen, he broke away like a madman, frothing at the mouth more than ever, eyes became fiercer, the constriction of throat almost choked him, howled like the barking of a dog, then general convulsions, which ended in fainting and stupor , renewal of these attacks on pressure upon painful places in hypogastrium and at sight of liquids. ► Stitches over whole body ; now here, now there in body, in afternoon ; now here, now there, with tearing ; all extend inward ; are generally combined with tearing ; in left lower ribs, then tearing near right wrist, then S. in left upper arm ; in afternoon, in right side of chest, then tearing between scapulæ, then S. in right shoulder, then in right hypochondrium, then in right scapula, whence it passes into right hypochondrium. ► Tearing in affected parts, for example, in ulcers ; in forehead, then in region of right ear, then in lower jaw, then on ear again. ► Violent pains. ► Raw and sore pain internally and externally. ► Crushed feeling, with sensitiveness of every part, internally and externally, and weakness . ► General tension, with dryness in mouth, thirst, anxiety and pains in limbs. ► Pulsation in whole body, so that the limbs tremble. ► Restlessness ; with heat in head ; walking the room screaming ; seeming to originate in stomach, with prostration, shiverings and nausea. ► Feeling as if dying. ► Indefinable illness. ► General discomfort. ► Weakness ; in morning after sweat at night ; in morning after emission, then restless, unrefreshing sleep, amel. wine, with emptiness in stomach and hunger ; progressive (amel. drinking freely of alcoholic liquors, which produced no intoxication) ; as in beginning of nervous fever ; restless, at night ; so that muscles were almost unable to contract ; agg. on right side of body ; so that she could hold nothing in her hands ; W., especially in legs. ► Faintness . ► Stiffness, with open mouth, showing the teeth ; stiff feeling in whole body, with heaviness, ascending steps in very troublesome, legs feel as if filled with lead. ► Paraplegia, with cramps and itching. ► Reappearance every seven days of attacks, excepting urinary symptoms. ► Aggravation sometimes from coffee. ► Amelioration in morning in bed ; in evening, of all other symptoms when the urinary difficulties appear ; at night of all pains except in abdomen ; from eructations ; after emission of flatus ; when lying ; from warm applications ; from warmth ; from severe motion, even to perspiration. Clinical :- ► Violent spasms reproduced by touching larynx. Mind :- ► Screaming, with legs drawn upon thighs ; S., with frequent loss of consciousness. ► Delirium ; in evening ; at night ; with convulsions ; furious ; talking disconnectedly of his business and of people who long had been dead. ► Frenzy. ► Excitement ; they rose from bed, ran about the room, racked by vomiting and copious stools. ► Insolent and contradictory mood in afternoon . ► Anger. ► Instability. ► Alarm and agitation. ► Fright at night, with dreams of falling. ► Despondency, saying that she must die. ► Distrust of himself in afternoon, like a hypochondriac. ► Melancholy after dinner, with anxiety. ► Anxiety ; with general trembling, the latter continuing while walking in open air ; in morning, as if he expected something important ; as if he had committed murder, seeming to arise from stomach. ► Discontented ; and absorbed in thought. ► Morose, anxious and lachrymose mood in forenoon. ► Churlish mood. ► Fretful ; in morning when rising ; in evening during the pains. ► Brawling, nobody does anything to suit her. ► Cheerful, talkative ; C., merry, feeling as if newly born, and the room and all objects appeared clearer and more pleasant. ► Apathetic as if stupefied. ► Indolent, indifferent, pensive. ► Confusion. ► Distraction in forenoon and many ideas of various kinds running through his mind, which he cannot keep away. ► Depression of powers in morning. ► Dullness of perception, then stupidity and loss of reflecting faculty. ► Loss of thoughts as soon as he wishes to think of anything, gaze fixed in silence on one object (which he scarcely notices), and trouble in recollecting himself in order to express a few words coherently. ► Forgetful. ► Comatose. ► Unconscious. Clinical :- ► Acute mania, generally of a sexual type, amorous frenzy, fiery desire for sexual intercourse, with persistent painful erections, paroxysms of rage, crying and barking, even convulsions. ► Acute mania after erysipelas. ► (Mania in a woman, with occasional spasms, attempts to bite, with strangury, which seemed to have resulted from applying turpentine to the feet, immediately amel. Canthar .). Head :- ► Sinking in every direction, from heaviness. ► Stitches in forenoon and evening, amel. walking ; with soreness and sensation as if the pains would extend through eyes ; cutting, waking him. ► Dragging and tearing, only on motion, on stooping and turning head a sensation starting from neck and pressing head forward, with feeling as if everything would press out at forehead. ► Boring, with drawing, tearing throbbing and pressing pain. ► Aching ; amel. breakfast ; sometimes with delirium ; with vertigo ; with internal and external heat in forehead ; with shivering ; with dull heavy feeling around eyes ; with trembling and universal spasms, then coma ; as if sore internally. ► Oppression. ► Confusion ; in morning, with pulsation in forehead ; with heaviness in vertex. ► Heaviness ; agg. motion, with aching. ► Congestion of brain. ► Vertigo ; on walking in open air, with unconsciousness and fog before eyes ; with weakness in head ; with staggering with faintness. Forehead :- ► Stitches in right ; in left eminence on standing ; above root of nose. ► Tearing ; and in nape ; in sinciput. ► Aching ; and in supraorbital regions ; above nose ; extending to temples ; pressing out, waking him at night, amel. sitting up in bed ; like a heaviness. ► Deep-seated heaviness, with dullness and sensation as if head were pressed forward. ► Confusion, with pain and drawing. Temples :- ► Stitches in left ; in right in afternoon ; in right, becoming a painful throbbing, amel. rubbing. ► Shooting-darting pain in right, and in right eye. ► Tearing ; in right ; in right after a meal. ► Gnawing in periosteum of right bone. ► Throbbing externally in right, with painful drawing in bone. ► Compression towards each other. ► Forcing-out pain in right, passing towards teeth. Vertex :- ► Tearings in forenoon, with sensation as if a lock of hair were drawn upward. ► Pressing on V. and in temples, with stitches in temple, agg. right ; P. alternating with throbbing, at 8 P.M ., agg. every motion. Sides :- ► Stitches in left in morning ; in right in afternoon ; in right in evening when sitting and standing, with throbbing ; in left parietal bone, then boring in left ear ; in left parietal bone after dinner, with tearing in left jaw while speaking ; in upper part of right parietal bone. ► Tearing in right, with stitches ; T. in right parietal bone ; in left side, agg. touch. ► Aching in left half ; sudden in right side, with chilliness, trembling and spasms, then coma, then alternately lethargy, coma, rational condition and convulsions ; drawing, in left and in forehead. ► Painful throbbing deep internally in right. Occiput :- ► Stitches in evening on lying down ; in left after dinner ; in afternoon, extending into sinciput ; deep into brain on right bone in afternoon, more in upper part ; in upper part, from both sides inward, with tearing. ► Tearing from left side into left side of forehead, with vertigo, which lasted longer than the pain. ► Painful twitching externally in right bone. Scalp :- ► Hair falls out on combing. ► Stitches in right side of occiput, then tearings in left parietal bone. ► Head and hair feel stiff to him. Clinical :- ► Neuralgia of head and face from taking cold, with loud screams and jerking of muscles. Eyes :- ► Turned towards nose. ► Protruding. ► Sunken ; and surrounded by blue rings. ► Red and lustrous. ► Inflamed ; causing blindness. ► Lustreless. ► Sticking in left, with itching. ► Tearing in right. ► Cutting while writing. ► Pressing ; in afternoon, so that lids close. ► Pain on writing ; on exertion ; as after excessive weeping. ► Smarting in right in afternoon ; S. as from salt. ► Itching in right in afternoon. ► Heat. ► Lachrymation ; in open air, with necessity to close lids, if he opened them pain as if margins were sore, like raw flesh ; with tension of upper lids. ► Painful drawing in right ball before dinner. ► Pupils dilated ; with dim vision ; contracted. ► Lids closed more than usual, eyes looking small. ► Twitching of lid ; of left lower ; of right upper at 2 P.M . ; of right lower, with stitching. ► Smarting of lids on closing ; of lids and around balls, with burning. ► Conjunctiva suffused. ► Spasmodic stitches in brows, drawing down to chin, with heat in palate as from eating something burning. ► Pain in left orbital arch as if pressed by a blunt instrument. ► Vision dim ; (on writing, then headache). ► Inability to distinguish an object until he nearly closes the lids and shakes the head two or three times. ► Vision yellow in morning. ► The letters on the paper are green and yellow. Clinical :- ► Acute inflammation of eyes, with biting and smarting as from a burn. Ears :- ► Stitches ; in left. ► Tearing externally in right meatus, then in left shoulder ; deep in right ear with tickling in left. ► Tearing in right mastoid process ; in evening, with stitching ; sudden, in right mastoid process, extending into lobule of ear, with stitching in ears, agg. rubbing ; in right mastoid process, below ear, as with a knife, even at night, with headache in forehead like a heaviness. ► Painful drawing in right mastoid process. ► Pressing behind right ear. ► Hot vapor issues from either alternately. ► Drumming. ► Roaring after supper. ► Ringing before, with humming. Nose :- ► Swelling, with internal redness and soreness ; with redness and sensation as if it would fester, especially internally, the pain agg. touch and talking. ► Redness, with heat and a pustule. ► Inflammation, with spots, sore pain and pimples ; I. of tip ; on edge of right wing, especially towards end, appearing at irregular intervals red and shining, with swelling and pain. ► Pimple in left nostril, burning on touch. ► Stitches in nostrils ; outward in left wing. ► Pain, with tension, throbbing, swollen sensation and pain on touch. ► Pain on top at 3 A.M . as if he had pressed it, then tension and erysipelatous inflammation and swelling from back of nose done sides into cheeks, agg. right, like redness of cheeks, becoming white under pressure of finger, then rapidly again red, hard to touch, afterwards desquamation, then similar inflammation, especially on right upper lip, sides and tip of nose. ► Soreness of nostrils. ► Drawing in right nostril, with tickling and ineffectual irritation to sneeze. ► Itching in nostrils, uvula and throat. ► Sneezing ; then sticking in left wing ; violent in morning. ► Catarrh, with much tenacious mucus from nose, hoarseness, painful hawking of tough mucus from chest and nightly dry, cutting stitching along trachea. ► Mucus mixed with blood. ► Bleeding. ► Constant stench before nose, passing down throat. Face :- ► ► Deathly look during and after pains in afternoon. ► Suffering expression. ► Sallow and puffy . ► Yellow, also eyes. ► Hippocratic. ► Pinched. ► Cyanotic. ► Pale ; in afternoon during and after pains ; during the chill ; and covered with sweat ; sunken and expressive of terror ; with flushes. ► Sickly, with dim eyes surrounded by dark rings. ► Anxious countenance. ► Red ; on stooping, blood shooting forcibly into head, even head becoming hot when sitting, not when walking ; in spots. ► Glowing of right side while left is waxy yellow. ► Swollen ; right half ; right side, and tense ; right cheek S. and inflamed, with drawing pain in upper teeth. ► Disfigured. ► Animated expression. ► Sore pain in bones, extending into ear, agg. right side. Lips :- ► Swollen. ► Eruption in corners. ► Pimples on margin of upper in evening. ► Inflammation and blisters on lips, tongue, palate and pharynx. ► Desquamation ; and of mouth. ► Cutting in middle of margin of lower, ending behind right ear. ► Soreness, and tongue loosened from its upper skin and arch of palate dark-brown. ► Burning, and of tongue and palate. ► Dryness, without thirst ( Apis ) ; D. during and after the pains, with thirst. Jaws :- ► Mouth wide open, with chewing motions of jaws. ► Twitching in middle of left lower while speaking. ► Stitching in upper in afternoon, somewhat on right side. ► Tearing in right lower in morning while walking ; in left lower, in afternoon, extending backward ; in middle of right lower, and in a tooth there. ► Gnawing in middle of right lower ; in middle of lower, spreading to teeth. ► Sore pain on inner margin of lower, where there is an itching tetter, the pain agg. speaking and touch. Clinical :- ► Erysipelas of face, with burning biting heat and urinary symptoms. Mouth :- ► Teeth :- ► Looseness. ► Rising up of the root of a right lower, and it can be drawn out easily, when the tearing ceases. ► Tearing in right lower molars ; in right lower carious molar. ► Drawing pain in upper in afternoon agg. eating. ► Drawing, then sticking, agg. evening after lying down, preventing sleep. Gum :- ► Swelling, and of mucous membrane of cheeks ; with redness. ► Red spot above carious root of upper incisor, painful, if pressed discharging pus from an opening in centre, if pressed discharging pus from an opening in centre. ► Red spot above left upper incisor, painful, becoming agg. external pressure, with swelling of upper lip. ► Blister, with red points, with swelling of upper lip. ► Sudden, tearing, and in left lower incisor. ► Pain. ► Painful drawing in right, extending outward on right upper incisor, with sensation as of something were drawing across lip. ► Quivering in right of left upper eye-tooth. Tongue :- ► ► Swollen and coated. ► Sublingual glands swollen. ► Coated, red at edges . ► Coated white ; down centre. ► White, with bitter taste, nausea and aversion to everything. ► Bleached along sides and tip, blackish-brown in centre and swollen. ► Red at edges, with yellow coat on its anterior two-thirds. ► Bluish-red, covered with white blisters, containing bile-like fluid. ► Painful blister along centre. ► Part of T. and back of mouth excoriated, part covered with blisters . ► Festering, and of throat and gum. ► Aphthæ covering margin and gums ( Tarent .). ► Trembling. ► Stitch in tip, as if she had bitten it. ► Burning, and on palate. ► Dryness in morning and mucous coat ; D. and pallor. ► Tickling on tip. ► ► Mucous membrane red and covered with blisters ( Borax, Sul. ac .). ► Back of mouth swollen and red, the tissues crossed by enlarged veins. ► Purple swelling near last lower molar, discharging clotted blood. ► Inflammation and ulceration ; I. and swelling of mucous membrane, with salivation. ► Excoriation ; of mucous membrane from mouth to anus. ► Blisters, and in pharynx ; white, on palate, gum and tongue . ► Slimy in morning, with white tongue ; S. in morning, and bitter ; at night on waking. ► Much tough mucus drawn into M. through posterior nares. ► Mucus and blood from M. and nose. ► A clot of blood comes into M. towards morning. ► Biting pain in palate, agg. after eating. ► Sensation on right side of M. as if its membrane were raised by a needle. ► M. and tongue seemed deprived of mucous membrane. ► Tension, with dryness, thirst and pains in limbs. ► Burning pain, and in throat and stomach ( Arsen., Arum t .). ► Burning, and in pharynx and stomach. ► Dryness ; and of nose. ► Salivation ; in morning ; with redness of gums ; with mucus from mouth ; with constant spitting of mingled mucus and dark saliva ; so that he must lie on his side ; without coppery taste ; disgusting, sweet. ► Offensive breath. ► Breath like cedar pitch. ► Taste as of cedar pitch ; nauseous ; foul on rising ; foul afternoons ; bloody ; bitter ; insipid, as of sweet cheese ; sour ; unsalted, to food ; lost. Throat :- ► ► Swelling , with erysipelatous flush and turgid veins across fauces ; S. of tonsils. ► Redness, with pressing, which on swallowing changes to sticking. ► Inflammation and covering of plastic lymph ; I. of tonsils. ► Aphthous ulcer at back part, covered with a whitish adherent crust, and a similar one on side of right tonsil ( Merc. cor. ). ► Abrasion, with blisters. ► Relaxation of uvula. ► Pain in pharynx during hunger ; burning, and constriction. ► Burning soreness, with inflammation . ► Scraping, with necessity to hawk up mucus after meals ; burning S. in pharynx, with sweetish, disgusting taste on tongue and in mouth as far as pharynx. ► Roughness ; in forenoon, with hoarseness. ► Constriction at back part, with pain ; C., even to suffocation. ► Burning ; in pharynx on swallowing ; agg. pressure, and in pit of stomach ; especially at entrance of sophagus, extending to epigastrium. ► Dryness in afternoon, without thirst ; D. in pharynx, with occasional sticking. ► Swallowing difficult ; impossible. sophagus :- ► Constriction. ► Burning ; agg. while drinking. Clinical :- ► Inflammation of throat, which feels on fire ( Arsen. ). ► Aphthous ulceration of throat, regurgitation of drink, etc. ► Diphtheritic inflammation of throat, with constriction amounting almost to suffocative dyspna, etc. Stomach :- ► Appetite increased. ► Hunger, waking at night ; H. after relief of pains. ► Appetite diminished . ► Lost ; evening and morning ; for supper ; lost after coffee. ► Disgust for food ; in evening during the paroxysm, at seeing food or hearing about it ; for tobacco. ► Thirst ; at 8 P.M ., after the shaking chill ; at night, with fever ; during dinner ; during the coldness ; after the chill ; when not in pain ; with burning pain in throat and stomach ( Arsen .) ; with frothy and bloody sputa ; but liquids can hardly be swallowed and are at once vomited ; loss of T., and water does not taste good. ► Eructations ; frothy and sour ; of frothy, sour mucus, tinged bright red ; tasting of food after dinner ; hot, with heartburn, no thirst, the burning in pharynx agg. drinking water ; empty ; incomplete, almost like hiccough, also passing backward from pharynx towards stomach, before dinner. ► Hiccough ; in afternoon. ► ► Nausea ; in morning, with coldness, in afternoon heat ; in morning, even to vomiting ; towards evening ; when eating ; on walking and standing ; with disgust for everything ; with salivation ; with trembling of feet ; intermittent ; in epigastric region on stooping or on inspiration ; like a weakness in stomach, after coffee in forenoon. ► Retching. ► ► Vomiting ; with pressing in stomach, then cutting ; with pain in hypogastrium and bearing down, urging to urinate, with heat and smarting and ineffectual urging to stool ; with strangury, then inflammation of kidney. ► Of blood ; with strangulation. ► Of greenish, offensive matter. ► Of mucus ; frothy M. ; bloody ; frothy, bloody ; of glairy, tenacious ; of tenacious, taking the form of the gullet ; of mucus and ingesta, without exertion. ► Of bile ; and ingesta. ► Of everything. ► Of ingesta. ► Of herby-tasting food, with stool. ► Of the water he drinks, with blood. ► Of membrane ; of membranous flakes (morbid secretion of alimentary canal). ► Of a cylinder mass, apparently inner membrane of gullet. ► Lancinations. ► Cutting ; intermittent, in pit and about umbilicus. ► Pinching in right epigastric region in morning, with stitching. ► Gnawing in region, extending into back between shoulders. ► Cramp ; with free emesis. ► Acute pain in region of S. and bladder, with such sensibility that pressure caused convulsions . ► Pain ; in epigastrium ; in epigastric region and in groin ; in epigastrium, agg. pressure, and in umbilicus. ► Pressing, agg. when empty ; P. extending backward from both sides into spine, where it seems screwed together. ► Pressure in pit in afternoon. ► Drawing pain. ► Burning pain in region. ► Inflammation. ► Cardialgia, agg. drinking, with sour eructations. ► Burning ; all forenoon, with taste of wine in mouth ; at orifice ; in epigastric region, with pain. ► Sensation before dinner as if screwed together. ► Crushing in pit, amel. as soon as she takes anything warm or drinks anything cold. ► Heaviness in epigastrium and umbilicus, with heat and smarting. ► Fulness, with pressure, as if he would eructate ; F. in epigastric region, with anxiety and restlessness. ► Sensitiveness internally in afternoon, with food appetite ; S. internally in epigastric region and externally. ► Distress, with nausea after eating, feeling as if a load oppressed him ; D., with nausea, then vomiting of the water he had drunk, gasping and general chilliness. ► Indescribable sensation in epigastric region, she feels hungry without really being so. ► Weakness. Abdomen :- ► ► Distended ; and tympanitic ( Terebinth ) ; and tender ; with movements as if flatus would pass. ► Retracted and sensitive to pressure, especially hypogastrium. ► Rumbling ; while sitting ; with rattling. ► Growling, more on right side of hypogastrium, passing backward ; G., with rumbling and shaking. ► Rolling, with sensation as before diarrha. ► Movements of flatus in evening, with pinching, the pain extending into chest ; M., causing lumps, as if a child were there. ► Movements, with yawning. ► Emission of flatus ; noisy, in evening. ► Tearing, with pinching ; T., with diarrha and pain in anus. ► Cutting ; towards evening, during stool, after the stool shivering ( Caps. ) ; from 5 P.M . till morning, with necessity to roll about ; with boring in knees, after coffee vomiting of bitter stuff, then bitter taste. ► Pinching during stool, after the stool shivering. ► Griping ; at 3 A.M . ; then liquid stool ; extending upward and becoming stitches, then stitching backward on both sides, hindering respiration. ► Sensation as after a drastic purge. ► Inflammation ; of whole alimentary canal, ureters, kidneys and internal sexual organs. ► Pain ; after coffee ; from coughing ; before diarrha ; agg. pressure ; agg. pressure, worse over hypogastrium and scrobiculus cordis ; agg. during stool, which is increased thereby, with pain in anus ; amel. diarrha ; with nausea and vomiting of ingesta ; with urging to stool ; in intestinal canal, changing to inflammation and gangrene. ► Sensation after midnight, as if menses would appear. ► Bearing-down pains. ► Dragging pains to genitals in afternoon. ► Sensitiveness to touch. ► Burning along alimentary canal ; agg. morning, amel. several stools, with twisting ; internally and externally in morning ; as after strong wine. ► Cutting in upper. ► Pain in upper. ► Cutting in right side. ► Pinching in left side. ► Sudden gripings in sides when standing, rather externally. Hypochondria :- ► ► Incarceration of flatus under short ribs (as of offensive flatus). ► Stitches in left, and in centre of sternum. ► Aching below ribs. ► (Inflammation of liver, with erosion of intestines.). ► Sensation as if something held her together below right false ribs. Umbilical Region :- ► Pinching. ► Griping below navel before and during stool. ► Burning pain above navel on coughing, sneezing and blowing nose, whereby the abdomen seems very hot, with yellow spots externally in region of this pain, which spots when touched are more stinging than burning. Hypogastrium :- ► Fermenting. ► Sticking in right groin in morning ; in left groin, extending downward ; cutting, in groin, and burning, with cutting when urinating. ► Cutting in groins, amel. sitting and standing, agg. walking ; intermittent wandering C. in H. ► Gnawing. ► Griping from morning till 1 P.M ., with pressing towards genitals. ► Pain ; extending into lumbar region, most intense just above pubes, with nausea ; above symphysis pubis and down ureters. ► Drawing in pubic region, with tearing. ► Tension along inguinal canal and testicles, around pelvic region. ► Compression on sides, but farther downward in left. ► Heat in pelvis, with constant desire to urinate, then some drops of urine. Clinical :- ► Intestinal inflammation, with burning heat, tympanitic distention ( Tereb .). Rectum :- ► Cutting at 8 P.M ., amel. emission of flatus while standing and walking, but return of the pain with urging to stool, the pain amel. soft stool. ► Burning. ► Crawling. ► Tenesmus ( Caps., Merc. c .). ► Urging, then copious soft stool ; to a hard stool, soon afterwards liquid stool preceded by colic. ► Frequent urging ; with scanty stool. ► Ineffectual urging ; after first stool ; during micturition. Anus :- ► ► Passage of pure blood, and from urethra ; after violent efforts ( Merc. c .). ► Burning after diarrha ( Merc. c., Nit. ac .) ; after stool, with stitches. ► Pain in perineum ; seeming to arise from neck of bladder rather than from root of penis . ► Itching in perineum, with tenesmus at anus. Stool :- ► Dysentery. ► Diarrha ; with burning in anus ; with irritation in rectum ; consisting of blood and mucus ( Caps., Merc. c ., etc.) ; mucous ; of green mucus after three days' constipation ; frothy ; watery ; of brown liquid in morning ; two liquid yellow stools during the day, with cutting in abdomen after each and biting pain in anus ; frequent, with colic. ► Constipation. ► Hard in morning, afterwards soft, with colic ; H., with protrusion of rectum ; then twinging in anus ; and delayed ; and difficult. ► Red, slimy. ► White touch mucus with the stool, like scrapings from intestines, with streaks of blood ( Nit. ac .), seven times in one night. ► Copious . ► Scanty, black and tarry looking. ► Slight, somewhat hard, difficult, with cutting in rectum. ► Painful. ► Difficult and insufficient. ► Frequent ; two in morning, with tenesmus. ► Omitted ; but emission of flatus. Clinical :- ► Diarrha like scrapings of intestines, reddish, mucous or bloody, flaky ; during stool extreme burning at anus, dysenteric bloody stools, with intolerable burning tenesmus, with chill as if water were poured over one ( Caps .). ► Acute dysentery, with unquenchable thirst, even the lips, mouth and throat feel raw and burning, with canker, tendency to collapse, cold hands and feet. Urinary Organs :- ► Inflammation, with bleeding. ► Irritation, so that he can bear scarcely more than a spoonful of urine in bladder without urging to urinate ( Nux vom., Ars .). ► Cutting in ureters, extending towards penis, amel. pressure on glans, with contracting pain, the pains at times passing from without inward . ► Inflammation of kidneys, ureters, bladder and urethra. Bladder :- ► Ulceration ; and of urethra. ► Gangrene of lining. ► Discharge of dirty purulent matter. ► Spasm . ► Pain ; with frequent urging, intolerable tenesmus ( Merc. cor. ) ; over B. and over uterus and kidneys, and especially over hypogastrium. ► Pressure downward towards B. ► Inflammation. ► Burning ; before micturition, agg. as the water left the bladder, continual urging, micturition by drops, urine often bloody ( Tereb .), sometimes in clots, causing so much agony when passing urethra that he nearly fainted, about the same time several loose stools, with, as the last fæces left the rectum, pain and straining, which soon extended to bladder, causing tenesmus, which was little relieved when one or two drops of bloody urine passed (Compare Merc. cor .), afterwards intermittent tearing boring over region of right kidney, following direction of ureters, with pain when lying in any position but more comfortable when back was bent, micturition most painful as the last drops passed the sphincter vesicæ. Neck of Bladder :- ► Sticking ; in forepart during urging, then micturition of a few drops . ► Tearing. ► Burning-cutting , extending to navicular fossa (comp. Berberis ), agg. before and after micturition. ► Pain.",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "Oversensitiveness of all parts. Haemorrhages from nose, mouth, intestines, genital and urinary organs. Pain; raw, sore, burning in every part of the body, internally and externally; with extreme weakness. Disgust for everything; drink, food, tabacco. Drinking even small quantities of water increases pain in the bladder. Constant urging to urinate, passing but a few drops at the time, which is mixed with blood (sudden desire to urinate and intense itching in urethra, Petros.). Intolerable urging, before, during and after urination; violent pains in bladder. Burning, cutting pains in urethra during micturition; violent tenesmus and strangury. Stool: passage of white or pale, red, tough mucus, like scrapings from the intestines, with streaks of blood (Carb. an., Colch.). Bloody, nocturnal emission (Led., Mer., Petr.). Sexual desire: increased both sexes; preventing sleep; violent priapism, with excessive pain (Pic. ac.). Tenacious mucus in the air passages (Bov., Kali bi.); compare Cantharis if vesical symptoms correspond. Skin: vesicular erysipelas; vesicles all over body which are sore and suppurating. Erythema from exposure to sun's rays (sunburn). The burning pain and intolerable urging to urinate, is the red strand of Cantharis in all inflammatory affections.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Similar: to, Apis, Ars., Equis., Mer. Burns before blisters form and when they have formed. In the skin be unbroken, apply an alcoholic solution of any potency and cover with cotton; this will promptly relieve pain and often prevent vesication. If the skin be broken use in boiled or distilled water, and in each case give potency internally.",
+        "source_id": "allen-keynotes-1899"
+      },
       {
         "text": "Cantharis belongs to the animal kingdom and finds its most prominent sphere of action in exciting the animal passions. There is anger in a very acute degree amounting to paroxysms of rage; and a corresponding condition of the bodily tissues. The word \"irritation\" best expresses the totality of the Cantharis effects. The pains are burning, and sharp, lancinating along the course of a nerve. Neuralgia of head and face from taking cold, with loud screams and jerking of muscles. The slightest touch or approach aggravates the mental symptoms. Violent spasms reproduced by touching larynx. There is also from dazzling objects and by water─completing the hydrophobia picture. It may be well to remember in this connection the violent erotic action of Canth., for many have maintained that rabies only arises among domesticated animals where sexual functions are under more or less abnormal conditions. Guernsey gives as the special indications in hydrophobia: \"Moaning and violent cries, interspersed with barking.\" Canth. produces amorous frenzy, unbounded sexual desire; also sexual erethism and excitability. It acts on the brain, producing inflammation of the tissues. The eyes are bright, pupils widely dilated. Erysipelas commencing in nose. The face is generally pale or yellowish, with an expression of deep-seated suffering. There is diphtheritic inflammation of throat, severe burning, constriction; thirst, with aversion to drinking. The stomach is inflamed. Pain in abdomen colic-like, doubling the patient up, cutting, burning, lancinating. Dysenteric stools with tenesmus. In the genito-urinary region the most intense action is developed. There is extreme superficial sensitiveness in hypogastrium (especially when the bladder is full), attended with unbearable tenesmus vesicæ. Cutting, burning pains from the kidney down to urethra. Strangury. Can pass only a few drops, like molten lead. Irritation of all grades. The sexual appetite is aroused to the point of mania. Coitus does not always reduce it. On the skin and serous membranes the irritating effects of the remedy are equally pronounced. Pleurisy with effusion has been cured by the remedy given internally. Burning, stitches, shooting pains and exudation are the indications. So the fly-blister treatment of olden days had more to say for itself than those who used it knew. Vesication is the note of its effects on the skin and indicates its use in burns of the first degree, erysipelas, blisters. In burns the part may be treated with a lotion containing a few drops of the tincture to the ounce of water, a dilution being given internally. An ointment made with the 3x is a good application for herpes zoster. H. N. Guernsey observed that Canth. is almost always the remedy for whatever other sufferings there may be, when there is as well frequent micturition with burning, cutting pain; or if cutting burning pain attends the flow, even when micturition is not very frequent. Guernsey also pointed out that Canth. should be studied in treating affections of the air-passages when the mucus is tenacious. Nash records a case in which this observation led him to make a pretty cure. Kali bich. had completely failed to relieve a lady who had suffered long from bronchitis. The mucus was profuse, tenacious, and ropy. One day the patient mentioned that she had great cutting and burning on urinating, which she was obliged to do very frequently. Canth, made a rapid cure. Canth. has cured a case of malarial cachexia in which the symptoms were always when the urine was scanty. \"Burning\" runs through the Canth. pathogeneses in a very striking way. Another marked feature of the remedy is its effect in increasing the secretions of membranes. Canth. \"expels moles, dead fetus, placentæ; promotes fecundity\" (Guernsey). The is: from drinking; from coffee; from drinking cold water; whilst urinating; after urinating; from touch. > From rubbing; from warm applications.",
         "source_id": "clarke-dictionary-1900"
@@ -168,6 +253,10 @@
       {
         "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T CAPSICUM ANNUUM Affects the mucus tissues in a very prominent degree. Mental.-- Inclined to be jovial and pleasant, but gets angry at least trifle. Dreads all sorts of exercise. Head.-- Aches as if it would burst; also beating, throbbing, darting; better in motion; biting, burning, or stinging itch on the head, as if the part had been rubbed with Cayenne pepper. Eyes ache, as if a foreign body were lodged in. Ear, aching, tearing in (see bones). Otalgia of various kinds, often followed by deafness. Lips, cracked; rhagades of the lips, often very painful to the touch. Mouth. tenacious mucus. Throat.-- Diphtheria, where there is a sensation of contraction in the throat, even during swallowing; diphtheria with painful sensations in the throat when coughing; elongation of the uvula, with a sensation as though it was pressing on something hard. Chest.-- Respiration deep; constriction of; oppressing the breathing; worse from least motion; cough with pain, as if sore in the throat, with feeling of constriction. Abdomen.-- Sensation of tension and distension in, as if it would burst; colic about the umbilicus with mucous stools. Stool.-- Flatulent colic followed by small frequent stools of mucus, mixed with blood. Urine.-- Tenesmus of bladder; stitches in the neck of the bladder when coughing; affections of the urethra; frequent but unsuccessful attempts to urinate. Sexual.-- Male : Impotence with cold and shrivelled scrotum, testicles, and spermatic cord; violent erections only subdued by cold water; dwindling testes. Female : Disordered menstruation, with a pushing or sticking sensation in the left ovarian region. Back.-- Drawing and tearing pain in spinal column. Sleep.-- Sleeplessness after midnight; sensation as if falling from a height during sleep, yawning by day, and sleepless by night. Fever.-- In intermittent fever, chill begins in the back, with shivering and thirst, gradually spreads all over the body; followed by fever without thirst. Thirst, drinking causing shuddering. Bones.-- Affections of in general; pains in bones of the face; inflammation of the petrous bone , and severe pain in. Sensations.-- Of constriction; cramp pain in the muscles. Pain as if paralyzed in the joints, drawing from above downward; increased activity of all the senses; heartburn with eructation of red pepper feel and taste; sensation of cold water in the stomach. Generalities.-- Symptoms generally appear on left side; for light-haired people; forehead; tendency to get fat; laxness of the muscles; bloatedness of the skin. Remedies following:-- Bellad., Lycop., Pulsat., Silic . Antidote:-- Cina . Copyright © Médi-T 2000",
         "source_id": "guernsey-keynotes-1887"
+      },
+      {
+        "text": "Main Condensed Materia Medica. By Constantine Hering. Presented by Médi-T . CANTHARIS. [Canthar.] Spanish Fly. Hahnemann. Cantharis vesicatoria. [ 1 ] * [ 2 ] * [ 3 ] * [ 4 ] * [ 5 ] * [ 6 ] * [ 7 ] * [ 8 ] * [ 9 ] * [ 10 ] * [ 11 ] * [ 12 ] * [ 13 ] * [ 14 ] * [ 15 ] * [ 16 ] * [ 17 ] * [ 18 ] * [ 19 ] * [ 20 ] * [ 21 ] * [ 22 ] * [ 23 ] * [ 24 ] * [ 25 ] * [ 26 ] * [ 27 ] * [ 28 ] * [ 29 ] * [ 30 ] * [ 31 ] * [ 32 ] * [ 33 ] * [ 34 ] * [ 35 ] * [ 36 ] * [ 37 ] * [ 38 ] * [ 39 ] * [ 40 ] * [ 42 ] * [ 43 ] * [ 44 ] * [ 45 ] * [ 46 ] * [ 48 ] [1] Mind. ► Sudden loss of consciousness, face red. θ Dentition. ► Forgetfulness. ► Confusion of head and pulsation in forehead, in morning. ► Confusion ; distraction of mind ; inability to concentrate thought. ► Furious delirium. ► Irritable, dissatisfied with every one and everything. ► Whining, and complaining, with anxious restlessness, worse on motion, better lying quiet. ► Paroxysms of rage, with crying, barking and beating ; renewed by the sight of dazzling, bright objects ; when touching the larynx, or when trying to drink water. ► Despondent and low-spirited, says she must die. ► Insolent and contradictory mood in the afternoon. ► Anxious restlessness. [2] Sensorium. ► Vertigo ; and staggering ; and fainting ; while walking in the open air, with transient attacks of unconsciousness ; appearance of a fog before the eyes. [3] Inner Head. ► Headache in the forehead. ► Burning in the sides of the head, ascending from the neck, with soreness and giddiness ; worse morning and afternoon ; when standing or sitting ; better while walking or lying down. ► Heaviness in the occiput, with drowsiness and incapacity to think ; heaviness of the head. ► Inflammation of brain. ► Pains deep in the brain, with constant expression of anguish on the face resembling a sullen scowl or frown, with eyes closed ; or without expression, if open. ► Painful tearing on the vertex, with sensation as if some one were pulling a lock of hair upwards. ► Stitching, tearing or drawing pains in bones of skull. ► Headache from washing or bathing. [4] Outer Head. ► Hair falls out when combing. [5] Eyes. ► Objects look yellow. ► Eyes look yellow. ► Dimness of sight. ► Inflammation of the eyes ; from a burn. ► Smarting in the eyes. ► Eyes protruding ; fiery, sparkling, staring look. ► Eyes sunken, surrounded by blue rings. ► Lachrymation in the open air ; must close the eyes ; on opening lids, the margins pain as if sore, like raw flesh. [6] Ears. ► Ringing, humming or roaring in the ears. ► A hot exhalation passes, at intervals, and frequently from the ears. ► Tearing in the right ear and right mastoid process. [7] Nose. ► Nosebleed early in morning. ► Erysipelatous inflammation of the dorsum of the nose, spreading to both cheeks, but more to the right ; followed by desquamation. ► Secretion of much tenacious mucus from nose without sneezing ; hoarseness and painful hawking of touch mucus from chest ; nightly dry, cutting stitches along trachea externally. ► Mucus collects in posterior nares, difficult to dislodge. [8] Face. ► Expression of extreme suffering. ► Death-like look during and after-pains. ► Face : much swollen and puffy ; flushed when stooping ; yellow, or very pale. [9] Lower Face. ► Dry lips, without thirst. [10] Teeth. ► Painful red spot, size of a pin's head, over the carious root of an upper incisor ; discharges pus from a small opening in the centre, when pressed. ► Lock-jaw with grinding of the teeth. [11] Tongue, etc. ► Taste : bitter ; of pitch ; lost. ► Gold tooth-plate tastes coppery. ► Speech weak and timorous. ► Tongue : thickly furred, red at the edges ; swollen and thickly coated ; at base, in part excoriated, in part covered with blisters ; trembling of the tongue. [12] Mouth. ► Mucous membrane red and covered with small blisters ; sore, burning or smarting. ► Dryness in the mouth extending into posterior nares. ► Burning pain in the mouth, throat and stomach. ► Salivation ; copious, tasteless ; disgusting, sweet. [13] Throat. ► Burning sensation in throat ; throat feels \"on fire\". ► Throat inflamed and covered with plastic lymph. ► Throat swollen. ► Stinging, dryness in pharynx. ► Constriction and intense pain at the back of the throat. ► Burning soreness of the throat, which is inflamed. ► Aphthous ulcer at the back part of the fauces, covered with a whitish adherent crust ; a similar one on right tonsil. ► Swallowing of liquids very difficult. [14] Desires and Aversions. ► Aversions to all kinds of nourishment, particularly in the evening. ► Immediately on cessation of pains, patient feels hungry. ► Great thirst with burning pain in throat and stomach. ► Thirst, with aversion to all fluids. ► Disgust for everything. [15] Eating and Drinking. ► After drinking coffee, sensation of fulness. ► Drinking, even small quantities of water, increases the pain in the bladder. [16] Nausea and Vomiting. ► Eructations of sour, frothy mucus, tinged bright red. ► Nausea and vomiting. ► Vomiting : of the water drunk, also of blood ; greenish, offensive ; or bile and ingesta ; of frothy mucus, tinged bright red ; with violent retching and severe colic. [17] Stomach. ► Acute pain in region of stomach and bladder, with such exquisite sensibility that the slightest pressure produces convulsions. ► Violent burning pain in stomach ; also in pyloric region. ► Patient tosses about, as if in despair, with pains in stomach. ► Stomach feels as if it were screwed together. ► Sensation of fulness extending to chest and abdomen, after taking coffee. [18] Hypochondria. ► Incarceration of flatus under the short ribs. [19] Abdomen. ► Abdomen swollen and tympanitic above ; yields a dull sound below. ► Great distention and tenderness of the belly. ► Cutting in the abdomen, as from knives, with burning. ► Violent burning pain through the whole intestinal tract, with painful sensitiveness to touch. ► Cutting, stitching or burning in the groins. ► Abdominal symptoms are apt to be in sympathy or consonance with those in distant parts. ► Hard tumefaction above the symphysis pubis, with burning pains in the loins. [20] Stool, etc. ► Violent burning in the anus, after the diarrha. ► Pain in the perineum, seemingly arising from the neck of the bladder. ► Desire for stool while urinating. ► Diarrha, of blood and mucus. ► Dysentery, or diarrha, with dysuria ; feces red, slimy. ► Passage of white, tough mucus with stool, like scrapings from intestines with streaks of blood ; slimy and bloody stools. ► Constipation, with retention of urine, or with frequent urination, attended with cutting, burning pains, but little urine being passed at a time. ► During stool : colic, pressing, cutting or burning pains in the anus, causing the patient to cry out. ► After stool : cutting colic, burning, biting or stinging in anus ; chilliness, as if cold water were poured over body. ► Passage of pure blood from the anus and urethra. ► Cutting in the rectum partially relieved by discharge of flatus, entirely relieved by stool. [21] Urine. ► Pain in the region of the kidneys and urging to urinate, steadily increasing in severity. ► Constant, dull, painful sensation in region of kidneys, late in evening. ► Pain in the kidney extending into the abdomen, the axilla, along the urethra into the bladder. ► Paroxysmal cutting and burning pain in both kidneys, the region very sensitive to the slightest touch, alternating with pain in tip of penis ; urging to urinate ; painful evacuation, by drops, of bloody urine, and at times of pure blood. ► Cutting and contracting pains from the ureters down toward the penis ; at times the pains pass from without inwards ; pressure on the glans relieves pain somewhat. ► Heaviness in bladder, feels sore on slightest motion. ► Urging to urinate from the smallest quantity of urine in the bladder. ► Violent pains in the bladder with frequent urging ; intolerable tenesmus. ► Violent burning-cutting pains in neck of bladder, extending to fossa navicularis, worse before and after urinating. ► With the urging to urinate, stitching pain in forepart of neck of bladder ; on continued urging, only a few drops pass. ► Urging, worse when standing, and still more when walking ; better when sitting. ► Fruitless effort to urinate. ► Urine passes in a thin and divided stream. ► Retention of urine, causing pain. ► Urine : turbid and scanty ; cloudy during the night, like mealy water, with white sediment ; albuminous, containing cylindrical casts, mucus and shreds ; looks jellylike ; contains large quantities of pus in vesical catarrh. ► Before, during and after urinating, cutting pains in urethra. [22] Male Sexual Organs. ► Sexual desire : increased ; disturbing sleep at night. ► Strong and persistent erection, painless and without voluptuous sensation. ► Bloody semen. ► Erection at night, with contraction and sore pain along urethra. ► Painful gonorrha with chordee ; painful priapism. ► Drawing pain in the spermatic cord, while urinating. ► Testicles drawn up. [23] Female Sexual Organs. ► Ovarian region ; stitches, arresting the breathing ; violent pinching pains, with bearing down towards the genitals ; great burning pain. ► Inflammation of the ovaries, with cutting or burning. ► Swelling of neck of uterus. ► Uterine hemorrhage, with great irritation in neck of the bladder. ► Menses : too early, too profuse, blood black or scanty breasts painful. ► Amenorrha, with fulness and pain in the head. ► Violent itching in the vagina. ► Swelling and irritation of the vulva. ► Pruritus, with strong sexual desire. [24] Pregnancy. ► Vomiting, with violent retching and severe colic and burning at the pylorus. ► Promotes (when other symptoms agree) fecundity, expels moles, dead ftuses and the placenta. ► Retained placenta or membranes, usually with painful urination. ► Puerperal convulsions : 36 . [25] Larynx. ► Voice : hoarse ; feeble. ► Burning in the larynx ; larynx sensitive to touch. ► Irritation in larynx, causing short paroxysms of coughing, with hurried and difficult breathing ; sometimes with pain in abdomen, or with bloody expectoration. ► Burning or biting about the larynx, with contraction, or construction almost to suffocation. ► Profuse catarrh of the air-passages, the mucus being tenacious, with painful hawking and nightly lancinating and dryness in the trachea. [26] Breathing. ► When breathing deeply, and when speaking she feels as if she dare not exert herself on account of extraordinary dryness or weakness of the respiratory organs ; speech therefore weak and timorous. [27] Cough. ► Dry, hacking. [28] Lungs. ► Stitches : in chest, more on right side, or first left then right ; in the lower right chest, extending toward the middle of the sternum and axilla. ► Burning in the chest. ► Exudation within the pleura ; dyspna, palpitation ; scanty urine ; tendency to syncope. See 44 . [29] Heart and Pulse. ► Anxiety about the heart. ► Drawing pain in the region of the heart. ► Stitch in heart followed by a crawling sensation. ► Pericarditis with effusion ; pulse feeble, irregular ; tendency to syncope. ► Violent palpitation of heart. ► Pulse : very variable mostly hard, full and frequent, at times intermittent ; frequent and small ; slow, feeble and scarcely perceptible. [30] Outer Chest. ► Stitches in the sternum. ► Burning on the chest. [31] Neck and Back. ► Burning, boring, stitching or lancinating pains in the back, either between or in the scapulæ, or in the small of the back ; sometimes the skin over these parts burns as if a fly-blister were there. ► Stiffness in the neck, with tensive pain on stooping. ► Drawing, tearing or lancinating pain in the neck sometimes with burning of the skin over the parts. ► Tearing pain in the back, especially morning. ► Pains in the loins, kidneys and abdomen, with such pain on urinating that he could not pass a single drop without moaning or screaming. ► Pain in the loins, with incessant desire to urinate. ► Lancinations and tearing in the os coccygis, causing him to start. [32] Upper Limbs. ► Tearing and stitching pains in the arms. [33] Lower limbs. ► Tearing from the right, later left hip-bone, down to the knees. ► Violent pains in the knees. ► Knees totter when ascending steps. ► Numbness of lower limbs, first of one leg then of the other. ► Pain in the soles, as from an ulcer, could not step. [34] Limbs in General. ► Weakness and trembling of the limbs. ► Violent pains of various kinds in the upper and lower extremities, first of one leg then of the other. ► Tearing in limbs, relieved by rubbing. [35] Position, etc. ► Motion : 1 , 21 , 40 . Walking : 2 , 3 , 21 . Standing : 3 , 21 . Stooping : 8 , 31 . Sitting : 21 . Lying : 1 , 3 . [36] Nerves. ► Weakness, prostration, faintness. ► Convulsions, with dysuria and hydrophobic symptoms ; bright light, drink or sound of falling water, touching the larynx, or painful parts, cause or renew the spasm. [37] Sleep. ► Light sleep ; full of wakeful illusions. ► Sleeplessness ; anxious dreams. [38] Time. ► Some symptoms appear every seventh day. ► General aggravation after midnight and during the day. ► Morning : 1 , 3 , 31 . Afternoon : 1 , 3 . Evening : 21 , 40 . Night : 7 , 21 , 22 , 40 . [39] Temperature and Weather. ► Warm applications relieve pains in knees. ► Rays of sun : 46 . Open air : 2 , 5 . Washing and bathing : 3 . [40] Chill, Fever and Sweat. ► Chill in evening not relieved by external warmth. ► Chill, succeeded by thirst without heat. ► Chill running up the back. ► Cold extremities. ► Burning heat at night, which she does not feel. ► Burning in the palms and soles. ► Heat with thirst. ► Sweat from every movement. ► Cold sweat especially on hands and feet. ► Sweat on the genitals. ► Sweat smells like urine. ► Intermittent fever, every paroxysms being characterized by the Cantharis dysuria. [42] Sides. ► Right side : 6 , 7 , 13 , 28 , 33 . Left side : 29 . Left to right : 7 , 28 . Right to left : 33 . Below upwards : 40 . [43] Sensations. ► Raw and sore pain in the whole body, internally and externally. ► Every part oversensitive, and accompanied by excessive weakness. ► Burning, stitching and tearing pains predominate. [44] Tissues. ► Inflammation of serous membranes ; pleurisy after Acon . and Bryon . ► Ulcerations and erosion of internal parts ; patient lies in a stupor, with occasional twitches of the hands ; symptoms of collapse. [45] Contact, Injuries, etc. ► Touch : 19 , 21 , 36 , 46 . Pressure : 10 , 21 , 33 . Rubbing : 34 . When combing : 4 . [46] Skin. ► Erythema, from exposure to the rays of the sum. ► Burning, itching pains. ► Erysipelatous inflammation of the skin ; forming blisters. ► Eczema rubrum. ► Ulcerative pain when touched. ► Gangrenous ulcers with itching and tearing pains. ► Pemphigus. ► Itching, as from lice, changing place. ► Tearing pain in ulcers. ► Burns, before blisters form. [48] Relationship. ► Antidotes : Acon., Camphor, Lauroc., Pulsat . ► Oil increases the pernicious effects of Canthar . ► Inimical : Coffea . Copyright © Médi-T 2005. Main",
+        "source_id": "hering-condensed-mm-1877"
       },
       {
         "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
@@ -336,80 +425,648 @@
       {
         "text": "LECTURES ON HOMOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror Cantharis The most important feature of this medicine is the inflammatory condition, and the most important characteristic in the inflammation is the rapidity with which it develops into a gangrenous state. inflammation conditions usually follow a definite course for days, but when this medicine is put upon a part or taken internally the inflammatory state terminates in death of the part with great rapidity. When taken internally it proceeds almost immediately to attack the urinary tract and establish a uraemic state which brings about the mental symptoms; the local inflammatory condition comes on with great rapidity, and this brings the patient down violently sick in a great hurry. From strong doses in the poisonous effect we get startling and alarming symptoms; the whole economy is in disorder; grievous symptoms commonly of the urinary tract. The parts become gangrenous at an early stage. Mind : The mental symptoms are striking. Among those that are guiding are sudden loss of consciousness with red face. Suddenly goes into stupor. Confusion of mind. Overwhelmed with strange ideas. Thoughts run riot, and go whatever way they will, as if possessed by outside influence. Head hot, frenzy, delirium, with great excitement and rage , paroxysms renewed by dazzling or bright objects, by touching the larynx or by trying to drink water as in rabies. Fear and confusion of ideas. The mind often runs towards subjects that the inflamed parts would suggest. Bladder and genitals : The bladder and genitals are inflamed and the excitement and congestion of the parts often arouse the sexual instinct, so that there are sexual thoughts and sexual frenzy. Violent amorous frenzy, an excitement such as accompanies inflammation attended with thoughts that correspond. The sexual instinct has gone mad, the erections in the male are painful and violent. The penis is inflamed and sore and it would be painful to have coitus, yet there is this frenzy. Insolence. Blasphemy. Restlessness ending in rage. Restlessness causing him to move constantly, a rage and delirium intermingled with amorous frenzy. This kind of mental conduct in Cantharis is similar to what will take place in Hyos., Phos ., and Secale ; a violent delirious state intermingled with sexual ideas and talk. In some instances he deliriously sings lewd songs and prattles on the subject of human genitals, urine and feces, a wild raving on subjects not talked about in health except among the depraved. But in disease, chaste and modest persons, virgins, will speak so that it is surprising where they have picked up such language. in such cases it is well to exclude everybody from the room except the nurse and doctor. I have seen a dear old mother weep and wring her hands and say: \"Where did my daughter learn such language?\" The daughter is not to blame. It is simply a condition of the urinary tract or the menstrual function, brought on from cold or exposure, or through the mother's neglect to tell her daughter what she should know in regard, to her menstrual function, and how there is inflammation of the ovaries or uterus, or outside parts, and the urine burns and causes an inflammatory condition of the outer parts, or the urine is retained and there is frenzy. Such in Cantharis . Violent, bursting, lancinating headaches as if stabbed with a knife an inflammatory condition that takes hold of the mind violently. Running all through the remedy there is burning . In the head burning, throbbing and stabbing. Unconsciousness and delirium in the mental state. Burning in the side of the head. Stitches in the side of the head and occiput. Lancinating pains deep in the brain. Hair falls out. It is seldom indicated in eye troubles alone, except such as come with head and mind symptoms. Erysipelas of the face with large blisters. Burning in the eyes and the whole atmosphere looks yellow. Burning and smarting in the eyes. Erysipelas of the eyes, with gangrenous tendency. Eyes hot, scalding tears. Erysipelas of the face, dorsum of the nose, involving the lids. Rhus is more commonly. used in this condition, but when it is violent Canth . will often be indicated and preferable to Rhus, Rhus has the blisters and the burning, but in Canth . between your two visits the erysipelas has grown black , it is dusky, a rapid change has taken place, and it looks as if gangrene would set in. Burning in the erysipelatous area and the skin around burns from the touch . In Rhus this is not so. In Cantharis the little blisters even if touched burn like fire. Eruptions burn when touched , ever so lightly, i.e., those eruptions such as the remedy could produce. This patient enters into a state of prostration, is pallid, has Hippocratic countenance and dies. It corresponds to the lowest forms of disease, even gangrene and violent inflammation of the bowels, bladder, brain, spine and lungs; sinking and hippocratic countenance. Inflammation of the lungs, gangrenous type, prostration and the lung that is affected burns like fire, and immediately he expectorates cadaverous smelling expectoration, thin, bloody, watery; it has come on in an astonishingly rapid manner, and in a little while he will die; the nose is contracted, there is the hippocratic countenance, and the urine is suppressed. I remember one patient who had just come out of a prolonged drunk. I left the patient in the evening in just such, a state as I have described. He was drooling a bloody saliva from his mouth and be was dying. He had had this condition come on in one night from being nearly frozen in a drunk. It would be Cantharis or death before morning, but by morning he was expectorating a rusty sputum and went on to good recovery. Arsenic has the burning in the lungs and he spits up black sputum, pneumonia signs are present, with the restlessness and anxiety, and other symptoms of Arsenic, and Ars enic will stop it at once. These violent remedies are needed in those cases that will die. Burning in the throat. Great thirst, with burning in the throat and stomach. Thirst, with aversion to all fluids, that is, the craving of the mouth and throat are antagonized by the mental state. Thirst in the throat and an aversion to water in the mind. Violent, burning in the stomach, pylorus, abdomen. The abdomen is swollen and tympanitic; lancinating pains cutting and stabbing. Wherever there is a rapid inflammation in the bowels there is diarrhoea of bloody mucus or serum, watery, bloody fluids from the bowels and stomach. The same watery bloody fluid from the eyes. And wherever this watery fluid comes in contact with the skin it burns and excoriates. Bloody urine. Desire for stool while urinating. The patient will sit on the commode with violent tenesmus to pass urine and stool, feels that if he could only pass a few more drops of urine or a little more bloody stool he would get relief, but no relief comes. All the parts are inflamed and on fire. Tenesmus and urging not only when the bladder is empty, but often when the bladder is full. Retention of urine. Passes none or only a drop or two. Violent tenesmus of the bladder. Cutting pains with tenesmus, lancinating, stabbing like knives, in neck of bladder. Pains shoot off in different directions. Violent pains with frequent urging. Constant tenesmus. An anxious state and frenzy come on; most violent suffering and be has urging to pass urine and stool with sexual erethism tantalizing in the extreme. The whole urinary organs and genitalia are in a state of inflammation and gangrene. Burning when urinating. This bloody urine burns like fire in the bladder and about the genitals. Retention or suppression of urine. It is rare that one suffering from gonorrhea has this violent inflammation, with burning and tenesmus of the bladder and rectum, but in such a case this remedy is indicated. The intensity and rapidity are the features of this remedy. It brings on pain and excitement found in no other remedy. Next to it comes Merc. cor . In the female there is oversensitiveness of all parts. Inflammation of the ovaries and uterus. Burning in the vagina. Membranous dysmenorrhoea. Menses too early, profuse, black. Puerperal convulsions. Retained placenta. Burning pains. When there have been no expulsive pains present to expel the afterbirth, with the symptoms running all through this remedy, after it has been given, normal contractions of the uterus have come on with expulsion of the membranes. Violent lancinating pains through the kidneys and back. Pains in the loins and abdomen. Pain on urinating so that he moaned and screamed on passing a drop. Copyright © Robert Séror 2000 Mise en page Copyright © Sylvain Cazalet 2000",
         "source_id": "kent-mm-1911"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Cantharides. Mind and Disposition. Anxious restlessness, ending in rage. Paroxysms of rage, with crying, barking and beating ; they are renewed by the sight of dazzling, bright objects ; when touching the larynx ; when trying to drink water. Amorous frenzy, with shameless, unchaste gesticulations. Delirium. Hydrophobia. Head. [5] Soreness and burning in the brain. Burning in the sides of the head, ascending from the neck, with soreness and giddiness ; worse in the morning and afternoon ; when standing or sitting ; better when walking or lying down. Eyes. Eyes protruding ; fiery, sparkling, staring look. Involuntary spasmodic movement of the eyes. The eyes look yellow. [10] Burning and soreness in the eyes. Things look yellow. Nose. Erysipelatous inflammation of the dorsum of the nose, tending to the cheeks (right side) with hardness subsequent desquamation. Face. Death-like appearance ; expression of terror and despair. Sunken, hippocratic countenance. [15] Yellow complexion. Hot, red, swollen face. Mouth and Throat. Suppuration of the gums. Fistula dentalis (suppurating) (upper incisors). Burning in the mouth, extending down the pharynx, sophagus and stomach ; worse from drinking cold water. [20] Inflammation of the mouth and pharynx. Inflammation arid suppuration of the tonsils, with inability to swallow. Painless inability to swallow. Expectoration of frothy saliva, streaked with blood. Feeble voice, from debility of the organs. [25] Inflammation arid suppuration of the tongue. Appetite and Taste. Thirst, with aversion to all fluids. Stomach and Abdomen. Violent burning pain (inflammation) in the stomach. Sensitiveness of the stomach ; also externally. Inflammation of the liver. Stool and Anus. [30] Diarrha of mucus, followed by pun in the abdomen, or bloody discharges. Dysentery ; discharges of blood-streaked mucus, or white mucus, looking like the scraping from the intestines. During stool, burning in the anus ; prolapsus ani. After stool, chilliness and tenesmus. Urinary Organs. Burning, stinging and tearing in the kidneys. (Inflammation of the kidneys). [35] Pressing pain in the kidneys, extending to the bladder ; along the ureters ; relieved by pressing upon the glans. Desire to urinate constant, with inability to urinate, or with difficult emission of a few drops only. Discharge of blood by drops ; hæmorrhage from the urethra. Spasmodic pain in the bladder, with suppression of urine. Discharge of bloody mucus from the bladder. (Inflammation of the bladder). [40] During micturition, burning or cutting pain in the urethra. (Inflammation of the urethra). Sexual Organs. Men . Inflammation of the genitals. Painful erection (with gonorrha) with strong sexual desire (priapism). Women . Catamenia too early and too profuse (blood black). Inflammation of the ovaries. [45] Swelling of the neck of the uterus. Chest. Sensation of weakness in the respiratory organs. Oppression of breathing, with sensation of constriction of the pharynx. Stitches in the chest, during air inspiration. (Inflammation of the lungs). Burning and stinging in the larynx, especially when attempting to hawk up tough mucus. [50] Hoarseness ; weak, indistinct voice. Back. Tearing in the back (after rising from a seat). Stiffness in the nape of the neck, with tension when bending it over. Opisthotonos. Extremities. Lower . Coxalgia, with spasmodic pains in the bladder, and strangury. [55] Soles of the feet sore (ulcerating pain). Generalities. Over-sensitiveness of all parts. Burning, with soreness, especially in the cavities of the body. Tearing (rheumatism) in the limbs ; relieved by rubbing. Fever. Pulse hard, full and rapid. [60] Pulsation through the trembling limbs. Chilliness, principally in the evening ; not relieved by heat. Burning heat, with anxiety and thirst. Perspiration ; cold, especially on the hands and feet ; on the genitals. Perspiration smells like urine. Skin. [65] Erysipelatous inflammation ; burning ; raising blisters. Itching pustules, burning when tone touched. Itching and tearing in the ulcers. Blisters, from burns. Conditions. The conditions return every seven days. [70] The right side is mostly affected. Aggravation from coffee (and oil). Amelioration , from lying down. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      },
+      {
+        "text": "color=\"#800000\">CANTHARIS VESICATORIA Spanish Fly (CANTHARIS) This powerful drug produces a furious disturbance in the animal economy, attacking the urinary and sexual organs especially, perverting their function, and setting up violent inflammations, and causing a frenzied delirium, simulating hydrophobia symptoms (Anagallis). Puerperal convulsions. Produces most violent inflammation of the whole gastro-intestinal canal, especially lower bowel. Oversensitiveness of all parts. Irritation. Raw, burning pains. Hæmorrhages. Intolerable, constant urging to urinate is most characteristic. Gastric, hepatic and abdominal complaints that are aggravated by drinking coffee. Gastric derangements of pregnancy. Dysuria, with other complaints. Increases secretion of mucous membranes, tenacious mucus. The inflammations cantharis produces (bladder, kidneys, ovaries, meninges, pleuritic and pericardial membranes)are usually associated with bladder irritation.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Frequent urging to urinate, with straining and cutting, burning pains.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Small unsatisfactory quantity passed at a time, or bloody urine.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Excessive burning pains (eyes, mouth, throat, stomach, intestinal tract; all the mucous surfaces and skin).",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Stringy and tenacious discharges from the mucous membranes.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Nearly all complaints accompanied with the characteristic urinary symptoms.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Erysipelas, with blebs or large blisters filled with water and burning pain; useful for surface burns (locally).",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Uncontrollable anguish, furious rage, frenzied delirium; strong sexual desire, both sexes.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Disgust for everything; drink, food, tobacco.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Dysenteric stools, bloody and shreddy, like scrapings from intestines, with tenesmus in rectum and bladder.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "If I were to select the one remedy with which to prove the truth of the formula similia, etc., I think this would be the one. There is no remedy that so surely, and so violently, irritates and inflames the urinary organs, and no remedy so promptly cures such irritation when it puts on, the Cantharis type or form, which it often does.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "H N. Guernsey wrote: \"It is a singular fact, though known to most practitioners, that there be frequent micturition attended with burning, cutting pain, or if not so frequent and the cutting, burning pain attends the flow, Cantharis is almost always the remedy for whatever other suffering where may be, even in inflammation of the brain or lungs.\" He might have added in the throat, and mucous membranes all through the intestinal tract, even to the rectum and anus, and in the pleura or on the skin.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "He also wrote: \"Cantharis should always be remembered and studied in treating affections of the air passages when the mucus is tenacious.\" (Hydrastis, Kali bichrom. Coccus cacti, etc.) I had the pleasure of verifying the truth of this in the case of a lady who had suffered a long time with bronchitis.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "The mucus was so profuse, and tenacious, and ropy, that I thought of Kali bichromicum, and thought it must be the remedy; but it did not even ameliorate, and she got worse all the time, until one day she mentioned that she had great cutting and burning on urinating, which she must do very frequently.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "On the strength of the urinary symptom, for I knew nothing of its curative powers on the respiratory organs at that time, I gave her Cantharis. The effect was magical.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "It is needless to describe the mutual delight of both physician and patient in such a case, for it was astonishing the rapidity with which the perfect and permanent cure of the case was accomplished.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Let us notice still further the effects of this remedy upon the urinary organs by calling attention to a few symptoms that have been both produced in proving and cured ab usu in morbis.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "I have learned to place the highest estimate upon such symptoms. To be sure there are many symptoms in our great Materia Medica that have come to us through clinical sources only, and very valuable ones, too. But they cannot be received with such implicit confidence on short acquaintance as those that are both pathogenetic and clinical. They should always be separated when possible, as they were in \"Hull's Jahr\" of old. Here are a few of them. \"Violent pains in bladder, with frequent urging to urinates with intolerable tenesmus.\" \"Violent burning cutting pains in the neck of the bladder.\" \"Before, during and after urinating fearful cutting pains in the urethra\" \"Constant urging to urinate; urine passed drop by drop with extreme pain.\" \"Urine scalds him; it is passed drop by drop.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "No homœopathist meeting these symptoms in a case would fail to think of Cantharis at once, no matter what else ailed the patient, as it has cured the most diverse and varied diseases when occurring in conjunction with these urinary symptoms. How any physician of any school can deny the truth of similia similibus curantur in the light of such testimony of proof can only be accounted for on the principle of \"none so blind as those who will not see.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Cantharis has also very decided action upon the skin. In erysipelas it is sometimes the best remedy, and choice has to be made between it and Apis, which also sometimes has great urinary irritation in such cases. In the Apis cases there is apt to be more œdema; in Cantharis more blistering. In Cantharis the burning is more intense than under the Apis, while in the latter there is more stinging. The urinary symptoms, if present, are very much more intense under Cantharis.- Again, the mind symptoms of the two remedies are quite different. In the Apis cases, aside from the stinging pains which make the patient cry out sharply at times, especially if the eruption inclines to \"go in\" and attack the membranes of the brain, the patient may not be so very restless and complaining; but in the Cantharis case the patient is uneasy, restless, dissatisfied, distressed, sometimes moaning or violently crying; wants to be moved about constantly. The mind symptoms actually make one think of Arsenicum album, and when we take into account the intense burning it is doubly so. So that it would be very easy to get confused between these two remedies, as well as Cantharis and Apis. If great thirst is also present it would make us think of Arsenic, And now we are upon the skin, Cantharis is a great remedy for burns, both locally as an application and internally for the more chronic conditions and sequelæ. In all skin troubles where blebs or watery vesicles form, which burn and itch, or when touched burn and smart, we do well to remember Cantharis, and look further to find more symptoms, if present, to corroborate it. Hering used to challenge skeptics to burn their fingers, and then cure them by dipping the fingers into water medicated with Cantharis. So great was his faith in it.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "I will call attention to a sensational symptom of Cantharis which I believe is underestimated in practice. It is the sensation of Burning. If any remedy deserves to be placed alongside Arsenicum for burning it is this one. I will quote so as to bring all together, in a way to impress upon our memory the burnings of Cantharis. \"Inflammation of the eyes particularly when caused by a burn.\" \"Burning in mouth, throat, and stomach.\" Great thirst, with burning pain in throat and stomach. \"Violent burning pain in stomach in region of pylorus.\" \"Violent burning pain and heat through whole intestinal tract.\" \"Passage of white or pale-red tough mucus with the stool like scrapings from intestines, with streaks of blood; after stool colic relieved, burning, biting, and stinging in the anus.\" \"Great burning pain in the ovarian regions.\" \"Peritonitis with burning pain, abdomen sensitive and tenesmus of the bladder.\" \"Burning and stinging of the larynx, especially when attempting to hawk up tough mucus.\" \"Burning in the chest.\"",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "We have already spoken of the burnings connected with affections of the urinary organs, and also of the burnings of the skin in erysipelas and other eruptions upon the surface.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "This seems to me to be sufficient to impress upon the reader the value of this symptom belonging to this remedy. I will close by calling attention to its effect upon the membranes to increase their secretion. This action is positive and is a valuable indication for its use.",
+        "source_id": "nash-leaders-1899"
       }
     ],
     "relationships": {
       "_raw": [
-        "Antidotes: Camph. antidotes the strangury and retention of urine of Canth., Apis the cystitis, Kali nit. the renal symptoms. For its throat symptoms it is nearest to Capsicum. Other antidotes: Acon., Lauro., Puls. Canth. is antidote to: Camph., Vinegar, Alcohol. Compatible: Bell., Merc., Pho., Pul., Sep., Sul. Incompatible: Coffea. Compare: Doryph., Coccus cact., Coccionella, Apis, Bell., Bry., Can. s. (more burning and smarting; Canth. more tenesmus); Petros. (sudden urging); Caps; Puls. (retained placenta); Ars. (delayed urination after parturition); Thuja (erections; those of Canth. prevent urination; those of Thuja do not); Merc. (semen mixed with blood); Sarsapar. (urine burns like fire, shreddy particles and blood in it); Arum, Arn., Rhus, Ranunc. scel. (Teste classes Canth. with Senega and Phos. ac. in his Conium group.)"
+        "Antidotes: Camph. antidotes the strangury and retention of urine of Canth., Apis the cystitis, Kali nit. the renal symptoms. For its throat symptoms it is nearest to Capsicum. Other antidotes: Acon., Lauro., Puls. Canth. is antidote to: Camph., Vinegar, Alcohol. Compatible: Bell., Merc., Pho., Pul., Sep., Sul. Incompatible: Coffea. Compare: Doryph., Coccus cact., Coccionella, Apis, Bell., Bry., Can. s. (more burning and smarting; Canth. more tenesmus); Petros. (sudden urging); Caps; Puls. (retained placenta); Ars. (delayed urination after parturition); Thuja (erections; those of Canth. prevent urination; those of Thuja do not); Merc. (semen mixed with blood); Sarsapar. (urine burns like fire, shreddy particles and blood in it); Arum, Arn., Rhus, Ranunc. scel. (Teste classes Canth. with Senega and Phos. ac. in his Conium group.)",
+        "Antidotes : Acon., Camphor., Kali nitr., Lauroc., Pulsat",
+        "Canthar. antidotes Camphor., vinegar and alcohol",
+        "Compatible : Bellad., Mercur., Phosphor., Pulsat., Sepia, Sulphur",
+        "Incompatible : Coffea ; oil increases the pernicious effects by rendering the active principle (Cantharidine) more soluble, favoring greater absorption",
+        "Compare : Acon., Apis (renal and bladder troubles), Bellad., Bryon. (pleurisy), Camphor., Cannab., Capsic., Cinchon., Cochlearia armor. (renal and bladder troubles), Coffea, Colocyn. (colic), Doryphora decem. (urethritis, especially children), Equiset. (renal and bladder troubles), Formica rufa, Hydrangea arbor. (renal and bladder troubles), Hyosc., Lauroc., Ledum, Linaria vulg. (renal and bladder troubles), Lycop., Mercur. (semen mixed with blood), Phosphor., Pulsat., Rhux tox., Sassafras (urine burns like fire, shreddy particles and blood in it), Seneg., Sepia, Stramon., Sulphur",
+        "See introduction to Arnica as to the Arnica fly",
+        "Other drugs vesicatory like Cantharis may be compared, viz. : Arum triph., Cantharis strigosa (on cotton plant), Clemat. vitalb., Clemat. crispa (the Spanish fly feed on this), Lytta vit. (fly of sweet potato), Maruta cotula (every part of plant acrid), Mezereum, Plantago alis., Ranunc. scel. and Rhus tox",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ],
+      "complementary": [
+        "Camph"
+      ],
+      "antidoted_by": [
+        "Acon",
+        "Camph",
+        "Puls"
       ]
     },
     "mental_emotional": [
       {
         "text": "Dejected and lachrymose humour. Anxious inquietude, with agitation, which necessitates constant motion. Want of confidence in one's self. Pusillanimity and timidity. Disposition to be angry, and to fly into a rage. Paroxysms of rage, with cries, blows, and barkings, renewed on feeling the gullet, and at the sight of water. Delirium. Insanity. Mania, with extravagant acts and gestures. Constantly attempting to do something, but accomplishing nothing.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Unconsciousness, lies with outstretched arms ; sudden starting up, screaming, throwing arms about. θ Metritis. Sudden loss of consciousness with red face. θ Dentition. Lies in a stupor with cold surface and occasional jerks. Uremic coma, delirium and convulsions. Forgetfulness. Strange ideas crowd on him against his will. Confusion ; distraction of mind ; inability to concentrate thought. Confusion of head and pulsation in forehead, in morning. Hallucinations, especially at night ; deliria of people long dead. Furious delirium, with crying, barking and biting ; confusion of head, anxious restlessness ; cold sweat, especially on hands and feet. Almost frenzied delirium. Paroxysms of rage, renewed by sight of dazzling, bright objects, or touching larynx when trying to drink water. Whining and complaining, with anxious restlessness, < from motion, > lying quiet. Constantly attempting to do something, but accomplishing nothing. Despondent and low-spirited, says she must die. Fear, confusion of ideas, she could not think clearly. θ Vesical hemorrhoids. Great amativeness ; amorous frenzy. Unbounded frantic sexual desire. θ Mania. Exceedingly sensitive to all impressions ; irritable and blaspheming. θ Traumatic neuralgia. Insolent and contradictory mood, in afternoon. Uneasiness day and night, with hot head. Anxious restlessness, ending in rage. Great restlessness, obliging him to move constantly ; great activity of mind. Vertigo : and staggering ; and fainting ; while walking in open air, with transient attacks of unconsciousness ; appearance of fog before eyes. Heaviness of head.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Furious delirium. Anxious restlessness, ending in rage. Crying, barking; worse touching larynx or drinking water. Constantly attempts to do something, but accomplishes nothing. Acute mania, generally of a sexual type; amorous frenzy; fiery sexual desire. Paroxysms of rage, crying, barking. Sudden loss of consciousness with red face",
+        "source_id": "boericke-1927"
       }
     ],
     "eyes": [
       {
         "text": "Pain in the eyes, with sensation as if the eyelids were excoriated, chiefly when they are opened. Inflammation of the eyes, with burning smarting. Yellowish colour of the eyes. Prominence, and convulsive movements of the eyes; fiery, sparkling, staring look. Objects seemed to be tinged with a yellow hue.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Objects look yellow. Eyes look yellow. Burning in eyes and glowing heat, as from coals. Biting sensation, as of salt in eyes. Smarting in eyes. Lachrymation in open air ; must close eyes ; on opening lids, margins pain as if sore, like raw flesh. Inflammation of eyes, particularly when caused by a burn. Eyes protruding ; fiery, sparkling, staring look. Involuntary spasmodic movement of eyes. Eyes sunken, surrounded by blue rings. Eyes restlessly in motion, at times staring, always, however, with a frightful look ; pupils contracted. θ Acute mania. Right eye looks bleared, congested, inflamed ; pain < night, cannot red then ; sight quite good ; commenced with feeling as of lashes in eye ; urine scalds.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Yellow vision (Santon). Fiery, sparkling, staring look. Burning in eyes",
+        "source_id": "boericke-1927"
       }
     ],
     "ears": [
       {
         "text": "Inflammation and burning heat of the ears.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Ringing, humming, or roaring in ears. Tearing in right ear right mastoid process, as if bone would be torn out. A hot exhalation passes, at intervals, and frequently, out from ears.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Sensation as if wind were coming from ear, or hot air. Bones about ear painful (Capsic)",
+        "source_id": "boericke-1927"
       }
     ],
     "nose": [
       {
         "text": "Swelling of the nose, even in the interior, with redness and burning heat. Erysipelatous inflammation of the dorsum of the nose, extending to the cheeks (r.) with hardness and subsequent desquamation. Fetid and sickly smell before the nose. Coryza of long duration, and catarrh, with copious flow of viscid mucus from the nose.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Coryza with pains in limbs ; also chronic coryza. Erysipelatous inflammation of dorsum of nose, spreading to both cheeks, but more to right ; followed by desquamation. Secretion of much tenacious mucus from nose, without sneezing ; hoarseness and painful hawking of tough mucus from chest ; nightly dry cutting stitches along trachea, externally.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "mouth_throat": [
       {
         "text": "Toothache, generally drawing, by eating. Fistula in the gums. Ulceration of the gums. Taste of cedar pitch in the mouth. Inflammation of the mucous membrane of the mouth. Inflammation of the mouth and pharynx. Inflammation and suppuration of the tonsils, with inability to swallow. Burning in the mouth, extending down the pharynx, œsophagus and stomach; from drinking cold water. Phlegmonous inflammation of the interior of the cheek. Aphthæ in the mouth. Frothy salivation, with streaks of blood. Foam at the mouth. Coagulated blood coming from the mouth. Inflammatory swelling and suppuration of the tongue. Suppuration of the gums. Fistula dentalis (suppurating) (upper incisors). Weakness of the organs of speech, and languid diction. Sore throat, on swallowing. Difficult deglutition, with strangulation in the throat, and nocturnal regurgitation of food. Impeded deglutition, esp. in the case of liquids. Burning in the throat, on swallowing. Inflammation and ulceration of the tonsils and of the throat; with inability to swallow. Burning pains in the throat, by drinking water.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Grinding teeth. θ Meningitis. θ Typhus. Painful red spot, size of a pin's head, over carious root of an upper incisor ; discharges pus from a small opening in centre, when pressed. Gums spongy and swollen. θ Suppurative metritis. Scurvy ; coagulated blood in mouth in morning on waking ; bloody urine. Taste : bitter ; lost ; gold tooth-plate tastes coppery. Speech weak and timorous. Trembling of tongue. Tongue fiery red. θ Facial erysipelas. Tongue : thickly furred, red at edges ; swollen and thickly coated ; and back of mouth, in part excoriated, in part covered with blisters. Inflammation of tongue with vesicles. Sublingual glands swollen with vesicles. Mucous membrane red and covered with small blisters. Loss of epithelium on lips, tongue and palate. θ Dysentery. Burning pain in mouth, throat and stomach. Dryness in mouth. Vesicles and cankers in mouth and throat. θ Dysentery. Lining of mouth and throat covered with white blisters from size of pin's head to that of a bean. Salivation : copious ; tasteless ; disgustingly sweet. Expectoration of frothy saliva streaked with blood. Mucus in posterior nares must be hawked into mouth to be discharged. Burning sensation in throat, which feels as if on fire. Burning in throat, with scraped sensation and spitting of blood. Spasmodic constriction and intense pain at back of throat. Throat inflamed and covered with plastic lymph. Aphthous ulcer at back part of fauces, covered with a whitish adherent crust ; a similar one on right tonsil. Throat swollen. Swallowing very difficult. θ Tonsillitis. Difficult deglutition with nocturnal regurgitation. Water drunk regurgitates through nose. θ Sequel of burn. Inflammation and suppuration of tonsils. Diphtheria : dysuria ; urine contains shreds or coats of uriniferous tubuli ; extreme prostration, sinking, deathlike turns ; irritable looking rash upon skin or shining through epidermis. Throat : < in afternoon and at night ; < while drinking and from wet poultices ; > while lying down.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Tongue covered with vesicles; deeply furred; edges red. Burning in mouth, pharynx, and throat; vesicles in mouth. Great difficulty in swallowing liquids. Very tenacious mucus (Kali bich). Violent spasms reproduced by touching larynx. Inflammation of throat; feels on fire. Constriction; aphthous ulceration (Hydr mur; Nit ac). Scalding feeling. Burnt after taking too hot food",
+        "source_id": "boericke-1927"
       }
     ],
     "stomach_abdomen": [
       {
         "text": "Loss of taste. Taste of pitch in the mouth and in the throat. Thirst, from dryness of the lips, with repugnance to all drinks. Want of appetite, with disgust and repugnance to all sorts of food. Risings, with burning sensation, as if from pyrosis, aggravated by drinking. Sob-like risings, which seem to take an inverse direction and to return towards the stomach. Vomiting of undigested food. Vomiting of bilious and slimy substances, or of blood. Great sensitiveness of the precordial region. Pressive fulness, with anxiety and inquietude in the stomach. Smarting and burning pains in the stomach. Inflammation of the stomach. Pains in abdomen, after taking coffee. Inflammation of the liver. Shootings and contraction in r. hypochondrium. Great sensibility of the abdomen to the touch. Burning pain in the abdomen, from the gullet to the rectum. Burning pain above the navel, on coughing, on sneezing, on blowing the nose, with yellowish spots on the part affected. Inflammation of the intestines. Dropsical swelling of the abdomen. Incarceration of flatulency under the hypochondria.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Canth.]. Diminished appetite. Canine hunger, particularly for meat. Great thirst, with burning pain in throat and stomach. Thirst, with aversion to all fluids. Disgust for everything ; drink, food and tobacco. Coffee disagrees. After drinking coffee, sensation of fulness. Drinking even small quantities of water, increases pain in bladder. Great thirst, but drinking, or even sight of water, increases pain. Empty eructations ; eructations of sour, frothy mucus, tinged bright red. Nausea and vomiting. Vomiting : of water drunk, also of blood ; greenish, offensive ; of bile and ingesta ; of frothy mucus, tinged bright red. Vomiting, with violent retching and severe colic. θ Pregnancy. Vomiting of bile. θ Phrenitis. Acute pain in region of stomach and bladder, with such exquisite sensibility that slightest pressure produces convulsions. Violent burning pain in stomach. Burning in region of pylorus. Pressure in scrobiculum after eating. Sensation of fulness, extending to chest and abdomen, after taking coffee. Nightly regurgitation of food. Chronic gastritis with dysuria. Incarceration of flatus under short ribs. Inflammation of liver and diaphragm. Right side of liver painful and sensitive. θ Yellow fever. Splenic troubles. Abdomen swollen and tympanitic above ; yields a dull sound below. θ Puerperal fever. Great distension and tenderness in belly. Abdomen sensitive, and burning pain about umbilicus. θ Cholera. Violent burning pain and heat through whole intestinal tract, with painful sensitiveness to touch. Cutting in abdomen. Sensation of great fulness in lower part of abdomen. Cutting, stitching, or burning in groins. Peritonitis, with burning pains in abdomen and urinary tenesmus. Ascites.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Burning sensation of œsophagus and stomach (Carb). Disgust for everything-drink, food, tobacco. Burning thirst, with aversion to all fluids. Very sensitive, violent burning. Vomiting of blood-streaked membrane and violent retching. Aggravation from drinking coffee; drinking the smallest quantity increases pain in bladder, and is vomited. Thirst unquenchable",
+        "source_id": "boericke-1927"
       }
     ],
     "stool_rectum": [
       {
         "text": "Constipation and hard fæces. Diarrhœa, with evacuation of frothy matter, or of greenish mucus, with cutting pains after the evacuation and burning pains in the rectum. During stool, burning in the anus; prolapsus ani. After stool, chilliness and tenesmus. Dysenteric diarrhœa, with nocturnal evacuation of whitish mucus, and of solid pieces, like false membranes, with streaks of blood. Sanguineous evacuations.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "No stool or urine for 48 hours. θ Acute mania. Copious stools. Frequent small, corrosive stools, with colic and pinching. Stools : yellow, brown, watery ; white, with tenesmus. Diarrhœa of blood and mucus. Feces red, slimy or green. Passage of white or pale red tough mucus with stool, like scrapings from intestines, with streaks of blood. Passage of pure blood from anus and urethra. Before stool : straining ; urging ; colic. During stool : cutting, colicky pains ; burning in anus ; prolapse of rectum ; pressing and urging, extorting cries. Stool daily but insufficient, with painful straining on bladder. θ Catarrh of bladder. After stool : colic relieved ; burning, biting and stinging in anus ; straining ; faintness ; shuddering. Chilliness as though water was poured over one, with internal warmth. Desire for stool while urinating. Pain in perineum, seemingly arising from neck of bladder.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Shivering with burning. Dysentery; mucous stools, like scrapings of intestines. Bloody, with burning and tenesmus and shuddering after stool",
+        "source_id": "boericke-1927"
       }
     ],
     "male": [
       {
         "text": "Draggings in the spermatic cord, on making water. Inflammation and gangrene of the genital parts. Painful swelling of the testes. Sexual desire greatly increased, with painful, frequent erections (with gonorrhœa), of long continuance, as in priapismus. Ready emission, during amorous caresses. Spermatorrhœa. After coition, burning pain in the urethra.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sexual desire : increased ; disturbing sleep at night. Frightful satyriasis ; violent, painful priapism, with excessive pains. Strong and persistent erections, painless and without voluptuous sensation. Erections at night, with contraction and sore pain along urethra. Frequent nocturnal emissions ; spermotorrhœa from relaxed penis, early in evening, in bed, without sensation ; discharge of blood in place of semen. Swelling of glans, which is very painful, even to external pressure. Gonorrhœal phimosis. Burning in excretory ducts of vesiculæ seminales and in urethra, during and after coition. Dropsical swelling of penis and scrotum. (In sick :) Gangrene of penis. Drawing pain in spermatic cord, while urinating. Testicles drawn up. Smegma præputii. Discharge of prostatic fluid.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Strong desire; painful erections. Pain in glans (Prunus; Pareira). Priapism in gonorrhœa",
+        "source_id": "boericke-1927"
       }
     ],
     "female": [
       {
         "text": "Catamenia premature and too copious, with black blood and pains during the flow. Voiding of moles, of fœtus, and of placentæ. Inflammation of the ovaries. Swelling of the cervix uteri. Corrosive leucorrhœa, with burning sensation on making water, and excitement of sexual desire.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Oversensitiveness of all parts. Ovarian region : stitches, arresting breathing ; violent pinching pains, with bearing down towards genitals ; great burning pain. Inflammation of ovaries after suppressed gonorrhœa. Cysto-ovarium with urinary difficulties ; hydatids. Pruritus : with strong sexual desire ; during climacteric period. Violent itching in vagina. Swelling of neck of uterus, with burning in bladder ; pain in abdomen ; constant vomiting. Swelling and irritation of vulva ; vaginismus. Inflammatory suppuration of womb with extreme tenderness. Uterine hemorrhage, with great irritation in neck of bladder. Membranous dysmenorrhœa with dysuria. Menses : too early, too profuse ; blood black or scanty, breasts painful. θ Sterility. Menses retarded. Amenorrhœa, with fulness and pain in head. Leucorrhœa : with sexual excitement ; in consequence of masturbation ; with prurigo. Uterine hemorrhage, with great irritation in neck of bladder ; more suitable to sterile women. PREGNANCY. PARTURITION. LACTATION. [24] [Canth.]. Vomiting, with violent retching and severe colic ; burning at pylorus. Abortion, with constant desire to urinate. Sterility. Puerperal convulsions : presence of bright objects ; sight, drinking, or sound of water, and touching larynx reproduce violent spasms. Promotes fecundity ; expels moles, dead fetuses and placenta. Retained placenta or membranes, usually with painful urination. Burning pain ; abdomen sensitive ; peritonitis, with tenesmus of bladder. Mamma painful ; dysuria.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Retained placenta (Sep), with painful urination. Expels moles, dead fœtuses, membranes, etc. Nymphomania (Plat; Hyos; Lach; Stram). Puerperal metritis, with inflammation of bladder. Menses too early and too profuse; black swelling of vulva with irritation. Constant discharge from uterus; worse false step. Burning pain in ovaries; extremely sensitive. Pain in os coccyx, lancinating and tearing",
+        "source_id": "boericke-1927"
       }
     ],
     "chest_heart": [
       {
         "text": "Respiration rendered difficult and oppressed by constriction of the throat, and dryness of the nose. Suspension of respiration in going up a hill, with rattling in the chest and nausea. Shootings in the chest, and in the sides. Burning pains in the chest, from whence small clots of blood are at times detached. Palpitation of the heart.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Shooting pain in chest, from front towards back, impeding respiration. A fine stitch extending from right axilla into chest. Stitching pain in forepart of right chest ; it then passes downward into right lower ribs. Stitches in chest, more on right side, or first left, then right ; in lower right chest, extending towards middle of sternum. Burning in chest. Exudation within pleura. θ Pleurisy. Anxiety in cardiac region. Stitch in heart, followed by a crawling sensation. Drawing pain in region of heart. Pulse : very variable, mostly hard, full and frequent, at times intermittent ; frequent and small ; slow, feeble and scarcely perceptible ; more full and rapid in morning. Stitches in sternum. Burning in chest.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Pleurisy, as soon as effusion has taken place. Intense dyspnœa; palpitation; frequent, dry cough. Tendency to syncope. Short, hacking cough, blood-streaked tenacious mucus. Burning pains",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Palpitation; pulse feeble, irregular; tendency to syncope. Pericarditis, with effusion",
+        "source_id": "boericke-1927"
       }
     ],
     "fever_chill": [
       {
         "text": "Pulse hard, full and rapid. Fever, which manifests itself only by cold. Cold and shivering, with cutis anserina and paleness of the face. Thirst only after the shivering. Perspiration; cold, esp. on the hands and feet; on the genitals. Sweat, of the smell of urine. Pulsation through the trembling limbs. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Chill in evening, not relieved by external warmth. Burning in palms and soles. Burning heat at night, which patient does not feel. Heat, with thirst. Sweat on genitals. Cold sweat, especially on hands and feet. θ Collapse. Cold extremities. Chill running up back ; succeeded by thirst without heat ; not relieved by external warmth. Sweat smells like urine. Sweat from every movement. Evening fever. Catarrh of bladder. Typhoid, with difficult and scanty urination, inability to lie on left side, palpitation and great anxiety at night, and a clot of blood comes into mouth for two or three mornings. In third stage, when there is complete insensibility ; cramps in abdominal muscles and legs ; suppression of urine ; hemorrhages from stomach and intestines ; cold sweat on hands and feet. θ Yellow fever.",
+        "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Cold hands and feet; cold sweat. Soles burn. Chill, as if water were poured over him",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Time: Time, periodically, alternate days, on, agg.; Time, periodically, weekly, agg.; Time, night, agg., 12 Midnight; Time, night, agg., 2 A.M.; Time, night, agg., 3 A.M..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Drinking, agg.; Foods, drink, coffee, agg.; Foods, drink, cold, agg.; Rubbing, stroking, etc., amel.; Swallowing, agg., also painful swallowing; Swallowing, liquids, drinking, etc., agg.; Urination, at close of, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Generalities: Burning, painful; Burns; Burnt, scalded, as if; Convulsions, unconsciousness, with; Cutting; Crusts.); Dropsy, dema, etc.; Erysipelas; Hæmorrhage, bloody discharges, etc.; Hydrophobia; Inflammation; Internal affections; Joints, dryness in; Membranes, serous.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Mind: Mind, amative, erotic, amorous, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mind"
+      },
+      {
+        "text": "Head: Head, meninges; Head, pains, extending, forward; Head, pains, extending, inward; Bursting.); Head, pains, extending, upward, ascending.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Head"
+      },
+      {
+        "text": "External Head ; Bones And Scalp: External head; bones and scalp, right.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "External Head ; Bones And Scalp"
+      },
+      {
+        "text": "Ears: Ears, behind, (also mastoids).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ears"
+      },
+      {
+        "text": "Face: Face, right.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Face"
+      },
+      {
+        "text": "Teeth: Teeth, lower.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Teeth"
+      },
+      {
+        "text": "Mouth And Throat: Mouth and throat, burning; Mouth and throat, choking, constriction, spasms, narrow, as if.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mouth And Throat"
+      },
+      {
+        "text": "Thirst: Thirst, absent, aversion to water, fluids, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Thirst"
+      },
+      {
+        "text": "Stomach And Abdomen: Stomach and abdomen, loins (flanks); Stomach and abdomen, burning in; Stomach and abdomen, rawness.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Stomach And Abdomen"
+      },
+      {
+        "text": "Stool: Stool, bloody; Stool, dysenteric; Stool, meat water, like; Stool, shreddy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Stool"
+      },
+      {
+        "text": "Micturition: Micturition, desire, urging, etc.; Micturition, desire, diarrha, during; Micturition, desire, fruitless; Micturition, difficult, painful, drop by drop, strangury, etc.; Micturition, dribbling; Micturition, infrequent; Discharges and Feeble.); Micturition, scanty.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Micturition"
+      },
+      {
+        "text": "Urine: Urine, albuminous; Urine, flocculent; Urine, hot, burning.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Urine"
+      },
+      {
+        "text": "Sediment: Sediment; Sediment, bloody; Sediment, flaky; Sediment, red, brickdust, etc.; Micturition, concomitants, during urination; Micturition, concomitants, after urination.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sediment"
+      },
+      {
+        "text": "Urinary Organs: Urinary organs; Urinary organs, kidneys; Urinary organs, ureters; Urinary organs, bladder; Urinary organs, bladder, burning; Urinary organs, bladder, painful, sore; Urinary organs, bladder, tenesmus; Urinary organs, urethra.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Urinary Organs"
+      },
+      {
+        "text": "Male Organs: Male organs; Male organs, penis; Male organs, fumbling, grasping.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Male Organs"
+      },
+      {
+        "text": "Female Organs: Female organs, ovaries; Female organs, burning; Female organs, sore, sensitive, painful; Female organs, swelled.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Female Organs"
+      },
+      {
+        "text": "Sexual Impulse: Sexual impulse, erections; Sexual impulse, erections, painful; Sexual impulse, increased.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sexual Impulse"
+      },
+      {
+        "text": "Voice And Speech: Voice and speech; Voice and speech, barking; Voice and speech, low.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Voice And Speech"
+      },
+      {
+        "text": "Chest And Lungs: Chest and lungs, burning.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Chest And Lungs"
+      },
+      {
+        "text": "Heart, Circulation And Pulse: Heart, circulation and pulse, heart-beat and pulse, full; Heart, circulation and pulse, heart-beat and pulse, hard.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Heart, Circulation And Pulse"
+      },
+      {
+        "text": "Back, Spine And Cord: Back, spine and cord, coldness, down.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Back, Spine And Cord"
+      },
+      {
+        "text": "Lumbar Region: Lumbar region, cold.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lumbar Region"
+      },
+      {
+        "text": "Skin: Skin, eruptions, pemphigus; Skin, eruptions, vesicular, blisters, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Skin"
+      },
+      {
+        "text": "Heat: Heat, fever, burning, etc.; Heat, external; Heat, partial; Heat, partial, internal.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Heat"
+      },
+      {
+        "text": "Bbb: Bladder, griping; Bladder, neck of; Bladder, sore; Bladder, tenesmus; Burning, raw, smarting, biting.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Chest, eructations, amel.; Cutting, smarting.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Eee: Ears, outward in; Effusion, deposits, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Fingers, tips, burn.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Ggg: Glistening objects, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Hæmorrhage, dark; Hæmorrhage, lumpy, clots; Hair, bristling; Heat, painful; Hips, morbus coxarius; Hydrophobia.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Kkk: Kidneys, abscess; Kidneys, congestion; Kidneys, nephritis; Kidneys, nephritis, scarlatinal; Kidneys, nephritis, suppurative.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Kkk"
+      },
+      {
+        "text": "Mmm: Mania, erotic; Menses, bladder, agg.; Mucous membranes, red, bright; Mucous membranes, vesicles.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Ppp: Pneumonia, cerebral type.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Scapulæ, between, cutting; Semen, painful; Sexual, excitement, menses, during; Skin, burnt, scorched, as if; Stool, foamy, fluent coryza, with; Strangury; Swallowing, painful; Sweat, amel.; Sweat, urinous.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Thick [[discharges]]; Throat, choking, from water.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Uræmia; Urethra, abscess; Urethra, burning; Urethra, cutting; Urging [[to stool or urinate]]; Urination, burning; Urination, cutting; Urination, doubling up, amel.; Urination, dribbling; Urination, dysuria, drop by drop; Urination, painful; Urine, filamentous; Urine, suppressed.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vomiting, thirst, with; Vomiting, violent.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Www: Water, running sound or sight of, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      },
+      {
+        "text": "General Analysis: BURNT, scalded as if; CUTTING; DESQUAMATION, hair falls, etc.; ERYSIPELAS; HEAT, burning, etc.; HEAT, partial, local, etc.; HEMORRHAGE, bloody discharges; MALE ORGANS.",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      },
+      {
+        "text": "Generalities: Afternoon: Worse in afternoon",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: From exertion of: From rubbing | Lach., . Blisters: From burns | Pain: In interior parts | Pain: Violent, destructive inflammations, with burning pains | Burns: from burns",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Coffee: Or cold water | Fainting with coldness of: Worse from drinking coffee or cold water | Pain: In inner parts",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Darting: Stinging pain in different parts of body at same time | Destructive: Violent destructive inflammations, with burning pains",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Extreme: Great | Externally: Raw and sore pain in whole body, internally and externally",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Faint-like: Weakness, prostration, faintness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Hæmorrhage: From orifices",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Increased: Secretion from mucous membranes | Inner parts: Cutting pain in inner parts | Interior: Burning pains in interior parts | Internal: Raw and sore pain in whole body internal and external | Internal organs: Suppuration of",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Lacerated: Surfaces | Lying down: Better when lying down",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Excoriation of mucous membrane: Increased secretions of mucous membrane",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Orifices: Hæmorrhage from orifices | Over-sensitiveness: Of every part of body accompanied by great weakness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Cutting: In inner parts | Cutting: Darting stinging pain on different parts of body at same time | As from a sprain: Raw and sore pain in whole body internally and externally | Burning: In interior parts | Rheumatic: Violent destructive inflammations with burning pains | Weakness and prostration: Faintness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Kali-bi. Raw: And sore pain in whole body, internally and externally | Rubbing: Better from rubbing",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Increased: From mucous membranes | Sore: Raw and sore pain in whole body internally and externally | Standing: Worse when standing",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Walking: Better when walking | Warmth: Better from warmth | From least exertion: Over-sensitiveness of every part of body accompanied by great weakness | From exertion: Prostration faintness | From cold: From drinking coffee or cold water when standing | Of bed: In afternoon",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
       }
     ],
     "indications": [
+      {
+        "text": "Synonyms—Spanish Flies, Blister Beetle.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Cantharidin is a crystalline body obtained by exhausting the powder with chloroform. The crystals are colorless prisms, soluble in alcohol, chloroform, ether and in volatile oils, and to a limited extent in water. It is the irritating, blistering constituent of the powder.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Physiological Action—Internally the agent will produce gastro-intestinal irritation, pain, nausea, vomiting, bloody stools, suppression of urine, with irritation in passing, strangury, swelling of the external genitals, general depression, convulsions and death. It increases sexual desire, and is an active emmenagogue and abortifacient.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Applied externally the agent produces at first, local stimulation, a reddening of the skin and subsequent vesication, the vesicles filling with serum, producing prompt and marked derivation and general depression.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—In small doses this agent is in use in the treatment of cystitis and bladder irritations, accompanied with tenesmus and constant desire. It is serviceable in enuresis when there is relaxation of the bladder walls, and lack of control of the sphincter, especially in that common to relaxed plethoric women, when upon their feet, and when coughing.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is of some benefit in the treatment of dropsies, especially of those following scarlet fever, and diabetes in its later stages.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is occasionally beneficial in eczema and acne, when accompanied with uterine or vesical irritation, or with amenorrhea. In small doses it is prescribed in sub-acute or chronic gonorrhea or gleet.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "As a vesicant, or blistering agent, cantharides has long been used in the treatment of local inflammations of all characters, usually in sthenic stages, as its derivative influence produces debility. Diseases of the brain and spinal cord, and their meninges, have been treated with extreme derivation from its, action and often with good results. As a local stimulant in hypostatic congestions the agent has been much used, being applied in such cases short of vesication.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Strangury induced by the use of this agent may be treated by the use of a solution of potassium hydrate in frequent doses from ten to twenty drops freely diluted.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Very small doses of the tincture of cantharides—one drop diluted in eight ounces of water—will be of sufficient strength when a patient complains of pain in passing water, or when there are intense, burning, cutting, scalding sensations in the urethra. There may be tenesmus and urgent desire almost constant to urinate with a passing of only a drop or two at a time, which burns like fire. There may be hematuria also.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "An old German treatment for cancers was made by the use of the tincture of cantharides in a medium sized dosage, prepared in the wine of camphor with mucilage of gum arabic. A number of cures were attributed to this.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Homeopathists give this remedy in minute doses when there is delirium with paroxysm of rage, profanity, greatly increased sexual excitement, or sexual furor.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "A prominent French writer advised cantharides in very small doses in acute nephritis where there was at first anuria and oliguria. He gives this in medium sized doses, claiming a rapid increase in the amount of sugar, and disappearance in the edema.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Dr. Wark reports a case of fistula in a boy of sixteen which was cured with a cerate of cantharides to which he added a small quantity of the tincture filling a long fistula full of this. By this means he blistered off the pyogenic membrane of the fistula, and by simple measures healed the fistula completely.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "An application is made of a mixture of one-half of a dram of tannic acid, one dram of tincture of cantharides, five drops of the oil of capsicum in two ounces of glycerine rubbed thoroughly into the scalp twice a day to prevent the falling of hair.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Dr. Thornton of Mississippi combined cantharidin and collodion and used it in his ears for chronic deafness with excellent results.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Note—Powerful vesication is seldom deemed advisable by our physicians as local stimulation by heat or mustard is usually found sufficient. The formation of large blisters or blebs is deprecated, as inducing depression and local pain and general irritation, usually out of all proportion to the benefit derived. The abstraction of the serum from the blood, which contains almost as much albumin as the blood itself, amounts to but little less than actual blood letting. Extreme blistering, even by physicians addicted to most heroic measures is largely relegated to the past.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "When counter irritation, derivation, or local stimulation seems to be needed, we have recourse to local heat, dry or moist, always short of burning, mustard, capsicum, and other agents named in other chapters for their revulsive action, as croton oil, and other oils, chloroform, ether and ammonia, confined, and dry cupping.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
       {
         "text": "The dried beetles, Cantharis vesicatoria (Linné), De Geer. (Ord. Coleoptera.) Southern Europe. Dose, 1 grain.Common Name: Spanish Fly; Synonym: Cantharides.",
         "source_id": "felter-eclectic-1922"
@@ -526,20 +1183,54 @@
         "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
         "source_id": "kings-american-1898"
       }
-    ]
+    ],
+    "modalities": {
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Canth.]. Restlessness : compelling him to move about. Lying down : burning in sides of head. Stooping : face hot, red and swollen ; stiffness in neck. Movement : sweat. Rising : pressing, gnawing and tearing in back. Walking : vertigo, staggering and fainting ; burning in sides of head ; pressing, gnawing and tearing in back. General aggravation after midnight and during day. Night : hallucinations ; regurgitation of food ; sexual desire. Morning : confusion of head and pulsation in forehead ; burning sides of head ; coagulated blood in mouth ; tearing pain in back. Afternoon : burning sides of head. Evening : constant dull painful sensation in region of kidneys ; emissions ; chill. Warm applications relieve pains in knees. Open air : lachrymation.",
+          "source_id": "hering-guiding-1879"
+        }
+      ],
+      "better_from": [
+        {
+          "text": "rubbing",
+          "source_id": "boericke-1927"
+        }
+      ],
+      "worse_from": [
+        {
+          "text": "from touch, or approach, urinating, drinking cold water or coffee",
+          "source_id": "boericke-1927"
+        }
+      ]
+    },
+    "dosing": {
+      "notes": "Sixth to thirtieth potency. Bears repeated doses well. Locally, in burns and eczema, 1x and 2x, in water, or as cerate"
+    }
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
+      "allen-keynotes-1899",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890",
+      "ellingwood-1919",
       "farrington-clinical-1908",
       "felter-eclectic-1922",
       "guernsey-keynotes-1887",
+      "hering-guiding-1879",
+      "hering-condensed-mm-1877",
       "kent-lectures-1905",
       "kent-mm-1911",
-      "kings-american-1898"
+      "kings-american-1898",
+      "lippe-textbook-mm-1866",
+      "boericke-1927",
+      "nash-leaders-1899"
     ]
   }
 }

@@ -1,12 +1,17 @@
 {
   "id": "provings-x",
   "names": {
-    "primary": "PROVINGS OF THE X-RAY",
-    "latin": "PROVINGS OF THE X-RAY",
+    "primary": "Provings X",
+    "latin": "Provings X",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "PROVINGS OF THE X-RAY"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

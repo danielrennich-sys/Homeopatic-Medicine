@@ -1,17 +1,19 @@
 {
   "id": "lac-caninum",
   "names": {
-    "primary": "Lac Caninum. Dogs (Milk.)",
-    "latin": "Lac Caninum. Dogs (Milk.)",
+    "primary": "Lac Caninum",
+    "latin": "Lac Caninum",
     "common": [
       "Dog's Milk"
     ],
     "synonyms": [
-      "LAC CANINUM",
-      "Lac Caninum"
+      "Lac Caninum. Dogs (Milk.)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -345,6 +347,12 @@
           "text": "morning of one day and in the evening of next",
           "source_id": "boericke-1927"
         }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Lac. c.]. Rest : headache >. Lying on back : with hands over face, falls asleep ; separating knees as far as possible > soreness of vulva. Lying down : thinks how horrible it would be if a very sharp pain, like a knife, should go through her ; causes congestion ; cough < ; does not seem to touch bed. Could not lie flat : great difficulty in breathing. Sitting : as if she was going deranged. Bending head forward : causes congestion. Leaning forward : nausea ; pain in abdomen <. Standing : leucorrhœa <. Cannot find comfortable position in bed, there is no way she can put her hands that they do not bother her. Motion : painful on account of soreness of ovarian region ; > hoarseness ; pains in hip and knee joints < ; soreness of joints < ; sharp, darting pains in knee and ankle < ; pain in knee <. Flexing leg on abdomen : tension in groin >. Cannot straighten herself : pain in back. Could not raise arm : pain in shoulder. Exertion : dull pain in left superior maxillary. Must jump up and stir about to > feeling as if breath would leave her. Walking : leucorrhœa < ; sores between labia and thighs < ; pain in right leg ; felt as if walking on air. Does not want to walk or stand : sensation in groin <. Going down stairs : trembling of leg. Morning : dull, frontal headache ; left superior maxillary feels sore ; nausea, weak, sinking feeling in stomach pit ; much prostration. At 4 A. M. : copious epistaxis. At 9 A. M. : sharp pain on top of head. Noon : throat > ; soreness of vulva comes suddenly. Day : pains in head. Afternoon : headache ; hoarseness ; constriction of chest. Evening : abdomen hard and swollen ; intense soreness of vulva ; aching in breasts. At 9.45 P. M. : dyspeptic pain in stomach pit. Night : constant noise in head < ; sensation as if bed was in motion ; sore spot in left side of throat removed by 1 A. M. ; next night same on right side ; pain in tonsil ; gnawing < ; felt she would suffocate ; throat < ; dreams of urinating ; urine frequent ; rheumatic pains < ; burning of hands and feet ; very restless ; limbs cold. After midnight : very severe frontal headache. Heat : soreness of joints < ; pains in ankles > while heat is applied. Warm room : pain in forehead >. Warm applications : pains in superior maxillary >. Open air : headache > ; mucus in mouth <. Exposure to draft : severe pain in right shoulder. Cold night air : sharp, darting pains in knee and ankle. During and after a cold northeast storm : throat <. Cold winds : terrible pain in forehead. Washing : causes pain in herpetic eruption. Cold applications : soreness of superior maxillary > ; pain in upper canines >. Cold water : sore throat momentarily >.",
+          "source_id": "hering-guiding-1879"
+        }
       ]
     },
     "dosing": {
@@ -511,6 +519,195 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "comparative": [
+      {
+        "text": "[The Ophidia] Next we take up the action of Lachesis on the nose, throat, and chest, so far as catarrhs are concerned. Lachesis produces watery discharge from the nose, which is often preceded by throbbing headache, worse in the left temple and forehead, and relieved as the coryza estab- lishes itself. Accompanying this coryza sometimes are vesicles about the nose, redness, puffiness of the face and lids, creeping chills over the body, palpitation of the heart, and great relaxation of the whole system; hence it is suitable for a cold which occurs in relax- ing weather, consequently in the spring of the year. Lachesis may also be used in ozsena of mercurial or syphilitic origin. Here you may compare Kali bichromicum, which follows Lachesis well; and also Aurum, Nit) ic acid, Mercmius, and Lac caninum. The last-named drug cures syphilitic ozsena and angina when the corners of the mouth and alsenasi are cracked.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      },
+      {
+        "text": "[The Ophidia] Lac caninum is very similar to Lachesis in diphtheria, but is readily distinguished by its peculiar habit of alternating sides. Starting on one side, frequently the left, the soreness and swelling, and even the membrane, suddenly shift to the opposite side, only to return, in a few hours, to the starting point. The membrane is grayish-yellow and curdy, and if ulcers form, they shine like silver-gloss.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Time: Time, morning, agg., 9 A.M..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Company, amel., desire for, etc.; Menses, before and after, agg.; Swallowing, agg., also painful swallowing.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Generalities: Periodicity, Waves.); Ammoniacal odor; Plug.); Alternating.); forward (sensations); Elongated, as if; Vertigo.); Glistening; Perception, changed (mental or visual).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Mind: Mind, death, wants; Mind, disease, fears; Mind, imaginations, illusions, fancies, etc.; Mind, mistakes, of speech, etc.; Mind, persevere, can't.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mind"
+      },
+      {
+        "text": "Head: Head, one sided symptoms, begins on one, goes to and is agg. on other; Head, occiput, ascending through; Head, pains, extending, left.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Head"
+      },
+      {
+        "text": "Vision: Vision, images, retina retains, too long.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vision"
+      },
+      {
+        "text": "Nose And Accessory Cavities: Nose and accessory cavities, one side of, alternating between.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nose And Accessory Cavities"
+      },
+      {
+        "text": "Face: Face, lips, peeling; Face, red, one side.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Face"
+      },
+      {
+        "text": "Mouth And Throat: Mouth and throat; Mouth and throat, left; Mouth and throat, alternating sides; Mouth and throat, diphtheria, tonsilitis, etc.; Mouth and throat, diphtheria, tonsilitis, laryngeal; Mouth and throat, glistening; Mouth and throat, lump, descends and rises, as she swallows; Mouth and throat, nose, ascending to; Mouth and throat, spot, dry, sore, etc.; Mouth and throat, upward through or from.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mouth And Throat"
+      },
+      {
+        "text": "Saliva: Saliva, increased, sleep, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Saliva"
+      },
+      {
+        "text": "Cravings And Desires: Cravings and desires, hot things.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Cravings And Desires"
+      },
+      {
+        "text": "Stool: Stool, chill, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Stool"
+      },
+      {
+        "text": "Genitals: Genitals, alternating between.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Genitals"
+      },
+      {
+        "text": "Female Organs: Female organs, upward going, left.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Female Organs"
+      },
+      {
+        "text": "Menstruation: Menstruation, menses, green.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Menstruation"
+      },
+      {
+        "text": "External Throat: External throat, sensitive to touch, pressure, clothes, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "External Throat"
+      },
+      {
+        "text": "Chest And Lungs: Chest and lungs, forward, left.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Chest And Lungs"
+      },
+      {
+        "text": "Mammæ: Mammæ; Mammæ, milk, scant, absent, etc.; Mammæ, menses, before, agg.; Mammæ, sore, painful.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mammæ"
+      },
+      {
+        "text": "Back, Spine And Cord: Back, spine and cord, coldness, down.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Back, Spine And Cord"
+      },
+      {
+        "text": "Upper Limbs: Upper limbs, alternating between; Upper limbs, fingers, tips, sensitive.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Upper Limbs"
+      },
+      {
+        "text": "Lower Limbs: Lower limbs, foot, swelling, right.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lower Limbs"
+      },
+      {
+        "text": "Sleep: Sleep, with hands over head.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sleep"
+      },
+      {
+        "text": "Aaa: Abdomen, covers, lifts.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Back, chills, down; Back, crawling; Bed, leaves; Bursting.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Colds, ascending.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Fff: Fingers, sensitive; Fingers, spread apart; Fingers, tips, painful.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Hæmorrhage, gushing; Hands, washes the; Head, arms over; Head, expanding and contracting; Heels, sore; Hips, to hip; Hysteria, coition, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Lll: Lochia, green.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Mmm: Mammæ, heavy; Mammæ, menses, before, agg.; Mammæ, suckling, agg.; Menses, mammæ, agg.; Menses, painful, bending back, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Ooo: Ovaries, alternating between; Ovaries, left to heart.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ooo"
+      },
+      {
+        "text": "Ppp: Poison, feeling.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Scapulæ, cutting; Snakes, imagines; Stool, granular, sandy; Swallowing, painful.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Throat, exertion, agg.; Throat, glistening; Throat, menses, at; Throat, side, left, cold drinks, agg.; Throat, weak; Tonsils, glisten; Tonsils, menses, at, agg.; Touch, each other, agg. [[of parts, fingers, etc.]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Vvv: Vertigo, headache, with; Vision, field of, sees objects beside; Vision, retina, retains images too long; Voice, hoarse, menses, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "General Analysis: AMMONIACAL ODOR; BALL.; COMPANY, Amel., Desire for, etc.; DIRECTION of sensations, Crosswise, across, side to side, etc.; DIRECTION of sensations, Forward; GLISTENING; MENSES, before and after, Agg..",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
+    ],
     "respiratory": [
       {
         "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Lac. c.]. Loss of voice. θ Pharyngitis. Throat troubles her much if she reads aloud or talks more than usual ; it seems almost as though it was stopping up, and she feels very hoarse, but has no soreness ; there is a feeling of fulness and choking. Unable to speak loud ; distressed feeling while speaking. Respiration hoarse, crying was whispered and broken, often no sound at all. θ Diphtheria. Slight hoarseness, with now and then a change of voice, after walking, but soon passing away. Excessive hoarseness, and tickling, choking sensation, > moving about. Voice hoarse and husky ; interrupted by weakness and hoarseness. Larynx sensitive to pressure. θ Diphtheria. Constriction in lower part of larynx, like a finger across throat ; feeling as of a bar across back of throat. Difficult breathing ; during evening had several suffocating spells. θ Diphtheria. Terrible dyspnœa immediately after sleep, first on left side of chest ; dyspnœa compelled her to be lifted upright with violent exertion to get breath ; sharp pain in region of heart with each attack. θ Acute rheumatism. Breathing hoarse and croupy, and at times an entire stoppage of breath, when it would resume with a violent effort. θ Diphtheria. Breathing often snoring and only possible through mouth. θ Diphtheria. Short breath. θ After diphtheria. Great difficulty in breathing, could not lie down flat. Breathing very labored. Loud snoring during sleep. Sensation as if breath would leave her when lying down and trying to sleep ; has to jump up and stir around for an hour or so every night. Tickling sensation in throat causing cough ; in afternoon quite hoarse. Cough from tickling in upper anterior part of larynx, < talking and lying down. Cough caused by irritation in upper part of throat, < lying down at night, also after eating and drinking and after talking ; with soreness of left side of throat and constant desire to urinate. Cough on taking a long breath, not when swallowing. Hard, metallic cough. Croupy cough, a dry, hoarse bark, penetrating through closed doors all over house. θ Diphtheria. Cough and dyspnœa. Constant cough, accompanying soreness. θ Diphtheria. Expectoration of profuse, sticky, tough, white mucus in masses, with coryza.",
@@ -525,6 +722,9 @@
       "allen-materia-medica-nosodes-1910",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "farrington-clinical-1908",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879",
       "kent-lectures-1905",
       "kent-mm-1911",

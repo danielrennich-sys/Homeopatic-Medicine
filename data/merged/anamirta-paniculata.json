@@ -1,14 +1,19 @@
 {
   "id": "anamirta-paniculata",
   "names": {
-    "primary": "Anamirta paniculata (COLEBR.)",
-    "latin": "Anamirta paniculata (COLEBR.)",
+    "primary": "Anamirta Paniculata",
+    "latin": "Anamirta Paniculata",
     "common": [
       "Cocculus, Indicus"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Anamirta paniculata (COLEBR.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

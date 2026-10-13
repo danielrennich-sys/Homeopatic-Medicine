@@ -1,14 +1,19 @@
 {
   "id": "allium-schoenoprasum",
   "names": {
-    "primary": "Allium schoenoprasum (LINN.)",
-    "latin": "Allium schoenoprasum (LINN.)",
+    "primary": "Allium Schoenoprasum",
+    "latin": "Allium Schoenoprasum",
     "common": [
       "/products/chicory-root-powder-roasted/profile"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Allium schoenoprasum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

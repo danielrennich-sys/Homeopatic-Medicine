@@ -1,14 +1,19 @@
 {
   "id": "tragopogon-porrifolius",
   "names": {
-    "primary": "Tragopogon porrifolius (LINN.)",
-    "latin": "Tragopogon porrifolius (LINN.)",
+    "primary": "Tragopogon Porrifolius",
+    "latin": "Tragopogon Porrifolius",
     "common": [
       "Salsafy"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Tragopogon porrifolius (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

@@ -1,17 +1,32 @@
 {
   "id": "usnea-barbata",
   "names": {
-    "primary": "USNEA BARBATA",
-    "latin": "USNEA BARBATA",
+    "primary": "Usnea Barbata",
+    "latin": "Usnea Barbata",
     "common": [
       "Tree-moss"
     ],
-    "synonyms": [
-      "Usnea Barbata"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
+    "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Usnea Barbata. A tincture is made of the fresh lichen. ► ► Headache , I had to go to the house, I could feel the blood press to the brain, my wife worked over me and I got to sleep, next morning felt well. ► At 8 P.M ., pair (left head) went down to sacrum, increased all the evening, and bursting headache in front. ► 9-12 P.M ., sharp, shooting, steady pain in back. ► Sleep from after midnight till 8 A.M . ► Sore next day all over. ► Headache comes and goes slowly. Clinical :- ► \"Cured several cases of headache ; the pain is over the entire head, or front head, with feeling as if the temples would burst, or the eyes would burst out of the sockets ; I have always used the tincture.\" Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "color=\"#800000\">USNEA BARBATA Tree-moss Is a remedy in some forms of congestive headache; sunstroke.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "An article by M. B. in U.S. Med. Invest. (quoted New, Old, and Forgotten Remedies) gives an observation by the writer, who ate a little of the \"moss\" and had in consequence a severe congestive headache which compelled him to give up his work and go to bed. He got to sleep and woke very well next morning. Two young ladies out picking cranberries had headache from riding in the hot sun and were compelled to lie down. Usn. b. Ø, one drop in a tumbler of water, a teaspoonful to be taken at once and repeated in fifteen minutes. The second dose stopped the pain. A young married lady subject to headache for five years; was almost frantic with the pain. Usn. b., as above, cured in one or two doses.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
     "head": [
       {
         "text": "Bursting feeling, as if temples would burst, or the eyes burst out of the sockets. Throbbing carotids",
@@ -25,16 +40,6 @@
     "dosing": {
       "notes": "Tincture, drop doses"
     },
-    "keynotes": [
-      {
-        "text": "color=\"#800000\">USNEA BARBATA Tree-moss Is a remedy in some forms of congestive headache; sunstroke.",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "An article by M. B. in U.S. Med. Invest. (quoted New, Old, and Forgotten Remedies) gives an observation by the writer, who ate a little of the \"moss\" and had in consequence a severe congestive headache which compelled him to give up his work and go to bed. He got to sleep and woke very well next morning. Two young ladies out picking cranberries had headache from riding in the hot sun and were compelled to lie down. Usn. b. Ø, one drop in a tumbler of water, a teaspoonful to be taken at once and repeated in fifteen minutes. The second dose stopped the pain. A young married lady subject to headache for five years; was almost frantic with the pain. Usn. b., as above, cured in one or two doses.",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
     "generalities": [
       {
         "text": "Clinical: Headache, congestive",
@@ -45,6 +50,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "allen-handbook-1889",
       "boericke-1927",
       "clarke-dictionary-1900"
     ]

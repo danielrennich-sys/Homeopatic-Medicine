@@ -1,24 +1,33 @@
 {
   "id": "thirst",
   "names": {
-    "primary": "THIRST",
-    "latin": "THIRST",
+    "primary": "Thirst",
+    "latin": "Thirst",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
-    "keynotes": [
+    "comparative": [
       {
-        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY THIRST. Thirst : Aco., Arn., Ars., Bell., Bry., Calc-c., Caps., Cham., Chin., Cina., Croc., Dig., Lyc., Merc., Nat-m., Pho., Rhus-t., Sep., Sil., Stram., Sul., Ver-a. Thirst, with aversion to drinks : Hell., Stram. Thirst, with the chill : Bry., Caps., Ign., Nat-m. Thirst, absent , aversion to water, fluids, etc. : Aeth., Ap., Bell., Canth., Chin., Fer., Gels., Hell., Hyo., Ign., Ip., Nux-m., Pul., Saba., Sep., Stram. Thirst, absent, during the heat : Ap., Carb-v., Gels., Hell., Ign., Ip., Nux-m., Pul., Saba., Sep. Thirst, cold drinks , for : Aco., Ars., Bism., Bry., Chin., Merc-c., Pho., Rhus-t., Ver-a. Thirst, little and often , for : Aco., Ant-t., Ap., Ars., Bell., Chin., Hyo., Lyc., Rhus-t. Thirst, much at a time : Bry. Thirst, violent , burning : Aco., Ars., Bry., Coloc., Cup., Merc., Nux-v., Saba., Ver-a. Copyright © Médi-T 1999",
-        "source_id": "boger-synoptic-key-1915"
+        "text": "[The Ophidia] In intermittent fever the chill begins in the back, as in Lachesis. It is worse from 4 to 8 p. m., or at 7 p. m. ; hands and feet numb and icy cold. Sour eructations or vomit are almost invariably present, es- pecially between chill and heat. Thirst mostly after the sweat. De- sires hot drinks only.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      },
+      {
+        "text": "[The Ophidia] Apis here, as in many other instances, favors the snake-poison. Both are suited to old or maltreated cases; afternoon chill, oppres- sion of the chest, nose cold, pulse fluttering, skin of hands and arms blue, and general appearance of collapse. But the bee- poison has ag- gravation from heat, Lachesis has not; the former has much more marked oppression of the chest, with consequent smothering. The tongue is red, raw, and covered on tip and borders with vesicles. Thirst during and not before the chill. Urticaria.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
       }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "boger-synoptic-key-1915"
+      "farrington-clinical-1908"
     ]
   }
 }

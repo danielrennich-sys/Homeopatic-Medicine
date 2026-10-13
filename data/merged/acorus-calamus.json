@@ -1,14 +1,19 @@
 {
   "id": "acorus-calamus",
   "names": {
-    "primary": "Acorus calamus (LINN.)",
-    "latin": "Acorus calamus (LINN.)",
+    "primary": "Acorus Calamus",
+    "latin": "Acorus Calamus",
     "common": [
       "Sedge, Sweet"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Acorus calamus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

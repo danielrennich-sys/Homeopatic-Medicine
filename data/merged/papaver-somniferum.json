@@ -1,14 +1,19 @@
 {
   "id": "papaver-somniferum",
   "names": {
-    "primary": "Papaver somniferum (LINN.)",
-    "latin": "Papaver somniferum (LINN.)",
+    "primary": "Papaver Somniferum",
+    "latin": "Papaver Somniferum",
     "common": [
       "Poppy, White"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Papaver somniferum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

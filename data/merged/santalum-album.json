@@ -1,14 +1,19 @@
 {
   "id": "santalum-album",
   "names": {
-    "primary": "Santalum album (LINN.)",
-    "latin": "Santalum album (LINN.)",
+    "primary": "Santalum Album",
+    "latin": "Santalum Album",
     "common": [
       "Sandalwood"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Santalum album (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

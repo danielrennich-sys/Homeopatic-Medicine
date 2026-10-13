@@ -1,12 +1,17 @@
 {
   "id": "mercurius-biniodide",
   "names": {
-    "primary": "Mercurius Biniodide. Biniodide of Mercury. (HgI2.)",
-    "latin": "Mercurius Biniodide. Biniodide of Mercury. (HgI2.)",
+    "primary": "Mercurius Biniodide",
+    "latin": "Mercurius Biniodide",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Mercurius Biniodide. Biniodide of Mercury. (HgI2.)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

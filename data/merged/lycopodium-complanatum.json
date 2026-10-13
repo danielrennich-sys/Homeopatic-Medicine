@@ -1,14 +1,19 @@
 {
   "id": "lycopodium-complanatum",
   "names": {
-    "primary": "Lycopodium complanatum (LINN.)",
-    "latin": "Lycopodium complanatum (LINN.)",
+    "primary": "Lycopodium Complanatum",
+    "latin": "Lycopodium Complanatum",
     "common": [
       "Moss, American Club"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Lycopodium complanatum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

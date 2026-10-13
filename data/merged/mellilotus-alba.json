@@ -1,0 +1,79 @@
+{
+  "id": "mellilotus-alba",
+  "names": {
+    "primary": "Mellilotus Alba",
+    "latin": "Mellilotus Alba",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Bleeding, amel.; Change of position, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Head: Head, bursting, distended, etc.; Head, congestion; Head, maddening pain (shrieks with); Head, throbbing; Head, urination, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Head"
+      },
+      {
+        "text": "Back, Spine And Cord: Back, spine and cord, alternating sides, with headache.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Back, Spine And Cord"
+      },
+      {
+        "text": "Bbb: Blood, rushes of, upward.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Change of temperature, agg.; Climaxis.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Dry.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Eee: Epistaxis, menses, profuse; Eyes, balls, big, feel.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Full.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Hæmorrhage, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Rrr: Raw.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "General Analysis: CHANGE of position, Amel.; HEMORRHAGE, bloody discharges.",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

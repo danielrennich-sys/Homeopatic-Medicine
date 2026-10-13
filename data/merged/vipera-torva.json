@@ -1,0 +1,119 @@
+{
+  "id": "vipera-torva",
+  "names": {
+    "primary": "Vipera Torva",
+    "latin": "Vipera Torva",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Female organs.); Position, hanging down limb, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Heart, Circulation And Pulse: Heart, circulation and pulse, bloodvessels; Heart, circulation and pulse, inflamed, phlebitis, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Heart, Circulation And Pulse"
+      },
+      {
+        "text": "Lower Limbs: Lower limbs, elevating limbs, amel.; Lower limbs, phlegmasia dolens.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lower Limbs"
+      },
+      {
+        "text": "Aaa: Abdomen, uncovering, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Blood-vessels, phlebitis; Bursting.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Chest, cramp.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Eee: Epigastrium, cramp; Epigastrium, pain; Eructations, loud, explosive.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Full.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Ggg: Goitre.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Hæmorrhage; Hanging, down, agg. [[limb]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Lll: Legs, blue; Legs, calf, cramp; Limbs, cramp; Lips, twitch, spasm; Liver, swelled.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Mmm: Mania.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Nose, bleeding.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Pains, can't stand; Paralysis, side, left; Poison, feeling.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Skin, spots, blue.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Temples, veins; Tongue, bites the.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Ulcer, bluish; Ulcer, break and heal, recur.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vomiting, septic.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "General Analysis: Formication ); BLACK, dark, etc.; BLOOD VESSELS.; HEMORRHAGE, bloody discharges.",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

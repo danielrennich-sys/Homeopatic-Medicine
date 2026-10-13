@@ -1,16 +1,20 @@
 {
   "id": "aurantii-dulcis",
   "names": {
-    "primary": "Aurantii Dulcis Cortex",
-    "latin": "Aurantii Dulcis Cortex",
+    "primary": "Aurantii Dulcis",
+    "latin": "Aurantii Dulcis",
     "common": [
       "Sweet Orange Peel"
     ],
     "synonyms": [
+      "Aurantii Dulcis Cortex",
       "Aurantii Dulcis Cortex (U. S. P.)"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

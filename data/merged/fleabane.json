@@ -1,14 +1,19 @@
 {
   "id": "fleabane",
   "names": {
-    "primary": "Fleabane, Common",
-    "latin": "Fleabane, Common",
+    "primary": "Fleabane",
+    "latin": "Fleabane",
     "common": [
       "Fleabane, Common"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Fleabane, Common"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

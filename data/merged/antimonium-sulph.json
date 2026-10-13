@@ -1,12 +1,17 @@
 {
   "id": "antimonium-sulph",
   "names": {
-    "primary": "Antimonium Sulph. Auratum",
-    "latin": "Antimonium Sulph. Auratum",
+    "primary": "Antimonium Sulph",
+    "latin": "Antimonium Sulph",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Antimonium Sulph. Auratum"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

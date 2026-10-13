@@ -1,16 +1,18 @@
 {
   "id": "ranunculus",
   "names": {
-    "primary": "RANUNCULUS",
-    "latin": "RANUNCULUS",
+    "primary": "Ranunculus",
+    "latin": "Ranunculus",
     "common": [
       "Crowfoot"
     ],
-    "synonyms": [
-      "Ranunculus"
-    ]
+    "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

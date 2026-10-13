@@ -1,14 +1,17 @@
 {
   "id": "vanilla-aromatica",
   "names": {
-    "primary": "VANILLA AROMATICA",
-    "latin": "VANILLA AROMATICA",
+    "primary": "Vanilla Aromatica",
+    "latin": "Vanilla Aromatica",
     "common": [
       "Vanilla (VANILLA - PLANIFOLIA)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Vanilla, 6th to 30th, has been found effective in curing the skin affection"

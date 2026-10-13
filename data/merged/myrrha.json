@@ -1,16 +1,20 @@
 {
   "id": "myrrha",
   "names": {
-    "primary": "Myrrha (Commiphora spp.)",
-    "latin": "Myrrha (Commiphora spp.)",
+    "primary": "Myrrha",
+    "latin": "Myrrha",
     "common": [
       "Myrrh"
     ],
     "synonyms": [
+      "Myrrha (Commiphora spp.)",
       "Myrrha (U. S. P.)"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

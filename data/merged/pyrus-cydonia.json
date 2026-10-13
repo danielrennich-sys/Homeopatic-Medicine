@@ -1,14 +1,19 @@
 {
   "id": "pyrus-cydonia",
   "names": {
-    "primary": "Pyrus cydonia (LINN.)",
-    "latin": "Pyrus cydonia (LINN.)",
+    "primary": "Pyrus Cydonia",
+    "latin": "Pyrus Cydonia",
     "common": [
       "Quince"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Pyrus cydonia (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

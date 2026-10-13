@@ -1,14 +1,19 @@
 {
   "id": "vitis-hederacea",
   "names": {
-    "primary": "Vitis Hederacea (WILLD.)",
-    "latin": "Vitis Hederacea (WILLD.)",
+    "primary": "Vitis Hederacea",
+    "latin": "Vitis Hederacea",
     "common": [
       "Virginia Creeper"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Vitis Hederacea (WILLD.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

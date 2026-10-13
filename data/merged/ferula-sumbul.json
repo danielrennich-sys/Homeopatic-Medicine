@@ -1,14 +1,19 @@
 {
   "id": "ferula-sumbul",
   "names": {
-    "primary": "Ferula sumbul (HOOK, F.)",
-    "latin": "Ferula sumbul (HOOK, F.)",
+    "primary": "Ferula Sumbul",
+    "latin": "Ferula Sumbul",
     "common": [
       "Sumbul"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ferula sumbul (HOOK, F.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

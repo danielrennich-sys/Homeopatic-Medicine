@@ -1,14 +1,19 @@
 {
   "id": "aristolochia-longa",
   "names": {
-    "primary": "Aristolochia longa (LINN.)",
-    "latin": "Aristolochia longa (LINN.)",
+    "primary": "Aristolochia Longa",
+    "latin": "Aristolochia Longa",
     "common": [
       "Birthwort"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Aristolochia longa (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

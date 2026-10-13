@@ -1,14 +1,19 @@
 {
   "id": "sagittaria-sagittifolia",
   "names": {
-    "primary": "Sagittaria sagittifolia (LINN.)",
-    "latin": "Sagittaria sagittifolia (LINN.)",
+    "primary": "Sagittaria Sagittifolia",
+    "latin": "Sagittaria Sagittifolia",
     "common": [
       "Arrowhead"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Sagittaria sagittifolia (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

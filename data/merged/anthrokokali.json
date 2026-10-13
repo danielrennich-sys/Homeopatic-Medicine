@@ -7,6 +7,9 @@
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -111,6 +114,48 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Generalities: During motion: During rest in open air",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Capillaries: Carbuncles",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Of whole body: With listlessness and heavy head",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Head: Debility of whole body, with listlessness and heavy head",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Listlessness: Debility of whole body with listlessness and heavy head",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Magnetism: Complete",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Night: Worse at night",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: After eating: At night | On lying down: After bathing",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ],
     "stool_rectum": [
       {
         "text": "After colic and rumbling several mushy stools. Copious diarrhœa with colic and rumbling. Diarrhœa for several days with increased secretion of urine. Three times during the day a brown stool with increased quantity of pale urine. (OBS :) Cholera.",
@@ -146,6 +191,7 @@
   "provenance": {
     "sources": [
       "clarke-dictionary-1900",
+      "gentry-rubrical-mm-1890",
       "hering-guiding-1879"
     ]
   }

@@ -1,16 +1,20 @@
 {
   "id": "ovi-gallinae",
   "names": {
-    "primary": "OVI GALLINAE PELLICULA",
-    "latin": "OVI GALLINAE PELLICULA",
+    "primary": "Ovi Gallinae",
+    "latin": "Ovi Gallinae",
     "common": [
       "Membrane of Egg-shell"
     ],
     "synonyms": [
+      "OVI GALLINAE PELLICULA",
       "Ovi Gallinæ Pellicula"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

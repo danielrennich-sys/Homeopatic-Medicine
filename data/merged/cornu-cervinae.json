@@ -1,14 +1,19 @@
 {
   "id": "cornu-cervinae",
   "names": {
-    "primary": "Cornu Cervinae Ustum",
-    "latin": "Cornu Cervinae Ustum",
+    "primary": "Cornu Cervinae",
+    "latin": "Cornu Cervinae",
     "common": [
       "Burned Deer's Horn"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Cornu Cervinae Ustum"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

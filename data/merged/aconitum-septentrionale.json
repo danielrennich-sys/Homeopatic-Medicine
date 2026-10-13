@@ -1,12 +1,17 @@
 {
   "id": "aconitum-septentrionale",
   "names": {
-    "primary": "Aconitum Septentrionale, Koelle",
-    "latin": "Aconitum Septentrionale, Koelle",
+    "primary": "Aconitum Septentrionale",
+    "latin": "Aconitum Septentrionale",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Aconitum Septentrionale, Koelle"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

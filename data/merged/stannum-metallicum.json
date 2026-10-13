@@ -1,18 +1,19 @@
 {
   "id": "stannum-metallicum",
   "names": {
-    "primary": "Stann",
-    "latin": "Stann",
+    "primary": "Stannum Metallicum",
+    "latin": "Stannum Metallicum",
     "common": [
       "Tin (STANNUM)"
     ],
     "synonyms": [
-      "STANNUM METALLICUM",
-      "Stannum metallicum",
-      "Stannum Metallicum"
+      "Stann"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -329,6 +330,228 @@
         "text": "These pains are ameliorated by pressure, like Colocynth and Bryonia; so if Colocynth fails, which is generally first thought of in abdominal pains relieved by pressure, Stannum may relieve, and especially if the attacks have been of long standing or the patient seems to have a chronic tendency thereto. If in children, the patient is relieved by carrying it over the point of the shoulder, the shoulder pressing into the abdomen. The Stannum patient is generally very sad and despondent, feels like crying all the time. (Nat. m., Puls., Sepia.) I have often verified the above symptoms and have seen equally good effects from the 12th, 30th, 200th and 500th (Boericke & Tafel) potencies.",
         "source_id": "nash-leaders-1899"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Time: Time, morning, agg., 10 A.M.; Time, morning, agg., 11 A.M.; Time, evening, agg.; Time, night, agg., 4 A.M..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Conditions Of Aggravation And Amelioration: easily chilled, lacks heat; Descending, agg.; Fingers or hands, using, as in writing, sewing, piano-playing, grasping, etc., agg.; Laughing, agg.; Lying, on abdomen, amel.; Lying, in bed, amel.; Lying, on side, agg.; Lying, on side, right, agg.; Menses, before, agg.; Motion, after, agg.; Sensitive.); Pressure, amel.: lying on painful or affected side, etc., amel.; Pressure, over a hard edge, etc., amel.; Singing, agg.; Speaking, talking, etc., agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Generalities: Adhesive, adherent, torn loose, etc.; Gelatinous.); Shattered.); Carried, wants to be, over shoulder; Scrofula.); Convulsions, internal; Empty, hollow, sinking, etc.; Falling; Greenish; Here and there; Increasing and decreasing gradually, sun-pains, etc.; Jerks; Lumpy effects, discharges, etc.; Moistness.); Moistness, fluidity in general, discharges increased, etc.; Mucous, secretions, altered; Paralysis, apoplexy, after; Paralysis, emotions, from; Spasmodic.).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Mind: Mind, hypochondria; Mind, menses, agg.; Mind, sadness, low spirits, melancholy, etc.; Mind, taciturn, silent, reticent.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mind"
+      },
+      {
+        "text": "Head: Head, pains, extending, inward; Head, pressure; Head, pressure, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Head"
+      },
+      {
+        "text": "Eyes: Eyes, left.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eyes"
+      },
+      {
+        "text": "Face: Face, zygomæ; Face, hectic spots [[fever]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Face"
+      },
+      {
+        "text": "Mouth And Throat: Mouth and throat, right; Mouth and throat, left, to right.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mouth And Throat"
+      },
+      {
+        "text": "Taste: Taste, sweet.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Taste"
+      },
+      {
+        "text": "Appetite: Appetite, hunger.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Appetite"
+      },
+      {
+        "text": "Nausea: Nausea, odors (cooking, etc.), agg.; Nausea, throat, in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nausea"
+      },
+      {
+        "text": "Stomach And Abdomen: Stomach and abdomen, boring in; Stomach and abdomen, empty, hollow, weak, sinking, etc.; Stomach and abdomen, pressure, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Stomach And Abdomen"
+      },
+      {
+        "text": "External Abdomen: External abdomen, bruised, sore.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "External Abdomen"
+      },
+      {
+        "text": "Female Organs: Female organs, stooling, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Female Organs"
+      },
+      {
+        "text": "Respiration: Respiration; Respiration, anxious; Respiration, asthmatic; Cough, Loose.).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Respiration"
+      },
+      {
+        "text": "Cough: Cough; Cough, deep; Cough, expectoration, amel.; Cough, loose; expectoration, with; Cough, loose; expectoration, easy; Cough, painful; Cough, tickling.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Cough"
+      },
+      {
+        "text": "Larynx And Trachea: Larynx and trachea; Larynx and trachea, right; Larynx and trachea, rough, raw, etc.; Larynx and trachea, tickling in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Larynx And Trachea"
+      },
+      {
+        "text": "Voice And Speech: Voice and speech.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Voice And Speech"
+      },
+      {
+        "text": "Neck (Nape): Neck (Nape), sweat.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Neck (Nape)"
+      },
+      {
+        "text": "Chest And Lungs: Chest and lungs; Chest and lungs, left; Chest and lungs, upper; Chest and lungs, upward, left; Chest and lungs, hollow, empty, as if; Chest and lungs, soreness; Chest and lungs, weakness.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Chest And Lungs"
+      },
+      {
+        "text": "Back, Spine And Cord: Back, spine and cord, blow or sudden shock.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Back, Spine And Cord"
+      },
+      {
+        "text": "Upper Limbs: Upper limbs, left; Upper limbs, hands, heat, burning, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Upper Limbs"
+      },
+      {
+        "text": "Lower Limbs: Lower limbs, thighs, inner side; Lower limbs, calf.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lower Limbs"
+      },
+      {
+        "text": "Sweat: Sweat, in general, easy tendency to, etc.; Sweat, hot.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sweat"
+      },
+      {
+        "text": "Aaa: Activity, fruitless.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Bladder, atony; Bronchorrha.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Cough, bouts, 2-3; Cough, throat or larynx, right, from; Cramp.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Diaphragm.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Eee: Eating, tired, too; Erotic; Expectoration, easy; Expectoration, plugs, balls; Expectoration, purulent; Expectoration, sago, like; Eyes, looks down before him.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Fingers, jerking; Fingers, writing, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Ggg: Gait, unsteady; Gushing.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Heavy; Humerus, crushing.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Iii: Inspiration, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      },
+      {
+        "text": "Lll: Larynx, upwards; Leucorrha, gushing; Lumbar back, vertebræ of; Lying, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Mmm: Mind, blank; Mind, menses, before, agg.; Motion, rapid, amel.; Musty, moldy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Navel, retracted; Neuralgia; Night, sweats, of phthisis; Nipples, outward darts; Nymphomania.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ooo: Offensive, body; Orbits, neuralgia; Orgasms, sexual.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ooo"
+      },
+      {
+        "text": "Ppp: Palms, hot, burn, and soles.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Rrr: Respiration, difficult, short.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Sexual, orgasms; Sitting, desires; Sleep, waking from and on falling both, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Talk, can't; Taste, bitter, sour; Throat, spot in, right, cough, from; Throat, weak; Tongue, tickling; Trembling, weakness, from.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Vvv: Vision, looking down; Voice, weak; Vomiting, early [[morning]]; Vomiting, violent.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Www: Wormy [[stool]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      },
+      {
+        "text": "General Analysis: CHEST, internal; COUGH.; COUGH, painful; EMPTY, hollow, sinking, internal weakness, sense of, etc.; FALLING; FINE PAINS, needle, splinter, thread or hair-like, etc.; FINGERS OR HANDS, using, as in writing, sewing, piano playing, grasping, etc.; GREENISH; INCREASING slowly, then gradually decreasing, sun pains, etc.; LARYNX AND TRACHEA; LAUGHING, Agg.; LUMPY EFFECTS, discharges, etc.; LYING, on abdomen, Amel.; LYING, on side, Agg.; LYING, right, Agg..",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
     ]
   },
   "evidence": {},
@@ -336,6 +559,8 @@
     "sources": [
       "allen-encyclopedia-1874",
       "boericke-1927",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
       "kent-lectures-1905",
       "kent-mm-1911",
       "nash-leaders-1899"

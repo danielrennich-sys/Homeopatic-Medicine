@@ -1,12 +1,17 @@
 {
   "id": "lobelia-coerulea",
   "names": {
-    "primary": "Lobelia Coerulea. (Lobelia Syphilitica.)",
-    "latin": "Lobelia Coerulea. (Lobelia Syphilitica.)",
+    "primary": "Lobelia Coerulea",
+    "latin": "Lobelia Coerulea",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Lobelia Coerulea. (Lobelia Syphilitica.)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {
@@ -62,12 +67,19 @@
         "Copyright © Médi-T ® 2002",
         "Main"
       ]
-    }
+    },
+    "keynotes": [
+      {
+        "text": "Main Condensed Materia Medica. By Constantine Hering. Presented by Médi-T . LOBELIA CRULEA. [Lobel. cr.] Great Blue Lobelia. Jeanes. Lobeliaceæ. [ 1 ] * [ 31 ] [1] Mind. ► Much depressed, tearful, unhappy. ► Bad effects from grief. [31] Neck and Back. ► Pain or aching in posterior aspect of spleen. Copyright © Médi-T 2005. Main",
+        "source_id": "hering-condensed-mm-1877"
+      }
+    ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "hering-guiding-1879"
+      "hering-guiding-1879",
+      "hering-condensed-mm-1877"
     ]
   }
 }

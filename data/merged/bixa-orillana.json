@@ -1,14 +1,19 @@
 {
   "id": "bixa-orillana",
   "names": {
-    "primary": "Bixa orillana See (FALSE) DAMIANA ",
-    "latin": "Bixa orillana See (FALSE) DAMIANA ",
+    "primary": "Bixa Orillana",
+    "latin": "Bixa Orillana",
     "common": [
       "Aploppas"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Bixa orillana See (FALSE) DAMIANA"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

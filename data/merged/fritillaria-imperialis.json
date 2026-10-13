@@ -1,14 +1,19 @@
 {
   "id": "fritillaria-imperialis",
   "names": {
-    "primary": "Fritillaria imperialis (LINN.)",
-    "latin": "Fritillaria imperialis (LINN.)",
+    "primary": "Fritillaria Imperialis",
+    "latin": "Fritillaria Imperialis",
     "common": [
       "Lily, Crown Imperial"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Fritillaria imperialis (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

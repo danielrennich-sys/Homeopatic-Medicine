@@ -1,14 +1,19 @@
 {
   "id": "asclepias-tuberose",
   "names": {
-    "primary": "Asclepias tuberose (LINN.)",
-    "latin": "Asclepias tuberose (LINN.)",
+    "primary": "Asclepias Tuberose",
+    "latin": "Asclepias Tuberose",
     "common": [
       "Pleurisy Root"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Asclepias tuberose (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

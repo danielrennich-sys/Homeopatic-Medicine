@@ -1,14 +1,19 @@
 {
   "id": "ficus-carica",
   "names": {
-    "primary": "Ficus Carica (LINN.)",
-    "latin": "Ficus Carica (LINN.)",
+    "primary": "Ficus Carica",
+    "latin": "Ficus Carica",
     "common": [
       "Fig, Common"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ficus Carica (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

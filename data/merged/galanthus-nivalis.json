@@ -1,14 +1,17 @@
 {
   "id": "galanthus-nivalis",
   "names": {
-    "primary": "GALANTHUS NIVALIS",
-    "latin": "GALANTHUS NIVALIS",
+    "primary": "Galanthus Nivalis",
+    "latin": "Galanthus Nivalis",
     "common": [
       "Snow-drop"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "First potency to fifth"

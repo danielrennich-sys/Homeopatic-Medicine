@@ -7,10 +7,15 @@
       "Boxwood, American"
     ],
     "synonyms": [
+      "Cornus. Cornus florida",
       "Cornus florida (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -31,6 +36,10 @@
       }
     ],
     "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Cornus Florida. A tincture is made of the fresh bark of Cornus florida, L. ► Headache. ► Face flushed. ► Nausea. ► Heat in stomach. ► Pulse accelerated and bounding ; and tense ; and full, strong ; and full, afterwards soft, but full ; and irregular, afterwards slower and smaller. ► Pulse full, afterwards slower and smaller. Clinical :- ► Intermittent fever, with dullness, drowsiness, dull headache, great exhaustion, during the intervals between the paroxysms very weak, with diarrha, general clammy sweat, etc. ► (Compare with Cornus cir . and Alstonia ). ► It seems to be adapted to chronic malaria ; the paroxysms sometimes begin with heat, followed by oppression, with heat beginning in the back, the patient feels weak and miserable ; in the apyrexia, and especially has diarrha and jaundiced skin. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
       {
         "text": "Hale commends Corn. f. in obstinate intermittents where quinine has been abused and where the following group of symptoms is present: For days before chill sleepiness; sluggish flow of ideas; dull, heavy headache. Paroxysms attended with nausea; vomiting and sometimes watery or bilious diarrhœa. In the chill, cold, clammy skin; in the fever, violent headache, with throbbing, stupor, confusion of intellect and vomiting. He also commends it in old cases of dyspepsia where the chief symptom is acid pyrosis. Corn. f., which has had a separate proving, has some very remarkable neuralgic pains in arms, chest, and trunk, and a sensation as if broken in two. It has been used successfully in a case of pneumonia on the indication of the stitches in the chest.",
         "source_id": "clarke-dictionary-1900"
@@ -99,6 +108,59 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "Ppp: Prodrome.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Generalities: General: And impaired mental energy, with great drowsiness | Drowsiness: General debility and impaired mental energy, with great drowsiness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Or drinking: Worse while eating | Energy: General debility and impaired mental energy with great drowsiness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Imagination: debility and impaired, mental energy, with great drowsiness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Mental: General debility and impaired mental energy with great drowsiness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Synonym—Dogwood.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—This agent is indicated not only to correct the atonic conditions of the glandular structure of the gastro-intestinal apparatus in malaria, but as an antidote to the malarial poison itself. It has marked control over many of the manifestations of malaria.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Its influence upon the stomach in these cases increases the appetite at once, improves the character of the digestion and relieves the drowsiness and dullness apt to follow imperfect digestion. It is a tonic in enfeebled conditions of the stomach from whatever cause and improves intestinal digestion.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Before Europeans discovered America, the Red Indianswere using the bark in the same way as Peruvian bark. It is valuable in intermittent fevers, as a weak tonic for the stomach, and antiperiodic, as a stimulant and astringent. As a poultice in anthrax, indolent ulcers, and inflamed erysipelas, it is tonic, stimulant and antiseptic. In the recent state it should be avoided, as it disagrees with stomach and bowels. Cinchona bark or sulphate of quinea often replace it officially. 35 grains of Cornus bark are equal to 30 grains of cinchona bark. The leaves make good fodder for cattle, and in Italy the oil is used in soups. The ripe fruit, infused in brandy, is used as a stomachic in domestic practice, and a tincture of the berries restores tone to the stomach in alcoholism. Hippocrates, Dioscorides, and Pliny recommend them in diarrhoea.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
     "preparation": [
       {
         "text": "The dried bark of the root.",
@@ -117,12 +179,6 @@
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
-    "indications": [
-      {
-        "text": "Before Europeans discovered America, the Red Indianswere using the bark in the same way as Peruvian bark. It is valuable in intermittent fevers, as a weak tonic for the stomach, and antiperiodic, as a stimulant and astringent. As a poultice in anthrax, indolent ulcers, and inflamed erysipelas, it is tonic, stimulant and antiseptic. In the recent state it should be avoided, as it disagrees with stomach and bowels. Cinchona bark or sulphate of quinea often replace it officially. 35 grains of Cornus bark are equal to 30 grains of cinchona bark. The leaves make good fodder for cattle, and in Italy the oil is used in soups. The ripe fruit, infused in brandy, is used as a stomachic in domestic practice, and a tincture of the berries restores tone to the stomach in alcoholism. Hippocrates, Dioscorides, and Pliny recommend them in diarrhoea.",
-        "source_id": "grieve-modern-herbal-1931"
-      }
-    ],
     "dosing": [
       {
         "text": "Formerly, 1 to 2 oz. of the powder between paroxysms of intermittent fever. Of fluid extract, 30 minims as a tonic. Of cornin, 2 grains.",
@@ -134,7 +190,11 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890",
+      "ellingwood-1919",
       "grieve-modern-herbal-1931"
     ]
   }

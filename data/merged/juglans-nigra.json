@@ -1,14 +1,19 @@
 {
   "id": "juglans-nigra",
   "names": {
-    "primary": "Juglans nigra (LINN.)",
-    "latin": "Juglans nigra (LINN.)",
+    "primary": "Juglans Nigra",
+    "latin": "Juglans Nigra",
     "common": [
       "Walnut"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Juglans nigra (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

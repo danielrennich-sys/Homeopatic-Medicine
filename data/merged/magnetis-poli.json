@@ -1,14 +1,18 @@
 {
   "id": "magnetis-poli",
   "names": {
-    "primary": "MAGNETIS POLI AMBO",
-    "latin": "MAGNETIS POLI AMBO",
+    "primary": "Magnetis Poli",
+    "latin": "Magnetis Poli",
     "common": [],
     "synonyms": [
+      "MAGNETIS POLI AMBO",
       "Magnetis Poli Ambo"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

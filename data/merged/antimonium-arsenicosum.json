@@ -1,14 +1,17 @@
 {
   "id": "antimonium-arsenicosum",
   "names": {
-    "primary": "ANTIMONIUM ARSENICOSUM",
-    "latin": "ANTIMONIUM ARSENICOSUM",
+    "primary": "Antimonium Arsenicosum",
+    "latin": "Antimonium Arsenicosum",
     "common": [
       "Arsenite of Antimony"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Third trituration"

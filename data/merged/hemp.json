@@ -1,14 +1,19 @@
 {
   "id": "hemp",
   "names": {
-    "primary": "Hemp, Enc. Britannica 1856 about hemp",
-    "latin": "Hemp, Enc. Britannica 1856 about hemp",
+    "primary": "Hemp",
+    "latin": "Hemp",
     "common": [
       "Hemp, Enc. Britannica 1856 about hemp"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Hemp, Enc. Britannica 1856 about hemp"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

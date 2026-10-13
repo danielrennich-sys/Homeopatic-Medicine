@@ -6,11 +6,12 @@
     "common": [
       "Indian Nettle"
     ],
-    "synonyms": [
-      "ACALYPHA INDICA"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -24,6 +25,28 @@
       {
         "text": "Progressive emaciation. θ Hæmoptysis.",
         "source_id": "hering-guiding-1879"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Acalypha Indica. A weed found in India, belonging to the Euphorbiaceæ. A tincture is prepared from the fresh plant. ► ► Severe fit of dry cough, followed by spitting of blood . Note :- ► This symptom, doubtless a clinical observation, enabled Dr. Holcomb, of New Orleans, to cure a most obstinate case of hæmoptysis, after other means had failed. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "color=\"#800000\">ACALYPHA INDICA Indian Nettle A drug having a marked action on the alimentary canal and respiratory organs. It is indicated in incipient phthisis, with hard, racking cough, bloody expectoration, arterial hæmorrhage, but no febrile disturbance. Very weak in the morning, gains strength during day. Progressive emaciation. All pathological hæmorrhages having notably a morning aggravation.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "The chief employment of this Euphorbian has been in violent dry cough followed by bloody expectoration. Expectoration of pure blood in the morning, and dark clotted blood in the evening. Cough most violent at night. Dulness of chest on percussion; constant severe pain in chest. Progressive emaciation. A proving by several Indian physicians has brought out a number of symptoms in the alimentary tracts characterised by: burning, sense of weight at stomach, flatulence, and sputtering diarrhœa.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. ACALYPHA INDICA. Natural order.- Euphorbiaceae. General Analysis.- Has only been found to act upon the respiratory organs, inducing \" Dry cough, followed by spitting of blood,\" which is its only characteristic, this having been repeatedly verified by its prompt cure of haemoptysis. According to Hale , it is indicated when there is expectoration of pure blood in the morning, and dark lumps of clotted blood in the evening. Compare.- Acon., Arn., Ham., Ipec., Millef., Phos. Copyright © Robert Séror 2003",
+        "source_id": "cowperthwaite-textbook-1891"
+      },
+      {
+        "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T ACALYPHA INDICA Often called for in hæmorrhage of the lungs. Chest.-- Constant pain. Dulness on percussion. Cough, with bloody expectoration. Hæmoptysis . Emaciation. Copyright © Médi-T 2000",
+        "source_id": "guernsey-keynotes-1887"
       }
     ],
     "chest_heart": [
@@ -55,29 +78,17 @@
           "text": "in morning",
           "source_id": "boericke-1927"
         }
+      ],
+      "entries": [
+        {
+          "text": "Night : cough most violent. Morning : expectorates pure blood. Evening : expectorates dark clotted blood.",
+          "source_id": "hering-guiding-1879"
+        }
       ]
     },
     "dosing": {
       "notes": "Third to sixth potency"
     },
-    "keynotes": [
-      {
-        "text": "color=\"#800000\">ACALYPHA INDICA Indian Nettle A drug having a marked action on the alimentary canal and respiratory organs. It is indicated in incipient phthisis, with hard, racking cough, bloody expectoration, arterial hæmorrhage, but no febrile disturbance. Very weak in the morning, gains strength during day. Progressive emaciation. All pathological hæmorrhages having notably a morning aggravation.",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "The chief employment of this Euphorbian has been in violent dry cough followed by bloody expectoration. Expectoration of pure blood in the morning, and dark clotted blood in the evening. Cough most violent at night. Dulness of chest on percussion; constant severe pain in chest. Progressive emaciation. A proving by several Indian physicians has brought out a number of symptoms in the alimentary tracts characterised by: burning, sense of weight at stomach, flatulence, and sputtering diarrhœa.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. ACALYPHA INDICA. Natural order.- Euphorbiaceae. General Analysis.- Has only been found to act upon the respiratory organs, inducing \" Dry cough, followed by spitting of blood,\" which is its only characteristic, this having been repeatedly verified by its prompt cure of haemoptysis. According to Hale , it is indicated when there is expectoration of pure blood in the morning, and dark lumps of clotted blood in the evening. Compare.- Acon., Arn., Ham., Ipec., Millef., Phos. Copyright © Robert Séror 2003",
-        "source_id": "cowperthwaite-textbook-1891"
-      },
-      {
-        "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T ACALYPHA INDICA Often called for in hæmorrhage of the lungs. Chest.-- Constant pain. Dulness on percussion. Cough, with bloody expectoration. Hæmoptysis . Emaciation. Copyright © Médi-T 2000",
-        "source_id": "guernsey-keynotes-1887"
-      }
-    ],
     "relationships": {
       "_raw": [
         "Compare: Mercurialis ann., Mancin., and other Euphorbians. Ham., Ipec., Millefol., Phos., Aco. Copyright © Médi-T ® 2000 Main",
@@ -86,6 +97,28 @@
         "Main"
       ]
     },
+    "repertory": [
+      {
+        "text": "Hhh: Hæmoptysis.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Generalities: Cough: Progressive emaciation, with dry cough and hæmoptysis",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Extreme: Progressive emaciation with dry cough and hæmoptysis",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Hæmoptysis: Progressive emaciation with dry cough and hæmoptysis",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ],
     "mental_emotional": [
       {
         "text": "Gloomy and despairing, but very unwilling to die. θ Hæmoptysis. Leucorrhœa, sometimes thick, sometimes watery. θ Consumptive patient.",
@@ -109,9 +142,12 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "boericke-1927",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890",
       "guernsey-keynotes-1887",
       "hering-guiding-1879"
     ]

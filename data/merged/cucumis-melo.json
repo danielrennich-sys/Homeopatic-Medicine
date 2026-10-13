@@ -1,14 +1,19 @@
 {
   "id": "cucumis-melo",
   "names": {
-    "primary": "Cucumis melo (LINN.)",
-    "latin": "Cucumis melo (LINN.)",
+    "primary": "Cucumis Melo",
+    "latin": "Cucumis Melo",
     "common": [
       "Melons"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Cucumis melo (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

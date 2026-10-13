@@ -1,14 +1,19 @@
 {
   "id": "magnolia-acuminata",
   "names": {
-    "primary": "Magnolia acuminata, Magnolia virginiana (LINN.)",
-    "latin": "Magnolia acuminata, Magnolia virginiana (LINN.)",
+    "primary": "Magnolia Acuminata",
+    "latin": "Magnolia Acuminata",
     "common": [
       "Magnolia"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Magnolia acuminata, Magnolia virginiana (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

@@ -1,0 +1,265 @@
+{
+  "id": "manganum-metallicum",
+  "names": {
+    "primary": "Manganum Metallicum",
+    "latin": "Manganum Metallicum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Time: Time, afternoon, agg., 4 P.M.; Time, night, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Featherbed, agg.; Laughing, agg.; Position, hanging down limb, amel.; Position, stooping, agg.; Speaking, talking, etc., agg.; Talk, hearing others, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Generalities: Bones, periosteum; Chronicity; diagonal (sensations); Gait, stooped, bent, etc.; Glistening; Motion, festination.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Head: Head, one sided symptoms, begins on one, goes to and is agg. on other; Head, pains, extending, into eyes; Head, pains, extending, upward, ascending.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Head"
+      },
+      {
+        "text": "Ears: Ears, internal.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ears"
+      },
+      {
+        "text": "Face: Face, expression, changed.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Face"
+      },
+      {
+        "text": "Teeth: Teeth, changing about.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Teeth"
+      },
+      {
+        "text": "Stool: Stool, granular, sandy, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Stool"
+      },
+      {
+        "text": "Micturition: Micturition, frequent.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Micturition"
+      },
+      {
+        "text": "Menstruation: Menstruation, menses, early.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Menstruation"
+      },
+      {
+        "text": "Cough: Cough, loose; expectoration, flies from mouth.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Cough"
+      },
+      {
+        "text": "Larynx And Trachea: Larynx and trachea; Larynx and trachea, rough, raw, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Larynx And Trachea"
+      },
+      {
+        "text": "Voice And Speech: Voice and speech; Voice and speech, hoarseness; Voice and speech, hoarseness, A.M..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Voice And Speech"
+      },
+      {
+        "text": "Neck (Nape): Neck (Nape), sweat.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Neck (Nape)"
+      },
+      {
+        "text": "Chest And Lungs: Chest and lungs, alternating sides; Chest and lungs, upper; Chest and lungs, upward.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Chest And Lungs"
+      },
+      {
+        "text": "Lower Limbs: Lower limbs, foot, numb, right; Lower limbs, foot, heels.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lower Limbs"
+      },
+      {
+        "text": "Sleep: Sleep, yawning.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sleep"
+      },
+      {
+        "text": "Aaa: Ankles, inflamed; Arms, alternating between.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Blue; Bones, sensitive.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Climaxis; Cough, lying, amel.; Cough, shaking, shattering.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Eee: Eruptions, touch, agg.; Expectoration, easy, by day.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Face, immobile; Flushes, sudden [[heat]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Ggg: Growing pains.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Heels, pain.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Iii: Immobile.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      },
+      {
+        "text": "Lll: Larynx, constriction; Legs, weak; Leucorrha, bloody water.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Mmm: Menses, absent, puberty, at; Mucous membranes, pale.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Nose, blowing.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Pruritus, of diabetes.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Rrr: Reading, agg.; Rough.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Sensitive, susceptible, etc.; Skin, quivering, twitching; Skin, sensitive, painful; Swallowing, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Throat, inflamed; Throat, speaking, agg.; Tongue, neuralgia.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Vvv: Voice, lost, aphonia.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Www: Water, bloody, meat washings, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      },
+      {
+        "text": "Yyy: Yellow, green.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Yyy"
+      },
+      {
+        "text": "General Analysis: DIRECTION of sensations, Diagonally; EXPRESSION, changed.; GLISTENING; LARYNX AND TRACHEA; LAUGHING, Agg..",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      },
+      {
+        "text": "Generalities: Alternation: In laryngeal phthisis",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Pains constantly change location: Worse from change of weather | Cramp-like: Tenderness and cramp-like drawing and tearing in various parts",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Drawing: Pains | Sensation: Tenderness and cramp-like drying and tearing in various parts",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Painless swelling of glands: Swelling in",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Indoors: Symptoms coming on indoors are better in open air, and vice versa",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Joints: Weakness and trembling, especially of joints",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Laryngeal: Anæmia in laryngeal phthisis",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: to open air: Symptoms coming on indoors are better in open air and vice versa",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Burning: Drawing",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: All over: When touched",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Drawing pains: Tenderness and cramp-like drawing and tearing in various parts | Tenderness: And cramp-like drawing and tearing in various parts | Touch: Worse from slightest touch | Touched: Soreness when touched | All over body: Weakness and trembling especially of joints",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: And prostration: And trembling especially of joints | Weather: Worse on change of weather | On rising: On stooping ; from slight touch from change of weather",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890"
+    ]
+  }
+}

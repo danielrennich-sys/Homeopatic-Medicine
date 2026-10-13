@@ -1,20 +1,22 @@
 {
   "id": "menyanthes-trifoliata",
   "names": {
-    "primary": "Menyanthes Trifoliata. Buck Bean. (Genitanaceae.)",
-    "latin": "Menyanthes Trifoliata. Buck Bean. (Genitanaceae.)",
+    "primary": "Menyanthes Trifoliata",
+    "latin": "Menyanthes Trifoliata",
     "common": [
       "Buck-bean (MENYANTHES)",
       "Bogbean"
     ],
     "synonyms": [
-      "MENYANTHES TRIFOLIATA",
-      "Menyanthes trifoliata (TOURNEF.)",
-      "Menyanthes Trifoliata",
-      "Menyanthes trifoliata"
+      "Menyanthes Trifoliata. Buck Bean. (Genitanaceae.)",
+      "Menyanthes trifoliata (TOURNEF.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -106,6 +108,12 @@
           "text": "during rest, ascending",
           "source_id": "boericke-1927"
         }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Meny.]. Rest : pressive, stupefying headache ; twitching of facial muscles < ; pain in thigh <. Lying down : headache < ; pain in thighs < ; sweat in bed. Sitting still : pain in back ; cramplike drawing in thigh ; thigh and leg jerked upward. Stooping : pain in small of back <. Slight exertion : irregular action of heart <. Swallowing : stinging in palate. Masticating : cracking in ear ; pain and cracking in articulation of jaw. Motion : pressive, stupefying headache ; almost impossible, sharp pains through chest ; stitches in chest < ; pain in thighs >. Ascending steps : compressive headache. Walking : twitching of facial muscles > ; pain in small of back < ; tingling from elbows into hands and fingers ; great debility. Morning when rising : coldness in abdomen. At 8 A. M., for an hour or two : coldness of feet and legs <. At 11 A. M. : tingling from elbows into hands and fingers. All day : distension and fulness of abdomen. Evening : fulness in abdomen < by smoking ; pain in thighs < ; general heat ; sweat in bed. All night : sweat lasting. Warm stove : chill passes off. Open air : dull headache > ; tingling from elbows to fingers. In room : dull headache. Cold water : headache <.",
+          "source_id": "hering-guiding-1879"
+        }
       ]
     },
     "relationships": {
@@ -124,6 +132,103 @@
     "dosing": {
       "notes": "Third to thirtieth potency"
     },
+    "repertory": [
+      {
+        "text": "Time: Time, evening, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Biting or chewing, agg.; Lying, agg.; Pressure, amel.: lying on painful or affected side, etc., amel.; Twilight, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Generalities: Bursting.); Jerking pain.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Mind: Mind, forsaken, lonely.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mind"
+      },
+      {
+        "text": "Head: Head, vertex; Head, pains, extending, downward to nose, face, neck, etc.; Head, pains, extending, upward, ascending; Head, pains, extending, right; Head, compression, squeezing, etc.; Head, dull or heavy aching; Head, pressure, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Head"
+      },
+      {
+        "text": "Stomach And Abdomen: Stomach and abdomen, coldness.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Stomach And Abdomen"
+      },
+      {
+        "text": "Chest And Lungs: Chest and lungs, pulsation, left.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Chest And Lungs"
+      },
+      {
+        "text": "Chill, Chilliness, Coldness, Etc. In General: Chill, chilliness, coldness, etc. in general; Chill, chilliness, coldness, etc., partial or single parts.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Chill, Chilliness, Coldness, Etc. In General"
+      },
+      {
+        "text": "Aaa: Ankles, cramp.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Ccc: Chill, partial, one part, prominent; Chill, yawning, with; Coldness, affected part.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Hhh: Hair, bristling.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Iii: Icy cold.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      },
+      {
+        "text": "Lll: Lips, cracked, chapped.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Nnn: Nape, ascending, from; Nape, heavy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Sss: Scapulæ, boring, left.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Thighs, cramp.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Vvv: Vertex, pressure, heavy, crushing, etc., on.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Www: Warts, suppressed.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      },
+      {
+        "text": "General Analysis: COLDNESS, Partial; LYING, Agg..",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
+    ],
     "habitat": [
       {
         "text": "The Buckbean, or Bogbean, grows in spongy bogs, marshes and shallow water throughout Europe, being rather scarce in the south of England, though common in the north and in Scotland.",
@@ -242,6 +347,8 @@
     "sources": [
       "allen-keynotes-1899",
       "boericke-1927",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
       "grieve-modern-herbal-1931",
       "guernsey-keynotes-1887",
       "hering-guiding-1879",

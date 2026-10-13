@@ -1,12 +1,15 @@
 {
   "id": "vespa-vulgaris",
   "names": {
-    "primary": "VESPA VULGARIS",
-    "latin": "VESPA VULGARIS",
+    "primary": "Vespa Vulgaris",
+    "latin": "Vespa Vulgaris",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

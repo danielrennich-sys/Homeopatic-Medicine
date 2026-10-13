@@ -1,17 +1,21 @@
 {
   "id": "picraena-excelsa",
   "names": {
-    "primary": "Picraena excelsa (SWARTZ)",
-    "latin": "Picraena excelsa (SWARTZ)",
+    "primary": "Picraena Excelsa",
+    "latin": "Picraena Excelsa",
     "common": [
       "Ash, Bitter",
       "Quassia"
     ],
     "synonyms": [
+      "Picraena excelsa (SWARTZ)",
       "Picraena excelsa (LINDL.)"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

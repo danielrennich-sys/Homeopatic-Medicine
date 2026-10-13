@@ -1,26 +1,42 @@
 {
   "id": "syzygium-jambolanum",
   "names": {
-    "primary": "SYZYGIUM JAMBOLANUM",
-    "latin": "SYZYGIUM JAMBOLANUM",
+    "primary": "Syzygium Jambolanum",
+    "latin": "Syzygium Jambolanum",
     "common": [
       "Jambol Seeds - Enlexing, active principle"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Syzygium"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {
         "text": "color=\"#800000\">SYZYGIUM JAMBOLANUM Jambol Seeds - Enlexing, active principle Has an immediate effect of increasing the blood sugar, glycosuria results. A most useful remedy in diabetes mellitus. No other remedy causes in so marked degree the diminution and disappearance of sugar in the urine. Prickly heat in upper part of the body; small red pimples itch violently. Great thirsts, weakness, emaciation. Very large amount of urine, specific gravity high. Old ulcers of skin. Diabetic ulceration. The seeds powdered, ten grains three times a day; also the tincture.",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "Syz. j. is a native of India. It has an edible fruit, the powdered stones of which have a popular use in India (B. J. H., xli. 275) as a remedy for diabetes. The dose is five grains of the powdered stones three times a day. Dudgeon used Syz. in the lower homœopathic attenuations with marked success, which has been repeated by many others. Hansen mentions as having been cured with Syz. \"old ulcers of skin, probably of a diabetic foundation.\" Dudgeon (H. W., xxiv. 540) relates this case: A scientific man, 56, complained of \"prickly heat\" all over upper part of body and arms. The skin was covered with small red papules, which itched so intensely he could get no rest. He felt very weak, which was perhaps due to his having abstained from all animal food, and confined himself to bread, farinaceous food, vegetables, and fruit. There was much thirst and great flow of urine, which he was obliged to pass every two hours, night and day; mouth very dry. Urine 1036, very saccharine. He was ordered chiefly animal diet, very little bread, and no sugar. Syz. Ø, mixed with three times the quantity of alcohol, was given; of this two drops every three hours. The specific gravity of the urine steadily declined, sugar disappeared, and all the symptoms passed off; and this in spite of the fact that the dietetic rules were relaxed. Copyright © Médi-T ® 2000 Main",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Clinical: Diabetes; Ulcers",
+        "source_id": "clarke-dictionary-1900"
       }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "boericke-1927"
+      "boericke-1927",
+      "clarke-dictionary-1900"
     ]
   }
 }

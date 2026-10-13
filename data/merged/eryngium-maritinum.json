@@ -1,14 +1,19 @@
 {
   "id": "eryngium-maritinum",
   "names": {
-    "primary": "Eryngium maritinum, Eryngium campestre",
-    "latin": "Eryngium maritinum, Eryngium campestre",
+    "primary": "Eryngium Maritinum",
+    "latin": "Eryngium Maritinum",
     "common": [
       "Holly, Sea"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Eryngium maritinum, Eryngium campestre"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

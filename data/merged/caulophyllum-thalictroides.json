@@ -1,19 +1,27 @@
 {
   "id": "caulophyllum-thalictroides",
   "names": {
-    "primary": "CAULOPHYLLUM THALICTROIDES",
-    "latin": "CAULOPHYLLUM THALICTROIDES",
+    "primary": "Caulophyllum Thalictroides",
+    "latin": "Caulophyllum Thalictroides",
     "common": [
       "Blue Cohosh (CAULOPHYLLUM)",
-      "Cohosh, Blue"
+      "Cohosh, Blue",
+      "Caulophyllum"
     ],
     "synonyms": [
+      "Caulophyllum. Caulophyllum thalictroides",
       "Caulophyllum thalictroides (MICH.)",
-      "Caulophyllum Thalictroides",
-      "Blue Cohosh"
+      "Blue Cohosh",
+      "Caulophyllum",
+      "Caulophyllum. Blue Cohosh (Berberidaceae)",
+      "Caulophyllum (U. S. P.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "stomach_abdomen": [
       {
@@ -23,6 +31,10 @@
       {
         "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Caul.]. Coffee seems to aggravate. Canine hunger, with white coated tongue. Great thirst. Empty eructations. Frequent gulping up of sour, bitter fluid, with vertigo. Spasmodic vomiting, cardialgia, excessive nausea. Heat in stomach ; fulness. Distress in stomach and bowels, with drawing in right hypochondrium. Burning distress in stomach. Dyspepsia, with spasmodic symptoms. Spasms of stomach attending uterine irritation. Drawing in right hypochondrium, and over liver. Distension of abdomen, with tenderness. Spasmodic action of muscular tissues of intestines, from irritation of motor nerves, or from rheumatism. Distress and colicky pain in abdomen, intestines and umbilical region, > by passing flatus. Rumbling in bowels, awaking at 1 A. M. with urgent desire for stool. Spasmodic and flatulent colic.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Frequent gulping of sour, bitter fluid with vertigo; spasmodic vomiting. Spasms of stomach from uterine irritations.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "female": [
@@ -33,6 +45,10 @@
       {
         "text": "Sensation as if uterus was congested, with fulness and tension in hypogastric region. Spasmodic pains in uterus. Irritable vagina, spasmodic, intense pains. Aphthous vaginitis. Menses : too soon ; preceded by pain in small of back ; great aching and soreness of lower limbs ; bad breath ; bitter taste ; vertigo ; chilliness ; flow very scanty, blood very light, with intense nausea and vomiting of yellow, bitter matter ; pain unremitting for several hours ; habitual cold feet became warm under action of remedy. Painful menstruation, flow being normal in quantity. Spasmodic dysmenorrhœa ; spasmodic, intermittent pains in bladder, stomach, broad ligaments (groins), even chest and limbs ; congestion and irritability of uterus ; scanty flow. Menstrual colic ; uterus retroverted. Amenorrhœa ; spasms, cramps, or great atony. Leucorrhœa : sharp, acrid, very weakening ; with heaviness of upper eyelids, has to lift them up with the fingers ; of profuse bland mucus ; with \"moth spots\" on forehead ; in little girls. Leucorrhœa, with congestion of uterus and forcing down pains ; tardy appearance, or absence of menses, profuse secretion of mucus from vagina, and drawing pains in lower extremities. Leucorrhœa in a woman, married ten years and never had a child ; in a few weeks became pregnant and was delivered in safety. Hysteric convulsions during dysmenorrhœa. PREGNANCY. PARTURITION. LACTATION. [24] [Caul.]. Threatening abortion, spasmodic bearing down pains ; vascular excitement ; tremulous weakness ; pains severe in back and loins, but uterine contractions feeble ; slight flow. Threatened abortion ; all movement of child had ceased ; sense of weight, and profuse hemorrhage. Paroxysms of labor pains so severe, patient had to hold on to objects for support ; threatened abortion at fourth month. Habitual abortion from uterine debility. Spasmodic rigidity of os, delaying labor ; pains like pricking needles in cervix. Tormenting, useless pains in beginning of labor. Labor pains short, irregular, spasmodic ; patient very weak and irritable ; no progress being made. Pains become weak, flagging from long protracted labor, causing exhaustion ; thirsty, feverish. Weak labor pains passing off with a shiver and causing much distress. After pains : especially after exhausting lengthy labor ; spasmodic, across lower abdomen ; extend into groins. Retained placenta and membranes. Hemorrhage, particularly after hasty labor. Passive hemorrhage after abortion or confinement. Protracted lochia ; great atony ; blood oozes passively from relaxed uterine vessels. Suppressed lochia. Griping soreness of uterus, < from pressure. After cessation of menses, occasional loss of blood ; fugitive pains in uterus and ovaries ; cervix swollen and congested ; os pouting and tightly closed ; feeling of tension and fulness in uterine region ; bloated abdomen. θ False conception.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Tension and fulness in hypogastrium; sensation as if uterus congested. Spasmodic pains in uterus. Painful menstruation; spasmodic, intermittent pains in bladder, stomach, groins, even chest and limbs; congestion and irritability of uterus; scanty flow. Before menses: pain in small of back; great aching and soreness of lower limbs; bad breath; bitter taste; vertigo; chilliness; flow very scanty; blood very light; with intense nausea and vomiting of yellow bitter matter; pain unremitting for several hours; habitual cold feet became warm under the remedy. Amenorrhœa, spasms, cramps or great atony. Hysteric convulsions during dysmenorrhœa. Leucorrhœa sharp, acrid, very weakening; with heavy eyelids; of profuse bland mucus; in little girls; with forcing-down pains; with sterility. Threatened abortion; spasmodic bearing-down; severe pain in back and loins, but uterine contractions feeble. Habitual abortion from uterine atony. Spasmodic rigidity of os; pain like pricking needles in cervix. Labour-pains short, irregular, spasmodic, patient very weak and irritable. Weak labour-pains passing off with a shiver. After-pains. False conception. Hæmorrhage.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "skin": [
@@ -52,7 +68,13 @@
       }
     ],
     "dosing": {
-      "notes": "Tincture to third attenuation"
+      "notes": "Tincture to third attenuation",
+      "entries": [
+        {
+          "text": "Decoction or Infusion. 1 OZ. of root to 1 pint of boiling water, macerated for 1/2 hour. Dose, 2 to 4 fluid ounces three or four times a day.",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "keynotes": [
       {
@@ -74,6 +96,292 @@
       {
         "text": "I have given this remedy in long continued passive hæmorrhage from the uterus after miscarriage when I had the characteristic weakness and sense of internal trembling present. It has often regulated irregular spasmodic labor pains, and has also often relieved pains of the same character in dysmenorrhœa. I repeat, this remedy deserves a careful reproving.",
         "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Caulophyllum. A tincture is prepared from the fresh root of Caulophyllum thalictroides, Mx. (the blue Cohosh). General Action :- ► Two general effects are prominent : (1) on the uterus, causing labor-like pains ; (2) on the small joints, causing pain, soreness and swelling. Allies :- ► Cimicif., Puls . ► Weakness and nervousness. ► Headache. ► Dullness of head. ► Frequent vertigo. ► Aching in forehead ; with sensation as if needles were stuck into it ; with contracted feeling in skin of forehead. ► Drawing pain over left eye. ► Intermittent pain in temples as if crushed together. ► Aching in eyes, with feeling of something under lids. ► Lachrymation. ► Drawing pain in nose. ► All the teeth seem sore and elongated. ► Tongue coated white. ► Distress in fauces, causing frequent inclination to swallow. ► Canine hunger. ► Desire to drink a great deal of water. ► Eructations of sour, bitter fluid ; empty E. ► Frequent pain in stomach and umbilicus. ► Distress in stomach ; and in umbilicus ; and in small intestines ; and in bowels, with drawing pains in right hypochondrium ; burning. ► Rumbling in abdomen, waking at 1 A.M ., with urging to stool, copious, painless stool of water running in a stream. ► Drawing pains in right side over liver. ► Pain in umbilicus, amel. emissions of flatus ; when moving, amel. emissions of flatus ; intermittent. ► Stool soft, very white. ► Stool dark. ► Stool hard, afterwards a soft one, followed by pain in umbilicus. ► Intermittent stinging in glans penis. ► Drawing pain in sterno-cleido-mastoid, that draws the head to left side. ► Pain in back ; in lumbar region. ► ► Pain in fingers, ankles, feet and toes, causing a restless night ; flying P. in arms and legs, first in one part, then in another. ► Drawing pains in fingers, ankles, feet, especially in toes ; in hips, knees, wrists ; elbow ; legs ; in joints of arms and legs. ► Aching in wrists and joints of fingers ; in elbow. ► Cutting in second joints of all fingers on closing hand, with stiffness. ► Pain in finger-joints, with redness and stiffness, and on closing hand pain in them. ► Stiffness of fingers . ► Cracking of joints of lower limbs when walking or turning. ► Drawing pain in inside of left thigh ; in thighs, knees , legs and ankles ; in knees and toes, very sharp by spells. ► Sharp pain inside of left knee. ► Weakness of knees when walking. ► Drawing pain in legs and more in feet. ► Pain in left ankle and left toes ; in feet ; in metatarsal bones, from walking. ► Drawing pain in toes . ► Restless night ; after 3 A.M . ► Skin hot and dry. Clinical :- ► Labor pains are weak, do not press downward, but pass off with a kind of shivering. ► Inefficient labor pains which do not press downward, but fly in all directions. ► Useful in false annoying pains a few weeks before the time for labor. ► Rigid os during labor, pains sharp, pricking. ► Threatening miscarriage, with uterine cramp, hæmorrhage. ► Prolapsus of uterus. ► Retroversion of uterus, with dysmenorrha, profuse leucorrha, etc. ► Subinvolution of uterus after child-birth, with general debility and loss of power in lower extremities. ► Aphthæ in vagina, with dysmenorrha. ► Dysmenorrha. ► Leucorrha in a child. ► Hysterical convulsions during dysmenorrha, with pain shooting to various parts of body, great debility. ► Whooping cough, with vomiting and nosebleed. ► Rheumatism in small joints, especially of the hands, with cutting pain on closing hands, especially in women with suppressed menses. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "Especially suited to women; ailments during pregnancy, parturition, lactation. Rheumatism of women, especially of small joints (Act. s.); errative pains changing place every few minutes (Puls.); painful stiffness of affected joints. Pains are intermittent, paroxysmal, spasmodic. Chorea, hysteria or epilepsy at puberty, during establishment of menstrual function (Actaea). Leucorrhoea: acrid, exhausting; upper eyelids heavy, has to raise them with fingers (Gels.); with \"moth spots\" on forehead (Sep.); in little girls (Calc.); preventing pregnancy. Habitual abortion from uterine debility (Alet. - from anaemia with profound melancholy, Helon.); Spasmodic rigid os, delays labor; needle-like pricking pains in cervix. Labor pains short, irregular, spasmodic; tormenting, useless pains in beginning of labor (Act.); no progress made. Will correct deranged vitality and produce efficient pains, if the symptoms agree. Haemorrhage, after hasty labor; want of tonicity; passive, after abortion (Sec., Thlaspi). After pains: after long exhausting labor; spasmodic, across lower abdomen; extend into groins (in the shins, Carbo v., Coc.). Lochia protracted; great atony; passive, oozing for days from relaxed vessels (Sec.).",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Relations. - Simiar: to, Act., Bell., Lil., Puls., Sec., Thlas., Vib. Similar: to, labor pains of Puls., but mental condition opposite. Similar: to, Sep., \"moth patches\" and reflex symptoms from uterine irregularities.",
+        "source_id": "allen-keynotes-1899"
+      },
+      {
+        "text": "Caulophyllum, \"the Blue Cohosh,\" is closely related to Actea racem., \"the Black Cohosh,\" in its action, though belonging to a different family of plants. It acts most markedly on the female generative organs and on rheumatic states. It has only had one proving, that by Dr. Burt, the majority of the indications having been derived from tradition and clinical experience. It has been given with success for chloasma or pityriasis versicolor, curing incidentally dysmenia at the same time. Reflex symptoms having a uterine origin; headache; vomiting; hoarseness; rheumatism; cramps and spasms. No other drug produces uterine spasms so markedly except Secale. Bearing-down pains. Paraplegia from disorders of the uterus. Left ovarian and left inframammary pains. Leucorrhœa in little girls. The pains are intermittent and paroxysmal, and fly about from place to place; generally at night. Great nervous excitement; tremulous weakness over whole body. Can scarcely speak. Sleepless, restless, nervous; recalling the effects of coffee, which is incompatible with it. In rheumatic affections the special sphere of Caulo. is the small joints and muscles. Its action on the muscular tissue of the uterus (whether gravid or not) is to cause intermittent spasms or contractions (differing from the continuous contractions of Secale). Its special sphere in labour is: (1) when pains do not come regularly; (2) when they disappear from exhaustion; and (3) when they are too painful. Nash prescribed Caul. 3 for a lady of forty, seven months pregnant, who was attacked with severe pain and swelling of all the finger-joints; wrapping them in mustard was the only thing that relieved her sufficiently to allow her to get sleep. Caul. relieved the finger pains, but caused such severe labour-like pains that it had to be discontinued for fear of causing miscarriage. The bearing-down then ceased, and the finger pains returned and continued till delivery, when they ceased for a few days. Then the lochia increased to a flooding─passive, dark, liquid; with great weakness and internal trembling (not visible externally); and now the terrible finger pains returned. Afraid to give Caulo., other remedies were tried, but in vain. At last Nash gave Caulo. 200, which rapidly cleared up the whole case. Nash regards \"internal trembling\" as a strong characteristic when associated with the weakness; he has cured long-continued passive hæmorrhage associated with these symptoms.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. CAULOPHYLLUM. (Caulophyllum Thalictroides.) Natural order.- Berberidaceae. Common name.- Blue Cohosh. General Analysis.- Acts upon the muscular tissues of the female generative organs, and especially upon the uterine motor nerves, also upon the small muscles and joints. Characteristic symptoms. Head.- (Caulophyllum) Rheumatic or neuralgic headaches, especially in females. (Cimic.) Headaches, dependent upon uterine disorder. (Cimic.) Eyes.- (Caulophyllum) Pressure behind the eyes ; profuse flow of tears. Face.- \"Moth spots\" on forehead, with leucorrhoea. Mouth.- (Caulophyllum) Teeth feel sore and elongated. Tongue coated white. Sensation of heat and dryness in the mouth. Throat.- (Caulophyllum) Distress in fauces, which causes frequent inclination to swallow. Stomach.- (Caulophyllum) Empty eructations. Frequent gulping up of sour, bitter fluid, with vertigo. Spasmodic vomiting, cardialgia, excessive nausea, spasms of the stomach attending uterine irritation. Dyspepsia, with spasmodic symptoms ; from uterine irritation. Abdomen.- (Caulophyllum) Spasmodic action of the muscular tissues of the intestines, from irritation of motor nerves, and from rheumatism. Female Organs.- (Caulophyllum) Sensation as if the uterus were congested, with fullness and tension in hypogastric region. ( Aloe , Bell., Cimic ., Puls.) Spasmodic pains in uterus, and various portions of hypogastric region. Menstrual colic ; retroverted uterus. Suppression of menses, with spasms of uterus, or great atony. (Cimic.) Spasmodic dysmenorrhoea. Abortion ; pains feeble, irregular, spasmodic. Deficient, spasmodic labor pains. (Gels.) Deficient labor from spasmodic rigidity of os uteri. (Bell., Cimic., Gels.) Passive haemorrhage after abortion or confinement. (Cinch.) Protracted lochia from atony of the uterus. Intermittent uterine contractions. ( Sec. corn .) After-pains, after exhausting lengthy labor. Respiratory Organs.- (Caulophyllum) Spasmodic affections of chest and larynx. Limbs.- (Caulophyllum) Rheumatism of small joints. (Act. spic., Led.) Constant flying pains in arms and legs, remain only a few minutes in any one place. Drawing pains in joints of arms and legs, hands and feet. Upper Limbs.- (Caulophyllum) Severe pain in wrists and Joints of fingers. Fingers very stiff ; shutting hand produces severe cutting pains in finger joints. Aggravation.- (Caulophyllum) In open air, better in the room. Therapeutic Range.- (Caulophyllum) Abnormal conditions during labor ; after-pains, lochia, abortion, dysmenorrhoea, amenorrhoea, metrorrhagia, uterine displacements, paraplegia, with retroversion and congestion of uterus, after childbirth ; hysteria, spinal irritation, chorea at puberty ; hysterical or epileptiform spasms at puberty ; rheumatism of small joints (Led.), especially wrists and fingers. Conditions.- (Caulophyllum) Especially adapted to women. Compare.- (Caulophyllum) Act. spit., Cimic., Puls., Sabad., Sec . Copyright © Robert Séror 2003",
+        "source_id": "cowperthwaite-textbook-1891"
+      },
+      {
+        "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T CAULOPHYLLUM Rheumatism of small joints. In labor we find deficient pains on account of the exhaustion of the patient; Cauloph . will at once brace up her strength, and produce efficient pains. Mental.-- Patient is fretful and easily displeased. Head.-- Severe headache, with feeling of pressure behind the eyes. Sexual.-- Female : Extraordinary rigidity of the os uteri. Spasmodic and severe pains without progress being made; pains become very weak from exhaustion of patient, on account of long continuance of labor. Thirst and feverishness. False pains; pains are spasmodic, appearing in various parts of the abdomen. Patient seems much exhausted and the pains very inefficient. Menorrhagia, or hæmorrhage occurring after labor, especially hasty labor; flow is very profuse and is due to want of tonicity of the womb, which is relaxed, and contracts feebly. Convulsions with very weak and irregular labor pains; she feels very weak. Retained placenta with characteristic sense of weakness or exhaustion, and pains too weak. After-pains, after protracted and exhausting labor; spasmodic pains across lower part of abdomen may extend into groins. Lochia, bloody; lasting too long; with passive oozing from relaxed uterus with great exhaustion. Abortion, threatened, with want of uterine tonicity; uterine contractions feeble. Neuralgia of vagina, when the vagina is excessively irritable, and the pain and spasm are intense and continued. Hysteria and uterine displacements with above characteristics. Leucorrha burning, producing the characteristic weakness. Extremities.-- Very severe rheumatic pains, of aching, drawing character; erratic, now in one place, now in another. Especially in small joints, fingers, wrists, toes, ankles, etc. Great painful stiffness of affected joints. Worse.-- In open air; from coffee. Copyright © Médi-T 2000",
+        "source_id": "guernsey-keynotes-1887"
+      },
+      {
+        "text": "Main Condensed Materia Medica. By Constantine Hering. Presented by Médi-T . CAULOPHYLLUM. [Cauloph.] Blue Cohosh. Burt. Berberidaceæ. [ 2 ] * [ 3 ] * [ 4 ] * [ 5 ] * [ 8 ] * [ 10 ] * [ 11 ] * [ 12 ] * [ 13 ] * [ 14 ] * [ 16 ] * [ 17 ] * [ 19 ] * [ 20 ] * [ 21 ] * [ 22 ] * [ 23 ] * [ 24 ] * [ 25 ] * [ 28 ] * [ 31 ] * [ 32 ] * [ 33 ] * [ 34 ] * [ 35 ] * [ 36 ] * [ 37 ] * [ 38 ] * [ 40 ] * [ 41 ] * [ 42 ] * [ 47 ] [2] Sensorium. ► Swimming, a sort of vertigo, with dimness of sight ; gulping up a bitter, sour fluid. [3] Inner Head. ► Headache, pressure behind the eyes, dimness of sight ; dependent upon uterine derangement. ► Severe pains by spells, in the temples, as if they would be crushed together. [4] Outer Head. ► Rheumatic headaches, especially with females. [5] Eyes. ► Pressure behind the eyes ; profuse flow of tears. [8] Face. ► \"Moth spots\" on forehead, with leucorrha. [10] Teeth. ► Teeth all feel sore, elongated. [11] Tongue, etc. ► Tongue coated white. [12] Mouth. ► Sensation of dryness in the mouth ; heat. ► Aphthæ. [13] Throat. ► Distress in the fauces, which causes frequent inclination to swallow. [14] Desires and Aversions. ► Great thirst. ► Canine hunger, with white-coated tongue. [16] Nausea and Vomiting. ► Empty eructations. ► Frequent gulping up of sour, bitter fluid, with vertigo. ► Spasmodic vomiting, cardialgia, excessive nausea spasms of the stomach attending uterine irritation. [17] Stomach. ► Heat in the stomach ; fulness. ► Distress in stomach and bowels, with drawing in the right hypochondrium. ► Dyspepsia, with spasmodic symptoms. [19] Abdomen. ► Distention of the abdomen, with tenderness. ► Rumbling in the bowels. ► Spasmodic and flatulent colic. ► Spasmodic action of the muscular tissues of the intestines, from irritation of the motor nerves, or from rheumatism. [20] Stool, etc. ► Constipation ; stool every other day. ► Watery stools, great quantity, but no pain ; 1 A.M. ► Soft stool, very white. [21] Urine. ► Emission of copious, pale or straw-coloured urine. [22] Male Sexual Organs. ► Every few minutes sharp, stinging pains in the glans penis. [23] Female Sexual Organs. ► Sensation, as if uterus was congested, with fulness and tension in hypogastric region. ► Menses too soon. ► Amenorrha ; spasms, cramps, or great atony. ► Painful menstruation, the flow being normal in quantity. ► Spasmodic dysmenorrha ; spasmodic, intermittent pains in bladder, stomach, broad ligaments (groins), even chest and limbs ; congestion and irritability of uterus ; scanty flow. ► Menstrual colic ; uterus retroverted. ► Irritable vagina, spasmodic, intense pains. ► Aphthous vaginitis and spasmodic pains in the uterus. ► Leucorrha : profuse, mucous ; \"moth spots\" on the forehead ; often in little girls. [24] Pregnancy. ► Threatening abortion, spasmodic bearing down pains ; vascular excitement ; tremulous weakness ; pains severe in back and loins, but uterine contractions feeble ; slight flow. ► Habitual abortion from uterine debility. ► Tormenting, useless pains in the beginning of labor. ► Labor-pains short, irregular, spasmodic ; patient very weak ; no progress being made. ► Spasmodic rigidity of the os, delaying labor ; pains like needles in the cervix. ► Pains become weak, flagging from long protracted labor, causing exhaustion ; thirsty, feverish. ► Passive hemorrhage after abortion or confinement. ► Protracted lochia, oozes passively from the relaxed uterine vessels, great atony. ► Suppressed lochia. ► After-pains, especially after exhausting, lengthy labor ; spasmodic, across the lower abdomen ; extend into groins. [25] Larynx. ► Loss of voice ; reflex from uterine disturbances. [28] Lungs. ► Spasmodic, intermittent pains in chest, with anemia. [31] Neck and Back. ► Rheumatic stiffness of the nape. ► Severe drawing pain in the sterno-cleido-mastoid ; drawing the head to the left. ► Dull pain in the lumbar region. [32] Upper Limbs. ► Severe drawing in wrists and fingers. ► Rheumatism of wrists and finger-joints, with swelling, cutting in joints when closing hands ; pains shift to the nape of neck with spasmodic rigidity ; panting oppression of the chest ; high fever ; delirium ; nervous excitement. [33] Lower limbs. ► Drawing pains in knees, ankles, feet and toes. ► All joints crack when walking or turning. ► Pain in feet and toes, worse at night. ► Pains recur every day. [34] Limbs in General. ► Rheumatism, especially of the smaller joints. ► Constant flying pains in the arms and legs ; remain only a few minutes in any one place. ► Severe drawing pains in the joints of the arms and legs. [35] Position, etc. ► Closing hands, cutting : 32 . Walking : 33 . Turning : 33 . [36] Nerves. ► Chorea at puberty. ► Hysterical or epileptiform spasms at puberty, from menstrual irregularities, especially in rheumatic females. ► Paraplegia, with retroversion and congestion of the uterus after childbirth ; partial loss of sensation ; emaciation, anæmia, general debility. [37] Sleep. ► Sleepless, restless, nervous. [38] Time. ► 1 A.M. : 20 . Night : 33 . [40] Chill, Fever and Sweat. ► Fever high, delirious, nervous excitement, rheumatism. [41] Attacks. ► Pains are intermittent. ► Every day : 33 . Every other day : 20 . Every few minutes : 22 , 34 . [42] Sides. ► Right : 17 . Left : 31 . [47] Stages and States. ► Especially suited to females. Copyright © Médi-T 2005. Main",
+        "source_id": "hering-condensed-mm-1877"
+      },
+      {
+        "text": "KENT'S NEW REMEDIES Présenté par le Dr Robert Séror CAULOPHYLLUM Weakness in the reproductive system of the woman. From weakness she is sterile, or she aborts in the early months of gestation. During parturition the contractions of the uterus are too feeble to expel the contents, and they are only tormenting. Labor-like pains during menstruation with drawing pains in the thighs and legs, and even the feet and toes. Uterine hemorrhage from inertia of the uterus. Relaxation of muscles and ligaments. Heaviness, and even prolapsus. Subinvolution. Excoriating leucorrhea. Menses too soon, or too late. She is sensitive to cold and wants warm clothing, quite unlike Pulsatilla. She is hysterical, like Ignatia. She is fretful and apprehensive. She is rheumatic, like Cimicifuga, only the small joints are likely to be affected. Later she suffers from after pains, and they are felt in the inguinal region. Rheumatic stiffness of the back, and very sensitive spine. She is sleepless, restless, and withal very excitable. This remedy has cured chorea at puberty when menstruation was late. Numérisation, découpage, valorisation, et commentaires Copyright © Robert Séror 1999 Mise en page Copyright © Sylvain Cazalet 1999",
+        "source_id": "kent-new-remedies-1926"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Generalities: Joints, small; Growths.).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Saliva: Saliva, frothy, snowy, cottony, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Saliva"
+      },
+      {
+        "text": "Female Organs: Female organs, labour pains, inefficient; Female organs, upward going, left.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Female Organs"
+      },
+      {
+        "text": "Menstruation: Menstruation, menses, early.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Menstruation"
+      },
+      {
+        "text": "Upper Limbs: Upper limbs, hands; Upper limbs, joints, finger.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Upper Limbs"
+      },
+      {
+        "text": "Ccc: Chloasmæ.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Fff: Face, chloasmæ; Face, yellow, hair, at edge of; Fingers, nodes; Forehead, brown-yellow at edge of hair.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Lll: Labor; Labor, easing; Leucorrha, children, of.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Nnn: Neck, chloasma; Neck, weak; Nerves, nervous.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Uuu: Uterus; Uterus, os rigid.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vomiting, uterine.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Generalities: Nit-ac. Inflammation: Excruciating pain and inflammation of small joints",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Joints: Excruciating pain and inflammation of small joints",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Pains",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Night: Excruciating pain and inflammation of small joints",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Excessive sensitiveness to pain: Excruciating pain and inflammation of small joints | Jerking: Labor-like",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Tender: Excruciating pain and inflammation of small joints | Touch: Excruciating pain and inflammation of small joints",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Worse: Excruciating pain and inflammation of small joints",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Synonym—Blue Cohosh.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "CONSTITUENTS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Specific Symptomatology—Felter and Lloyd give the following indications: Uterine pain, with fullness, weight and pain in the legs-, fullness of tissues, as if congested; debility of the nervous system, with impaired muscular power; spasmodic muscular pains, articular pain, rheumatic pains of asthenic plethora, epigastric and umbilical colicky pains, dull frontal headache, great thirst; as an oxytocic; to relieve false pains and uterine irritability; sexual debility, with excitability; spas-modic uterine contractions, dysmenorrhea, irregular menstruation, cramp-like pains in the stomach and bowels after eating, pain in the toes and fingers not due to tissue changes.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—In chronic uterine disorders, in broken down constitutions with various reflex symptoms, the remedy is a specific. In the amenorrhea of young women, at the commencement of the menstrual period, it may be given with confidence. In painful menstruation it has an established reputation.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Dr. Hewitt of Chicago learned when a boy the use of caulophyllum in scarlet fever. When he became a physician, he put that knowledge to test very many times and always with success. He has positive confidence in this remedy, having seen such uniformly good results.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "From the end of the sixth month to the close of pregnancy is a period when many distressing symptoms are manifested, which may, in a measure, be relieved by caulophyllum.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The growth of the fetus has been compared to an apple, which, when fully ripened, falls from the tree. The effect of caulophyllum is to prolong gestation till the fetus is fully developed, labor being a physiological process at full term, and not pathological, therefore less protracted, less painful, and less liable to accidents.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Many writers confirm the opinion that caulophyllum or caulophyllin are excellent remedies in labor, contributing to the relaxation of a rigid os, increasing the strength of the pains. It will also assist materially in controlling an abortion. Using it in conjunction with viburnum, this influence will be enhanced.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "This remedy as a partus preparator is equal in some cases to cimicifuga, and comparable with viburnum and helonias. It prevents premature delivery by a superior tonicity, which it induces in all the reproductive organs. It has caused many cases to overrun their time a few days, and yet easy labors and excellent recoveries have followed. It is a satisfactory remedy where there is a habit of having severe after pains, or where there are false labor pains, not productive of good, or where subsequent to the labor there are hourglass or other undue spasmodic uterine contractions.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is a beneficial remedy in hysteria, and where there is constant ovarian irritation, or pain in the mammary glands, accompanied with general irritation; also in chronic disease of the uterus and ovaries or of the cervix. Also where there is cramp-like pains during menstruation or pain and soreness of the uterus, attributed to rheumatism. It is of much benefit in subinvolution.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Caulophyllum, although chiefly known as a remedy for the diseases peculiar to women, has been employed with advantage as a sedative and to control congestion, in bronchitis, pneumonitis and whooping-cough.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In deficient labor pains, caulophyllum is generally a reliable remedy.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "A sufficient dose of the remedy may be given every ten minutes, till the pains become regular and efficient.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Emmenagogue, antispasmodic, diuretic, diaphoretic and anthelmintic. Said to be successfully used in rheumatism, dropsy, epilepsy, hysteria and uterine inflammation, specially for chronic cases. It is sometimes combined with Mitchella repens and Eupatoria aromatica. In use it is preferable to Ergot, expediting delivery, where delay results from debility, fatigue or want of uterine nervous energy.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "The rhizome and roots of Caulophyllum thalictroides (Linné), Michaux (Nat. Ord. Berberidaceae). In rich woods in the eastern half of the United States. Common Names: Blue Cohosh, Squaw-root, Pappoose-root.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Principal Constituents.—An indifferent alkaloid caulophylline (not to be confused with the resinoid \"caulophyllin,\") and an active glucoside of the saponin type, leontin. Preparations.—1. Specific Medicine Caulophyllum. Dose, 1 to 10 drops. 2. Leontin (Lloyd's) , a 1 per cent solution of leontin, the emmenagogue principle of caulophyllum. Dose, 5 to 15 drops in syrup or sweetened water. 3. Syrupus Mitchellae Compositus, Compound Syrup of Mitchella (Compound Syrup of Partridge berry). Dose, 1-4 fluidounces. Specific Indications.—Uterine pain with weight and fullness and pains in the legs; sense of pelvic congestion; sluggish labor pains; as a partus praeparator.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—Caulophyllum was at one time largely used as an antispasmodic, emmenagogue, parturient, diuretic, diaphoretic and expectorant, all of which properties it possesses in greater or less degree, according to its manner of use. It unquestionably acts with some force upon the reproductive organs of women, overcoming pain and tenderness in debilitated subjects. It seems best adapted to uterine debility arising from chronic inflammatory conditions. In many respects it resembles macrotys (cimicifuga), both upon the reproductive organs and in controlling rheumatoid pain. For many years it was a favorite remedy for false pains and afterpains. It, like macrotys, facilitates child-birth. Both agents produce contractions most like those of the natural labor process. In this respect they were often used to replace tetanic-acting ergot when that agent was so popular and so damaging as an oxytocic. It may be used to assist labor when delay is due to weakness, fatigue, or lack of uterine power, or when the tissues feel full, as if congested. The skillful use of forceps has largely supplanted drugs of this type, yet there are many cases in which they might still be used with greater safety than forceps. As an ingredient of the Compound Syrup of Mitchella (Mother's Cordial), it is still relied upon by some physicians as a good partus praeparator.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Caulophyllum is a good emmenagogue. It may be used where there is congestion with irritation, and the natural functions are badly performed. In troubles dependent upon such irregularities, it has given fair results, though macrotys has supplanted it for most conditions. Metritis, endometritis, amenorrhea, dysmenorrhea, ovaralgia, ovaritis, rheumatism of the uterus, menstrual cramps, uterine subinvolution, and spasmodic retention of urine have all been favorably influenced by caulophyllum. It is of some, though minor, value in spasmodic urinary and gastro-intestinal disorders.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Leontin (1 per cent solution of the emmenagogue principle of caulophyllum) has been successfully prescribed for amenorrhea, dysmenorrhea, and chlorosis. The dose of leontin is 5 to 15 drops in syrup or sweetened water.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Compound Syrup of Mitchella may be given for weeks as a uterine tonic preceding labor. It seems to have both a real and a psychic influence that will redound to the benefit of the prospective mother. It is also a good uterine tonic for debility and uterine feebleness in the childless, and assists in the recuperation of strength and rapid involution of the womb following labor. The dose of the syrup is from 2 fluidrachms to ½ fluidounce, 2 or 3 times a day.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Preparations: Compound Tincture of Caulophyllum - Extract of Caulophyllum - Fluid Extract of Caulophyllum Related entries: Resina Caulophylli.—Resin of Caulophyllum - Black cohosh",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"The rhizome and roots of Caulophyllum thalictroides (Linné), Michaux\"—(U S. P.). (Leontice thalictroides, Linné). Nat. Ord.—Berberidaceae. COMMON NAMES: Blue cohosh, Squaw-root, Pappoose-root. ILLUSTRATION: Lloyd's Drugs and Med. of N. A., Vol. II.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—This plant is a smooth, glaucous plant, purple when young, with a high, round stem, from 1 to 3 feet in height, simple from knotted and matted root-stalks, dividing above into 2 parts, 1 of which is a triternate leaf-stalk, the other bears a biternate leaf and a racemose panicle of small, yellowish-green flowers. The leaves are biternate and triternate. The petiole is trifid, supporting 9 leaflets. The leaflets are oval, petiolate, and unequally lobed, the terminal one equally 3-lobed, paler beneath, and from 2 to 3 inches long. The panicle is small, and shorter than the leaves. The pericarps are thin, caducous, dark-blue, and resemble berries on thick stipes. Seeds 1 or 2, erect, globose, about the size of a large pea (W.—G.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History.—This drug is one of our oldest indigenous Eclectic remedies. The Algonkin name (cohosh) is generally supposed to have been applied to this plant by the natives, but according to the statement of Mr. W. R. Gerard, this is hardly probable, as the native term, \"applied by the whites to several plants, smooth in all their parts, means 'it is rough' (with hairs).\" Among the Montagnais of Canada the name cohosh is applied to the bristly fruit of Ribes lacustre. (See D. & M. of N. A). Still, there is no doubt that the plant was later known to the American Indians, in common with Cimicifuga racemosa, Actaea alba, and Actaea rubra var. spicata, as cohosh. The true common name of the plant is blue cohosh, though it is known also in various parts of the country as pappoose-root (Smith), squaw-root (Smith), false cohosh (Eaton), and blueberry. Both Pursh (1814) and Barton (1818) call it cohosh, and state that it was known as such among the natives. The plant was introduced into medicine as blue cohosh by Rafinesque, in 1828, though it is but just to say that the Indian uses of the plant were first made known through an irregular publication entitled \"Medical Facts,\" issued in Cincinnati, in 1813, by Peter Smith, an advertising \"Indian herb doctor;\" and, it is to Smith that Rafinesque refers as an authority on the subject. The first published botanical record of the blue cohosh is by Gronovius (1789), who received the plant from Clayton, a Virginian botanist, and the second by Cadwallader Colden (1743), an American botanist, afterward distinguished as governor of New York State. Its present botanical name (Caulophyllum) was given it in 1803 by the elder Michaux, who believed the genus to differ sufficiently from the European Leontice, with which it had been classed, to entitle it to a generic rank of which only the one species is now known, which is a native of America, and is found also in Japan. The term Caulophyllum is derived from two Greek words—kaulos, stem; and phullon, leaf; hence, stem-leaf, so called because the leaves terminate in such a manner as to give them the appearance of being a mere continuation of the stem. Blue cohosh is widely distributed throughout this country extending from New Brunswick to the southern limits of the Appalachian system of mountains, and westward to the Mississippi valley. Contrary to published statements it is not found in low, moist grounds, swamps and marshes, along sea-coasts and on prairie lands and irrigated islands, but grows in rich, shady woods, and deep loam, in hilly and mountainous districts. It is plentiful along the Alleghany mountains, but it is not found in the adjacent lowlands in the southern states. Caulophyllum is a handsome plant of a peculiar bluish-green color. It blossoms in April and May and matures its fruit in August. A decoction of the roasted ripened seeds is said to resemble coffee. Although caulophyllum was first introduced by Peter Smith as early as 1813 and endorsed by Rafinesque (1828) and the botanics, there was but little call for it, except in domestic medicine for making infusions and decoctions, until 1852, when Prof King, who first became acquainted with the drug in 1836, brought it out in his first edition of the American Dispensatory, giving a description of it and its uses, and introducing some preparations of it. From that time until the present day it has been in increasing demand in Eclectic practice, and has been adopted by the Homoeopaths, though it is still largely ignored by the \"regulars.\" Prof E. M. Hale, M. D., of Chicago, states that caulophyllum was introduced to the Homoeopaths by Prof. B. L. Hill, at one time Professor of Surgery in the Eclectic Medical Institute, of Cincinnati, O., in his lectures on obstetrics and gynecology before the Homoeopathic College, at Cleveland, O. At the same time he introduced to them hydrastis, cimicifuga and other Eclectic drugs. Among the early preparations of this drug were the fluid extract of caulophyllum, compound tincture of caulophyllum, and the compound tincture of mitchella (mother's cordial), all exclusively Eclectic products. Blue cohosh partially yields its virtues to hot water and glycerin, and fully to alcohol. It may be employed in decoction, or the specific caulophyllum, which is reliable and more convenient, may be used. In purchasing, care must betaken that this root is not mixed with other roots, especially those of the Hydrastis canadensis, with which the pressed and wrapped article prepared for sale is apt to be associated. Caulophyllin added to drastic purgatives, as aloes, podophyllin, etc., will entirely prevent or relieve the tormina attending their action.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Description.—\"Rhizome of horizontal growth, about 10 Cm. (4 inches) long, and about 6 to 10 Mm. (¼ to ⅖ inch) thick, bent; on the upper side with broad, concave stem-scars, and short, knotty branches; externally grayish-brown, internally whitish, tough and woody. Roots numerous, matted, about 10 Cm. (4 inches) long, and 1 Mm (1/25 inch) thick, rather tough, nearly inodorous; taste sweetish, slightly bitter and somewhat acrid\"—(U. S. P.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chemical Composition.—The most detailed chemical analysis to date of caulophyllum was made, in 1864, by Mr. A. E. Ebert. He found it to contain albumin, starch, gum, coloring matters, calcium phosphate and sulphate, salts of iron, potassium and magnesium, phosphoric acid, silica, and 2 resins, one soluble in alcohol and ether, and the other not soluble in ether, and \"a substance similar to saponin.\" The latter substance was, in 1863, identified and called saponin by Prof. F. F. Mayer, who claims also to have obtained a colorless alkaloid. This alkaloid Mr. Ebert failed to find, and inferred that Prof. Mayer's analysis was made with a drug adulterated with hydrastis, or some other alkaloid-yielding plants. He found also that the only substance of interest was the resinous, saponin-like body. Prof. J. U. Lloyd agrees with him in the main as to his analysis and especially with the latter's statement that the \"substance similar to saponin\" was the characteristic principle of the plant. This amorphous substance found by Mr. Ebert was at first sweetish, and then acrid to the taste, and irritated the nostrils, provoking sneezing. It was soluble in alcohol, both strong and dilute, and in alkaline aqueous fluids. It remained, however, for Prof. Lloyd to obtain this characteristic principle in a pure, crystalline form, for the white amorphous precipitate found by Mr. Ebert contained much foreign matter that was entirely eliminated, in Prof Lloyd's experiments, by repeated crystallization. To this principle, which, by the way, is a glucosid, Prof. Lloyd applied the name leontin—a name derived from the old Greek botanical name Leontice (lion's foot), applied to the genus (caulophyllum) by Linnaeus. This name, leontin, was given to it because the name caulophyllin, which could most appropriately be given it, had been applied already to the resinoid of caulophyllum.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "LEONTIN, as obtained by Prof. Lloyd's process, is a glucosid, occurring in pure, snow-white, feathery, or silky crystals, resembling quinine. It is slightly soluble in cold alcohol, very soluble in boiling alcohol, from which it crystallizes upon cooling. It is slightly soluble in anhydrous alcohol, very soluble in boiling anhydrous alcohol, from which it also crystallizes upon cooling, the most perfect crystals being obtained from absolute alcohol. In sulphuric acid, both cold and boiling, its solubility is similar to that in alcohol. In chloroform it is practically insoluble. It is insoluble in water, and upon the addition of water to the alcoholic solution, immediate precipitation is the result. Acids precipitate it and alter its character, while alkaline aqueous solutions dissolve it freely and perfectly. Leontin is tasteless, but owing to the alkalinity of the saliva, it slowly dissolves, producing an acrid after-taste. Alcoholic solutions of it are acrid to the taste, while the alkaline aqueous solution is extremely acrid and irritating to the mouth and fauces, and for this reason should be administered in syrup, or in sweetened water, which somewhat obtunds these sensations. While odorless, the dust is acrid, producing irritation of the nostrils. Leontin, even in dilute solution, forms much froth when shaken. Prof. Lloyd has further shown that while Prof. Mayer did not obtain an alkaloid from caulophyllum, (which be claims to have done and named caulophylline), such an alkaloid does exist, and that he (Lloyd) has separated it as an amorphous, glassy substance, colorless, tasteless, and odorless, freely soluble in alcohol, and quite soluble in water. It does not possess the characteristics of caulophyllum, nor does it have any sensible properties. The name caulophylline applied by Mayer must not be confounded with that of the resinoid, caulophyllin.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Shortly after 1835, when Prof. John King discovered podophyllin, macrotin, hydrastin, etc., he also brought forth the substance now known in commerce as caulophyllin. It was in great demand among Eclectics in times past, and is still sold in considerable quantities. But like nearly all of the so-called concentrations and resinoids of early Eclectic preparation, while they were better agents than preceding pharmacal products, yet at the present time they are too uncertain in composition and medicinal value, to hold a leading place among our more modern therapeutic preparations. The current statement in medical publications that caulophyllin is obtained by precipitation from a strong alcoholic tincture with water is, according to Prof. Lloyd, erroneous, as there is no evidence from manufacturers to support it. As prepared by Lloyd, whose process is given in \"Drugs and Medicines of North America,\" caulophyllin is a powder of a grayish or brown color, and possesses the characteristic taste of the crude drug. The preparation known as Lloyd's Leontin, is a one per cent solution of the white crystalline emmenagogue principle above described,",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Of caulophyllum, Rafinesque states that \"as a powerful emmenagogue it promotes delivery, menstruation, and dropsical discharges,\" and that \"it was employed by the Indians and their imitators for rheumatism, dropsy, colic, sore throat, cramp, hiccough, epilepsy, hysterics, inflammation of the uterus, etc.\" Prof. King first employed blue cohosh for its beneficial influence on abnormities of the mucous tissues, using it for aphthous stomatitis in decoction, alone or combined with hydrastis. Prof. Scudder believed that this agent exerted its influence through the hypogastric plexus, thus affecting the circulation, nutrition, and functions of the reproductive apparatus.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Blue cohosh is reputed antispasmodic, emmenagogue, and parturifacient, besides being diuretic, diaphoretic, and expectorant. Its use as a parturient originated in the custom of the Indian squaws of employing a decoction of the root for 2 or 3 weeks previous to labor to facilitate child-birth. This became known to the whites through Smith's publication. There is no doubt but that caulophyllum has a decided action upon the gravid uterus. During labor it relieves false pains and coordinates muscular contractions, at the same time increasing their power. Like macrotys, it is a better oxytocic than ergot. Unlike the latter agent it stimulates normal contraction instead of inducing spasmodic uterine action. It is most valuable in those cases where delay is due to debility, fatigue, or lack of uterine nervous energy, and for deficient contractions where the tissues feel full, as if congested. As a partus praeparator, blue cohosh has enjoyed a well-merited reputation. When used by delicate women, or those who experience prolonged and painful labors, for several weeks previous to confinement, it gives tone and vigor to all the parts engaged in the accouchement, facilitating its progress, and relieving much suffering. Prof. Hale testifies that women who have taken caulophyllum previous to confinement, have overrun their time from 10 to 12 days, but all had very easy labors and made good recoveries. It is a good remedy for after-pains, especially when spasmodic in character. Caulophyllin has also been used for this purpose. It is a remedy for hour-glass contraction and for spurious labor-pains. Blue cohosh acts as an antiabortive by relieving the irritation upon which the trouble depends. King states that for this purpose it is fully equal to viburnum.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "As a gynecian remedy it has been employed to relieve irritation of the reproductive organs as if dependent on congestion. It controls chronic inflammatory states of these organs and gives tone in cases of debility. In the sexual disorders of the female it is indicated by tenderness and pain in the uterus, in debilitated patients. It has been very successfully used in cases of hysteria to overcome the attack, and to relieve ovarian, or mammary pain, or irritation when accompanying that disorder. Chronic corporeal, or cervical endometritis, metritis, ovaritis, ovaralgia, uterine leucorrhoea, amenorrhoea, and dysmenorrhoea, are conditions in which it has been most successfully employed. It has an established reputation as a remedy for rheumatism of the uterus, with nervous excitement, for uterine cramps attending menstruation, and for menorrhagia, depending on uterine subinvolution.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "As an antispasmodic it has been employed in chorea and epilepsy due to diseased states of the sexual organs, but with varying results. It is better suited for spasmodic intestinal affections, as flatulent and spasmodic colic, and cramps. It is not without value in obstinate singultus. Its antispasmodic effects are permanent.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "By lessening irritation it has been serviceable in cystitis, urethritis, chronic nephritis, and albuminuria. Spasmodic retention of urine is relieved by it. It is a good remedy for some cases of rheumatism, though not so valuable as macrotys. It effectually overcomes rheumatoid conditions of the uterus and of the stomach—in the latter instance when crampy pains follow the ingestion of food. While valuable in all chronic cases of muscular rheumatism, it is especially adapted to articular rheumatism, particularly when confined to the smaller joints, as of the toes and fingers. It is a remedy for asthenic plethora, and for rheumatic pains accompanying that condition. Associated with testicular support, it favorably influences orchialgia. By its sedative action it is valuable in some cases of insomnia, and has been suggested as a remedy for bronchitis and catarrhal pneumonia. It is also a remedy for gastric nausea and vomiting. Dose of the infusion (root ℥j to aqua Oj), from 1 to 3 ounces, every 3 or 4 hours; of specific caulophyllum, from 3 to 10 drops; of caulophyllin, from 2 to 4 grains.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Lloyd's Leontin (the1 per cent solution of the emmenagogue principle of blue cohosh) has been very successfully employed in amenorrhoea, dysmenorrhoea, and chlorosis. The dose ranges from 5 to 15 drops in syrup or sweetened water.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Specific Indications and Uses.—The specific indications for caulophyllum are uterine pain, with fullness, weight, and pain in the legs; fullness of tissues as if congested; debility (irritability) of the nervous system, with impaired muscular power; spasmodic muscular pains; articular pain; rheumatic pains of asthenic plethora; epigastric and umbilical colicky pains; dull frontal headache; great thirst; as an oxytocic; to relieve false pains and uterine irritability; sexual debility, with excitability; spasmodic uterine contractions; dysmenorrhoea; irregular menstruation; crampy pains in stomach and bowels after eating; pain in toes and fingers not due to tissue changes.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Drug.—Stylosanthes elatior, Swartz. Pencil flower. United States. Reputed of value in relieving abdominal and uterine pains during pregnancy, and is said to be a tonic parturient.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
       }
     ],
     "habitat": [
@@ -88,12 +396,6 @@
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
-    "indications": [
-      {
-        "text": "Emmenagogue, antispasmodic, diuretic, diaphoretic and anthelmintic. Said to be successfully used in rheumatism, dropsy, epilepsy, hysteria and uterine inflammation, specially for chronic cases. It is sometimes combined with Mitchella repens and Eupatoria aromatica. In use it is preferable to Ergot, expediting delivery, where delay results from debility, fatigue or want of uterine nervous energy.",
-        "source_id": "grieve-modern-herbal-1931"
-      }
-    ],
     "generalities": [
       {
         "text": "3 oz. of finely powdered root to 1 pint of alcohol, allowed to soak for two weeks, then well shaken and filtered. Dose, 1/2 fluid drachm to 2 fluid drachms. Fluid extract, 10 to 30 drops. Solid extract, 5 to 10 grains. Caulophyllum, 2 to 5 grains. [ Top ] Purchase from Richters Blue Cohosh (Caulophyllum thalictroides) Plants and Dried Root",
@@ -102,18 +404,38 @@
       {
         "text": "Great nervous excitement ; spasmodic affections. Chorea at puberty, or during establishment of menstrual function. Sympathetic cramps and spasms of bladder, rectum or bowels, in consequence of uterine disturbances. Hysterical or epileptiform spasms at puberty, from menstrual irregularities, especially in rheumatic females. Tremulous weakness felt over entire body. θ Uterine hemorrhage. Paraplegia, with retroversion and congestion of uterus after childbirth ; partial loss of sensation ; emaciation, anemia, general debility. Pains are intermittent and paroxysmal. θ Labor. θ Dysmenorrhœa. Every few minutes : pain in glans penis. Pains recur daily. Every other day : stool. Pains in extremities change place every few minutes. Left : severe headache over eye ; drawing pains over eye. Right : hypogastrium, drawing. As of needles being stuck in forehead, also in cervix ; as if temples would be crushed together ; as of something under eyelids ; as if uterus as congested. Cutting : in joints, when closing hands. Spasmodic pain : in uterus ; in vagina ; in bladder ; in stomach ; in groins ; in chest ; in limbs. Flying pains : in arms and legs ; in uterus and ovaries. Stinging : in glans penis. Colicky pain : in abdomen, intestines, umbilical region and uterus. Burning : distress in stomach. Drawing : pain over left eye ; in nose ; in right hypochondrium ; pain in sterno-cleido-mastoid ; in wrists and fingers ; in joints of arms and legs ; in lower limbs. Aching : of eyes ; of limbs. Pressure : behind eyes. Pricking pains : in cervix. Rheumatic stiffness : of nape of neck. Rheumatic pain : in head. Soreness : of uterus ; of limbs ; of teeth. Dull pain : in lumbar region. Pain : by spells in temples ; severe in back and loins ; in feet and toes, severe over left eye and small of back. Elongated : teeth feel. Contracted : skin of forehead. Tension and fulness : in uterine region. Heaviness : of upper lid ; in uterine region. Fulness : in stomach. Tremulous weakness : over entire body. Heat : in mouth ; in stomach. Dryness : of mouth. Affects principally female sexual organs ; want of tonicity of womb ; feeble contractions ; leucorrhœa ; hysteria and spasmodic affections. Acts upon muscular tissue. Rheumatism, particularly of small joints, which has a tendency to shift. Especially suited to females. Little girls subject to leucorrhœa.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T CAULOPHYLLUM. Caulophyllum thalictroides. Michaux. Nat. order , Berberidaceæ. Common name , Blue Cohosh. Preparation , Trituration and tincture of the root. Authority. Dr. Burt (Hale's New Remedies, 2d ed., p. 171), proving with, first day, 10 grains of the \"pure resinoid;\" second day, 15 grains and 30 grains; third day, 50 grains and 75 grains. HEAD. ► Dulness of the head (third day). ► Frequent spells of vertigo (third day). ► Dull headache (second day). ► Slight frontal headache (second and third days). ► Severe frontal headache (after five hours). ► Dull frontal headache (second day). ► Dull frontal headache, with a contracted feeling of the skin of the forehead (after two hours). ► Very hard dull frontal headache (after two hours). ► Very hard pains in the forehead, with a sensation as of needles being stuck into the forehead (after one-and-forty hours). [10.] ► By spells there is a very severe pain in the temples that produces a feeling as if both temples would be crushed together (second day). EYE. ► Severe drawing pains over the left eye (second day). ► Eyes aching, with a feeling of something under the lids (third day). ► Profuse secretion of tears (third day). ► Profuse flow of tears (second day). NOSE. ► Drawing pains in the nose (second day). MOUTH. ► Teeth all feeling sore and elongated (third day). ► Tongue coated white (fourth day). THROAT. ► Distress in the fauces, that causes frequent inclination to swallow (after two hours). STOMACH. ► Canine hunger (fourth day). ► Wants to drink a great deal of water (fourth day). [20.] ► Empty eructations (third day). ► Frequent gulping up of very sour, bitter fluid (third day). ► Distress in the stomach and bowels, with drawing pains in the right hypochondrium (second day). ► Slight distress in the stomach (third day). ► Good deal of distress in the stomach and small intestines (second day). ► Good deal of pain and distress in the stomach and umbilicus (second day). ► Slight burning distress in the stomach (third day). ► Frequent slight colicky pain in the stomach and umbilicus (second day). ABDOMEN. ► Drawing pains in the right side over the liver (second day). ► Frequent slight pain in the umbilicus (fourth day). [30.] ► Slight dull pain in the umbilicus when moving, relieved by emissions of flatus (third day). ► Frequent colicky pains in the umbilicus, relieved by emissions of flatus (second day). ► Severe colicky pains every few minutes in the umbilicus (after five hours). ► Slept well until 1 A.M., then awoke with a great rumbling in the bowels, and a very urgent desire for stool (third night). STOOL. ► Natural but hard stool (third day). ► Natural but dark stool (second day). ► Soft stool, very white (fifth day, 7 A.M.). ► Another rather soft stool, followed by slight pain in the umbilicus (third day). ► Stool mostly of water, that ran a perfect stream from my bowels; passed a great quantity. ► There was no pain (third night, 1 A.M.). SEXUAL ORGANS. ► Every few minutes, sharp, stinging pain in the glans penis (after two hours). NECK AND BACK. [40.] ► Very severe drawing pain in the sterno-cleido-mastoid muscle, that draws the head to the left side (after five hours). ► Slight backache (fourth day). ► Dull backache (after five hours). ► Slight dull backache (second day). ► Dull pains in the lumbar region (second day). ► Dull backache in the lumbar region (after two hours). EXTREMITIES IN GENERAL. ► *Constant flying pains in the arms and legs, first in one part and then in another, remaining only two or three minutes at a time in a place (after two hours). ► *Restless night; fingers, ankles, feet, and toes pained so much (fourth night). ► Drawing pains in the fingers, legs, and feet (second day). ► Drawing pains in the elbows, wrists, fingers, knees, ankles, feet, and toes (fourth day). [50.] ► *Drawing pains in the fingers, ankles, feet, and toes, but more especially in the toes (third day). ► Slight drawing pains in the wrists and fingers, ankles, feet, and toes (third day). ► Severe drawing pains in the joints of the arms and legs (after five hours). ► Severe drawing pains in hips, knees, ankles and feet, wrists and fingers (second day). ► Constant and severe drawing pains in the wrists and fingers , ankles, feet , and toes (second day). SUPERIOR EXTREMITIES. ► Elbows and wrists ache (after two hours). ► *Severe pain in the wrists and joints of fingers (second day). ► *Fingers are quite stiff (fourth day). ► Fingers are very stiff (fourth night). ► Drawing pains in the fingers (second day). [60.] ► Much pain in the joints of the fingers; they look red and are very stiff; closing the hand is very painful (third day). ► Shutting the hand produced severe cutting pains in the second joints of all the fingers; they were very stiff (second day). INFERIOR EXTREMITIES. ► All the joints crack frequently when walking or turning (fourth day). ► Drawing pains in the thighs, knees, legs, and ankles (after two hours). ► Severe drawing pains in the inside of the left thigh (after two hours). ► Feeling quite well, excepting the knees are quite weak when walking (third day). ► Very sharp pains in the left knee-joint, inside (after two hours). ► Knees feeling very weak when walking (third day). ► Drawing pains in the knees and toes, very sharp by spells (third day). ► *Drawing pains in the knees, ankles, feet and toes (third day). [70.] ► Severe drawing pains in the legs and feet, but more especially in the feet (second day). ► The left ankle pains very severely (second day). ► The ankle and toes of the left foot are very painful (after five hours). ► Severe drawing pains in the ankles and feet (second day). ► The pains are very severe in the feet (second day). ► Walking produces severe pain in the metatarsal bones (third day). ► *Drawing pains in the toes (fourth day). GENERAL SYMPTOMS. ► Feeling weak and nervous (third day). SLEEP AND DREAMS. ► Had a restless night (second night). ► Slept well until 3 A.M., after which he was restless (first night). FEVER. [80.] ► Skin was hot and dry (second day). CONDITIONS. ► Aggravation. ► ( After 3 A.M .), Restless . ► ( Evening ), The symptoms . ► ( Open air ), The symptoms . ► ( Coffee ), Seems to aggravate. ► ( Walking ), Pains in metacarpal bones. ► Amelioration. ► ( Emission of flatus ), Pains in umbilicus. ► ( In room ), Troubles which arise in the open air disappear, except pressure in forehead. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Abortion, threatened; After-pains; Amenorrhœa; Barrenness; Bearing-down pains; Chloasma; Cholera morbus; Dysmenorrhœa; False conception; Feet, affections of; Gonorrhœa; Hands, affections of; Inframammary pain; Labour, abnormal; false pains of; Leucorrhœa; Menstruation, disorders of; Ovarian neuralgia; Pityriasis; Pregnancy, disorders of; Rheumatic gout; Rheumatism; Uterine spasm; Uterine atony",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Hoarseness and loss of voice. Panting breathing. 20. Rheumatic stiffness of nape. Severe drawing insterno-cleido-mastoid drawing head to left. Dull pains in lumbar region. Rheumatic, drawing, flying pains in limbs; in hands; thighs, knees, ankles, feet and toes. Severe drawing pain in wrists and fingers. Cutting in joints when closing hands. Fingers very stiff. Joints crack walking or turning. Paraplegia. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "mental_emotional": [
       {
         "text": "Fretful, weak of mind and memory. θ Miscarriage. Fretful, irritable mood ; apprehension. θ False conception. Swimming, a sort of vertigo, with dimness of sight ; gulping a bitter, sour fluid.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Fretful; irritable; apprehensive.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "head": [
       {
         "text": "Dulness of head, with contracted feeling of skin of forehead. Sensation as of needles being stuck in forehead. Headache, pressure behind eye, dimness of sight. θ Uterine derangement. Severe headache over left eye. θ Miscarriage. Severe pains, by spells, in temples, as if they would be crushed together. Headache aggravated : by stooping ; from light ; from noon until night. θ Miscarriage. Rheumatic or neuralgic headaches, dependent upon uterine or spinal troubles.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Headache; from uterine or spinal troubles; over l. eye; pressure behind eye; severe by spells; stooping; from light; from noon till night.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "eyes": [
@@ -132,6 +454,10 @@
       {
         "text": "\"Moth spots\" on forehead. θ Leucorrhœa.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "\"Moth spots\" on forehead; with leucorrhœa.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "mouth_throat": [
@@ -144,6 +470,10 @@
       {
         "text": "Watery stools, great quantity, runs a perfect stream from bowels, but no pain ; 1 A. M. θ Cholera morbus. Soft stool, very white. Constipation ; stool every other day.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Stool, soft white. Watery stools, great quantity, runs a perfect stream from bowels, but no pain; 1 a.m.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "urinary": [
@@ -156,6 +486,10 @@
       {
         "text": "Every few minutes sharp, stinging pain in glans penis. θ Gonorrhœa.",
         "source_id": "hering-guiding-1879"
+      },
+      {
+        "text": "Every few minutes sharp, stinging pains in glans penis.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "respiratory": [
@@ -199,12 +533,19 @@
         "Incompatible : coffee",
         "Compare : Act. rac., Bellad. (intermittent and paroxysmal pains), Cann. ind., Lilium tig., Nux vom., Pulsat. (labor pains similar, but mental condition opposite), Sepia (reflex symptoms from uterine irregularities)",
         "Copyright © Médi-T ® 2002",
-        "Main"
+        "Main",
+        "Compare: Gels. in dysmenia (it is like Gels., and follows it well); Puls. in labour-pains, but the mental condition is opposite; Act. r.; Bell. in intermittent and paroxysmal pains; Calc. (Leucorrhœa in little girls); Lil. t., Lach., Sul., Ustil., and Vib. o. in left ovarian and inframammary pains; Mag. mur. in uterine spasms; Bry. in rheumatism; Secale, Sep., Gossyp."
       ]
-    }
+    },
+    "comparative": [
+      {
+        "text": "[The Umbelliferie, The Berberidaceis And] Berberis vulgaris belongs to this order along with Caulophyllum and Podophyllum. It contains an alkaloid called Berberina, which is also found in Hydrastis Ca?iadensis, Zanthorriza, Menispeimum Cana- dense, Coptis root, etc. Some chemists have even asserted that what is sold as Muriate of Hydrastine is not Hydrastine at all, but Muriate of Berber ine. This Berberiue, when given in large doses to animals, produces restlessness, convulsive trembling, thirst, diarrhoea and, finally, paralysis of the posterior extremities. Man is far less readily poisoned by it than are the lower animals. In the old school it is used as an antiperiodic and also as a bitter tonic.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Umbelliferie, The Berberidaceis And"
+      }
+    ]
   },
   "evidence": {
-    "summary": "",
     "lactation_safety": [
       {
         "section": "Drug Levels and Effects",
@@ -212,7 +553,6 @@
         "source": "LactMed-NIH"
       }
     ],
-    "documented_adverse_effects": [],
     "regulatory": [
       "LactMed - NIH Drugs and Lactation Database"
     ],
@@ -232,10 +572,24 @@
   "provenance": {
     "sources": [
       "boericke-1927",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890",
+      "ellingwood-1919",
       "grieve-modern-herbal-1931",
       "hering-guiding-1879",
       "lactmed-nih",
-      "nash-leaders-1899"
+      "nash-leaders-1899",
+      "allen-encyclopedia-1874",
+      "allen-handbook-1889",
+      "allen-keynotes-1899",
+      "clarke-dictionary-1900",
+      "cowperthwaite-textbook-1891",
+      "farrington-clinical-1908",
+      "felter-eclectic-1922",
+      "guernsey-keynotes-1887",
+      "hering-condensed-mm-1877",
+      "kent-new-remedies-1926",
+      "kings-american-1898"
     ]
   }
 }

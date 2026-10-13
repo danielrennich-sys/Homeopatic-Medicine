@@ -1,0 +1,43 @@
+{
+  "id": "lappa-major",
+  "names": {
+    "primary": "Lappa Major",
+    "latin": "Lappa Major",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Face: Face, red, eyes, around.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Face"
+      },
+      {
+        "text": "Nipples: Nipples, outward, going pains.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nipples"
+      },
+      {
+        "text": "Lll: Liver, throbs in; Lumbar back, numb.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Nnn: Nails, gnawing; Naso-pharynx, lump in [[as of]]; Numb, painless, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

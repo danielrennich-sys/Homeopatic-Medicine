@@ -1,0 +1,130 @@
+{
+  "id": "bismuthum-metallicum",
+  "names": {
+    "primary": "Bismuthum Metallicum",
+    "latin": "Bismuthum Metallicum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Company, amel., desire for, etc.; Drinking, amel.; Touch, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Generalities: Boring, grinding.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Mind: Mind, discontent.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mind"
+      },
+      {
+        "text": "Head: Head, forehead, eyes, over; Head, one sided symptoms, alternating; Head, pains, extending, backward; Head, pains, extending, downward to nose, face, neck, etc.; Bursting.); Head, dull or heavy aching.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Head"
+      },
+      {
+        "text": "Thirst: Thirst, cold drinks, for.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Thirst"
+      },
+      {
+        "text": "Vomiting: Vomiting, delayed, after a while.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vomiting"
+      },
+      {
+        "text": "Stomach And Abdomen: Stomach and abdomen, sore spot in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Stomach And Abdomen"
+      },
+      {
+        "text": "Flatulence: Flatulence, right.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Flatulence"
+      },
+      {
+        "text": "Heart, Circulation And Pulse: Heart, circulation and pulse, heart-beat and pulse, audible.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Heart, Circulation And Pulse"
+      },
+      {
+        "text": "Upper Limbs: Upper limbs, right.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Upper Limbs"
+      },
+      {
+        "text": "Eee: Emaciation, atrophy, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Face, point, drawn to; Foot, spasm of.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Hands, dry; Hands, dry, palms; Head, stomach, alternating with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Ppp: Palms, dry; Palms, hot, burn, and soles.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Stomach, backward; Stomach, extending to; Stomach, spot in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Vvv: Vomiting, stomach, from full.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "General Analysis: BORING, grinding, etc.; COMPANY, Amel., Desire for, etc.; DRINKING, Amel.; FLATULENCE, Right.",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      },
+      {
+        "text": "Generalities: Boring: Piercing pains",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: And lameness: Of inner parts",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Inner parts: Heaviness of inner parts",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Pains: Piercing | piercing pains",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890"
+    ]
+  }
+}

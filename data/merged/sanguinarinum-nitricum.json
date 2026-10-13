@@ -1,16 +1,17 @@
 {
   "id": "sanguinarinum-nitricum",
   "names": {
-    "primary": "SANGUINARINUM NITRICUM",
-    "latin": "SANGUINARINUM NITRICUM",
+    "primary": "Sanguinarinum Nitricum",
+    "latin": "Sanguinarinum Nitricum",
     "common": [
       "Nitrate of Sanguinarine (SANGUINARINA NITRICA)"
     ],
-    "synonyms": [
-      "Sanguinarinum Nitricum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "nose": [
       {

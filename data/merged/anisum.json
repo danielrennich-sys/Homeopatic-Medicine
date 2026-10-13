@@ -1,16 +1,20 @@
 {
   "id": "anisum",
   "names": {
-    "primary": "Anisum (Pimpinella anisum)",
-    "latin": "Anisum (Pimpinella anisum)",
+    "primary": "Anisum",
+    "latin": "Anisum",
     "common": [
       "Anise"
     ],
     "synonyms": [
+      "Anisum (Pimpinella anisum)",
       "Anisum (U. S. P.)"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

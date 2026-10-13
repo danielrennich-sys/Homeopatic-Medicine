@@ -1,14 +1,17 @@
 {
   "id": "quercus-robur",
   "names": {
-    "primary": "Quercus robur",
-    "latin": "Quercus robur",
+    "primary": "Quercus Robur",
+    "latin": "Quercus Robur",
     "common": [
       "Oak, Common"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

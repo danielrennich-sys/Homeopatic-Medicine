@@ -1,14 +1,17 @@
 {
   "id": "monarda-didyma",
   "names": {
-    "primary": "Monarda didyma",
-    "latin": "Monarda didyma",
+    "primary": "Monarda Didyma",
+    "latin": "Monarda Didyma",
     "common": [
       "Bergamot"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

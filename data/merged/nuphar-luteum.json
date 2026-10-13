@@ -6,11 +6,12 @@
     "common": [
       "Yellow Pond-lily"
     ],
-    "synonyms": [
-      "NUPHAR LUTEUM"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -158,6 +159,13 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Sss: Stool, yellow.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      }
+    ],
     "extremities": [
       {
         "text": "Leprous eruption on arm. Sensation of weakness and loss of power in limbs ; < in evening.",
@@ -178,6 +186,7 @@
       "boericke-1927",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879"
     ]
   }

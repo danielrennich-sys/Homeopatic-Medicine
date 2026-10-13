@@ -1,0 +1,40 @@
+{
+  "id": "chloralum-chlor",
+  "names": {
+    "primary": "Chloralum Chlor",
+    "latin": "Chloralum Chlor",
+    "common": [],
+    "synonyms": [
+      "CHLORALUM Chlor . CHLORUM Cic . CICUTA VIROSA Cimi . CIMICIFUGA RACEMOSA (See"
+    ]
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Sneezing, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Mind: Mind, imaginations, voices, of.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mind"
+      },
+      {
+        "text": "Vvv: Voices, hears.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

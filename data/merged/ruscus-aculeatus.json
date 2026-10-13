@@ -1,14 +1,19 @@
 {
   "id": "ruscus-aculeatus",
   "names": {
-    "primary": "Ruscus aculeatus (LINN.)",
-    "latin": "Ruscus aculeatus (LINN.)",
+    "primary": "Ruscus Aculeatus",
+    "latin": "Ruscus Aculeatus",
     "common": [
       "Broom, Butcher's"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ruscus aculeatus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

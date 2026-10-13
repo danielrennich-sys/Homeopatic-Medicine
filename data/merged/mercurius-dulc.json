@@ -1,12 +1,15 @@
 {
   "id": "mercurius-dulc",
   "names": {
-    "primary": "MERCURIUS DULC",
-    "latin": "MERCURIUS DULC",
+    "primary": "Mercurius Dulc",
+    "latin": "Mercurius Dulc",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

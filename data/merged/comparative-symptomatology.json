@@ -1,12 +1,17 @@
 {
   "id": "comparative-symptomatology",
   "names": {
-    "primary": "Comparative Symptomatology of Antipyretics",
-    "latin": "Comparative Symptomatology of Antipyretics",
+    "primary": "Comparative Symptomatology",
+    "latin": "Comparative Symptomatology",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Comparative Symptomatology of Antipyretics"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

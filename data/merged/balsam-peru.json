@@ -1,12 +1,17 @@
 {
   "id": "balsam-peru",
   "names": {
-    "primary": "BALSAM OF PERU",
-    "latin": "BALSAM OF PERU",
+    "primary": "Balsam Peru",
+    "latin": "Balsam Peru",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "BALSAM OF PERU"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

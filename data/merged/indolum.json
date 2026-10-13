@@ -1,14 +1,17 @@
 {
   "id": "indolum",
   "names": {
-    "primary": "INDOLUM",
-    "latin": "INDOLUM",
+    "primary": "Indolum",
+    "latin": "Indolum",
     "common": [
       "A Crystalline Compound Derivable from Indigo, but also a product of Putrefaction of Proteids (INDOL)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

@@ -1,8 +1,8 @@
 {
   "id": "tribulus-terrestris",
   "names": {
-    "primary": "TRIBULUS TERRESTRIS",
-    "latin": "TRIBULUS TERRESTRIS",
+    "primary": "Tribulus Terrestris",
+    "latin": "Tribulus Terrestris",
     "common": [
       "Ikshugandha"
     ],
@@ -10,7 +10,11 @@
       "Tribulus"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Ten to twenty drops of the tincture three times daily"

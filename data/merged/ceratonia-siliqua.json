@@ -1,14 +1,19 @@
 {
   "id": "ceratonia-siliqua",
   "names": {
-    "primary": "Ceratonia siliqua (LINN.)",
-    "latin": "Ceratonia siliqua (LINN.)",
+    "primary": "Ceratonia Siliqua",
+    "latin": "Ceratonia Siliqua",
     "common": [
       "John's Bread"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ceratonia siliqua (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

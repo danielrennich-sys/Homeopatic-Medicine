@@ -157,6 +157,63 @@ body {
 .badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 0.72rem; }
 .badge-cat { background: #1d3a2d; color: #7ec8a0; }
 .badge-src { background: #1d2d3a; color: #6bb3d9; }
+.badge-db { background: #1d3a2d; color: #7ec8a0; border: 1px solid #4a9a6e; }
+.badge-ai { background: #3a331d; color: #e0c46b; border: 1px solid #8a7a3a; }
+.notice {
+    background: #1a1f26; border: 1px solid #2f3336; border-left: 3px solid #6bb3d9;
+    border-radius: 8px; padding: 10px 12px; margin-bottom: 16px;
+    color: #b0b3b8; font-size: 0.8rem; line-height: 1.5;
+}
+.notice strong { color: #e7e9ea; }
+.urgent {
+    background: #3a1d1d; border: 1px solid #c94a4a; border-radius: 10px;
+    padding: 12px 14px; margin: 10px 0 14px; color: #f2c4c4; font-size: 0.86rem; line-height: 1.5;
+}
+.urgent strong { color: #ff8a8a; }
+.urgent ul { margin: 6px 0 0 18px; }
+.hint { color: #71767b; font-size: 0.85rem; margin-bottom: 14px; line-height: 1.5; }
+.fit { color: #7ec8a0; font-size: 1.05rem; font-weight: 700; }
+.fit small { color: #71767b; font-weight: 400; font-size: 0.72rem; margin-left: 6px; }
+.verdict {
+    margin-top: 10px; padding: 10px 12px; border-radius: 8px;
+    background: #141a21; border: 1px solid #2f3336; color: #c9ccd1; font-size: 0.84rem; line-height: 1.5;
+}
+.verdict strong { color: #e0c46b; }
+.passage {
+    margin-top: 8px; padding: 8px 10px 8px 12px; border-left: 3px solid #2f3336;
+    background: #11161c; border-radius: 0 6px 6px 0; font-size: 0.8rem; line-height: 1.5; color: #a9adb3;
+}
+.passage.key { border-left-color: #7ec8a0; color: #d4d7db; background: #13201a; }
+.passage .ptag { display: block; color: #6bb3d9; font-size: 0.7rem; margin-bottom: 3px; }
+.passage .ptag em { color: #7ec8a0; font-style: normal; margin-left: 6px; }
+.toggle-link { color: #6bb3d9; font-size: 0.78rem; cursor: pointer; margin-top: 6px; display: inline-block; }
+.safety {
+    margin-top: 10px; padding: 8px 10px; border-radius: 8px; font-size: 0.78rem; line-height: 1.5;
+    background: #2a1f14; border: 1px solid #8a5a2a; color: #e6c9a8;
+}
+.safety strong { color: #ffb366; }
+.safety .hot { color: #ffb3b3; }
+.overall {
+    background: #1d2a3a; border: 1px solid #4a7a9e; border-radius: 10px; padding: 12px; margin: 10px 0;
+    color: #b0b3b8; font-size: 0.84rem; line-height: 1.55;
+}
+.overall .t { color: #6bb3d9; font-weight: 600; font-size: 0.85rem; margin-bottom: 4px; }
+input[type=range] { width: 100%; accent-color: #7ec8a0; }
+mark.hl {
+    background: rgba(126, 200, 160, 0.18); color: #e7e9ea; border-radius: 3px;
+    box-shadow: 0 0 0 2px rgba(126, 200, 160, 0.18); padding: 0 1px;
+}
+mark.hl.current { background: rgba(224, 196, 107, 0.28); box-shadow: 0 0 0 2px rgba(224, 196, 107, 0.4); }
+mark.hl b { color: #7ec8a0; font-weight: 700; }
+.hl-nav {
+    display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;
+    margin: 8px 0 10px; padding: 8px 10px; border-radius: 8px; background: #13201a; border: 1px solid #2f5a44;
+    color: #b0b3b8; font-size: 0.8rem;
+}
+.hl-nav .btn-sm {
+    background: #1d3a2d; color: #7ec8a0; border: 1px solid #4a9a6e; border-radius: 6px;
+    padding: 4px 10px; cursor: pointer; font-size: 0.78rem;
+}
 
 /* Modal */
 .modal-overlay {
@@ -210,10 +267,98 @@ body {
     <div class="progress-bar" id="progressBar"></div>
     <div class="step-nav" id="stepNav"></div>
 
+    <div class="notice">
+        <strong>Educational tool, not medical advice.</strong>
+        This matches your answers against historical homeopathic texts (1830&ndash;1930s) and, when available, an AI reading of the case.
+        It does not diagnose anything. Well-designed clinical trials have not found homeopathic remedies to work better than placebo,
+        so please don&rsquo;t use this in place of seeing a doctor, and don&rsquo;t stop prescribed medication.
+        <strong>If you have chest pain, trouble breathing, signs of a stroke, thoughts of harming yourself, or any symptom that feels severe or is getting rapidly worse, call your local emergency number now.</strong>
+    </div>
+
     <form id="intakeForm">
 
-    <!-- STEP 0: Chief Complaint -->
+    <!-- STEP 0: The patient's own account -->
     <div class="form-step active" data-step="0">
+        <h2>Your Story</h2>
+        <p class="hint">Start in your own words. Everything you write here is used as the <em>context</em> for the search &mdash;
+            the books are read against your whole account, not just the words in it. Please don&rsquo;t include your name or other identifying details.</p>
+        <div class="field">
+            <label>What&rsquo;s going on? Describe what you&rsquo;re experiencing, how it started, and how it affects you</label>
+            <textarea name="story" rows="6" placeholder="e.g. For about three weeks I've had a dull, pressing headache over my forehead that builds through the afternoon. It started the week after a bad cold. I feel foggy and irritable, and bright light makes it worse. Lying down in a dark room helps a little."></textarea>
+        </div>
+        <div class="field">
+            <label>What do you think it is, or what do you think is causing it?</label>
+            <textarea name="patient_theory" rows="3" placeholder="e.g. I suspect it's my sinuses left over from the cold, plus stress at work"></textarea>
+        </div>
+        <div class="two-col">
+            <div class="field">
+                <label>Age</label>
+                <input type="number" name="age" min="0" max="120" placeholder="years">
+            </div>
+            <div class="field">
+                <label>Sex</label>
+                <select name="sex">
+                    <option value="">-- Select --</option>
+                    <option>Female</option><option>Male</option>
+                    <option>Other / prefer not to say</option>
+                </select>
+            </div>
+        </div>
+        <div class="two-col">
+            <div class="field">
+                <label>Pregnant or breastfeeding?</label>
+                <select name="pregnancy">
+                    <option value="">Not applicable</option>
+                    <option>Pregnant</option><option>Breastfeeding</option>
+                    <option>Trying to conceive</option>
+                </select>
+            </div>
+            <div class="field">
+                <label>When did this start?</label>
+                <select name="onset">
+                    <option value="">-- Select --</option>
+                    <option>hours ago</option><option>days ago</option>
+                    <option>1-4 weeks ago</option><option>1-6 months ago</option>
+                    <option>6-12 months ago</option><option>more than a year ago</option>
+                    <option>in childhood</option>
+                </select>
+            </div>
+        </div>
+        <div class="two-col">
+            <div class="field">
+                <label>Course</label>
+                <select name="course">
+                    <option value="">-- Select --</option>
+                    <option>Acute - came on suddenly</option>
+                    <option>Acute - gradual onset</option>
+                    <option>Chronic / long-standing</option>
+                    <option>Recurring episodes</option>
+                    <option>Flare-up of a chronic problem</option>
+                </select>
+            </div>
+            <div class="field">
+                <label>Pattern</label>
+                <select name="pattern">
+                    <option value="">-- Select --</option>
+                    <option>Constant</option><option>Comes and goes</option>
+                    <option>Worse at certain times of day</option>
+                    <option>Getting worse</option><option>Getting better</option>
+                    <option>Unchanged</option>
+                </select>
+            </div>
+        </div>
+        <div class="field">
+            <label>How much does it affect daily life? <span style="color:#7ec8a0">(<span id="severityVal">5</span>/10)</span></label>
+            <input type="range" name="severity" min="1" max="10" value="5" oninput="document.getElementById('severityVal').textContent=this.value">
+        </div>
+        <div class="notice" style="margin-top:6px">
+            <strong>Where your answers go:</strong> to search the books, your answers are sent to Anthropic&rsquo;s Claude AI through this site&rsquo;s own proxy
+            (or your own API key, if you set one in Settings). Nothing is stored by this site. Leave out names, addresses and anything that identifies you.
+        </div>
+    </div>
+
+    <!-- STEP 1: Chief Complaint -->
+    <div class="form-step" data-step="1">
         <h2>Chief Complaint</h2>
         <p style="color:#71767b;font-size:0.85rem;margin-bottom:14px">Describe your main concern. You can add multiple symptoms.</p>
         <div id="symptomList">
@@ -383,7 +528,7 @@ body {
     </div>
 
     <!-- STEP 1: Mental / Emotional -->
-    <div class="form-step" data-step="1">
+    <div class="form-step" data-step="2">
         <h2>Mental & Emotional State</h2>
         <div class="field">
             <label>Current emotional state (select all that apply)</label>
@@ -414,7 +559,7 @@ body {
     </div>
 
     <!-- STEP 2: Constitutional -->
-    <div class="form-step" data-step="2">
+    <div class="form-step" data-step="3">
         <h2>Constitution & Generals</h2>
         <div class="two-col">
             <div class="field">
@@ -466,7 +611,7 @@ body {
     </div>
 
     <!-- STEP 3: Sleep -->
-    <div class="form-step" data-step="3">
+    <div class="form-step" data-step="4">
         <h2>Sleep & Perspiration</h2>
         <div class="two-col">
             <div class="field">
@@ -524,7 +669,7 @@ body {
     </div>
 
     <!-- STEP 4: Systems Review -->
-    <div class="form-step" data-step="4">
+    <div class="form-step" data-step="5">
         <h2>Systems Review</h2>
         <p style="color:#71767b;font-size:0.85rem;margin-bottom:14px">Note any ongoing or recurring issues in these areas.</p>
         <div class="field">
@@ -550,7 +695,7 @@ body {
     </div>
 
     <!-- STEP 5: History -->
-    <div class="form-step" data-step="5">
+    <div class="form-step" data-step="6">
         <h2>History & Additional Info</h2>
         <div class="field">
             <label>Past medical conditions or significant illnesses</label>
@@ -599,7 +744,7 @@ body {
 <script>
 // === CONFIG ===
 const STEPS = [
-    'Chief Complaint', 'Mental / Emotional', 'Constitution',
+    'Your Story', 'Chief Complaint', 'Mental / Emotional', 'Constitution',
     'Sleep & Perspiration', 'Systems Review', 'History'
 ];
 const EMOTIONS = [
@@ -665,6 +810,7 @@ const FEMALE = [
 // === STATE ===
 let currentStep = 0;
 let symptomCount = 1;
+let lastResults = [];   // results of the last intake match, for detail-view highlighting
 
 // === INIT ===
 function init() {
@@ -757,8 +903,13 @@ function submitForm() {
         payload._checked.push(cb.value);
     });
 
-    if (!HomeopathyDB.ready) {
-        alert('Database is still loading. Please wait a moment.');
+    if (!HomeopathyDB.passagesReady) {
+        alert('The passage index is still loading. Please wait a moment.');
+        return;
+    }
+    if (!(payload.story || '').trim() && !Object.keys(payload).some(k => /^sx_desc_/.test(k))) {
+        alert('Please describe what is going on in "Your Story" or add at least one symptom.');
+        showStep(0);
         return;
     }
 
@@ -767,11 +918,11 @@ function submitForm() {
     btn.textContent = hasAI ? 'AI Agent analyzing...' : 'Searching...';
     btn.disabled = true;
 
-    HomeopathyDB.intakeMatch(payload)
+    HomeopathyDB.intakeMatch(payload, msg => { btn.textContent = msg; })
         .then(data => {
             btn.textContent = 'Find Matching Remedies';
             btn.disabled = false;
-            renderIntakeResults(data);
+            renderIntakeResults(data, scanRedFlags(payload), payload);
         })
         .catch(err => {
             btn.textContent = 'Find Matching Remedies';
@@ -780,51 +931,141 @@ function submitForm() {
         });
 }
 
-function renderIntakeResults(data) {
+// Symptoms that should send someone to a doctor rather than self-treatment.
+// Deliberately broad: a false alarm costs little, a miss can cost a lot.
+const RED_FLAGS = [
+    [/chest (pain|pressure|tight)|crushing.{0,20}chest|pain.{0,30}(left arm|jaw)/, 'Chest pain or pressure'],
+    [/can'?t breathe|cannot breathe|(trouble|difficulty|hard) breathing|short(ness)? of breath|gasping|choking/, 'Trouble breathing'],
+    [/fac(e|ial) droop|slurred speech|sudden (weakness|numbness)|one side of (my |the )?(body|face)|can'?t (speak|talk)/, 'Possible stroke signs'],
+    [/worst headache|thunderclap|sudden severe headache|stiff neck.{0,40}fever|fever.{0,40}stiff neck/, 'Sudden severe headache or stiff neck with fever'],
+    [/suicid|kill (my|him|her)self|end (my|it all)|self.?harm|hurt(ing)? myself|don'?t want to (live|be alive)/, 'Thoughts of self-harm'],
+    [/faint(ed|ing)|pass(ed|ing) out|lost consciousness|unconscious|seizure|convulsion/, 'Fainting or seizure'],
+    [/(vomit|cough)(ing|ed)? (up )?blood|blood in (my )?(stool|vomit|urine)|black.{0,10}(tarry )?stool|bleeding (heavily|won'?t stop)/, 'Significant bleeding'],
+    [/(throat|tongue|lips?) (is |are )?swell|anaphyla|hives.{0,30}breath/, 'Possible severe allergic reaction'],
+    [/pregnan.{0,60}(bleed|cramp|pain)|(bleed|cramp).{0,60}pregnan/, 'Bleeding or pain during pregnancy'],
+    [/(baby|infant|newborn).{0,60}fever|fever.{0,60}(baby|infant|newborn)/, 'Fever in an infant'],
+    [/sudden (loss of )?(vision|sight)|(went|going) blind|sudden(ly)? (can'?t|cannot) see/, 'Sudden vision loss'],
+    [/confus(ed|ion).{0,30}sudden|sudden(ly)? confus/, 'Sudden confusion'],
+];
+
+function scanRedFlags(payload) {
+    const text = Object.entries(payload)
+        .filter(([k]) => /^sx_desc_|^additional$|^past_medical$|^story$|^patient_theory$/.test(k))
+        .map(([, v]) => Array.isArray(v) ? v.join(' ') : String(v))
+        .join(' ').toLowerCase();
+    const flags = RED_FLAGS.filter(([re]) => re.test(text)).map(([, label]) => label);
+    const age = parseFloat(payload.age);
+    if (!isNaN(age) && age < 2 && /fever|temperature|hot|burning up/.test(text) && !flags.includes('Fever in an infant')) flags.push('Fever in an infant');
+    if (/pregnan|breastfeed/i.test(String(payload.pregnancy || '')) && /bleed|cramp|severe pain/.test(text) && !flags.includes('Bleeding or pain during pregnancy')) flags.push('Bleeding or pain during pregnancy');
+    return flags;
+}
+
+function renderIntakeResults(data, redFlags = [], payload = {}) {
     const panel = document.getElementById('resultsPanel');
     panel.classList.add('active');
+    lastResults = data.results;
 
-    let infoHtml = `Found ${data.results.length} matching remedies based on ${data.keywords_used} symptom analysis groups`;
+    let infoHtml = '';
+    if (redFlags.length) {
+        // Hard red flags found in the answers themselves
+        infoHtml += `<div class="urgent">
+            <strong>Please get medical care before using any remedy.</strong>
+            Something in your answers can be a sign of a condition that needs a doctor promptly.
+            If it is severe or sudden, call your local emergency number.
+            <ul>${redFlags.map(f => `<li>${esc(f)}</li>`).join('')}</ul>
+            ${data.urgent_warning ? `<div style="margin-top:6px">${esc(data.urgent_warning)}</div>` : ''}
+        </div>`;
+    } else if (data.urgent_warning) {
+        // The AI's own caution: usually "see a doctor if..." rather than an emergency
+        infoHtml += `<div class="safety" style="margin:0 0 12px"><strong>When to see a doctor:</strong> ${esc(data.urgent_warning)}</div>`;
+    }
+    const n = data.results.length;
+    if (data.mode === 'ai') {
+        infoHtml += `${n} candidate remedies. The AI planned the search from your story, ${HomeopathyDB.passageCount.toLocaleString()} passages were searched for symptoms occurring <em>together</em>, and the AI then read each remedy's quoted passages in the context of your account.`;
+    } else {
+        infoHtml += `${n} candidate remedies from keyword matching across ${HomeopathyDB.passageCount.toLocaleString()} passages (${data.keywords_used} symptom groups).`;
+        if (data.ai_failed) infoHtml += ` <span style="color:#d9a86b">The AI was unavailable${data.ai_error ? ' (' + esc(data.ai_error) + ')' : ''}, so this is a keyword-only result.</span>`;
+    }
+    infoHtml += `<div style="margin-top:6px"><span class="badge badge-db">Found in sources</span> = quoted from the books below &nbsp;
+        <span class="badge badge-ai">AI suggestion</span> = proposed from the AI's own knowledge</div>`;
     if (data.ai_analysis) {
         infoHtml += `<div style="background:#1d3a2d;border:1px solid #4a9a6e;border-radius:10px;padding:12px;margin:10px 0">
-            <div style="color:#7ec8a0;font-weight:600;font-size:0.85rem;margin-bottom:4px">AI Repertorization Analysis</div>
+            <div style="color:#7ec8a0;font-weight:600;font-size:0.85rem;margin-bottom:4px">How the AI read your case</div>
             <div style="color:#b0b3b8;font-size:0.84rem;line-height:1.5">${esc(data.ai_analysis)}</div>
-            ${data.ai_reasoning ? `<div style="color:#8b8f94;font-size:0.8rem;margin-top:6px;border-top:1px solid #2f3336;padding-top:6px"><strong style="color:#6bb3d9">Reasoning:</strong> ${esc(data.ai_reasoning)}</div>` : ''}
+            ${data.ai_reasoning ? `<div style="color:#8b8f94;font-size:0.8rem;margin-top:6px;border-top:1px solid #2f3336;padding-top:6px">${esc(data.ai_reasoning)}</div>` : ''}
         </div>`;
+    }
+    if (data.reading_overall) {
+        infoHtml += `<div class="overall"><div class="t">What the books say, read in context</div>${esc(data.reading_overall)}</div>`;
     }
     document.getElementById('resultsInfo').innerHTML = infoHtml;
 
     const list = document.getElementById('resultsList');
     list.innerHTML = data.results.map((r, i) => {
-        const pct = r.pct || Math.round((r.score / (data.results[0]?.score || 1)) * 100);
-        const summary = r.ai_reason
-            ? r.ai_reason
-            : r.matched_keywords.slice(0, 5).join(', ');
+        const inSources = r.db_score > 0 && r.passages.length > 0;
+        const sourceBadges = (inSources ? '<span class="badge badge-db">Found in sources</span> ' : '') +
+            (r.ai_suggested ? `<span class="badge badge-ai">${inSources ? 'AI suggestion' : 'AI suggestion only &mdash; nothing matched in the source texts'}</span>` : '');
+        const scoreHtml = r.fit != null
+            ? `<span class="fit">Fit ${r.fit}/10<small>source match ${r.pct}%</small></span>`
+            : `<span class="fit">${r.pct}%<small>source match</small></span>`;
+        const keyP = r.passages.filter(p => p.key);
+        const shown = keyP.length ? keyP : r.passages.slice(0, 2);
+        const hidden = r.passages.filter(p => !shown.includes(p));
+        const pHtml = p => `<div class="passage ${p.key ? 'key' : ''}">
+                <span class="ptag">${esc(p.section)}${p.source ? ' &middot; ' + esc(p.source) : ''}<em>${esc(p.group)}</em></span>
+                &ldquo;${esc(p.text.length > 460 ? p.text.slice(0, 460) + '&hellip;' : p.text)}&rdquo;</div>`;
         return `
-        <div class="result-card" onclick="showDetail('${r.id}')">
-            <div style="display:flex;justify-content:space-between;align-items:baseline">
+        <div class="result-card" style="cursor:default" id="rc-${i}">
+            <div style="display:flex;justify-content:space-between;align-items:baseline;gap:10px">
                 <div>
                     <span style="color:#71767b;font-size:0.85rem;font-weight:600;margin-right:6px">#${i + 1}</span>
-                    <span class="result-name">${esc(r.primary)}</span>
+                    <span class="result-name" style="cursor:pointer" onclick="showDetail('${r.id}')">${esc(r.primary)}</span>
                     ${r.latin !== r.primary ? `<span class="result-latin"> ${esc(r.latin)}</span>` : ''}
+                    ${i === 0 && r.passages.length ? '<span class="badge badge-db" style="margin-left:8px">Best match</span>' : ''}
                 </div>
-                <span style="color:#7ec8a0;font-size:0.95rem;font-weight:700">${r.score} hits</span>
+                ${scoreHtml}
             </div>
+            <div style="margin-top:6px">${sourceBadges}</div>
             <div style="margin-top:4px">
                 <span class="badge badge-cat">${r.category}</span>
+                ${r.cell_salt_number ? `<span class="badge" style="background:#1d2d3a;color:#9ec5e8">Cell salt #${r.cell_salt_number}</span>` : ''}
                 <span class="badge badge-src">${r.n_sources} sources</span>
                 ${r.has_traditional ? '<span class="badge" style="background:#3a2d1d;color:#d9a86b">Traditional</span>' : ''}
                 ${r.has_evidence ? '<span class="badge" style="background:#2d1d3a;color:#b36bd9">Evidence</span>' : ''}
             </div>
-            <div class="match-bar"><div class="match-fill" style="width:${pct}%"></div></div>
-            <div style="margin-top:8px;color:#b0b3b8;font-size:0.84rem;line-height:1.5">
-                ${esc(summary)}
-            </div>
+            <div class="match-bar"><div class="match-fill" style="width:${r.pct}%"></div></div>
+            ${r.why ? `<div class="verdict"><strong>Why this remedy${r.verdict ? ' (read in context)' : ''}:</strong> ${esc(r.why)}</div>` : ''}
+            ${r.ai_reason ? `<div style="margin-top:8px;color:#b0b3b8;font-size:0.82rem;line-height:1.5"><strong style="color:#e0c46b">AI suggestion:</strong> ${esc(r.ai_reason)}</div>` : ''}
+            ${shown.map(pHtml).join('')}
+            ${hidden.length ? `<span class="toggle-link" onclick="this.nextElementSibling.style.display='block';this.remove()">Show ${hidden.length} more matching passage${hidden.length > 1 ? 's' : ''}</span><div style="display:none">${hidden.map(pHtml).join('')}</div>` : ''}
+            ${!r.passages.length ? `<div style="margin-top:8px;color:#71767b;font-size:0.8rem">No passage in the source texts matched this remedy to your symptoms.</div>` : ''}
+            <div class="safety" id="safety-${i}" style="display:none"></div>
             <div style="text-align:right;margin-top:8px">
-                <span style="color:#6bb3d9;font-size:0.82rem;cursor:pointer">View full remedy details &rarr;</span>
+                <span style="color:#6bb3d9;font-size:0.82rem;cursor:pointer" onclick="showDetail('${r.id}')">View full remedy details &rarr;</span>
             </div>
         </div>`;
-    }).join('');
+    }).join('') + (data.ai_unmatched && data.ai_unmatched.length ? `
+        <div class="result-card" style="cursor:default;border-style:dashed">
+            <div style="color:#e0c46b;font-weight:600;font-size:0.88rem;margin-bottom:6px">Also suggested by the AI, but not in this database</div>
+            ${data.ai_unmatched.map(u => `<div style="color:#b0b3b8;font-size:0.82rem;margin-top:4px"><strong>${esc(u.name)}</strong>${u.reason ? ' &mdash; ' + esc(u.reason) : ''}</div>`).join('')}
+        </div>` : '');
+
+    // NIH safety notes, filled in asynchronously per remedy
+    const preg = /pregnan|breastfeed|conceive/i.test(String(payload.pregnancy || ''));
+    const meds = String(payload.medications || '').trim();
+    data.results.forEach(async (r, i) => {
+        const el = document.getElementById(`safety-${i}`);
+        if (!el || !r.has_evidence) return;
+        const sn = await HomeopathyDB.getSafetyNotes(r.id);
+        const rows = [];
+        if (sn.lactation) rows.push(`<div class="${preg ? 'hot' : ''}"><strong>Pregnancy / breastfeeding (LactMed):</strong> ${esc(sn.lactation.text)}</div>`);
+        if (sn.interactions) rows.push(`<div class="${meds ? 'hot' : ''}"><strong>Drug interactions${meds ? ' &mdash; you listed medications' : ''}:</strong> ${esc(sn.interactions.text)}</div>`);
+        if (sn.hepatotoxicity) rows.push(`<div><strong>Liver (LiverTox):</strong> ${esc(sn.hepatotoxicity.text)}</div>`);
+        if (sn.adverse) rows.push(`<div><strong>Documented adverse effects:</strong> ${esc(sn.adverse.text)}</div>`);
+        if (!rows.length) return;
+        el.innerHTML = `<strong>Safety notes from NIH sources</strong> (about the substance in material doses; see full details for context)${rows.join('')}`;
+        el.style.display = 'block';
+    });
 
     panel.scrollIntoView({behavior: 'smooth'});
 }
@@ -836,6 +1077,9 @@ async function showDetail(id) {
     document.getElementById('modalOverlay').classList.add('active');
     document.getElementById('modalBody').innerHTML = '<div style="color:#71767b;padding:20px">Loading...</div>';
     const d = await HomeopathyDB.loadRemedyDetail(id);
+    // If this remedy came from the intake results, highlight what matched
+    const hit = (lastResults || []).find(r => r.id === id);
+    const hl = hit ? await HomeopathyDB.getHighlights(hit) : null;
     {
             if (!d || d.error) { document.getElementById('modalBody').innerHTML = '<p style="color:#ff6b6b">Not found</p>'; return; }
             const names = d.names || {};
@@ -846,6 +1090,12 @@ async function showDetail(id) {
             const common = (names.common||[]).join(', ');
             if (common) html += `<div style="color:#8b8f94;font-size:0.82rem;margin:4px 0">Common: ${esc(common)}</div>`;
             html += `<div style="margin:8px 0">${sources.map(s=>`<span class="source-tag">${esc(s)}</span>`).join('')}</div>`;
+            if (hl) {
+                if (hl.why) html += `<div class="verdict"><strong>Why this remedy:</strong> ${esc(hl.why)}</div>`;
+                html += hl.count
+                    ? `<div class="hl-nav"><span><strong style="color:#7ec8a0">${hl.count}</strong> passage${hl.count > 1 ? 's' : ''} matching your symptoms ${hl.count > 1 ? 'are' : 'is'} highlighted below; matched words are in green.</span><button class="btn-sm" onclick="nextHighlight()">Next match &darr;</button></div>`
+                    : `<div class="hl-nav"><span>No passage in this remedy's text matched your symptoms &mdash; it was suggested from the AI's own knowledge.</span></div>`;
+            }
 
             const trad = d.traditional||{};
             const ev = d.evidence||{};
@@ -857,17 +1107,73 @@ async function showDetail(id) {
             if (!tabs.length) tabs.push({id:'empty',label:'Info'});
 
             html += `<div class="tab-bar">${tabs.map((t,i)=>`<div class="tab ${i===0?'active':''}" onclick="switchTab('${t.id}')" data-tab="${t.id}">${t.label}</div>`).join('')}</div>`;
-            if (hasTrad) html += `<div class="tab-content ${tabs[0].id==='trad'?'active':''}" id="tab-trad">${renderBlock(trad)}</div>`;
-            if (hasEv) html += `<div class="tab-content ${!hasTrad?'active':''}" id="tab-ev">${renderBlock(ev)}</div>`;
+            if (hasTrad) html += `<div class="tab-content ${tabs[0].id==='trad'?'active':''}" id="tab-trad">${renderBlock(trad, hl)}</div>`;
+            if (hasEv) html += `<div class="tab-content ${!hasTrad?'active':''}" id="tab-ev">${renderBlock(ev, hl)}</div>`;
             if (!hasTrad&&!hasEv) html += `<div class="tab-content active" id="tab-empty"><p style="color:#71767b">No details.</p></div>`;
             document.getElementById('modalBody').innerHTML = html;
+            hlIndex = -1;
+            if (hl && hl.count) setTimeout(nextHighlight, 50);
     }
+}
+
+// Cycle through the highlighted passages in the open detail view
+let hlIndex = -1;
+function nextHighlight() {
+    const marks = [...document.querySelectorAll('#modalBody mark.hl')];
+    if (!marks.length) return;
+    marks.forEach(m => m.classList.remove('current'));
+    // First jump goes to the strongest match (lowest rank), then onward in reading order
+    if (hlIndex === -1) {
+        let best = 0;
+        marks.forEach((m, i) => { if (+m.dataset.rank < +marks[best].dataset.rank) best = i; });
+        hlIndex = best;
+    } else {
+        hlIndex = (hlIndex + 1) % marks.length;
+    }
+    const m = marks[hlIndex];
+    const tab = m.closest('.tab-content');
+    if (tab && !tab.classList.contains('active')) switchTab(tab.id.replace('tab-', ''));
+    const first = !document.querySelector('#modalBody mark.hl.current');
+    m.classList.add('current');
+    // The overlay is the scroll container; an instant jump is reliable right after render
+    m.scrollIntoView({ behavior: first ? 'auto' : 'smooth', block: 'center' });
+}
+
+// Highlight matched passages inside a text; words that matched a search term are bold
+function renderText(text, src, hl) {
+    const norm = String(text).replace(/\s+/g, ' ');
+    const spans = [];   // [start, end, rank] — rank 0 is the strongest passage
+    if (hl) hl.passages.forEach((p, rank) => {
+        const idx = norm.indexOf(p);
+        if (idx >= 0) spans.push([idx, idx + p.length, rank]);
+    });
+    spans.sort((a, b) => a[0] - b[0]);
+    const merged = [];
+    for (const s of spans) {
+        const last = merged[merged.length - 1];
+        if (last && s[0] <= last[1]) { last[1] = Math.max(last[1], s[1]); last[2] = Math.min(last[2], s[2]); }
+        else merged.push([...s]);
+    }
+    const limit = merged.length ? norm.length : 3000;   // never truncate a text that has a match
+    let out = '', pos = 0;
+    for (const [a, b, rank] of merged) {
+        out += esc(norm.slice(pos, a)) + `<mark class="hl" data-rank="${rank}">${boldTerms(norm.slice(a, b), hl.terms)}</mark>`;
+        pos = b;
+    }
+    out += esc(norm.slice(pos, limit)) + (norm.length > limit ? ' …' : '');
+    return `<div class="section-text">${out}${src ? ` <span style="color:#6bb3d9;font-size:0.72rem">[${esc(src)}]</span>` : ''}</div>`;
+}
+function boldTerms(s, terms) {
+    const safe = esc(s);
+    if (!terms || !terms.size) return safe;
+    return safe.replace(/[A-Za-zÀ-ɏ]{3,}/g, w =>
+        terms.has(HomeopathyDB.stemWord(HomeopathyDB.foldText(w))) ? `<b>${w}</b>` : w);
 }
 function closeModal() { document.getElementById('modalOverlay').classList.remove('active'); }
 document.getElementById('modalOverlay').addEventListener('click', e => { if(e.target===document.getElementById('modalOverlay')) closeModal(); });
 document.addEventListener('keydown', e => { if(e.key==='Escape') closeModal(); });
 
-function renderBlock(block) {
+function renderBlock(block, hl = null) {
     let html = '';
     for (const [key,val] of Object.entries(block)) {
         const label = key.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase());
@@ -876,16 +1182,16 @@ function renderBlock(block) {
             val.forEach(item => {
                 if (typeof item==='object'&&item.text) {
                     const src=item.source_id||item.source||'';
-                    html += `<div class="section-text">${esc(item.text.substring(0,3000))}${src?` <span style="color:#6bb3d9;font-size:0.72rem">[${esc(src)}]</span>`:''}</div>`;
+                    html += renderText(item.text, src, hl);
                 } else if (typeof item==='object'&&item.section) {
                     html += `<div style="color:#d9a86b;font-size:0.8rem;margin-top:6px">${esc(item.section)}</div>`;
-                    if(item.text) html += `<div class="section-text">${esc(item.text.substring(0,3000))}</div>`;
-                } else if (typeof item==='string') html += `<div class="section-text">${esc(item)}</div>`;
+                    if(item.text) html += renderText(item.text, '', hl);
+                } else if (typeof item==='string') html += renderText(item, '', hl);
             });
         } else if (typeof val==='string'&&val.length>5) {
-            html += `<h4>${esc(label)}</h4><div class="section-text">${esc(val.substring(0,3000))}</div>`;
+            html += `<h4>${esc(label)}</h4>${renderText(val, '', hl)}`;
         } else if (typeof val==='object'&&!Array.isArray(val)) {
-            html += `<h4>${esc(label)}</h4>${renderBlock(val)}`;
+            html += `<h4>${esc(label)}</h4>${renderBlock(val, hl)}`;
         }
     }
     return html;
@@ -898,12 +1204,12 @@ function switchTab(id) {
 init();
 
 // Load the database engine
-HomeopathyDB.loadSearchIndex().then(ok => {
+HomeopathyDB.loadPassageIndex().then(ok => {
     if (ok) {
         const statusDiv = document.createElement('div');
         statusDiv.style.cssText = 'text-align:center;font-size:0.8rem;padding:4px;color:#71767b';
         const hasAI = HomeopathyDB.Settings.hasAI;
-        statusDiv.innerHTML = `${HomeopathyDB.remedyCount} remedies loaded` +
+        statusDiv.innerHTML = `${HomeopathyDB.remedyCount.toLocaleString()} remedies, ${HomeopathyDB.passageCount.toLocaleString()} passages loaded` +
             (hasAI
                 ? ' &mdash; <span style="color:#7ec8a0">AI Agent active</span>'
                 : ' &mdash; <span style="color:#d9a86b">Keyword mode</span> (<a href="settings.html" style="color:#6bb3d9">add API key for AI</a>)');

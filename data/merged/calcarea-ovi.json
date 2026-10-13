@@ -1,12 +1,17 @@
 {
   "id": "calcarea-ovi",
   "names": {
-    "primary": "Calcarea Ovi Testæ",
-    "latin": "Calcarea Ovi Testæ",
+    "primary": "Calcarea Ovi",
+    "latin": "Calcarea Ovi",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Calcarea Ovi Testæ"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

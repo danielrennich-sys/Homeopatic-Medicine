@@ -1,14 +1,19 @@
 {
   "id": "muscari-racemosum",
   "names": {
-    "primary": "Muscari racemosum (MILL.)",
-    "latin": "Muscari racemosum (MILL.)",
+    "primary": "Muscari Racemosum",
+    "latin": "Muscari Racemosum",
     "common": [
       "Hyacinth, Grape"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Muscari racemosum (MILL.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

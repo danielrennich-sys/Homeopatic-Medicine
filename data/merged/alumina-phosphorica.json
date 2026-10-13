@@ -1,12 +1,15 @@
 {
   "id": "alumina-phosphorica",
   "names": {
-    "primary": "ALUMINA PHOSPHORICA",
-    "latin": "ALUMINA PHOSPHORICA",
+    "primary": "Alumina Phosphorica",
+    "latin": "Alumina Phosphorica",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

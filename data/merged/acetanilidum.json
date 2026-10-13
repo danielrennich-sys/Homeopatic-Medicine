@@ -1,14 +1,17 @@
 {
   "id": "acetanilidum",
   "names": {
-    "primary": "ACETANILIDUM",
-    "latin": "ACETANILIDUM",
+    "primary": "Acetanilidum",
+    "latin": "Acetanilidum",
     "common": [
       "Antifebrinum"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

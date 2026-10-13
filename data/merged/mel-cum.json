@@ -1,14 +1,19 @@
 {
   "id": "mel-cum",
   "names": {
-    "primary": "MEL CUM SALE",
-    "latin": "MEL CUM SALE",
+    "primary": "Mel Cum",
+    "latin": "Mel Cum",
     "common": [
       "Honey with Salt"
     ],
-    "synonyms": []
+    "synonyms": [
+      "MEL CUM SALE"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Third to sixth potency. Honey for itching of anus and worms"

@@ -1,17 +1,20 @@
 {
   "id": "juniperus-communis",
   "names": {
-    "primary": "JUNIPERUS COMMUNIS",
-    "latin": "JUNIPERUS COMMUNIS",
+    "primary": "Juniperus Communis",
+    "latin": "Juniperus Communis",
     "common": [
       "Juniper Berries"
     ],
     "synonyms": [
-      "Juniperus Communis",
       "Juniperus communis (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "urinary": [
       {
@@ -30,7 +33,13 @@
       }
     ],
     "dosing": {
-      "notes": "Third potency and higher. Severe aggravation have been noticed from lower potencies"
+      "notes": "Third potency and higher. Severe aggravation have been noticed from lower potencies",
+      "entries": [
+        {
+          "text": "Oil of Berries, B.P., 1 to 5 drops. Oil of Wood, 1 to 5 drops. Fluid extract, 1/2 to 1 fluid drachm. Spirit of Juniper, B.P. and U.S.P., 20 to 60 minims. Oil, 2 to 10 minims. Elixir of Potassium Acetate and Juniper as a diaphoretic, 4 fluid drachms. Comp. Spirit, U.S.P., 2 drachms. Solid extract, 5 to 15 grains. [ Top ]",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "head": [
       {

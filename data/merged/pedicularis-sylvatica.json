@@ -1,14 +1,17 @@
 {
   "id": "pedicularis-sylvatica",
   "names": {
-    "primary": "Pedicularis sylvatica",
-    "latin": "Pedicularis sylvatica",
+    "primary": "Pedicularis Sylvatica",
+    "latin": "Pedicularis Sylvatica",
     "common": [
       "Rattle, Dwarf Red"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

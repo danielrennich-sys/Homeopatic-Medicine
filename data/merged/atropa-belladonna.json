@@ -1,14 +1,19 @@
 {
   "id": "atropa-belladonna",
   "names": {
-    "primary": "Atropa belladonna (LINN.)",
-    "latin": "Atropa belladonna (LINN.)",
+    "primary": "Atropa Belladonna",
+    "latin": "Atropa Belladonna",
     "common": [
       "Nightshade, Deadly"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Atropa belladonna (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

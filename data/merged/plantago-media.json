@@ -1,14 +1,19 @@
 {
   "id": "plantago-media",
   "names": {
-    "primary": "Plantago media (LINN.)",
-    "latin": "Plantago media (LINN.)",
+    "primary": "Plantago Media",
+    "latin": "Plantago Media",
     "common": [
       "Plantain, Hoary"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Plantago media (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

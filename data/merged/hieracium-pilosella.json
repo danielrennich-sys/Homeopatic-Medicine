@@ -1,14 +1,19 @@
 {
   "id": "hieracium-pilosella",
   "names": {
-    "primary": "Hieracium Pilosella (LINN.)",
-    "latin": "Hieracium Pilosella (LINN.)",
+    "primary": "Hieracium Pilosella",
+    "latin": "Hieracium Pilosella",
     "common": [
       "Hawkweed, Mouse-Ear"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Hieracium Pilosella (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

@@ -1,14 +1,17 @@
 {
   "id": "bartsia-odontites",
   "names": {
-    "primary": "Bartsia odontites",
-    "latin": "Bartsia odontites",
+    "primary": "Bartsia Odontites",
+    "latin": "Bartsia Odontites",
     "common": [
       "Bartsia, Red"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

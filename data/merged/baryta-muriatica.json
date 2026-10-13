@@ -6,12 +6,12 @@
     "common": [
       "Barium Chloride"
     ],
-    "synonyms": [
-      "BARYTA MURIATICA",
-      "Baryta muriatica"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -31,80 +31,11 @@
         "source_id": "hering-guiding-1879"
       }
     ],
-    "ears": [
-      {
-        "text": "Whizzing and buzzing. Noises on chewing and swallowing, or sneezing. Earache; better sipping cold water. Parotids swollen. Offensive otorrhœa. Inflates middle ear on blowing nose",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Deafness and vomiting. Otorrhœa; odour like rotten cheese. Abscesses behind ears. Parotids (esp. r.) swollen.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Deaf, with vomiting ; headache ; burning in stomach and convulsions. Ears pain. θ Angina. Earache right side ; < lying on painful side ; > sipping cold water. Catarrh of ears. Discharge from both ears of an odor like rotten cheese. Otorrhœa after frequent otitis. Post-scarlatinal otorrhœa. Profuse purulent otorrhœa of five years' standing. Otorrhœa on both sides, offensive discharge. θ Glandular swelling. Abscess behind both ears, discharging offensive pus. θ Scrofulous ulcers. Parotis on right side swollen, with a swelling of submaxillary and cervical glands. Both parotids, most right side, swell after scarlatina. Parotis swollen hard, not very painful, but extending to edge of lower maxilla.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "mouth_throat": [
-      {
-        "text": "Difficult swallowing. Tonsils enlarged. Paresis of pharynx and eustachian tubes, with sneezing and noises. Tubes feel too wide open",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Shooting, throbbing pains in the teeth, esp. on waking, after midnight. Looseness of the teeth. Swelling of the salivary glands and of the palate. Tongue loaded. Tongue and mouth dry. Fetor of the mouth, as if from mercury. Putrid taste in the mouth, also of food. Uvula elongated. Varicose veins of throat. Suppuration of tonsils after every cold. Swallowing difficult.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "After fine stitching a pulse-like jerking and throbbing toothache ; < after midnight ; < after sleep ; is compelled to sit up in bed. Looseness of teeth, with salivation. Putrid taste in mouth, even food has a putrid taste ; tongue and mouth dry. Tongue furred. θ Glandular swelling. Tongue covered with mucus. Stench from mouth, like after mercury. Great salivation. θ Angina. Saliva runs out of mouth in large quantities, with every paroxysm. θ Induration of pancreas. (In sick :) Salivation, with looseness of teeth, swelling of salivary glands and palate, odor like from mercurialism. Swelling of salivary glands. Palate swollen. See 12. Elongation of uvula, with hyperemia and blennorrhœa. θ Angina tonsillaris. Inner throat hyperemic and blennorrheic. Varicose veins in throat. Pharynx and œsophagus inflamed ; t. Difficult swallowing. Catarrh extends over tonsils, epiglottis, glottis, into tubes. θ Angina tonsillaris. Angina tonsillaris, with suppuration, after every cold, with variola or varioloid. Severe pain in right side of throat and ear ; saliva ran from mouth in large quantities ; fauces, especially on right side, of a deep red color ; tonsils but little swollen. θ Angina. In a girl, both tonsils enlarged ; chills and heat alternately with general malaise, headache, thirst, etc. ; pulse 120 ; deglutition painful on right side, extending to ear ; tonsil red. θ Chronic hypertrophy of tonsils. Disposition to tonsillitis, with suppuration each time after taking cold. Chronic scrofulous enlargement and induration of tonsils.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "respiratory": [
-      {
-        "text": "Bronchial affection of old people with cardiac dilation. Facilitates expectoration. Great accumulation and rattling of mucus with difficult expectoration. Arterio-sclerosis of the lung, thus in senile asthma, modifies the arterial tension",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Bar. m.]. Weak, husky voice. Attacks of anxious dyspnœa ; rolls on floor, several attacks a day, also in night. θ Epilepsy, with full consciousness. Dyspnœa and oppression. Has to sit up, head bent forward ; slime and saliva runs from mouth, without cough. θ Induration of pancreas. Dry cough. Chronic cough of scrofulous children.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "stomach_abdomen": [
-      {
-        "text": "Gone feeling at epigastrium a good guiding symptom for it in chronic affections. Retching and vomiting. Sensation of heat ascending to head",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Throbbing (Selen); induration of pancreas; abdominal aneurism. Inguinal glands swollen. Spasmodic pain in rectum",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Loss of appetite. Thirst. Inclination to vomit. Retching. Vomiting in the morning, with anxiety. Vomiting of a small quantity of water, with nausea. Sickness. Pressure on the stomach, with spasm. Sensation of heat, ascending from the stomach to the chest and head. Burning pain in the stomach, with vomiting. The membranes of the stomach are of a blue red, with red spots on the muscular part. The pit of the stomach is inflamed, with isolated ecchymoses. Uneasiness, as if from worms. Burning pains in the abdomen. Tumefaction of the liver. Throbbing of tumour in abdomen. Inguinal glands swollen; painful; ulcerating.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Bar. m.]. Increased appetite. Appetite diminished. θ Glandular swelling. Desire for dry wheat bread. Glandular swelling. Much thirst, with a dry tongue. Thirst ; chill and fever alternately. θ Angina. Nausea and sickness. Retching. Nausea, with vomiting and violent colic. θ Hydrops. Nausea, retching ; slimy, watery vomiting ; t. Nausea, vomiting, with worms and colic. θ After scarlatina. Hematemesis. (In sick :) Vomiting every morning after taking it. Violent vomiting and purging, with anxiety. During six hours he vomits small quantities of a disgusting matter, looking and tasting bad. Oversensitiveness of stomach. Stomach feels heavy ; a pressure in stomach, most after eating solid food. Cramps in stomach. Great indigestion. Warm sensation rises up to chest and head. Inflammation of stomach. The fundus inflamed and several ecchymoses ; t. The mucous membrane blue red, with red spots in muscular coat ; t. External coat of stomach dark brown and inflamed. Below stomach to left side a hardness, from which paroxysms of want of breath originate. θ Induration of pancreas. Considerable hardness in region of stomach. Cardia, pylorus, duodenum inflamed, dark red, highly congested ; t. Liver and spleen full of thick black blood ; gall-bladder filled with pale yellow, watery bile ; t. Tumefaction of liver. Colic ; burning pains. Pain in region of navel ; < in morning ; dry cough ; great appetite ; slime-covered tongue. θ Ascarides. Borborygmus. Distressing throbbing in a tumor inside of abdomen. θ Abdominal aneurism. Abdomen much swollen. θ Scrofulous ulcers. Abdomen distended. θ Glandular swelling. Swelling and induration of abdominal glands. Swelling of abdomen and lower limbs. θ After scarlatina. Abdomen distended and hard. θ Scrofulosis glandulosa. Ecchymoses in colon ; t. Omenta reddened ; t. Inguinal glands swollen and painful. Fetid, ichorous ulcers in inguinal region. (OBS :) Worm diseases.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "urinary": [
-      {
-        "text": "Great increase in uric acid, diminution of chlorides",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Urine frequent, involuntary, and painful. Urine yellowish, very offensive. Flow of urine. Whitish sediment in the urine.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Cystitis. Frequent urination. (In sick :) Continual violent urging to urinate ; sometimes involuntary. Urine yellowish, of a very offensive odor. θ Glandular swelling. (In sick :) Frequent urination, whitish sediment. Urine yellowish, of great stench. θ Scrofulous glands.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "dosing": {
-      "notes": "Third trituration. Bears repetition of dosage well"
-    },
     "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Baryta Muriatica. For use dissolve one part of Barium chloride in nine parts of distilled water. General Action and Affinities :- ► See Baryta carb . ► Trembling. ► Convulsions. ► Weakness ; with laxity of muscles. ► Heaviness so that he cannot keep up. ► Immobility. ► Paralysis. ► Anxiety ; with retching. ► Headache. ► Head affected. ► Heaviness of head so that he can scarcely sit up. ► Vertigo. ► Eyes sunken. ► Eyes stiff so that he cannot move them. ► Paralysis of left lid. ► Catarrh of eyes. ► Ears and nose. ► Deafness. ► Face red. ► Face pale, with anxious expression. ► Sensitive drawing in facial muscles. Clinical :- ► Whizzing and buzzing in ears. ► Noises in ears on chewing and swallowing. ► Teeth loose. ► Toothache, first sticking then (twitching) throbbing, agg. after sleeping and after midnight, which compels him to sit up in bed. ► Tongue coated. ► Mouth and tongue dry. ► Swelling of salivary glands ; of palate. ► Salivation. ► Offensive breath, as from mercury. ► Taste bad, even to food. ► Swallowing difficult. Clinical :- ► Chronic hypertrophy of the tonsils. ► Valuable in loss of power, paresis of the pharynx and Eustachian tube, with clacking sounds on swallowing or sneezing ; air is forced into the tympanum too easily. ► Appetite lost. ► Nausea. ► Retching. ► Vomiting in morning ; V., with pain in abdomen ; of everything taken, with stringy mucus ; of small portions of nauseous-looking and tasting substance ; violent ; violent, with anxiety. ► Stomach troubles ; cramp ; pain ; warmth going to chest and head. ► Pain in abdomen ; burning. ► Burning in abdomen. ► Pinching in pelvic cavity. ► Diarrha ; painful ; profuse, without pain in abdomen. ► Stool liquid ; S. greenish and chopped ; coated with mucus. ► Micturition painful ; constant M. ; involuntary. ► Urine increased ; U. has a white sediment. ► Frequent emissions at night. ► Menstruation induced. ► Voice weak. ► Cough. ► Dyspna. ► Oppression of chest. ► Internal heat in upper part of chest. ► Heart beats irregularly, pulse scarcely perceptible. ► Pulse rapid, full. ► Pulse soft and irregular. Clinical :- ► Some remarkable cases of aneurism have been reported cured by this drug ; one particularly of the descending aorta, in which death seemed inevitable, entirely cured in six months by the 1st dec. ; there were persistent palpitation, fulness and painfulness in the chest, swelling of the thorax close to the sternum, etc. ► Pain in back. ► Swelling of hands and feet. ► Trembling of extremities, with faintness and twitchings. ► Weariness of muscles of extremities. ► Hands and feet paralyzed. ► (Extremities paralyzed, cold.). ► Twitching of arm, agg. night. ► Tension in legs. ► Cramp in toes. ► Skin inflamed. ► Eruptions, small ; itchlike, on body and throat ; itching on neck ; scurflike on abdomen and thighs. ► Scurf, profusely suppurating on scalp. ► Red pimple on side of tip of nose with biting, tickling sore sensation, with fine stitches on touching and rubbing it. ► Suppurating glands discharge more. ► Biting pain in skin. ► Tearing-burning in denuded spots. ► Cold surface ; C. extremities. ► Fever, with thirst. ► Tertian fever. ► Dry heat day and night. ► Sweat. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
       {
         "text": "color=\"#800000\">BARYTA MURIATICA Barium Chloride The different salts of Baryta are called for in organic lesions of the aged and dwarfish, both mentally and physically. Arterio-sclerosis and cerebral affections due to this condition. Headaches, but without acute crisis, occurring in old people; heaviness rather than pain. Vertigo, due to cerebral anæmia and noises in ears. Acts on lower alimentary canal, especially rectum; on muscles and joints, giving stiffness and weakness as from overwalking. The white blood corpuscles increased. Hypertension and vascular degeneration. Increased tension of pulse. Arterio-sclerosis (Aurum; Secale) where a high systolic pressure with a comparatively low diastolic tension is attended by cerebral and cardiac symptoms. This remedy has indurated and narrowing of the cardiac orifice with pain, immediately after eating, and epigastric tenderness, which has been repeatedly verified, also its use in aneurism and chronic hypertrophy of the tonsils. Nymphomania and satyriasis. Convulsions. In every form of mania when the sexual desire is increased. Icy coldness of body, with paralysis. Multiple sclerosis of brain and cord. Voluntary muscular power gone but perfectly sensible. Paresis after influenza and diphtheria. General feeling of lassitude in the morning, especially weakness of the legs, with muscular stiffness. Children who go around with their mouth open and who talk through the nose. Stupid-appearing, hard of hearing.",
         "source_id": "boericke-1927"
@@ -406,6 +337,79 @@
         "source_id": "kent-mm-1911"
       }
     ],
+    "ears": [
+      {
+        "text": "Whizzing and buzzing. Noises on chewing and swallowing, or sneezing. Earache; better sipping cold water. Parotids swollen. Offensive otorrhœa. Inflates middle ear on blowing nose",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Deafness and vomiting. Otorrhœa; odour like rotten cheese. Abscesses behind ears. Parotids (esp. r.) swollen.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Deaf, with vomiting ; headache ; burning in stomach and convulsions. Ears pain. θ Angina. Earache right side ; < lying on painful side ; > sipping cold water. Catarrh of ears. Discharge from both ears of an odor like rotten cheese. Otorrhœa after frequent otitis. Post-scarlatinal otorrhœa. Profuse purulent otorrhœa of five years' standing. Otorrhœa on both sides, offensive discharge. θ Glandular swelling. Abscess behind both ears, discharging offensive pus. θ Scrofulous ulcers. Parotis on right side swollen, with a swelling of submaxillary and cervical glands. Both parotids, most right side, swell after scarlatina. Parotis swollen hard, not very painful, but extending to edge of lower maxilla.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Difficult swallowing. Tonsils enlarged. Paresis of pharynx and eustachian tubes, with sneezing and noises. Tubes feel too wide open",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Shooting, throbbing pains in the teeth, esp. on waking, after midnight. Looseness of the teeth. Swelling of the salivary glands and of the palate. Tongue loaded. Tongue and mouth dry. Fetor of the mouth, as if from mercury. Putrid taste in the mouth, also of food. Uvula elongated. Varicose veins of throat. Suppuration of tonsils after every cold. Swallowing difficult.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "After fine stitching a pulse-like jerking and throbbing toothache ; < after midnight ; < after sleep ; is compelled to sit up in bed. Looseness of teeth, with salivation. Putrid taste in mouth, even food has a putrid taste ; tongue and mouth dry. Tongue furred. θ Glandular swelling. Tongue covered with mucus. Stench from mouth, like after mercury. Great salivation. θ Angina. Saliva runs out of mouth in large quantities, with every paroxysm. θ Induration of pancreas. (In sick :) Salivation, with looseness of teeth, swelling of salivary glands and palate, odor like from mercurialism. Swelling of salivary glands. Palate swollen. See 12. Elongation of uvula, with hyperemia and blennorrhœa. θ Angina tonsillaris. Inner throat hyperemic and blennorrheic. Varicose veins in throat. Pharynx and œsophagus inflamed ; t. Difficult swallowing. Catarrh extends over tonsils, epiglottis, glottis, into tubes. θ Angina tonsillaris. Angina tonsillaris, with suppuration, after every cold, with variola or varioloid. Severe pain in right side of throat and ear ; saliva ran from mouth in large quantities ; fauces, especially on right side, of a deep red color ; tonsils but little swollen. θ Angina. In a girl, both tonsils enlarged ; chills and heat alternately with general malaise, headache, thirst, etc. ; pulse 120 ; deglutition painful on right side, extending to ear ; tonsil red. θ Chronic hypertrophy of tonsils. Disposition to tonsillitis, with suppuration each time after taking cold. Chronic scrofulous enlargement and induration of tonsils.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "Bronchial affection of old people with cardiac dilation. Facilitates expectoration. Great accumulation and rattling of mucus with difficult expectoration. Arterio-sclerosis of the lung, thus in senile asthma, modifies the arterial tension",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Bar. m.]. Weak, husky voice. Attacks of anxious dyspnœa ; rolls on floor, several attacks a day, also in night. θ Epilepsy, with full consciousness. Dyspnœa and oppression. Has to sit up, head bent forward ; slime and saliva runs from mouth, without cough. θ Induration of pancreas. Dry cough. Chronic cough of scrofulous children.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Gone feeling at epigastrium a good guiding symptom for it in chronic affections. Retching and vomiting. Sensation of heat ascending to head",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Throbbing (Selen); induration of pancreas; abdominal aneurism. Inguinal glands swollen. Spasmodic pain in rectum",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Loss of appetite. Thirst. Inclination to vomit. Retching. Vomiting in the morning, with anxiety. Vomiting of a small quantity of water, with nausea. Sickness. Pressure on the stomach, with spasm. Sensation of heat, ascending from the stomach to the chest and head. Burning pain in the stomach, with vomiting. The membranes of the stomach are of a blue red, with red spots on the muscular part. The pit of the stomach is inflamed, with isolated ecchymoses. Uneasiness, as if from worms. Burning pains in the abdomen. Tumefaction of the liver. Throbbing of tumour in abdomen. Inguinal glands swollen; painful; ulcerating.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Bar. m.]. Increased appetite. Appetite diminished. θ Glandular swelling. Desire for dry wheat bread. Glandular swelling. Much thirst, with a dry tongue. Thirst ; chill and fever alternately. θ Angina. Nausea and sickness. Retching. Nausea, with vomiting and violent colic. θ Hydrops. Nausea, retching ; slimy, watery vomiting ; t. Nausea, vomiting, with worms and colic. θ After scarlatina. Hematemesis. (In sick :) Vomiting every morning after taking it. Violent vomiting and purging, with anxiety. During six hours he vomits small quantities of a disgusting matter, looking and tasting bad. Oversensitiveness of stomach. Stomach feels heavy ; a pressure in stomach, most after eating solid food. Cramps in stomach. Great indigestion. Warm sensation rises up to chest and head. Inflammation of stomach. The fundus inflamed and several ecchymoses ; t. The mucous membrane blue red, with red spots in muscular coat ; t. External coat of stomach dark brown and inflamed. Below stomach to left side a hardness, from which paroxysms of want of breath originate. θ Induration of pancreas. Considerable hardness in region of stomach. Cardia, pylorus, duodenum inflamed, dark red, highly congested ; t. Liver and spleen full of thick black blood ; gall-bladder filled with pale yellow, watery bile ; t. Tumefaction of liver. Colic ; burning pains. Pain in region of navel ; < in morning ; dry cough ; great appetite ; slime-covered tongue. θ Ascarides. Borborygmus. Distressing throbbing in a tumor inside of abdomen. θ Abdominal aneurism. Abdomen much swollen. θ Scrofulous ulcers. Abdomen distended. θ Glandular swelling. Swelling and induration of abdominal glands. Swelling of abdomen and lower limbs. θ After scarlatina. Abdomen distended and hard. θ Scrofulosis glandulosa. Ecchymoses in colon ; t. Omenta reddened ; t. Inguinal glands swollen and painful. Fetid, ichorous ulcers in inguinal region. (OBS :) Worm diseases.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "urinary": [
+      {
+        "text": "Great increase in uric acid, diminution of chlorides",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Urine frequent, involuntary, and painful. Urine yellowish, very offensive. Flow of urine. Whitish sediment in the urine.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Cystitis. Frequent urination. (In sick :) Continual violent urging to urinate ; sometimes involuntary. Urine yellowish, of a very offensive odor. θ Glandular swelling. (In sick :) Frequent urination, whitish sediment. Urine yellowish, of great stench. θ Scrofulous glands.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "dosing": {
+      "notes": "Third trituration. Bears repetition of dosage well"
+    },
     "relationships": {
       "_raw": [
         "Compare: Con. (indurations of abdominal glands); Iod., Kali iod. and Iris (pancreas); Selen. (pulsations in abdomen). Useful after Ars. in extravasations of blood. The vomiting is antidoted by Absinthe.",
@@ -536,6 +540,33 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Eee: Eustachian tube.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Fits and starts, pains in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Ggg: Glands, hard; Glands, knotted cords or beads, like.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Rrr: Relapses, recurrences.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Ttt: Tonsils, chronicity.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      }
+    ],
     "extremities": [
       {
         "text": "Painless jerking in arms, principally at night. Eruption like millet seed on hands. Tension in thighs. Emaciation of thighs. When kneeling, a violent stitch, followed by a peculiar tension in right patella, making it difficult to walk. θ Hemorrhagic extravasation of knee. Tension and increased warmth in knee. θ Swelling of knee. Fine stinging in and around swollen knee. A globular swelling on tip of right knee, increasing quickly but without much pain. θ Hemorrhagic swelling of knee. A round, sharply defined swelling, size of a goose egg, of a dark color and clearly fluctuating, surrounded by bluish-red spots, not disappearing on pressure, with a greenish-yellow halo. θ Hemorrhagic extravasation. Hemorrhagic extravasation in bursa patellæ. After checking foot sweat. θ Tonsillitis. Feet swollen. θ Glandular swelling. Cramps in toes. Trembling of limbs. Convulsive jerkings of hands and feet. Paralysis of upper and lower limbs. Swelling of hands and feet.",
@@ -559,8 +590,10 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879",
       "kent-lectures-1905",
       "kent-mm-1911"

@@ -1,25 +1,44 @@
 {
   "id": "convallaria-majalis",
   "names": {
-    "primary": "CONVALLARIA MAJALIS",
-    "latin": "CONVALLARIA MAJALIS",
+    "primary": "Convallaria Majalis",
+    "latin": "Convallaria Majalis",
     "common": [
-      "Lily of the Valley"
+      "Lily of the Valley",
+      "Lily-of-the-Valley",
+      "Convallaria"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Convallaria. Convallaria majalis",
+      "Convallaria magalis (LINN.)",
+      "Convallaria",
+      "Convallaria (U. S. P.)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "mental_emotional": [
       {
         "text": "Dull intellect. Grieves easily. Dull headache; worse, ascending, hawking. Scalp sensitive. Irritability. Hysterical manifestations",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "Depression. Mind wanders from subject when reading. Dull, can hardly think. Irritable when asked a question.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "face": [
       {
         "text": "Hydroa in nose and lips; raw and sore. Epistaxis. Sees imaginary gray spot about three inches square",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "Face and lips sore, crop of small hydroa, feel raw.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "mouth_throat": [
@@ -30,12 +49,20 @@
       {
         "text": "Raw feeling in back of throat when inspiring",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "Fine red points on tip of tongue. Intense redness and soreness of tongue, looks like raw beef; granular and quite clean, with tenderness of stomach. Coppery taste in mouth. Water tastes bitter.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "stomach_abdomen": [
       {
         "text": "Sensitive. Clothes feel too tight. Gurgling and pain on taking deep breath. Movement in abdomen like fist of a child. Colicky pains",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "Morning sickness and vomiting. Severe colic; pains come quickly and pass off slowly. Dull aching pain and sore feeling in hypogastrium, when coughing. Labour-like pains. Movement in abdomen like the fist of a child.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "urinary": [
@@ -48,6 +75,10 @@
       {
         "text": "Great soreness in uterine region, with sympathetic palpitation of heart. Pain in sacro-iliac joints, running down leg. Itching at urinary meatus and vaginal orifice",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "Labour-like pains in sacro-iliac joints, worse r. side, running down leg intermittently. Sensation as if a large cord extended from sacro-iliac synchondrosis to inguinal region, and this cord was pulled down by pelvic organs ( r. side); sensation as if uterus descended and retroverted, pressing on rectum and anus, pain continuous and unbearable. Soreness in uterine region with palpitation of the heart. Itching at urinary meatus and orifice of vagina.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "respiratory": [
@@ -60,12 +91,20 @@
       {
         "text": "Feeling as if heart beat throughout the chest. Endocarditis, with extreme orthopnea. Sensation as if heart ceased beating, then starting very suddenly. Palpitation from the least exertion. Tobacco heart, especially when due to cigarettes. Angina pectoris. Extremely rapid and irregular pulse",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "When exercising, fluttering at heart, lasting about a minute, then face would get red, with sensation as if heart stopped beating and would start again very suddenly, with faint, sick feeling. Pulse full, compressible, intermittent. Symptoms > after lying down.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "back": [
       {
         "text": "Pain and aching in lumbar region; aching of legs; in big toe. Trembling of hands. Aching in wrists and ankles",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "Bruised aching in back. Pain in back and wrists, gradually passing off. Chills run along back at every movement.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "fever_chill": [
@@ -89,12 +128,22 @@
       ]
     },
     "dosing": {
-      "notes": "Third attenuation, and for symptoms of heart failure, tincture, one to fifteen drops"
+      "notes": "Third attenuation, and for symptoms of heart failure, tincture, one to fifteen drops",
+      "entries": [
+        {
+          "text": "Fluid extract, herb, 10 to 30 drops. Fluid extract, whole plant, 10 to 30 drops. Fluid extract, flowers, 1/2 to 1 drachm. Russian peasants have long employed the Lily-of-the-Valley for certain forms of dropsy proceeding from a faulty heart. Special virtues were once thought to be possessed by water distilled from the flowers, which was known as Aqua aurea (Golden Water), and was deemed worthy to be preserved in vessels of gold and silver. Coles (1657) gives directions for its preparation: 'Take the flowers and steep them in New Wine for the space of a month; which being finished, take them out again and distil the wine three times over in a Limbeck. The wine is more precious than gold, for if any one that is troubled with apoplexy drink thereof with six grains of Pepper and a little Lavender water they shall not need to fear it that moneth.' Dodoens (1560) pointed out how this water 'doth strengthen the Memorie and comforteth the Harte,' and about the same time, Joachim Camerarius [Culpepper says it was Gerard who said this. - EDITOR.], a renowned physician of Nuremberg, gave a similar prescription, which Gerard quotes, saying that: 'a Glasse being filled with the flowers of May Lilies and set in an Ant Hill with the mouth close stopped for a month's space and then taken out, ye shall find a liquor in the glasse which being outwardly applied helps the gout very much.' This spirit was also considered excellent as an embrocation for sprains, as well as for rheumatism. We are told by old writers that a decoction of the bruised root, boiled in wine, is good for pestilential fevers, and that bread made of barley meal mixed with the juice is an excellent cure for dropsy, also that an ointment of the root and lard is good for ulcers and heals burns and scalds without leaving a scar. Culpepper said of the Lily-of-the-Valley: 'It without doubt strengthens the brain and renovates a weak memory. The distilled water dropped into the eyes helps inflammations thereof. The spirit of the flowers, distilled in wine, restoreth lost speech, helps the palsy, and is exceedingly good in the apoplexy, comforteth the heart and vital spirits.' The powdered flowers have been said to excite sneezing, proving serviceable in the relief of headache and earache; but to some sick people the scent of the flowers has proved harmful. In some parts of Germany, a wine is still prepared from the flowers, mixed with raisins. [ Top ] Purchase from Richters Lily of the Valley (Convallaria majalis) Plants Lily of the Valley Fragrance Oil",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "keynotes": [
       {
         "text": "color=\"#800000\">CONVALLARIA MAJALIS Lily of the Valley A heart remedy. Increases energy of hearts' action, renders it more regular. Of use when the ventricles are overdistended and dilatation begins, and when there is an absence of compensatory hypertrophy, and when venous stasis is marked. Dyspnœa, dropsy, aneuric tendency. Anasarca.",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "In early spring days, the creeping rhizome, or underground stem, sends up quill-like shoots emerging from a scaly sheath. As they lengthen and uncoil, they are seen to consist of two leaves, their stalks sheathing one within the other, rising directly from the rhizome on long, narrowing foot-stalks, one leaf often larger than the other. The plain, oval blades, with somewhat concave surfaces, are deeply ribbed and slant a little backwards, thus catching the rain and conducting it by means of the curling-in base of the leaf, as though in a spout, straight down the foot-stalk to the root. At the back of the leaves, lightly enclosed at the base in the same scaly sheath, is the flower-stalk, quite bare of leaves itself and bearing at its summit a number of buds, greenish when young, each on a very short stalk, which become of the purest white, and as they open turn downwards, the flowers hanging, like a pearl of fairy bells, each bell with the edges turned back with six small scallops. The six little stamens are fastened inside the top of the bell, and in the centre hangs the ovary. There is no free honey in the little flowers, but a sweet, juicy sap is stored in a tissue round the base of the ovary and proves a great attraction to bees, who also visit the flower to collect its pollen and who play an important part in the fertilization of the flowers. By September, the flowers have developed into scarlet berries, each berry containing vermilion flesh round a pale, hard seed. Though the plant produces fruit freely under cultivation, its propagation is mainly effected by its quickly-creeping underground stem, and in the wild state its fruit rarely comes to maturity. Its specific name, Majalis , or Maialis , signifies 'that which belongs to May,' and the old astrological books place the plant under the dominion of Mercury, since Maia, the daughter of Atlas, was the mother of Mercury or Hermes. There is an old Sussex legend that St. Leonard fought against a great dragon in the w woods near Horsham, only vanquishing it after a mortal combat lasting many hours, during which he received grievous wounds, but wherever his blood fell, Lilies-of-theValley sprang up to commemorate the desperate fight, and these woods, which bear the name of St. Leonard's Forest to this day, are still thickly carpeted with them. Legend says that the fragrance of the Lilyof-the-Valley draws the nightingale from hedge and bush, and leads him to choose his mate in the recesses of the glade. The Lily-of-the-Valley is one of the British-grown plants included in the Pharmacopoeia, and its medicinal virtues have been tested by very long experience. Although not in such general use as the Foxglove, it is still prescribed by physicians with success. Its use dates back to ancient times, for Apuleius in his Herbal written in the fourth century, declares it was found by Apollo and given by him to Æsculapius, the leech. In recent years it has been largely employed in experiments relating to the forcing of plants by means of anaesthetics such as chloroform and ether. It has been found that the winter buds, placed in the vapour of chloroform for a few hours and then planted, break into leaf and flower considerably before others not tested in this manner, the resulting plants being, moreover, exceptionally fine. The leaves yield a green dye, with lime water. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
       },
       {
         "text": "I believe the lily of the valley is to become one of our very valuable remedies. It ought to receive a Hahnemannian proving. I have used it with much satisfaction in women who complained of great soreness in the uterine region and sympathetic palpitation of the heart. It has also served me well in dropsies of cardiac origin, especially in women who have at the same time the above mentioned soreness in uterine region. I once checked the progress of a very bad case of cardiac dropsy after the effusion in the chest had so increased that the patient could not breathe when lying down, and there was much bloody expectoration. I used the 30th potency in this case, though many times very fine results follow the use of the remedy in much lower preparations. The dropsy all disappeared and she was able to be around and enjoy life very well, though the organic heart trouble was not removed.",
@@ -111,6 +160,275 @@
       {
         "text": "Ustilago maydis is also a remedy that is very useful in menorrhagia or metrorrhagia, and I think I have observed that it is best adapted to those cases where the flow is of a passive nature (Thlaspi bursa pastoris.) There is apt to be more or less pain and irritation, at the same time, in one or both ovaries. It is especially useful in these cases at the climacteric. I have cured some very bad cases, and always use both this remedy and Bovista in the 200th potency.",
         "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Convallaria. A tincture is made of the entire fresh plant of Convallaria Majalis, L. General Action :- ► In large doses it causes irregularity of heart's action vomiting and collapse ; in somewhat smaller doses it diminishes the rate of the pulse and promotes the flow of urine. ► In small doses it acts as a cardiac tonic and dissipates dropsical effusions of cardiac origin. Ally :- ► Digitalis . Generalities :- ► Feeling as if I had taken cold. ► General sick feeling. ► Sensation as if she were getting fat internally and filling up. ► Restlessness. ► Tired, bruised feeling all over body. ► Weakness ; in morning after rising ; in evening ; during the laborlike pains, with sleepiness ; with staggering ; and feeling as if recovering from a long sickness. ► Faint upon having the gums lightly touched with the point of a knife ; faint, dizzy feeling, like morning sickness on rising head from the pillow in morning, nausea amel. vomiting a clear substance tasting like phlegm. ► Aggravation from 2 to 5 P.M . ► Amelioration from eating ; after dinner ; in open air. Mind :- ► Depression. ► Grieve very easily. ► Irritable feeling when asked a question. ► Nervous feeling, with trembling of hand. ► Do not feel like talking. ► No desire to get up in the morning. ► Time passed very slowly. ► Intellect dull. ► Wandering from the subject when reading, see small words before the beginning of sentences, and the letter P is substituted for other letters. Head :- ► Aching on ascending stairs ; agg. ascending a hill ; agg. hawking ; agg. stepping heavily or jarring head, gradually passing away after supper ; agg. right temple ; with sleepiness ; as from too sound sleep, in morning, amel. lying down again, also agg. motion ; heavy, agg. vertex ; heavy, after a short walk, agg. motion. ► Dullness ; and heaviness. ► Feels weak. ► Vertigo. Forehead :- ► Pricking as from nettles at times during the day, agg. warmth. ► Aching in morning on waking, with soreness of eyeballs on motion, dizziness ; A. on jarring head ; in F. and nape when walking, agg. jar or ascending a hill ; headache beginning in F. ; in fronto-temporal region, agg. right. ► Heavy aching ; over eyes, with sleepiness. Vertex :- ► Pain ; extending to temples at 8 P.M ., amel. walking in open air. ► Dullness in right side. Eyes :- ► Dark lines under them. ► Smarting of right at noon. ► Pain every fifteen minutes from right over top of head and down right side of neck ; heavy P. in right eye and temple. ► Heaviness, wanted to keep the lids closed, but if I closed them while walking I staggered. ► Dry feeling from walking in morning till 10 A.M ., with sensation as if inner part of lids were rough. ► Upper lids feel heavy on looking up. ► All letters looked alike when reading. ► Saw gray spots about three inches square in different parts of the room on entering the house after a walk. Ears and Nose :- ► Pulsating pain in left ear, with heat in it ; sharp pulsating pain in right middle ear, and when swallowing the right tympanum seemed to bulge, amel. pressing on temporal artery in front of ear. ► Hydroa on inner edge of left nostril with feeling as if the flesh had been torn. ► Epistaxis at 2 A.M ., waking me. Face :- ► Pinched ; and sallow. ► Of a smoked color after exercising enough to cause free perspiration. ► Lips covered with sore hydroa, agg. left side. Mouth and Throat :- ► Grating on teeth in morning on waking. ► Tongue coated yellow at base, tip and sides dotted red, tip feels sore, as if scalded. ► Collection of tough, clammy mucus in mouth. ► Taste coppery. ► Suffocating sensation in throat ; at 6 P.M ., with dryness. Stomach :- ► Appetite diminished ; lost. ► Could not eat breakfast. ► Food does not seem clean or fit to eat. ► Thirst, agg. evening. ► Frequent drinking of large quantities. ► Desire for lemonade or something acid. ► Eructations of fat all the afternoon ; of fat after dinner ; of gas tasting of food ; after supper tasting of food eaten four hours before ; after eating cucumbers, tasting of the cucumbers. ► Nausea ; with cold sweat about waist ( Verat. ) ; after exercising for about ten minutes immediately after eating, with faint feeling and vomiting twice of mucus which looked and tasted like the slime from oysters. ► Vomiting. ► Weak feeling in region after dinner. Abdomen :- ► Pain ; at 6.30 P.M . when eating causing me to hold my breath, agg. beginning to eat, agg. sitting up straight or leaning back, causes sleepiness ; paroxysmal, causing desire for stool, amel. stool, four stools of natural consistency between 2 and 5 P.M . ; grumbling, as if bowels would move, sensation as if flatus could surely pass, but can retain it. ► Soreness, agg. coughing or being in a warm room, amel. open air or exercising ; S. on pressure, clothes feel tight. ► Sensation as if filling up, causing dyspna, desire to breathe deeply when sitting down, abdomen distended, but sensation as if larger than it really was. ► Uneasiness, and on going into open air pain, agg. walking ; U., then colic, causing desire for stool, stool scanty, with tenesmus. ► Weak feeling. ► Pain in right side going to left ; P. in hypochondria on deep inspiration of gaping ; in region of gall-bladder on deep breathing or raising arms. ► Gurgling in umbilical region. ► Umbilical pain in left part after a short walk ; in right side, which comes quickly and passes off slowly ; extending to left groin during dinner. Hypogastrium :- ► Pain in morning before rising, amel. stool ; P. every time he woke all night till after 5.30 A.M . ; agg. right side, with fulness and with desire for stool, the pain continued after the stool ; amel. stool, with fulness ; amel. stool, with dullness in head ; in left iliac region, amel. micturition ; intermittent, when eating. ► Sore pain on coughing and breathing deeply ; S. pain in middle at 7 P.M . after eating, it came on gradually and passed off suddenly, agg. sitting up straight ; causing me to hold my breath passing into dull ache. ► Soreness all the afternoon, agg. between 5 and 6 P.M . ; S. when eating with intermittent pain. ► Bruised sensation in right side on laughing or coughing. ► Uneasiness, with colic, then urging to stool, stool rather thin, light, smelling like decayed meat, relieving the colic, tenesmus after the stool, these symptoms occurred four times in afternoon. Sacro-iliac Synchondrosis :- ► Laborlike pains with bearing down extending across pelvis, agg. at sides, agg. sitting down, especially sitting straight or leaning back, amel. standing or leaning forward while sitting, went to sleep between the pains ; laborlike pains, agg. right side extending down inner side of right thigh, with sleepiness, as if tired also pains ran down leg, agg. motion, sitting up straight or leaning back, pain beginning in anterior part of abdomen on the right side it was the same as in the second stage of labor, but extended higher up, the pains returned afterwards, agg. sitting, extended up back and caused nausea and faint, sick feeling, with hunger, when lying on back faint, sick feeling, with hunger, when lying on back the pains were relieved, but there was a sensation as if a fetus at eight months were kicking, agg. being on the feet. ► Sensation as if a large cord were pulled down by the pelvic organs, agg. right side sensation as if uterus descended and retroverted, the fundus of the uterus pressing on rectum caused pain in anus and rectum, sensation as if rectum were full of gas, not amel. passing flatus. Clinical :- ► In pelvic congestion with sore aching pain in lower part of abdomen, especially after miscarriages or operations. ► Feeling as if uterus had descended and pressed upon rectum, causing cutting in rectum and anus, dull aching soreness in lumbar region, great prostration, pain amel. lying on back. Rectum and Anus :- ► Sore, burning sensation in anus during stool. ► Tenesmus during stool, with inactivity of rectum. ► Ineffectual desire with soreness of anus as if raw, on straining. Stool :- ► Thin ; and brown, offensive, with tenesmus and heat at anus after stool ; and offensive, twice a day, each one preceded by uneasiness in epigastrium. ► Offensive. ► Scanty, after prolonged tenesmus, which continues after the stool. ► Twice a day. Urinary Organs :- ► After micturition, aching in bladder as if over-distended, with aching and lame feeling in back after lying down. ► Frequent desire, but only a little urine was passed, which seemed scalding hot, but left no smarting. ► Frequent micturition, urine light brown, after standing over night it smells like fresh fish, slight mucous sediment. ► Urine dark ; and strong-smelling ; and offensive, acid. ► Copious urine ; and light-colored. ► Urine contained an excess of earthy phosphates ; and sugar. Sexual Organs :- ► Itching at orifice of vagina extending to meatus of urethra, then gradually all over labia, with hyperæmia, almost unbearable at 8 P.M ., agg. slightest motion of legs, amel. cold water. Respiratory Organs :- ► ► Paroxysms of hot suffocating sensation, with general perspiration. ► Dyspna on ascending a hill. ► Breath short when walking . Clinical :- ► Dyspna with pulmonary status and hydrothorax, relieved so that she could lie flat on her back ; it also caused profuse micturition. Chest :- ► Stinging beneath sternum, at about third rib, radiating in all directions for a circumference of about four inches, at 8 P.M . ► Sudden transient shooting in left nipple, leaving soreness. ► Sharp pain in nipple ; in left side, with every breath ; in right nipple, leaving soreness. ► Intermittent pain in right nipple, beginning slowly each time, increasing to 9 a sharp pain, then gradually passing off. ► Sensation as if milk were coming into right breast, then stitches which centre in nipple, from 3 to 4 P.M . Heart :- ► Sounds feeble ; with anæmic murmur over jugular veins. ► Pain in præcordial region ; in region of apex. ► Discomfort in region in afternoon. ► Uneasy feeling. ► Fluttering when exercising then redness of face and sensation as if heart stopped beating and started up again suddenly, causing faint, sick feeling. ► Beating not as hard as normal. Clinical :- ► It benefits valvular disease of heart, with scanty urine and dropsy, great dyspna, sometimes produces bloody urine. ► In several cases of heart diseases it relieved dema, so that the patient could lie down. ► In a case of very feeble, irregular action of the heart, soft irregular pulse, doses of 10 drops of 1st dec. dil. relieved the dyspna and palpitation. ► It relieved dyspna on ascending stairs or walking, in a women without organic disease. ► Heart irregular, urine suppressed, dropsy, dyspna, mitral diseases, after Conval . the heart's action was regular and the dropsy disappeared. Pulse :- ► Rapid ; when standing, and soft ; and weak ; and temperature high. ► Slow when lying, rapid on moving about the room. ► Changeable ; in frequency ( Dig. ). ► Full, compressible and intermittent, agg. motion, amel. lying ( Dig. ) ; F., compressible and imperceptible, with hand extended above head. ► Weak and easily compressed ; W., and when holding my arm above my head it was imperceptible, hand turned pale, became numb and soon went to sleep. ► Dicrotic when hand was extended above head. Back :- ► Aching after leaning over, with lame and weak feeling in dorsal region ; A. as if bruised or broken ; lame ; A. under lower angle of right scapula ; under point of left scapula on lifting arm ; sudden under lower angle of right scapula, passing off gradually, amel. bending shoulders backward, constant yawning after the pain ; sore between lower angles of scapulæ, afterwards it extended up and down spine. ► Pain in lumbar region ; as if muscles were bruised ; across region of kidneys from 2 till 4 P.M . ; agg. in right loin after a short walk, agg. motion, deep breathing or sitting up straight ; sharp, in post-sacral region ; sharp in region of right kidney, leaving soreness ; sore, in lumbar region from 5 to 10 A.M . Extremities :- ► Pain in wrists and ankles, agg. after sleep, afterwards extending about four inches up legs. ► Rheumatic pain in left elbow after going to bed, agg. motion. ► Trembling of hands. ► A small aneurism on left index, after pricking it bled profusely and was difficult to stop, the bleeding caused a faint feeling. ► Cramp on inner side of right thigh, it would come quickly and go away gradually, when riding, amel. straightening leg and pressing foot against something ; C. in left calf when turning on sitting down. ► Knees felt sore when walking. ► Legs ache ; agg. right, and below knee. ► Feet numb of first bearing weight on them, then they seemed as if filled with needles (or as if asleep). ► Aching of right great toe. Sleep :- ► Sleepiness ; after breakfast, with dullness ; at 2 P.M . after entering a warm room ; between 3 and 5 P.M ., also with weakness ; at 6 P.M . when sitting after dinner ; when sitting ; with laziness. ► Woke between 12 and 1 A.M ., was restless for two hours, with burning all over body ; woke at 2 A.M ., was restless for some time, and after a short sleep woke again very restless ; woke between 2 and 3 A.M . and was restless the remainder of the night. ► Restless sleep ; towards morning. ► Troublous dreams. Skin :- ► Rough when washing after perspiring. ► Blotches like mosquito-bites on anterior part of thigh and foot, and sides of back ; on body, with itching on undressing, so that she scratched the skin off, the itching continued after getting into bed. ► Feels sore over whole body on waking and after rising. ► Itching on anterior part of thigh. Fever :- ► Temperature lowered. ► Chill whenever I felt a little cold, with nervous feeling so that hands trembled ; C. all night, with waking twice, before rising pain in forehead and temples, agg. right side agg. motion, chills running along back on moving any part, nausea, on getting out of bed shaking chill all over body, ends of fingers pale, the rest of the hand mottled purple and white, lips purple and sore, covered with hydroa, hair sensitive to touch chill amel. heat of stove of warm coverings, water tasted bitter, no appetite, tongue felt as if scalded when drinking warm coffee, thick, clammy saliva, aching in lumbar region and legs, nausea, inability to sleep, at 10.30 A.M . chilly from a draught of air or when lying on a cold sofa, at 2 P.M . high temperature ; C. from 8 to 9 A.M ., beginning in back, soon extending all over body, amel. warm warps, chill agg. in back, when walking in the street chattering of teeth, ends of fingers white, first joint of right index numb, fever from 9 P.M . to 11.30 A.M ., then slight sweat, not much headache during chill or fever ; C. between shoulders running down back to legs, at 1 P.M ., at dinner, when sitting in a draught of chilly and damp air, ends of fingers pale and cold, C. amel. heavy warps and sitting in a room where there was no draught at 2 P.M . the C. is noticed the more the harder it rains, touching any part with anything cold will cause a C. to begin between scapulæ and pass down legs, aching at anus, with desire for stool, but only flatus passes, raw feeling posteriorly in pharynx when inspiring, amel. for a moment by hacking cough, dullness and sleepiness, with desire to go to bed, at 2.20 P.M . fever beginning in a spot between scapulæ, then extending to right side of head, then all over head and down back, the fever passes away in the reverse order from which it came, sensation as if bladder were overdistended, but micturition scanty, stool followed by tenesmus, not much thirst during chill or fever, at 4 P.M . slight sweat. ► Fever without thirst ; towards night ; F. from 8.15 until 11 A.M ., with heavy aching in forehead, aching in lumbar region as if back had been pounded, I went to bed but could not sleep, aching in legs, difficulty in hearing ears seemed stopped, could feel the heart beating throughout chest, general chilliness on moving any part, the headache agg. motion, but amel. after moving around and talking, at 11 A.M . sweat, fever, returned at 4.30 P.M ., with headache, agg. jarring or moving head, thirst during the first part of the fever, trembling of hands of legs during the fever, agg. draught of air, coppery taste, rapid pulse, heat in chest and hypochondria, weak, empty feeling in pharynx extending to stomach, dyspna, with desire to breathe deeply backache, tired after walking, with aching in legs and back and aggravation of headache, urine scanty, dark and smelling like cows urine, appetite poor, sleepiness, at 7 P.M . chills running down spine from a draught of air or drink of cold water, water felt cold all the way down sophagus, sensation as of bubbles of air passing through water from symphysis pubis to right side of hypogastrium, pain across umbilical region. ► Warm sweat all over body. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "Convallaria is a popular remedy in Russia for heart affections, and it has been introduced into old-school medicine principally as a heart remedy. It compares closely in its action with Lilium tigrinum, and also resembles its other botanical relatives, Aloe, Allium cepa, and Allium sativum. It is strongly purgative and causes morning vomiting. It has been proved, and the symptoms produced snow that its nearest analogue is Lilium tigrinum. Nash has used it in 30th with very satisfactory results in women complaining of great soreness in uterine region with sympathetic palpitation of the heart. He has also removed cardiac dropsy when this uterine soreness has been present as well. Berridge credits it with this symptom: \"Movement in the abdomen as from the fist of a child,\" like sul., Thuj., Croc. In the case of Conval. the symptom occurs \"when lying on the back.\" Sleepiness accompanies many symptoms. > In open air, in warm room (like Cepa).",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Heart, Circulation And Pulse: Heart, circulation and pulse, heart-beat and pulse, ceasing, as if.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Heart, Circulation And Pulse"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Synonym—Lily of the Valley.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "All the preparations are stable in water except the fluid extract of the root. An infusion of the entire plant was used in the most of the original investigations made. It yields good results.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The Glucoside Convallamarin is given in doses varying from 1/12 of a grain to one grain. The granules of 1/6 grain- afford an excellent form, as they may be dissolved in water if a smaller dose is desired, or one or more granules may be given at a dose.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Physiological Action—A poisonous dose to a child produced great restlessness, rolling and tossing, continuous trembling of the arms and legs, and one attack of general convulsions. There was stupor, from which the child was roused by the greatest effort, to immediately relapse into it again on being left quiet. The pupils were moderately dilated, the temperature became subnormal, the pulse rapid and exceedingly irregular. The respiration was very regular but rapid, shallow or superficial. The face was flushed. The agent induced no diuretic or diaphoretic influence in this case and no gastro-intestinal irritation. Bogoyavlenski's extensive observations of the action of convallaria upon warm-blooded animals were as follows: It induces a sudden retardation of the cardiac contractions, with increase of blood pressure. After the period of retardation there follows a strongly pronounced acceleration of the contractions with still greater increase of blood pressure, arrest of heart beat with diminution of blood pressure. When the vagi are previously divided the precursory retardation does not take place. If, during the period of acceleration of the contractions, the peripheral ends of the vagi are irritated, the usual effect on the heart is not observable.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In the left and right ventricles there was found an extravasation of blood under the endocardium. Under its influence the quantity of urine is much increased, and dropsical exudates are promptly absorbed and the weight of the patient lessened. The diuresis induced by the remedy continues long after cessation of its administration. The pulse grows fuller, more regular, and in some cases slower. It is not poisonous and has no cumulative action.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Specific Symptomatology—The direct therapeutic indications are organic heart weakness with valvular inefficiency, especially if accompanied with dropsy. It is probably an efficient remedy for dropsical infiltration wherever located, if due to inefficient heart.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—It strengthens the heart's action, slows a rapid and feeble pulse, corrects the rhyme and rhythm, improves the tone and increases the power of the heart, as evidenced by increased tonicity throughout the entire capillary circulation. It may be given for a few days and then discontinued for as many days when its influence remains. Its influence is exercised in a regular, steady and permanent manner.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Its efficiency in dropsy is evidenced when there is sluggishness of the general circulation, with extreme inefficiency of the capillary circulation and greatly diminished blood pressure. In these cases, if the kidneys are not seriously diseased, it can be made to induce extreme diuresis and give prompt relief.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It can be given with impunity and small doses should not be relied upon in extreme cases. If prompt effects are desired the tincture in full doses can be given in hot water, or an infusion of the entire herb will yield the best results.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In some cases of chronic nephritis the kidneys will fail to respond to the action of the agent. But these cases are necessarily extreme ones, as in many cases of Bright's disease most beneficial results are obtained from the use of this agent.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It overcomes general depression, favors elimination, adds power and regularity of action to the heart, overcomes distress of breathing, conduces to rest and sleep, and induces a general sense of improved well-being. It is an excellent remedy with which to improve the tone and vigor of the heart after the depressing effects of protracted fevers or violent acute inflammation, especially of the lungs and bronchi. It is useful also in the enfeebled heart of phthisis pulmonalis.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is of much value in rheumatism, especially when the heart is involved. In rheumatic carditis or pericarditis it serves a double purpose. It strengthens and improves the tone of the heart, and favors the elimination of morbific products which cause the inflammation. But few remedies will act more efficiently. If there is effusion within the pericardium its influence will be quickly observed.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "To sum up the influences of convallaria: It is used to excellent advantage in the tobacco heart from cigarette smoking; in the bicycle heart from overstrain; in asthmatic breathing from enfeebled heart, especially in chronic asthma. It does not, like digitalis, irritate the stomach unpleasantly. On the contrary, it is of much service in that form of dyspepsia in which there is extreme torpor of the stomach, with pale, flabby mucous membranes of the mouth, broad, thick tongue, with a heavy, dirty white coating. In conditions where the tongue is red and thin, with elongated papillae, redness of the tip and edges, it is contraindicated. It is contraindicated also in fatty degeneration of the heart.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Germaine mentions the following therapeutic indications:",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In palpitation resulting from a state of exhaustion of the pneumogastric nerves—cardiac paresis, the most frequent source of palpitations.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In simple cardiac arrhythmia, with or without hypertrophy of the heart, with or without lesions of the orifices or valves of the heart.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In mitral constriction, especially when it is accompanied by failure of compensation on the part of the left auricle and right ventricle, the contractile force augments visibly under the convallaria, as the sphygmograph testifies.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In mitral insufficiency, especially where there are pulmonary congestions, and when, as a consequence, there is dyspnea, with or without nervous trouble of the respiration.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In dilatation of the left ventricle, without compensatory hypertrophy, it restores energy of the heart, which tends to become more and more feeble and dilated. In dilatations of the heart, with or without fatty degeneration, with or without sclerosis of muscular tissue, the indications for convallaria majalis are clear.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In all cardiac affections indifferently, from the moment that watery infiltrations appear, convallaria has an action evident, prompt and certain.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In lesions with dyspnea the effect is less marked. To combat cardiac dyspnea, convallaria is inferior to Quebracho. The combination of convallaria majalis with iodide of potassium in the treatment of cardiac asthma constitutes one of the most useful methods of treatment. One is often obliged to suspend the employment of digitalis on account of vomiting, digestive disturbances, cerebral excitation, the dilatation of the pupil, which it so often produces after prolonged use. No such results obtain from the use of convallaria.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The whole plant, collected when in flower and dried, and also the root, herb and flowers separately. The inflorescence is said to be the most active part of the herb, and is preferred on that account, being the part usually employed. The flowers are dried on the scape or flower-stalk, the whole stalk being cut before the lowermost flowers are faded. A good price is obtainable for the flowers, and in Lincolnshire, Derbyshire, Westmorland and other counties, where the plant grows freely wild, they would pay for collecting. During the process of drying, the white flowers assume a brownish-yellow tinge, and the fragrant odour almost entirely disappears, being replaced by a somewhat narcotic scent, the taste of the flowers is bitter. If Lily-of-the-Valley flowers are thrown into oil of sweet almonds or olive oil, they impart to it their sweet smell, but to become really fragrant the infusion has to be repeated a dozen times with the same oil, using fresh flowers for each infusion.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Lily-of-the-Valley is valued as a cardiac tonic anddiuretic. The action of the drug closely resembles that of Digitalis, though it is less powerful; it is used as a substitute and strongly recommended in valvular heart disease, also in cases of cardiac debility and dropsy. It slows the disturbed action of a weak, irritable heart, whilst at the same time increasing its power. It is a perfectly safe remedy. No harm has been known to occur from taking it in full and frequent doses, it being preferable in this respect to Digitalis, which is apt to accumulate in the blood with poisonous results. It proved most useful in cases of poisonous gassing of our men at the Front. It is generally administered in the form of a tincture. The infusion of 1/2 OZ. of herb to 1 pint of boiling water is also taken in tablespoonful doses. Fluid extracts are likewise prepared from the rhizome, whole plant and flowers and the flowers have been used in powdered form. A decoction of the flowers is said to be useful in removing obstructions in the urinary canal, and it has been also recommended as a substitute for aloes, on account of its purgative quality. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "The rhizome and rootlets of Convallaria majalis, Linné (Nat. Ord. Liliaceae.)Common Name: Lily of the Valley.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Principal Constituents.—Two glucosides: convallamarin (C23H44O12), a bitter, crystalline powder, and convallarin (C34H62O11), the acrid principle.Preparation.—Specific Medicine Convallaria. Dose, 1 to 10 drops.Specific Indications.—Cardiac irregularities due to mechanical impediments; mitral insufficiency; feeble circulation and low arterial tension; dropsy of cardiac origin; palpitation and vehement heart action, with arrhythmic movements, dyspnea, and diminished arterial pressure; feeble, quickened pulse, with capillary obstruction.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—In its effects upon the human circulation convallaria closely resembles that of its more powerful congener, digitalis, without, however, causing the unpleasant disturbances occasioned by that drug. Unlike digitalis it is not cumulative, nor is it distinctly poisonous. Moreover, it has a laxative action, and like digitalis, increases diuresis secondarily, by its effects upon blood pressure.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Like digitalis, convallaria may be used where there is feeble circulation and low blood-pressure. While digitalis is the more often indicated, sometimes convallaria is more effective on account of the disturbing extravascular effects of the former. Convallaria appears to act best in those cases of circulatory failure in which there is imperfect circulation within the heart itself and probably due to capillary resistance or peripheral circulatory enfeeblement. By relieving the latter the cardiac embarrassment is removed. Convallaria slows the pulse and gives increased force to the heart-beat. It undoubtedly tones the heart muscle and strengthens its action. By the double action of augmenting the power of the heart and the tone of the vessels, as well as by its secondary effect of increasing renal activity, it acts extremely well in dropsy of cardiac origin. Palpitation and irregular heart movements, dyspnoea, diminished urinary secretion, albumen, hepatic fullness and engorgement, and edema-symptoms of this form of cardiac insufficiency, gradually disappear under small and continued doses of this drug. Moderate doses calm cardiac excitement, such as is due to overexertion and the excessive use of tobacco. Cardiac arrhythmia and hurried action of the heart are especially benefited by it.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The heart irregularities corrected by convallaria are not those due to organic degeneration, but rather those of an obstructive character, due to mechanical causes, as when the mitral valves are involved. Thus it is especially valuable in mitral insufficiency, with its attendant dyspnea and palpitation. When acting favorably the heart action becomes slower and stronger, normal rhythm is established, arterial pressure increased, respiration deepened, and the sense of suffocation, with the distressing and painful desire for air, is dispelled. A drug that will bring about these results and do it kindly is an ideal heart stimulant, and such is convallaria. Convallaria relieves the sense of praecordial oppression and faintness that so frequently follows prostrating diseases. Not alone is it a heart tonic, but a gastric tonic as well. Therefore it is indicated by the cardiac debility that follows typhoid fever, la grippe, acute articular rheumatism, and other heart-enfeebling diseases. When a heart stimulant is needed during acute rheumatism, convallaria is, as a rule, preferable to digitalis, and it is often valuable in the early stages of rheumatic carditis and endocarditis, using it in fractional doses. Convallaria is of less service in stenosis of the aorta than in mitral disorders.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Preparation: Fluid Extract of Convallaria",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"The rhizome and rootlets of Convallaria majalis, Linné\"—(U. S. P.). Nat. Ord.—Liliaceae. COMMON NAMES: Lily of the valley (Lilium convallium), May lily.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—This plant is a low, glabrous, stemless, perennial herb, with a much-branched, slender, creeping, whitish rhizome, sending up from a bud 2, sometimes 3 oblong or ovate-elliptic leaves, the petioles of which are long and sheathing, and rolled together so as to appear stalklike. The flowers are borne on an angular scape, in the form of a raceme, and are handsome, fragrant, nodding, bell-shaped, and waxy-white in color. The perianth has a recurved lobes, and is deciduous; the stamens, 6 in number, are inserted at the perianth-base. The style is stout and single, and the stigma triangular. The fruit is a few-seeded, red berry.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History and Description.—This beautiful wild flower is indigenous to Siberia, and to a large part of Europe, from the Mediterranean northward, and is found in the mountainous woods of our own country from Virginia to the Carolinas and Georgia. It blooms in May and June. The cultivated flower is somewhat larger than that of the wild species, and is a general favorite on account of its beauty and fragrance. All parts of the plant are possessed of medicinal properties, the rhizome alone being official. It is described as follows: \"Of horizontal growth and somewhat branched, about 3 Mm. (⅛ inch) thick, cylindrical, wrinkled, whitish, marked with few circular sears; at the annulate joint with about 8 or 10 long, thin roots; fracture somewhat fibrous, white; odor peculiar, pleasant; taste sweetish, bitter, and somewhat acrid\"—(U. S. P.). The flowers have a bitter, acrid taste, and the root is best when gathered in August.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chemical Composition.—The flowers of this plant contain a crystalline, odorous body, isolated in 1835 by Herberger. So powerful is its odor that headache is said to be induced by it. When much diluted it is extremely fragrant. Two glucosids were found in the root and herb by G. F. Walz in 1858 (Amer. Jour. Pharm., 1859, p. 557). The first is convallamarin (C23H44O12). It occurs as a very bitter, subsequently sweetish, amorphous or imperfectly crystalline powder, insoluble in ether, but soluble in amyl alcohol and chloroform, alcohol, wood alcohol and water. Heated with diluted acids it splits into convallamaretin and sugar. The second glucosid is convallarin (C34H62O11), the acrid principle, occurring in rectangular, prismatic crystals, which, although but little soluble in water, impart to the solution an acrid taste, and cause it when agitated to foam as if saponin were present. Alcohol readily dissolves it, while ether does not. Heating with diluted acids causes it to split into convallaretin and sugar. (See Buchner's Rep., 1835, p. 397, and Husemann and Hilger, 1884.)",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—In its effects upon the human circulatory system, convallaria very closely resembles digitalis, without, however, causing the unpleasant disturbances produced by the latter. Besides its effects upon the heart it acts upon the gastro-intestinal tract, producing emesis or purgation. The entire plant should be used to get the best effects, the flowers alone having been found quite inert. It seems well established that the failures attributed to this drug have been largely due to the poor preparations used, for it is certainly true that representative preparations have a pronounced action upon the economy. Convallamarin is decidedly toxic, death having promptly occurred from suspension of the heart action when introduced directly into the veins of the rabbit. The powdered flowers are sternutatory, and have been used in fomentations for the removal of ecchymosed spots caused by bruises. Epilepsy, worms, and miasmatic fevers have been treated with the root. The chief use of convallaria, however, is that of a heart remedy. Owing to its controlling action upon the heart it acts secondarily as a diuretic and was first employed in dropsy for this purpose by the Russians. Like digitalis, it is useful in those cases of dropsy where the cardiac debility is such that there is imperfect circulation through the organ itself, and where there is evidence of obstruction. Palpitation and irregular movements, dyspnoea, diminished renal action with increase of solids in the urine, hepatic fullness and engorgement, and oedema, are usually symptoms of this form of cardiac inefficiency. The cases of dropsy benefited, therefore, are those of cardiac origin with feeble circulation and diminished blood pressure. In small doses convallaria is a tonic to the heart, strengthening its action. Cardiac excitation is relieved by moderate doses, while large doses increase the heart action. Medium-sized doses are recommended in the early stage of carditis (Webster). Mitral insufficiency, with the attendant dyspnoea and palpitation, is considered as a proper condition for the exhibition of convallaria. When the favorable action upon the heart and vessels begins the heart-beats become slower, normal rhythm is established, heart power is increased, arterial pressure is augmented, respiration deepened, and the suffocative sensation, with the distressing and painful desire for air, is dispelled. Convallaria should be thought of in the cardiac debility following severe and exhaustive diseases, such as typhoid fever, la grippe, etc. It tends to promote a normal circulation, and relieves that sense of praecordial faintness which is apt to follow prostrating conditions. Convallaria has had no bad effects upon the cerebro-spinal tract, nor upon the digestive organs. In fact it is rather a tonic to the latter, increasing the appetite and digestive power, and acting slightly as an aperient.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Compared with digitalis, convallaria is generally as efficient, both as a heart tonic and as a diuretic, and in many cases is said to act better. It is safer than digitalis, which may destroy life by paralyzing the heart, an effect never produced by convallaria. Moreover, it is freer from cumulative effects. Vomiting, anorexia, disordered digestion, cerebral excitation, and pupillary dilatation, in addition to its acrid taste, make digitalis often an unpleasant remedy. Convallaria is free from these objections, and may be substituted whenever the former has to be withdrawn.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "It should be borne in mind that the heart irregularities benefited by this drug are not those due to organic degeneration so much as those of an obstructive character, due to mechanical causes, and particularly where the mitral valves are involved. Insufficiency or stenotic conditions of the aorta are less benefited than mitral complications. While it may be said that convallaria is never contraindicated in proper doses, it is, however, more particularly designed, according to Prof. Scudder, \"to lessen the frequency of the pulse when there is an impaired capillary circulation, as shown by ecchymosis, or by the slow return of blood when it is effaced by the finger\" (Spec. Med.). Rheumatism, when associated with disordered circulation has been relieved by it. The aqueous extract of the whole plant in doses of from 15 to 20 grains a day, is said to be an efficient form of administration (Germain-Seè); the dose of the infusion of the whole plant (ʒi to water fl℥iv) is ½ fluid ounce; of the fluid extract, 5 to 15 drops; the tincture, 5 to 30 drops; specific convallaria, 2 to 10 drops 4 times a day; convallamarin, from 1/80 to 1 grain.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Specific Indications and Uses.—Heart irregularities due to mechanical impediments; mitral insufficiency; dropsy of cardiac origin; palpitation and vehement heart action, with arrhythmical movements, dyspnoea, and diminished arterial pressure. Quickened pulse with capillary obstruction.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Species.—Polygonatum biflorum (Walter), Elliott. Convallaria biflora, Walter. Hairy Salomon's seal, Smaller Solomon's seal. Formerly the species named as growing in the United States, and as being used medicinally, was indicated as Convallaria multiflora of Linné, or Polygonatum multiflorum of Desfontaines. The only species of Polygonatum, however, growing in the United States in the territory ascribed to the preceding, are the Polygonatum biflorum, Elliott, and the Polygonatum commutatum (R. & S.) Dietrich. The former is from 8 inches to 3 feet high, and has the under surface of the leaves pubescent. It thrives in woods, on high banks, hillsides, mountains, and in thickets, from New Brunswick to Ontario and Michigan, southward to Florida and West Virginia, and westward to Kansas and Texas. It blooms from April to August.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Polygonatum commutatum (R. & S.), Dietrich (Polygonatum giganteum, Dietrich; Convallaria commutata [R. & S.]); Smooth Solomon's seal, Great Solomon's seal, Giant Solomon's seal.—A glabrous species seldom found in dry situations, but thriving in moist woods and along streams from Rhode Island to Ontario and Manitoba, southward to Georgia and Louisiana, and westward to Utah, New Mexico, and the Rocky Mountains. It blooms from May to August, and is quite variable both in size and in the form of its leaves.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Vagnera racemosa, Morong; Convallaria racemosa, Linné, Smilacina racemosa, Desfontaines); False Solomon's seal, Spiked Solomon's seal, False spikenard.—Common in copses in the United States. Rhizome thick, sweet, with a stem from 1 to 2 feet high, downy, and recurved at the top. Leaves from 4 to 6 inches long, about one-third as broad, oval, acuminate, veined, minutely pubescent, on petioles not exceeding 2 lines in length, often sessile. The flowers are very numerous, small, white, on white pedicels, with white, exserted, tapering filaments, constituting a large, compound, terminal raceme. Berry 3-celled, pale-red, speckled with purple, aromatic (W.—G.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The rhizomae of the foregoing plants are inodorous, but of a mucilaginous, somewhat sweetish taste, followed by a faint sense of bitterness.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The name Solomon's seal is derived from the peculiar seal-like scars left upon the rhizome by the decay of the stems of the previous year's growth. The True Soloman's seal is derived from the Polygonatum multiflorum, Allioni (Convallaria multiflora, Linné, and Polygonatum officinale, Allioni (Convallaria Polygonatum, Linné). Indigenous to Europe, northern Asia, and Afghanistan. Their rhizomae and plants yielded (Walz) pectin, sugar, starch, mucilage, asparagin, and convallarin.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Although used with asserted benefit in several diseases by many physicians, yet the American species of these plants have received but little attention as to their true therapeutical characteristics. They are reputed tonic, mucilaginous, and mildly astringent, exerting a specific influence upon irritated and relaxed mucous membranes. Of much value in leucorrhoea, menorrhagia, female debility, and pectoral affections. In piles, the root chewed and swallowed, or a decoction drank as freely as the stomach will bear, will give prompt relief, or the root may be applied to the part with a similar result. An infusion of the root will be of great efficacy in irritable conditions of the intestines, as well as in chronic inflammations of these parts, especially when attended with burning sensations, pain, etc. In erysipelas and cutaneous affections of an erysipelatous nature, as well as those maladies of the skin produced by the poison-vine, or resulting from the poisonous exhalations of other plants, the decoction of Solomon's seal root will afford direct relief, and an ultimate cure. It may also be applied externally, with advantage, to local inflammations. A large dose of the decoction will often provoke emesis or nausea, and act as a cathartic. Dose of the decoction, from 1 to 4 ounces, 3 times daily. Solomon's seal 4 ounces, water 2 pints, molasses 1 pint, simmered down to 1 pint, then strained and evaporated to the consistence of a thick fluid extract, and 1 ounce or ½ ounce of powdered resin mixed with it, in doses of 1 teaspoonful several times a day, forms an excellent remedy for piles. The rhizomae of the various species maybe used collectively under the term Solomon's seal.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Zygadenus venenosus, Watson. Nat. Ord.—Liliaceae. Northwestern states. The poisonous bulb of this species, according to Watson, is known to the northern Indians of this country, as Death camass. Violent spasms have been observed by Dr. S. H. Goodell from the ingestion of the plant. Several members of this genus are accredited with poisonous qualities.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "TULIPINE.—Alkaloid of Tulipa Gesneriana, or Garden tulip. A cardiac poison with pronounced sialogogue properties.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ],
+    "generalities": [
+      {
+        "text": "Flowers, leaves, whole herb.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Clinical: Diarrhœa; Heart, affections of; Herpes; Pruritus vulvæ; Vomiting (of pregnancy)",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Aching in wrists and ankles.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "habitat": [
+      {
+        "text": "It is a native of Europe, being distributed also over North America and Northern Asia, but in England it is very local as a wild flower. In certain districts it is to be found in abundance, but in many parts it is quite unknown. It is rare in Scotland and doubtfully native and only naturalized in Ireland. It grows mostly in the dryer parts of woods - especially ash woods - often forming extensive patches, and is by no means peculiar to valleys, though both the English and botanical names imply that it is so. Culpepper reports that in his time these little Lilies grew plentifully on Hampstead Heath, but Green, writing about 100 years ago, tells us that 'since the trees on Hampstead Heath, near London, have been destroyed, it has been but sparingly found there.' The Lily-of-the-Valley, with its broad leaves and fragrant little, nodding, white, bell-shaped flowers, is familiar to everyone.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "preparation": [
+      {
+        "text": "Lily-of-the-Valley is fairly easy to cultivate, preferring well-drained, rich, sandy loam, in moist situations. Plant towards the end of September. The ground for Lily-of-the-Valley should be thoroughly stirred to a depth of 15 inches, early in September, laying it up rough for a few weeks, then breaking it down and adding some rotten manure, or if that cannot be obtained, some kind of artificial manure must be used, but this is better applied later on, hoeing it in just as growth appears. Plant the crowns about 6 inches apart and work fine, rich soil, with some leaf mould if possible, in between. Leave at least 9 inches between the rows. Keep the crowns well below the surface and above all plant firmly. In some soils the plants will last longer in the best form than in others, but should be transplanted about every fourth year and in light, porous soils it may be necessary to do so every third year. Periodic transplanting, deep culture and liberal feeding produce fine blooms. Autumn is the best time for remaking beds, which are best done in entirely fresh soil. Cut the roots from the old bed out into tufts 6 inches or 9 inches square, and divide into pieces 3 inches square. Replant the tufts the original 6 inches apart. It is best to prepare the entire beds before replanting. Replanted by October, the crowns will be well settled in by winter rains, and the quality of the spikes will show a marked difference in early spring.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "constituents": [
+      {
+        "text": "The chief constituents of Lily-of-the-Valley are two glucosides, Convallamarin, the active principle, a white crystalline powder, readily soluble in water and in alcohol, but only slightly in ether, which acts upon the heart like Digitalin, and has also diuretic action, and Convallarin, which is crystalline in prisms, soluble in alcohol, slightly soluble in water and has a purgative action. There are also present a trace of volatile oil, tannin, salts, etc.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "head": [
+      {
+        "text": "Dull, heavy pains at vertex > open air. Headache with fever, jarring, > rest.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Sees imaginary grey spots about 3 in. square in different parts of the room on coming in from a walk. When reading sees small words (as \"the,\" \"it,\" \"too,\") before beginning of sentence, when they are not there. P is substituted for other letters. About every fifteen minutes, dull pains from r. eye over top of head and down r. side of neck. Eyelids heavy.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stool_rectum": [
+      {
+        "text": "Tenesmus. Slightly thin stool, brown, offensive with tenesmus and heat at anus after stool. Sensation in rectum as if full of gas, not > by passing flatus.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Blotches like mosquito-bites, itching violently, on undressing scratches till the skin comes off. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
       }
     ]
   },
@@ -118,7 +436,14 @@
   "provenance": {
     "sources": [
       "boericke-1927",
-      "nash-leaders-1899"
+      "boger-synoptic-key-1915",
+      "ellingwood-1919",
+      "grieve-modern-herbal-1931",
+      "nash-leaders-1899",
+      "allen-handbook-1889",
+      "clarke-dictionary-1900",
+      "felter-eclectic-1922",
+      "kings-american-1898"
     ]
   }
 }

@@ -1,17 +1,21 @@
 {
   "id": "stellaria-media",
   "names": {
-    "primary": "STELLARIA MEDIA",
-    "latin": "STELLARIA MEDIA",
+    "primary": "Stellaria Media",
+    "latin": "Stellaria Media",
     "common": [
       "Chickweed"
     ],
     "synonyms": [
-      "Stellaria Media",
-      "Stellaria media (CYRILL.)"
+      "Stellaria media (CYRILL.)",
+      "Stellaria"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "head": [
       {
@@ -154,6 +158,26 @@
       {
         "text": "Demulcent, refrigerant. It is held in great repute amongherbalists, used mostly in the form of an ointment. The fresh leaves have been employed as a poultice for inflammation and indolent ulcers with most beneficial results. A poultice of Chickweed enclosed in muslin is a sure remedy for a carbuncle or an external abscess. The water in which the Chickweed is boiled should also be used to bathe the affected part. Gerard tells us that: 'the leaves of Chickweed boyled in water very soft, adding thereto some hog's grease, the powder of Fenugreeke and Linseed, and a few roots of Marsh Mallows, and stamped to the forme of Cataplasme or pultesse, taketh away the swelling of the legs or any other part . . . in a word it comforteth, digesteth, defendeth and suppurateth very notably.' He says that 'the leaves boyled in vinegar and salt are good against mangines of the hands and legs, if they be bathed therewith.' Combined with Elecampane, Chickweed has also been recommended as a specific for hydrophobia, and the juice, taken internally, for scurvy. The plant chopped and boiled in lard makes a fine green cooling ointment, good for piles and sores, and cutaneous diseases. It has also been employed as an application for ophthalmia. A decoction made with the fresh plant is good for constipation, and an infusion of the dried herb is efficacious in coughs and hoarseness. The dose of the fluid extract is 10 to 60 drops. Culpepper calls it 'a fine, soft, pleasing herb, under the dominion of the Moon,' and goes on to tell us that: 'It is found to be as effectual as Purslain to all the purposes whereunto it serveth, except for meat only. The herb bruised, or the juice applied, with cloths or sponges dipped therein to the region of the liver, and as they dry to have fresh applied, doth wonderfully temper the heat of the liver and is effectual for all impostumes and swellings whatsoever; for all redness in the face, wheals, pushes, itch or scabs, the juice being either simply used, or boiled in hog's grease; the juice or distilled water is of good use for all heat and redness in the eyes ... as also into the ears.... It helpeth the sinews when they are shrunk by cramps or otherwise, and extends and makes them pliable again, by using the following methods, viz.: Boil a handful of Chickweed and a handful of dried red-rose leaves, but not distilled, in a quart of muscadine, until a fourth part be consumed; then put to them a pint of oil of trotters, or sheep's feet, let them boil a good while, still stirring them well, which being strained, anoint the grieved part therewith warm against the fire, rubbing it well with your hand, and bind also some of the herb, if you choose, to the place, and with God's blessing it will help in three times dressing.' Chickweed water is an old wives' remedy for obesity. [ Top ] Purchase from Richters Chickweed (Stellaria media) Seeds and Dried Herb",
         "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "The plant Stellaria media, Smith (Alsine media, Linné). Nat. Ord.—Caryophyllaceae. COMMON NAMES: Chickweed, Star chickweed.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—This plant is the Alsine media of Linnaeus. It is an annual or biennial weed, 6 to 15 inches in length, with prostrate, branched, brittle, round, jointed, and leafy stems, distinguished by the alternate, lateral, hairy lines, extending from joint to joint. The leaves are ovate, ovate-cordate, and glabrous; the lower on hairy petioles. Flowers small, white, in forked cymes; petals 2-parted, shorter than the calyx. Stamens varying, 3, 5, or 10 (W.—G.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History.—This is a common plant throughout the United States, growing in fields and around dwellings, in moist, shady places, probably introduced from Europe. It flowers from the beginning of spring to the end of autumn. The seeds are eaten by poultry and birds. The whole herb is used, when recent.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Chickweed appears to be a cooling demulcent. Ɣ I have seen the fresh leaves bruised and applied as a poultice to indolent, intractable ulcers on the leg, of many years' standing, with the most decided and immediately beneficial results; to be changed 2 or 3 times a day. In acute ophthalmia, the bruised leaves will likewise be found a valuable application. An ointment, made by bruising the recent leaves in fresh lard, may be used as a cooling application to erysipelatous and other forms of ulceration, as well as in many forms of cutaneous disease (J. King). A tincture of Stellaria media has been extolled in some quarters as a remedy for rheumatic pains of a fugitive and shifting character.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
       }
     ]
   },
@@ -162,7 +186,8 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
-      "grieve-modern-herbal-1931"
+      "grieve-modern-herbal-1931",
+      "kings-american-1898"
     ]
   }
 }

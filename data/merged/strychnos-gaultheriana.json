@@ -1,14 +1,17 @@
 {
   "id": "strychnos-gaultheriana",
   "names": {
-    "primary": "STRYCHNOS GAULTHERIANA",
-    "latin": "STRYCHNOS GAULTHERIANA",
+    "primary": "Strychnos Gaultheriana",
+    "latin": "Strychnos Gaultheriana",
     "common": [
       "Tropical Bind-weed (HOANG NAN)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Five drops of the tincture. May be increased to twenty"

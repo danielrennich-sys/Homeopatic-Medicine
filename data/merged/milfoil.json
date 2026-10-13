@@ -1,14 +1,19 @@
 {
   "id": "milfoil",
   "names": {
-    "primary": "Milfoil, Water",
-    "latin": "Milfoil, Water",
+    "primary": "Milfoil",
+    "latin": "Milfoil",
     "common": [
       "Milfoil, Water"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Milfoil, Water"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

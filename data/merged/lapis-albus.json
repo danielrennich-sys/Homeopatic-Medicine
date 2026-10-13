@@ -1,16 +1,17 @@
 {
   "id": "lapis-albus",
   "names": {
-    "primary": "LAPIS ALBUS",
-    "latin": "LAPIS ALBUS",
+    "primary": "Lapis Albus",
+    "latin": "Lapis Albus",
     "common": [
       "Silico-fluoride of Calcium"
     ],
-    "synonyms": [
-      "Lapis Albus"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "ears": [
       {

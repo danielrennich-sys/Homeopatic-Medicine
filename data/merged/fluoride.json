@@ -6,8 +6,20 @@
     "common": [],
     "synonyms": []
   },
-  "category": "supplement",
-  "traditional": {},
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "supplement"
+  ],
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[The Acids] We also find it indicated in dental fistulse. The discharge is bloody, and has a saltish, disagreeable taste, rendering the mouth foul, and gradually undermining the whole constitution. Fluoric acid will here relieve. There .is another remedy which has not been thoroughly proven, but which seems to act better here than the Fluoric acid, and that is the Fluoride of Calcium or Calcarea fluor ica.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Acids"
+      }
+    ]
+  },
   "evidence": {
     "summary": "Fluoride, a mineral, is naturally present in many foods and available as a dietary supplement. Fluoride is the ionic form of the element fluorine, and it inhibits or reverses the initiation and progression of dental caries (tooth decay) and stimulates new bone formation [ 1 ]. Soil, water, plants, and foods contain trace amounts of fluoride. Most of the fluoride that people consume comes from fluoridated water, foods and beverages prepared with fluoridated water, and toothpaste and other dental products containing fluoride [ 2 , 3 ]. Approximately 80% or more of orally ingested fluoride is absorbed in the gastrointestinal tract [ 1 ]. In adults, about 50% of absorbed fluoride is retained in the body, with all but 1% stored in bones and teeth [ 1 , 3 ]. The other 50% is excreted in urine [ 1 ]. In young children, up to 80% of absorbed fluoride is retained because more is taken up by bones and teeth than in adults [ 1 ]. Individual fluoride status is not typically assessed, although fluoride concentrations can be measured in plasma, saliva, urine, bones, nails, hair, and teeth [ 4 , 5 ]. Criteria for adequate, high, or low levels of fluoride in the body have not been established.",
     "studies": [
@@ -59,6 +71,7 @@
   },
   "provenance": {
     "sources": [
+      "farrington-clinical-1908",
       "ods-nih"
     ]
   }

@@ -1,15 +1,28 @@
 {
   "id": "eupatorium",
   "names": {
-    "primary": "Eupatorium (U. S. P.)",
-    "latin": "Eupatorium (U. S. P.)",
+    "primary": "Eupatorium",
+    "latin": "Eupatorium",
     "common": [
       "Eupatorium"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Eupatorium (U. S. P.)"
+    ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
+    "comparative": [
+      {
+        "text": "[The Carbon Group] Another remedy is Eupatorium perfoliatum, which I use for hoarse- ness with soreness in the larynx, trachea and bronchial tubes. The hoarseness is worse in the morning, and is apt to be associated with aching all over the body.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Carbon Group"
+      }
+    ],
     "indications": [
       {
         "text": "Preparations: Extract of Eupatorium - Fluid Extract of Eupatorium Related entries: Eupatorium Purpureum.—Queen of the Meadow",
@@ -48,6 +61,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "farrington-clinical-1908",
       "kings-american-1898"
     ]
   }

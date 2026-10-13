@@ -1,16 +1,17 @@
 {
   "id": "arsenicum-bromatum",
   "names": {
-    "primary": "ARSENICUM BROMATUM",
-    "latin": "ARSENICUM BROMATUM",
+    "primary": "Arsenicum Bromatum",
+    "latin": "Arsenicum Bromatum",
     "common": [
       "Bromide of Arsenic"
     ],
-    "synonyms": [
-      "Arsenicum Bromatum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "face": [
       {

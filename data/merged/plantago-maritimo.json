@@ -1,14 +1,17 @@
 {
   "id": "plantago-maritimo",
   "names": {
-    "primary": "Plantago maritimo",
-    "latin": "Plantago maritimo",
+    "primary": "Plantago Maritimo",
+    "latin": "Plantago Maritimo",
     "common": [
       "Plantain, Sea"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

@@ -1,14 +1,17 @@
 {
   "id": "tellurium-metallicum",
   "names": {
-    "primary": "TELLURIUM METALLICUM",
-    "latin": "TELLURIUM METALLICUM",
+    "primary": "Tellurium Metallicum",
+    "latin": "Tellurium Metallicum",
     "common": [
       "The Metal Tellurium (TELLURIUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

@@ -1,16 +1,17 @@
 {
   "id": "iodium",
   "names": {
-    "primary": "IODIUM",
-    "latin": "IODIUM",
+    "primary": "Iodium",
+    "latin": "Iodium",
     "common": [
       "Iodine (IODUM)"
     ],
-    "synonyms": [
-      "Iodium"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

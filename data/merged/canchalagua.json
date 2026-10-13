@@ -6,11 +6,12 @@
     "common": [
       "Erythraea venusta-Centaury"
     ],
-    "synonyms": [
-      "CANCHALAGUA"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -23,6 +24,20 @@
       },
       {
         "text": "That kind of pain in head and fingers which is concomitant with the attacks of intermittent fever.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Canchalagua. A tincture is prepared from the whole plant of Erythræa Chironioides, Griesb. (Gentianaceæ). ► Sore all over body, especially in lower limbs. ► That kind of pain in head and fingers which accompanies attacks of intermittent fever. ► Head feels congested. ► Pain in forehead. ► Fulness, tightness of scalp, it feels as if drawn together by india-rubber. ► Burning in left eye, then in right. ► Stitches in ears. ► Pain in ears. ► Increased buzzing and roaring in ears. ► Spitting of white mucus, with trembling and nervousness. ► Appetite increased. ► Regurgitations. ► Waterbrash. ► Ructus. ► Flatus. ► Pain in abdomen, amel. pressure. ► Loose stools, several a day. ► Constipation . ► Morning stool hard, knotty. ► Chills repeatedly down spine and all over body, agg. in bed, at night. ► Sleeplessness. ► Heat in whole body, and after the proving I could bear better the cool trade wind, usually setting in, in San Francisco, in afternoon. Clinical :- ► Most severe types of intermittent in hot countries, with a general sore and bruised feeling, nausea and retching, the skin becomes wrinkled like a washerwoman's. ► Alleviated a catarrh produced by influenza. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "color=\"#800000\">CANCHALAGUA Erythraea venusta-Centaury Used extensively as a fever remedy and bitter tonic (Gentiana), antimalarial and antiseptic. Of use in severe type of intermittent fever in hot countries; also, in influenza. Sore, as if bruised all over. Sensation of drops falling from and upon different spots.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "This is a popular Californian remedy. It is indicated in intermittents of most severe type of hot countries; general sore, bruised feeling, nausea and retching, the skin becomes wrinkled like a washerwoman's. It was proved by Dr. Richter, who experienced the following among other symptoms: Head feels congested. Scalp tight; feels as if drawn together by indiarubber. Stitches, pain, buzzing and roaring in ears. Constipation, hard, knotty stools. Chills repeatedly down back in bed, at night. Sleeplessness. After the proving, a cold wind could be borne better than before.",
         "source_id": "clarke-dictionary-1900"
       }
     ],
@@ -55,16 +70,6 @@
     "dosing": {
       "notes": "Tincture, in drop doses. Must be made from the fresh plant. Its medicinal properties are lost in the dry"
     },
-    "keynotes": [
-      {
-        "text": "color=\"#800000\">CANCHALAGUA Erythraea venusta-Centaury Used extensively as a fever remedy and bitter tonic (Gentiana), antimalarial and antiseptic. Of use in severe type of intermittent fever in hot countries; also, in influenza. Sore, as if bruised all over. Sensation of drops falling from and upon different spots.",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "This is a popular Californian remedy. It is indicated in intermittents of most severe type of hot countries; general sore, bruised feeling, nausea and retching, the skin becomes wrinkled like a washerwoman's. It was proved by Dr. Richter, who experienced the following among other symptoms: Head feels congested. Scalp tight; feels as if drawn together by indiarubber. Stitches, pain, buzzing and roaring in ears. Constipation, hard, knotty stools. Chills repeatedly down back in bed, at night. Sleeplessness. After the proving, a cold wind could be borne better than before.",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
     "relationships": {
       "_raw": [
         "Compare: The Gentians, Chi., Ipec."
@@ -117,6 +122,7 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "boericke-1927",
       "clarke-dictionary-1900"
     ]

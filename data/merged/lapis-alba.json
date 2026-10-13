@@ -1,0 +1,68 @@
+{
+  "id": "lapis-alba",
+  "names": {
+    "primary": "Lapis Alba",
+    "latin": "Lapis Alba",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Aaa: Axillæ, sweat; Axillæ, sweat, cold.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Boils, small and sore.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Chill, wet, from.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Eee: Eczema, foul.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Face, red, eyes, about.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Jjj: Joints, sores, blisters, ulcers on.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Jjj"
+      },
+      {
+        "text": "Sss: Sore; Sour; Sticky, stringy; Stomach, extending to.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Thighs, weak.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Uterus, sore; Uterus, swelled.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

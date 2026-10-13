@@ -8,8 +8,19 @@
     ],
     "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
+    "repertory": [
+      {
+        "text": "Generalities: Wasted: Watery",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ],
     "keynotes": [
       {
         "text": "A Modern Herbal | Yellow Dock Botanical.com Home Page Yellow Dock See Docks . Purchase from Richters Curled 'Yellow' Dock (Rumex crispus) Seeds and Dried Root Related Bloody Dock (Rumex sanguineus) Seeds and Plants Bronze Dock (Rumex flexuosus) Seeds",
@@ -20,6 +31,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "gentry-rubrical-mm-1890",
       "grieve-modern-herbal-1931"
     ]
   }

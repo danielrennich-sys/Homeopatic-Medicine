@@ -1,14 +1,19 @@
 {
   "id": "pyrus-aucuparia",
   "names": {
-    "primary": "Pyrus Aucuparia (GAERTN.), Sorbus Aucuparia (LINN.)",
-    "latin": "Pyrus Aucuparia (GAERTN.), Sorbus Aucuparia (LINN.)",
+    "primary": "Pyrus Aucuparia",
+    "latin": "Pyrus Aucuparia",
     "common": [
       "Ash, Mountain"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Pyrus Aucuparia (GAERTN.), Sorbus Aucuparia (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

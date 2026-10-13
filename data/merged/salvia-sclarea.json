@@ -1,14 +1,19 @@
 {
   "id": "salvia-sclarea",
   "names": {
-    "primary": "Salvia sclarea (LINN.)",
-    "latin": "Salvia sclarea (LINN.)",
+    "primary": "Salvia Sclarea",
+    "latin": "Salvia Sclarea",
     "common": [
       "Clary, Common"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Salvia sclarea (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

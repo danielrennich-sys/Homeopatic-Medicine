@@ -1,19 +1,21 @@
 {
   "id": "mercurialis-perennis",
   "names": {
-    "primary": "MERCURIALIS PERENNIS",
-    "latin": "MERCURIALIS PERENNIS",
+    "primary": "Mercurialis Perennis",
+    "latin": "Mercurialis Perennis",
     "common": [
       "Dog's Mercury",
       "Mercury, Dog's"
     ],
     "synonyms": [
-      "Mercurialis Perennis",
-      "Mercurialis perennis (LINN.)",
-      "Mercurialis perennis"
+      "Mercurialis perennis (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "head": [
       {

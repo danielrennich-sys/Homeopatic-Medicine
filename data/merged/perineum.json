@@ -1,24 +1,28 @@
 {
   "id": "perineum",
   "names": {
-    "primary": "PERINEUM",
-    "latin": "PERINEUM",
+    "primary": "Perineum",
+    "latin": "Perineum",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
-    "keynotes": [
+    "comparative": [
       {
-        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY PERINEUM. Perineum : Ag-c., Alu., Carb-an., Carb-v., Cycl., Sul. Perineum, prostate gland : Bar-c., Chin., Con., Dig., Lyc., Pho., Pul., Sabal., Sele., Sep., Stap., Sul., Thu. Perineum, prostate gland, enlarged : Cann-i., Chim., Sabal., Sil. Copyright © Médi-T 1999",
-        "source_id": "boger-synoptic-key-1915"
+        "text": "[The Carbon Group] * Perineum, moist, raw, oozing, etc.; Amnion, c, Alum, Natr. m., CARBO V., Carbo a., NITR. AC, Graph (and cracked), SuivPH., Rhus tox., Arsenic, Ant. cr. (mucous piles), THUJA (offensive oozing), SIIylCEA (moist), Sulphuric acid, Capsic, Petroleum (see also Fissures), Borax (slimy, purulent oozing), Sepia (oozing).",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Carbon Group"
       }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "boger-synoptic-key-1915"
+      "farrington-clinical-1908"
     ]
   }
 }

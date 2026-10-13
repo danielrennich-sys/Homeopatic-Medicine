@@ -1,16 +1,17 @@
 {
   "id": "yohimbinum",
   "names": {
-    "primary": "YOHIMBINUM",
-    "latin": "YOHIMBINUM",
+    "primary": "Yohimbinum",
+    "latin": "Yohimbinum",
     "common": [
       "Coryanthe Yohimbe"
     ],
-    "synonyms": [
-      "Yohimbinum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

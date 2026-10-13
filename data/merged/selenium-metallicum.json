@@ -1,14 +1,17 @@
 {
   "id": "selenium-metallicum",
   "names": {
-    "primary": "SELENIUM METALLICUM",
-    "latin": "SELENIUM METALLICUM",
+    "primary": "Selenium Metallicum",
+    "latin": "Selenium Metallicum",
     "common": [
       "The Element Selenium (SELENIUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

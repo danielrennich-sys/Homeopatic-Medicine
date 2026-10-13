@@ -1,14 +1,19 @@
 {
   "id": "alchemilla-vulgaris",
   "names": {
-    "primary": "Alchemilla vulgaris (LINN.)",
-    "latin": "Alchemilla vulgaris (LINN.)",
+    "primary": "Alchemilla Vulgaris",
+    "latin": "Alchemilla Vulgaris",
     "common": [
       "Lady's Mantle"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Alchemilla vulgaris (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

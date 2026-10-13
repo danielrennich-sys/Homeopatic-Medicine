@@ -1,14 +1,19 @@
 {
   "id": "picramnia-antidesma",
   "names": {
-    "primary": "Picramnia antidesma (S. W.)",
-    "latin": "Picramnia antidesma (S. W.)",
+    "primary": "Picramnia Antidesma",
+    "latin": "Picramnia Antidesma",
     "common": [
       "Cascara, Amarga"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Picramnia antidesma (S. W.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

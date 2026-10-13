@@ -1,14 +1,19 @@
 {
   "id": "andira-araroba",
   "names": {
-    "primary": "Andira araroba (AGUIAR.)",
-    "latin": "Andira araroba (AGUIAR.)",
+    "primary": "Andira Araroba",
+    "latin": "Andira Araroba",
     "common": [
       "Araroba"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Andira araroba (AGUIAR.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

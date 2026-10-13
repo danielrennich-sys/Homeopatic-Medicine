@@ -1,14 +1,19 @@
 {
   "id": "aloinum",
   "names": {
-    "primary": "Aloinum (U. S. P.)",
-    "latin": "Aloinum (U. S. P.)",
+    "primary": "Aloinum",
+    "latin": "Aloinum",
     "common": [
       "Aloin"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Aloinum (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

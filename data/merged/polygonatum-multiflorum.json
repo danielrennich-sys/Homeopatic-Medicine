@@ -1,14 +1,19 @@
 {
   "id": "polygonatum-multiflorum",
   "names": {
-    "primary": "Polygonatum multiflorum (ALLEM.)",
-    "latin": "Polygonatum multiflorum (ALLEM.)",
+    "primary": "Polygonatum Multiflorum",
+    "latin": "Polygonatum Multiflorum",
     "common": [
       "Solomon's Seal"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Polygonatum multiflorum (ALLEM.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

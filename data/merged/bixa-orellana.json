@@ -1,14 +1,19 @@
 {
   "id": "bixa-orellana",
   "names": {
-    "primary": "Bixa orellana (LINN.)",
-    "latin": "Bixa orellana (LINN.)",
+    "primary": "Bixa Orellana",
+    "latin": "Bixa Orellana",
     "common": [
       "Annatto"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Bixa orellana (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

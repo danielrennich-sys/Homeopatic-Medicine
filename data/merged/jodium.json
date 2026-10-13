@@ -1,14 +1,15 @@
 {
   "id": "jodium",
   "names": {
-    "primary": "JODIUM",
-    "latin": "JODIUM",
+    "primary": "Jodium",
+    "latin": "Jodium",
     "common": [],
-    "synonyms": [
-      "Jodium"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

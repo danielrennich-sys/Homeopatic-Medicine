@@ -1,14 +1,19 @@
 {
   "id": "vitellus",
   "names": {
-    "primary": "Vitellus (U. S. P.)",
-    "latin": "Vitellus (U. S. P.)",
+    "primary": "Vitellus",
+    "latin": "Vitellus",
     "common": [
       "Yolk of Egg"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Vitellus (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

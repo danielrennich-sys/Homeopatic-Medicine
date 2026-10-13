@@ -7,11 +7,13 @@
       "The Syphilitic Virus - A Nosode"
     ],
     "synonyms": [
-      "SYPHILINUM",
       "Syphilinum. (Luesinum.)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -225,6 +227,12 @@
           "text": "at night, sundown to sunrise, seashore, in summer",
           "source_id": "boericke-1927"
         }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Syph.]. No position suits him. θ Syphilitic neuralgia. Standing : pain in thigh ; soles painful ; pain in thigh <. Sitting : pain in coccyx < ; or squatting, can not on account of loss of control over knee and hip joints ; on stool > pain in head. Recumbent position : impossible with asthma. Lying : on right side causes cough ; sore throat <. Motion : pain in groins < ; raising arm pain in deltoid < ; pain in instep < ; slow, > tearing pain through body. On drawing back head : pain in chest as if skin were drawn up ; pain in neck >. Pointing toe inward : pain in instep >. Walking : pain in hip and thighs >. After midnight : weary, tired pains. From 1.30 to 3.30 A. M. : pain in instep <. Midnight until 6 A. M. : cannot sleep. Morning : lids agglutinated ; urethra as if clogged ; until 10 itching of vulva ; prostration. At 1 to 4 A. M. : attacks of dyspnœa. At 5 A. M. : diarrhœa drives her out of bed. From 11 to 1 P. M. : fever. After midday dinner : cough and dyspnœa. At 2 P. M. : pains begin, reach acme 9 P. M., continue until daybreak. From 1 to 3 P. M. : rheumatic iritis <. At 4 P. M. : headache begins. From 2 to 5 A. M. : aching in eyeball <. From 6 to 7 P. M. : sticking soreness in throat begins. At 8 or 9 P. M. : neuralgia begins. Night : headache < ; lancinating in occiput < ; delirium ; neuralgic cephalalgia < ; pain in fungous growth of eyeball < ; ophthalmic pains < ; pains in groin ; profuse urination ; frequent urging to urinate ; pain in thigh < ; acrid leucorrhœa < ; ovarian pain < ; asthma < ; cough < ; cardiac pain ; pain in spinal curvature < ; pain in back, hips and thighs < ; swelling of legs ; pains in feet < ; pain in tibia ; restlessness ; rheumatic pains < ; biting sensation. Warmth : > headache ; of bed, syphilitic eruption <. Heat of sun : < headache. Heat of stove : > pain in swollen wrist and big toe. Hot or cold things : toothache <. Hot fomentations : pains in legs <. Cold draft : rheumatic ophthalmia. Cold water : ophthalmic pains ; pains in lower extremities <. Damp weather : pains across kidneys into spermatic cord and testes ; pains in muscles. Warm and damp weather : asthma <. At seashore : bilious diarrhœa. Air : eye sensitive to ; syphilitic neuralgia. In mountains : bilious diarrhœa >. During thunderstorm : bronchial asthma <.",
+          "source_id": "hering-guiding-1879"
+        }
       ]
     },
     "dosing": {
@@ -307,6 +315,183 @@
         "text": "Great pain in head, whole body extremely cold, looked blue ; wanted to be covered with blankets, yet could not get warm, no appetite ; sleeping almost all time, could scarcely be aroused. θ Secondary syphilis. Nervous chills preceded by aching pains in head, especially occiput and in scalp over that part of head ; pains below waist, in pelvis, in legs, especially in tibia, which is sensitive to touch ; head feels heavy and sore, as if congested ; bowels torpid for five weeks ; cross, irritable, peevish ; pains commence every day about 4 P. M., culminating at midnight with delirium, and disappear at daylight. After retiring, nervous chill commencing in anus and running down legs with spasmodic sensation ; followed by distress in bowels and immediate desire for stool ; passed a little urine when chill and desire for stool ceased ; afterward profuse urination, eructations > chill. Dry, hot fever shortly after going to bed, with dry, parched lips and great thirst ; during fever intensely hot, wants to throw off covering, puts feet out of bed and against wall to cool them ; high fever in middle of day, heat being intense, with sensation as if burning up ; thirst for large quantities often, sensation of burning internal heat very marked ; fever preceded by slight chill and followed by sweat and great debility. Fever from 11 to 1 P. M. daily ; perspires when she begins to get over fever ; pain in back, < between shoulders, no ambition or desire to move. Profuse night sweats, sleepless and restless. Excessive general debility and continued night sweats, latter being most marked between scapulæ and down to waist. n.",
         "source_id": "hering-guiding-1879"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Time: Time, evening, agg.; Time, night, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Air, inspiring cold, agg.; Cold, amel.; uncovering or cold bathing or applications, amel., heat of bed, wraps, etc., agg.; Cold, and heat, agg.; Frostbite.); Motion, beginning, agg., continued, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Generalities: Dwarfish; Fine pains, needle, splinter, thread or hair, like a; Increasing and decreasing gradually, sun-pains, etc.; Motion, festination.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Mind: Mind, sadness, low spirits, melancholy, etc.; Mind, shrieks, cries, screams.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mind"
+      },
+      {
+        "text": "Head: Head, forehead, eyes, over, right; Head, fly off, as if to (vertex).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Head"
+      },
+      {
+        "text": "Eyes: Eyes, orbits.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eyes"
+      },
+      {
+        "text": "Tongue: Tongue, protruding, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Tongue"
+      },
+      {
+        "text": "Saliva: Saliva, increased, sleep, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Saliva"
+      },
+      {
+        "text": "Appetite: Appetite, variable, capricious.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Appetite"
+      },
+      {
+        "text": "Cravings And Desires: Cravings and desires, spirits, alcoholic.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Cravings And Desires"
+      },
+      {
+        "text": "Anus And Rectum: Anus and rectum, fissure.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Anus And Rectum"
+      },
+      {
+        "text": "Micturition: Micturition, involuntary, in bed, bed-wetting.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Micturition"
+      },
+      {
+        "text": "Female Organs: Female organs, abortus, habitual.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Female Organs"
+      },
+      {
+        "text": "Heart, Circulation And Pulse: Heart, circulation and pulse, burning.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Heart, Circulation And Pulse"
+      },
+      {
+        "text": "Aaa: Abdomen, large; Anger, vexation.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Back, urinating, agg.; Blood-vessels, heat in; Boils, crops of; Bones; Bones, exostoses; Bones, sawing; Brain, deep in; Bullæ.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Chronicity; Cicatrices; Cold, pains; Conical formations; Consolation, agg.; Cornea, inflamed; Crusts, conical.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Daybreak, amel.; Delirium; Deltoid; Despair; Dwarfish.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Eee: Ears, abscess; Elbows, eruption; Emaciation, atrophy, etc.; Erysipelas, wandering, creeping; Eyes, over; Eyes, over, right; Eyes, wind blowing on [[as if]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Face, tongue protruding, agg.; Fingers, runrounds; Forehead, tongue, protruding, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Ggg: Glistening.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Hands, washes the; Head, backward; Head, bald; Head, base; Head, beats the; Head, bores into pillow, drawn backward, etc.; Head, crushing in; Heart, base to apex.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Iii: Insanity, craziness.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      },
+      {
+        "text": "Lll: Leucorrha, acrid, eroding; Leucorrha, flowing down thighs; Leucorrha, itching, with; Linear pains; Lips, pouting, thick.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Mmm: Marasmus; Memory; Menses, alternate months; Menses, foul; Menses, putrid meat, like; Mottled; Mucous membranes; Mumps, septic; Muscles, knots.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Nails, distorted, crippled; Nails, run rounds; Naso-pharynx, lumps from; Neck, short [[feels]]; Nose, posterior nares, discharge; Nose, sinuses.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ooo: Offensive, body; Old age, look, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ooo"
+      },
+      {
+        "text": "Ppp: Pulse, flowing; Pulse, large; Pulse, soft; Pus, foul; Pus, green.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Rrr: Rectum, stricture.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Saliva, in sleep; Side, right, to left; Skin, biting; Skin, swelled; Stool, balls, of; Sunset, agg.; Sunset, to sunrise; Suppuration, abscess.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Taste, putrid, filthy; Teeth, edge, of gums, at; Teeth, sticky; Teeth, worm in [[as of a]]; Throat, cold, agg.; Throat, side, right; Tongue, cracked center; Tongue, patchy; Touch [[agg.]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Ulcer; Urine, frothy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vertex, throbs; Vision, diplopia, vertical; Vision, glimmering, glittering.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Www: Wash, impulse to; Weak, waking, on; Wind, as of a.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      },
+      {
+        "text": "General Analysis: COLD AND HEAT, Agg.; FINE PAINS, needle, splinter, thread or hair-like, etc.; FROST, frosty air, hoar frost, etc., Agg.; INCREASING slowly, then gradually decreasing, sun pains, etc..",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
     ]
   },
   "evidence": {},
@@ -316,6 +501,8 @@
       "allen-materia-medica-nosodes-1910",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879",
       "kent-mm-1911"
     ]

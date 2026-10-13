@@ -4,14 +4,19 @@
     "primary": "Urtica Urens",
     "latin": "Urtica Urens",
     "common": [
-      "Stinging-nettle"
+      "Stinging-nettle",
+      "Nettle"
     ],
     "synonyms": [
-      "URTICA URENS",
-      "Urtica urens"
+      "URTICA URENS Ust . USTILAGO MAIDIS Val . VALERIANA OFFICINALIS Variol . VARIOLINUM Ver-a . VERATRUM ALBUM Ver-v . VERATRUM VIRIDE Verb . VERBASCUM THAPSUS Vib . VIBURNUM OPULUS Vinc . VINCA MINOR Vio-od . VIOLA ODORATA",
+      "Urtica"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -33,6 +38,36 @@
       {
         "text": "Every year at same season : nettlerash. Right : pain in eye and parietal bone ; pain in deltoid ; rheumatic pain in arm ; muscles of arm sore ; pain in hypochondriac region ; rheumatic pain in wrist and ankle ; soreness on inside of knee joint. As from a blow in eyeballs ; as of sand in eyes ; as if bruised, muscles of right arm. Pain : in right hypochondriac region ; in right deltoid. Stitches : in spleen ; through arm. Stinging : in right eye and parietal bone ; in scrotum ; in vulva ; in nettlerash. Burning : in throat ; in anus ; in hemorrhoidal tumor ; of skin ; of nettlerash ; of erythema. Rawness : in anus. Aching : dull, in head ; dull, over eyes ; dull, in occiput. Soreness : in eyeballs ; in bowels ; in muscles of right arm ; on inside of right knee joint. Pressing : over eyes ; in eyeballs. Rheumatic pain : in right arm ; in right wrist, and in ankles. Itching : of nose ; in hemorrhoidal tumor ; of fundament ; of scrotum ; in vulva ; in hives ; of nettlerash ; erythema. Hemorrhages from various organs. Burns, when integuments and subjacent tissues are not destroyed, and when injury is confined to skin. Rheumatism attending, following, or alternating with nettlerash. Rheumatic pains < in evening. Dropsy, chronic diarrhœa, urticaria, etc. TOUCH. PASSIVE MOTION. INJURIES. [45] [Urt. u.]. Lying on arm : rheumatic pain <. Violent exertion : hæmoptysis. Burns : confined to skin. Girl, æt. 3 1/2, suffering several months ; helminthiasis. Child, æt. 4 ; helminthiasis. Girl, æt. 16 ; urticaria. Cook, æt. 33 ; scalding of arm.",
         "source_id": "hering-guiding-1879"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Urtica Urens. A tincture is made of the stinging nettle. Generalities :- ► Symptoms returned at the same time every year. Head :- ► Aching, agg. over eyes ; A., with stitches in region of spleen. ► Fulness, sensation of rush of blood and dullness ; F. all day, with giddiness, like a rush of blood. ► Pain in right side of sinciput ; and in right side of face, extending to malar-bone ; over right eye and in eyeball ; over eyes during the day and evening ; neuralgic, in right side of forehead and face at 9 P.M . ► Stinging pain in right parietal bone forcing me to rub and press it. ► Pain in occiput and over eyes. Eyes :- ► Pain in right ; in left at 3 P.M . ; in balls as from a blow, with feeling as if sand were in eyes. ► Feel weak and sore. Throat :- ► Burning ; with frequent hawking of frothy mucus ; causing cough, expectoration scanty, frothy. Stomach and Abdomen :- ► Nausea. ► Soreness of abdomen at 10 A.M . when lying, and on pressure sound as if full of water. ► Pain in left hypochondrium at 10 P.M . Anus and Stool :- ► Hæmorrhoid, with raw burning in anus during and after stool, and in afternoon and evening itching and burning. ► Stool omitted in morning, but at 2 P.M . scanty dysenteric stool, a greenish-brown slime, with urging and tenesmus, afterwards constipation, then small stool with straining, later dysentery, frequent urging, small painful stool, mucus mixed with white matter like boiled white of eggs, at times a little blood, pain in abdomen for a week ; S. omitted for three days, then six hours after Nux vom . a natural stool, for hours later several dysenteric stools of whitish slime, with pain around umbilicus, then for the next five days daily two to four white and yellow stools mixed with mucus, with colic and tenesmus. Chest and Pulse :- ► Sore feeling as from a blow in left side of chest ; intermittent soreness in right side during the day. ► Pulse accelerated by six beats. Extremities :- ► Rheumatic pain in arms and ankles, agg. right arm. ► Pain in right deltoid, agg. 9 P.M ., could not put on his coat alone, cramplike, in right deltoid in evening, agg. rotating arm inward, with soreness to touch, with rheumatic feeling in left arm, next day aggravation of the pain in right arm by lying on it, and on moving it a stitch darted through the arm, the pain extended over front of humerus, and at times a similar but lighter pain in left arm, muscles of right arm feel sore as if bruised, cannot raise or stretch right arm on account of pain, afterwards rheumatic stiffness and pain in right wrist, later rheumatic pain in left arm, wrist and fingers. ► Stiff soreness on inside of left knee. Skin :- ► ► Itching swellings all over fingers and hands , resembling \"bold hives ;\" lumps and red spots on hands and fever blisters on lips, itching. ► Heat in skin of face, arms, shoulders and chest, with formication, numbness and itching , lips, nose and ears swollen, lids so dematous that they could scarcely be opened, after awhile upper part of body as far as navel dematous and pale, transparent blisters filled with serum and looking like sudamina, becoming confluent and making the skin look wrinkled, lids closed, forming transparent, here and there bluish shining swellings as large as hen's eggs, the woman, who had had no children for three years and a half and had nursed none of her children, had at first great swelling of breasts, which discharged serum, then copious milk , urine suppressed for eight days, everything disappeared with desquamation. Sleep and Fever :- ► Drowsiness when reading. ► General heat on getting into bed, with soreness over abdomen. Clinical :- ► It has been found valuable for absence of milk after confinement ( Ricinus ). ► Pruritus of the vulva ; of the scrotum ; of the perineum. ► General urticaria, with intolerable itching and burning, especially from eating shell-fish. ► Whooping cough has been cured. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "color=\"#800000\">URTICA URENS Stinging-nettle A remedy for agalactia and lithiasis. Profuse discharge from mucous surfaces. Enuresis and urticaria. Spleen affections. Antidotes ill-effects of eating shellfish. Symptoms return at the same time every year. Gout and uric acid diathesis. Favors elimination. Rheumatism associated with urticaria-like eruptions. Neuritis.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Burnett may be said to have rediscovered Urtica as a remedy. The history of how he came to use it (Gout, p. 33) is one of the most fascinating passages of his works. As a remedy for a fit of the gout the discovery is entirely his own, and the result of great therapeutic acumen. Its use in gravel and urinary affections is very old. \"Being eaten, as Dioscorides saith, boiled with periwinkles, it maketh the body soluble, doing it by a kind of cleansing faculty: it also provoketh urine and expelleth stones out of the kidneys: being boiled with barley cream it is thought to bring up tough humours that stick in the chest.\" Gerarde, from whom I quote, mentions these other uses: (1) The juice inserted into the nostrils stops nose-bleed; it is \"good against inflammation of the uvula.\" (2) Pleurisy, pneumonia, whooping-cough. (3) Antidote to Hemlock, Mushrooms, Quicksilver, Henbane, Serpents, Scorpions. \"The leaves or seeds of any kind of nettle,\" says Gerarde, \"do work the like effect, but not with that good speed and so assured as the Roman nettle \"(U. Pilulifera). \"A bundle of nettles,\" says Cooper, \"applied to a rheumatic joint or part, has long been a favourite country remedy. A leaf of the nettle placed on the tongue and pressed to the roof of the mouth stops bleeding from the nose.\" Burnett's tincture is made of the small nettle, U. urens, which is the correct one in homœopathy. Burnett had used Urt. u. a good deal in spleen affections, and found patients under its use often passed large quantities of gravel. To a middle-aged maiden lady who had enlarged spleen, and \"who smelled so strongly of nettles that it almost nauseated me whenever it was my duty to examine her,\" Burnett gave Urt. u. Ø. Whilst taking it she passed large quantities of gravel. But this did not attract much notice, as the lady was in the habit of passing considerable quantities of gravel with her motions. Localised abdominal pain preceding such an occasion by a number of days. The painful spot, just under her spleen, she called her \"gravel-pit.\" Putting this and other points together, the fever-action of Urtica among the number, Burnett concluded that Urtica was a remedy for acute gout, which would cut short the attack \"in a safe manner, namely, by ridding the economy of the essence of the disease product, its actual suffering-producing material.\" He usually ordered five drops of the tincture in a wineglassful of quite warm water every two or three hours. Under its action the urine became more plentiful, dark, and loaded with uric acid. Burnett remarks of the nettle that it springs up everywhere near human habitations, and he has noticed it flourishing more by the side of ditches which carry off fluid sewage, \"thus possibly living to some extent on uric food.\" A very severe case of uræmia was cured by him with Urt. His discovery of its fever action was through the cure of a lady patient of his of ague (which he had not succeeded in curing) by drinking nettle-tea on the advice of her charwoman. Urt. ur. was his sheet-anchor in cases of the fevers of the East-India, Burma, and Siam. This action of Urtica, as well as its antigout action, I have had abundant opportunity of verifying. Urtica causes fever as well as cures it, and one of Burnett's patients was obliged to stop taking it: \"It sets all my pulses beating, makes me terribly giddy, makes me feel as if I was going to topple (forwards) on my head, and then a bad headache comes on; and when I take it at night, it makes me very feverish.\" When she took the dose in the morning she did not have the fever, and Burnett says, \"The fever of gout generally comes on at night.\" He has often cured vertigo with Urt. The provings of Urtica are not very extensive, but supplemented by clinical observations, the picture is fairly complete. Headache, with spleen pain; rush of blood to head; soreness of abdomen; dysentery; burning and itching of anus; œdema; urticaria; rheumatic and gouty pains, and fever were all evoked. Among the rheumatic pains a pain in the right deltoid muscle is very striking. The relation of this symptom to Burnett's use of Urt. is illustrated by the case of Dr. W. H. Proctor (A. H., xxvii. 126). The doctor was suddenly seized with agonising pain in right deltoid muscle, due, he believed, to retention of uric acid in the system. Hypodermic injections of Morphia and Atropia had to be resorted to. Then followed, for three weeks, scanty, pale urine, sour sweat, sleeplessness, restlessness, nervousness, loss of appetite, almost constant pain in deltoid with great soreness and lameness of the muscle, an intense sensation of general sickness and weakness with continued fever. Nothing did any good. Finally there appeared: An intense burning sensation in the skin after sleeping: he was afraid to go to sleep for fear of the suffering. Urt. ur. Ø was now taken. After three doses he drifted into a quiet, refreshing sleep of two or three hours and woke absolutely free from all skin irritation. The nerves were quieted and all symptoms passed away. Soon after, Proctor had an opportunity of curing a patient of lameness of the deltoid of some standing in the same expeditious way. In this case there were no additional symptoms. J. L. Nottingham (H. R., xv. 244) treated (1) Mrs. W., 38, tall, slender, with auburn hair, for eczema vulvæ with violent itching and burning, swelling and thickening of labia, smooth, pale, dry appearance of the mucous surface, a dry, scaly, fissured appearance of labia majora and skin. Thirteen years before, she had had a sinus from the right ovary emptying into the uterus. (The husband had sycotic warts on the glans penis.) Urt. ur. 1x relieved all the symptoms and removed sexual excitement induced by the itching and uncontrollable desire to rub. (2) Mr. N., 21, had swelling, stinging, burning of face, hands, and feet, with redness. Rubbing with finger-tip would leave a white line for some time. When out in the cold, damp, snowy air, hands, feet, and face became purple red, puffed, and stinging cold; going into a warm room he had increased swelling, stinging, itching all over him, especially of hands and face. Urt. ur. relieved in twenty-four hours. In four days he returned home better than he had been for years. (3) A woman with a lump in her left breast of some years' duration, was seen six weeks after childbirth, complaining of stinging pains in that part, entire absence of milk, stinging pains in whole right lower limb, with great soreness and stinging pains accompanying movements involving muscles of left side of head, cervical vertebræ, sacrum, and upper limbs, front of chest and both breasts, especially the left. She was very despondent. Act. r. relieved her, but the improvement ceased after a week. Con. improved the difficulty in moving the head but not the other symptoms. Urt. ur. was given, and after three days the breasts filled with milk and the pain was relieved. The breasts had now to be supported on account of their fulness. The right leg became natural. The action of Urt. in causing flow of milk has been often confirmed. In the case given in Allen it caused swelling of the breasts and profuse flow of milk in a woman years after the birth of her last child. Urt. is one of the best remedies for burns of the first degree, used locally and given internally. Gerarde mentions its antidotal action to snake-bites. A writer in Monats. f. Hom. of July, 1900 (H. Envoy, xi. 51) says it is the specific for bee-stings. An application of the tincture even on the most sensitive parts of the face or eyelid gives instant relief. In cases of stings about the eyes the application may have to be repeated every five minutes; and a compress must be kept on all night. Eclectics regard\" \"profuse discharge from the mucous surfaces\" as a specific indication for Urt. In Sweden nettles are regarded as a remedy for anæmia, and fresh nettles are cooked and eaten like spinach for the purpose, or a nettle-tea is prepared from dry nettles. The juice of nettles with sugar is in vogue for hæmorrhages of all kinds. Sensations of Urt. are: As from a blow in the eyeballs. As of sand in eyes. Muscles of right arm as if bruised. Burning, stinging, itching, and soreness are the principal pains. The right side very much affected; but also the left hypochondrium (spleen). The symptoms are apt to return at the same season every year. This periodicity is a point in the correspondence of Urt. to ague. The symptoms are by touch; lying on arm. Violent exertion (hæmoptysis). Lying down = soreness of bowels; > nettle-rash. Burning in skin is after sleep. From application of water. (In the one observation with U. crenulata, an attack like lockjaw was induced in a man who lightly touched the plant, and this was renewed for some days in full force whenever he put his hand in water.) Exposed to cool, moist atmosphere.─Some new symptoms of Burnett's I have marked (B) in the Schema.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. URTICA URENS. (Urtica Minora.) Natural order.- Urticaceae. Common name.- Dwarf Nettle. General Analysis.- Acts especially upon the skin, producing an inflammation very similar to nettlerash, in the treatment of which affection we find its chief use. Characteristic symptoms. Head.- (Urtica urens) Dull headache, mostly on right side. Urticaria of scalp, determining internally. Eyes.- (Urtica urens) Pressing pain in eyeballs, as from a blow. (Arn., Cimic., Ruta.) Throat.- (Urtica urens) Burning in the throat. (Ars., Canth., Caps.) Stool and Anus.- (Urtica urens) Dysenteric stools, with burning and itching in anus. Skin.- (Urtica urens) The skin of the face, arms, shoulders, and chest was affected with extremely distressing burning heat, with formication, numbness, and violent itching. (Apis.) Excessive swelling of the breasts ; discharging at first serum, afterward perfect milk ; a very copious secretion of milk lasting for eight days. Itching swellings all over the hands. Urticaria ; hives ; the skin becomes elevated, with a white central spot and a red areola, attended by stinging, burning pains ; relieved by rubbing the parts. Therapeutic Range.- (Urtica urens) Nettle rash ; hives ; suppression or deficiency of milk. Compare.- (Urtica urens) Apis, Canth., Led., Rhus tox. Copyright © Robert Séror 2003",
+        "source_id": "cowperthwaite-textbook-1891"
+      },
+      {
+        "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T URTICA URENS Nettle-rash with intolerable itching and burning, with white spots. Diarrha with the same spots. Copyright © Médi-T 2000",
+        "source_id": "guernsey-keynotes-1887"
+      },
+      {
+        "text": "Main Condensed Materia Medica. By Constantine Hering. Presented by Médi-T . URTICA URENS. [Urt. ur.] Nettle. No proving. Urticaceæ. [ 14 ] * [ 20 ] * [ 21 ] * [ 22 ] * [ 23 ] * [ 24 ] * [ 28 ] * [ 32 ] * [ 35 ] * [ 38 ] * [ 41 ] * [ 42 ] * [ 43 ] * [ 45 ] * [ 46 ] [14] Desires and Aversions. ► Loss of appetite ; itching of anus ; itching of nose ; nocturnal restlessness. [20] Stool, etc. ► Dysentery. ► Intense itching of anus from worms. [21] Urine. ► Suppressed ; upper body dematous. [22] Male Sexual Organs. ► Itching and stinging of scrotum. [23] Female Sexual Organs. ► Pruritus vulvæ. [24] Pregnancy. ► Insufficiency, or entire want of secretion of milk after parturition. ► Arrests the flow of milk after weaning. [28] Lungs. ► Hæmoptysis, from violent exertion of lungs. [32] Upper Limbs. ► Continuous pain in right deltoid. [35] Position, etc. ► Exertion : 28 . [38] Time. ► Night : 14 . [41] Attacks. ► Symptoms recur annually. [42] Sides. ► Right : 32 . [43] Sensations. ► Stinging, burning sensation, in any part. [45] Contact, Injuries, etc. ► Rubbing : 46 . [46] Skin. ► Nettle-rash : itching and burning of the skin as if scorched ; raised, red blotches ; fine, stinging points ; pale and requires constant rubbing. ► Burns involving only the skin ; intense burning, itching. ► Consequences of suppressed urticaria. Copyright © Médi-T 2005. Main",
+        "source_id": "hering-condensed-mm-1877"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Urtica urens. Hæmoptysis, from violent exertion of the lungs. Dysentery. Insufficiency, or entire want of secretion of milk after parturition. Nettle-rash. Burns. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
       }
     ],
     "head": [
@@ -132,33 +167,17 @@
           "text": "from snow-air; water, cool moist air, touch",
           "source_id": "boericke-1927"
         }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Urt. u.]. Lying down : soreness in bowels ; nettlerash >. All day : itching of scrotum. Evening : itching of fundament ; rheumatic pain <. Night : itching of scrotum.",
+          "source_id": "hering-guiding-1879"
+        }
       ]
     },
     "dosing": {
       "notes": "Tincture and lower potencies"
     },
-    "keynotes": [
-      {
-        "text": "color=\"#800000\">URTICA URENS Stinging-nettle A remedy for agalactia and lithiasis. Profuse discharge from mucous surfaces. Enuresis and urticaria. Spleen affections. Antidotes ill-effects of eating shellfish. Symptoms return at the same time every year. Gout and uric acid diathesis. Favors elimination. Rheumatism associated with urticaria-like eruptions. Neuritis.",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Burnett may be said to have rediscovered Urtica as a remedy. The history of how he came to use it (Gout, p. 33) is one of the most fascinating passages of his works. As a remedy for a fit of the gout the discovery is entirely his own, and the result of great therapeutic acumen. Its use in gravel and urinary affections is very old. \"Being eaten, as Dioscorides saith, boiled with periwinkles, it maketh the body soluble, doing it by a kind of cleansing faculty: it also provoketh urine and expelleth stones out of the kidneys: being boiled with barley cream it is thought to bring up tough humours that stick in the chest.\" Gerarde, from whom I quote, mentions these other uses: (1) The juice inserted into the nostrils stops nose-bleed; it is \"good against inflammation of the uvula.\" (2) Pleurisy, pneumonia, whooping-cough. (3) Antidote to Hemlock, Mushrooms, Quicksilver, Henbane, Serpents, Scorpions. \"The leaves or seeds of any kind of nettle,\" says Gerarde, \"do work the like effect, but not with that good speed and so assured as the Roman nettle \"(U. Pilulifera). \"A bundle of nettles,\" says Cooper, \"applied to a rheumatic joint or part, has long been a favourite country remedy. A leaf of the nettle placed on the tongue and pressed to the roof of the mouth stops bleeding from the nose.\" Burnett's tincture is made of the small nettle, U. urens, which is the correct one in homœopathy. Burnett had used Urt. u. a good deal in spleen affections, and found patients under its use often passed large quantities of gravel. To a middle-aged maiden lady who had enlarged spleen, and \"who smelled so strongly of nettles that it almost nauseated me whenever it was my duty to examine her,\" Burnett gave Urt. u. Ø. Whilst taking it she passed large quantities of gravel. But this did not attract much notice, as the lady was in the habit of passing considerable quantities of gravel with her motions. Localised abdominal pain preceding such an occasion by a number of days. The painful spot, just under her spleen, she called her \"gravel-pit.\" Putting this and other points together, the fever-action of Urtica among the number, Burnett concluded that Urtica was a remedy for acute gout, which would cut short the attack \"in a safe manner, namely, by ridding the economy of the essence of the disease product, its actual suffering-producing material.\" He usually ordered five drops of the tincture in a wineglassful of quite warm water every two or three hours. Under its action the urine became more plentiful, dark, and loaded with uric acid. Burnett remarks of the nettle that it springs up everywhere near human habitations, and he has noticed it flourishing more by the side of ditches which carry off fluid sewage, \"thus possibly living to some extent on uric food.\" A very severe case of uræmia was cured by him with Urt. His discovery of its fever action was through the cure of a lady patient of his of ague (which he had not succeeded in curing) by drinking nettle-tea on the advice of her charwoman. Urt. ur. was his sheet-anchor in cases of the fevers of the East-India, Burma, and Siam. This action of Urtica, as well as its antigout action, I have had abundant opportunity of verifying. Urtica causes fever as well as cures it, and one of Burnett's patients was obliged to stop taking it: \"It sets all my pulses beating, makes me terribly giddy, makes me feel as if I was going to topple (forwards) on my head, and then a bad headache comes on; and when I take it at night, it makes me very feverish.\" When she took the dose in the morning she did not have the fever, and Burnett says, \"The fever of gout generally comes on at night.\" He has often cured vertigo with Urt. The provings of Urtica are not very extensive, but supplemented by clinical observations, the picture is fairly complete. Headache, with spleen pain; rush of blood to head; soreness of abdomen; dysentery; burning and itching of anus; œdema; urticaria; rheumatic and gouty pains, and fever were all evoked. Among the rheumatic pains a pain in the right deltoid muscle is very striking. The relation of this symptom to Burnett's use of Urt. is illustrated by the case of Dr. W. H. Proctor (A. H., xxvii. 126). The doctor was suddenly seized with agonising pain in right deltoid muscle, due, he believed, to retention of uric acid in the system. Hypodermic injections of Morphia and Atropia had to be resorted to. Then followed, for three weeks, scanty, pale urine, sour sweat, sleeplessness, restlessness, nervousness, loss of appetite, almost constant pain in deltoid with great soreness and lameness of the muscle, an intense sensation of general sickness and weakness with continued fever. Nothing did any good. Finally there appeared: An intense burning sensation in the skin after sleeping: he was afraid to go to sleep for fear of the suffering. Urt. ur. Ø was now taken. After three doses he drifted into a quiet, refreshing sleep of two or three hours and woke absolutely free from all skin irritation. The nerves were quieted and all symptoms passed away. Soon after, Proctor had an opportunity of curing a patient of lameness of the deltoid of some standing in the same expeditious way. In this case there were no additional symptoms. J. L. Nottingham (H. R., xv. 244) treated (1) Mrs. W., 38, tall, slender, with auburn hair, for eczema vulvæ with violent itching and burning, swelling and thickening of labia, smooth, pale, dry appearance of the mucous surface, a dry, scaly, fissured appearance of labia majora and skin. Thirteen years before, she had had a sinus from the right ovary emptying into the uterus. (The husband had sycotic warts on the glans penis.) Urt. ur. 1x relieved all the symptoms and removed sexual excitement induced by the itching and uncontrollable desire to rub. (2) Mr. N., 21, had swelling, stinging, burning of face, hands, and feet, with redness. Rubbing with finger-tip would leave a white line for some time. When out in the cold, damp, snowy air, hands, feet, and face became purple red, puffed, and stinging cold; going into a warm room he had increased swelling, stinging, itching all over him, especially of hands and face. Urt. ur. relieved in twenty-four hours. In four days he returned home better than he had been for years. (3) A woman with a lump in her left breast of some years' duration, was seen six weeks after childbirth, complaining of stinging pains in that part, entire absence of milk, stinging pains in whole right lower limb, with great soreness and stinging pains accompanying movements involving muscles of left side of head, cervical vertebræ, sacrum, and upper limbs, front of chest and both breasts, especially the left. She was very despondent. Act. r. relieved her, but the improvement ceased after a week. Con. improved the difficulty in moving the head but not the other symptoms. Urt. ur. was given, and after three days the breasts filled with milk and the pain was relieved. The breasts had now to be supported on account of their fulness. The right leg became natural. The action of Urt. in causing flow of milk has been often confirmed. In the case given in Allen it caused swelling of the breasts and profuse flow of milk in a woman years after the birth of her last child. Urt. is one of the best remedies for burns of the first degree, used locally and given internally. Gerarde mentions its antidotal action to snake-bites. A writer in Monats. f. Hom. of July, 1900 (H. Envoy, xi. 51) says it is the specific for bee-stings. An application of the tincture even on the most sensitive parts of the face or eyelid gives instant relief. In cases of stings about the eyes the application may have to be repeated every five minutes; and a compress must be kept on all night. Eclectics regard\" \"profuse discharge from the mucous surfaces\" as a specific indication for Urt. In Sweden nettles are regarded as a remedy for anæmia, and fresh nettles are cooked and eaten like spinach for the purpose, or a nettle-tea is prepared from dry nettles. The juice of nettles with sugar is in vogue for hæmorrhages of all kinds. Sensations of Urt. are: As from a blow in the eyeballs. As of sand in eyes. Muscles of right arm as if bruised. Burning, stinging, itching, and soreness are the principal pains. The right side very much affected; but also the left hypochondrium (spleen). The symptoms are apt to return at the same season every year. This periodicity is a point in the correspondence of Urt. to ague. The symptoms are by touch; lying on arm. Violent exertion (hæmoptysis). Lying down = soreness of bowels; > nettle-rash. Burning in skin is after sleep. From application of water. (In the one observation with U. crenulata, an attack like lockjaw was induced in a man who lightly touched the plant, and this was renewed for some days in full force whenever he put his hand in water.) Exposed to cool, moist atmosphere.─Some new symptoms of Burnett's I have marked (B) in the Schema.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. URTICA URENS. (Urtica Minora.) Natural order.- Urticaceae. Common name.- Dwarf Nettle. General Analysis.- Acts especially upon the skin, producing an inflammation very similar to nettlerash, in the treatment of which affection we find its chief use. Characteristic symptoms. Head.- (Urtica urens) Dull headache, mostly on right side. Urticaria of scalp, determining internally. Eyes.- (Urtica urens) Pressing pain in eyeballs, as from a blow. (Arn., Cimic., Ruta.) Throat.- (Urtica urens) Burning in the throat. (Ars., Canth., Caps.) Stool and Anus.- (Urtica urens) Dysenteric stools, with burning and itching in anus. Skin.- (Urtica urens) The skin of the face, arms, shoulders, and chest was affected with extremely distressing burning heat, with formication, numbness, and violent itching. (Apis.) Excessive swelling of the breasts ; discharging at first serum, afterward perfect milk ; a very copious secretion of milk lasting for eight days. Itching swellings all over the hands. Urticaria ; hives ; the skin becomes elevated, with a white central spot and a red areola, attended by stinging, burning pains ; relieved by rubbing the parts. Therapeutic Range.- (Urtica urens) Nettle rash ; hives ; suppression or deficiency of milk. Compare.- (Urtica urens) Apis, Canth., Led., Rhus tox. Copyright © Robert Séror 2003",
-        "source_id": "cowperthwaite-textbook-1891"
-      },
-      {
-        "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T URTICA URENS Nettle-rash with intolerable itching and burning, with white spots. Diarrha with the same spots. Copyright © Médi-T 2000",
-        "source_id": "guernsey-keynotes-1887"
-      },
-      {
-        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Urtica urens. Hæmoptysis, from violent exertion of the lungs. Dysentery. Insufficiency, or entire want of secretion of milk after parturition. Nettle-rash. Burns. Copyright © Médi-T 2006",
-        "source_id": "lippe-textbook-mm-1866"
-      }
-    ],
     "relationships": {
       "_raw": [
         "Antidoted by: Dock leaves (Rumex obtus.) rubbed on the stung part lessen the pain; also the nettle's own juice, and the juice from the common snail. Antidote to: Apis (bee-stings). Compare: Gout, fever, spleen, Nat m. Dropsy, uræmia, gravel, gout, Ur. ac., Urea, Urinum. [The relation of Urt. to Nat. m. and Urinum is interesting in connection with the fact that nettles do not grow at any distance from human dwellings or away from parts where animals are fed. Schlegel asks (H. R., xii. 179), is this due to the wetting of the soil with urine? He says yes; and queries further, if the salt in the urine is the efficient agent, recalling the fact that Barbarossa, after destroying Milan, strewed salt over the ruins \"so that nettles might grow there.\" Schlegel remarks that the briny waves produce stinging nettles of their own in the shape of Medusæ.] Fever, vertigo, spleen, Querc. Spleen, Cean. Rheumatism of right deltoid, Sang. Secretion of milk, Ric., Puls. Urticaria, Apis, Nat. m., Ast. fl., Medusa, Homar, Pariet.",
@@ -227,6 +246,98 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Snow air, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Generalities: Burning-stinging.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Mammæ: Mammæ, milk, scant, absent, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mammæ"
+      },
+      {
+        "text": "Aaa: Air, cool, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Burning, stinging; Burns.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Fff: Fever, nightly; Fever, vertigo, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Ggg: Genitals, itching, burning; Gout; Gout, acute.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Hæmorrhage; Hives; Hives, shell fish, after.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Mmm: Mammæ; Mammæ, swelled.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Nettle rash.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Pinworms; Prickly heat; Prurigo; Pruritus, senilis; Pulsation, fever, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Rrr: Rheumatism, hives, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Ttt: Thighs, weak.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Uric acid diathesis, lithæmia; Urine, acrid; Urine, itching, causing; Urticaria; Urticaria, ascarides, with; Urticaria, shell fish, from.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vesicles.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "General Analysis: JOINTS, arthritic complaints, etc..",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      },
+      {
+        "text": "Generalities: Pain: Stinging, burning sensations",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Illusory: Stinging, burning sensations",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ],
     "nose": [
       {
         "text": "Itching of nose.",
@@ -250,18 +361,99 @@
         "text": "Goitre.",
         "source_id": "hering-guiding-1879"
       }
+    ],
+    "indications": [
+      {
+        "text": "The leaves and root of Urtica dioica, Linné (Nat. Ord. Urticaceae). Common in Europe and the United States. Dose, 20 to 40 grains. Common Names: Nettle, Stinging Nettle.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Principal Constituents.—A volatile oil, tannic and gallic acids, and probably formic acid. Preparation.—Specific Medicine Urtica. Dose, ½ to 20 drops. Specific Indications.—Excessive mucous discharges; choleraic discharges; profuse gastric secretion, with eructations and vomiting; eczema of infants.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—External. Contact with growing nettle produces an intense stinging, probably due to an unorganized ferment in the hairs of the plant, though by some formic acid is believed to be the irritating substance. A lotion of Specific Medicine Urtica, 2 fluidrachms; Rose Water, enough to make 2 fluidounces, is reported to have been effective in stubborn eczema of the face and scalp. The crusts should first be removed by means of olive oil and asepsin soap. Its internal use should accompany its external application.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Internal. Profuse choleraic and excessive mucous discharges, as in cholera infantum and dysentery, are reputed to have been controlled by urtica, while it also has a restraining effect in gastric affections with excessive gastric secretion, and eructations, and vomiting. Chronic cystitis, with large mucous diuresis, is also asserted to have been benefited by it.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Preparations: Fluid Extract of Urtica",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The leaves and root of Urtica dioica, Linné. Nat. Ord.—Urticaceae. COMMON NAMES: Nettle, Stinging nettle, Great stinging nettle.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—This plant is a perennial, herbaceous, dull-green plant, armed with minute rigid hairs or prickles, which transmit a venomous fluid when pressed. The stem is obtusely 4-angled, branching, 2 to 4 feet high, arising from a creeping and branching root, with fleshy shoots and many fibers. The leaves are opposite, petiolate, cordate, lance-ovate, spreading, conspicuously acuminate, coarsely and acutely serrate, the point entire, armed with stings, and are 3 or 4 inches long, and about half as wide. The flowers are small, green, monoecious or dioecious, in branching, clustered, axillary, interrupted spikes, longer than the petioles (W.—L.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History and Chemical Composition.—This is a well-known plant, common to Europe and the United States, growing in waste places, by woodsides, in hedges, and in gardens, flowering from June to September. A decoction of the plant, strongly salted, will quickly coagulate milk without imparting to it any unpleasant flavor. The leaves and root are generally used, and yield their virtues to water. A fabric, known as nettle-cloth, has been woven from the bast fibers of nettle. The young shoots have been boiled and eaten as a remedy for scurvy. The irritation caused by rubbing the sharp hairs of the nettle on the skin, is believed to be caused by the free formic acid which they contain (Gorup-Besanez, Amer. Jour. Pharm., 1850, p. 181). According to G. Haberlandt (1886), the poisonous action of the hairs of the stinging nettle is not due to formic acid, but to an unorganized ferment or enzyme. Mr. B. Shoemaker (Amer. Jour. Pharm., 1866, p. 493), who has found starch, gum, albumen, lignin, sugar, and two resins, in the root, believes the diuretic properties of the root to be due to a warm, penetrating, volatile oil. The leaves contain tannic and gallic acids, gum, wax, etc. (Saladin, 1830). L. Reuter (Amer. Jour. Pharm., 1890, p. 11, from Pharm. Centralh., 1890) found the leaves of U. urens and U. dioica and the seeds of U. pilulifera to contain a non-nitrogenous glucosid, giving precipitates with some alkaloidal reagents. The juice of the fresh plant is said to evolve nitrous fumes upon being heated. This is probably due to the action of formic acid upon nitrates (E. Giustianini, Jahresb. der Pharm., 1896, p. 239).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Common nettle is astringent, tonic, and diuretic. A decoction is valuable in diarrhoea and dysentery, with profuse discharges, and in hemorrhoids, various hemorrhages, and scorbutic affections, and has been recommended in febrile affections, gravel, and other nephritic complaints. A strong syrup made of the root, combined with suitable quantities of wild-cherry bark and blackberry root, forms an excellent remedy for all summer complaints of children, and bowel affections of adults. In cholera infantum and other summer disorders of children, with profuse watery or mucous discharges, the following treatment gives excellent results: Rx Specific urtica, ʒss; water, ℥iii. Mix. Dose, a teaspoonful, every 1 or 2 hours. It is especially applicable in chronic diseases of the colon, with increased secretion of mucus. The leaves of the fresh plant stimulate, inflame, and even raise blisters on those portions of the skin with which they come in contact, and have, in consequence, been used as a powerful rubefacient. Paralysis is said to have been cured by whipping the affected limbs with them. Applied to bleeding surfaces, they are an excellent styptic. The seeds and flowers, given in wine, in doses not to exceed 1 drachm, have been reputed equal to cinchona in tertian and quartan agues—larger doses will, it is said, induce a lethargic sleep. The seeds, in doses of 14 or 16, and repeated 3 times daily, are highly recommended as a remedy for goitre, and to reduce excessive corpulence; they are also considered anthelmintic. The seeds may also be prepared in strong tincture with full strength alcohol, the dose of which, for goitre, would be from a fraction of a drop to 10 drops. Dr. J. D. McCann (Ec. Med. Gleaner, 1893, p. 62) praises this agent as a remedy for eczematous affections, and relates a case of stubborn eczema of the face, neck, and ears that was readily and completely cured by the following local application: Rx Specific urtica, flʒii; rose water, fl℥i. Mix. Apply every 3 or 4 hours. Several other cases have also yielded to it. A child with \"a crust-covered head, with here and there a bleeding surface,\" that had long resisted treatment, yielded in a short time to softening applications of olive oil, thorough ablutions with soap and water, drying the parts, and applying the solution as above recommended. Some physicians prescribe the remedy internally at the same time that they are using it locally. It is also a remedy for chronic cystitis, with mucous discharges. Warts, rubbed with the freshly expressed juice of this plant, 3 or 4 times a day, continuing the application daily for 10 or 12 days, disappear without any pain being produced (M. Jaroschevitz). Dose of the powdered root or leaves, from 20 to 40 grains; of the decoction, from 2 to 4 fluid ounces; of specific urtica, 1/10 to 10 drops.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Specific indications and Uses.—Chronic diarrhoea and dysentery, with large mucous evacuations; profuse secretion of gastric juice, with eructations and emesis; choleraic discharges; summer bowel diseases. of children, with copious watery and mucous passages; chronic eczematous eruptions.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Species.—Urtica urens, Linné, or Dwarf nettle, possesses similar properties, and has been found very efficient in uterine hemorrhage. It also allays urethral and cystic irritation. It is also reputed galactagogue. It has a branching, hispid, stinging stem, 1 or 2 feet high, with broadly elliptic, acutely serrate leaves, about 5-veined, on short petioles, 1 or 2 inches long, and about two-thirds as broad. Flowers in drooping, pedunculate, nearly simple clusters, 2 in each axil, and shorter than the petioles. This is an annual, introduced from Europe (AV.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Pilea pumila, Gray (Urtica pumila), Cool-weed, Rich-weed, or Stingless nettle, has a peculiar, grateful, strong smell, indicating active properties. The herb contains a crystallizable glucosid, and an aromatic, vanilla-like substance (F. R. Weiser, Amer. Jour. Pharm., 1888, p. 390). It is stated that the leaves, bruised, give immediate relief in inflammations, painful swellings, ecchymoses, erysipelas, and the topical poison of rhus; and that an ointment made from it is beneficial in inflammatory rheumatism. This is the Pilea pumila of Lindley, and has a smooth, shining, ascending, weak and succulent, often branched, and translucent stem, 4 to 18 inches high, and, together with the whole plant, destitute of stings. Leaves on long petioles, opposite, rhombic-ovate, crenate-serrate, membranaceous, glabrous, pointed, 3-nerved, about 2 inches long, and two-thirds as broad. Flowers monoecious, triandrous, in axillary, corymbed heads, shorter than the petioles. Sepals of the fertile flowers lanceolate, and a little unequal. This plant is worthy of further investigation (W.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Laportea canadensis, Gaudichaud (Urtica canadensis, Linné), has strong bast fibers and stinging hairs, and is adapted to use in making cordage. Other plants yielding cordage-fibers are the RAMIE (Boehmeria nivea, Hooker and Arnott., used in manufacturing Chinese grass-cloth. The variety candicans of Weddell, yields the fiber known as rhea. The fibers of these plants are often woven with silk, or substituted therefor. Urtica cannabina, Linné, a Siberian species, is also cultivated for its fibers.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Urtica stimulans, Linné; Urtica crenulata, Roxburgh;and Urtica urentissima, Blume, all of India, are extremely irritating plants, more so than common stinging nettle.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Lamium album (Urtica iners, or Urtica mortua; Nat. Ord.—Labiatae), Henbit. Florain isolated from this plant a principle which he named lamine. The plant has been used, domestically, in bronchitis, hemorrhages, leucorrhoea, and scrofulous disorders.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Urtica pilulifera, Linné.—India, central Asia, and south Europe. The fruit of this species is regarded in the East as a galactagogue, and diuretic virtues are ascribed to the root. The seeds contain a non-nitrogenous glucosid (Reuter; see above).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "boericke-1927",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890",
       "guernsey-keynotes-1887",
       "hering-guiding-1879",
-      "lippe-textbook-mm-1866"
+      "hering-condensed-mm-1877",
+      "lippe-textbook-mm-1866",
+      "felter-eclectic-1922",
+      "kings-american-1898"
     ]
   }
 }

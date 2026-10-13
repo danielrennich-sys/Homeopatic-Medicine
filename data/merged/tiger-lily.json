@@ -1,12 +1,17 @@
 {
   "id": "tiger-lily",
   "names": {
-    "primary": "Tiger Lily. Lilium tigrinum",
-    "latin": "Tiger Lily. Lilium tigrinum",
+    "primary": "Tiger Lily",
+    "latin": "Tiger Lily",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Tiger Lily. Lilium tigrinum"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

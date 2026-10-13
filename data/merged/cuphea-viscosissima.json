@@ -1,16 +1,17 @@
 {
   "id": "cuphea-viscosissima",
   "names": {
-    "primary": "CUPHEA VISCOSISSIMA",
-    "latin": "CUPHEA VISCOSISSIMA",
+    "primary": "Cuphea Viscosissima",
+    "latin": "Cuphea Viscosissima",
     "common": [
       "Flux-weed (CUPHEA)"
     ],
-    "synonyms": [
-      "Cuphea Viscosissima"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Tincture"

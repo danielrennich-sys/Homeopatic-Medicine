@@ -1,12 +1,17 @@
 {
   "id": "arsenic-album",
   "names": {
-    "primary": "Arsenic Album. White Oxide of Arsenic (As2O3.)",
-    "latin": "Arsenic Album. White Oxide of Arsenic (As2O3.)",
+    "primary": "Arsenic Album",
+    "latin": "Arsenic Album",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Arsenic Album. White Oxide of Arsenic (As2O3.)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "anacyclus-pyrethrum",
   "names": {
-    "primary": "Anacyclus pyrethrum (D.C.)",
-    "latin": "Anacyclus pyrethrum (D.C.)",
+    "primary": "Anacyclus Pyrethrum",
+    "latin": "Anacyclus Pyrethrum",
     "common": [
       "Pellitory"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Anacyclus pyrethrum (D.C.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

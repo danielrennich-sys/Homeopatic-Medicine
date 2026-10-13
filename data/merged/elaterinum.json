@@ -1,14 +1,19 @@
 {
   "id": "elaterinum",
   "names": {
-    "primary": "Elaterinum (U. S. P.)",
-    "latin": "Elaterinum (U. S. P.)",
+    "primary": "Elaterinum",
+    "latin": "Elaterinum",
     "common": [
       "Elaterin"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Elaterinum (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

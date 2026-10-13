@@ -1,25 +1,79 @@
 {
   "id": "arctostaphylos-uva-ursi",
   "names": {
-    "primary": "UVA URSI",
-    "latin": "UVA URSI",
+    "primary": "Arctostaphylos Uva-Ursi",
+    "latin": "Arctostaphylos Uva-Ursi",
     "common": [
       "Bearberry",
       "Uva Ursi"
     ],
     "synonyms": [
-      "Uva Ursi. Arctostaphylos uva ursi",
+      "Uva-Ursi",
       "Uva Ursi",
+      "UVA URSI",
+      "Uva Ursi. Arctostaphylos uva ursi",
       "Uva Ursi (U. S. P.)",
       "Uva ursi (Urbatus)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
+    "generalities": [
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T UVA-URSI. Arctostaphylos Uva-ursi, Spreng. Natural order , Ericaceæ. Common name , Bearberry. Preparation , Tincture or trituration of the dried leaves and fruit. Authorities. 1 to 3 , from Noack and Trinks. 1 , Hahnemann; 2 , Heberden, Comment.; 3 , Sauvauges, Nosol.; ( 4 to 6 , from John S. Mitchell's Essay on the Arbutus, Uva-ursi, and Pyrola Umbellata, and Maculata of Linnæus, Philad., 1803); 4 , I took, at 11 A.M., 10 grains of the dried leaves reduced to powder; 4 a , same, at 10 A.M., took 15 grains of powder in water; 4 b , same, took 30 grains of powder in water, at 12 o'clock; 4 c , same, took 40 grains in same way, at 11 A.M.; 4 d , same took 8 grains resin, at 9.30 A.M.; 5 , Mr. Bartram took 10 grains gum, at 11.30 A.M.; 6 , B. S. Barton reports effects on a gouty patient, who is liable to be affected in a similar way by Peruvian bark. HEAD. ► Slight vertiginous affection of the head (after thirty minutes), [4d] . ► Slight headache continued till near the close of the experiment (after twenty minutes), [4b] . ► Slight headache (after twenty minutes), [4d] . ► A slight headache, which went off in the course of half an hour (after twenty-five minutes), [4c] . FACE. ► Flushing in the face (after twenty-five minutes), [4c] ; (after fifteen minutes), [4b] ; (after thirty minutes), [5] . URINARY ORGANS. ► Urinary troubles, [1] . ► Burning after the discharge of slimy urine, [3] . ► Involuntary discharge of urine, [1] . ► Bloody urine, [3] . [10.] ► Green urine, [2] . CHEST. ► Uneasy tightness, with a sensation of weight at the chest, [6] . PULSE. ► Pulse 69 (before the experiment); 70 (after five minutes); 69, and continued smaller through the experiment (after ten minutes); 70 (after fifteen and twenty minutes); 68 (after twenty-five minutes); 69 (after thirty minutes); 66 (after thirty-five minutes); 65 (after forty and forty-five minutes); 62 (after fifty minutes); 64 (after fifty-five minutes); 63 (after sixty minutes); 62 (after sixty-five minutes); 64 (after seventy minutes); 62 (after seventy-five and eighty minutes), [4] . ► Pulse 78 (before the experiment); the same (after five minutes); 73 (after ten minutes); 75 (after fifteen and twenty minutes); 72 (after twenty-five minutes); 73 (after thirty minutes); 74 (after thirty-five minutes); 73 (after forty minutes); 72 (after forty-five, fifty, and fifty-five minutes); 74 (after sixty minutes); 73 (after sixty-five minutes); 72 (after seventy minutes); 73 (after seventy-five minutes); 69 (after eighty-five, and ninety minutes); 71 (after ninety-five minutes); 68 (after one hundred minutes); 72 (after one hundred and five minutes). In the forepart of the experiment, there was a small increase in the fulness of the pulse, which afterwards became smaller, [4a] . ► Pulse 66 (before the experiment); 69 (after five minutes); 72 (after ten minutes); 74, and fuller (after fifteen minutes); 69 (after twenty minutes); 68 (after twenty-five and thirty minutes); 67 (after thirty-five minutes); 67, and much reduced in force (after forty minutes); 63 (after forty-five and fifty minutes); 64 (after fifty-five minutes); 63, weak and flowing (after sixty minutes); 63 (after sixty-five minutes); 60 (after seventy and seventy-five minutes); 63 (after eighty minutes); 65, and fuller (after eighty-five minutes); 63 (after ninety minutes); 64 (after ninety-five minutes); 66 (after one hundred minutes), [4b] . ► Pulse 73 (before the experiment); 78, and considerably fuller (after five minutes); 74, and much harder (after ten minutes); 73 (after fifteen minutes); 68 (after twenty and twenty-five minutes); 66 (after thirty minutes); 67 (after thirty-five minutes); 68 (after forty minutes); 65 (after forty-five minutes); 66 (after fifty minutes); 65 (after fifty-five minutes); 67 (after sixty minutes); 66 (after sixty-five minutes); 65 (after seventy minutes); 68 (after seventy-five minutes); 72 (after eighty and eighty-five minutes); 73 (after ninety minutes); 70 (after ninety and one hundred minutes); 72 (after one hundred and five minutes), [4c] . ► Pulse 76 (before the experiment); 78 (after five minutes); 78, and not so full (after ten minutes); 74, irregular and small (after fifteen minutes); 72 (after twenty minutes); 70 (after twenty-five minutes); 76, and very small (after thirty minutes); 74 (after thirty-five minutes); 73 (after forty minutes); 71 (after forty-five minutes); 68, and much fuller (after fifty minutes); 68 (after fifty-five and sixty minutes); it remained at 68 for an hour afterwards, [4d] . ► Pulse 73 (before the experiments); 77, and somewhat fuller (after five minutes); 75 (after ten minutes); 76 (after fifteen minutes); 73 (after twenty minutes); 75 (after twenty-five and thirty minutes); 74 (after thirty-five minutes); 77, weak and soft (after forty minutes); 78 (after forty-five minutes); 76 (after fifty and fifty-five minutes); 77 (after sixty minutes); 76 (after sixty-five minutes); 77, and much fuller (after seventy minutes); 78 (after seventy-five minutes); 76 (after one hundred minutes), [5] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Cystitis; Dysuria; Hæmaturia; Urinary affections",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Hoarseness with pain in bowels; stopped up in throat; no appetite. Throat tickles, feels like coughing all the time; sore and bruised all over; cough; nose raw and burning; cutting and burning on urinating. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Manzanita, the leaves of A. glauca from California, are employed like Uva-Ursi . The leaves of A. polifolia from Mexico and A. tomentosa (madrona) are also used in medicine. See ARBUTUS . [ Top ] Purchase from Richters Bearberry (Arctostaphylos uva-ursi) Plants and Dried Leaves",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "As if bruised all over. Pain : in chest ; in bones. Spasmodic pain : in bladder. Cutting : in urethra ; on urinating. Shooting : from hip to hip. Tearing : in hypogastric region. Burning : in urethra ; in glans penis, when urinating ; in hypogastric region ; in bladder. TOUCH. PASSIVE MOTION. INJURIES. [45] [Uva]. Touch : hypogastric region sensitive. Man, æt. 48, suffering four months ; cysto-blennorrhœa. Man, æt. 70 ; dysuria, etc.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Uva Ursi. A tincture is made of the fresh leaves of Arctostaphylos Uva-ursi, Spr. ► Headache. ► Vertigo. ► Flushing of face. ► Urinary troubles. ► Burning after discharge of slimy urine. ► Involuntary micturition. ► Green urine. ► Bloody urine . ► Pulse varied slightly in number of beats ; slightly accelerated and soft ; slightly accelerated, afterwards harder ; slightly accelerated and fuller, afterwards slower, weak and flowing ; rose one beat, then smaller, slightly slower ; slower, with at first small increase in fulness, then it was smaller ; irregular and small. Clinical :- ► Cystitis. ► Frequent urging, with severe spasm of the bladder, burning and tearing pain ; urine contains blood and tough mucus, which can be rolled out of the vessel in large masses. ► Uterine inertia during labor. ► Uterine hæmorrhage (said to be quite equal to Ergot .). Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "color=\"#800000\">UVA URSI Bearberry Urinary symptoms most important. Cystitis, with bloody urine. Uterine hæmorrhage. Chronic vesical irritation, with pain, tenesmus, and catarrhal discharges. Burning after the discharge of slimy urine. Pyelitis. Calculous inflammation. Dyspnœa, nausea, vomiting, pulse small and irregular. Cyanosis. Urticaria without itching.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "A few experiments have been made with Uva, and these have seemed to accentuate its traditional reputation as an \"astringent used to check excessive secretion of mucus, as in urinary and bronchial affections, and even in calculus.\" The keynote indications are: Painful micturition with burning sensation. Burning after the discharge of slimy urine. Slime passes with blood. In one cured case there were pains shooting through from hip to hip. The bladder symptoms are > lying on the back.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "The much-branched trailing stems are short and woody, covered with a pale brown bark, scaling off in patches, and form thick masses, 1 to 2 feet long. The long shoots rise obliquely upward from the stems for a few inches and are covered with soft hairs The evergreen leaves are of a leathery texture, from 1/2 inch to an inch long, like a spatula in form, being rounded at the apex and tapering gradually towards the base to a very short stalk or petiole. The margin is entire and slightly rolled back and the young leaves fringed with short hairs. The upper surface of the leaf is dark, shining green, the veins deeply impressed, the lower side is of a paler green, with the veins prominent and forming a coarse network. The leaves have no distinctive odour, but they have a very astringent and somewhat bitter taste. The pretty waxy-looking flowers are in small, closely-crowded, drooping clusters, three to fifteen flowers together, at the ends of the branches of the preceding year, appearing in early summer, May - June, before the young leaves. The corolla, about two-thirds inch across, is urn-shaped, reddish white or white with a red lip, transparent at the base, contracted at the mouth, which is divided into four to five short reflexed, blunt teeth, which are hairy within. There are ten stamens, with chocolate-brown, awned anthers. The berry, which ripens in autumn, is about the size of a small currant, very bright red, smooth and glossy, with a tough skin enclosing an insipid mealy pulp, with five one-seeded stones. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Uva ursi (Urbatus). Painful micturition, with burning. Hæmaturia ; slimy, purulent urine. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      }
+    ],
     "urinary": [
       {
         "text": "Frequent urging, with severe spasms of bladder; burning and tearing pain. Urine contains blood, pus, and much tenacious mucus, with clots in large masses. Involuntary; green urine. Painful dysuria",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "Slimy urine; slime passes with blood. Painful micturition; burning after the slime passes. Hæmaturia; slimy, purulent urine. Green urine. Constant urging and straining. Shooting pain from hip to hip, bladder and urethra sensitive.",
+        "source_id": "clarke-dictionary-1900"
       },
       {
         "text": "Hæmaturia. Constant urging to urinate and straining, with discharge of blood and slime, or constant straining without any discharge at all, or only a few drops of urine ; after this cutting and burning in urethra, which is succeeded by discharge of blood ; hard stools. Shooting pains from hip to hip ; bladder and urethra sensitive ; frequent urination, with pain and burning during and after urinating, relief of all symptoms when lying upon back ; tongue thick, brown coat ; pulse 110 ; great thirst, no appetite ; second day drowsy and stupid ; urine turbid and on fifth day passed blood, mucus and pus. θ Catarrh of bladder. Man, æt. 48 ; since four months severe urinary difficulties ; emaciated, features sallow and œdematous ; frequent and severe inclination to urinate, with burning in glans when urine passes guttatim, and in small quantities, taking ten minutes and more to pass a small quantity ; before urinating frequent and continued spasm of bladder ; after great straining passes a few drops ; at all times burning and tearing pains in hypogastric region, which is warmer, swollen, and sensitive to touch ; frequent intense chills ; severe heat, but no sweat ; pulse 86 to 90, small and soft ; tenesmus of bladder robs him of sleep ; downcast, wishes to die ; no appetite ; tongue coated with mucus ; stool retarded, hard and painful ; thirst increased, but afraid to drink ; great and general languor ; unsteadiness of lower extremities ; brown, muddy, foul-smelling urine, with large deposit of greyish slimy sediment, more than one-third its quantity ; sediment showed alkaline reaction, produced flakes in boiling, and Nitric acid gave it a pink color ; membranous particles at times clogged up urethra, producing excruciating pain till they are discharged with some blood (Uva ursi) relieved greatly ; Cannabis 1, daily two doses, in weekly alternation with Uva ursi finished the cure). θ Cysto-blennorrhœa. Pain, burning and straining, dribbling of urine, sometimes spasms of bladder, could not urinate. Painful dysuria, with frequent but difficult discharge of thick, ropy urine of strong, pungent odor.",
@@ -29,14 +83,51 @@
     "dosing": {
       "notes": "Tincture, five to thirty drops. In pyelitis a trituration of the leaves"
     },
-    "keynotes": [
+    "relationships": {
+      "_raw": [
+        "Compare: Arbut., Gaulther., and Ericaceæ generally.",
+        "Compare : Secale, Cannab",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "head": [
       {
-        "text": "color=\"#800000\">UVA URSI Bearberry Urinary symptoms most important. Cystitis, with bloody urine. Uterine hæmorrhage. Chronic vesical irritation, with pain, tenesmus, and catarrhal discharges. Burning after the discharge of slimy urine. Pyelitis. Calculous inflammation. Dyspnœa, nausea, vomiting, pulse small and irregular. Cyanosis. Urticaria without itching.",
-        "source_id": "boericke-1927"
+        "text": "Slight vertigo and headache.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Fluent coryza with rawness.",
+        "source_id": "clarke-dictionary-1900"
       },
       {
-        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Uva ursi (Urbatus). Painful micturition, with burning. Hæmaturia ; slimy, purulent urine. Copyright © Médi-T 2006",
-        "source_id": "lippe-textbook-mm-1866"
+        "text": "Fluent coryza, with rawness.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "face": [
+      {
+        "text": "Flushing.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Weak, sick at stomach, sore all over as if bruised.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Weak, sick at stomach, sore all over as if bruised.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Uuu: Urination, involuntary, lying, agg.; Urine, purulent.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
       }
     ],
     "indications": [
@@ -79,6 +170,14 @@
       {
         "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
         "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The dried leaves are the only part of the plant used in medicine. The British Pharmacopceia directs that the leaves should be obtained only from indigenous plants. They should be collected in September and October, only green leaves being selected and dried by exposure to gentle heat. Leaves must be gathered only in fine weather, in the morning, after the dew has dried, any stained and insect-eaten leaves being rejected. Drying may be done in warm, sunny weather out-of-doors, but in half-shade, as leaves dried in the shade retain their colour better than those dried in direct sun. They may be placed on wire sieves, or frames covered with wire or garden netting, at a height of 3 or 4 feet from the ground to ensure a current of air, and must be taken indoors to a dry room, or shed, before there is any risk of damp from dew or showers. The leaves should be spread in a single layer, preferably not touching, and may be turned during drying. Failing sun, which in the case of leaves collected like the Bearberry in September and October cannot be relied on, any ordinary shed, fitted with racks and shelves can be used, provided it is ventilated near the roof and has a warm current of air, caused by a coke or anthracite stove. Empty glasshouses can readily be adapted into dryingsheds, especially if heated by pipes and the glass is shaded; ventilation is essential, and there must be no open tank in the house to cause steaming. For drying indoors, a warm sunny attic or loft may be employed, the window being left open by day, so that there is a current of air and the moist, hot air may escape: the door may also be left open. The leaves can be placed on coarse butter-cloth stented, i.e. if hooks are placed beneath the window and on the opposite wall, the buttercloth can be attached by rings sewn on each side of it, and hooked on so that it is stretched taut. The drying temperature should be from 70 to 100 degrees F. All dried leaves should be packed away at once in wooden or tin boxes, in a dry place as otherwise they re-absorb moisture from the air. Dried Bearberry leaves are usually quite smooth, and entirely free from the hairs that are present on the margins of the growing leaves and on the foot-stalks, which drop off during the drying process. The commercial drug frequently consists of the entire plants, and therefore contains a large quantity of stems, but the latter should not be present, according to the official definition of the United States Pharmacopoeia, in greater amount than 5 per cent. The leaves of other plants have been mistaken for Bearberry leaves, notably those of the Cowberry ( Vaccinium Vitis-idaea ) and of the Box ( Buxus sempervirens ), and have occasionally been used to adulterate the drug, but Bearberry leaves are readily distinguished by the characteristics given, viz. the spatulate outline, entire margin and rounded apex. Those of the Box have a notch cut out at the apex (emarginate) and have the epidermis loose and separable on the under surface of the leaf, and are, moreover, quite devoid of astringency. The leaves of the Cowberry may be distinguished by the glandular brown dots scattered over their under surface and the minute teeth on their margins. They have only a very slight astringent taste.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "In consequence of the powerful astringency of theleaves, Uva-Ursi has a place not only in all the old herbals, but also in the modern Pharmacopoeias. There are records that it was used in the thirteenth century by the Welsh 'Physicians of Myddfai.' It was described by Clusius in 1601, and recommended for medicinal use in 1763 by Gerhard of Berlin and others. It had a place in the London Pharmacopoeia for the first time in 1788, though was probably in use long before. It is official in nearly all Pharmacopceias, some of which use the name Arbutus. The usual form of administration is in the form of an infusion, which has a soothing as well as an astringent effect and marked diuretic action. Of great value in diseases of the bladder and kidneys, strengthening and imparting tone to the urinary passages. The diuretic action is due to the glucoside Arbutin, which is largely absorbed unchanged and is excreted by the kidneys. During its excretion, Arbutin exercises an antiseptic effect on the urinary mucous membrane: Bearberry leaves are, therefore, used in inflammatory diseases of the urinary tract, urethritis, cystisis, etc. Besides the simple infusion (1 OZ. of the leaves to 1 pint of boiling water), the combination of 1/2 oz. each of Uva-Ursi , Poplar Bark and Marshmallow root, infused in 1 pint of water for 20 minutes is used with advantage. The tannin in the leaves is so abundant that they have been used for tanning leather in Sweden and Russia. An ash-coloured dye is said to be obtained from the plant in Scandinavian countries. The berries are only of use as food for grouse. Cattle, however, avoid the plant.",
+        "source_id": "grieve-modern-herbal-1931"
       },
       {
         "text": "Preparations: Extract of Uva Ursi - Fluid Extract of Uva Ursi",
@@ -129,16 +228,16 @@
         "source_id": "kings-american-1898"
       }
     ],
-    "nose": [
+    "habitat": [
       {
-        "text": "Fluent coryza, with rawness.",
-        "source_id": "hering-guiding-1879"
+        "text": "The Bearberry ( Arctostaphylos Uva-Ursi , Sprengel), a small shrub, with decumbent, much branched, irregular stems and evergreen leaves, is distributed over the greater part of the Northern Hemisphere, being found in the northern latitudes and high mountains of Europe, Asia and America. In the British Isles, it is common in Scotland, on heaths and barren places in hilly districts, especially in the Highlands, and extends south as far as Yorkshire; it grows also on the hills of the north-west of Ireland. In America it is distributed throughout Canada and the United States as far south as New Jersey and Wisconsin. It is very nearly related to the Arbutus, and was formerly assigned to the same genus - in Green's Universal Herbal , 1832, it will be found under the name Arbutus Uva- Ursi - but it differs from Arbutus in having a smooth berry with five one-seeded stones, whereas the Arbutus has a rough fruit, each cell of the ovary being four to five seeded. The only other British species assigned to the genus, Arctostaphylos , the Black Bearberry ( A. alpina ), with black berries, found on barren mountains in northern Scotland, and not at all in England, is the badge of the clan of Ross. The generic name, derived from the Greek, and the Latin specific name, UvaUrsi , mean the same: the Bear's grape, and may have been given to the plant, either from the notion that bears eat the fruit with relish, or from its very rough, unpleasant flavour, which might have been considered only fit for bears.",
+        "source_id": "grieve-modern-herbal-1931"
       }
     ],
-    "stomach_abdomen": [
+    "constituents": [
       {
-        "text": "Weak, sick at stomach, sore all over as if bruised.",
-        "source_id": "hering-guiding-1879"
+        "text": "The chief constituent of Bearberry leaves is a crystallizable glucoside named Arbutin. Other constituents are methyl-arbutin, ericolin (an ill-defined glucoside), ursone (a crystalline substance of resinous character), gallic acid, ellagic acid, a yellow colouring principle resembling quercetin, and probably also myricetin. Tannin is present to the extent of 6 to 7 per cent. On incineration, the leaves yield about 3 per cent. of ash. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
       }
     ],
     "respiratory": [
@@ -158,45 +257,14 @@
         "text": "REST. POSITION. MOTION. [35] [Uva]. Lying upon back : bladder symptoms >.",
         "source_id": "hering-guiding-1879"
       }
-    ],
-    "generalities": [
-      {
-        "text": "As if bruised all over. Pain : in chest ; in bones. Spasmodic pain : in bladder. Cutting : in urethra ; on urinating. Shooting : from hip to hip. Tearing : in hypogastric region. Burning : in urethra ; in glans penis, when urinating ; in hypogastric region ; in bladder. TOUCH. PASSIVE MOTION. INJURIES. [45] [Uva]. Touch : hypogastric region sensitive. Man, æt. 48, suffering four months ; cysto-blennorrhœa. Man, æt. 70 ; dysuria, etc.",
-        "source_id": "hering-guiding-1879"
-      }
-    ],
-    "relationships": {
-      "_raw": [
-        "Compare : Secale, Cannab",
-        "Copyright © Médi-T ® 2002",
-        "Main"
-      ]
-    }
+    ]
   },
   "evidence": {
-    "summary": "",
     "lactation_safety": [
       {
         "section": "Drug Levels and Effects",
         "text": "Summary of Use during Lactation Uva ursi ( Arctostaphylos uva-ursi ) leaves contain arbutin, which is hydrolyzed to hydroquinone. Uva ursi has no specific lactation-related uses, but is most often used as a urinary antiseptic. No data exist on the excretion of any components of uva ursi into breastmilk or on the safety and efficacy of uva ursi in nursing mothers or infants. Uva ursi should generally be avoided during breastfeeding because of a lack of data and its potential toxicity.[ 1 , 2 ] Drug Levels Maternal Levels. Relevant published information was not found as of the revision date. Infant Levels. Relevant published information was not found as of the revision date. Effects in Breastfed Infants Relevant published information was not found as of the revision date. Effects on Lactation and Breastmilk Relevant published information was not found as of the revision date. Alternate Drugs to Consider (Urinary Antiseptic) Methenamine Hippurate , Methenamine Mandelate , Nitrofurantoin References 1. Kopec K. Herbal medications and breastfeeding. J Hum Lact 1999;15:157-61. [ PubMed : 10578793 ] 2. Nice F, Coghlan R, Birmingham B. Which herbals are safe to take while breastfeeding? Here's a guide to popular herbs and their potential risk to nurslings. US Pharm 2000;25:1-9.",
         "source": "LactMed-NIH"
-      }
-    ],
-    "documented_adverse_effects": [
-      {
-        "section": "PRODUCT INFORMATION",
-        "text": "REPRESENTATIVE TRADE NAMES Uva Ursi – Generic DRUG CLASS Herbal and Dietary Supplements",
-        "source": "LiverTox-NIH"
-      },
-      {
-        "section": "CHEMICAL FORMULA AND STRUCTURE",
-        "text": "View in own window DRUG CAS REGISTRY NUMBER MOLECULAR FORMULA STRUCTURE Arctostaphylos Uva-ursi Extract 84776-10-3 Unspecified",
-        "source": "LiverTox-NIH"
-      },
-      {
-        "section": "ANNOTATED BIBLIOGRAPHY",
-        "text": "References updated: 28 March 2020 Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4. (Expert review of hepatotoxicity published in 1999; several herbal medications linked to liver injury are discussed, but uva ursi is not mentioned). Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 631-58. (Review of hepatotoxicity of herbals does not mention uva ursi). Uva-Ursi. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 868-71. (Compilation of short monographs on herbal medications and dietary supplements). Larsson B, Jonasson A, Fianu S. Prophylactic effect of UVA-E in women with recurrent cystitis: a preliminary report. Curr Ther Res. 1993; 53 :441–3. (Among 57 women with frequent episodes of cystitis treated with UVA-E [unknown dose] or placebo for one month, episodes of cystitis occurred in the next year in none of 30 treated with uva ursi but in 5 of 27 receiving placebo). Yarnell E. Botanical medicines for the urinary tract. World J Urol. 2002; 20 :285–93. [ PubMed : 12522584 ] (Review of botanical agents that are purported to have effects in urologic conditions including uva ursi which is approved for treatment of lower urinary tract infection by the German Commission E; the active component is believed to be arbutoside which is hydrolyzed in the stomach releasing hydroquinone that is absorbed and metabolized to the glucuronide in the liver, which is then rapidly excreted in the urine where free hydroquinone is released [if urine is alkaline] and acts locally as an antiseptic; an issue is that hydroquinone is potentially carcinogenic so that uva ursi is recommended in short courses only and not to be taken chronically). Schindler G, Patzak U, Brinkhaus B, von Niecieck A, Wittig J, Krähmer N, Glöckl I, et al. Urinary excretion and metabolism of arbutin after oral administration of Arctostaphylos uvae ursi extract as film-coated tablets and aqueous solution in healthy humans. J Clin Pharmacol. 2002; 42 :920–7. [ PubMed : 12162475 ] (In 16 healthy volunteers given arbutin either as tea made from uva ursi leaves or as an extract prepared as tablets, hydroquinone glucuronide and sulfate were rapidly detected in urine with lesser amounts of free hydroquinone in all subjects regardless of ingested form of uva ursi). Wang L, Del Priore LV. Bull's-eye maculopathy secondary to herbal toxicity from uva ursi. Am J Ophthalmol. 2004; 137 :1135–7. [ PubMed : 15183807 ] (57 year old woman who ingested uva ursi tea preparations several times daily for 3 years developed “bull’s eye” maculopathy which is typical of hydroxychloroquine macular injury, suggesting that hydroquinone from uva ursi which inhibits tyrosine kinase and melanin synthesis can cause macular injury as well). Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl. 2004; 10 :1018–23. [ PubMed : 15390328 ] (Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, including 7 [5%] for herbal medications, none were specifically attributed to uva ursi). Quintus J, Kovar KA, Link P, Hamacher H. Urinary excretion of arbutin metabolites after oral administration of bearberry leaf extracts. Planta Med. 2005; 71 :147–52. [ PubMed : 15729623 ] (Hydroquinone glucuronide and sulfate were detected in urine within 2-6 hours of ingestion of a single 150 mL preparation of tea using bearberry leaves). García-Cortés M, Borraz Y, Lucena MI, Peláez G, Salmerón J, Diago M, Martínez-Sierra MC, et al. Rev Esp Enferm Dig. 2008; 100 :688–95. [Liver injury induced by \"natural remedies\": an analysis of cases submitted to the Spanish Liver Toxicity Registry] Spanish. [ PubMed : 19159172 ] (Among 521 cases of drug induced liver injury submitted to Spanish registry, 13 [2%] were due to herbals, but none were attributed to uva ursi). Navarro VJ. Herbal and dietary supplement hepatotoxicity. Semin Liver Dis. 2009; 29 :373–82. [ PubMed : 19826971 ] (Review of the problems of causality assessment in herbal and dietary supplement [HDS] associated liver disease, including the variable clinical presentations, the complexity and lack of information on their components, absence of controlled trials demonstrating safety and efficacy, the possibility of contamination or incorrect labeling and frequent underreporting of herbal use by patients. Regulation of HDS is under DSHEA, which requires manufacturers to determine safety and prohibits claims of efficacy in treating specific diseases. The US Pharmacopeia sets standards for food and drugs and includes HDS; HDS induced liver injury is a growing problem and currently accounts for at least 10% of cases of acute liver injury due to medications). Jacobsson I, Jönsson AK, Gerdén B, Hägg S. Spontaneously reported adverse reactions in association with complementary and alternative medicine substances in Sweden. Pharmacoepidemiol Drug Saf. 2009; 18 :1039–47. [ PubMed : 19650152 ] (Review of 778 spontaneous reports of adverse reactions to herbals to Swedish Registry; no mention of uva ursi). Reuben A, Koch DG, Lee WM., Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology. 2010; 52 :2065–76. [ PMC free article : PMC3992250 ] [ PubMed : 20949552 ] (Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 [11%] were attributed to drug induced liver injury of which 12 [9%] were due to herbals, but none were attributed to uva ursi). Teschke R, Wolff A, Frenzel C, Schulze J, Eickhoff A. H",
-        "source": "LiverTox-NIH"
       }
     ],
     "regulatory": [
@@ -215,6 +283,24 @@
         "source": "LactMed-NIH"
       }
     ],
+    "summary": "Introduction Uva ursi is an herbal extract derived from the leaves of the Arctostaphylos, a small evergreen shrub, which has been used in Native American traditional medicine for treatment of urinary tract symptoms and as a diuretic. Treatment with extracts of uva ursi has not been specifically linked to serum aminotransferase elevations or to instances of clinically apparent acute liver injury. Background Uva ursi is an herbal product derived from the fresh or dried leaves of the plant Arctostaphylos uva-ursi or bearberry, named for the grape-like clusters of orange berries that are commonly eaten by bears. Both Arctostaphylos and uva-ursi mean “grape of the bears”, the former in Greek and the latter in Latin. Uva ursi leaves contain several phytochemicals, including ursolic acid, tannic acid, gallic acid, oils, resins, hydroquinone glycosides (mainly “arbutin”), and flavonoids. The active component of uva ursi is suspected to be hydroquinone, and particularly arbutin and methyl arbutin which may have antiinflammatory and antiseptic activities that are excreted in the urine. Uva ursi has been used to treat dysuria, cystitis, urethritis, and kidney and bladder stones. It has also been recommended for inducing diuresis and to treat constipation. In addition, the leaves of Arctostaphylos have been dried and smoked as tobacco, while leaves and berries have also been used as food. While uva ursi has been used extensively in traditional medicine, there is no convincing medical evidence that it is effective in treating urinary tract infections or urinary symptoms. More recently, uva ursi has been included in multiingredient dietary supplements meant for a variety of conditions such as to induce weight loss, promote wellness, prevent the effects of aging and to increase energy and stamina. Uva ursi is typically available in tablets and capsules of 150, 455 and 505 mg and is taken one to three times daily. It can also be prepared as tea from dried leaves or a powdered extract. Commercial products that contain uva ursi include SLIMQUICK Ultra and Animal Cuts. Side effects are not common but, in high doses, may include nausea, vomiting, tinnitus, shortness of breath and allergic reactions. Rare but potentially severe reactions to high doses of uva ursi may include convulsions, delirium and cardiovascular collapse. Hepatotoxicity Uva ursi has not been linked to serum enzyme elevations during therapy although there have been few prospective studies of its adverse effects on laboratory test results. There have been no convincing published instances of clinically apparent liver injury attributed to uva ursi. The frequency of hypersensitivity reactions to uva ursi is not known. Likelihood score : E (unlikely cause of clinically apparent liver injury). Other Names: Bearberry, Bear grape, Mountain cranberry, Redberry, Kinnikinnik, Arctostaphylos Drug Class: Herbal and Dietary Supplements",
+    "documented_adverse_effects": [
+      {
+        "section": "PRODUCT INFORMATION",
+        "text": "REPRESENTATIVE TRADE NAMES Uva Ursi – Generic DRUG CLASS Herbal and Dietary Supplements",
+        "source": "LiverTox-NIH"
+      },
+      {
+        "section": "CHEMICAL FORMULA AND STRUCTURE",
+        "text": "View in own window DRUG CAS REGISTRY NUMBER MOLECULAR FORMULA STRUCTURE Arctostaphylos Uva-ursi Extract 84776-10-3 Unspecified",
+        "source": "LiverTox-NIH"
+      },
+      {
+        "section": "ANNOTATED BIBLIOGRAPHY",
+        "text": "References updated: 28 March 2020 Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman, HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott,1999: pp. 731-4. (Expert review of hepatotoxicity published in 1999; several herbal medications linked to liver injury are discussed, but uva ursi is not mentioned). Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 631-58. (Review of hepatotoxicity of herbals does not mention uva ursi). Uva-Ursi. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc. 2007: pp. 868-71. (Compilation of short monographs on herbal medications and dietary supplements). Larsson B, Jonasson A, Fianu S. Prophylactic effect of UVA-E in women with recurrent cystitis: a preliminary report. Curr Ther Res. 1993; 53 :441–3. (Among 57 women with frequent episodes of cystitis treated with UVA-E [unknown dose] or placebo for one month, episodes of cystitis occurred in the next year in none of 30 treated with uva ursi but in 5 of 27 receiving placebo). Yarnell E. Botanical medicines for the urinary tract. World J Urol. 2002; 20 :285–93. [ PubMed : 12522584 ] (Review of botanical agents that are purported to have effects in urologic conditions including uva ursi which is approved for treatment of lower urinary tract infection by the German Commission E; the active component is believed to be arbutoside which is hydrolyzed in the stomach releasing hydroquinone that is absorbed and metabolized to the glucuronide in the liver, which is then rapidly excreted in the urine where free hydroquinone is released [if urine is alkaline] and acts locally as an antiseptic; an issue is that hydroquinone is potentially carcinogenic so that uva ursi is recommended in short courses only and not to be taken chronically). Schindler G, Patzak U, Brinkhaus B, von Niecieck A, Wittig J, Krähmer N, Glöckl I, et al. Urinary excretion and metabolism of arbutin after oral administration of Arctostaphylos uvae ursi extract as film-coated tablets and aqueous solution in healthy humans. J Clin Pharmacol. 2002; 42 :920–7. [ PubMed : 12162475 ] (In 16 healthy volunteers given arbutin either as tea made from uva ursi leaves or as an extract prepared as tablets, hydroquinone glucuronide and sulfate were rapidly detected in urine with lesser amounts of free hydroquinone in all subjects regardless of ingested form of uva ursi). Wang L, Del Priore LV. Bull's-eye maculopathy secondary to herbal toxicity from uva ursi. Am J Ophthalmol. 2004; 137 :1135–7. [ PubMed : 15183807 ] (57 year old woman who ingested uva ursi tea preparations several times daily for 3 years developed “bull’s eye” maculopathy which is typical of hydroxychloroquine macular injury, suggesting that hydroquinone from uva ursi which inhibits tyrosine kinase and melanin synthesis can cause macular injury as well). Russo MW, Galanko JA, Shrestha R, Fried MW, Watkins P. Liver transplantation for acute liver failure from drug-induced liver injury in the United States. Liver Transpl. 2004; 10 :1018–23. [ PubMed : 15390328 ] (Among ~50,000 liver transplants reported to UNOS between 1990 and 2002, 270 [0.5%] were done for drug induced acute liver failure, including 7 [5%] for herbal medications, none were specifically attributed to uva ursi). Quintus J, Kovar KA, Link P, Hamacher H. Urinary excretion of arbutin metabolites after oral administration of bearberry leaf extracts. Planta Med. 2005; 71 :147–52. [ PubMed : 15729623 ] (Hydroquinone glucuronide and sulfate were detected in urine within 2-6 hours of ingestion of a single 150 mL preparation of tea using bearberry leaves). García-Cortés M, Borraz Y, Lucena MI, Peláez G, Salmerón J, Diago M, Martínez-Sierra MC, et al. Rev Esp Enferm Dig. 2008; 100 :688–95. [Liver injury induced by \"natural remedies\": an analysis of cases submitted to the Spanish Liver Toxicity Registry] Spanish. [ PubMed : 19159172 ] (Among 521 cases of drug induced liver injury submitted to Spanish registry, 13 [2%] were due to herbals, but none were attributed to uva ursi). Navarro VJ. Herbal and dietary supplement hepatotoxicity. Semin Liver Dis. 2009; 29 :373–82. [ PubMed : 19826971 ] (Review of the problems of causality assessment in herbal and dietary supplement [HDS] associated liver disease, including the variable clinical presentations, the complexity and lack of information on their components, absence of controlled trials demonstrating safety and efficacy, the possibility of contamination or incorrect labeling and frequent underreporting of herbal use by patients. Regulation of HDS is under DSHEA, which requires manufacturers to determine safety and prohibits claims of efficacy in treating specific diseases. The US Pharmacopeia sets standards for food and drugs and includes HDS; HDS induced liver injury is a growing problem and currently accounts for at least 10% of cases of acute liver injury due to medications). Jacobsson I, Jönsson AK, Gerdén B, Hägg S. Spontaneously reported adverse reactions in association with complementary and alternative medicine substances in Sweden. Pharmacoepidemiol Drug Saf. 2009; 18 :1039–47. [ PubMed : 19650152 ] (Review of 778 spontaneous reports of adverse reactions to herbals to Swedish Registry; no mention of uva ursi). Reuben A, Koch DG, Lee WM., Acute Liver Failure Study Group. Drug-induced acute liver failure: results of a U.S. multicenter, prospective study. Hepatology. 2010; 52 :2065–76. [ PMC free article : PMC3992250 ] [ PubMed : 20949552 ] (Among 1198 patients with acute liver failure enrolled in a US prospective study between 1998 and 2007, 133 [11%] were attributed to drug induced liver injury of which 12 [9%] were due to herbals, but none were attributed to uva ursi). Teschke R, Wolff A, Frenzel C, Schulze J, Eickhoff A. H",
+        "source": "LiverTox-NIH"
+      }
+    ],
     "hepatotoxicity": [
       {
         "section": "LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet].",
@@ -225,9 +311,14 @@
   },
   "provenance": {
     "sources": [
+      "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "boericke-1927",
+      "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "felter-eclectic-1922",
+      "grieve-modern-herbal-1931",
       "hering-guiding-1879",
       "kings-american-1898",
       "lactmed-nih",

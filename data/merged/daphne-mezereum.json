@@ -1,14 +1,19 @@
 {
   "id": "daphne-mezereum",
   "names": {
-    "primary": "Daphne mezereum (LINN.)",
-    "latin": "Daphne mezereum (LINN.)",
+    "primary": "Daphne Mezereum",
+    "latin": "Daphne Mezereum",
     "common": [
       "Mezereon"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Daphne mezereum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

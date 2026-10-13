@@ -1,0 +1,28 @@
+{
+  "id": "kali-cyanicum",
+  "names": {
+    "primary": "Kali Cyanicum",
+    "latin": "Kali Cyanicum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Generalities: Falling.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

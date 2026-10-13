@@ -1,14 +1,19 @@
 {
   "id": "hieracium-sylvaticum",
   "names": {
-    "primary": "Hieracium sylvaticum (LINN.)",
-    "latin": "Hieracium sylvaticum (LINN.)",
+    "primary": "Hieracium Sylvaticum",
+    "latin": "Hieracium Sylvaticum",
     "common": [
       "Hawkweed, Wood"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Hieracium sylvaticum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

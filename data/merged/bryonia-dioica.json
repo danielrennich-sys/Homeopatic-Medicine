@@ -1,14 +1,19 @@
 {
   "id": "bryonia-dioica",
   "names": {
-    "primary": "Bryonia dioica (LINN.)",
-    "latin": "Bryonia dioica (LINN.)",
+    "primary": "Bryonia Dioica",
+    "latin": "Bryonia Dioica",
     "common": [
       "Bryony, White"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Bryonia dioica (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

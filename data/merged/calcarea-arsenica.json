@@ -1,14 +1,17 @@
 {
   "id": "calcarea-arsenica",
   "names": {
-    "primary": "Calcarea Arsenica. Arsenite of Lime",
-    "latin": "Calcarea Arsenica. Arsenite of Lime",
+    "primary": "Calcarea Arsenica",
+    "latin": "Calcarea Arsenica",
     "common": [],
     "synonyms": [
-      "Calcarea Arsenica"
+      "Calcarea Arsenica. Arsenite of Lime"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

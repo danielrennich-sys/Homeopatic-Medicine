@@ -1,14 +1,19 @@
 {
   "id": "inula-crithmoides",
   "names": {
-    "primary": "Inula crithmoides (LINN.)",
-    "latin": "Inula crithmoides (LINN.)",
+    "primary": "Inula Crithmoides",
+    "latin": "Inula Crithmoides",
     "common": [
       "Samphire, Golden"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Inula crithmoides (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

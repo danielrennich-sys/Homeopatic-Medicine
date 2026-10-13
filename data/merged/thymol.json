@@ -1,14 +1,19 @@
 {
   "id": "thymol",
   "names": {
-    "primary": "Thymol (U. S. P.)",
-    "latin": "Thymol (U. S. P.)",
+    "primary": "Thymol",
+    "latin": "Thymol",
     "common": [
       "Thymol"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Thymol (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

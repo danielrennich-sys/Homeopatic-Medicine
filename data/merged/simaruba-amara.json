@@ -1,14 +1,21 @@
 {
   "id": "simaruba-amara",
   "names": {
-    "primary": "Simaruba amara (D. C.), Simaruba officinalis",
-    "latin": "Simaruba amara (D. C.), Simaruba officinalis",
+    "primary": "Simaruba Amara",
+    "latin": "Simaruba Amara",
     "common": [
       "Simaruba"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Simaruba amara (D. C.), Simaruba officinalis",
+      "Simaruba"
+    ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {
@@ -20,6 +27,10 @@
       {
         "text": "The name given by the founder of the genus was Carib Simarouba , but later writers adopted the present spelling. The tree is 60 feet or more in height, with many long, crooked branches covered with smooth, greyish bark, leaves 9 to 12 inches long, and flowers growing in small clusters, with rather thick, dull-white petals. The bark is usually found in pieces several feet long, the roots being long, horizontal, and creeping. Very often the outer bark has been removed, when it shows a pale yellowish or pinkish-brown surface. It is odourless, difficult to powder, and intensely bitter. It is usually imported from Jamaica, in bales.",
         "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Simaruba is a native of the West Indies and tropical America. \"Simaruba bark\" is used as a bitter tonic and as a local remedy for dysentery and diarrhœa. The part used is the \"bark,\" which is really the rind of the root, of which, domestically, a decoction is made. \"In large doses,\" says Treas. of Botany, \"it is said to act as an emetic, purgative and diaphoretic.\" S. versicolor, a Brazilian species, has similar properties. The fruits and bark are used as anthelmintics; an infusion of the latter is employed in cases of snake-bite. The plant is so bitter that insects will not attack it, on which account the powdered root has been used to kill vermin. S. glauca, a native of Cuba, furnishes a glutinous juice which is employed in certain cases of skin-disease.\" This very well sums up the place and properties of Simaruba. And it is well to remember that Cedron, which is \"Simaba Cedron,\" belongs to the same order. My first practical acquaintance with Simb. as a homœopathic remedy was in the case of a much-travelling patient who suffered from a chronic tendency to looseness of the bowels. He had stools like yellow ochre, for which Gamboge had been very helpful. When in the South of France he consulted a homœopathic practitioner, whose name has escaped my memory, and he prescribed Simaruba with excellent effect. Since then I have used it in similar cases. H. H. Beamish (H. W., April 1925) says that on the Zambesi for dysentery the Simaruba bark is boiled, and, by way of strengthening the astringent effect, Alum is added to the decoction. But Simaruba is the specific agent.",
+        "source_id": "clarke-dictionary-1900"
       }
     ],
     "constituents": [
@@ -44,13 +55,23 @@
       {
         "text": "Simaruba glauca of Jamaica, San Domingo, Bahama Islands, Panama and Guatemala has identical properties, and by some writers is regarded as the same tree, others distinguishing it by a slight difference in the flowers. It is also known as Winged-leaved Quassia, and S. medicinalis . S. versicolor of Brazil, has similar properties, the fruit and bark being also used as anthelmintics, and an infusion of the latter being employed in cases of snake-bite. The plant is so bitter that insects will not attack it, on which account the powdered bark has been employed to kill vermin. S. glauca of Cuba furnishes a glutinous juice, which is employed in certain skin diseases. S. excelsa or Quassia Excelsa yields quassin from boiled slices of the wood, furnishing the Quassia of commerce, substituted for the true Surinam Quassia . Samadera Indica contains a similar bitter principle in its bark. See QUASSIA . [ Top ]",
         "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Clinical: Diarrhœa; Dysentery; Snake-bite; Worms",
+        "source_id": "clarke-dictionary-1900"
       }
-    ]
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: (Botan.) Cedron, Ail., Chap. am., Quassia. Compare also: Vacc. myrt., Chi., Rheum, Gamb. Copyright © Médi-T ® 2000 Main"
+      ]
+    }
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "grieve-modern-herbal-1931"
+      "grieve-modern-herbal-1931",
+      "clarke-dictionary-1900"
     ]
   }
 }

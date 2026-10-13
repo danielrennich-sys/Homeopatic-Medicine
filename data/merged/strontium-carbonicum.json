@@ -1,16 +1,20 @@
 {
   "id": "strontium-carbonicum",
   "names": {
-    "primary": "STRONTIUM CARBONICUM",
-    "latin": "STRONTIUM CARBONICUM",
+    "primary": "Strontium Carbonicum",
+    "latin": "Strontium Carbonicum",
     "common": [
       "Carbonate of Strontia (STRONTIA)"
     ],
     "synonyms": [
-      "Strontium Carbonicum"
+      "Strontiana Carbonica",
+      "Strontia carbonica"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {
@@ -20,6 +24,10 @@
       {
         "text": "Headache, with nausea and vertigo. Troublesome pressure in forehead. Threatening apoplexy; violent congestion to head; > wrapping head up. (Dizzy when talking to people. R. T. C.). Burning in forehead. Tensive headache as if all the skin were being drawn towards the vertex, and the contents of the skull pressed outwards; in evening when lying with the head low, slowly increasing and decreasing, > from heat. Chilliness over scalp and upper part of back, in evening, at night, and in cold air. Tension on head (externally and internally), in evening, and from cold, > from warmth, esp. in heat of the sun. Tension from vertex to upper jaw. Distensive pressure in entire head; in l. side of head. Lancinating headache. Stitches in head. Vibration in temples in evening. Sensation of burning heat in head and face, when walking in afternoon, with redness of face, anguish, and sleepiness. Boring in small spot r. side of occiput. Dull, pressive pain in occiput. Sensation of heat of head and face, with red face, anxiety, and sleepiness. (Tendency of hair to fall out with irritation of scalp. R. T. C.).",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Burning in forehead. Threatening apoplexy, with violent congestion of head ; hot, red face every time patient walks ; exertion increases circulation toward head ; some erethism of chest ; smothering feeling about heart ; cannot rest ; feeling as of a load on chest ; during climaxis ; > wrapping head up warmly, cannot bear least draft of air. Tension from vertex to upper jaw, as if head were expanded from within, and as if scalp were too tight, < in evening when lying low with head, slowly increasing and decreasing, > from heat. Stitches in head. Dull or pressive pain in occiput. Boring pain in a small spot in right side of occiput. Headache > when wrapping head up warmly. Chilliness over scalp and upper back ; < at night and in cold air. Tension on head (externally and internally), < in evening and from cold, > from warmth, especially in heat of sun. Sensation of heat of head and face, with red face, anxiety and sleepiness.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "eyes": [
@@ -30,6 +38,10 @@
       {
         "text": "Burning in eyes. Burning, drawing, and redness in eyes. Pressure on upper part of eyeball. Violent jerking and quivering of eyelids. Red and blue circles before eyes, after rubbing them, with pressure, as by sand. Sparkling before eyes. Luminous vibrations before the eyes. Photopsia, remaining after an operation, esp. when objects appear covered with blood. Green spots before eyes in the dark.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Burning in eyes ; < when moving them ; followed by sticking ; with lachrymation. Pressing pain on upper surface of eyes. Pressing in eyes after rubbing them, which causes one to see red and blue margins. Green spots before eyes in dark. Luminous vibrations before eyes ; flickering. Photopsia, remaining after an operation, particularly when objects appear covered with blood. Twitching of left upper lid. Itching in inner canthi.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "stomach_abdomen": [
@@ -44,12 +56,20 @@
       {
         "text": "Earthy taste in mouth. Violent thirst, esp. for beer. Appetite only for brown bread. Hunger after dinner. (Ravenous, but discomfort prevents him eating more than a few mouthfuls. R. T. C.). Nausea, with burning heat in face. Violent hiccough. Sickness after all food, sometimes quickly, sometimes after an hour or two (produced. R. T. C.). (Heartburn, distension of abdomen, flatus with dull aching across waist and aching in l. temple. R. T. C.). Pressure in stomach, > by eating; on walking. Constriction in stomach with uprisings of clear water. Stitches in stomach now r. now l. side. Pressure in stomach, with sensation of fulness in abdomen, esp. after a meal. Pressive, bruised pains in hypochondria. Abdomen distended and painfully inflated. Colic in umbilical region. Gripings, with diarrhœa, with chilliness, and shiverings. Lancination in sides. Grumbling in abdomen, with abundant expulsion of very fetid flatus.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "APPETITE, THIRST. DESIRES, AVERSIONS. [14] [Stront. c.]. No appetite ; meat disgusts him. Hunger soon after dinner. Violent thirst, especially for beer. Hiccough, Belching, Nausea and Vomiting. Violent long-continued hiccough, causes pain in chest. Empty eructations. Nausea : with burning heat in face ; with diminished appetite ; with weakness and ill-humor. Pressure in pit of stomach, aching in stomach, especially after a meal, with fulness. Pressure in stomach ; > by eating ; < on walking. Severe pressure in stomach, after eating ; chronic. Constriction in stomach, with uprisings of clear water. Burrowing in stomach and upper abdomen. Twinging feeling in stomach. Cutting in epigastric region. Stitches in stomach, now in right, now in left side. Pressive bruised pain in hypochondria. Colic with flatulent distension, diarrhœa, and chilliness.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "extremities": [
       {
         "text": "Sciatica with œdema of ankle. Rheumatic pain in right shoulder. Rheumatism with diarrhœa. Gnawing as if in marrow of bones. Cramps in calves and soles. Chronic spasms, particularly of ankle-joint. Œdematous swelling. Icy-cold feet. Rheumatic pains, especially in joints. Veins of hands engorged",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "Painful paralytic sensation in left shoulder, and elbow joint, at night. Constant burning pain in right shoulder joint. Tearing rheumatic pains in shoulders and arms, particularly in joints. Veins of arms and hands injected and tense ; prostration ; ill-humor. Weakness of right arm as if all power had left it, > on motion. Violent tearing pains in joints of right arm, < in evening, in bed ; left arm slightly affected. Trembling and numbness of fingers. Rheumatic, paralytic pain, tearing, drawing, jerking ; gnawing as if in marrow of bones. Swelling and caries of femur, usually in scrofulous children ; diarrhœa. Cramps in calves and soles of feet, especially in persons who suffer from cold feet. Chronic sprains, particularly of ankle joint, after failure of Ruta and Arnica ; œdema about joint. Œdematous swelling of right foot, sprained some years ago (Bovista in some cases). Sensation of icy coldness on outer surface of calf, the length of a finger. Icy-cold feet in evening. Rheumatic pains, especially in joints, < in evening, and at night in bed. Great emaciation. Immovability of limbs (on one, right, side of body) like paralysis, in evening. Most symptoms can hardly be determined as to locality, but seem to be in marrow of bones. One side of body is generally only affected (r. side).",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "fever_chill": [
@@ -60,6 +80,10 @@
       {
         "text": "Pulse full and hard, with violent pulsation in the arteries. Chill in forenoon, descending from sacrum to posterior part of thighs. Chilliness from head over shoulder-blades. Shiverings, morning and evening. Heat seeming to stream from nose and mouth, with thirst. Dry heat at night (with thirst). Profuse perspiration at night, and when a limb is uncovered pain is instantaneously felt in the part. Perspiration of parts affected (during morning hours). Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pulse full and hard, with violent pulsation in arteries. Chill in forenoon, descending from sacrum to posterior part of thighs. Chilliness from head over shoulder blades. Dry heat at night, with thirst. Heat seems to stream from mouth and nostrils. Perspiration during morning hours ; at night, mostly on affected parts ; pain < when uncovering.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "skin": [
@@ -70,6 +94,10 @@
       {
         "text": "Tension of skin in different parts, when in bed, in evening. Skin adherent to scar in forearm becomes looser. Eruption of small pimples in different parts, with burning itching, esp. after scratching. Sycotic eruption on face and elsewhere in mouth, itching, burning.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Itching pimples on skin. Sycotic eruption on face or other parts of body, is moist, itches and burns. Tension of skin, on various parts, in evening in bed. Itching grows < from scratching. When pains cease, itching begins, and vice versa. Rheumatic pains are < in evening, and at night. Trembling sensation in body, and debility, < in evening (and morning). Tension of skin in various parts. Skin adherent to scar in forearm, becomes looser.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "modalities": {
@@ -84,6 +112,12 @@
           "text": "change of weather; from being quiet; when beginning to move; great sensitiveness to cold",
           "source_id": "boericke-1927"
         }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Stront. c.]. Lying : low with head, tension in head <. Stooping : bruised sensation in back and sacrum <. Walking : causes hot, red face ; pressure in stomach < ; leucorrhœa ; tearing in joints of legs <. Motion : of eyes < burning ; pressive pain in chest < ; weakness of right arm >. Morning : nausea ; taste bitter ; diarrhœa < toward 2or 3o'clock ; great weakness ; perspiration ; trembling sensation in body <. Forenoon : chill. Noon : nausea, with pressive headache in left side. Afternoon : nausea, with sticking headache ; drawing pain along spine. Evening : nausea, with weariness ; tension over head < ; dry, hacking cough ; tearing in joints of arm < ; icy-cold feet ; rheumatic pains < ; immovability of limbs, like paralysis ; tension of skin on various parts ; trembling sensation in body <. Night : chilliness over scalp < ; diarrhœa < ; irritation in larynx causes cough ; cough < ; paralytic sensation in shoulder and elbow ; rheumatic pains < ; dry heat, with thirst ; perspiration mostly on affected parts. Heat of sun : > tension on head. Heat : tension over head >. Wrapping up warmly : threatened apoplexy >. Desire to keep warm. When uncovering : pains <. Cannot bear least draft of air : threatened apoplexy. Cold air : chilliness over scalp and back <.",
+          "source_id": "hering-guiding-1879"
+        }
       ]
     },
     "dosing": {
@@ -97,6 +131,10 @@
       {
         "text": "Native Strontium Carbonate, a mineral named Strontianite, was first discovered in the lead-mines of Strontian in Argyllshire, from whence it received its name. It occurs in massive, fibrous, stellated, rarely orthorhombic crystals. The metal Strontium is dark yellow. Stro. c. varies in colour from white to yellow and pale green. It was proved by Nenning, Schreter, Seidel, Trincks, and Woost. Among the prominent symptoms were flushing in the face and violent pulsation of the arteries; congestion to heart, lungs, and head. The distinctive feature about these states with Stro. c. is that they are > by warmth and wrapping up and by cold. This also distinguishes the headaches of Stro. c. The headaches are boring, pressive, and tensive. There are various expressions of the congestive state. One of the tensive pains is peculiar: \"Tension from vertex to upper jaw, as if head were expanded from within, and as if scalp were too tight, in evening when lying with head low, slowly increasing and decreasing, > from heat, The pressure appears in the stomach; it is > by eating; and by walking. There is also pressure after eating. There is both diarrhœa and constipation, the stools of both are accompanied and followed by burning in the rectum. A. P. Bowie (H. R., ii. 62) cured this case occurring after a tedious labour: Stools large and hard, expelled with great effort, followed by great pain in anus, burning, lasting a long time and compelling patient to lie down. Anus violently contracted after stool. Complains of coldness in spots on calves of legs. Stro. c. 6 entirely relieved. The diarrhœa is at night, and the stools are yellow. Walking all complaints: headache; leucorrhœa; dyspnœa; pressure in sternum. The symptoms about the chest and sternum, with the by walking, suggest angina pectoris, and a similar but less serious state often met with in gouty patients. The tension is manifested in the nape, as if the tendons were drawn up; tensive drawing in dorsal and lumbar muscles. In the arms there is venous tension: \"the veins of the arms and hands are injected and tense, with great prostration and ill-humour\"─suggesting phlebitis and varicosis. Stro. c. has a relation to sprains and bone affections. The femur is especially affected by it. It is particularly suited to bone affections of scrofulous children when associated with diarrhœa. The diarrhœa of Stro. c. is at night; is very urgent; can scarcely leave the vessel before having to return; > after 3 a.m. Stro. c. is indicated in chronic sprains of the ankle when œdema exists. C. M. Boger (H. R., xv. 339) cured with Stro. c., after other remedies had failed, a sciatica accompanied by œdema of left ankle. Sensations of Stro. c. are: As if a load on chest. As if head were expanded from within. As if scalp were too tight. As if tendons of neck were drawn up. As if bruised in back and sacrum. As if all power had left right arm. Gnawing as if in marrow of bones. Symptoms as if in marrow of bones. Symptoms like phantoms difficult to locate. External soreness is a note of Stro. c.; also numbness. Emaciation has been caused by it. The symptoms are by touch; by rubbing; by scratching. Lying with head low tension in head. Motion ; walking especially . Stooping . Exertion . Motion > weakness of right arm. Evening; night, and early morning, 2 or 3 a.m. Warmth, covering >. Heat of sun > tension in head. Least draught . Pain and itching alternate. Right side most affected. Pressure in stomach is > by eating; and after a meal.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Strontia carbonica. Mind and Disposition. Ill-humor with inclination to anger and impetuosity. Great forgetfulness. Head. Tension from the vertex to the upper jaw as if the head were expanded from within, and as if the scalp were too tight, worse in the evening when lying low with the head, slowly increasing and decreasing, better from heat. Stitches in the head. [5] Burning in the forehead. Chilliness over the scalp and upper part of the back, worse in the evening, at night, and in the cold air. Tension on the head (externally and internally), worse in the evening, and from cold, better from warmth, especially in the heat of the sun. Sensation of heat of the head and face, with red face, anxiety, and sleepiness. Eyes. Burning in the eyes. [10] Pressing pain on the upper surface of the eyes. Pressing in the eyes after rubbing them, which causes one to see red and blue margins. Green spots before the eyes in the dark. Luminous vibrations before the eyes. Nose. Dark, bloody scabs are blown from the nose. Face. [15] Face red, burning hot. Tearing pain in the malar bone, cheeks, and lower jaw. Violent boring pain in the (right) malar bone. Mouth and Throat. Sensation in the teeth as if screwed together. Violent tearing in the teeth after previously increased saliva in the mouth. [20] Sensation of numbness in the mouth (early on waking). Heat emanating from the mouth and nose, with thirst. The fauces are inflamed and painful (stinging) during deglutition. Stomach and Abdomen. Hunger soon after dinner. Violent thirst, especially for beer. [25] Taste in the mouth like earth. Nausea, with burning heat in the face. Pressure in the stomach, relieved by eating. Colic with diarrha and chilliness. Stool and Anus. Stool retarded, compact and in large lumps ; is expelled with great effort and violent pain in the anus. [30] After stool, contractive sensation in the rectum ; burning at the anus. Diarrha of yellow water. Urinary Organs. Urine pale, strongly smelling of ammonium. Sexual Organs. Women . Menstruation retarded, the discharge being serous at first, later clots of blood are passed. Menses too early and of too short a duration. Respiratory Organs. [35] Violent dry cough from irritation in the larynx at night. Dyspna, with hot, red face while walking. Back. Sensations as if bruised in the back and sacrum, worse from stooping and when touched. Sleep. When going to sleep twitching and starting. Generalities. Rheumatic pains, especially in the joints, worse in the evening and at night in bed. [40] Great emaciation. Immovability of the limbs (on one, the right, side of the body) like paralysis, in the evening. Most of the symptoms can hardly be determined as to locality, but seem to be in the marrow of the bones. One side of the body is generally only affected (right side). Fever. Pulse full and hard, with violent pulsation in the arteries. [45] Chill in the forenoon, descending from the sacrum to the posterior part of the thighs. Chilliness from the head over the shoulder-blades. Dry heat at night with thirst. Heat which seems to stream from the mouth and nostrils. Perspiration during the morning hours. [50] Perspiration at night, mostly on the affected parts, with increased pain when uncovering them. Skin. Tension of the skin on various parts in the evening in bed. Itching which grows worse from scratching. Conditions. The rheumatic pains are worse in the evening and at night. Trembling sensation in the body, and debility worse in the evening (and morning). [55] The pains and ailments increase gradually and decrease in the same manner. When the pains cease, the itching begins, and vice versa. Aggravation ; in the evening and at night ; from cold ; from denudation ; from water and washing. Amelioration ; in the open air, especially in the heat of the sun ; from warmth in general. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
       }
     ],
     "generalities": [
@@ -111,53 +149,88 @@
       {
         "text": "Hoarseness and roughness in throat, which excites a cough. Dry cough, excited by irritation in trachea, at night. Dyspnœa, when walking, with heat and redness of face. Tearing (rheumatic pains) in the limbs, esp. in the joints, in the evening, and at night in bed. One side of the body is generally only affected (r. side). Immobility of the limbs, on one side only (the r. side of the body), like paralysis, in the evening. Trembling of the limbs. Painful paralytic sensation in l. shoulder and elbow-joint at night. Constant burning pains in r. shoulder-joint. Veins of arms and hands injected and large; prostration; ill-humour. Tearings in arms hands, and fingers, esp. in joints. Numbness, almost paralytic, of the forearms and hands. Paralytic drawing in limbs. Swelling and caries of femur, usually on scrofulous children; diarrhœa. Cramp in calves and soles, esp. in people who suffer from cold feet. Sprains, esp. of ankle. Jerking of legs. Jerkings and tearings in legs, feet, and toes, esp. in joints. Swelling of feet. Sensation of icy-coldness in outer surface of calf (in spots). Icy-cold feet, evening. Excessive emaciation. The majority of the pains, the exact situation of which it is difficult to determine, seem to be in the medulla of the bones (?). The symptoms imperceptibly increase to a certain intensity, and diminish in the same manner. Predominance of symptoms on one side of the body. Violent involuntary starts of the body; tension in inner or outer parts; heat, with aversion to undress or uncover one's self. Affections in joints of legs. In night; evening; from cold in general; from undressing; after lying down and rising again; from rubbing; in darkness. > from light; from a very bright light; from warmth in general; from wrapping up warmly. > In open air, esp. from heat of sun. Great lassitude and depression, morning and evening.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Great weakness in morning ; weak, tremulous sensation. A single sudden jerk through upper part of body on falling asleep, makes her wide awake. Pains appear like phantoms, can scarcely tell where they are. Alternations : of pain and itching. Right : boring pain in spot of occiput ; boring in ear ; itching of cheek ; violent boring in cheek bone ; pain in lower jaw ; pain in pectoral muscles ; burning pain in shoulder joint ; weakness of arm ; tearing pain in joints of arm ; swelling of foot ; immobility of limbs. Left : headache in side ; twitching of upper lid ; sticking in front of ear ; stitch in chin ; pain in throat when swallowing ; burning in side ; paralytic sensation in shoulder and elbow joint. One side of body is generally only affected (r. side). Now right now left side : stitches in stomach. From within : as if head were expanded. From within outward : pressing in temples. As of a load on chest ; as if head were expanded from within ; as if scalp were too tight ; as if tendons of neck were drawn up ; as if bruised in back and sacrum ; as if all power had left right arm ; gnawing as if in marrow of bones ; symptoms as if in marrow of bones ; as of phantoms, difficult to locate. Pain : in left side of throat ; in chest. Violent pain : in anus. Tearing pain : in right ear ; in face ; in right lower jaw ; in teeth ; in joints of legs ; in joints of right arm ; in limbs. Cutting : in epigastric region. Violent clawing : in teeth. Lightning stitches : from both sides through chest. Stitches : in head ; in left side of chin into jaw ; in gums ; in right and left side ; in chest ; from ensiform cartilage. Jerking pain : in teeth and in roots. Tearing rheumatic pain : in shoulder and arms ; in limbs ; in joints. Boring pain : in a small spot in right side of occiput ; in right cheek bones. Drawing pain : in right pectoral muscles ; in small of back ; slight, along spine ; in limbs. Burning pain : in right shoulder joint. Sticking pain : in forehead ; in eyes ; in front of left ear ; in small of back. Dull pressive pain : in occiput. Pressive pain : in left side of head on upper surface of eyes ; in chest ; beneath sternum. Pressive bruised pain : in hypochondria. Cramp : in calves and soles. Aching : in stomach. Stinging : in fauces. Burning : in forehead ; in eyes ; in gums ; at anus ; in left side. Heat : of head and face ; seems to stream from mouth and nostrils. Tearing tension : in nape of neck. Burrowing : in stomach and upper abdomen. Twinging feeling : in stomach. Painful paralytic sensation : in left shoulder and elbow-joint. Pressure : in eyes ; in pit of stomach ; in stomach. Smothering feeling : about heart. Contractive sensation : in rectum. Screwing together sensation : in teeth. Tension : from vertex to upper jaw ; of various parts of skin. Pulsation : of arteries. Twitching : of left upper lid. Weakness : of right arm. Numbness : in mouth ; of fingers. Chilliness : over scalp and upper back. Itching : in inner canthi ; of right cheek ; in pharynx ; of pimples on skin ; of sycotic eruption. Emaciation. Symptoms seem located in marrow of bones. Chronic sequela of hemorrhages ; great forgetfulness ; bright colors before eyes ; semilateral (r. side) affections ; rheumatic pains, debility, trembling, emaciation, desire to keep warm ; old sprains. TOUCH. PASSIVE MOTION. INJURIES. [45] [Stront. c.]. Touch : sternum painful ; bruised sensation in back and sacrum <. Rubbing : eyes causes pressing, and objects have red and blue margins. Scratching : < itching of cheek ; increases itching.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "relationships": {
       "_raw": [
-        "Antidoted by: Camph. Compare: Bar. c. (closest congener; scrofulous, apoplectic conditions; chilliness). In headache > wrapping up warmly, Sil. (Sil. headache comes up spine and over head; Farrington says Stron. has the same). > Wrapping; sheep-dung stools, Mag. m. Sprains, Arn., Rhus, Ruta. Caries of femur with watery diarrhœa, Sil. Scrofulous bone affections, Staph. Pains increase and decrease gradually, Plat., Stan. > By light; aversion to darkness, Stram., Am. m., Calc. Bar. c., Ars., Carb. a., Carb. v., Caust., Lyc., Pho., Puls., Rhus, Val. (Cin., aversion to light). Walking, Æsc. h. Threatened apoplexy, Ast. r."
+        "Antidoted by: Camph. Compare: Bar. c. (closest congener; scrofulous, apoplectic conditions; chilliness). In headache > wrapping up warmly, Sil. (Sil. headache comes up spine and over head; Farrington says Stron. has the same). > Wrapping; sheep-dung stools, Mag. m. Sprains, Arn., Rhus, Ruta. Caries of femur with watery diarrhœa, Sil. Scrofulous bone affections, Staph. Pains increase and decrease gradually, Plat., Stan. > By light; aversion to darkness, Stram., Am. m., Calc. Bar. c., Ars., Carb. a., Carb. v., Caust., Lyc., Pho., Puls., Rhus, Val. (Cin., aversion to light). Walking, Æsc. h. Threatened apoplexy, Ast. r.",
+        "Compare : Baryta carb., Ferrum (congestion to head and chest) ; Silica and Mag. mur. (head symptoms better from wrapping up warmly) ; Arnica and Ruta (sprains of joints with œdema)",
+        "Copyright © Médi-T ® 2002",
+        "Main"
       ]
     },
     "mental_emotional": [
       {
         "text": "Inquietude and anguish. (Depression of spirits. R. T. C.). Apprehension as from a bad conscience. Peevishness, with tendency to fly into a rage. Excessive forgetfulness.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Apprehensive and anxious, as from a bad conscience. Ill-humored, angry, impetuous ; is inclined to beat everything that comes in his way. Great forgetfulness. Disinclined to talk. Vertigo : and nausea, in morning ; at noon, with pressive headache in left side ; in afternoon, with sticking headache in forehead ; in evening, with weariness ; with pressing sensation from within outward, in temples ; as from drinking wine.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "ears": [
       {
         "text": "Tearing in front of r. ear as if in the bone. Sticking in front of l. ear extending into it. Boring and tearing in r. ear. Roaring and tearing in r. ear in frequent paroxysms. Humming in the ears.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Roaring and tearing pains in right ear, in paroxysms. Sticking in front of left ear, extending into it.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "nose": [
       {
         "text": "Quivering on one side of nose. Blowing of (dark) sanguineous scabs from nose. Twitching of l. side of nose.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Nosebleed. Dark bloody scabs are blown from nose.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "face": [
       {
         "text": "Redness of face, with burning heat. Itching of face; of r. cheek, by scratching. Jerking, tearing and boring in zygomatic processes. Twitching of l. malar bone extending to frontal eminence. Violent boring pain in (r.) malar bone. Stitch in l. side of chin extending into jaw-joint.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Itching of right cheek, becoming < after scratching. Violent boring pain in right cheek bone. Neuralgic, tearing pain in face. Flushes in face and violent pulsation of arteries. Face red, burning hot. Tearing pain in right lower jaw. Stitch in left side of chin, extending into articulation of jaw.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "mouth_throat": [
       {
         "text": "Toothache, with jerking pain. Sensation in teeth as if screwed together. Tearing at root of teeth. Grasping pain in teeth, preceded by copious accumulation of saliva. Gums swollen, painful when touched. Bad odour from mouth. Sensation of numbness and of dryness in mouth, in morning (early when waking), without absence of saliva. Roughness and dryness of throat. Inflammation of palate, with pain during deglutition. The fauces are inflamed and painful (stinging) during deglutition. Sticking in throat on swallowing.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Front teeth feel on edge. Violent clawing in teeth. A screwing-together sensation in teeth. Jerking, tearing pain in teeth and in roots. Swelling, burning, and stitches in gums. Taste : bitter, in morning ; dry, earthy. Tongue : tip painful ; coated with mucus, feeling dry. Bad odor from mouth. Mouth slimy, or dry on awaking. Sensation of numbness in mouth, early on waking. Heat emanating from mouth and nose, with thirst. Fauces inflamed and painful (stinging) during deglutition. Rawness and dryness provoke hawking and hacking cough. Pain in left side of throat on swallowing. Itching in pharynx, on swallowing.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "stool_rectum": [
       {
         "text": "Hard, knotty fæces (compact and in large lumps), evacuated slowly, with effort and much pain (in anus). The stool is passed in lumps like sheep-dung, and only with great effort so that she thought she would faint, and with most frightful pain followed by boring in anus. Diarrhœa, of yellow water, with gripings and pinchings in abdomen. Diarrhœa at night, is scarcely off the vessel before he must return, > towards morning at 3 or 4 o'clock. Tenesmus after (the diarrhœa-like) stool. Burning sensation in, anus, during and after a stool. Pain, as from hæmorrhoids in rectum.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Diarrhœa of yellow water. Diarrhœa, < at night, is scarcely off vessel before he must return, > toward morning, at 3or 4o'clock. Stool retarded, compact and in large lumps ; expelled with great effort and violent pain in anus. After stool : contractive sensation in rectum ; burning at anus.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "urinary": [
       {
         "text": "Diminished secretion of urine. Increased secretion of a yellow, deep-coloured urine. Nocturnal emission of urine. Pale urine, with a strong smell of ammonia. Urine has a normal appearance with a strong smell of Iodine. (Urine strong-smelling. R. T. C.).",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Urine : pale, strongly smelling of ammonia ; diminished.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "male": [
@@ -170,24 +243,198 @@
       {
         "text": "Retarded catamenia, at first serous (like meat-water), afterwards in clots. Menses too early, and of too short a duration. Leucorrhœa while walking.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Menses : too early, and of too short duration ; retarded, discharge being serous at first, later clots of blood. Leucorrhœa while walking.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "chest_heart": [
       {
         "text": "Pressure at chest. Drawing pain in muscles of chest. Constriction; pressive pain walking. Spasmodic drawing and clawing; stitches on coughing and inspiring. Painfulness of sternum to touch. Slight burning l. side of sternum extending upwards. Pressure in sternum. Pressive pain beneath sternum, at night, disappeared in morning on rising. Slight sticking in ensiform cartilage on walking in open air. Dull stitches deep internally beneath ensiform cartilage, taking away the breath. (Pain in l. breast with oppression after meals. R. T. C.). Dull, intermitting pressure in præcordial region. Violent beating of arteries and of heart.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "In chest : constriction ; pressive pain, especially on motion. Spasmodic drawing and clawing ; stitches on coughing and inspiring. Dull intermitting pressure in precordial region. Violent beating of arteries and of heart. Sternum painful to touch ; burning in left side, extending upward ; pressure ; pressive pain beneath ; lightning stitches from both sides through chest, in a vertical direction. Stitches below ensiform cartilage. Drawing pain in right pectoral muscles.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "back": [
       {
         "text": "Tearing tension in nape as if tendons were drawn up. Sensations as if bruised in back and sacrum, from stooping and when touched. Pain, as of a fracture, in loins and back. Drawing pain in back, and lumbar region. Slight drawing pain along spine in afternoon, changing to a seated dull tearing in joints of legs, walking.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Tearing tension in nape of neck, as if tendons were drawn up. Drawing, sticking pain in small of back. Sensation as if bruised in back and sacrum, < from stooping and when touched. Slight drawing pain along spine in afternoon, changes to a seated, dull tearing in joints of legs, < by walking.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "sleep": [
       {
         "text": "Retarded sleep. Jerking in body and starts when sleeping. Frequent waking at night, principally caused by a dry cough. Sleep, with many fantastic dreams.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Restless sleep, frequent waking. When going to sleep : twitching and starting ; jerk through body awakens her. Dreams : of fire ; grieving ; filled with joy.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Time: Time, morning and evening, agg.; Time, evening, agg.; Time, night, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Conditions Of Aggravation And Amelioration: easily chilled, lacks heat; Cold, becoming, uncovering or undressing, agg.: warmth of beds, wraps or external heat, amel.; Foods, drink, tobacco, amel.; Light, amel., darkness, agg.; Lying, agg.; Rubbing, stroking, etc., agg.; Exertion.); Sun, exposure to, amel.; Change.).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Generalities: Ammoniacal odor; Bones, marrow; Nerves.); Ill or sick feeling; Increasing and decreasing gradually, sun-pains, etc.; Sprained.).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Head: Head, pains, extending, downward to nose, face, neck, etc.; Head, uncovering, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Head"
+      },
+      {
+        "text": "Cravings And Desires: Cravings and desires, beer.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Cravings And Desires"
+      },
+      {
+        "text": "Urinary Organs: Urinary organs, kidneys.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Urinary Organs"
+      },
+      {
+        "text": "Lumbar Region: Lumbar region, chill, starts in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lumbar Region"
+      },
+      {
+        "text": "Upper Limbs: Upper limbs, right; Upper limbs, shoulder, right.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Upper Limbs"
+      },
+      {
+        "text": "Lower Limbs: Lower limbs, foot, swelling, right; Lower limbs, joints.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lower Limbs"
+      },
+      {
+        "text": "Skin: Skin, tense.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Skin"
+      },
+      {
+        "text": "Chill, Chilliness, Coldness, Etc. In General: Chill, chilliness, coldness, etc., back (starts in).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Chill, Chilliness, Coldness, Etc. In General"
+      },
+      {
+        "text": "Sweat: Sweat, covers, heat, etc., amel.; Sweat, uncovering, intolerance of.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sweat"
+      },
+      {
+        "text": "Aaa: Alternations of; Ankles, swelled; Ankles, weak.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Blood, rushes of, upward; Bones, gnawing.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Chest, load, heavy, on; Climaxis; Convulsion, sleeplessness and; Cough, exertion, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Dropsy, dema, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Eee: Eyes, closing, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Face, pale; Faint, pain, agg.; Fleeting pains; Formication.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Hands, swelled, as if; Head, drawn to a point; Head, jaw into; Heart, head, alternating with; Heart, short breath.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Iii: Immobile; Itching, air, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      },
+      {
+        "text": "Kkk: Kidneys, nephritis.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Kkk"
+      },
+      {
+        "text": "Lll: Legs, cramp.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Mmm: Malar bones; Meat water, like; Mouth, numb.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Nape, pain in; Neck, air on, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Paralysis, side, left.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Shock [[through body]]; Shock, surgical; Stool, mealy; Stool, nightly; Stool, periodical [[diarrha]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Tension.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Urine, pale; Urine, scanty.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Www: Walk, must; Wind, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      },
+      {
+        "text": "General Analysis: AMMONIACAL ODOR; INCREASING slowly, then gradually decreasing, sun pains, etc.; LIGHT, Amel.; LYING, Agg..",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
+    ],
+    "respiratory": [
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Stront. c.]. Hoarse voice. Irritation in larynx causes violent dry cough at night. Dyspnœa, with hot, red face, while walking. Cough : constant, < at night ; short, now and then with pressive pain in chest ; dry, hacking, in evening ; from irritation in larynx or trachea.",
+        "source_id": "hering-guiding-1879"
       }
     ]
   },
@@ -195,7 +442,11 @@
   "provenance": {
     "sources": [
       "boericke-1927",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
+      "hering-guiding-1879",
+      "lippe-textbook-mm-1866"
     ]
   }
 }

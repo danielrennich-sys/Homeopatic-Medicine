@@ -1,14 +1,19 @@
 {
   "id": "gossypium-purificatum",
   "names": {
-    "primary": "Gossypium Purificatum (U. S. P.)",
-    "latin": "Gossypium Purificatum (U. S. P.)",
+    "primary": "Gossypium Purificatum",
+    "latin": "Gossypium Purificatum",
     "common": [
       "Purified Cotton"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Gossypium Purificatum (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

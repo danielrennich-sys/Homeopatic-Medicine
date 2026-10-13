@@ -8,7 +8,11 @@
     ],
     "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -25,6 +29,10 @@
       }
     ],
     "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Lactuca. A tincture of the fresh plant of Lactuca virosa, L., is used. Clinical :- ► It has been found useful for incessant spasmodic cough, with great irritation of the larynx ; the cough threatens to burst the chest, is associated with a sense of suffocation, and is followed by copious expectoration. ► It is to be compared with Dros . Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
       {
         "text": "The leaves of garden lettuce, Lactuca sativa, when too old and going to seed, have a bitter taste, and the stalk then contains a milky juice which is intensely bitter. This juice contains Lactucin, and is common to all lettuces, but is especially virulent in L. vir., from which (as well as well as from Lact. sat.) Lactucarium, or \"Lettuce Opium,\" is prepared. It has a soporific action, and is used \"instead of Opium to allay cough, quiet nervousness, and induce sleep in cases where, from idiosyncrasy, Opium is not borne\" (Brunton). This use of lettuces has been known from very remote times, and has not been added to by old-school observers. The sleep-provoking powers of Lactuca are recognised by sensitive persons who eat ordinary garden lettuce in salad. Homœopathic provings and records of poisonings have produced an extensive array of symptoms. A simple reading of the symptoms will show what a powerful agent we possess in Lactuca, though the homœopathic uses have not been as extensive as the proving seems to warrant. As an instance of poisoning I take this from C. D. P. A man, 25, ate Lact. v. in a salad, 7 p.m. Went to bed at 9. Was waked at 11 with sharp colicky pains, soon followed by nausea and vomiting, which lasted all night. Fell asleep at 5 a.m., but in the morning was astonished to find himself unable to distinguish objects clearly. A boy of 10 who ate of the same meal became affected with lively delirium at midnight, and it lasted till morning; he jumped about on the bed, played all sorts of pranks, and nobody could quiet him. He had no colic or vomiting. His pupils were dilated till the iris was a mere rim. Trying to read he mistook M for P and O for V. In his delirium he had hallucinations, saw on his bed a soldier, an inkstand, &c. Both these patients and another had liquid stools. The dilated pupils persisted some time. One of the keynote symptoms of Lact. v. is an indescribable sensation of tightness, affecting the whole body more or less, but especially the chest: must yawn and stretch to relieve the squeezing of the lower chest. This develops into asthma and angina pectoris. There is tightness in the liver region, and enlargements of the liver have been removed by Lact. v. when that symptom was present. Squeezing in left breast. Feeling as if a hundredweight on chest. On the other hand there is also a feeling of relaxation in the chest. There is intolerance of touch and pressure. Lact. v. has cured a spasmodic cough in frequent paroxysms with feeling of suffocation. Attacks came suddenly without any apparent cause, and were induced by a violent tickling in pharynx and roof of mouth (N. A. J. of H., May, 1890). Whooping-cough, paroxysms preceded by anxiety. There is both constipation and diarrhœa, and many concomitant anal symptoms. Hering gives \"Painful gonorrhœa in females\" as an indication; and one of the symptoms of the male urethra is suggestive. \"Sensation as of a drop continually passing along the urethra when seated.\" Urine has smell of violets. Lctu. has cured hypertrophy of ovaries in a woman of fifty, consequent on an abortion twenty-five years before. The tumour was excessively large, and the patient could get no rest for the pain of the pressure. The rectum was contracted, and fæces evacuated with great pain. \"Fatigue during stool,\" and also \"sleepiness during stool\" are peculiar and may prove characteristic. Ebullitions rising up from abdomen suggest globus hystericus. In addition to the sense of tightness there is a sense of lightness no less pronounced. Extraordinary lightness of body, more pronounced in open air. Feels as if swimming, in bed. Dreams of swimming in the, air, or of walking above the ground. The head feels light; also empty. Sensation as if head too large; as if brain loose. Sensation as if looking through gauze. \"Pain in spinal marrow even to cauda equina and streaming along coccyx\" should prove a leading symptom in some spinal cases. Other sensations are: As if chest would fly to pieces; as if circulation in legs was suspended. Coldness of stomach, throat, chest, feet. Right arm is much affected by Lact. v. Sitting up > chest symptoms. Bending > pain in stomach. Crossing legs > pinching in umbilical region. Touch . Sneezing . Symptoms are > in open air; in warm room. Yawning and stretching > pressure in chest.",
         "source_id": "clarke-dictionary-1900"
@@ -180,6 +188,7 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "clarke-dictionary-1900",
       "kings-american-1898"
     ]

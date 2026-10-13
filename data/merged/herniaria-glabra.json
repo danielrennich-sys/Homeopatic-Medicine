@@ -1,14 +1,19 @@
 {
   "id": "herniaria-glabra",
   "names": {
-    "primary": "Herniaria glabra (LINN.)",
-    "latin": "Herniaria glabra (LINN.)",
+    "primary": "Herniaria Glabra",
+    "latin": "Herniaria Glabra",
     "common": [
       "Rupturewort"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Herniaria glabra (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

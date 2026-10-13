@@ -1,14 +1,19 @@
 {
   "id": "senecio-jacobaea",
   "names": {
-    "primary": "Senecio jacobaea (LINN.)",
-    "latin": "Senecio jacobaea (LINN.)",
+    "primary": "Senecio Jacobaea",
+    "latin": "Senecio Jacobaea",
     "common": [
       "Ragwort"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Senecio jacobaea (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

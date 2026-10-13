@@ -1,16 +1,17 @@
 {
   "id": "ammonium-picricum",
   "names": {
-    "primary": "AMMONIUM PICRICUM",
-    "latin": "AMMONIUM PICRICUM",
+    "primary": "Ammonium Picricum",
+    "latin": "Ammonium Picricum",
     "common": [
       "Pictrate of Ammonia (AMMONIUM PICRATUM)"
     ],
-    "synonyms": [
-      "Ammonium Picricum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

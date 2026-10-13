@@ -1,18 +1,21 @@
 {
   "id": "salix-nigra",
   "names": {
-    "primary": "SALIX NIGRA",
-    "latin": "SALIX NIGRA",
+    "primary": "Salix Nigra",
+    "latin": "Salix Nigra",
     "common": [
       "Black-willow",
       "Black Willow"
     ],
     "synonyms": [
-      "Salix Nigra",
       "Salix Nigra. Salix nigra"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "face": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "mercurialis-annua",
   "names": {
-    "primary": "Mercurialis annua (LINN.)",
-    "latin": "Mercurialis annua (LINN.)",
+    "primary": "Mercurialis Annua",
+    "latin": "Mercurialis Annua",
     "common": [
       "Mercury, Annual"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Mercurialis annua (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

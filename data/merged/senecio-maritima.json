@@ -1,14 +1,19 @@
 {
   "id": "senecio-maritima",
   "names": {
-    "primary": "Senecio maritima (LINN.)",
-    "latin": "Senecio maritima (LINN.)",
+    "primary": "Senecio Maritima",
+    "latin": "Senecio Maritima",
     "common": [
       "Cineraria Maritima"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Senecio maritima (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

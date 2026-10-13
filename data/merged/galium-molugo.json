@@ -1,14 +1,17 @@
 {
   "id": "galium-molugo",
   "names": {
-    "primary": "Galium molugo",
-    "latin": "Galium molugo",
+    "primary": "Galium Molugo",
+    "latin": "Galium Molugo",
     "common": [
       "Bedstraw (Hedge)"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

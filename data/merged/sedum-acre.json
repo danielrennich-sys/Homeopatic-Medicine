@@ -1,14 +1,17 @@
 {
   "id": "sedum-acre",
   "names": {
-    "primary": "SEDUM ACRE",
-    "latin": "SEDUM ACRE",
+    "primary": "Sedum Acre",
+    "latin": "Sedum Acre",
     "common": [
       "Small Houseleek"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Tincture to sixth potency"

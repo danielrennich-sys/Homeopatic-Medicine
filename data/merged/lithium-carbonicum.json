@@ -1,17 +1,17 @@
 {
   "id": "lithium-carbonicum",
   "names": {
-    "primary": "LITHIUM CARBONICUM",
-    "latin": "LITHIUM CARBONICUM",
+    "primary": "Lithium Carbonicum",
+    "latin": "Lithium Carbonicum",
     "common": [
       "Carbonate of Lithium"
     ],
-    "synonyms": [
-      "Lithium Carbonicum",
-      "Lithium carbonicum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {
@@ -133,6 +133,12 @@
           "text": "in morning, right side",
           "source_id": "boericke-1927"
         }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Lith. c.]. Repose : headache > ; itching, sensitive pain in all fingers. Lying down : headache < ; violent cough, must rise. Sitting : headache > ; stitching in penis. Stooping : soreness about heart <. Standing : pain in sacrum ; weariness. On assuming an erect position : headache <. Motion : headache < ; itching, sensitive pains in hands and fingers >. On rising : pressing in region of heart ; rheumatic pains in r. foot pass off. After rising in morning : as she bent over bed violent pain in region of heart. Going up stairs : pains in and above knees. Walking : tenesmus vesicæ with micturition ; in open air constriction of chest ; ankle joints pain ; clumsiness at night. Morning : soft, light, yellow stools ; on rising to urinate, pressing in cardiac region ; violent pain in region of heart ; on rising, sore feeling near spine, right side. From morning till noon : eyes pain ; obstructed nose < ; solid lumps from choanæ and fauces <. Evening : pain and heaviness over brows < ; blows nose very much ; sore throat ; flatus ; tenesmus vesicæ ; violent cough. Night : anxiety, hopelessness ; urinating ; violent lancinations in bubo ; offensive stools ; erection after urinating ; feeling of prostration in sacrum ; rheumatic pain in right foot ; clumsiness in walking ; itching of side of feet and hands. Very hot water : itching of feet and hands >. Going out : headache >. Open air : dropping from nose ; constriction of chest. On inspiring air feels cold even into lungs.",
+          "source_id": "hering-guiding-1879"
+        }
       ]
     },
     "dosing": {
@@ -150,6 +156,10 @@
       {
         "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. LITHIUM CARBONICUM. (Carbonate of Lithium) Li CO 3 General Analysis.- The sphere of action of this drug is not well defined. It evidently acts most prominently upon mucous and muscular tissues. Its local action upon the heart, kidneys, and eyes seems most pronounced, and it is in diseases of these organs that its curative virtues have mainly been displayed. Characteristic symptoms. Mind.- (Lithium carbonicum) Difficulty in remembering names. Anxiety and hopelessness at night. Head.- (Lithium carbonicum) Heaviness in sinciput ; worse in frontal eminences. Confusion of the head. Headache ceases while eating, but returns and remains until food is again taken. Headache, like a stitch, superiorly in the vertex, on right side, sensitive when touched. Sunlight blinds him. Eyes.- (Lithium carbonicum) Black motes before eyes ; eyes sensitive after using them by candle light. Vision uncertain ; entire vanishing of the right half of objects ; if two short words occurred in succession, that on right hand was invisible. (Lyc. Lower half, Aur.) Sensation of a veil before the eyes. Eyes pain as if sore ; pain as from grains of sand ; feel dry, and pain after reading. Nose.- (Lithium carbonicum) Swollen, red ; worse right side ; internally sore and dry ; shining crusts form. Coryza ; dropping from nose. Throat.- (Lithium carbonicum) Sore throat, extending into the ear, and from ear to throat. ( Hep. s., Kali bi.) Hawking up mucus in large quantities. Stomach.- (Lithium carbonicum) Acidity of the stomach. Nausea, with gnawing in stomach, fullness in temples, headache. Fullness in stomach ; cannot endure slightest pressure of clothes. ( Lyc ., Calc. c., Nux v .) Abdomen.- (Lithium carbonicum) Pressure in hepatic region. Violent pain in hepatic region, between ilium and ribs. Feels swollen, as if distended with wind. Stool.- (Lithium carbonicum) Diarrhoea ; stools light-yellow (Chel.) ; offensive. (Ars., Asaf.) Urinary Organs.- (Lithium carbonicum) Pain, extending into spermatic cord ( Clem., Puls., Spong .), after urinating. Tenesmus of bladder while and after urinating. ( Canth .) On rising to urinate, a pressing in the region of the heart, which did not cease until after urination. Urine scanty, dark, acrid ; pain when passed ; emission difficult, with dark, reddish-brown deposit ; turbid, with mucous deposit ; profuse, with uric-acid deposit. Respiratory Organs.- (Lithium carbonicum) On inspiring, the air feels cold, even into the lungs. (Hydras.) Heart and Pulse.- (Lithium carbonicum) Violent pain in region of heart (Acon., Cact., Digit.), when bending over bed in morning. Pressive pain in heart. (Cact., Lil. tig., Digit.) Valvular deficiencies, worse from mental agitation, which cause a fluttering and trembling of the heart. Sudden shocks in cardiac region. Rheumatic soreness in region of heart. Pains in heart before and at time of urinating ; also before and at time of menses. (Lil. tig.) Back.- (Lithium carbonicum) Pressure, as with a dull point, here and there internally, as if near the sacral bone, in evening ; most on left side. Generalities.- (Lithium carbonicum) Occasional rheumatic pains in the limbs. Gouty pain in ankles and bones of feet. Prostration of whole body, especially knee joints and sacrum. Bones, joints, muscles of whole body sore, as if beaten. Before menses, symptoms more violent on left side ; after menses, on right side. All symptoms worse on right side. Therapeutic Range.- (Lithium carbonicum) Has been used in ophthalmia ; hemiopia ; acidity of stomach ; valvular deficiencies ; rheumatism ; gout ; nephritis. Compare.- (Lithium carbonicum) Cact., Digit., Lach., Graph., Lyc. Copyright © Robert Séror 2003",
         "source_id": "cowperthwaite-textbook-1891"
+      },
+      {
+        "text": "Main Condensed Materia Medica. By Constantine Hering. Presented by Médi-T . LITHIUM CARBONICUM. [Lithium carb.] Lithia. Hering. Alkali. [ 1 ] * [ 3 ] * [ 5 ] * [ 6 ] * [ 7 ] * [ 8 ] * [ 10 ] * [ 13 ] * [ 15 ] * [ 16 ] * [ 17 ] * [ 18 ] * [ 19 ] * [ 20 ] * [ 21 ] * [ 22 ] * [ 23 ] * [ 26 ] * [ 27 ] * [ 28 ] * [ 29 ] * [ 31 ] * [ 32 ] * [ 33 ] * [ 35 ] * [ 36 ] * [ 37 ] * [ 38 ] * [ 39 ] * [ 40 ] * [ 42 ] * [ 44 ] * [ 45 ] * [ 46 ] [1] Mind. ► Difficulty in remembering name. ► Disposed to weep about his lonesome condition. ► Anxiety, hopeless, all night. [3] Inner Head. ► Early on waking, headache in vertex and temples after sudden cessation of menses. ► Heaviness in sinciput, worse in frontal eminence. ► Pain and heaviness over the brows, worse toward evening. ► Headache ceases while eating, but returns and remains until food is again taken. ► Pain in left temple. ► Throbbing headache. ► Confusion of the head. ► Pressure in right side of forehead. [5] Eyes. ► Black motes before eyes ; eyes sensitive after using them by candle-light. ► Vision uncertain ; right half of objects invisible ; second day of menses ; pain over eyes. ► Sunlight blinds him. ► Eyes : pain as if sore ; pain as from grains of sand ; feel dry, and pain after reading. ► Throbbing and drawing deep in right eye and around it. ► Stitches in right eye. [6] Ears. ► Earache, left side from the throat. ► Pain behind left ear, in bone, extending toward the neck. [7] Nose. ► Swollen, red, worse right side ; internally sore and dry ; shining crusts form. ► Nose obstructed above, worse in morning and forenoon. ► Mucous discharge in evening. ► Dropping from nose in open air. [8] Face. ► Pain right side from root of tooth that has been sawn off, extending to temple ; next day same on left side from throat to ear. [10] Teeth. ► Teeth feel numb, dull and loose, cannot bite on them. [13] Throat. ► Sore throat in evening, right side. ► Sore throat, pain into ear. ► Solid lumps from choanæ and fauces, worse morning and forenoon. [15] Eating and Drinking. ► After fruit : diarrha. [16] Nausea and Vomiting. ► Acidity of stomach. ► Nausea with gnawing in stomach, fulness in temples, headache. [17] Stomach. ► Gnawing in stomach. ► Fulness in pit of stomach ; cannot endure slightest pressure of clothes. [18] Hypochondria. ► Pressure in hepatic region. ► Violent pain in hepatic region, between ilium and ribs. ► Sticking pain in left hypochondrium. [19] Abdomen. ► Feels swollen, as if distended with wind. ► Violent pain across upper part of abdomen. ► Pain in left abdominal ring, like a pressing from within outward. [20] Stool, etc. ► Stools soft, light, yellow, in the morning ; offensive at night ; stinking flatus in evening. ► Worse after fruit or chocolate. [21] Urine. ► Flashes of pain in region of bladder, more toward the right, before passing water ; pain extends into spermatic cord after urinating. ► Tenesmus vesicæ with micturition ; in the evening, while walking. ► Quick, strong tenesmus, with sensitive pain in middle of urethra. ► On rising to urinate, a pressing in cardiac region, not ceasing until after urination ; morning. ► Urine : strong , scanty, dark, acrid ; pain when passed, emission difficult ; with dark, reddish-brown deposit ; turbid, with mucous deposit ; profuse, with uric acid deposit. ► Frequent, copious urination disturbing sleep. [22] Male Sexual Organs. ► Erection after urination at night. ► Gonorrha, with alternate hemorrhage and discharge. ► Burning in urethra. ► Pain in testes, and when sitting, stitches in penis. [23] Female Sexual Organs. ► Menses : late, scanty ; cease suddenly, and headache comes on. [26] Breathing. ► On inspiring the air feels cold even into lungs. ► Constriction of chest when walking in open air after breakfast, then expectoration of much mucus, by hawking, seemingly from middle of sternum. [27] Cough. ► Violent, in quick shocks, evening while lying ; must rise ; no sputa ; irritation to cough, starts at a small spot posteriorly and inferiorly in throat. [28] Lungs. ► Pressure in middle of chest from within outward towards both sides. [29] Heart and Pulse. ► Violent pain in region of heart, as she bent over the bed ; morning after rising. ► Valvular deficiencies, worse from mental agitation, which cause a fluttering and trembling of heart. ► Sudden shocks in cardiac region. ► Rheumatic soreness in cardiac region. ► Pains in heart before and at time of urinating ; also before and at time of menses. [31] Neck and Back. ► Sore feeling right side near the spine, on a small spot ; worse from pressure ; morning on rising. ► Prostrate feeling in sacrum at night. ► Stitch in sacrum. [32] Upper Limbs. ► Pain near point of right pectoralis major on margin of right shoulder. ► Burning stitch in ball of hand in the left thumb. ► Itching, throbbing, sensitive pains, in all fingers, worse second and third of left hand, as if in the bones ; it extends from hands to finger-ends, only during repose ; better on pressure, when grasping and during motion. ► Left middle finger painful through and through. ► Soreness at margin of nail, with redness and pain. [33] Lower limbs. ► Itching-burning pain in small spot on right hip, then on thigh, then on little toe ; all on external aspect of limb ; also, internally on left thigh and knee. ► Occasional rheumatic pains. ► Knees weak, with pain, worse going up stairs. ► Feet, ankles, metatarsus, toes, especially at border of foot and sole, as if gouty. ► Ankle-joints pain when walking. [35] Position, etc. ► Going up stairs : 33 . Motion : 32 . Walking : 21 , 33 ; in open air : 26 . Sitting : 22 . Lying : 27 . After rising : 29 , 31 . Stooping : 29 . During repose : 32 . [36] Nerves. ► Prostration of whole body, especially knee-joints and sacrum. ► Paralytic stiffness in all the limbs and in whole body. [37] Sleep. ► Anxious, restless at night. ► Sleep disturbed by pains in sacrum and feet. ► Awakened by offensive diarrha, tenesmus vesicæ, erections, which subside on urinating. [38] Time. ► Morning : 3 , 7 , 13 , 20 , 21 , 29 , 31 . Forenoon : 7 , 13 . Evening : 3 , 7 , 13 , 20 , 21 , 27 . Night : 1 , 20 , 22 , 31 , 37 . [39] Temperature and Weather. ► Open air : 7 . Cool air inspired : 26 . [40] Chill, Fever and Sweat. ► Cold feet, soles worse ; then sudden heat beginning in soles and extending over whole body. ► General feeling of heat in the body ; sweat on back of hands. ► Copious sweat. [42] Sides. ► Right : 3 , 5 , 7 , 8 , 13 , 18 , 21 , 32 , 33 . Left : 3 , 6 , 8 , 18 , 19 , 32 , 33 . Within outward : 28 . Below upward : 40 . [44] Tissues. ► Bones, joints, muscles, whole body sore as if beaten. ► Arthritis. [45] Contact, Injuries, etc. ► Pressure : 17 , 31 , 32 . Grasping with the hand : 32 . [46] Skin. ► Itching and burning. ► Skin rough as a grater, harsh, dry ; barber's itch. ► Ringworm, dry, itching. ► Rough rash over body. θ Secondary syphilis. ► Milk crust. Copyright © Médi-T 2005. Main",
+        "source_id": "hering-condensed-mm-1877"
       },
       {
         "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Lithium carbonicum. Head. Pain over the eyes and tension, as if bound in the temples ; diminished while eating, but returning soon after eating, and remains as a pressure in the temples until in the night, and only goes away after falling asleep. Pains in a small spot in the right temple. Pressure in the temples from without inwards, with a pressing pain in the middle of the chest. Tension as if bound in the temples, with half vision. [5] Early on awaking, violent headache in vertex and temples (after sudden cessation of the menses), with nausea. Heavy weight upon the vertex with pressure upon the left temple. Headache worse when lying down ; it pains everywhere ; better when sitting ; relieved by going out. Looking at any thing makes the headache worse ; can hardly keep the eyes open ; they pain as if sore from morning till noon. Trembling and throbbing in the head, the pains in the heart extend to the head. [10] Head seems too large. Head externally sensitive. Eyes. Stitches in the right eye. Eyes pain as if sore. Sensation of dryness and pain in the eyes after reading. [15] Sensation as if sand were in the eyes. Pain over the eyes, with half vision. The sunlight blinds him. Uncertainty of vision and an entire invisibility of the right half of whatever she looked at (during second day of menstruation). Ears. Earache, left side, from the throat, with prosopalgia. [20] Pain behind the left ear, in the bone, extending towards the neck. Nose. Nose obstructed, above and in the forehead, in the morning and forenoon. Blows his nose very much in the remains behind in the choana. Dropping from the nose in the open air. Nose swollen, red, especially on the right side, sore internally-shining crusts form in it ; it is dry and as if inflamed (at the same time frequent urinating at night, disturbing the sleep). Face. [25] Pain in the right side of the face (afternoon) from the root of the tooth that has been sawn off, extending to the temple, followed next day by the same pain in the left side, passing from the throat to the left ear, causing earache and moderate brief pain in the left temple. Throat. Sore throat extending into the ear. Expectoration of mucus from the choana and out of the fauces in solid lumps, especially morning and forenoon. Stomach and Abdomen. Gnawing in the stomach worse before a meal, it goes away while he eats. Nausea and gnawing in the stomach. [30] Nausea, with fulness in the temples ; with headache. Acidity in the stomach. Fulness in the pit of the stomach, cannot endure any pressure of the clothes. Pressure in the hepatic region. Stool and Anus. Diarrha after fruit. [35] Very offensive stools (daring the night). Very stinking discharge of the flatus. Violent, painful, dull stitch in the perineum near the anus, from above downwards, from within outwards. Urinary Organs. Sensitive pain, sharp pressure, in the vesical regions, more on the right side, after urinating. Tenesmus vesicæ and micturition (evening while walking). [40] Flashes of pain in the region of the bladder, inferiorly, more towards the right before passing water ; pain extends into the spermatic cord after urinating. Quick strong tenesmus. Frequent and copious micturition (disturbing the sleep). Turbid urine with mucous deposit. Urine scanty and dark very acrid. [45] Dark, reddish-brown deposit. On rising to urinate, a pressing in the region of the heart, which did not cease till after urination (morning). Sexual Organs. Men . Erection after urination at night. Burning in the urethra. Women . Menses too late and too scanty. Respiratory Organs. [50] On inspiration the air feels so cold that it seems to be felt unpleasantly even in the lungs. Pressure in the middle of the chest. Constriction of the chest when walking (after breakfast), followed by expectoration of mucus. Violent cough in the evening, while lying down, compelling to rise, without expectoration ; the irritation to cough is in a little spot, posteriorly and inferiorly in the throat. Rheumatic soreness in the region of the heart. [55] Sudden shock in the heart. Throbbing ; like a dull stitch in the region of the heart. Pains in the heart after pains in the bladder. Pains in the heart before and at the time of the commencement of the menses. Trembling and fluttering of the heart (after mental agitation of a vexatious character). Back. [60] Stitch in the sacrum. Pain in the sacrum, when standing, with confusion of the head. Extremities. Upper . Burning stitch in the ball of the hand, in the left thumb. Itching-throbbing, very sensitive pain in all the fingers, as if it were in and upon the bones, extending from the hands to the ends of the fingers, only during repose ; it ceases upon pressure, when grasping, and during motion. Soreness at the margin of the nail, with pain and redness. [65] Lower . Pain in the right hip, later in the left. Rheumatic pains in the lower extremities. Pain of the knees, above the knees, especially when going up stairs. Prostrated feelings in the knee-joints, weakness of the knew, on going up stairs. Rheumatic pains in the right foot on awaking at night, they pass away on rising. [70] Painfulness of the feet, ankles, metatarsus, all the toes, especially of the border of the foot and the sole, as if it were gouty. Pain and weakness of the feet. Burning in the great toe, especially around the corns. Great soreness of the corns. Itching of the sole of the (left) foot on the inner margin. [75] Pain in the little toes. Generalities. Paralytic stiffness in all the limbs of the whole body as if beaten ; stiff and sore over the whole body, in all the bones, joints and muscles. Pressing, as if with a dull point, here and there, internally, as if it were wear the bone, most in the left side. Burning stitch which goes from within outwards, and ends in an itching. Contracting sensation, with shudder. Sleep. [80] Sleepiness early in the evening ; late in the morning. Sleep at night disturbed by urination. Voluptuous dreams, tenesmus vesicæ, and erections, which subside after urination. Fever. Shudder starting from the thorax. Very copious perspiration. [85] Perspiration on the back of the hands. Skin. Itching, at the anus, in the middle finger around the margin of the nail, on the side of the thigh, in the sole of the foot, in the palm of the hand. Copyright © Médi-T 2006",
@@ -299,6 +309,103 @@
         "text": "Shudder starting from thorax. Cold feet, soles < ; then sudden heat beginning in soles and extending over whole body. General feeling of heat in body ; sweat on back of hands. Copious sweat.",
         "source_id": "hering-guiding-1879"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Generalities: outward (sensations); Sprained.); Joints; Joints, small.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Head: Head, pains, extending, into eyes.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Head"
+      },
+      {
+        "text": "Eyes: Eyes, eyeball, behind.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eyes"
+      },
+      {
+        "text": "Mouth And Throat: Mouth and throat, spot, dry, sore, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mouth And Throat"
+      },
+      {
+        "text": "Heart, Circulation And Pulse: Heart, circulation and pulse, shocks at; Heart, circulation and pulse, sore, bruised.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Heart, Circulation And Pulse"
+      },
+      {
+        "text": "Upper Limbs: Upper limbs, fingers, around.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Upper Limbs"
+      },
+      {
+        "text": "Lower Limbs: Lower limbs, foot, border of.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lower Limbs"
+      },
+      {
+        "text": "Ccc: Cough, throat or larynx, left, from.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Direction, outward.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Hhh: Heart, aching, etc.; Heart, eyes with; Heavy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Iii: Itch, baker's, barber's.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      },
+      {
+        "text": "Mmm: Mammæ, arms, to.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Naso-pharynx, mucus drops into.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Plugs [[sensation]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Sour.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Generalities: Weakness and prostration of whole body especially of knee joints",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Puls. Looking: Worse on looking at anything | Lying down: Worse lying down",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Sensation: Stiffness in whole body | Weakness and prostration: Of whole body especially of knee joints",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: And prostration: Of whole body, especially of knee joints | On lying down: On looking at anything",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
     ]
   },
   "evidence": {},
@@ -307,7 +414,10 @@
       "boericke-1927",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890",
       "hering-guiding-1879",
+      "hering-condensed-mm-1877",
       "lippe-textbook-mm-1866",
       "nash-leaders-1899"
     ]

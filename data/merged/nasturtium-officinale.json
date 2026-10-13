@@ -1,14 +1,20 @@
 {
   "id": "nasturtium-officinale",
   "names": {
-    "primary": "Nasturtium officinale",
-    "latin": "Nasturtium officinale",
+    "primary": "Nasturtium Officinale",
+    "latin": "Nasturtium Officinale",
     "common": [
-      "Watercress"
+      "Watercress",
+      "Nasturtium"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Nasturtium"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -19,6 +25,10 @@
     "keynotes": [
       {
         "text": "A hardy perennial found in abundance near springs and open running watercourses, of a creeping habit with smooth, shining, brownish-green, pinnatifid leaves and ovate, heart-shaped leaflets, the terminal one being larger than the rest. Flowers small and white, produced towards the extremity of the branches in a sort of terminal panicle. The true nasturtium or Indian Cress cultivated in gardens as a creeper has brilliant orange-red flowers and produces the seeds which serve as a substitute for capers in pickles. The poisonous Marshwort or 'Fool's Cress' is often mistaken for Watercress, with which it is sometimes found growing. It may readily be distinguished by its hemlock-like white flowers, and when out of flower, by its finely toothed and somewhat pointed leaves, much longer than those of the watercress and of a paler green. The Latin name 'Nasturtium' is derived from the words nasus tortus (a convulsed nose) on account of its pungency. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "A Modern Herbal | Nasturtium Botanical.com Home Page Nasturtium See Watercress . Note: Today's \"Nasturtiums\" are actually in the Tropaeolum family. To find them on Richters, please see below: Purchase from Richters Tropaeolum family (not watercress!) Climbing Nasturtium (Tropaeolum majus) Seeds Dwarf Nasturtium (Tropaeolum minus 'Jewel Mix') Seeds Black Velvet Nasturtium (Tropaeolum minus) Seeds Cherry Rose Jewel Nasturtium (Tropaeolum minus 'Cherry Rose Jewel') Seeds Empress of India Nasturtium (Tropaeolum majus 'Empress of India') Seeds Find it in an herb garden collection... Chef's Salad Bouquet Edible Flower Garden",
         "source_id": "grieve-modern-herbal-1931"
       }
     ],

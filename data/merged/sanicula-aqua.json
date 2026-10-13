@@ -1,14 +1,17 @@
 {
   "id": "sanicula-aqua",
   "names": {
-    "primary": "SANICULA AQUA",
-    "latin": "SANICULA AQUA",
+    "primary": "Sanicula Aqua",
+    "latin": "Sanicula Aqua",
     "common": [
       "The Water of Sanicula Springs, Ottawa, I11 (SANICULA)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {
@@ -79,12 +82,115 @@
         "text": "color=\"#800000\">SANICULA AQUA The Water of Sanicula Springs, Ottawa, I11 (SANICULA) Has been found a useful remedy in enuresis, seasickness, constipation, etc. Rickets.",
         "source_id": "boericke-1927"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Motion, arms, behind him, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Nose And Accessory Cavities: Nose and accessory cavities, saddle across, brown.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nose And Accessory Cavities"
+      },
+      {
+        "text": "Stool: Stool, constipated; Stool, large caliber; Stool, scum, floating on.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Stool"
+      },
+      {
+        "text": "Aaa: Anger, awaking, on; Arms, behind him, agg.; Arms, raising, agg.; Athlete's foot.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Back, raising arms, agg.; Behind [[him]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Cheesy; Cheesy, old; Chill, wind, in; Clothes, damp [[feel]]; Coryza, eating, agg.; Covers, agg.; Craves, milk.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Dry.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Eee: Ears, behind; Emaciation, atrophy, etc.; Emaciation, descending; Eyes, rubs.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Fear, falling; Fishy; Foot, sweat, destroys shoes; Foot, sweat, sticky, hose stiff.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Hands, behind him; Hands, clammy; Head, sweat on.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Lll: Lumbar back; Lumbar back, coldness.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Mmm: Marasmus; Musty, moldy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Neck; Neck, air on, agg.; Neck, chloasma; Neck, sweat; Nose, discharges, eating, on.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ooo: Occiput, air on, agg.; Old age, look, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ooo"
+      },
+      {
+        "text": "Ppp: Palate, scalded [[as if]]; Positions, rest, can't in any; Pus, acrid; Pus, thick.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Rrr: Rectum, sticks, burr, splinter, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Saliva, salty; Salty; Skin, branny; Skin, brown (spots); Soles, burn; Stool, balls, of; Stool, crumbling; Stool, green, scum; Stool, green, turns; Stool, heavy; Stool, impacted; Stool, misshapen, angular, square, etc.; Stool, receding; Stool, removed, must be; Stool, triangular; Swelling, feeling, large, as if.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Throat, hollow, empty; Touch, each other, agg. [[of parts, fingers, etc.]]; Touchy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Urination, before, agg., cries, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vomiting, curds; Vulva, holds.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "boericke-1927"
+      "boericke-1927",
+      "boger-synoptic-key-1915"
     ]
   }
 }

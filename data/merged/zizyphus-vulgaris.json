@@ -1,14 +1,19 @@
 {
   "id": "zizyphus-vulgaris",
   "names": {
-    "primary": "Zizyphus vulgaris (LAMK.)",
-    "latin": "Zizyphus vulgaris (LAMK.)",
+    "primary": "Zizyphus Vulgaris",
+    "latin": "Zizyphus Vulgaris",
     "common": [
       "Jujube Berries"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Zizyphus vulgaris (LAMK.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

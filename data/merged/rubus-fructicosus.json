@@ -1,14 +1,17 @@
 {
   "id": "rubus-fructicosus",
   "names": {
-    "primary": "Rubus fructicosus",
-    "latin": "Rubus fructicosus",
+    "primary": "Rubus Fructicosus",
+    "latin": "Rubus Fructicosus",
     "common": [
       "Blackberry"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

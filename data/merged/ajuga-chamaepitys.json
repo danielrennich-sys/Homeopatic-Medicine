@@ -1,14 +1,19 @@
 {
   "id": "ajuga-chamaepitys",
   "names": {
-    "primary": "Ajuga chamaepitys (SCHREB.)",
-    "latin": "Ajuga chamaepitys (SCHREB.)",
+    "primary": "Ajuga Chamaepitys",
+    "latin": "Ajuga Chamaepitys",
     "common": [
       "Bugle, Yellow"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ajuga chamaepitys (SCHREB.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

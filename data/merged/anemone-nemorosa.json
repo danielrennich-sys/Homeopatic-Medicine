@@ -1,17 +1,20 @@
 {
   "id": "anemone-nemorosa",
   "names": {
-    "primary": "Anemone nemorosa (LINN.)",
-    "latin": "Anemone nemorosa (LINN.)",
+    "primary": "Anemone Nemorosa",
+    "latin": "Anemone Nemorosa",
     "common": [
       "Anemone (Wood)",
       "Wind Flower"
     ],
     "synonyms": [
-      "Anemone Nemorosa"
+      "Anemone nemorosa (LINN.)"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

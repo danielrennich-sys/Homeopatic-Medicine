@@ -1,14 +1,19 @@
 {
   "id": "scabiosa-succisa",
   "names": {
-    "primary": "Scabiosa succisa (LINN.)",
-    "latin": "Scabiosa succisa (LINN.)",
+    "primary": "Scabiosa Succisa",
+    "latin": "Scabiosa Succisa",
     "common": [
       "Scabious, Devil's Bit"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Scabiosa succisa (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

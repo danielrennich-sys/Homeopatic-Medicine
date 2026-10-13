@@ -1,16 +1,20 @@
 {
   "id": "citrus-aurantium",
   "names": {
-    "primary": "Citrus aurantium (LINN.), var. dulcis",
-    "latin": "Citrus aurantium (LINN.), var. dulcis",
+    "primary": "Citrus Aurantium",
+    "latin": "Citrus Aurantium",
     "common": [
       "Orange, Sweet"
     ],
     "synonyms": [
+      "Citrus aurantium (LINN.), var. dulcis",
       "Bitter Orange"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -54,18 +58,11 @@
     ]
   },
   "evidence": {
-    "summary": "",
     "lactation_safety": [
       {
         "section": "Drug Levels and Effects",
         "text": "Summary of Use during Lactation Bitter orange ( Citrus aurantium ) fruit contains several adrenergic agonists, primarily p-synephrine, but also octopamine and tyramine, as well as numerous flavonoids. Bitter orange has no specific lactation-related uses, but high dosages are often used in weight-loss agents. No data exist on the excretion of any components of bitter orange into breastmilk or on the safety and efficacy of bitter orange in nursing mothers or infants. Bitter orange is \"generally recognized as safe\" (GRAS) as a food and flavoring by the U.S. Food and Drug Administration. High dosages of bitter orange are often combined with caffeine and other stimulants in weight loss products, and the combinations may cause cardiac stimulation. Because of the lack of information on high dosages used in supplements and because animal data indicate that the adrenergic agents in bitter orange might decrease milk production, it should probably be avoided by nursing mothers, especially while nursing a newborn or preterm infant. Dietary supplements do not require extensive pre-marketing approval from the U.S. Food and Drug Administration. Manufacturers are responsible to ensure the safety, but do not need to prove the safety and effectiveness of dietary supplements before they are marketed. Dietary supplements may contain multiple ingredients, and differences are often found between labeled and actual ingredients or their amounts. A manufacturer may contract with an independent organization to verify the quality of a product or its ingredients, but that does not certify the safety or effectiveness of a product. Because of the above issues, clinical testing results on one product may not be applicable to other products. More detailed information about dietary supplements is available elsewhere on the LactMed Web site. Drug Levels Maternal Levels. Relevant published information was not found as of the revision date. Infant Levels. Relevant published information was not found as of the revision date. Effects in Breastfed Infants Relevant published information was not found as of the revision date. Effects on Lactation and Breastmilk Relevant published information in humans was not found as of the revision date. However, animal data indicate that octopamine decreases prolactin and might decrease milk production.[ 1 ] Pseudoephedrine, a pharmacologically similar vasoconstrictor, decreases milk production in nursing mothers after oral use.[ 2 ] References 1. Becú-Villalobos D, Thyssen SM, Rey EB, et al. Octopamine and phenylethylamine inhibit prolactin secretion both in vivo and in vitro. Proc Soc Exp Biol Med. 1992; 199 :230–5. [ PubMed : 1741415 ] 2. Aljazaf K, Hale TW, Ilett KF, et al. Pseudoephedrine: effects on milk production in women and estimation of infant exposure via breastmilk. Br J Clin Pharmacol. 2003; 56 :18–24. [ PMC free article : PMC1884328 ] [ PubMed : 12848771 ]",
         "source": "LactMed-NIH"
-      }
-    ],
-    "documented_adverse_effects": [
-      {
-        "text": "Bitter orange is likely safe when used orally in amounts commonly found in foods. Bitter orange oil is generally well tolerated when used topically or in aromatherapy. Serious concerns have been raised about possible risks of dietary supplements containing bitter orange. Cases of serious medical events, including abnormal heart rhythms, heart attacks, and strokes, have been reported in people who had taken bitter orange products, but most of the products contained multiple ingredients rather than bitter orange alone. Therefore, it is unclear whether bitter orange (or its component p -synephrine) played a role in causing the events. Evidence regarding the effects of bitter orange on the cardiovascular system is inconclusive. Some studies indicate that bitter orange raises blood pressure and heart rate, but others do not. Researchers from the FDA analyzed 59 bitter orange supplements for synephrine and related substances, all of which belong to a group of chemicals called amines. Several products contained higher amounts of amines than would be expected in a bitter orange extract. Of 23 products with labels that stated the amount of synephrine in the product, only 5 contained amounts of synephrine close to that indicated on the label (between 80 and 120 percent of the stated amount). Of particular concern, six products were adulterated with synthetic amines (methylsynephrine or isopropyloctopamine) that are not legal dietary ingredients in the United States and therefore are not permitted in dietary supplements. If you take any type of medicine, talk with your health care provider before using bitter orange or other herbal products; some herbs and medicines interact in harmful ways. It may not be safe to use bitter orange during pregnancy or while breastfeeding, and data from animal experiments suggest that substances in bitter orange might decrease milk production.",
-        "source": "NCCIH"
       }
     ],
     "regulatory": [
@@ -91,6 +88,13 @@
       {
         "section": "What Have We Learned?",
         "text": "Bitter orange has not been clearly shown to be helpful for any health-related purpose. The effects of bitter orange on body weight are unclear. Studies on this topic involved small numbers of people, usually evaluated combination products rather than bitter orange alone, and had conflicting results. Several small studies have evaluated the effects of bitter orange, with or without caffeine, on athletic performance. The results were inconsistent, but most of the studies did not show a beneficial effect. It is unclear whether applying bitter orange oil to the skin is helpful for fungal infections of the skin (ringworm, athlete’s foot, or jock itch). The one study that tested bitter orange oil for these infections did not compare it to other treatments or a placebo, so the study’s results are difficult to interpret. Bitter orange oil has been used in aromatherapy for various conditions including anxiety and insomnia, but it is unclear whether this is beneficial.",
+        "source": "NCCIH"
+      }
+    ],
+    "summary": "The bitter orange tree is native to Southeast Asia. Its fruit is too sour to eat raw, but the fruit, peel, and essential oils are used in cooking, as flavorings in beer and spirits, and to add aromas to perfumes. Bitter orange is currently promoted as a dietary supplement for weight loss, sports performance, and other uses. Bitter orange oil is used topically and in aromatherapy. The fruit of bitter orange contains p -synephrine and other naturally occurring chemicals. p -Synephrine is structurally similar to ephedrine, the main component in the herb ephedra, but p -synephrine has different pharmacologic properties (how it acts in the body). In 2004, the U.S. Food and Drug Administration (FDA) banned the use of ephedrine alkaloids (compounds found in Ephedra sinica and some other plants) in dietary supplements because of safety concerns. Prior to the ban, ephedra was an ingredient in some dietary supplements promoted for weight loss, increased energy, and enhanced athletic performance. Bitter orange products became more popular after ephedra was taken off the market and have been promoted as ephedra alternatives. The National Collegiate Athletic Association (NCAA) has placed “synephrine (bitter orange)” on its current list of banned drugs, listing it as a stimulant.",
+    "documented_adverse_effects": [
+      {
+        "text": "Bitter orange is likely safe when used orally in amounts commonly found in foods. Bitter orange oil is generally well tolerated when used topically or in aromatherapy. Serious concerns have been raised about possible risks of dietary supplements containing bitter orange. Cases of serious medical events, including abnormal heart rhythms, heart attacks, and strokes, have been reported in people who had taken bitter orange products, but most of the products contained multiple ingredients rather than bitter orange alone. Therefore, it is unclear whether bitter orange (or its component p -synephrine) played a role in causing the events. Evidence regarding the effects of bitter orange on the cardiovascular system is inconclusive. Some studies indicate that bitter orange raises blood pressure and heart rate, but others do not. Researchers from the FDA analyzed 59 bitter orange supplements for synephrine and related substances, all of which belong to a group of chemicals called amines. Several products contained higher amounts of amines than would be expected in a bitter orange extract. Of 23 products with labels that stated the amount of synephrine in the product, only 5 contained amounts of synephrine close to that indicated on the label (between 80 and 120 percent of the stated amount). Of particular concern, six products were adulterated with synthetic amines (methylsynephrine or isopropyloctopamine) that are not legal dietary ingredients in the United States and therefore are not permitted in dietary supplements. If you take any type of medicine, talk with your health care provider before using bitter orange or other herbal products; some herbs and medicines interact in harmful ways. It may not be safe to use bitter orange during pregnancy or while breastfeeding, and data from animal experiments suggest that substances in bitter orange might decrease milk production.",
         "source": "NCCIH"
       }
     ],

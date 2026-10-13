@@ -1,14 +1,17 @@
 {
   "id": "ecballium-elaterium",
   "names": {
-    "primary": "Ecballium elaterium",
-    "latin": "Ecballium elaterium",
+    "primary": "Ecballium Elaterium",
+    "latin": "Ecballium Elaterium",
     "common": [
       "Cucumber, Squirting"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

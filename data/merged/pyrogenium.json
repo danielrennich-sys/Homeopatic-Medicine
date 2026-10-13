@@ -1,16 +1,17 @@
 {
   "id": "pyrogenium",
   "names": {
-    "primary": "PYROGENIUM",
-    "latin": "PYROGENIUM",
+    "primary": "Pyrogenium",
+    "latin": "Pyrogenium",
     "common": [
       "Artificial Sepsin"
     ],
-    "synonyms": [
-      "Pyrogenium"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {
@@ -594,6 +595,138 @@
         "text": "Throbbing of vessels of neck running up in waves from clavicles. Weak feeling in back; stitching pain on coughing (S).",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Time: Time, evening, agg., 7 P.M..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Conditions Of Aggravation And Amelioration: easily chilled, lacks heat.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Generalities: Duality, in pieces, separated, as if some one else, etc.; Hard bed, sensation.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Mind: Mind, loquacity.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mind"
+      },
+      {
+        "text": "Nose And Accessory Cavities: Nose and accessory cavities, alæ, motions.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nose And Accessory Cavities"
+      },
+      {
+        "text": "Tongue: Tongue, down center (stripe).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Tongue"
+      },
+      {
+        "text": "Female Organs: Female organs, puerperal infection, septic uterus.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Female Organs"
+      },
+      {
+        "text": "Heart, Circulation And Pulse: Heart, circulation and pulse, blood, sepsis, etc.; Heart, circulation and pulse, swelled, full, etc., as if; Heart, circulation and pulse, tired, feeling.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Heart, Circulation And Pulse"
+      },
+      {
+        "text": "Aaa: Aching.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Blood; Bones; Bones, chilly, cold; Bones, pains.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Chill, night, at.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Duality.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Eee: Excitement.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Fever, hyperpyrexia; Fever, menses, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Hallucinations; Hands, cramp; Heart, swelled, as if; Heart, tired; Hot, bath, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Mmm: Menses, feverish during; Motion, agg.; Mouth, odor from.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Nails, loose, as if; Neck, throbbing in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ooo: Offensive, body.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ooo"
+      },
+      {
+        "text": "Ppp: Puerperal sepsis; Pulse, temperature, discordant; Purpura; Pus, foul.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Rrr: Red, rosy; Rocking, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Scapulæ, between, coldness; Sensorium, depressed; Sneezing, agg., least uncovering; Sore; Sore, bruised; Stool, balls, of; Streaks; Sweat, relief, no.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Temperature, oscillations of; Tongue, red, fiery; Tongue, smooth, glazed; Typhoid, aborting.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Urine, sediment, sticky; Uterus, septic.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vomiting, drinking, after a while.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Www: Weak.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      },
+      {
+        "text": "General Analysis: BLOOD SEPSIS, etc.; DUALITY, in pieces, separated, as if some one else, etc.; HARD BED SENSATION.",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
     ]
   },
   "evidence": {},
@@ -601,6 +734,8 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
       "kent-lectures-1905",
       "kent-mm-1911"
     ]

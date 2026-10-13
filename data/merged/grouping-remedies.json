@@ -1,12 +1,17 @@
 {
   "id": "grouping-remedies",
   "names": {
-    "primary": "Grouping of Remedies",
-    "latin": "Grouping of Remedies",
+    "primary": "Grouping Remedies",
+    "latin": "Grouping Remedies",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Grouping of Remedies"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

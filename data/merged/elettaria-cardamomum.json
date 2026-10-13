@@ -1,14 +1,19 @@
 {
   "id": "elettaria-cardamomum",
   "names": {
-    "primary": "Elettaria cardamomum (MATON)",
-    "latin": "Elettaria cardamomum (MATON)",
+    "primary": "Elettaria Cardamomum",
+    "latin": "Elettaria Cardamomum",
     "common": [
       "Cardamoms"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Elettaria cardamomum (MATON)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

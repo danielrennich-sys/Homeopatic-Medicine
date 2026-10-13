@@ -4,11 +4,12 @@
     "primary": "Culex Musca",
     "latin": "Culex Musca",
     "common": [],
-    "synonyms": [
-      "CULEX MUSCA"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -25,12 +26,25 @@
         "text": "Clinical: Vertigo",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Cough: Cough, foul air, coughs up.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Cough"
+      },
+      {
+        "text": "Vvv: Vertigo, nose, blowing, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "kent-new-remedies-1926"
     ]
   }

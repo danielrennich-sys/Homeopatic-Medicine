@@ -8,12 +8,43 @@
       "Dwarf Elder"
     ],
     "synonyms": [
-      "Aralia hispida"
+      "Aralia. Aralia hispida"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
+      {
+        "text": "Related entry: Aralia racemosa",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonym—Dwarf Elder.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "CONSTITUENTS—Has not been analyzed.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Specific Symptomatology—It is prescribed in dropsies of serous cavities, and diffuse anasarca from hepatic or renal inefficiency.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—A valuable, but infrequently used, remedy in dropsy. In anasarca, if given in active doses, it produces catharsis as well as diuresis, greatly augmenting the flow of urine and causing an excretion of water to a most serviceable extent. An infusion of aralia, given with other agents suggested for dropsy, will exercise a most immediate influence in the removal of the fluid. In suppression of urine it is an unirritating stimulant of much value. In gravel It is of some benefit, and may be given freely in combination with remedies directly indicated for other existing conditions.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
       {
         "text": "Related entry: Aralia racemosa",
         "source_id": "felter-eclectic-1922"
@@ -73,6 +104,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "ellingwood-1919",
       "felter-eclectic-1922",
       "grieve-modern-herbal-1931",
       "kings-american-1898"

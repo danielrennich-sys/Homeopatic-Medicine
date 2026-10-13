@@ -1,7 +1,7 @@
 {
   "id": "calcarea-fluorica",
   "names": {
-    "primary": "Cell Salt #1 - Calcarea Fluorica",
+    "primary": "Calcarea Fluorica",
     "latin": "Calcarea Fluorica",
     "common": [
       "Fluoride of Lime (FLUOR SPAR)",
@@ -10,15 +10,18 @@
       "Fluoride of Lime"
     ],
     "synonyms": [
-      "Calcarea Fluorica",
       "Calcarea Fluorata",
-      "CALCAREA FLUOR",
+      "Calcarea Fluor",
       "Cell Salt #1",
       "Schuessler Salt #1",
-      "Tissue Salt #1"
+      "Tissue Salt #1",
+      "Cell Salt #1 - Calcarea Fluorica"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {
@@ -260,6 +263,12 @@
           "text": "during rest, changes of weather",
           "source_id": "boericke-1927"
         }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Calc. f.]. After rest : lumbago worse. Sitting : < pain in hepatic region. Can sit in no position to > back. Lying : on painful side < pain in hepatic region ; on painless side > pain in hepatic region ; > wind in abdomen. Doubling up : > pain in hepatic region. Motion : pain in back better. Writing : eyes blurred and misty after. Walking about : > pain in hepatic region and back. Riding : < wind in lower abdomen. All day : depressed spirits. From 3 to 4 P. M. : larynx tickling-itching ; cough. Afternoon : headache with nausea ; backache. Towards night : larynx, dryness and hoarseness. Evening : dull headache, with faintish nausea, better. At night : throat feels < ; itching at anus ; rises to pass urine ; jumps from bed. Midnight : sharp pain, right hypochondrium ; itching of anus. At 8 A. M. : pains in hepatic region ; profuse emission of urine. From 8 A. M. to 3 P. M. : profuse emission of urine. Warmth : lumbago > from ; warm drink, > throat. Cold drinks : throat < from. Worse in damp weather, but > by fomentation. θ Osseous growth.",
+          "source_id": "hering-guiding-1879"
+        }
       ]
     },
     "dosing": {
@@ -371,12 +380,140 @@
         "source_id": "kent-mm-1911"
       },
       {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Calcarea Fluorata. The finest crystals of Fluor spar are triturated for use. Generalities, etc. :- ► Fatigue. ► Depression of spirits ; with anxiety about money matters. ► Indecision. ► Headache, with faintish nausea all the afternoon, amel. evening. ► Vision blurred after writing some time, with aching in eyeballs ; amel. closing eyes and pressing lightly upon them. ► Sneezing. ► Blowing of much mucus from nose, with ineffectual desire to sneeze. ► Cold sore at left corner of mouth. Throat :- ► Hawking of mucus in morning caused an attack of hiccough, which was weakening and recurrent frequently all day. ► Prickling, burning, suffocative sensation, agg. in latter part of day ; at night and by cold drinks, amel. transiently by warm drinks. Stomach and Abdomen :- ► Thirst. ► Paroxysms of lancinations in right hypochondrium, under eleventh rib, waking about midnight, agg. lying on painful side, so as to cause a bursting sensation, amel. lying on painless side and doubling up, with restlessness. ► Frequent attacks of lancinating pains in hepatic region at 8 A.M ., agg. sitting, amel. walking. ► Much wind in lower bowels, agg. riding and towards evening, agg. after lying down at night. Stool and Urine :- ► Urging to stool, the first part of the stool natural, the last part loose. ► Itching in anus as from pin-worms, waking at night. ► Constipation, with vertigo and dull headache. ► Frequent urging to urinate, urine causes smarting along urethra, particularly at external orifice, urine had a pungent odor. ► Micturition twice at night, with profuse urine. ► Urine copious from 8 A.M . till 3 P.M ., pale and watery. ► Urine copious and pale, afterwards scanty, high-colored and turbid. Respiratory Organs :- ► Larynx. ► Oppression, with tickling. ► Tickling in forenoon, with desire to clear it and with hawking. ► T. extending about three inches down trachea, as from a foreign body, after dinner, causing paroxysmal hacking cough, not amel. by cough, a desire to swallow from the same cause, but without relief. ► Itching tickling, amel. hawking mucus from that spot ; at night, forcing a spasmodic cough, amel. hawking mucus. ► Tickling itching, agg. from 3 to 4 P.M ., inducing, hacking cough. ► Dryness of larynx ; towards night, with desire to clear it and with hoarseness. ► Hoarseness ; in evening after reading aloud, with desire to clear the throat ; after laughing. ► Cough at 4 P.M ., with hoarseness. ► Respiration oppressed, as from taking cold, increased after a few days so that it seemed as if the epiglottis were nearly closed or as if he breathed through a thick substance. Back :- ► Tired aching, with restlessness ; in lower part in afternoon. Sleep :- ► Unrefreshing, on account of indistinct dreams of unsuccessful efforts to do various things, leaving and unpleasant impression on waking. ► Dreamed constantly, jumped from bed and tried to get out of the window, which woke him. ► Unremembered dreams. ► D. of the death of his daughter and of great grief and weeping. ► Vivid and distinct D. of the death of a relative, causing grief and weeping ; of new scenes, places, books, etc. ; of new scenes and places, not unpleasant, but with a sense of impending danger. ► Distinct and apparently long-continued D. of cutting a woman to pieces, as an animal for salting. Clinical :- ► In biochemical therapeutics it had been especially recommended for varicose and enlarged veins, indurated glands of stony hardness. ► Mal-nutrition of bones, especially of teeth. ► Many cases of cataract. ► Chronic synovitis of knee-joint. ► Exostosis after injuries. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
         "text": "Calc. fluor. is Schüssler's \"bone salt.\" It is found in the surface of bones, the enamel of teeth, in elastic fibres and in the cells of the epidermis. It has been principally used for dispersing bony growths; ulcerations of bone; and for fistula. A giant-celled sarcoma of upper maxilla causing the deformity known as \"frog-face\" was very greatly relieved by Calc. fluor. in a short space of time, after Silica had failed to make much impression. W. P. Wesselhœft cured two cases of syphilitic periosteal swelling, one on right radius, one on left ulna, one sensitive, one not, one patient male dark, the other blonde female. Each case received a dose of Calc. fl. c.m. G. P. Hale, with the 3x, has removed induration after typhlitis, also encysted tumour of eyelids. He regards induration threatening suppuration as a marked indication. Induration in epigastric region after a kick from a horse was cured. Also indurated glands (of neck; of breast, &c.) of stony hardness. The mental condition is one of depression; anxiety; indecision. Cephalhæmatoma. Spots on cornea. Senile cataract has been cured by it. Ozæna. Herpes (hard, small) on lips. Deficient enamel of teeth. Prickly, burning, suffocating sensation in throat. Bleeding piles. One prover, Dr. Sarah N. Smith, had among other symptoms this peculiar and constant one in the head: A sort of creaking, straining, and drawing, like the noise of a corn-stalk fiddle, greatly interfering with sleep. Dr. Sarah Hogan gave Calc. fluor. with complete success in a case of flatulency in a pregnant woman. The patient passed through the labour quite easily, whereas the previous labour had been very difficult. In many other cases Dr. Hogan found the remedy facilitate labour. She found flatulency a marked indication for the remedy independently of pregnancy. In hæmoptysis it has been used with success, its effect being apparently to cause contraction of the blood-vessels. Lumbago from strains; after rest, > after moving a little and from warmth. Vivid dreams of death. Warmth >; warm drinks >, cold drinks throat pain. From damp weather, but > from fomentations. > By rubbing.",
         "source_id": "clarke-dictionary-1900"
       },
       {
         "text": "Indurated swellings, of a stony hardness; in glands, or fasciæ or ligaments.",
         "source_id": "nash-leaders-1899"
+      }
+    ],
+    "comparative": [
+      {
+        "text": "[The Acids] Calcarea fluorica is especially useful for osseous tumors and for en- largement of bones with or without caries, Last summer a lady came to my office with what the dentist had pronounced to be necrosis of the lower jaw on the left side. The teeth had been removed by him, but the patient, instead of getting better, grew worse, and there was a continual discharge from the cavity. The molar just back of the one taken out had been filled with gold, and that I found on examination to be rough at its root; and when she pressed her jaws together tightly, there would ooze, apparently from its socket, a fluid which was offensive, dark and bloody, and mixed with fine pieces of decayed bone. The gum around the bone was purple and offensive in itself. The dentist had said that a surgical operation was necessary. The first remed}^ given was Silicea, which seemed to have some effect. This was followed by Fluoric acid. These two remedies are comple- mentary, and you will frequently find in the bone disease that you will",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Acids"
+      },
+      {
+        "text": "[The Acids] Silicea, Calcarea ostr. , Calcarea fluor. Kali carb. Fluoric acid, i Arsenicum, Phosphoric acid. Mercurius. ^Rhus tox.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Acids"
+      },
+      {
+        "text": "[The Acids] We also find it indicated in dental fistulse. The discharge is bloody, and has a saltish, disagreeable taste, rendering the mouth foul, and gradually undermining the whole constitution. Fluoric acid will here relieve. There .is another remedy which has not been thoroughly proven, but which seems to act better here than the Fluoric acid, and that is the Fluoride of Calcium or Calcarea fluor ica.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Acids"
+      },
+      {
+        "text": "[The Acids] have to give one after the other. Fluoric acid is especially indicated when Silicea has been abused. It is also indicated when Silicea appa- rently does some good, but fails to complete the cure. Now, in the case I have just related, Fluoric acid also helped for awhile, but im- provement again came to a stand-still, and now I noticed a swelling of the bone on the outer surface. This led me to think that Calcarea fluoriccu would act better, and I gave it in the sixth trituration. That she had been taking since the first of August. A week ago* the dis- charge had entirely ceased. The tooth, which had been filled with gold, was no longer painful. Pink granulations were springing up all over the gums. The probe can no longer detect bone which is diseased.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Acids"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Motion, beginning, agg., continued, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Generalities: Bones; Bones, caries; Bones, exostoses; Fibrous tissue; Fistulæ; Glands, hard; Hardness, induration.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Mouth And Throat: Mouth and throat, tonsils, enlarged.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mouth And Throat"
+      },
+      {
+        "text": "External Throat: External throat, glands of (goitre, etc.).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "External Throat"
+      },
+      {
+        "text": "Upper Limbs: Upper limbs, joints, finger.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Upper Limbs"
+      },
+      {
+        "text": "Lower Limbs: Lower limbs, joints, hip, motion, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lower Limbs"
+      },
+      {
+        "text": "Skin: Skin, parchment-like.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Skin"
+      },
+      {
+        "text": "Aaa: Aneurism; Ankles, cold.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Bones, non-union.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Eee: Eyes, lids, styes.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Foreign bodies.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Ggg: Glistening.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Hard, stony.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Nnn: Nevus.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Rrr: Rough.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Salivary glands; Stool, foul, putrid; Stool, green, turns; Styes.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Tibiæ, nodes.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Vvv: Varicoses.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Www: Wrists, cold.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      },
+      {
+        "text": "General Analysis: BONES.; Agg.; FIBROUS TISSUE; FISTULAE; HARDNESS.",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
       }
     ],
     "urinary": [
@@ -426,10 +563,14 @@
   "provenance": {
     "sources": [
       "boericke-1927",
+      "farrington-clinical-1908",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879",
       "kent-lectures-1905",
       "kent-mm-1911",
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "clarke-dictionary-1900",
       "nash-leaders-1899"
     ]

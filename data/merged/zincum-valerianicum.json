@@ -1,16 +1,17 @@
 {
   "id": "zincum-valerianicum",
   "names": {
-    "primary": "ZINCUM VALERIANICUM",
-    "latin": "ZINCUM VALERIANICUM",
+    "primary": "Zincum Valerianicum",
+    "latin": "Zincum Valerianicum",
     "common": [
       "Valerinate of Zinc (ZINCUM VALERIANUM)"
     ],
-    "synonyms": [
-      "Zincum Valerianicum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {
@@ -110,13 +111,76 @@
         "text": "Dull headache and stiffness of muscles of neck, lasting all evening.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Aaa: Abdomen, cramp, colic, griping.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Back, ascending; Burning, heat, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Chill, exertion, agg.; Chill, nervous; Colitis, mucous.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Eee: Ears, ticking; Excitement.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Flatulence, abdomen, lower; Flatulence, painful.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Hearing, ticking sounds; Hiccough.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Mmm: Menses, painful; Motion, agg.; Mucous, colitis.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Nerves, nervous.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ooo: Ovaries; Ovaries, thighs to.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ooo"
+      },
+      {
+        "text": "Rrr: Respiration, eating, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Sciatic nerve, move, must; Sleepless; Spasm.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Taste, sour.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "boericke-1927",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "boger-synoptic-key-1915"
     ]
   }
 }

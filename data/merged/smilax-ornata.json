@@ -1,14 +1,17 @@
 {
   "id": "smilax-ornata",
   "names": {
-    "primary": "Smilax ornata",
-    "latin": "Smilax ornata",
+    "primary": "Smilax Ornata",
+    "latin": "Smilax Ornata",
     "common": [
       "Sarsaparilla, Jamaica"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

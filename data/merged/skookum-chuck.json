@@ -1,16 +1,19 @@
 {
   "id": "skookum-chuck",
   "names": {
-    "primary": "SKOOKUM CHUCK AQUA",
-    "latin": "SKOOKUM CHUCK AQUA",
+    "primary": "Skookum Chuck",
+    "latin": "Skookum Chuck",
     "common": [
       "Chuck-Water and Skookum-Strong (Salts from Water from Medical Lake near Spokane, Wash) (SKOOKUM - CHUCK)"
     ],
     "synonyms": [
-      "Skookum Chuck"
+      "SKOOKUM CHUCK AQUA"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Third trituration"

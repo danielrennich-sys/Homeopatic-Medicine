@@ -1,0 +1,51 @@
+{
+  "id": "chininum-arsenicum",
+  "names": {
+    "primary": "Chininum Arsenicum",
+    "latin": "Chininum Arsenicum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Chininum Arsenicum. The arsenate of \"Quinia\" is triturated for use. General Action and Allies :- ► See Chininum sulph . and Arsenic . ► Tired feeling. ► Head feels too full or as if it would burst. ► Painful pressure in forehead and temples. ► Confused pain in forehead and occipital protuberance. ► Dull, heavy aching in forehead and occiput ; in cerebellum on motion. ► Sudden throbbings in temporal arteries after 1 P.M . ► Taste metallic, bitter. ► Throat dry. ► Loss of appetite, with weak feeling. ► Hiccough. ► Belching, then urging to stool. ► Nausea ; during stool, with retching. ► Burning in stomach. ► Pressure behind stomach, not amel. dinner, which was relished ; in solar plexus extending towards back, where it changed to pinching, spine sensitive to touch at this point. ► Emission of flatus. ► Colic ; below umbilicus, with urging to stool. ► Intermittent sore pain in a spot below and to right of umbilicus. ► Sudden violent urging to stool. ► Diarrha four times ; urgent D., containing jelly-like lumps ; watery, blackish, immediately after dinner ; watery, brown, painless ; fæcal stool, with mucus and blood, tenesmus before and after the stool. ► Respiration very free, as if chest were hollow, in afternoon. ► Stitching in front of right lower part of chest, agg. inspiration. ► Pain below and to left of left nipple, not affected by breathing ; coming and going quickly in lower part of left lung, with pressure as from flatulence. ► Palpitation on leaning against back. ► Sensation as if heart stopped after 1 P.M ., beating imperceptible. ► Trembling of heart, with a rumbling noise, I was unable to distinguish the pulsations, this lasted an hour, then beating of heart and pulse (the latter imperceptible on left side) became irregular and numbered 200. ► Pulse 200. ► Momentary pain in joint of left great toe, in left little finger and in region of left olecranon. ► Weariness in shoulder and elbow-joints. ► Tired pain in biceps of left arm. ► Sore aching in left forearm, in muscular mass composed of supinator longus and brevis and flexor longus pollicis ; in flexors of left forearm, agg. radial side near elbow, same pain below left knee ; in first phalanx of left, then right thumb. ► Pain in first joint of left ring finger. ► Palms dry and hot. ► Weariness of lower limbs. ► Pain along front of lower two-thirds of left tibia ; intermittent sore, in right biceps midway between hip and knee and in calf ; fleeting sore, in sole at root of left little toe. ► Sleep interrupted. Clinical :- ► It has been prescribed in malignant sore throat (diphtheria), with great prostration, especially in the latter stages or when the disease is very prolonged and shows no tendency towards convalescence. ► Angina pectoris, with burning pain and great prostration, occurring in periodical paroxysms. ► Asthmatic attacks or suffocative attacks, recurring every day at the same hour, during phthisis, with icy-cold skin and great anxiety, wants the open air. ► In marsh malaria it has been used when after the paroxysms there are cold sweat, prostration, great irritability, brown diarrha, etc. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Face: Face, red, eyes, around.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Face"
+      },
+      {
+        "text": "Ttt: Temperature, oscillations of.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Www: Water, tastes, bitter.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      },
+      {
+        "text": "Generalities: Languor and drowsiness: With stretching and yawning",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "allen-handbook-1889",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890"
+    ]
+  }
+}

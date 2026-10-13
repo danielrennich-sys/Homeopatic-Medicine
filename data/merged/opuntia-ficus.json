@@ -1,14 +1,17 @@
 {
   "id": "opuntia-ficus",
   "names": {
-    "primary": "OPUNTIA FICUS",
-    "latin": "OPUNTIA FICUS",
+    "primary": "Opuntia Ficus",
+    "latin": "Opuntia Ficus",
     "common": [
       "Prickly Pear (OPUNTIA-FICUS INDICA)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Second attenuation"

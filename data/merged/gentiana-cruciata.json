@@ -7,6 +7,9 @@
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -23,6 +26,10 @@
       }
     ],
     "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Gentiana Cruciata. A tincture is made of the fresh root of G. cruciata, L. Generalities :- ► Tension of all nerves so that walking was difficult. ► Uneasiness. ► Faintness. ► Amelioration in open air. Mind :- ► Weeping mood, with disinclination to talk. ► Apprehension, with rapid and difficult breathing, swelling of temporal veins, pressure in temples, and on reading print, indistinct vision. Head :- ► Constriction on prolonged sitting. ► Sensitiveness after dinner, agg. violent motion of it. ► Confusion. ► Vertigo. ► Pressure in forehead ; in temples. ► Sudden stitch through left temple towards 6 P.M . ► Tension in vertex and at times jerking pain, the tension becoming an acute pressure, agg. exerting eyes or constant thought. Eyes, Ears and Nose :- ► Pressure inward in right eye. ► Eyes feel as if lying deep on orbits. ► Acute drawing in mastoid process. ► Frequent sneezing. Face and Mouth :- ► Two aphthous ulcers on margin of lower lip, on either side of frænum. ► Saliva increased. Throat :- ► Violent pulsation in carotids. ► Redness of posterior part of palate, of both tonsils and upper part of pharynx, at certain times of day ; R. of arch of palate, uvula and posterior wall of pharynx, with difficult swallowing and anxious constriction ; R., with constriction so that swallowing was difficult, and constant hawking up of tenacious mucus. ► Sticking in tonsils. ► Rawness and scraping ; with constriction on swallowing ; R. causing frequent hawking. ► Scraping, and in soft palate and half way down sophagus. ► Constriction, with frequent necessity to hawk and expectorate. ► Difficult swallowing. Stomach :- ► Appetite increased ; lost. ► Thirst. ► Eructations of air tasting of the tincture ; of air and of acid fluid tasting of the drug ; of air relieving the tension of abdomen and the headache ; acid E., then three sour, watery vomitings. ► Nausea ; with inclination to lie down ; with constriction of throat. ► Vomiting ; violent, difficult, of mucus ; difficult, of scanty, bitter, sour-smelling mucus, leaving scraping and rawness in throat. ► Movements, then in abdomen, amel. walking. ► Pressure ; as from a stone, with nausea ; inward in pit. ► Full sensation, with constant inclination to eructate. ► Burning. ► Sensation all day in S. and sophagus as if he had swallowed a hot morsel, then cold water, agg. eating, amel. drinking water. Abdomen :- ► Frequent passage of offensive flatus. ► Distention ; amel. continued walking ; with constriction ; with heaviness in stomach and frequent empty eructations. ► Movements, with headache, then copious pasty stool. ► Pain. ► Tension ; agg. a profuse pasty stool ; with nausea. ► Intermittent griping, sore sensation in umbilical region, agg. dinner, amel. sitting and lying, standing and walking, obliging him to bend forward, therewith the umbilicus seemed drawn forward. ► Dragging in right inguinal region as if something would protrude, amel. sitting and lying, after violent sneezing sensitive protrusion the size of a hazel-nut. Stool :- ► Urging, then three watery stools. ► Three liquid, preceded by griping. ► Pasty diarrha several times. ► Free, pasty, without the usual itching in anus. Sexual Organs :- ► Menstruation three days earlier than usual, during which there was headache as if head were too full, with distended feeling in skull, amel. rest, agg. motion, and delaying sleep. Respiratory Organs :- ► Hoarseness, the voice gave out in the middle of his speech ; H. in attacks, with sensitiveness of throat. ► Frequent expectoration. Neck and Back :- ► Drawings in cervical muscles ; extending to ears, agg. turning head, an uneasiness so that he could not remain long in one position ; D. along right side of neck to shoulder with jerking. ► Tension in lumbar region. Extremities, etc. :- ► Jerklike drawings in extremities. ► Distressing drawing in right shoulder. ► Cramplike pains in soles. ► Creeping in evening over whole body as from fleas. ► Uneasy sleep. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
       {
         "text": "\"G. cruciata,\" says the Treasury of Botany, \"has been invested with imaginary virtues, because its leaves grow in the form of a cross; it has been recommended in hydrophobia.\" Its virtues are not all imaginary, and its reputation as a remedy for hydrophobia is partly justified in the provings. The proving of Gent. cruc. (by Watzke and ten others) developed a number of striking symptoms in the throat and digestive tract. Movings about in stomach and abdomen. Pressure in the stomach as if a stone was in it, with inclination to vomit. All the symptoms of right inguinal hernia occurred in one prover. A peculiar sense of apprehensiveness; faintness; uneasiness. One prover felt as if all the nerves were tense, so that walking was difficult. Creeping over the body as from fleas in the evening. The symptoms are after eating. > From warm soup; from drinking fresh water; in open air.",
         "source_id": "clarke-dictionary-1900"
@@ -86,6 +93,7 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "clarke-dictionary-1900"
     ]
   }

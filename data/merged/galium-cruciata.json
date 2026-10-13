@@ -1,14 +1,19 @@
 {
   "id": "galium-cruciata",
   "names": {
-    "primary": "Galium cruciata (SCOPOLI)",
-    "latin": "Galium cruciata (SCOPOLI)",
+    "primary": "Galium Cruciata",
+    "latin": "Galium Cruciata",
     "common": [
       "Crosswort"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Galium cruciata (SCOPOLI)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

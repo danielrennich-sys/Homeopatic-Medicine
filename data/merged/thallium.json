@@ -7,6 +7,9 @@
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -23,6 +26,10 @@
       }
     ],
     "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Thallium. The pure metal is triturated. ► Emaciation. ► Hyperæmia, agg. application to conjunctiva, with swelling and excessive secretion. ► Trembling ; and chorea-like movements. ► Pains agg. lower limbs, with lassitude. ► Conjunctivitis, with much mucus (and perhaps disturbance of vision). ► Ptyalism. ► Appetite lost. ► Nausea. ► Vomiting. ► Lancinations following each other with the rapidity of electric shocks, in stomach and bowels . ► Abdomen retracted. ► Pain in intestinal canal. ► Diarrha and even bloody stools. ► Constipating. ► Respiration slow and difficult. ► Pulse slow. ► Paralysis of lower limbs . ► (Compare Plumbum , to which it is closely allied physically.). Clinical :- ► It has relieved the violent pains of locomotor ataxia. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
       {
         "text": "Thallium is a rare metal discovered by Crookes in the residuum left from the distillation of Selenium and named Thallium (θαλλός, a green shoot) from the green it gives in the spectrum (H. W., xxxiii. 242). It has been experimented with by Lamy and Marme. Some symptoms of Thal. sul., which is an energetic poison, are included (and distinguished) in the Schema. The symptoms observed on animals were from the sulphate, with which Lamy experimented (H. W., xxxiv. 82). Combermale, of Lille, used Thal. with success in the night-sweats of phthisis, but this treatment had the effect of causing profuse falling of the hair, so serious as to contraindicate its use. Huchard had patients become quite bald in several days. Hansen says Thal. relieves the violent pains of tabes dorsalis.",
         "source_id": "clarke-dictionary-1900"
@@ -80,6 +87,7 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "clarke-dictionary-1900"
     ]
   }

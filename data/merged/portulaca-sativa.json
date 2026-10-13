@@ -1,14 +1,17 @@
 {
   "id": "portulaca-sativa",
   "names": {
-    "primary": "Portulaca sativa",
-    "latin": "Portulaca sativa",
+    "primary": "Portulaca Sativa",
+    "latin": "Portulaca Sativa",
     "common": [
       "Purslane, Golden"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

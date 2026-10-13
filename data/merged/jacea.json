@@ -1,12 +1,18 @@
 {
   "id": "jacea",
   "names": {
-    "primary": "Jacea. (Viola Tricolor.)",
-    "latin": "Jacea. (Viola Tricolor.)",
+    "primary": "Jacea",
+    "latin": "Jacea",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Jacea. (Viola Tricolor.)",
+      "JACEA (VIOLA TRICOLOR)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {
@@ -130,12 +136,19 @@
         "Copyright © Médi-T ® 2002",
         "Main"
       ]
-    }
+    },
+    "keynotes": [
+      {
+        "text": "Main Condensed Materia Medica. By Constantine Hering. Presented by Médi-T . JACEA (VIOLA TRICOLOR). [Jacea] Pansy. Franz. Violaceæ. [ 1 ] * [ 2 ] * [ 3 ] * [ 4 ] * [ 5 ] * [ 8 ] * [ 9 ] * [ 11 ] * [ 12 ] * [ 13 ] * [ 15 ] * [ 18 ] * [ 19 ] * [ 20 ] * [ 21 ] * [ 22 ] * [ 28 ] * [ 29 ] * [ 31 ] * [ 32 ] * [ 33 ] * [ 35 ] * [ 36 ] * [ 37 ] * [ 38 ] * [ 39 ] * [ 40 ] * [ 44 ] * [ 45 ] * [ 46 ] * [ 47 ] [1] Mind. ► Great dullness of the intellect. ► Low-spirited about domestic affairs. ► Great indifference. ► Bad, morose humor, with disinclination to talk. ► Very sensitive and inclined to scold. [2] Sensorium. ► Vertigo when walking. ► Heaviness of the head when raising it, which disappears by stopping. [3] Inner Head. ► Pressing headache, chiefly in forehead and temples. [4] Outer Head. ► Scurfs on head, unbearable burning, most at night. ► Tinea capitis, with frequent involuntary urination. ► Burning stitches in scalp, especially in forehead and temples. ► Impetigo of the hairy scalp and face. ► Crusta lactea : with violent cough and excessive oppression ; in children recently weaned. ► Thick incrustations, pouring out a large quantity of thick yellow fluid, which agglutinates the hair. [5] Eyes. ► Smarting in the eyes. ► The eyelids sink down as from sleepiness. [8] Face. ► Heat of side of face not lain on, evening in bed. ► Induration of the skin of the face. ► Milk-crust, burning, itching, especially at night, with discharge of viscid yellow pus. ► Impetigenous exanthem on the forehead. ► Tension in the integuments of the face and forehead. [9] Lower Face. ► Pustular eruption on whole upper lip and chin ; a thick, yellow, friable, semi-transparent incrustation ; acne rosacea on the chin. [11] Tongue, etc. ► Taste bitter, tongue coated with white mucus. [12] Mouth. ► Sensation of dryness, yet with much saliva in the mouth. [13] Throat. ► Much phlegm in the throat, causes hawking, at 11 A.M. [15] Eating and Drinking. ► While eating, hot sweat. ► Immediately after eating : dyspna, anxious heat. [18] Hypochondria. ► Pressing-stinging in the diaphragm. [19] Abdomen. ► Cutting pains in the abdomen, with urging to stool, crying and lamentations, followed by profuse discharge of flatus, with large lumps of mucus. [20] Stool, etc. ► Stool : soft as if minced ; of mucus, with much flatus. [21] Urine. ► Urging to urinate, with profuse discharge of urine. ► Urine : offensive, smelling like cat's urine ; very turbid. ► Stitches in the urethra. [22] Male Sexual Organs. ► Involuntary seminal discharges, with vivid lewd dreams. ► Suppression of gonorrha. ► Venereal ulcers. ► Swelling of the prepuce, with itching. ► Stitches in penis or pressing in glans ; burning in glans. ► Itching stitches in the scrotum. ► Induration of the testicle, after gonorrha. [28] Lungs. ► Stitches in chest, on ribs, sternum and intercostal muscles. [29] Heart and Pulse. ► Oppression and stitches in the heart, on bending forward when sitting. ► Anxiety about heart while lying, with beating like waves. [31] Neck and Back. ► Tension between the shoulder-blades, with cutting and tingling in the skin. ► Swelling and induration of the cervical glands. [32] Upper Limbs. ► Stitches in the shoulder-joints, elbows, forearms and fingers. [33] Lower limbs. ► Stitches in the patella, tibia and feet. ► Pustulous and ichorous exanthema on the feet. [35] Position, etc. ► Walking : 2 . Raising head : 2 . Stooping : 2 . Side not lain on : 8 . [36] Nerves. ► Nervous paroxysms after suppressed crusta lactea. [37] Sleep. ► Yawning. ► Goes to sleep late on account of ideas crowding, his mind. ► The child twitches with his hands in his sleep, with clenched thumbs, generally dry heat and red face. ► Dreams : pleasant or amorous. [38] Time. ► Forenoon : 40 . 11 A.M. : 13 . Evening : 8 . Night : 4 , 8 , 40 , 46 . [39] Temperature and Weather. ► Aversion to the open air. ► Open air : 40 . [40] Chill, Fever and Sweat. ► Chill or chilliness in the forenoon, and in the open air. ► Dry, anxious heat at night in bed, with red face. ► Night-sweat. [44] Tissues. ► Rheumatism or gout. ► Articular rheumatism, with itch-like eruption around the joints. [45] Contact, Injuries, etc. ► Worse from pressure on the side opposite to the unpainful one. ► Worse lying on the painful side. ► Scratching : 46 . [46] Skin. ► Cutting or stinging in the skin. ► Eruption : burning, dry, stinging ; violent itching, worse at night ; crusty ; scurfy. ► Squamous spots on the skin. ► Dry scabs over body, exude yellow water when scratched. ► Large boils all over the body. ► Ichorous ulcers with violent itching. ► Burrowing ulcers. ► Consequences of suppressed eruptions. ► Skin difficult to heal. [47] Stages and States. ► Scrofulous children. Copyright © Médi-T 2005. Main",
+        "source_id": "hering-condensed-mm-1877"
+      }
+    ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "hering-guiding-1879"
+      "hering-guiding-1879",
+      "hering-condensed-mm-1877"
     ]
   }
 }

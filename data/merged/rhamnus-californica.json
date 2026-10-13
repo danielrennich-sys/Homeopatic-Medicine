@@ -1,16 +1,18 @@
 {
   "id": "rhamnus-californica",
   "names": {
-    "primary": "RHAMNUS CALIFORNICA",
-    "latin": "RHAMNUS CALIFORNICA",
+    "primary": "Rhamnus Californica",
+    "latin": "Rhamnus Californica",
     "common": [
       "California Coffee-tree"
     ],
-    "synonyms": [
-      "Rhamnus Californica"
-    ]
+    "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "mental_emotional": [
       {

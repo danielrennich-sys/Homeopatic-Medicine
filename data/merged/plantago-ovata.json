@@ -1,14 +1,19 @@
 {
   "id": "plantago-ovata",
   "names": {
-    "primary": "Plantago ovata (FORSK.)",
-    "latin": "Plantago ovata (FORSK.)",
+    "primary": "Plantago Ovata",
+    "latin": "Plantago Ovata",
     "common": [
       "Plantain, Ispaghul"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Plantago ovata (FORSK.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

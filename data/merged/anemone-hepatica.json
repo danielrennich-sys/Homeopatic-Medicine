@@ -1,14 +1,19 @@
 {
   "id": "anemone-hepatica",
   "names": {
-    "primary": "Anemone hepatica (LINN.)",
-    "latin": "Anemone hepatica (LINN.)",
+    "primary": "Anemone Hepatica",
+    "latin": "Anemone Hepatica",
     "common": [
       "Liverwort, American"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Anemone hepatica (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

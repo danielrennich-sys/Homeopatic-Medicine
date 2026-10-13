@@ -1,14 +1,17 @@
 {
   "id": "lac-defloratum",
   "names": {
-    "primary": "Lac Defloratum. Skimmed Milk",
-    "latin": "Lac Defloratum. Skimmed Milk",
+    "primary": "Lac Defloratum",
+    "latin": "Lac Defloratum",
     "common": [],
     "synonyms": [
-      "LAC DEFLORATUM"
+      "Lac Defloratum. Skimmed Milk"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -19,13 +22,71 @@
         "text": "The Materia Medica of the Nosodes. By Henry Clay ALLEN, M. D. LAC DEFLORATUM. (Skimmed Cow's Milk) Characteristics : Diseases with faulty and defective nutrition with reflex affections of nervous centres. Despondent ; does not care to live ; has no fear of death but is sure he is going to die. American sick headache : begins in forehead, extending to occiput, in morning on rising (Bry.) ; intense throbbing , with nausea, vomiting, blindness and obstinate constipation (Epig., Iris, Sang.) ; < noise, light, motion (Mag. m., Sil.) ; great prostration ; > pressure, by bandaging head tightly (Arg. n., Puls.) ; copious, pale urine. Globus hystericus ; sensation of a large ball rising from stomach to throat, causing sense of suffocation (Asaf., Kal.). Vomiting : incessant, no relation to eating ; first of undigested food, intensely acid, then of bitter water ; of pregnancy (Lac. ac., Psor.). Constipation : with ineffectual urging (Anac., Nux) ; feces dry and hard (Bry., Sulph) ; stool large, hard, great straining, lacerating anus (Nat., San.) ; painful, extorting cries. A woman had taken 10 or 12 enemas daily, passed 4 or 5 weeks without an evacuation ; constipation of 15 years, standing. Menses : delayed ; suppressed, by putting hands in cold water (Con.) ; drinking a glass of milk will promptly suppress flow until next period (compare Phos.). Great restlessness, extreme and protracted suffering from loss of sleep (Coc., Nit. ac.). Feels completely exhausted, whether she does anything or not ; great fatigue when walking. Sensation : as if cold air was blowing on her, even while covered up ; as if sheets were damp. Dropsy : from organic heart disease ; from chronic liver complaint ; far advanced albuminuria ; following intermittent fever. Obesity : fatty degeneration. Emaciation, both local and general. Relations : Antidotes : Ign., Nux. Compare : Lac. can., Lac. vac., Lac. ac., Sac. lac. ; Nat. mur., diabetes, albuminuria, headache, constipation, menstrual irregularities and heart affections, especially at climaxis ; Coc., car or sea sickness and menstrual headaches ; Cac., but it lacks the iron hand constriction ; Nux m., heavy head but it falls to left ; Calc., Kali c., Nat. s., Tub., child takes cold easily, is chilly, the hydrogenoid constitution ; Cal., Caps., Fer., Graph., Tub., tendency to obesity ; Ars., China, Graph., Iod., Lyc., Nat. m., Phos., Sil., Stan., Sulph., Tub., general emaciation ; Arn., Hip., in traumatism ; Con., Phos., suppressed menses. Aggravation : Lying down ; external heat ; motion, especially walking, or extending arms over head (fainting) ; pressure (fainting) ; cold water (suppressed menses) ; sitting down (ever so gently). Amelioration : Pressure (pain in eye) ; bandaging head lightly. >>>>> Copyright © Médi-T 2003",
         "source_id": "allen-materia-medica-nosodes-1910"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Time: Time, periodically, weekly, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Conditions Of Aggravation And Amelioration: easily chilled, lacks heat; Foods, drink, milk, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Head: Head, pains, extending, backward; Head, diuresis, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Head"
+      },
+      {
+        "text": "Aaa: Anæmia.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Ccc: Chill, cold, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Fff: Face, swollen.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Head, polyuria, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Mmm: Menses, absent.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Sss: Skin, cold, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Uuu: Urination, profuse, polyuria, etc.; Urination, profuse, polyuria, etc., pain [[during]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vertigo, lying, side, left, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "allen-keynotes-1899",
-      "allen-materia-medica-nosodes-1910"
+      "allen-materia-medica-nosodes-1910",
+      "boger-synoptic-key-1915"
     ]
   }
 }

@@ -1,16 +1,19 @@
 {
   "id": "phenotypes-drug",
   "names": {
-    "primary": "Phenotypes Of Drug Induced Liver Injury",
-    "latin": "Phenotypes Of Drug Induced Liver Injury",
+    "primary": "Phenotypes Drug",
+    "latin": "Phenotypes Drug",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Phenotypes Of Drug Induced Liver Injury"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {},
   "evidence": {
-    "summary": "",
-    "documented_adverse_effects": [],
     "hepatotoxicity": [
       {
         "section": "LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet].",

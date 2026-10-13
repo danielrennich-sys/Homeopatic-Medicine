@@ -1,14 +1,19 @@
 {
   "id": "taraktogenos-kurzii",
   "names": {
-    "primary": "Taraktogenos kurzii (KING)",
-    "latin": "Taraktogenos kurzii (KING)",
+    "primary": "Taraktogenos Kurzii",
+    "latin": "Taraktogenos Kurzii",
     "common": [
       "Chaulmoogra"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Taraktogenos kurzii (KING)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

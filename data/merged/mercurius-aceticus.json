@@ -7,6 +7,9 @@
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -80,13 +83,21 @@
         "text": "Shuddering in morning, preceded by drawing pains in limbs, heat at night, esp. after midnight, with a sensation of perspiring; profuse perspiration while moving about. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "comparative": [
+      {
+        "text": "[The Preparations Of Mercury] results which follow overdosing or misapplication of the drug. You notice that I have placed on the board a number of mercurial prepa- rations. All of these have some medicinal properties, but we have not the time, nor will it be proper, to dwell on them all. Our main object is to treat of the principal actions of Mercury in general, and then to teach you the principal characteristics which will enable you to prefer one of these preparations rather than others. From the gen- eral character of the patient, you know that he needs some mercurial preparation, and you want to know wmich one. We have here two preparations, Mercurius vivus and solubilis, that I have placed on the same line. I do not know enough to separate them symptomatica!^'. The provings have been separately placed in Allen's Encylopcpdia, but I have not been able to see any essential differences between them. These preparations are the quicksilver, or metallic Mercury, and the Soluble Mercury of Hahnemann. Mercurius solubilis is not a pure mercurial preparation. It contains some Ammonia and some Nitric acid. There are only traces of AHtric acid, however, and yet these traces must modify its symptomatology somewhat, but to what degree I do not know. The provings of the \"solubilis'\" are excellent. They are complete, much more so than those of the \" vivus.\" These latter are collected more from poisoning cases and from clinical cases than from actual provings. If, then, the s}miptoms are clearly placed in the Encyclopedia under Soluble Mercury, I would advise you to use that preparation. Below the Mercurius vivus and solubilis on the board we have two preparations of Mercury with Chlorijie. Next comes Mercurius aceticus, of which we have but few symptoms. Next we have the two Iodides of Mercury, wThich are very important. The Biniodide is red, the Protoiodide, yellow. Then wTe have the Cyanide of Mercury. Next we have Cinnabaris, which is the Sulphide of Mercury. Beneath this we have the Sulphate of Mercury, and then the Mercurius prtzcipitatus ruber. Of the latter three we have but few symptoms. Cinnabaris, the two iodides, the corrosivus, the solubilis and the vivus are the most frequently used.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Preparations Of Mercury"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "farrington-clinical-1908"
     ]
   }
 }

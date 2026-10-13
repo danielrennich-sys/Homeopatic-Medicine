@@ -1,14 +1,19 @@
 {
   "id": "swertia-chirata",
   "names": {
-    "primary": "Swertia chirata (BUCH.-HAM.)",
-    "latin": "Swertia chirata (BUCH.-HAM.)",
+    "primary": "Swertia Chirata",
+    "latin": "Swertia Chirata",
     "common": [
       "Chiretta"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Swertia chirata (BUCH.-HAM.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

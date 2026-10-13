@@ -1,14 +1,19 @@
 {
   "id": "artemisia-dracunculus",
   "names": {
-    "primary": "Artemisia dracunculus (LINN.)",
-    "latin": "Artemisia dracunculus (LINN.)",
+    "primary": "Artemisia Dracunculus",
+    "latin": "Artemisia Dracunculus",
     "common": [
       "Tarragon"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Artemisia dracunculus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

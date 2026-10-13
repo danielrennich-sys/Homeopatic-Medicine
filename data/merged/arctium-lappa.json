@@ -10,7 +10,11 @@
       "Arctium lappa (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -101,6 +105,13 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "comparative": [
+      {
+        "text": "[The Vegetable Kingdom] Another remedy is Arctium lappa, which is useful for moist offensive eruption, forming grayish- white crusts, especially when the adjacent glands are swollen; the axillary glands may even suppurate. There is polyuria with pain in the bladder after voiding the urine.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      }
+    ],
     "habitat": [
       {
         "text": "It grows freely throughout England (though rarely in Scotland) on waste ground and about old buildings, by roadsides and in fairly damp places. The Burdock, the only British member of its genus, belongs to the Thistle group of the great order, Compositae .",
@@ -138,6 +149,7 @@
   "provenance": {
     "sources": [
       "clarke-dictionary-1900",
+      "farrington-clinical-1908",
       "grieve-modern-herbal-1931"
     ]
   }

@@ -1,14 +1,19 @@
 {
   "id": "morus-nigra",
   "names": {
-    "primary": "Morus nigra (LINN.)",
-    "latin": "Morus nigra (LINN.)",
+    "primary": "Morus Nigra",
+    "latin": "Morus Nigra",
     "common": [
       "Mulberry, Common"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Morus nigra (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

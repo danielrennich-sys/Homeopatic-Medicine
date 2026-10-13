@@ -1,14 +1,17 @@
 {
   "id": "aethiops-mineralis",
   "names": {
-    "primary": "AETHIOPS MINERALIS",
-    "latin": "AETHIOPS MINERALIS",
+    "primary": "Aethiops Mineralis",
+    "latin": "Aethiops Mineralis",
     "common": [
       "Sulph and Quicksilver, or Black Sulphide Mercury (AETHIOPS MERCURIALIS-MINERALIS)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "skin": [
       {

@@ -1,16 +1,17 @@
 {
   "id": "ficus-religiosa",
   "names": {
-    "primary": "FICUS RELIGIOSA",
-    "latin": "FICUS RELIGIOSA",
+    "primary": "Ficus Religiosa",
+    "latin": "Ficus Religiosa",
     "common": [
       "Ashwathya"
     ],
-    "synonyms": [
-      "Ficus Religiosa"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

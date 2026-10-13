@@ -1,14 +1,19 @@
 {
   "id": "ulex-europaeus",
   "names": {
-    "primary": "Ulex europaeus (LINN.)",
-    "latin": "Ulex europaeus (LINN.)",
+    "primary": "Ulex Europaeus",
+    "latin": "Ulex Europaeus",
     "common": [
       "Gorse, Golden"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ulex europaeus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

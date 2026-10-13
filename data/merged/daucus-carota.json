@@ -1,15 +1,20 @@
 {
   "id": "daucus-carota",
   "names": {
-    "primary": "Daucus carota (LINN.)",
-    "latin": "Daucus carota (LINN.)",
+    "primary": "Daucus Carota",
+    "latin": "Daucus Carota",
     "common": [
       "Carrot",
       "Carrot, Wild"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Daucus carota (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

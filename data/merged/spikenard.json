@@ -1,14 +1,19 @@
 {
   "id": "spikenard",
   "names": {
-    "primary": "Spikenard, Californian",
-    "latin": "Spikenard, Californian",
+    "primary": "Spikenard",
+    "latin": "Spikenard",
     "common": [
       "Spikenard, Californian"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Spikenard, Californian"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

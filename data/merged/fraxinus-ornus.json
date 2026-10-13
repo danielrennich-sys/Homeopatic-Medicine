@@ -1,14 +1,19 @@
 {
   "id": "fraxinus-ornus",
   "names": {
-    "primary": "Fraxinus ornus (LINN.)",
-    "latin": "Fraxinus ornus (LINN.)",
+    "primary": "Fraxinus Ornus",
+    "latin": "Fraxinus Ornus",
     "common": [
       "Ash, Manna"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Fraxinus ornus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

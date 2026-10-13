@@ -1,19 +1,23 @@
 {
   "id": "trillium-pendulum",
   "names": {
-    "primary": "Trillium Pendulum. Wake Robin (Smilaceae)",
-    "latin": "Trillium Pendulum. Wake Robin (Smilaceae)",
+    "primary": "Trillium Pendulum",
+    "latin": "Trillium Pendulum",
     "common": [
       "White Beth-root",
       "Bethroot"
     ],
     "synonyms": [
-      "TRILLIUM PENDULUM",
-      "Trillium pendulum (WILLD.) Trillium erectum (LINN.)",
-      "Trillium Pendulum"
+      "Trillium Pendulum. Wake Robin (Smilaceae)",
+      "Trillium. Trillium pendulum",
+      "Trillium pendulum (WILLD.) Trillium erectum (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -31,6 +35,10 @@
       {
         "text": "All the seventeen species of the genus are North American plants, distinguished by their possession of three green, persistent sepals and three larger withering petals, of varying colour. Trillium erectum or T. pendulum , perennial, smooth herb, has an erect stem of from 10 to 15 inches in height, bearing three leaves, broad, almost rhomboid, and drooping white flowers, terminal and solitary. Grows in the rich soil of damp and shady woodlands, flowering in May and June. The official description of the rhizome is 'oblique, globular, oblong or obconical, truncate below., terminated by a small bud surrounded by a sheath of scarious leaf bases annulated by leaf scars and fissured by stem scars. It is from 0.6 to 5 cm. in length, and from 0.6 to 3.5 cm. in width, more or less compressed laterally, rootlet scars in several concentrie rows on the underside in the upper portions. Externally yellowish to reddish brown; internally of a pale yellow; fracture somewhat uneven with a more or less spongy appearance. Odour distinct; taste bitter and acrid, with a sensation of warmth in the throat, and when chewed causing an increased flow of saliva. Trillium yields not more than 5 per cent. of ash.' The drug is one of those prepared by the Shakers.",
         "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Main Condensed Materia Medica. By Constantine Hering. Presented by Médi-T . TRILLIUM PENDULUM. [Trill. pend.] Wake Robin. No proving. Smilaceæ. [ 7 ] * [ 10 ] * [ 17 ] * [ 20 ] * [ 23 ] * [ 24 ] * [ 27 ] * [ 31 ] * [ 33 ] * [ 35 ] * [ 41 ] * [ 44 ] [7] Nose. ► Profuse epistaxis, passive. [10] Teeth. ► Bleeding from cavity after extraction of a tooth. [17] Stomach. ► Heat and burning in stomach, rising up into sophagus. ► Sinking in stomach, when hemorrhages. [20] Stool, etc. ► Dysentery when discharges are mostly of blood. [23] Female Sexual Organs. ► Displaced uterus, with consequent menorrhagia ; flow profuse. ► Gushing of bright red blood from uterus, at the least movement ; later, blood pale from anæmia. ► Menses often come on after overexertion, too long a ride, etc. ; profuse flow. ► Leucorrha : bloody, with great prostration ; yellow, creamy, profuse, between menses. ► Climaxis, with weak sight, anxious look ; pale ; faint ; flow returns every two weeks. [24] Pregnancy. ► Threatened abortion ; profuse hemorrhage. ► Lochia too profuse. [27] Cough. ► Troublesome, copious, purulent sputa ; hectic ; hæmoptysis. [31] Neck and Back. ► Pain in back, with uterine hemorrhages. [33] Lower limbs. ► Legs cold, with hemorrhages. [35] Position, etc. ► Motion : 23 . Overexertion : 23 . Long ride : 23 . [41] Attacks. ► Every two weeks. [44] Tissues. ► Hemorrhages usually bright red, profuse ; also when sacro-iliac synchondroses feel as if falling apart, wants to be bound tightly. ► Feels as if bones were broken ; with hemorrhages. ► Crowding sensation in the veins like a tightening up of the parts, worse in those of legs and ankles. Copyright © Médi-T 2005. Main",
+        "source_id": "hering-condensed-mm-1877"
       }
     ],
     "head": [
@@ -90,8 +98,88 @@
       }
     ],
     "dosing": {
-      "notes": "Tincture and lower potencies"
+      "notes": "Tincture and lower potencies",
+      "entries": [
+        {
+          "text": "Of powdered root, a drachm three times a day. Of fluid extract, 30 minims, as astringent and tonic expectorant. Trilline, 2 to 4 grains.",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
+    "repertory": [
+      {
+        "text": "Generalities: Duality, in pieces, separated, as if some one else, etc.; Hæmorrhage, bloody discharges, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Eyes: Eyes, eyeball, falling out, as if.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eyes"
+      },
+      {
+        "text": "Bbb: Bandage; Blood-vessels, vascular.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Fff: Female organs; Fibroids; Fibroids, bleeding.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Ggg: Gushing.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Hæmorrhage, gushing; Hips, forced apart, disjointed, etc. [[as if]]; Hips, weak.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Mmm: Menses, weeks, every two.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Ttt: Taste, greasy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "General Analysis: DUALITY, in pieces, separated, as if some one else, etc.; HEMORRHAGE, bloody discharges.",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      },
+      {
+        "text": "Generalities: Of bright red blood: Usually bright red profuse",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Synonym—Bethroot.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—Trillium influences mildly the nerve supply of the organs of the thorax. It assists heart remedies in relieving ample functional irritation. It cures catarrhal bronchitis when there is very profuse expectoration. It soothes the cough of incipient phthisis, especially where there is a tendency to hemorrhage, over which it has a marked controlling influence. It restrains excessive action of the kidneys. At one time it had an excellent reputation in the control of diabetes insipidus.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It controls uterine hemorrhage of a passive character to an excellent advantage, especially menorrhagia and metrorrhagia. Excessive vaginal catarrh is restrained by it.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Is said to have been in use among the aborigines and early settlers of North America. It is antiseptic, astringent and tonic expectorant, being used principally in haemorrhages, to promote parturition, and externally, usually in the form of a poultice, as a local irritant in skin diseases, or to restrain gangrene. The leaves , boiled in lard, are sometimes applied to ulcers and tumours. The roots may be boiled in milk, when they are helpful in diarrhoea and dysentery.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
     "generalities": [
       {
         "text": "The dried root and rhizome. The leaves.",
@@ -115,12 +203,6 @@
     "constituents": [
       {
         "text": "There have been found in it volatile and fixed oils, tannic acid, saponin, a glucoside resembling convallamarin, an acid crystalline principle coloured brown tinged with purple by sulphuric acid, and light green with sulphuric acid and potassium dichromate, gum, resin, and much starch. The fluid extract is an ingredient in Compound Elixir of Viburnum Opulus . Professor E. S. Wayne isolated the active principle, calling it Trilline, but the preparation sold under that name has no medicinal value, while the Trilline of Professor Wayne has not been used.",
-        "source_id": "grieve-modern-herbal-1931"
-      }
-    ],
-    "indications": [
-      {
-        "text": "Is said to have been in use among the aborigines and early settlers of North America. It is antiseptic, astringent and tonic expectorant, being used principally in haemorrhages, to promote parturition, and externally, usually in the form of a poultice, as a local irritant in skin diseases, or to restrain gangrene. The leaves , boiled in lard, are sometimes applied to ulcers and tumours. The roots may be boiled in milk, when they are helpful in diarrhoea and dysentery.",
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
@@ -173,8 +255,13 @@
     "sources": [
       "allen-keynotes-1899",
       "boericke-1927",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890",
+      "ellingwood-1919",
       "grieve-modern-herbal-1931",
-      "hering-guiding-1879"
+      "hering-guiding-1879",
+      "hering-condensed-mm-1877"
     ]
   }
 }

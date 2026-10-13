@@ -1,14 +1,19 @@
 {
   "id": "juglans",
   "names": {
-    "primary": "Juglans (U. S. P.)",
-    "latin": "Juglans (U. S. P.)",
+    "primary": "Juglans",
+    "latin": "Juglans",
     "common": [
       "Juglans"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Juglans (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

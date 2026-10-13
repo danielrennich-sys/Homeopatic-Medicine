@@ -1,14 +1,17 @@
 {
   "id": "barosma-crenulatum",
   "names": {
-    "primary": "BAROSMA CRENULATUM",
-    "latin": "BAROSMA CRENULATUM",
+    "primary": "Barosma Crenulatum",
+    "latin": "Barosma Crenulatum",
     "common": [
       "Buchu (BAROSMA CRENATA)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Tincture or tea from leaves"

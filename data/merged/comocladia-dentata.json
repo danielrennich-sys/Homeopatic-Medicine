@@ -1,16 +1,17 @@
 {
   "id": "comocladia-dentata",
   "names": {
-    "primary": "COMOCLADIA DENTATA",
-    "latin": "COMOCLADIA DENTATA",
+    "primary": "Comocladia Dentata",
+    "latin": "Comocladia Dentata",
     "common": [
       "Guao"
     ],
-    "synonyms": [
-      "Comocladia Dentata"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "eyes": [
       {
@@ -64,6 +65,12 @@
           "text": "touch, warmth, rest; night",
           "source_id": "boericke-1927"
         }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Com.]. Rest : pain in costal cartilage of fifth rib < ; rheumatic pains and swellings worse. In bed : pain in second molar of right side worse. Motion : dizziness and heaviness of head, with shooting pains > ; all pains in head > ; rheumatic pains and swellings > by continued. On moving head : sense of fulness, rigidity and lameness of muscles of neck. On moving eyes : right eyeball very sore ; eyeballs worse. On rising from bed ; giddiness ; everything looks dark. Stooping : almost impossible to hold head down. Walking : intermittent, pressing outward pain in left sacro-iliac articulation > ; crampy lameness in right leg above instep better. During day : hacking cough. From 4.30 to 5 P. M. : pain commences in second molar tooth of r. side. Towards evening : burning on face and eyes worse. Night : continued tingling, itching of scrotum during ; spasmodic dry cough with tickling in throat and constant dull pain under left nipple extending through to left scapula. Heat : < pains in head. Warm stove : head < ; eyes more painful. Warmth : pain in second molar of right side > by external. Open air : head >.",
+          "source_id": "hering-guiding-1879"
+        }
       ]
     },
     "dosing": {
@@ -73,6 +80,38 @@
       {
         "text": "color=\"#800000\">COMOCLADIA DENTATA Guao Important eye and skin symptoms. Affections of antrum. Sacro-iliac and abdominal pain. Throbbing pains worse by heat. Pain in joints and ankles.",
         "source_id": "boericke-1927"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Time: Time, night, agg., 2 A.M..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Eyes: Eyes, swelled, as if.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eyes"
+      },
+      {
+        "text": "Lower Limbs: Lower limbs, foot, swelling, left.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lower Limbs"
+      },
+      {
+        "text": "Eee: Eyes, balls, ache; Eyes, lids, swelling, inner angles, over.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Lll: Lachrymation, biting.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Ttt: Tongue, vesicles, edge.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
       }
     ],
     "mental_emotional": [
@@ -171,6 +210,7 @@
   "provenance": {
     "sources": [
       "boericke-1927",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879"
     ]
   }

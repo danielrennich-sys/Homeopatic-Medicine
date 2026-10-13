@@ -1,12 +1,15 @@
 {
   "id": "copaivae-balsamum",
   "names": {
-    "primary": "Copaivæ balsamum",
-    "latin": "Copaivæ balsamum",
+    "primary": "Copaivæ Balsamum",
+    "latin": "Copaivæ Balsamum",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

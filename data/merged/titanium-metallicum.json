@@ -1,14 +1,17 @@
 {
   "id": "titanium-metallicum",
   "names": {
-    "primary": "TITANIUM METALLICUM",
-    "latin": "TITANIUM METALLICUM",
+    "primary": "Titanium Metallicum",
+    "latin": "Titanium Metallicum",
     "common": [
       "The Metal (TITANIUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Lower and middle potencies"

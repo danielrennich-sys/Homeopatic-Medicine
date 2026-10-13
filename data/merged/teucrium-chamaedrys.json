@@ -1,16 +1,20 @@
 {
   "id": "teucrium-chamaedrys",
   "names": {
-    "primary": "Teucrium chamaedrys (LINN.)",
-    "latin": "Teucrium chamaedrys (LINN.)",
+    "primary": "Teucrium Chamaedrys",
+    "latin": "Teucrium Chamaedrys",
     "common": [
       "Germander, Wall"
     ],
     "synonyms": [
+      "Teucrium chamaedrys (LINN.)",
       "Germander"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

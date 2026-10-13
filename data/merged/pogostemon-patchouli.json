@@ -1,14 +1,19 @@
 {
   "id": "pogostemon-patchouli",
   "names": {
-    "primary": "Pogostemon patchouli (PILL.)",
-    "latin": "Pogostemon patchouli (PILL.)",
+    "primary": "Pogostemon Patchouli",
+    "latin": "Pogostemon Patchouli",
     "common": [
       "Patchouli"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Pogostemon patchouli (PILL.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

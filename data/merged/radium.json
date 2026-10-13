@@ -1,0 +1,118 @@
+{
+  "id": "radium",
+  "names": {
+    "primary": "Radium",
+    "latin": "Radium",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Time: Time, night, agg., 4 A.M..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Hot applications, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Dorsal Region: Dorsal region, weak, interscapular.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Dorsal Region"
+      },
+      {
+        "text": "Aaa: Abdomen, alternating with; Abdomen, cramp, colic, griping; Aching; Air, cool, amel.; Air, hunger; Arthritis deformans; Averse, sweets; Awakes, palpitation; Awakes, panting.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Back, ascending; Branny.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Callosities; Constriction; Cough, exertion, amel.; Cough, smoking, agg.; Craves, bacon.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Desquamation, branny; Dreams, blood, fire, etc., of; Dreams, true; Dreams, vivid.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Eee: Ears, lying on face, amel.; Ears, noises, tinnitus, Meniere's disease; Ears, scabby; Eczema; Eyes, backward; Eyes, red; Eyes, smart; Eyes, strain, sprained, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Ggg: Genitals, eruption; Genitals, itching; Gout.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Heart, tension; Heat, burning; Hot, bath, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Jjj: Joints; Joints, deep in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Jjj"
+      },
+      {
+        "text": "Lll: Lancinating, darting, lightning; Leucorrha, lumpy, curdy; Lies down.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Mmm: Muscles, weak.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Nails, edge of; Necrosis; Numb, painless, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Psoriasis.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Rrr: Rectum, prolapsed; Rectum, sore.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Scapulæ, between, weak; Scleroderma; Shaving [[agg.]]; Shifting, suddenly; Shuddering, shivers; Side, alternating; Skin, burning, heats, etc.; Skin, irritable; Skin, thick; Stretching, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Taste, peppery; Throat, raw; Tongue, black, blue, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Ulcer, deep.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

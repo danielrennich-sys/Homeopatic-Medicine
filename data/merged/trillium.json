@@ -6,13 +6,19 @@
     "common": [
       "Bethroot"
     ],
-    "synonyms": [
-      "TRILLIUM"
-    ]
+    "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Trillium. A tincture is made of the fresh root of Trillium pendulum, Ait. ► Weakness. ► Aggravation at night and in morning ; of pain on motion and after eating ; and on left side. ► Amelioration of pain by exercise in open air. ► Melancholy. ► Repugnance to conversation. ► Irritability, disposition to get angry at trifles. ► Fear that he is going to be sick, anguish, agitation, tossing about, impossibility of keeping still. ► Headache, agg. noise, walking or coughing ; H. in left temporal fossa, agg. noise ; in forehead, amel. bending forward, returning on becoming erect. ► Weariness of head when walking. ► Confusion of head. ► Vertigo ; agg. morning on rising ; in attacks, with tottering. ► Pain as if eyeballs were too large and would fall out of their sockets. ► Burning in inner canthus, with lachrymation. ► Vision blurred, everything looks bluish. ► Grumbling toothache, with dull pain in face. ► Tongue and gums feel greasy. ► Salivation. ► Taste foul ; agg. morning on rising ; T. insipid and appetite lost. ► Pungent sensation in throat. ► Continual inclination to drink ice-water. ► Disgust for everything except cold water. ► Nausea, with empty eructations ; N., with aching in stomach. ► Pain in epigastrium ; crampy, in stomach, with pinching, gnawing and fulness ; the pains in stomach agg. eating and morning. ► Sensation of contractions in stomach. ► Swelling of abdomen, as in ascites, with sensation as if the contents were drawn against spine. ► Abdominal parietes flabby, with goneness, a want of support in front and intermittent lancinations extending backward causing one to bend forward. ► Flatulence, with grumbling in abdomen. ► Diarrha painless, tinged with blood. ► Constipation, then watery offensive diarrha. ► Cutting in urethra when urinating. ► Urine copious, offensive. ► Itching of genitals, agg. scratching. ► Sensation of a foreign substance in larynx, causing continual cough. ► Difficult breathing, feeling as if chest were bound up. ► Palpitation, with anxiety. ► Pain in left shoulder, extending into hand ; crampy, in muscles of arms and calves ; crampy, in fingers when writing. ► Sleeplessness, with tossing about. ► Sleep disturbed by dreams, dreams of festivities, sleigh-rides, etc. ► Fever during pain in abdomen, then sweat. ► Head and face feel hot. ► Skein hot and dry, with itching and burning, agg. scratching. Clinical :- ► Hæmorrhagic diathesis. ► Hæmorrhages from the kidneys, nose, uterus ; blood is generally dark and clotted. ► Threatening abortion ; it has arrested numerous cases, with gushing of bright blood on the least movement, especially in women who are subject to too profuse or too frequent menstruation. ► Hæmorrhages from fibroid tumors. ► Prolapsus uteri, with great bearing down, copious yellow, stringy, leucorrha, characteristics of the menses. ► Uterine hæmorrhage with a marked sensation as though the hips and back were falling to pieces, amel. tight bandages . Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
       {
         "text": "The chief uses of Trill. come to us from the eclectics, who learned some of them from the native Indians. The popular name Birth-root sufficiently indicates one part of its reputation. In hæmorrhage, ante-partum, post-partum, and climacteric, in fibroid tumours, and in hæmorrhages of all kinds Trill. has been found curative. Both the White and the Purple varieties have been used. Minton's proving of T. cernuum (?) brought out the hæmorrhagic property in the blood-tinged diarrhœa. One characteristic in connection with the hæmorrhages of Trill. is faintness and sinking at the stomach; also cold extremities and rapid, feeble pulse. \"Flooding with fainting\" is a keynote. Minton's proving brought out a symptom bearing on this \"Sensation of goneness in abdomen.\" He had also extreme debility palpitation, and anxiety. Trill. has been used as a local hæmostatic in epistaxis and for bleeding after tooth extraction. Peculiar Sensations are: As if eyes too large (M). As if a crumb were in larynx (M). As if the chest was tightly bound and could not be expanded. As if hips and small of back were falling to pieces. As if sacro-iliac synchondroses were falling apart; wants to he bound tightly. As if bones were broken. Left side most affected. Restless, tossing agitation, fear of being sick, great anguish were experienced by Minton. The restlessness and exhaustion from hæmorrhages are typified in this. Blue vision; and craving for ice-water are other noteworthy symptoms. There is tendency to putrescence of fluids. The hæmorrhages of Trill. are copious; either active or passive; usually bright red and profuse. Trill. is suited to women who flood after every labour; flabby subjects. The symptoms of Minton's proving were: > Bending forward; sitting erect. By motion. After eating. > By exercise in open air. Standing or walking = bearing down in pelvis. Motion hæmorrhages.",
         "source_id": "clarke-dictionary-1900"
@@ -195,6 +201,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "allen-handbook-1889",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
       "kings-american-1898"

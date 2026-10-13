@@ -1,14 +1,17 @@
 {
   "id": "benzolum",
   "names": {
-    "primary": "BENZOLUM",
-    "latin": "BENZOLUM",
+    "primary": "Benzolum",
+    "latin": "Benzolum",
     "common": [
       "Benzol, C6, H6 (BENZENUM - COAL NAPHTHA)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

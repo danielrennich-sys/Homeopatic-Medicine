@@ -1,12 +1,17 @@
 {
   "id": "ferrum-magnesia",
   "names": {
-    "primary": "Ferrum  And   The   Magnesia  Salts",
-    "latin": "Ferrum  And   The   Magnesia  Salts",
+    "primary": "Ferrum Magnesia",
+    "latin": "Ferrum Magnesia",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Ferrum  And   The   Magnesia  Salts"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

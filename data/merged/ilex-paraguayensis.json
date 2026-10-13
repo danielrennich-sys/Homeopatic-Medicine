@@ -1,14 +1,19 @@
 {
   "id": "ilex-paraguayensis",
   "names": {
-    "primary": "Ilex Paraguayensis (A. ST. HIL)",
-    "latin": "Ilex Paraguayensis (A. ST. HIL)",
+    "primary": "Ilex Paraguayensis",
+    "latin": "Ilex Paraguayensis",
     "common": [
       "Paraguay Tea"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ilex Paraguayensis (A. ST. HIL)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

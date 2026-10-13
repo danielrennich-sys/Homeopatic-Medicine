@@ -1,14 +1,19 @@
 {
   "id": "crithmum-maritimum",
   "names": {
-    "primary": "Crithmum maritimum (LINN.)",
-    "latin": "Crithmum maritimum (LINN.)",
+    "primary": "Crithmum Maritimum",
+    "latin": "Crithmum Maritimum",
     "common": [
       "Samphire"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Crithmum maritimum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

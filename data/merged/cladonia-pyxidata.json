@@ -1,14 +1,19 @@
 {
   "id": "cladonia-pyxidata",
   "names": {
-    "primary": "Cladonia Pyxidata (FRIES.)",
-    "latin": "Cladonia Pyxidata (FRIES.)",
+    "primary": "Cladonia Pyxidata",
+    "latin": "Cladonia Pyxidata",
     "common": [
       "Moss, Cup"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Cladonia Pyxidata (FRIES.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

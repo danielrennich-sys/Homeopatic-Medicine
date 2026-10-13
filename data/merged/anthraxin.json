@@ -1,0 +1,68 @@
+{
+  "id": "anthraxin",
+  "names": {
+    "primary": "Anthraxin",
+    "latin": "Anthraxin",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Upper Limbs: Upper limbs, fingers, felon, runround, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Upper Limbs"
+      },
+      {
+        "text": "Skin: Skin, eruptions, vesicular, dark.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Skin"
+      },
+      {
+        "text": "Bbb: Blue, with burning; Boils, nose, on septum.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Carbuncle.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Fff: Face, brown.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Hands, cramp.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Mmm: Mumps, septic.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Nose, abscess, septal.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Pustules, apices, black.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

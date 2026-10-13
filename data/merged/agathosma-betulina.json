@@ -1,18 +1,22 @@
 {
   "id": "agathosma-betulina",
   "names": {
-    "primary": "Buchu. Barosma betulina, B. crenulata, B. serratifolia",
-    "latin": "Buchu. Barosma betulina, B. crenulata, B. serratifolia",
+    "primary": "Agathosma Betulina",
+    "latin": "Agathosma Betulina",
     "common": [
       "Buchu"
     ],
     "synonyms": [
+      "Buchu. Barosma betulina, B. crenulata, B. serratifolia",
       "Buchu (Barosma)",
       "Buchu (U. S. P.)",
       "Buchu"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

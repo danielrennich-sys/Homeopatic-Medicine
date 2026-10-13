@@ -1,14 +1,19 @@
 {
   "id": "mastiche",
   "names": {
-    "primary": "Mastiche (U. S. P.)",
-    "latin": "Mastiche (U. S. P.)",
+    "primary": "Mastiche",
+    "latin": "Mastiche",
     "common": [
       "Mastic"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Mastiche (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

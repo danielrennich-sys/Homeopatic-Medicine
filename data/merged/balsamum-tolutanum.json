@@ -1,14 +1,19 @@
 {
   "id": "balsamum-tolutanum",
   "names": {
-    "primary": "Balsamum Tolutanum (U. S. P.)",
-    "latin": "Balsamum Tolutanum (U. S. P.)",
+    "primary": "Balsamum Tolutanum",
+    "latin": "Balsamum Tolutanum",
     "common": [
       "Balsam of Tolu"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Balsamum Tolutanum (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

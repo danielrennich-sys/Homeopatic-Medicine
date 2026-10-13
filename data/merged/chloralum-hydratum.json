@@ -1,14 +1,17 @@
 {
   "id": "chloralum-hydratum",
   "names": {
-    "primary": "CHLORALUM HYDRATUM",
-    "latin": "CHLORALUM HYDRATUM",
+    "primary": "Chloralum Hydratum",
+    "latin": "Chloralum Hydratum",
     "common": [
       "Chloral Hydrate (CHLORALUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

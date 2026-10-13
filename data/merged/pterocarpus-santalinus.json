@@ -1,14 +1,17 @@
 {
   "id": "pterocarpus-santalinus",
   "names": {
-    "primary": "Pterocarpus santalinus",
-    "latin": "Pterocarpus santalinus",
+    "primary": "Pterocarpus Santalinus",
+    "latin": "Pterocarpus Santalinus",
     "common": [
       "Saunders, Red"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

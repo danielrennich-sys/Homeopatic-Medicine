@@ -1,14 +1,17 @@
 {
   "id": "erythraea-chilensis",
   "names": {
-    "primary": "Erythraea chilensis",
-    "latin": "Erythraea chilensis",
+    "primary": "Erythraea Chilensis",
+    "latin": "Erythraea Chilensis",
     "common": [
       "Centaury, Chilian"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

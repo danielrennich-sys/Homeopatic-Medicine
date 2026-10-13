@@ -1,14 +1,19 @@
 {
   "id": "eucalyptol",
   "names": {
-    "primary": "Eucalyptol (U. S. P.)",
-    "latin": "Eucalyptol (U. S. P.)",
+    "primary": "Eucalyptol",
+    "latin": "Eucalyptol",
     "common": [
       "Eucalyptol"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Eucalyptol (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

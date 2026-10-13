@@ -1,14 +1,17 @@
 {
   "id": "hesperis-matronalis",
   "names": {
-    "primary": "Hesperis matronalis",
-    "latin": "Hesperis matronalis",
+    "primary": "Hesperis Matronalis",
+    "latin": "Hesperis Matronalis",
     "common": [
       "Rocket, Garden"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

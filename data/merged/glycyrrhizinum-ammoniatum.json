@@ -1,14 +1,19 @@
 {
   "id": "glycyrrhizinum-ammoniatum",
   "names": {
-    "primary": "Glycyrrhizinum Ammoniatum (U. S. P.)",
-    "latin": "Glycyrrhizinum Ammoniatum (U. S. P.)",
+    "primary": "Glycyrrhizinum Ammoniatum",
+    "latin": "Glycyrrhizinum Ammoniatum",
     "common": [
       "Ammoniated Glycyrrhizin"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Glycyrrhizinum Ammoniatum (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

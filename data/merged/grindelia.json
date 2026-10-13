@@ -10,7 +10,11 @@
       "Grindelia (U. S. P.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -28,8 +32,16 @@
     ],
     "keynotes": [
       {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Grindelia. A tincture is made of the fresh herb, Grindelia squarrosa, Dunal. ► Fulness of head as from quinine, then rheumatic pain and soreness in left eyeball, running back to brain, agg. moving it, pupil dilated, the same pain and soreness in right knee, then right eye affected like left, conjunctiva injected, eyes appearing as in congestion of brain, unbearable pain in region of liver and spleen, so that I could not lie still a moment, with rheumatic soreness in region of the pain, respiration would cease on falling asleep, and would not be resumed till awakened by the suffocation. Clinical :- ► Conjunctivitis. ► Purulent ophthalmia. ► Iritis. ► Asthma, with profuse secretions, which are tenacious, the expectoration relieves. ► Paroxysmal dyspna, with palpitation, faintness, inability to lie down, starting up with convulsive efforts to breathe, with livid face. ► Cheyne-Stokes respiration, if the patient drops off to sleep he stops breathing and wakes with a start and gasps for breath ( Lach., Gel., Cur .). ► dema of the lungs and broncho-pneumonia in cases of fatty degeneration of the heart, can breathe only when sitting up, has to keep awake to breathe. ► Chronic pneumonias, with purulent expectoration, great dyspna, asthmatic expiration. ► Chronic bronchitis, with headache and purulent expectoration. ► Varicose ulcers on the leg, purplish-black, with profuse fetid secretions (confirmations needed). Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
         "text": "Following Hering I have not thought it necessary to separate the two Grindelias which have been used in homœopathy, but, as far as possible, I shall indicate the species used in any definite experience. Several species have been used in cases of asthma, bronchitis, Rhus-poisoning and heart and skin affections. The only proving is by Dr. T. H Bundy, who took a teaspoonful of a tincture of the dried plant of G. squarrosa and in half an hour followed it by another, with the result that he produced some intensely severe pains in head and eyes (left then right), and symptoms in liver, spleen, nervous system and lungs, and altogether passed \"the most terrible night of his life.\" The proving is remarkable for the number of peculiar symptoms induced. First there was \"fulness in head as after a heavy dose of quinine.\" Then intense pain in left eye and right knee-joint exactly like acute rheumatism. The knee pain lasted only half an hour and then the third teaspoonful was taken. The eye-pain became most agonising, the pupil became widely dilated. It was two hours before the right eye became affected and then the misery was doubled. At this time unbearable pain in whole of liver and spleen came on, so severe it was impossible to lie still a moment, with intense soreness of the region affected like that of acute rheumatism. The eye pains were in the balls of the eyes running directly back into brain, much by movement. There was a kind of paralysis of the vagus nerve: on falling asleep the respiratory movement would cease and would not be resumed until he waked up from the resulting suffocation. In the clinical experiences recorded it is the Robusta which is chiefly mentioned, though sometimes it is not specified which. One writer obtained excellent results from \"Grindelia\" in a number of cases of asthma and emphysema with dilated heart. H. W. Foster reported the cure of a case of asthma with G. robusta which shows that Dr. Bundy's proving of G. squarrosa is good for each drug. (Hering erroneously gives Bundy's proving under the heading \"Grindelia robusta.\") Dr. Foster's patient was awakened by asthmatic attacks, the room seeming too small. After getting quiet, just as he would commence to lose himself in sleep he would suddenly awaken again because he seemed to have forgotten to breathe. Grind. r. 30 relieved at once. Gatchell found a lotion of Grindelia robusta Ø. (one part to ten of water) a sovereign application in itching or painful erythematous eruptions. It is also useful for bites and stings of insects. It removed aversion to darkness in one patient, who wanted a light in the room all night. Symptoms are by movement; in the dark; on failing asleep.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Main Condensed Materia Medica. By Constantine Hering. Presented by Médi-T . GRINDELIA. [Grindel.] Compositæ. [ 37 ] [37] Sleep. ► On falling asleep the respiratory movement would cease and would not be resumed until awakened by the suffocation resulting. ( G. Squarrosa .) [Confirmed in Squarrosa and Robusta]. Copyright © Médi-T 2005. Main",
+        "source_id": "hering-condensed-mm-1877"
       }
     ],
     "relationships": {
@@ -178,8 +190,10 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "clarke-dictionary-1900",
       "felter-eclectic-1922",
+      "hering-condensed-mm-1877",
       "kings-american-1898"
     ]
   }

@@ -1,14 +1,19 @@
 {
   "id": "tragopogon-pratensis",
   "names": {
-    "primary": "Tragopogon pratensis (LINN.)",
-    "latin": "Tragopogon pratensis (LINN.)",
+    "primary": "Tragopogon Pratensis",
+    "latin": "Tragopogon Pratensis",
     "common": [
       "Goat's Beard"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Tragopogon pratensis (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

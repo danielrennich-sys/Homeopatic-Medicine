@@ -1,14 +1,17 @@
 {
   "id": "calamintha-acinos",
   "names": {
-    "primary": "Calamintha acinos",
-    "latin": "Calamintha acinos",
+    "primary": "Calamintha Acinos",
+    "latin": "Calamintha Acinos",
     "common": [
       "Thyme, Basil"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

@@ -1,18 +1,21 @@
 {
   "id": "cochlearia-armoracia",
   "names": {
-    "primary": "COCHLEARIA ARMORACIA",
-    "latin": "COCHLEARIA ARMORACIA",
+    "primary": "Cochlearia Armoracia",
+    "latin": "Cochlearia Armoracia",
     "common": [
       "Horse-radish (ARMORACIA SATIVA)",
       "Horseradish"
     ],
     "synonyms": [
-      "Cochlearia Armoracia (LINN.)",
-      "Cochlearia armoracia"
+      "Cochlearia Armoracia (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "head": [
       {
@@ -60,7 +63,13 @@
       ]
     },
     "dosing": {
-      "notes": "First to third attenuation"
+      "notes": "First to third attenuation",
+      "entries": [
+        {
+          "text": "Fluid extract, 1/2 to 1 drachm. Comp. Spirit of Horseradish, B.P., 1 to 2 drachms. [ Top ] Purchase from Richters Horseradish (Armoracia rusticana) Plants and Bulk Dried Root Powder See also... Wasabi (Eutrema japonicum 'Mikado', aka Japanese Horseradish) Plants",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "keynotes": [
       {

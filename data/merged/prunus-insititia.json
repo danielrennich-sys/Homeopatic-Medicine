@@ -1,14 +1,19 @@
 {
   "id": "prunus-insititia",
   "names": {
-    "primary": "Prunus insititia (LINN.)",
-    "latin": "Prunus insititia (LINN.)",
+    "primary": "Prunus Insititia",
+    "latin": "Prunus Insititia",
     "common": [
       "Bullace"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Prunus insititia (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

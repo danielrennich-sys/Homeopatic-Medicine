@@ -1,12 +1,17 @@
 {
   "id": "cuprum-ammonio",
   "names": {
-    "primary": "Cuprum Ammonio-Sulphuricum",
-    "latin": "Cuprum Ammonio-Sulphuricum",
+    "primary": "Cuprum Ammonio",
+    "latin": "Cuprum Ammonio",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Cuprum Ammonio-Sulphuricum"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

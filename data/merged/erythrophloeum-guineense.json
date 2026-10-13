@@ -1,14 +1,19 @@
 {
   "id": "erythrophloeum-guineense",
   "names": {
-    "primary": "Erythrophloeum guineense (G. DON)",
-    "latin": "Erythrophloeum guineense (G. DON)",
+    "primary": "Erythrophloeum Guineense",
+    "latin": "Erythrophloeum Guineense",
     "common": [
       "Sassy Bark"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Erythrophloeum guineense (G. DON)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

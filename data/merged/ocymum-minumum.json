@@ -1,14 +1,17 @@
 {
   "id": "ocymum-minumum",
   "names": {
-    "primary": "Ocymum minumum",
-    "latin": "Ocymum minumum",
+    "primary": "Ocymum Minumum",
+    "latin": "Ocymum Minumum",
     "common": [
       "Basil, Bush"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

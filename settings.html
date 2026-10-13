@@ -68,10 +68,23 @@ body {
     <div class="card">
         <h2>AI Repertorization Agent</h2>
         <p>
-            The AI agent uses Claude (by Anthropic) to intelligently analyze your
-            intake form responses. It understands homeopathic context — for example,
-            it knows "worse from running" is a modality, not "running nose."
+            The AI agent uses Claude (by Anthropic) in two steps: first it reads your
+            story and intake answers and plans a search of the source texts; then it
+            reads the passages that were found and judges, in context, which ones
+            genuinely describe your picture. It understands homeopathic context — for
+            example, it knows "worse from running" is a modality, not "running nose."
         </p>
+        <p style="margin-top:8px">
+            <strong>By default the AI is already on</strong> for every visitor through this
+            site's own proxy (shared daily limit). Adding your own key below removes the
+            shared limit and sends requests straight from your browser to Anthropic.
+        </p>
+        <div class="info-box" style="margin-top:10px">
+            <strong>What is sent to the AI:</strong> the text of your intake answers (your story,
+            symptoms, constitution, history, medications) and, in the second step, the quoted
+            passages from the books. Nothing is stored by this site. Please don't include your
+            name or other identifying details in the form.
+        </div>
         <div id="statusBadge"></div>
 
         <div class="field">

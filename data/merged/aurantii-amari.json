@@ -1,16 +1,20 @@
 {
   "id": "aurantii-amari",
   "names": {
-    "primary": "Aurantii Amari Cortex",
-    "latin": "Aurantii Amari Cortex",
+    "primary": "Aurantii Amari",
+    "latin": "Aurantii Amari",
     "common": [
       "Bitter Orange Peel"
     ],
     "synonyms": [
+      "Aurantii Amari Cortex",
       "Aurantii Amari Cortex (U. S. P.)"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

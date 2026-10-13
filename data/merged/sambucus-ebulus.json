@@ -1,14 +1,19 @@
 {
   "id": "sambucus-ebulus",
   "names": {
-    "primary": "Sambucus Ebulus (LINN.)",
-    "latin": "Sambucus Ebulus (LINN.)",
+    "primary": "Sambucus Ebulus",
+    "latin": "Sambucus Ebulus",
     "common": [
       "Elder, Dwarf"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Sambucus Ebulus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "rumex-scutatus",
   "names": {
-    "primary": "Rumex scutatus (LINN.)",
-    "latin": "Rumex scutatus (LINN.)",
+    "primary": "Rumex Scutatus",
+    "latin": "Rumex Scutatus",
     "common": [
       "Sorrel, French"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Rumex scutatus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

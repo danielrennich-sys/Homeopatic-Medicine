@@ -1,14 +1,19 @@
 {
   "id": "asperula-odorata",
   "names": {
-    "primary": "Asperula odorata (LINN.)",
-    "latin": "Asperula odorata (LINN.)",
+    "primary": "Asperula Odorata",
+    "latin": "Asperula Odorata",
     "common": [
       "Woodruff, Sweet"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Asperula odorata (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "pinus-strobus",
   "names": {
-    "primary": "Pinus strobus (LINN.)",
-    "latin": "Pinus strobus (LINN.)",
+    "primary": "Pinus Strobus",
+    "latin": "Pinus Strobus",
     "common": [
       "Pine, White"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Pinus strobus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

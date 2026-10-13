@@ -1,14 +1,19 @@
 {
   "id": "sanguisorba-officinalis",
   "names": {
-    "primary": "Sanguisorba Officinalis (LINN.)",
-    "latin": "Sanguisorba Officinalis (LINN.)",
+    "primary": "Sanguisorba Officinalis",
+    "latin": "Sanguisorba Officinalis",
     "common": [
       "Burnet, Great"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Sanguisorba Officinalis (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

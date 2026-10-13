@@ -7,6 +7,9 @@
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -23,6 +26,10 @@
       }
     ],
     "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Coccinella. A tincture is prepared by digesting the live insects, Coccinella Septempunctata (L.), (the common \"Lady-bug\"), in alcohol. ► Tensive pressure in head. ► Vertigo. ► Tearing sticking in one side of forepart of head. ► Aching in temples and occiput as if brain would become enlarged or distended. ► Redness of cheeks, agg. right, with heat. ► Rushes of blood to face like flushes of heat. ► Tearing rhythmical with pulse, extending from right upper jaw to lobule of ear. ► Jerking and tearing in one and tearing in the other teeth, with stitches extending towards occiput and warmth through the whole head. ► Pulselike jerking in molars. ► Throbbing pain in upper molars. ► Knitting pain in molars. ► Pain in molars as if hollow and as if air were forced into them. ► Drawing in upper molars, extending towards right ear, when sitting ; rhythmical D. in teeth when eating. ► Paroxysmal drawing or tearing, as if a tooth would be torn out ; in teeth, with hacking in them. ► Cold sensation in all teeth ; pleasant, in one tooth on touch of finger. ► Gum swollen. ► Tobacco bites the tongue severely. ► Coldness in mouth. Clinical :- ► Neuralgic headaches, beginning in forehead over right eye, which is very sensitive to touch (red) ; neuralgia of teeth, etc. ► Effects of cold in the region of the kidneys, pain in loins. ► Hiccough and burning in stomach, but particularly pain in region of kidneys (Compare with Doryphora and Canth .). Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
       {
         "text": "Most of the symptoms of Coccinella appear in the teeth and nerves of the face and mouth. It has been used in hydrophobia, and therein its actions would appear to be analogous to that of Cantharis. Symptoms indicating it are: by any bright object. Is awakened by profuse accumulation of Sativa; vomits and complains of sore throat. The neuralgia of Coccin. is at night, accompanied by icy cold extremities and cold, moist skin; the right side is most affected. Pains extend from one part to another, and may jump from side to side. Its attacks recur periodically; are often of brief duration but quickly recurring, generally at night; but may be entirely absent in the night. Returning every eight, ten, twelve, fourteen, or twenty days.",
         "source_id": "clarke-dictionary-1900"
@@ -68,6 +75,7 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "clarke-dictionary-1900"
     ]
   }

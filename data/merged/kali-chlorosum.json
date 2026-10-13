@@ -1,14 +1,17 @@
 {
   "id": "kali-chlorosum",
   "names": {
-    "primary": "Kali (Hypo) Chlorosum",
-    "latin": "Kali (Hypo) Chlorosum",
+    "primary": "Kali Chlorosum",
+    "latin": "Kali Chlorosum",
     "common": [],
     "synonyms": [
-      "Kali Chlorosum"
+      "Kali (Hypo) Chlorosum"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

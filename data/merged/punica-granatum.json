@@ -1,16 +1,20 @@
 {
   "id": "punica-granatum",
   "names": {
-    "primary": "Punica granatum (LINN.)",
-    "latin": "Punica granatum (LINN.)",
+    "primary": "Punica Granatum",
+    "latin": "Punica Granatum",
     "common": [
       "Pomegranate"
     ],
     "synonyms": [
+      "Punica granatum (LINN.)",
       "Pomegranate"
     ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

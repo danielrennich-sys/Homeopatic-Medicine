@@ -6,11 +6,12 @@
     "common": [
       "Acetate of Copper"
     ],
-    "synonyms": [
-      "CUPRUM ACETICUM"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -112,6 +113,12 @@
           "text": "mental emotions, touch",
           "source_id": "boericke-1927"
         }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Cupr. a.]. Lying down : chorea > Sitting : anxiety and pressure of chest <. Change of posture : frequent. Chewing : facial neuralgia >. Motion : chorea <. Walking : dragging of left foot. Throwing body about : great restlessness. Morning : facial neuralgia < ; attack of vomiting on awaking. Night : cough comes on between 11 and 1. Warmly wrapped : facial neuralgia >. Hot bricks : do not > cold feet.",
+          "source_id": "hering-guiding-1879"
+        }
       ]
     },
     "dosing": {
@@ -210,6 +217,13 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Mmm: Measles, complications or sequelæ of.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      }
+    ],
     "stool_rectum": [
       {
         "text": "Great irritability of stomach, every kind of nourishment being rejected ; continual desire to vomit with most distressing retching ; bowels irritable ; frequent, small, papescent stools, often mixed with mucus and blood ; nervous depression ; fretting, despondent. θ After suppression of eczema. Black stools, copious, painful, bloody, with tenesmus, and weakness. Rice-watery purging ; inelastic cold skin. θ Cholera. Sudden severe constricting pains in abdomen, with nausea, profuse, spurting diarrhœa, and cramps in muscles of legs ; lies in an apathetic condition ; twitchings ; groaning ; clonic spasm of muscles of leg ; difficult respiration ; cyanosis ; is conscious, but desires nothing but water to quench the burning thirst ; eyes dim, fixed, retracted, and surrounded by dark circles ; face sunken and cold ; tongue, breath, hands and feet icy cold ; voice hollow, feeble ; impulse beat of heart extremely weak, radial pulse lost ; stool less frequent, ashy gray, with grayish flakes ; forcible vomiting ; urine suppressed. θ Cholera paralytica. Severe cases of summer diarrhœa, with griping pains and cramps of extremities. Diarrhœa with irregular pulse, twitchings, startings, and jerks in limbs, subsultus tendinum, and fainting. Summer complaint of children, with brain affections. Constipation. Tape worm.",
@@ -235,6 +249,7 @@
       "allen-encyclopedia-1874",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879"
     ]
   }

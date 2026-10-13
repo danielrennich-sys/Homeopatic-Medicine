@@ -7,6 +7,9 @@
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -123,13 +126,44 @@
         "text": "General coldness, not relieved by energy. Feet icy cold. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "comparative": [
+      {
+        "text": "[The Ophidia] In considering the remedies derived from the animal kingdom, first I shall speak, in extenso, of the large family, formally called Ophidians, or snakes proper. Of those we use in medicine, we have first the Lach- esis trigonocephalies. This was proved by Dr. Hering, sixty years ago. Next we have the Crotalus horridus. There is also a South American species, proved by Dr. Muir, the Crotalus cascavella. This has a few symptoms which will not yield to the administration of the other spe- cies. Then there are the Naja tripadians, one variety of the cobra, and the Elaps coralli?ius, so called from the shape of the scales on the back, which have something the appearance of coral. Lastly, there is the Bothrops lanceolatus, a remedy which, for a year or more, I have vainly tried to procure. It causes symptoms similar to that peculiar condition known as aphasia. Of these poisons, the first four are com- monly used in medicine.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Vision: Vision, illusions of, colors, blue; Vision, illusions of, mist.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vision"
+      },
+      {
+        "text": "Fff: Fingers, picks, plays with, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Head, compression, cap, etc.; Heart, floats.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Sss: Scapulæ, between, broken, as if; Scapulæ, bruised (right).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "farrington-clinical-1908",
+      "boger-synoptic-key-1915"
     ]
   }
 }

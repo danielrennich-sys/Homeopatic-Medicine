@@ -1,14 +1,17 @@
 {
   "id": "pimpinella-magna",
   "names": {
-    "primary": "Pimpinella magna",
-    "latin": "Pimpinella magna",
+    "primary": "Pimpinella Magna",
+    "latin": "Pimpinella Magna",
     "common": [
       "Saxifrage, Greater Burnet"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

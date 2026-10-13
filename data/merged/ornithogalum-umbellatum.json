@@ -1,8 +1,8 @@
 {
   "id": "ornithogalum-umbellatum",
   "names": {
-    "primary": "ORNITHOGALUM UMBELLATUM",
-    "latin": "ORNITHOGALUM UMBELLATUM",
+    "primary": "Ornithogalum Umbellatum",
+    "latin": "Ornithogalum Umbellatum",
     "common": [
       "Star of Bethlehem"
     ],
@@ -10,7 +10,11 @@
       "Ornithogalum umbellatum (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "stomach_abdomen": [
       {

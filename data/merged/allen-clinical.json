@@ -1,12 +1,17 @@
 {
   "id": "allen-clinical",
   "names": {
-    "primary": "Allen's Clinical Hints by Aldo Farias Dias M.D",
-    "latin": "Allen's Clinical Hints by Aldo Farias Dias M.D",
+    "primary": "Allen Clinical",
+    "latin": "Allen Clinical",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Allen's Clinical Hints by Aldo Farias Dias M.D"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

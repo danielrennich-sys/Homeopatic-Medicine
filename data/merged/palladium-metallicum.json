@@ -1,14 +1,17 @@
 {
   "id": "palladium-metallicum",
   "names": {
-    "primary": "PALLADIUM METALLICUM",
-    "latin": "PALLADIUM METALLICUM",
+    "primary": "Palladium Metallicum",
+    "latin": "Palladium Metallicum",
     "common": [
       "The Metal (PALLADIUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

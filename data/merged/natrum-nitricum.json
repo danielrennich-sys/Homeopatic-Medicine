@@ -3,12 +3,17 @@
   "names": {
     "primary": "Natrum Nitricum",
     "latin": "Natrum Nitricum",
-    "common": [],
+    "common": [
+      "Nitrate of Sodium (NATRUM NITRICUM)"
+    ],
     "synonyms": [
-      "Natrum nitricum"
+      "NATRIUM NITRICUM"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -24,7 +29,48 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "head": [
+      {
+        "text": "Dull. Indisposed to mental and bodily exertion. Pressing inward pain. Otalgia. Inward pressing in malar bones. Nosebleed",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Head dull; as from too much study. Pressing inward pain l. temple and forehead, with heat.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Sour risings. Aversions to coffee. Flatulence, with pressure in pit of stomach and pain in chest; worse motion, better eructation",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Abdominal muscles painfully contracted towards the spine. Distended. Difficult stool; feels as if more remained to pass",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Coppery taste on lips and tongue. Acid taste. Appetite diminished. Repugnance to coffee. Sour risings. Sufferings from flatulency, with pressive pains, esp. in epigastrium and chest, by movement, and > by risings or expulsion of flatus. Flatulence with pressure in pit of stomach and under sternum. Distended abdomen, with a feeling of heaviness in it, followed by emission of a quantity of wind and eructations. Painful retraction of abdominal muscles towards spinal column.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Pain in region of heart. Pulse slower and softer",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pressive pains below outer part r. pectoral muscle, as if between and on ribs, on deep breathing, whilst sitting bent over. Pulse become slower; smaller, softer.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "dosing": {
+      "notes": "Second trituration, also watery solution; 1 dram of salt to 8 oz water. Dram doses"
+    },
     "keynotes": [
+      {
+        "text": "color=\"#800000\">NATRIUM NITRICUM Nitrate of Sodium (NATRUM NITRICUM) A Rademacherian remedy for inflammations. Hæmoptysis. Hæmaturia. Purpura hæmorrhagica. Hæmorrhagic Variola. Drowsiness. Pains of tabes. Influenza. Hemoglobinuria. Uric acid diathesis. Asthma with urine supersaturated with solids. Anæmia and hydræmia. Exhaustion, must rest frequently when walking.",
+        "source_id": "boericke-1927"
+      },
       {
         "text": "Na. n. has had a considerable proving, and among the peculiar symptoms were: Heat in left ear; coldness in right. Heat spreading left to right. Coldness streaming through upper part of body. Coldness of left foot. Pressing-inward pains: in temple and forehead; in malar bones. Flatulent troubles with weight in lower abdomen. Painful retraction of abdominal muscles. Painful constipation. Anæmia and excessive exhaustion. The symptoms were by exertion; ascending stairs; sitting bent over; deep inspiration. Na. n. was Rademacher's Aconite. He used it in inflammations of all kinds, especially laryngo-tracheitis and croup, acute pneumonia, acute rheumatism and heart affections, purpura, hæmorrhages, inflammations of the eye, exophthalmic goître (Hansen).",
         "source_id": "clarke-dictionary-1900"
@@ -42,12 +88,6 @@
     "mental_emotional": [
       {
         "text": "Great ill-humour (mental indolence).",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
-    "head": [
-      {
-        "text": "Head dull; as from too much study. Pressing inward pain l. temple and forehead, with heat.",
         "source_id": "clarke-dictionary-1900"
       }
     ],
@@ -69,12 +109,6 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
-    "stomach_abdomen": [
-      {
-        "text": "Coppery taste on lips and tongue. Acid taste. Appetite diminished. Repugnance to coffee. Sour risings. Sufferings from flatulency, with pressive pains, esp. in epigastrium and chest, by movement, and > by risings or expulsion of flatus. Flatulence with pressure in pit of stomach and under sternum. Distended abdomen, with a feeling of heaviness in it, followed by emission of a quantity of wind and eructations. Painful retraction of abdominal muscles towards spinal column.",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
     "stool_rectum": [
       {
         "text": "Constipation: fæces of a large size; the stool is discharged with difficulty, slow, and with the sensation after the stool as if the fæces were still remaining. Stool always consisted of isolated fæcal masses, evacuated with great exertion; during last days of proving constant desire to go to stool. Stool indolent, only after effort, leaving sensation as if more to follow. Stool retarded one day.",
@@ -84,12 +118,6 @@
     "urinary": [
       {
         "text": "Frequent distressing desire, increased mucous secretion of passages. Profuse emission (in spite of summer heat and profuse perspiration). Urine very light colour and high specific gravity.",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
-    "chest_heart": [
-      {
-        "text": "Pressive pains below outer part r. pectoral muscle, as if between and on ribs, on deep breathing, whilst sitting bent over. Pulse become slower; smaller, softer.",
         "source_id": "clarke-dictionary-1900"
       }
     ],
@@ -104,13 +132,27 @@
         "text": "A fine cold sensation streams through body, esp. upper part and arms, followed by increased warmth after a quarter of an hour in bed. General shivering chill at times. Feet cold (and feel cold) up to calves. Icy coldness of l. foot extending half up leg (both in warm room and when walking). Whole l. concha becomes burning hot, r. remaining cold; heat soon extended over l. temple, then changed to pressing-inward pain; later heat spread to r. side of head, esp. concha, thence over face with pressive pain in l. frontal sinuses, in afternoon. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Time: Time, periodically, yearly, agg.; Time, morning, agg.; Time, afternoon, agg., 3 P.M..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Hhh: Heart, oppression; Hydrogenoid.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "lippe-textbook-mm-1866"
     ]
   }

@@ -1,15 +1,19 @@
 {
   "id": "ephedra-ephedrine",
   "names": {
-    "primary": "Ephedra and Ephedrine Alkaloids for Weight Loss and Athletic Performance",
-    "latin": "Ephedra and Ephedrine Alkaloids for Weight Loss and Athletic Performance",
+    "primary": "Ephedra Ephedrine",
+    "latin": "Ephedra Ephedrine",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Ephedra and Ephedrine Alkaloids for Weight Loss and Athletic Performance"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {},
   "evidence": {
-    "summary": "",
     "studies": [
       {
         "section": "Key points",
@@ -37,8 +41,6 @@
         "source": "ODS-NIH"
       }
     ],
-    "documented_adverse_effects": [],
-    "documented_interactions": [],
     "regulatory": [
       "NIH Office of Dietary Supplements (ODS) Health Professional fact sheet"
     ]

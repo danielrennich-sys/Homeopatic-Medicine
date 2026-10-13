@@ -1,14 +1,19 @@
 {
   "id": "teucrium-scordium",
   "names": {
-    "primary": "Teucrium scordium (LINN.)",
-    "latin": "Teucrium scordium (LINN.)",
+    "primary": "Teucrium Scordium",
+    "latin": "Teucrium Scordium",
     "common": [
       "Germander, Water"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Teucrium scordium (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

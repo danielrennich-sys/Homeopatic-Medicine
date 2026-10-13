@@ -1,15 +1,91 @@
 {
   "id": "panax-quinquefolium",
   "names": {
-    "primary": "Panax quinquefolium (LINN.)",
-    "latin": "Panax quinquefolium (LINN.)",
+    "primary": "Panax Quinquefolium",
+    "latin": "Panax Quinquefolium",
     "common": [
-      "Ginseng"
+      "Ginseng",
+      "Aralia Quinquefolia-Wild Ginseng-Panax (GINSENG)"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Panax. Panax quinquefolium",
+      "Panax quinquefolium (LINN.)",
+      "Ginseng Quinquefolium",
+      "Panax"
+    ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
+    "indications": [
+      {
+        "text": "Synonym—Ginseng.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—This agent is an important article of commerce in China, being a general domestic remedy and highly prized. It is a mild sedative and tonic to the nerve centers, improving their tone, if persisted in, and increasing the capillary circulation of the brain. It is given in cerebral anemia, and if combined with other tonics is capable of doing some good. It is also prescribed in the failure of digestion incident to nervous prostration and general nerve irritation.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Panax is not official in the British Pharmacopoeia, and it was dismissed from the United States Pharmacopceia at a late revision. It is cultivated almost entirely for export to China. In China, both varieties are used particularly for dyspepsia, vomiting and nervous disorders. A decoction of 1/2 oz. of the root, boiled in tea or soup and taken every morning, is commonly held a remedy for consumption and other diseases. In Western medicine, it is considered a mild stomachic tonic and stimulant, useful in loss of appetite and in digestive affections that arise from mental and nervous exhaustion. A tincture has been prepared from the genuine Chinese or American root, dried and coarsely powdered, covered with five times its weight of alcohol and allowed to stand, well-stoppered, in a dark, cool place, being shaken twice a day. The tincture, poured off and filtered, has a clear, light-lemon colour, an odour like the root and a taste at first bitter, then dulcamarous and an acid reaction.",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "The root of Panax quinquefolia, Linné (Nat. Ord. Araliaceae). Middle and northern United States in rich woods; becoming exceedingly scarce; also cultivated. Dose, 5 to 60 grains.Common Name: Ginseng.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Principal Constituents.—Not well determined; resinous and probably an amorphous yellow principle which has been named panaquilon.Preparation.—Specific Medicine Panax. Dose, 1 to 60 drops.Specific Indications.—Nervous dyspepsia; mental and other forms of nervous exhaustion from overwork.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—A mild, stimulating tonic whose effects are observed only after quite a long period of administration. It is a feeble nerve stimulant and as such is adapted to nervous exhaustion of a mild type from too close application to work, and to mild forms of nervous dyspepsia and slight stomachic debility. As a medicine it acts kindly and quietly, giving a grateful sense of comfort to the stomach.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The root of Aralia quinquefolia, Decaisne and Planchon (Panax quinquefolium, Linné; Ginseng quinquefolia, Wood). Nat. Ord.—Araliaceae. COMMON NAME: Ginseng. ILLUSTRATION: Johnson, Med. Bot. of N. A., Fig. 132.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—Ginseng has a perennial, fusiform, whitish, thick, and fleshy root, transversely wrinkled, and terminating in fibers; its upper portion slender and marked with the scars of the former shoots. The stem is round, smooth, green, often with a tinge of red, about 1 foot high, regularly divided at top into 3 petioles, with a flower-stalk in their center. The petiole is round, smooth, and swelling at the base. Leaves 3, ternate, quinate, or septentate. Leaflets pedicellate, obovate, sharply serrate, acuminate, smooth on both sides, with scattered bristles on the veins above. Flowers small, greenish, in a simple umbel, supported by a round, slender peduncle, which rises from the top of the stem, in the center of the petioles. The involucre is composed of a multitude of short, subulate bracts, interspersed among the flower-stalks, which are so short as to give the appearance of a head rather than an umbel. Calyx with 5 small, acute teeth. Petals 6, oval, reflexed, and deciduous. Stamens 5, with oblong anthers. Styles 2, reflexed and persistent. Ovary large, inferior, ovate-cordate, and compressed. The berries are kidney-shaped, retuse at both ends, compressed, of a bright-scarlet color, crowned with a calyx and styles, and contain 2 and sometimes 3 semicircular seeds. The outermost florets ripen first, and their berries often obtain their full size before the central ones are expanded; the central florets are frequently abortive (L.—W.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History and Description.—Ginseng is a native of most of the middle and northern states, and extends on the mountains far south, growing in rich soil and in shaded situations, and flowering in July. C. S. Rafinesque (Med. Flora of the U. S., Vol. II, 1830, p. 53) states that the Jesuits, knowing the plant from their sojourns in Tartary, found it afterward, toward 1718, in Canada, and instituted the trade in this root with China. The root is somewhat fusiform, 2 or 3 inches in length, and about ½ an inch in diameter, and sends off a few delicate fibers. When dried, it consists of a soft, yellowish-white, corrugated bark, inclosing a central, woody substance. It has a faint smell, and its taste is sweetish, somewhat bitter, mucilaginous, and feebly aromatic. Water or alcohol takes up its properties. Large quantities of it are now gathered and sent to China, where it commands an enormous price, as the Chinese ascribe wonderful medicinal virtues to it. The American drug is cheapest (about $1.86 per pound), next ranks Corea ginseng ($16.50 per pound), and highest in price is the genuine Chinese ginseng. The latter is seldom found in the stores, and the finest qualities command the price of from $60 to $100 for a weight of about 580 grains. In Corea, the cultivation and trade in ginseng is a government monopoly (Amer. Jour. Pharm., 1887, p. 597; 1897, p. 551, and 1898, p. 251). Ginseng is also grown in Japan, but is considered inferior to Corea ginseng. The genuine Chinese ginseng is the root of Aralia Ginseng, A. Meyer (Panax Ginseng, Nees), an east Asia plant. Altogether, 5 commercial grades of ginseng are distinguished in China. It is often adulterated by mixing it with the root of some species of Convolvulus and other roots. (On the cultivation of ginseng in America, see Amer. Jour. Pharm., 1891, p. 411.) Ginseng is becoming very scarce and, unless a method of cultivation becomes practical, bids fair to be exterminated. The price now is from $4.00 to $7.50 per pound and advancing.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chemical Composition.—Rafinesque (loc. cit.) states that the roots have a pleasant, camphorated smell, and that they owe their active properties to a peculiar substance similar to camphor, which he calls panacine—white, pungent, soluble in alcohol and water, more fixed than camphor. The roots also contain a volatile oil, sugar, mucilage, resin, etc. S. S. Garrigues (Amer. Jour. Pharm., 1854, p. 511) obtained from an aqueous infusion a sweetish-bitter, amorphous yellow principle, which he calls panaquilon. It is soluble in ether and alcohol, insoluble in water. Concentrated sulphuric acid dissolves it with purple-red color. If the solution is poured into water, a white precipitate (panacon) results (see Davydow, Amer. Jour. Pharm., 1890, p. 338).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—A mild tonic and stimulant. Useful in loss of appetite, slight nervous debility, and weak stomach. Continued for some length of time, for its temporary administration gives but little benefit, it is a very important remedy in nervous dyspepsia, and in mental exhaustion from overwork. It gives fairly good results in nervous prostration, and in cerebral anemia. By some, it is considered useful in asthma, gravel, convulsions, paralysis, to invigorate the virile powers, etc. It gives fairly good results in atonic laryngitis, bronchitis, and some relief in phthisis, being a secondary remedy for these complaints. Dose, of the powder, from 10 to 60 grains; of the infusion, from 2 to 4 fluid ounces; specific panax, 5 to 60 drops.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Specific Indications and Uses.—Nervous dyspepsia; mental and other forms of nervous exhaustion from overwork.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ],
     "habitat": [
       {
         "text": "Ginseng is distinguished as Asiatic or Chinese Ginseng. It is a native of Manchuria, Chinese Tartary and other parts of eastern Asia, and is largely cultivated there as well as in Korea and Japan. Panax , the generic name, is derived from the Greek Panakos (a panacea), in reference to the miraculous virtue ascribed to it by the Chinese, who consider it a sovereign remedy in almost all diseases. It was formerly supposed to be confined to Chinese Tartary, but now is known to be also a native of North America, from whence Sarrasin transmitted specimens to Paris in 1704. The word ginseng is said to mean 'the wonder of the world.'",
@@ -20,6 +96,10 @@
       {
         "text": "The plant grows in rich woods throughout eastern and central North America, especially along the mountains from Quebec and Ontario, south to Georgia. It was used by the North American Indians. It is a smooth perennial herb, with a large, fleshy, very slow-growing root, 2 to 3 inches in length (occasionally twice this size) and from 1/2 to 1 inch in thickness. Its main portion is spindle-shaped and heavily annulated (ringed growth), with a roundish summit, often with a slight terminal, projecting point. At the lower end of this straight portion, there is a narrower continuation, turned obliquely outward in the opposite direction and a very small branch is occasionally borne in the fork between the two. Some small rootlets exist upon the lower portion. The colour ranges from a pale yellow to a brownish colour. It has a mucilaginous sweetness, approaching that of liquorice, accompanied with some degree of bitterness and a slight aromatic warmth, with little or no smell. The stem is simple and erect, about a foot high, bearing three leaves, each divided into five finely-toothed leaflets, and a single, terminal umbel, with a few small, yellowish flowers. The fruit is a cluster of bright red berrles. The plant was first introduced into England in 1740 by the botanist Collinson. Chinese Ginseng is a larger plant, but presents practically the same appearance and habits of growth. Its culture in the United States has never been attempted, though it would appear to be a promising field for experiment. Father Jartoux, who had special privileges accorded him in the study of this plant, says that it is held in such esteem by the natives of China, that the physicians deem it a necessity in all their best prescriptions, and regard it as a remediable agency in fatigue and the infirmities of old age. Only the Emperor has the right to collect the roots. The prepared root is chewed by the sick to recover health, and by the healthy to increase their vitality; it is said to remove both mental and bodily fatigue, to cure pulmonary complaints, dissolves tumours and prolongs life to a ripe old age. Father Jartoux was satisfied that its praise was justified, and he adds his own testimony to its efficacy in relieving fatigue and increasing vitality. The roots are called, by the natives of China, Jin-chen , meaning 'like a man,' in reference to their resemblance to the human form. The American Indian name for the plant, garantoquen , has the same meaning. Owing to the enormous demand for the root in China recourse was had to the American species, Panax quinquefolium (Linn.), and in 1718 the Jesuits of Canada began shipping the roots to China, and the first shipment from North America to Canton yielded enormous profits. In 1748 the roots sold at a dollar a pound in America and nearly five in China. Afterwards, the price fluctuated, but the root is still eagerly purchased by Chinese traders for export to China, and at the present time commands a yet higher price in the American markets, though it is not an official medicine and has only a place in the eclectic Materia Medica. The American Consul at Amoy stated a few years ago that it is possible to market twenty million dollars worth of American Ginseng annually to China, if it could be produced; but since its collection for exportation, it has been so eagerly sought that it has become exterminated in many districts where it was formerly abundant. This has led to its cultivation and to various devices for preserving the natural supply. In Canada a fine is imposed for collecting between January and the 1st of September. Among the Indians, it is customary to collect the root only after the maturity of the fruit and to bend down the stem before digging the root, thus providing for its propagation. Indian collectors assert that a large number of such seeds will germinate, and that they have been able to increase their area of collection by this method. In 1876, 550,624 lb. were exported at an average price of 1 dollar 17 cents; the amount available for export since then has steadily decreased and the price has gone up in proportion, till in 1912 the export was only 155,308 lb., at an average price of 7 dollars 20 cents per pound. [ Top ]",
         "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "color=\"#800000\">GINSENG QUINQUEFOLIUM Aralia Quinquefolia-Wild Ginseng-Panax (GINSENG) Said to be a stimulant to the secretory glands, especially salivary. Acts on the lower part of the spinal cord. Lumbago, sciatica, and rheumatism. Paralytic weakness. Hiccough. Skin symptoms, itching pimples on neck and chest.",
+        "source_id": "boericke-1927"
       }
     ],
     "preparation": [
@@ -34,23 +114,54 @@
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
-    "indications": [
-      {
-        "text": "Panax is not official in the British Pharmacopoeia, and it was dismissed from the United States Pharmacopceia at a late revision. It is cultivated almost entirely for export to China. In China, both varieties are used particularly for dyspepsia, vomiting and nervous disorders. A decoction of 1/2 oz. of the root, boiled in tea or soup and taken every morning, is commonly held a remedy for consumption and other diseases. In Western medicine, it is considered a mild stomachic tonic and stimulant, useful in loss of appetite and in digestive affections that arise from mental and nervous exhaustion. A tincture has been prepared from the genuine Chinese or American root, dried and coarsely powdered, covered with five times its weight of alcohol and allowed to stand, well-stoppered, in a dark, cool place, being shaken twice a day. The tincture, poured off and filtered, has a clear, light-lemon colour, an odour like the root and a taste at first bitter, then dulcamarous and an acid reaction.",
-        "source_id": "grieve-modern-herbal-1931"
-      }
-    ],
     "generalities": [
       {
         "text": "A substitute for Ginseng, somewhat employed in China, is the root of Codonopsis Tangshen , a bell-flowered plant, used by the poor as a substitute for the costly Ginseng. Ginseng is sometimes accidentally collected with Senega Root ( Polygala Senega , Linn.) and with Virginian Snake Root ( Aristolochia Serpentaria , Linn.), but is easily detected, being less wrinkled and twisted and yellower in colour. It is occasionally found with the collected root of Cypripedium parviflorum (Salis) and Stylophorum diphyllum (Nuttall). Blue Cohosh ( Caulophyllum thalictroides , Linn.) is often called locally in the United States 'Blue' or 'Yellow Ginseng,' and Fever Root ( Triosteum perfoliatum , Linn.) also is sometimes given the name of Ginseng. [ Top ] Purchase from Richters American Ginseng (Panax quinquefolius) Seeds and Dried Root Korean 'Red' Ginseng (Panax ginseng) Try it in tea! Cupid's Tonic Tea Get Smart Tea See also... Java Ginseng 'Jewels of Opar' (Talinum paniculatum) Seeds Maca 'Peruvian Ginseng' (Lepidium meyenii) Dried Root Powder Siberian Ginseng (Eleutherococcus senticosus) Seeds and Plants Suma 'Brazilian Ginseng' (Hebanthe spp.) Dried Root Waterleaf Ginseng (Talinum triangulare) Plants",
         "source_id": "grieve-modern-herbal-1931"
       }
-    ]
+    ],
+    "head": [
+      {
+        "text": "Vertigo, with gray spots before eyes; semi-lateral headache; occipital; difficult opening of eyelids; objects appear double",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Tonsillitis, just like Bellad, but in dark-complexioned people",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Tense, painful, rumbling. Pain in right side. Loud gurgling in ileo-cæcal region. Perityphlitis",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "male": [
+      {
+        "text": "Rheumatic pains after frequent emissions. Weakness of genital organs. Voluptuous tickling at end of urethra. Sexual excitement. Pressure in testicles",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "extremities": [
+      {
+        "text": "Hands feel swollen. Skin feels tight. Contraction. Coldness in back and spine. Bruised pain in small of back and thighs; nightly digging in right lower limb to toes. Burning heat in tips of fingers. Eruption on upper inner thighs. Stiff, contracted joints, heaviness of lower limbs. Crackling in joints. Stiffness in back",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture, to third potency"
+    }
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "grieve-modern-herbal-1931"
+      "ellingwood-1919",
+      "grieve-modern-herbal-1931",
+      "boericke-1927",
+      "felter-eclectic-1922",
+      "kings-american-1898"
     ]
   }
 }

@@ -1,14 +1,19 @@
 {
   "id": "fucus-helminthocorton",
   "names": {
-    "primary": "Fucus helminthocorton (KÜTZ.)",
-    "latin": "Fucus helminthocorton (KÜTZ.)",
+    "primary": "Fucus Helminthocorton",
+    "latin": "Fucus Helminthocorton",
     "common": [
       "Moss, Corsican"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Fucus helminthocorton (KÜTZ.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

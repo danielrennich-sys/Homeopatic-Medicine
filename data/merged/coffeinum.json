@@ -7,6 +7,9 @@
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -15,6 +18,10 @@
       }
     ],
     "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Coffeinum. An alkaloid found in coffee, Thea, Guarana, etc, but usually prepared from tea leaves. There is some reason to believe that the alkaloids of coffee and tea, though chemically similar, are physiologically different. ► Trembling. ► Uneasiness ; and inability to keep erect. ► Faintness. ► Collapse ; and pulse hardly perceptible, irregular, 120, skin cold and clammy. ► Numbness. ► Delirium. ► Excitement ; so that he was unable to fix his mind ; of nervous and vascular systems. ► Confusion of ideas. ► Visions. ► Head, aching ; heavy and confused ; marked pulsation in arteries of H. and temples. ► Peculiar intoxicated condition. ► Vertigo. ► Vision of sparks. ► Roaring in ears. ► Features expressive of anxiety. ► Grating of teeth. ► Tongue dry. ► Burning in throat and gullet. ► Constriction of throat and neck every fifteen minutes. ► Thirst. ► Nausea. ► Vomiting, with relief of all symptoms ; V. of digested matters and violent purging, on leaving the closed he could hardly walk. ► Pain and tenderness in stomach and abdomen. ► Abdominal pulsation. ► Constant urging to urinate, with scanty discharge. ► Increase of urine ; with decrease of urea, phosphoric acid and sodium chloride ; with decrease of urea and phosphoric acid and increase of sodium chloride. ► Urea increased ; decreased. ► Erections. ► Oppression of chest. ► Præcordial anxiety. ► Palpitation. ► Pulse rapid ; and full hard ; and irregular, often intermittent. ► Trembling of limbs. ► Sleep very sound at last. ► Sleepless. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
       {
         "text": "A proving has been made with this alkaloid, but has brought out no symptoms not included in the pathogenesis of Coffea. Pulsation of the arteries on head and temples was very marked. Sparks before eyes─roaring in the ears. Vomiting with relief of all symptoms. The Citrate of coffein, which is used largely in allopathic practice, has occasioned dangerous poisonous symptoms in a number of cases. These seem the most characteristic: Restlessness and dizziness; unable to keep erect. Violent precordial anxiety. Palpitation. Abdominal pulsation. Violent trembling of all the extremities. Grating of the teeth. Features expressive of the greatest anxiety. Feeling of constriction of the neck and throat, recurring periodically every fifteen minutes. Pulse very rapid. Copyright © Médi-T ® 2000 Main",
         "source_id": "clarke-dictionary-1900"
@@ -25,6 +32,7 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "clarke-dictionary-1900"
     ]
   }

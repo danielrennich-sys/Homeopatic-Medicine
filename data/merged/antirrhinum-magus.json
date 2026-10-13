@@ -1,14 +1,19 @@
 {
   "id": "antirrhinum-magus",
   "names": {
-    "primary": "Antirrhinum magus (LINN.)",
-    "latin": "Antirrhinum magus (LINN.)",
+    "primary": "Antirrhinum Magus",
+    "latin": "Antirrhinum Magus",
     "common": [
       "Snapdragon"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Antirrhinum magus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

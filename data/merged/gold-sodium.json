@@ -1,12 +1,17 @@
 {
   "id": "gold-sodium",
   "names": {
-    "primary": "Gold and Sodium Chloride",
-    "latin": "Gold and Sodium Chloride",
+    "primary": "Gold Sodium",
+    "latin": "Gold Sodium",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Gold and Sodium Chloride"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

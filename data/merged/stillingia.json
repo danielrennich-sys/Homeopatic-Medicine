@@ -7,12 +7,22 @@
       "Stillingia"
     ],
     "synonyms": [
-      "Stillingia (U. S. P.)",
-      "STILLINGIA"
+      "Stillingia (U. S. P.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
+    "comparative": [
+      {
+        "text": "[The Preparations Of Mercury] Lastly, we have Stillingia, which is called for in broken down consti- tution with periosteal inflammation and nodes on the bones.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Preparations Of Mercury"
+      }
+    ],
     "indications": [
       {
         "text": "The dried root of Stillingia sylvatica, Linné (Nat. Ord. Euphorbiaceae). Southern United States growing in sandy soils. Dose, 5 to 60 grains. Common Names: Queen's Root, Queen's Delight, Silver Leaf, Yaw Root.",
@@ -101,6 +111,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "farrington-clinical-1908",
       "felter-eclectic-1922",
       "kings-american-1898",
       "nash-leaders-1899"

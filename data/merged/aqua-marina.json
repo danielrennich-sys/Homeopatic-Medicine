@@ -1,14 +1,17 @@
 {
   "id": "aqua-marina",
   "names": {
-    "primary": "Aqua Marina (Sea-Water)",
-    "latin": "Aqua Marina (Sea-Water)",
+    "primary": "Aqua Marina",
+    "latin": "Aqua Marina",
     "common": [],
     "synonyms": [
-      "Aqua Marina"
+      "Aqua Marina (Sea-Water)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

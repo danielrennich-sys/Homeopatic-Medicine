@@ -1,23 +1,26 @@
 {
   "id": "calendula-officinalis",
   "names": {
-    "primary": "Calendula",
-    "latin": "Calendula",
+    "primary": "Calendula Officinalis",
+    "latin": "Calendula Officinalis",
     "common": [
       "Marigold",
       "Calendula"
     ],
     "synonyms": [
+      "Calendula",
       "Calendula. Marigold (Compositae)",
-      "CALENDULA OFFICINALIS",
       "Calendula. Calendula officinalis",
       "Calendula officinalis (LINN.)",
       "CALENDULA",
-      "Calendula (U. S. P.)",
-      "Calendula officinalis"
+      "Calendula (U. S. P.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -46,6 +49,10 @@
       }
     ],
     "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Calendula. A tincture is made from the flowers, buds and leaves of fresh plants of the common Marigold. Compare Arnica . Generalities :- ► Rheumatic drawing pain during motion. ► Nervous exhaustion. ► Feeling best when walking or when lying quite still. Clinical :- ► Useful for open wounds, with great soreness and pain, the parts will not heal, tend to inflame and suppurate. ► In phlegmonous erysipelas it seems to be a valuable topical application ; it is also useful as a local application in bad ulcers of os uteri, offensive leucorrha. Mind and Head :- ► Anxiety during chill, with taciturnity and solicitude. ► Fretfulness, with a sleepy, dreamy condition. ► Irritability, then despair and anguish. ► Dull sensation in head, especially in upper part of occiput. ► Confusion of head as after a night's debauch, in morning heaviness of H. as after a long illness. ► Pain in forehead after eating, with peat in it ; P. in occiput. ► Disagreeable sensation in occiput, extending to back of neck. ► Itching of scalp. Eyes :- ► Inflammation of white of eye, with headache while lying, now in forehead, now in temples. ► Dilatation of pupils. ► Swelling of lids. ► Dryness of margins of lids, with biting as from smoke. Face and Mouth :- ► Prickling pain in face, then in forehead, then in face again. ► Drawing tensive pain in glands before left ramus of lower jaw on moving head. ► Vesicles in left corner of lower lip. ► Swollen sensation in lips, spreading to sides of nose, then to eyes and forehead, with burning stinging, speech scarcely recognizable. ► Salivation. Throat :- ► Submaxillary glands swollen and painful to touch as if suppurating ; painful on touch in afternoon as if swollen, at times causing tensive pain, which especially on swallowing, becomes a pressure in throat. ► Pain in front, beneath chin, on motion and pressure, and at union of clavicle with sternum. ► Scraping and accumulation of mucus. ► Bitter taste of mucus before eating. Stomach and Abdomen :- ► Appetite diminished for dinner, though he relishes food when he eats. ► Hiccough after smoking. ► Threatenings of nausea in forenoon. ► Disordered digestion. ► Boring-digging deep in umbilical region when walking. ► Stitches in middle of right side of abdomen on motion. Stool and Urinary and Sexual Organs :- ► Stool in morning preceded by griping and anxiety in abdomen and accompanied by chill. ► Soft stool covered with mucus. ► Tearings in urethra at times during a chill. ► Frequent micturition, urine as white as water and burning. ► Emission of semen. Respiratory Organs, Chest and Pulse :- ► Deep inspiration, with heat in chest and face. ► Great efforts to inflate lower lobes of lungs, only successful when sitting up. ► Pressure in left side of chest in evening in bed, with oppression. ► Drawing pressure in left side of chest when standing while taking drug ; drawing P. in left side of C. and on sternum, with stitches in right side of chest. ► Pulse irregular and diminishing rapidly. Neck and Back :- ► Rheumatic drawing pain in right side of neck extending to shoulder, agg. bending neck to right side and on raising right arm. ► Tearing between scapulæ. ► Aching beneath lower tip of right scapula in afternoon, with sensation as if everything were suppurating and bruised ; A. in left lumbar region, then in both lumbar regions. Extremities :- ► Axillary glands painful to touch. ► Drawing pressive tension in wrists and ankles during rest. ► Weariness of lower limbs. ► Bruised pain in outer side of knees while sitting. ► Burning tearing in upper part of calf while sitting. ► Drawing pinching on inner border of sole while sitting. Skin and Sleep :- ► A wound becomes raw and inflames anew. ► Sticking in the wound during fever heat, with redness of surrounding parts. ► Bruised pain in a wound in morning, with smarting and throbbing as if it would suppurate. ► Itching. ► Restlessness at night, with continual waking, frequent micturition and much drinking. Fever :- ► Chilliness all the morning, with sensitiveness to air ; C. at beginning of almost all symptoms. ► Shivering, with gooseflesh, while skin is warm to touch ; S. in back, with pressure in left last true ribs and movements in epigastric region and abdomen as if he would faint. ► Cold hands and feet ; all the forenoon, with drawing, rheumatic pains through whole body, and after sitting for some time, aching in ribs as if squeezed together and bruised. ► Heat all the forenoon, with sweat, weakness in chest and heat in axillæ ; in afternoon, with creeping chills and thirst, but drinking always causes a shaking chill. ► Heat in evening in bed ; with sweat, especially burning and sweat of feet. ► Heat, but cold drinks cause shivering. ► H. abates after 5 P.M . without shivering, even in open air, the head feels freer, breathing is easier, voice stronger and deeper ; internal, towards evening while sitting, with external coldness, creeping chills and almost dread of drinking ; flushes, in forehead in evening ; H. in face after dinner, and in hands and feet, then thirst. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
       {
         "text": "Traumatic affections: to secure union by first intention and prevent suppuration. In all cases of loss of soft parts when union cannot be effected by means of adhesive plaster. External wounds with or without loss of substance; torn and jagged looking woulds; post-surgical operation; to promote healthy granulation and prevent excessive suppuration and disfiguring scars. Traumatic and idiopathic neuroma (Cepa); neuritis from lacerated wounds (Hyper.); exhausted from loss of blood and excessive pain. Rupture of muscles or tendons; lacerations during labor; wounds penetrating articulations with loss of synovial fluids. Wounds: with sudden pain during febrile heat; constitutional tendency to erysipelas (Psor.); old, neglected, offensive; threatening gangrene (Sal. ac.). Ulcers: irritable, inflamed, sloughing, varicose; painful as if beaten (Arn.); excessive secretion of pus. Calendula is almost specific for clean, surgical cuts or lacerated wounds, to prevent excessive suppuration.",
         "source_id": "allen-keynotes-1899"
@@ -192,6 +199,12 @@
           "text": "in damp, heavy, cloudy weather",
           "source_id": "boericke-1927"
         }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Calen.]. Restless at night, can rest in no position. Lying down : pressive headache ; pressure and oppression l. side of chest. Feels best when walking about, or when lying perfectly still. The rheumatic drawing pains appear only during motion, and are very slight. Moving causes pain, even after the wound is dressed : rheumatism < from motion. Walking : boring digging pain deep in region of navel. Night : drinks much ; very restless ; has to urinate often. Morning : head heavy after long illness ; stool with chill, preceded by griping and anxiety. Forenoon ; intimation of nausea ; chilliness of hands and feet ; great heat. Afternoon : heat, creeping chills ; frequent thirst. At 5 p. m. : heat, thirst, chill abates. Evening : heat of head ; pressure and oppression left side of chest ; in bed, great heat, smarting, feet burn very much and are inclined to sweat ; towards, a feeling of heat in otherwise cold hands.",
+          "source_id": "hering-guiding-1879"
+        }
       ]
     },
     "relationships": {
@@ -218,7 +231,13 @@
       ]
     },
     "dosing": {
-      "notes": "Locally. Aqueous Calendula (Marigoldin) for all wounds, the greatest healing agent. Also as an injection in leucorrhœa; internally, tincture, to third potency. For burns sores, fissures, and abrasions, etc, use Calendula Cerate"
+      "notes": "Locally. Aqueous Calendula (Marigoldin) for all wounds, the greatest healing agent. Also as an injection in leucorrhœa; internally, tincture, to third potency. For burns sores, fissures, and abrasions, etc, use Calendula Cerate",
+      "entries": [
+        {
+          "text": "Fluid extract, 1/4 to 1 drachm. Purchase from Richters Calendula (Calendula officinalis) Seeds Erfurter Orange Calendula (Calendula officinalis 'Erfurter Orangefarbige') Seeds Radio Calendula (Calendula officinalis 'Radio') Seeds Try it in tea! Energizer Tea Fairy Tale Tea Get Smart Tea My Guardian Angel Tea Yummy Tummy Tea Find this in an herb garden collection... Chef's Salad Bouquet Edible Flower Garden Home Medicine Chest Healing Herb Garden",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "mental_emotional": [
       {
@@ -268,6 +287,28 @@
       {
         "text": "Rheumatic drawing in right side of neck, which is < on bending neck to right side, and on raising r. arm ; it extends to shoulder, in morning. Pressive pain beneath right lower point of shoulder blade, with a sensation as in everything was suppurating and bruised, in afternoon. Pressive drawing pain between shoulder blades.",
         "source_id": "hering-guiding-1879"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Generalities: Sprained.).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Hhh: Hearing, noise, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Sss: Scapulæ, bruised (right); Skin, rough, ragged; Suppuration, abscess.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Teeth, tartar.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
       }
     ],
     "indications": [
@@ -406,7 +447,6 @@
     ]
   },
   "evidence": {
-    "summary": "",
     "lactation_safety": [
       {
         "section": "Drug Levels and Effects",
@@ -414,7 +454,6 @@
         "source": "LactMed-NIH"
       }
     ],
-    "documented_adverse_effects": [],
     "regulatory": [
       "LactMed - NIH Drugs and Lactation Database"
     ],
@@ -434,9 +473,11 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "allen-keynotes-1899",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "felter-eclectic-1922",
       "grieve-modern-herbal-1931",

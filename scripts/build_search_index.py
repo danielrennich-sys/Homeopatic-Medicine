@@ -72,6 +72,8 @@ def main() -> None:
             "common": names.get("common", []),
             "synonyms": names.get("synonyms", []),
             "category": d.get("category", ""),
+            "categories": d.get("categories", [d.get("category", "")]),
+            "cell_salt_number": d.get("cell_salt_number"),
             "sources": d.get("provenance", {}).get("sources", []),
             "n_sources": len(d.get("provenance", {}).get("sources", [])),
             "has_traditional": bool(trad),

@@ -1,14 +1,19 @@
 {
   "id": "hieracium-murorum",
   "names": {
-    "primary": "Hieracium murorum (LINN.)",
-    "latin": "Hieracium murorum (LINN.)",
+    "primary": "Hieracium Murorum",
+    "latin": "Hieracium Murorum",
     "common": [
       "Hawkweed, Wall"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Hieracium murorum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

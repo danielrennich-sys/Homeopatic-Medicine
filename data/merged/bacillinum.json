@@ -1,14 +1,15 @@
 {
   "id": "bacillinum",
   "names": {
-    "primary": "BACILLINUM",
-    "latin": "BACILLINUM",
+    "primary": "Bacillinum",
+    "latin": "Bacillinum",
     "common": [],
-    "synonyms": [
-      "Bacillinum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

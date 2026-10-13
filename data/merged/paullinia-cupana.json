@@ -1,20 +1,25 @@
 {
   "id": "paullinia-cupana",
   "names": {
-    "primary": "Guarana",
-    "latin": "Guarana",
+    "primary": "Paullinia Cupana",
+    "latin": "Paullinia Cupana",
     "common": [
       "Guarana (PAULLINIA SORBILIS)",
       "Guarana"
     ],
     "synonyms": [
+      "Guarana",
       "GUARANA",
       "Guarana. Paullinia sorbilis",
       "Paullinia Cupana, Kunth. (H. B. and K.)",
       "Guarana (U. S. P.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -77,7 +82,13 @@
       }
     ],
     "dosing": {
-      "notes": "Must be given in material doses-fifteen to sixty grains of the powder"
+      "notes": "Must be given in material doses-fifteen to sixty grains of the powder",
+      "entries": [
+        {
+          "text": "Powder, 10 grains to 1/2 drachm. Fluid extract of Guarana, U.S.P., 30 minims sweetened with one teaspoonful of syrup in water three times a day. As a strong diuretic 7 1/2 grains can be taken daily and in 24 hours it has been known to increase urine from 27 OZ. to 107 OZ. Tincture of Guarana, B.P.C., for sick headaches, 1 to 2 fluid drachms in water. [ Top ] Purchase from Richters Guarana (Paullinia cupana) Dried Seeds",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "keynotes": [
       {

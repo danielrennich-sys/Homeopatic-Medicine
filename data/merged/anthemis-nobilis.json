@@ -7,10 +7,14 @@
       "Roman Chamomile"
     ],
     "synonyms": [
-      "ANTHEMIS NOBILIS"
+      "Anthemis. Anthemis nobilis"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -23,6 +27,20 @@
       },
       {
         "text": "Clinical: Ascarides; Colic; Dyspepsia; Headache; Liver, congestion of",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Anthemis Nobilis. The Roman Chamomile is a small weed belonging to the compositæ. A tincture is prepared from the fresh flowering plant. Allies :- ► Chamomilla . Generalities :- ► Malaise. ► Laziness. ► Dislike to going out of doors. Mind :- ► Wandering of thoughts, little command over mind, distaste for hard study. ► Peevishness. ► Nervous and afraid of being run over in the evening on going out. ► Low spirits ; feeling as if something were about to happen, with desire to be along to unburden himself by crying, agg. 3 to 5 P.M . Head :- ► Aching in forehead during the fever ; boring oppressive, in forehead at 6 P.M . amel. before morning, with general languor ; aching in forehead as from congestion at 8.30 A.M ., agg. bending head down after eating. ► Aching on top as from pressure from within and feeling as if the top of the head were blown off. Eyes :- ► Lachrymation, agg. exposure to cold ; after rising, agg. indoors, with running of clear water from left nostril, agg. indoors and entering colder room. ► Pain as if something pressed against posterior part of ball, agg. bending head downward. Nose and Mouth :- ► Sneezing when indoors. ► Lips dry. ► Face pale. ► Tongue coated white, with islands on it. ► Taste intensified ; T. bitter. Throat :- ► Constriction about junction with sophagus, when drinking causing difficulty in swallowing liquids, but not solids. ► Contracted feeling on swallowing tea, especially in posterior part. ► Raw feeling in back part, increasing from morning till evening, agg. swallowing saliva and in open cold air ; rawness, with disposition to swallow saliva. Stomach :- ► Appetite increased, especially for meat ; lost. ► Thirst ; lost. ► Nausea agg. indoors. ► Warmth ; pleasant, then desire for food . Abdomen :- ► Aching in liver region, agg. walking ; in right hypochondrium, as from distention, with fæces, then urging to stool, which resulted in the passage of only hard mucus, the pain continued all day ; corresponding to transverse colon, beginning on right side and going to left, then diarrha, which was first white , when putty-like , then vomiting, with griping and ineffectual urging to stool, griping, and coldness and chilliness inside abdomen, passing into legs as far as knees. Anus and Stool :- ► Itching in anus as from ascarides, agg. in evening, when sitting. ► Stools freer, softer ; omitted ; hard, dark ; yellow ; pale yellow. Urinary and Genital Organs :- ► Pain as from distention in and over bladder, extending along spermatic cords (as far as contained in inguinal canal), which felt as if varicose. ► Desire to urinate on waking at 2 A.M . and every time he woke afterwards ; desire to urinate, with pain at neck of bladder, as from distention. ► Frequent micturition ; at night, with a small quantity each time. ► Seminal emission about 4 A.M . ► ► Cough , dry, paroxysmal, in afternoon, from tickling at back of larynx, which was relieved by the cough, with aggravation of the cough in warm room, but not at night in bed. ► ► Pulse rapid, full and soft. Neck and Back :- ► Carotid vessels in neck feel turgid, especially marked below, decreasing upward. ► Aching in loins ; agg. left, as from exertion, at 9. 30 A.M ., agg. walking, amel. 3 P.M . Skin and Sleep :- ► Itching of soles as from chilblains. ► Waking frequently and walking about the room. Fever :- ► Cold feeling when dressing, beginning in legs, where it was most felt, then in neck, then in whole body, when it became general it was most felt in neck, at 10.45 A.M . with nausea at 11.30, nausea went of at 1 P.M . on going into open air, but coldness increased, with dull frontal headache, dull aching pains in limbs, especially in large joints and loins, great lassitude, especially in gluteal region, tenderness, of eyeballs on pressure, skin dry, cutis anserina, veins of limbs reduced in size, cold creeping over whole body, especially in scalp where it began, agg. on leaving fire, no appetite, tongue with a moist white coating, especially in centre, no thirst, pulse rapid, small and weak. ► Coldness of limbs from wrists and ankles downward. ► Dislike to touch or drink anything cold from forenoon till evening. ► Heat after walking, with sweat, especially on head and face. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "color=\"#800000\">ANTHEMIS NOBILIS Roman Chamomile This remedy is akin to the ordinary Chamomilla. Gastric disturbance with coldness. Sensitive to cold air and cold things.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "Anthem. nob. is the common chamomile used domestically in the form of a tea made of the flowers. It is not to be confounded with Matricaria chamomilla. Burnett has recorded a case in which violent gastric disturbance and headache were caused by the \"tea\"; and Berridge has proved the tincture. In Burnett's case there was great coldness and chilliness inside abdomen; Berridge had feelings of coldness generally, and sensitiveness to cold air and the touch of cold things but slight exertion caused heat and perspiration.",
         "source_id": "clarke-dictionary-1900"
       }
     ],
@@ -55,16 +73,6 @@
     "dosing": {
       "notes": "Use the third potency"
     },
-    "keynotes": [
-      {
-        "text": "color=\"#800000\">ANTHEMIS NOBILIS Roman Chamomile This remedy is akin to the ordinary Chamomilla. Gastric disturbance with coldness. Sensitive to cold air and cold things.",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "Anthem. nob. is the common chamomile used domestically in the form of a tea made of the flowers. It is not to be confounded with Matricaria chamomilla. Burnett has recorded a case in which violent gastric disturbance and headache were caused by the \"tea\"; and Berridge has proved the tincture. In Burnett's case there was great coldness and chilliness inside abdomen; Berridge had feelings of coldness generally, and sensitiveness to cold air and the touch of cold things but slight exertion caused heat and perspiration.",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
     "relationships": {
       "_raw": [
         "Compare Cina, &c. China is \"useful after abuse of chamomile tea when hæmorrhage from uterus results\" (Hering)."
@@ -88,7 +96,83 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "comparative": [
+      {
+        "text": "[Chamomiles overview] There are a number of species of Chamomile spread over Europe, North Africa and the temperate region of Asia, but in Great Britain we have four growing wild: the sweet-scented, true Chamomile ( Anthemis nobilis ); the Fcetid Chamomile or Stinking Mayweed ( A. cotula ), which has what Gerard calls 'a naughty smell'; the Corn Chamomile ( A. arvensis ), which flowers rather earlier and is noticeable because its ray florets are empty and wholly for show and possess no sort of ovary or style, and fourthly, the Yellow Chamomile, with yellow instead of white rays, which is found sometimes on ballast heaps, but is not a true native. Chamomile, Common Botanical: Anthemis nobilis (LINN.) Family: N.O. Compositae Description History Parts Used Medicinally Cultivation and Preparation for Market Chemical Constituents Medicinal Action and Uses",
+        "source_id": "grieve-modern-herbal-1931",
+        "lecture": "Chamomiles"
+      },
+      {
+        "text": "[Chamomiles overview] The true or Common Chamomile ( Anthemis nobilis ) is a low-growing plant, creeping or trailing, its tufts of leaves and flowers a foot high. The root is perennial, jointed and fibrous, the stems, hairy and freely branching, are covered with leaves which are divided into thread-like segments, the fineness of which gives the whole plant a feathery appearance. The blooms appear in the later days of summer, from the end of July to September, and are borne solitary on long, erect stalks, drooping when in bud. With their outer fringe of white ray-florets and yellow centres, they are remarkably like the daisy. There are some eighteen white rays arranged round a conical centre, botanically known as the receptacle, on which the yellow, tubular florets are placed- the centre of the daisy is, however, considerably flatter than that of the Chamomile. All the Chamomiles have a tiny, chaffy scale between each two florets, which is very minute and has to be carefully looked for but which all the same is a vital characteristic of the genus Anthemis . The distinction between A. nobilis and other species of Anthemis is the shape of these scales, which in A. nobilis are short and blunt. The fruit is small and dry, and as it forms, the hill of the receptacle gets more and more conical. The whole plant is downy and greyishgreen in colour. It prefers dry commons and sandy soil, and is found wild in Cornwall, Surrey, and many other parts of England. Small flies are the chief insect-visitors to the flowers.",
+        "source_id": "grieve-modern-herbal-1931",
+        "lecture": "Chamomiles"
+      }
+    ],
     "indications": [
+      {
+        "text": "Related entry: German chamomile",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Synonym—Chamomile.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Administration—This agent seems to exercise but little influence in physiological doses. A few drops of the specific anthemis or the German tincture in a glass of water in teaspoonful doses every few minutes or every hour will accomplish good results when directly indicated.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Specific Symptomatology—Severe pain in infants, from simple causes, extreme susceptibility to pain, general hyperaesthesia, subjective, acute, transient, sharp pains.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The following indications were given in The Medical Century, and can be relied upon:",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "There is perpetual hyperesthesia; there is starting and, jumping. The child is cross, wants to be carried; stool apt to be soft and charged with sulphuretted hydrogen; if there be diarrhea accompanying, the passages will look like the white of an egg mixed with greens. The gums are liable to be tender. Tooker says, \"the remedy of all remedies and the one most often called for during the teething period is chamomile. This remedy is to children what pulsatilla is to women, a veritable vade mecum.\"",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Chamomile, acts mildly on the nervous system to subdue irritability and on the gastro-intestinal tract to relieve irritation there. It is adapted to the restless, peevish, irritable, discontented, and impatient infant who insists on being carried in arms constantly. With these there is usually hepatic tenderness with watery or greenish, slimy discharges, yellowish and white lumps of undigested curds, the fecal excordiating the external parts. There is often difficulty and pain in urination, and bloating of the abdomen with flatulence. It prevents convulsions by relieving the irritation, but has not sufficient antispasmodic effect to control the convulsions. It is adapted to irritation of the nervous system, and not atony.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The many conditions with the adult woman it is beneficial, especially to those in the latter months of pregnancy where there are present false pains, nervous twitching, reflex cough, explosion of irascibility; where there is fretfulless, peevishness, impatience and discontent; where there is morbid sensitiveness to pain; where there are sudden fits of temper during menstruation with muscular twitchings.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—This agent in hot infusion is emetic, a stimulating diaphoretic, and it promotes the menstrual flow when suppressed from cold. It is of little importance, in the writer's opinion, as we have so many other agents with wider and more positive action. In suppression of the secretions from acute cold it is a useful remedy. If drank during an alcohol sweat or Turkish bath, its influence is greatly increased. In acute rheumatism it will prove of service,",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is a mild stomachic and general tonic in half-ounce doses of the cold infusion, and it seems to mildly stimulate digestion.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In acute colic in infants, with nervous excitability and tendency to spasm, a few drops may be dropped into a half glass of water and a teaspoonful given every ten minutes with immediate relief. In flatulent colic and in colic accompanying diarrhea, the discharges of a greenish, feculent character with reflex nervous irritation or increased nervous susceptibility, it is a specific remedy.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In constant worry and fretfulness of very young infants, without apparent cause, it is a soothing remedy of much value. It is excellent during the teething period to allay nervous irritation and soothe pain. In neuralgic pains in children it is useful.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In hysterical females its therapeutic influence is similar to that of pulsatilla. It soothes general irritation and quiets imaginary pains, especially if occurring at the menstrual epoch.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "It is useful in dysmenorrhea and in mild cases of ovarian neuralgia. In amenorrhea with intermittent pains, and sensations of appearing menstrual flow, it is useful. It may be given for the erratic pains and reflex nerve irritations of the last months of pregnancy, the reflex cough and unbearable muscular cramps and twitchings.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
       {
         "text": "Related entry: German chamomile",
         "source_id": "felter-eclectic-1922"
@@ -115,8 +199,11 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "grieve-modern-herbal-1931",
+      "ellingwood-1919",
       "felter-eclectic-1922"
     ]
   }

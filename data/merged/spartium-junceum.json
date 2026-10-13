@@ -1,14 +1,19 @@
 {
   "id": "spartium-junceum",
   "names": {
-    "primary": "Spartium junceum (LINN.)",
-    "latin": "Spartium junceum (LINN.)",
+    "primary": "Spartium Junceum",
+    "latin": "Spartium Junceum",
     "common": [
       "Broom, Spanish"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Spartium junceum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

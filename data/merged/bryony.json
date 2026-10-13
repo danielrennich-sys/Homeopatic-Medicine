@@ -1,14 +1,19 @@
 {
   "id": "bryony",
   "names": {
-    "primary": "Bryony, European White",
-    "latin": "Bryony, European White",
+    "primary": "Bryony",
+    "latin": "Bryony",
     "common": [
       "Bryony, European White"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Bryony, European White"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

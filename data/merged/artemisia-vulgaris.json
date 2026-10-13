@@ -7,11 +7,14 @@
       "Mugwort"
     ],
     "synonyms": [
-      "ARTEMISIA VULGARIS",
       "Artemisia vulgaris (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -191,6 +194,28 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Eee: Epilepsy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Ggg: Garlicky.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Sss: Spasm, worms; Sweat, onions, garlic, etc., like.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Www: Wormy [[stool]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      }
+    ],
     "indications": [
       {
         "text": "The leaves, collected in August and dried in the same manner as Wormwood, and the root, dug in autumn and dried. The roots are cleansed in cold water and then freed from rootlets. Drying may be done at first in the open air, spread thinly, as contact may turn the roots mouldy. Or they may be spread on clean floors, or on shelves, in a warm room for about ten days, and turned frequently. When somewhat shrunken, they must be finished more quickly by artificial heat in a drying room or shed, near a stove or gas fire, care being taken that the heated air can escape at the top of the room. Drying in an even temperature will probably take about a fortnight, or more. It is not complete until the roots are dry to the core and brittle, snapping when bent. Mugwort root is generally about 8 inches long, woody, beset with numerous thin and tough rootlets, 2 to 4 inches long, and about 1/12 inch thick. It is light brown externally; internally whitish, with an angular wood and thick bark, showing five or six resin cells. The taste is sweetish and acrid.",
@@ -256,6 +281,7 @@
       "allen-encyclopedia-1874",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "grieve-modern-herbal-1931",
       "hering-guiding-1879"
     ]

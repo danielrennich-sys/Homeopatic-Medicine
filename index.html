@@ -193,6 +193,7 @@ function renderResults(data) {
             ${common ? `<div style="color:#8b8f94;font-size:0.8rem">${esc(common)}</div>` : ''}
             <div class="result-meta">
                 <span class="badge badge-cat">${r.category}</span>
+                ${r.cell_salt_number ? `<span class="badge badge-sources">Cell salt #${r.cell_salt_number}</span>` : ''}
                 <span class="badge badge-sources">${r.n_sources} source${r.n_sources !== 1 ? 's' : ''}</span>
                 ${r.has_traditional ? '<span class="badge badge-trad">Traditional</span>' : ''}
                 ${r.has_evidence ? '<span class="badge badge-ev">Evidence</span>' : ''}

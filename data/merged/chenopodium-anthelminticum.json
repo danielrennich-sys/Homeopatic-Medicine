@@ -5,19 +5,30 @@
     "latin": "Chenopodium Anthelminticum",
     "common": [
       "Jerusalem Oak",
-      "Wormseed, American"
+      "Wormseed, American",
+      "Chenopodium"
     ],
     "synonyms": [
-      "CHENOPODIUM ANTHELMINTICUM",
-      "Chenopodium anthelminticum (BERT.)"
+      "Chenopodium anthelminticum (BERT.)",
+      "Chenopodium",
+      "Chenopodium (U. S. P.)",
+      "Chenopodium (Chenopodii glauci Aphis)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {
         "text": "CHENOPODIUM ANTHELMINTICUM.",
         "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Chenopodium Anthelminticum. A tincture is prepared from the fresh herb, in flower. General Action :- ► Attention is called to the cerebral symptoms, especially in connection with those of the ear. ► Comparison is to be made with Santonine . ► Convulsions, with insensibility and foaming at mouth, on recovery no remembrance of taking the poison. ► Convulsive movements of right half of body, breathing heavy, stertorous, with a peculiar rattle, as if a ball were rolling loose in the trachea, pulse small, weak, frequent, eyes insensible to light or external objects. ► Extremities cold, any attempt at deglutition threatened instant suffocation. ► Disagreeable eructations, nausea, staggering, progressive deafness to the voice but great sensitiveness to the sounds of passing vehicles, each one of which sounded like the roaring of immense cannon right into his ear, the same sensitiveness to other sounds, for example, the tea-bell, also buzzing in ears, he would scarcely light a cigar before he would lay it down, so that the mantel-piece was strewn with cigars only slightly used, no disposition to engage in conversation, aphasia, at which he laughed heartily, whatever he did he repeated many times, he sat down at the wrong place at the tea-table, while grasping a piece of bread there was a spasm of right forearm and hand, fingers were firmly clenched and hand firmly flexed on forearm, he was assisted to his room, his walk being natural, when being placed in bed he showed resistance by striking at me, he began to groan, draw himself up and toss from side to side, soon became unconscious, paralyzed in right arm, next day impaired motion and sensation in right side, right eye ball insensible to touch, during the third day twitchings and stiffness of right limbs, on fourth day unilateral convulsion, copious involuntary micturition, the heavy breathing, with flopping of cheeks, of apoplexy, yellow, frothy regurgitation from mouth, which, like the evacuation from his skin, smelled of wormseed, at times so profuse that it embarrassed respiration, during an attack of dyspna and while in a drenching sweat he was gently turned in bed, when there was a general opistotonic convulsion, icterus, on the fifth day death in coma, with high temperature in axilla. ► (These symptoms retained though turpentine was mixed with the Chenopodium , T. F. A.). ► Neuralgia in head and eyes. ► Pains through breast, under right scapula and in right shoulder. ► Slight dull pain a little lower than inferior angle of right scapula, but nearer the spine . Clinical :- ► Intense pain below lower angle of right shoulder-blade, through to chest. ► Aurists have found in this drug a valuable remedy for torpor of the auditory nerve, as well as for inflammatory states of the middle and internal ear with the peculiar disturbances of hearing above noted. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
       },
       {
         "text": "color=\"#800000\">CHENOPODIUM ANTHELMINTICUM Jerusalem Oak Characteristic pain in scapula very marked. Symptoms of apoplexy, right hemiplegia, and aphasia. Stertorous breathing (Opium). Sudden vertigo. Meniere's disease. Affections of auditory nerves (Nat salicyl). Oil of Chenopodium for hookworm and roundworm.",
@@ -30,6 +41,18 @@
       {
         "text": "The leaves are slightly petioled, oblong-lanceolate, toothed, the upper ones entire and tapering at both ends. The small, very numerous flowers are yellowish-green in colour and occur in numerous small clusters, or globular spikes, arranged in the axils of slender, lateral, leafy branches. The calyx is five-cleft, the lobes ovate, pointed. Stamens five, ovary covered on the top with small, oblong, stalked glands; styles, two to three. The fruit is perfectly enclosed in the calyx, obtusely angled, the seed smooth and shining, the embryo forming about three-quarters of a ring around the mealy albumen. The drug consists of these small, irregular, globular fruits, not larger than the head of a pin. They are very light and of a greenishyellow or brown colour. On rubbing the fruit, the membraneous pericarp is removed and the single, small, brownish-black seed is exposed. The odour of the fruit is strong, resembling somewhat that of eucalyptus; the taste, pungent and bitter. The fruit of C. ambrosioides , var. anthelminticum is even more aromatic. Both varieties of the plant flower from July to September and the fruits ripen successively through the autumn and are collected in October. The whole herb has a strong, peculiar, somewhat aromatic odour, which is due to the presence of a volatile oil and is retained on drying. The leaves have been used in place of tea in Mexico. The American aborigines used the whole herb in decoction in painful menstruation, but its principal use has been - both leaves and seeds - as a vermifuge, and it is to-day considered one of the best expellents of lumbricoids. Though all parts of the plant possess anthelmintic properties, the fruits and the oil extracted from them are alone employed, being official in the United States Pharmacopoeia. It was long customary for the seeds to be administered in the form of a powder, or an electuary, but although the activity of the seed is unquestioned, it has now been entirely displaced in America by the volatile oil obtained by distillation from the crushed fruits, to which the medicinal importance of the fruit is due. The oil was first isolated in 1895 by a German pharmacist who lived in Brazil, where the seeds had long been used as a vermifuge. Most of this oil is distilled in Maryland, and since Baltimore is the commercial centre of that state, this oil is commonly known as Baltimore oil, in distinction from Western Missouri oil, which has at times played a role in the market. The plant is now cultivated in large quantities near Baltimore. [ Top ]",
         "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Chenopodium (Chenopodii glauci Aphis). Head. Dulness in the head, as if from coryza, with flush of heat in the face ; violent pressing in the forehead or the cerebellum, aggravated by motion, with sensation as if the brain were balancing to and fro ; drawing-tearing the scalp. Eyes. Burning of the eyelids in the evening. Ears. Tearing in the ears, now in one, then in the other. Nose. Sensation of soreness of the nostrils. [5] Violent sneezing, with soreness of the larynx. Coryza, with burning and biting on the margins of the nostrils, particularly of the septum. Fluent coryza, with secretion of thin mucus ; with accelerated pulse ; with coldness of the feet up to the knew, and a chill over the back. Face. Pale or yellowish color of the face. Flushes of heat in the face, with dulness of the head (evening). [10] Dryness of the lips, especially in the morning. Mouth and Throat. Painful vesicle on the tip of the tongue. Dryness of the mouth and throat, sometimes with increased secretion of mucus. Much mucus in the mouth and throat, tasting flat, with continual disposition to hawk or spit. Secretion of frothy mucus from the mouth and throat. [15] Scraping and burning in the throat. Appetite and Taste. Increased thirst, from dryness in the throat. Stomach. Frequent cutting pain in the abdomen, especially at night, or during the day, with urging to stool, emission of large quantities of flatulence. Frequent rumbling of flatulence in the bowels. Congestion of blood to the organs in the pelvis. Stool and Anus. [20] Ineffectual urging, with pressure on the bladder and rectum. Evacuations liquid, papescent, with burning in the anus and renewed urging, or with pinching in the abdomen before and after the stool. Urinary Organs. Pressure on the bladder, especially with ineffectual desire to stool. Irritation in the urethra, as from acridity, compelling him to urinate frequently. During micturition, burning in the urethra, especially at the orifice. [25] Frequent and copious emission of saturated, yellow, foaming urine, attended with an acrid sensation in the urethra, brownish red, depositing a thick, yellowish sediment during the night. Larynx and Trachea. Frequent roughness and huskiness of the voice ; going of by hawking. Burning scraping in the larynx, as from acridity ; titillating burning or stinging, particularly in the open air during wet and cold weather, with constant irritation in the larynx, obliging him to cough or to hawk, with constant expectoration of mucus. Back. Pain below the left shoulder-blade. Extremities. Upper . Pain, as if bruised in the arms, with rheumatic pains in the shoulders and upper arms. [30] Lower . Rheumatic pains, especially on the tibia and soles of the feet. Sensation of weariness in the legs. Tearing-drawing above the knee, especially in the morning. Cold feet up to the knees. Stinging burning in the corns. Generalities. [35] The limbs feel bruised. Rheumatic drawing pains in temples, ears, decayed teeth, shoulders, upper arms, soles of the feet, above the knees, and on the tibia. Fever. Pulse accelerated, especially in the evening. Chills, especially over the back. Burning in the palms of the hands. [40] Perspiration in the palms of the hands, especially in the forenoon. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      },
+      {
+        "text": "I have the 30th potency marked Chenopodium glauci, with which I cured one case of pain under the left shoulder-blade. This case was of several years, standing, the pain at times becoming very severe. I have also used it in other cases with benefit. I always think of this remedy where I find such pain and of Chelidonium where it is under the right shoulder-blade. According to Dr. Jacob Jeanes, Chenopodium anthelminticum cures a pain under the right shoulder-blade similar to that of Chelidonium. The pain in both seems to depend upon some hepatic derangement. Having succeeded with the Chelidonium so well, I have never used it. Chelidonium is well proven, and a full proving of the Chenopodium may enable us to distinguish between them. Between the two Chenopodiums and Chelidonium, we have an important trio for infra-scapular pains which ought to be better understood. Such single symptoms are, of course, small guides to follow, but are sometimes the only ones we have, and when, after full proving, the drug having them is developed, we often find that they were reliable though we could not at first give their pathological significance. I would, I think, as often follow such a guide, as speculations and theories. For instance, here are some such single symptoms which have often been verified. Inframammary pains at climacteric. Actæa racemosa. Pain drawing through from nipple to back when child nurses, Croton tiglium (Silicea). Pain in upper left chest through to scapula, Myrtus com., Pix liquida, Theridion and Sulphur. Pain though lower right chest, Chelidonium, Mercurius vivus and Kali carbonicum. Pain through upper right chest, Calcarea ostrearum and Arsenicum album.",
+        "source_id": "nash-leaders-1899"
+      },
+      {
+        "text": "Pain through lower left chest, Natrum sulphuricum. We might add many more such to this list, and they are very valuable.",
+        "source_id": "nash-leaders-1899"
       }
     ],
     "generalities": [
@@ -213,6 +236,78 @@
       {
         "text": "Chenopodium, being a very active anthelmintic, is frequently used for the expulsion of lumbricoid (round) worms, especially in children. Because of its efficacy, ease of administration and low toxicity, it is perhaps the most valuable of all the vermifuge remedies. The bruised fruit may be given in doses of 20 grains, in the form of an electuary. A fluid extract is prepared, of which the dose is 1/2 to 1 drachm. The expressed juice of the fresh plant is also employed, in tablespoonful doses. A decoction made by boiling 1 OZ. of the fresh plant with 1 pint of milk or water has sometimes been given in doses of a wineglassful. The volatile oil is now much used, the dose of which, for a child, is from 5 to 10 mimims. The drug should be given in one full dose, fasting, and then be followed, in about two hours, by an active purgative, such as castor oil. When the purge has acted, the patient can take food. The treatment should be repeated ten days later. In view of the uncertain ascaridole contents of some samples, small doses should be given at first. Toxic symptoms are transient dizziness and vomiting. The oil has been recommended in the treatment of malaria, chorea, hysteria and other nervous diseases. The plant has been employed, under the name of Herba Sancti Mariae , in pectoral complaints, as an expectorant, in catarrh and asthma. Although oil of Chenopodium has been official in the United States Pharmacopoeia for many years, it does not appear to have received official recognition elsewhere. It owes its modern popularity to the investigations of Brüning, who repeatedly drew attention to it (see Zeitschrift für exot. Path ., 1906). In 1912 two Dutch physicians, both working in Delhi (Dutch East Indies), stated that this essential oil is the most effective remedy against ankylostomiasis , the Hookworm disease. Originally, this disease was exclusively a tropical and subtropical one, but about thirty years ago, it appeared in mineworkers in Europe north of the Alps. The Hookworm, which causes the disease, is called Ankylostos duodenale , the male of which attains a length of 10 mm., the female 14 mm. The living hookworm is fleshcoloured, the dead one has a grey or white colour. At the foot of the hook-formed teeth, glands, each consisting of a single cell, pour their contents into the wounds which the worm makes in the mucous membrane of the intestinal canal and into the blood-vessels by means of the teeth. It is supposed that the phenomena of the disease must be attributed to the mechanical changes brought about by the hookworm, as well as to a poisonous substance secreted by the worm. The worm deposits its eggs in the intestinal canal of its host. Together with the faeces, these eggs leave the body of the host. At a temperature of 25 degrees to 30 degrees C., the larva develops, and after two changes of skin, enters into the body of the new host by means of vegetables, drinking-water, or through the skin. Several medicaments have been tried against the hookworm; thymol had appeared to be the only remedy that had been used with some success, but it is much surpassed by Chenopodium oil, which gives better results than eucalyptus, betanaphthol, or thymol. The use of this oil commenced when thymol was not available during the early days of the Great War. It proved to be satisfactory in every way and is the drug commonly used in Ceylon since 1917. Statistics indicate that in three treatments, about 95 per cent of the worms are removed from the body. It has also been used in Fiji and has proved an anthelmintic of great potency. It is said there that over 80 per cent. of the worms are expelled after a single dose. The maximum individual dose would appear to be 1 c.c., but it is best given in three cacheta of 0.5 c.c. each, at two-hourly intervals, followed three hours later by a saline purge of 1 OZ. of magnesium sulphate. The observances of the two Dutch physicians Schuffner and Vervoort have been confirmed by other medical men, and at present, Chenopodium oil has become the specific remedy against the Hookworrn disease. It is, however, a dangerous remedy in the hands of the layman on account of its activity, for unfortunately, the oil as it appears in commerce contains markedly varying quantities of the active principle Ascaridole, and the amount lessens with keeping, making it desirable that dealers should always mention the Ascaridole percentage of the oil they are selling and the date of distillation. The freshly-distilled oil in cases of overdoses has been known to cause symptoms of poisoning. Ascaridole, extracted and administered in place of the whole oil, is effective, and the use of it eliminates uncertainty of the strength of a dose of the oil, but it is relatively costly. Carbon tetrachloride, recently introduced as a remedy for Hookworm, has proved most efficient. It is the cheapest of all advocated treatments, but the dose of 3 mils., at present given, sometimes proves dangerous and would appear to require reduction. A combination of this drug with Ascaridole is being now tested. Chenopodium oil has also been shown to be of great service against the tapeworm and is employed in veterinary practice in a worm mixture for dogs, combined with oil of turpentine, oil of aniseed, castor oil and olive oil. Since this oil has proved so important, steps have been taken to cultivate the plant in the Dutch East Indies, and these endeavours have met with great success, and manufacture of the oil in Netherlands India is now being extensively carried on. [ Top ]",
         "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Related entry: Oleum Chenopodii",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The fruit and oil of Chenopodium ambrosioides anthelminticum, Linné (Nat. Ord. Chenopodiaceae). Waste places throughout the United States.Common Names: American Wormseed, Wormseed.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Principal Constituent.—A volatile oil, Oleum Chenopodii.Preparation.—Oleum Chenopodii, Oil of American Wormseed. A colorless or pale yellowish oil with the disagreeable odor and taste of wormseed. Dose, 5 to 10 drops.Specific Indications.—Lumbricoid worms; hook-worm.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—A safe and certain vermifuge for the removal of the lumbricoid or round worm (Ascaris lumbricoides). After proper preparation, by fasting and purging, the powdered seeds (10 to 30 grains) or the oil (10 drops) may be mixed with syrup or emulsion of acacia and syrup, administered on an empty stomach, and followed by a saline Purge or castor oil one or two hours afterward. The oil may be given in capsule to older children and adults. It is not contraindicated by irritation of the bowels. Oil of chenopodium has recently been found to be completely effective in the removal of the hook-worm (Ankylostoma Uncinaria, or Uncinaria Americana).",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Preparation: Compound Wormseed Mixture Related entry: Oleum Chenopodii (U. S. P.)—Oil of Chenopodium",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"The fruit of Chenopodium ambrosioides, Linné, and variety anthelminticum, Gray \"—(U. S. P.). Nat. Ord.—Chenopodiaceae. COMMON NAMES: American wormseed, Wormseed.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—This plant, sometimes known also by the name of Jerusalem oak, has a perennial and branched root, with an erect, herbaceous, much-branched, furrowed stem, rising from 1 to 3 feet in height. The leaves are alternate or scattered, oblong-lanceolate, toothed, sinuate, nearly sessile, distinctly veined, attenuated at both ends, of a yellowish-green color, and marked beneath with small resinous atoms. The flowers are very numerous, small, of the same color as the leaves, arranged in long, slender, axillary, or terminal, leafless racemes; calyx with 5 ovate, concave, permanent segments; stamens 5, opposite to the segments of the calyx, and about as long, with awl-shaped filaments; styles 2 or 3, short; ovary orbicular, depressed; seeds solitary, lenticular, crustaceous, and covered by the permanent, 5-angled calyx (L).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History and Chemical Composition.—Chenopodium is found growing in waste places in almost all parts of the United States, flowering from July to September, and ripening its seeds throughout the autumn, at which time they should he collected. The whole plant has a strong, unpleasant odor, which is owing to its essential oil (see Oleum Chenopodii). When first obtained, it is of a light straw color, but gradually acquires a darker hue. The seeds contain a large quantity of this oil, which is obtained from them by distillation. The whole plant is occasionally employed, but the seeds only are official. Chenopodin has been obtained from the fresh plant, in the form of a white, tasteless, inodorous powder, soluble in 11 parts of water, 202 parts of cold alcohol, and soluble in diluted acids.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Description.—\"Nearly 2 Mm. (1/12 inch) in diameter, depressed-globular, glandular, dull-greenish or brownish, the integuments friable, and containing a lenticular, obtusely-edged, glossy, black seed. It has a peculiar, somewhat terebinthinate odor, and a bitterish, pungent taste \"—(U. S. P.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Anthelmintic and antispasmodic. It is used in various forms, as the expressed juice, electuary, or decoction, to expel the lumbrici in children. The dose of the juice is a tablespoonful, repeated night and morning; of the infusion, prepared by infusing 1 ounce of the recent plant in 1 pint of milk, with the addition of some aromatic, a wineglassful; of the electuary, made by thoroughly mixing the pulverized seed in honey or syrup, 20 or 40 grains. But the essential oil, on which the vermifuge properties depend is the best form, and is more generally employed. Its dose is from 4 to 8 drops mixed with sugar, or in emulsion, to be given morning and evening, for 4 or 5 days successively, and then, as with the other forms of administration, it should always be followed by a purgative. It is used in various combinations. Take of oil of wormseed and tansy, of each 1 ounce, spirits of turpentine 1 ½ ounces, castor oil 1 pound. Mix. Dose, for a child, a teaspoonful every hour, until it operates; for an adult, a tablespoonful. Equal parts of chenopodium and jalap in decoction may be given in tablespoonful doses, on an empty stomach, 4 or 5 times a day. The oil has likewise been reputed beneficial in amenorrhoea.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Specific Indication and Use.—To expel lumbricoid worms.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Species.—The Chenopodium ambrosioides, Linné, which has been successfully used in chorea, and the Chenopodium botrys, Linné, which has been used with advantage in catarrh and humoral asthma, as an expectorant, are both indigenous, and though less powerful, possess somewhat similar properties; and, indeed, from the superior powers of the C. anthelminticum, it might possibly be found of more benefit in these affections than the above. The first species is official in many of the European countries where it is known as Herba botryos mexicanae or Mexican tea. It is plentiful in our middle states. Its flower-spikes are dense and leafy. The second species is strongly aromatic, the odor resembling turpentine, and is known as Oak of Jerusalem and Feather geranium. It is naturalized in this country, being a native of Europe and Asia.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chenopodium album, Linné, is Common pigweed or Lamb's-quarter. It is a mealy, smooth plant, having a saline, mucilaginous taste.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chenopodium Bonus-Henricus, Linné. A somewhat mealy plant, having a saline, mucilaginous taste; a native of Europe, but naturalized in America and known in Europe as Good King Henry. It is a domestic application for pain, and is reputed antispasmodic and expectorant.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chenopodium vulvaria, Linné. A mealy plant of Central Europe, having the smell of fish brine on account of the trimethylamine it contains. It is known as Fetid goosefoot, and employed in Europe, both locally and internally, in many nervous disorders.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chenopodium quinoa.—Cultivated in Chili and Peru for its seeds, which yield a flour resembling oatmeal. The seeds contain 11 per cent of albumen and other protein matter, 5 per cent of sugar, 7.5 per cent of casein, and 40 per cent of starch. A bitter principle has been isolated from the variety known as red quinoa, and this variety has been employed as an antiperiodic and emetic.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
       }
     ],
     "nose": [
@@ -244,10 +339,15 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "boericke-1927",
       "clarke-dictionary-1900",
       "grieve-modern-herbal-1931",
-      "hering-guiding-1879"
+      "hering-guiding-1879",
+      "felter-eclectic-1922",
+      "kings-american-1898",
+      "lippe-textbook-mm-1866",
+      "nash-leaders-1899"
     ]
   }
 }

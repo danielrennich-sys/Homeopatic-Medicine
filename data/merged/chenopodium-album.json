@@ -1,0 +1,33 @@
+{
+  "id": "chenopodium-album",
+  "names": {
+    "primary": "Chenopodium Album",
+    "latin": "Chenopodium Album",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Hearing: Hearing, bad, for the human voice.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hearing"
+      },
+      {
+        "text": "Hhh: Hay fever; Hearing, variable.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

@@ -1,14 +1,17 @@
 {
   "id": "helminthia-echioides",
   "names": {
-    "primary": "Helminthia echioides",
-    "latin": "Helminthia echioides",
+    "primary": "Helminthia Echioides",
+    "latin": "Helminthia Echioides",
     "common": [
       "Ox-Tongue"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

@@ -1,14 +1,19 @@
 {
   "id": "alliurn-cepa",
   "names": {
-    "primary": "Alliurn cepa, var. proliferum Other Species",
-    "latin": "Alliurn cepa, var. proliferum Other Species",
+    "primary": "Alliurn Cepa",
+    "latin": "Alliurn Cepa",
     "common": [
       "Onion, Tree"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Alliurn cepa, var. proliferum Other Species"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

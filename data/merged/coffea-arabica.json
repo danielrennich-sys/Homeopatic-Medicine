@@ -1,14 +1,19 @@
 {
   "id": "coffea-arabica",
   "names": {
-    "primary": "Coffea arabica (LINN.)",
-    "latin": "Coffea arabica (LINN.)",
+    "primary": "Coffea Arabica",
+    "latin": "Coffea Arabica",
     "common": [
       "Coffee"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Coffea arabica (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

@@ -1,12 +1,17 @@
 {
   "id": "magnesia-muratica",
   "names": {
-    "primary": "Magnesia Muratica. Chloride of Magnesia (MgCl)",
-    "latin": "Magnesia Muratica. Chloride of Magnesia (MgCl)",
+    "primary": "Magnesia Muratica",
+    "latin": "Magnesia Muratica",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Magnesia Muratica. Chloride of Magnesia (MgCl)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

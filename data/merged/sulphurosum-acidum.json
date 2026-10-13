@@ -1,16 +1,17 @@
 {
   "id": "sulphurosum-acidum",
   "names": {
-    "primary": "SULPHUROSUM ACIDUM",
-    "latin": "SULPHUROSUM ACIDUM",
+    "primary": "Sulphurosum Acidum",
+    "latin": "Sulphurosum Acidum",
     "common": [
       "Sulphurous Acid; H2 S O3"
     ],
-    "synonyms": [
-      "Sulphurosum Acidum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

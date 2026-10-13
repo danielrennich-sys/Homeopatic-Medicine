@@ -1,0 +1,94 @@
+{
+  "id": "z-sabadilla",
+  "names": {
+    "primary": "Z   Sabadilla",
+    "latin": "Z   Sabadilla",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "General Analysis: AIR Open, Amel.:- IN ROOM, agg., air hunger, etc.; CHILLY, cold; DIRECTION of sensations, Ascending.; FINE PAINS, needle, splinter, thread or hair-like, etc.; HANGING LOOSE or down, as if.",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      },
+      {
+        "text": "Generalities: Air: Sensitiveness to cold air | Air: Worse in cold air",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: From warmth: When lying down | Pain: In interior parts",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Easily: Worse from cold | Cold air: Sensitiveness to cold air | Cold air: Worse in cold air",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Of whole body: With heaviness and relaxation of body | Drawing: Pains | Drawing: In relieved when at rest",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Heated: Debility, with heaviness and relaxation of body",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Nit-ac. Inflammation: Of internal organs | Interior: Burning pains in interior parts | Internal organs: Inflammation of",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Pains | Lying down: Better when lying down",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Midnight: Worse at night before midnight | Worse about new moon: Worse during full moon",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Night: Before midnight",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Burning: In interior parts | Burning: Drawing | Burning: Relieved when at rest | Jerking: Labor-like",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Relapse: Debility, with heaviness and relaxation of body | Relieved: Drawing pains relieved when at rest | Rest: Drawing pains relieved when at rest | Rest: Worse at rest",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Sep. Extreme: To cold air",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: After eating: Before midnight | After eating: From cold ; during rest | Of bed: (Iod.), (Puls.) In cold air | On lying down: On becoming cold",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-genera-morborum-1907",
+      "gentry-rubrical-mm-1890"
+    ]
+  }
+}

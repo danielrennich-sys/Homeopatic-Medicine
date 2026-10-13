@@ -1,14 +1,19 @@
 {
   "id": "lonicera-caprifolium",
   "names": {
-    "primary": "Lonicera caprifolium (LINN.), Lonicera Periclymenum (LINN.)",
-    "latin": "Lonicera caprifolium (LINN.), Lonicera Periclymenum (LINN.)",
+    "primary": "Lonicera Caprifolium",
+    "latin": "Lonicera Caprifolium",
     "common": [
       "Honeysuckles"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Lonicera caprifolium (LINN.), Lonicera Periclymenum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

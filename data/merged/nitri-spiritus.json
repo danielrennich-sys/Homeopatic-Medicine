@@ -1,16 +1,20 @@
 {
   "id": "nitri-spiritus",
   "names": {
-    "primary": "NITRI SPIRITUS DULCIS",
-    "latin": "NITRI SPIRITUS DULCIS",
+    "primary": "Nitri Spiritus",
+    "latin": "Nitri Spiritus",
     "common": [
       "Sweet Spirits of Nitre"
     ],
     "synonyms": [
+      "NITRI SPIRITUS DULCIS",
       "Nitri Spiritus Dulcis"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "face": [
       {
@@ -42,6 +46,12 @@
         {
           "text": "from mental disturbance, during winter and spring",
           "source_id": "boericke-1927"
+        }
+      ],
+      "entries": [
+        {
+          "text": "REST. POSITION. MOTION. [35] [Nit. s. d.]. Lies in bed motionless. While sitting : upper part of body sways to and fro. Walking : a short distance, breathing becomes hurried. After catching cold during stormy weather : prosopalgia. Cold : very sensitive to.",
+          "source_id": "hering-guiding-1879"
         }
       ]
     },

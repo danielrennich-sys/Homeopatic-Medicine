@@ -1,0 +1,70 @@
+{
+  "id": "z-abies",
+  "names": {
+    "primary": "Z Abies",
+    "latin": "Z Abies",
+    "common": [],
+    "synonyms": [
+      "Z   Abies Canadensis"
+    ]
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Generalities: Catarrh: Of mucous surfaces especially stomach",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Faint-like: Weakness and faintness associated with gastric derangement",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Gastric: Weakness and faintness associated with gastric derangements",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Lie down: Great prostration wants to lie down all the time",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Mucous membrane: Catarrh of mucous membrane especially stomach",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Night: With tossing about",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Languor and drowsiness: Wants to lie down all the time",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Restless, tossing about: Worse at night with tossing about",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Trembling, weakness: And faintness associated with gastric derangements | After eating: With tossing about",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "gentry-rubrical-mm-1890"
+    ]
+  }
+}

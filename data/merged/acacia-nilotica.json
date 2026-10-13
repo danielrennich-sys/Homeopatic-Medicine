@@ -1,14 +1,19 @@
 {
   "id": "acacia-nilotica",
   "names": {
-    "primary": "Acacia nilotica (LINN.)",
-    "latin": "Acacia nilotica (LINN.)",
+    "primary": "Acacia Nilotica",
+    "latin": "Acacia Nilotica",
     "common": [
       "Acacia (Gum)"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Acacia nilotica (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

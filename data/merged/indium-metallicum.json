@@ -6,11 +6,12 @@
     "common": [
       "The Metal Indium (INDIUM)"
     ],
-    "synonyms": [
-      "INDIUM METALLICUM"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -79,6 +80,13 @@
       {
         "text": "color=\"#800000\">INDIUM METALLICUM The Metal Indium (INDIUM) Headaches and migraine. Seminal emissions. Backache.",
         "source_id": "boericke-1927"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Sss: Sciatic nerve, sitting, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
       }
     ],
     "mental_emotional": [
@@ -184,6 +192,7 @@
     "sources": [
       "allen-encyclopedia-1874",
       "boericke-1927",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879"
     ]
   }

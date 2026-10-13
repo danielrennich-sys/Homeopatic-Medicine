@@ -1,16 +1,17 @@
 {
   "id": "succinum",
   "names": {
-    "primary": "SUCCINUM",
-    "latin": "SUCCINUM",
+    "primary": "Succinum",
+    "latin": "Succinum",
     "common": [
       "Electron. Amber-A Fossil Resin"
     ],
-    "synonyms": [
-      "Succinum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

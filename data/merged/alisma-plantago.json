@@ -4,11 +4,17 @@
     "primary": "Alisma Plantago",
     "latin": "Alisma Plantago",
     "common": [
-      "Plantain, Water"
+      "Plantain, Water",
+      "Water Plantain"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Alisma"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {
@@ -20,13 +26,38 @@
       {
         "text": "The Water Plantain has been considerably used medicinally, and is a drug of commerce. It contains a pungent, volatile oil and an acrid resin, to which all its virtues must be ascribed. The drug has diuretic and diaphoretic properties, and has been recommended by herbalists in renal calculus, gravel, cystitis, dysentery and epilepsy. The powdered rhizome and leaves are employed by herbalists, also an infusion and a tincture prepared from the swollen rhizome, in its fresh state, is a homoeopathic drug. The powdered seeds were recommended by older herbalists as an astringent in cases of bleeding. The bruised leaves are rubefacient and will inflame and sometimes even blister the skin, being injurious to cattle. They have been applied locally to bruises and swellings. The roots formerly enjoyed some repute as a cure for hydrophobia (hence one of its names, formerly, Mad-Dog Weed), and have been regarded in Russia as a specific, but repeated experiments made with them in this country and a searching inquiry, have not confirmed their use as a remedy for this disease. Their acridity is lost in drying. In America it has earned a reputation against the bite of the rattlesnake. The roots are also used medicinally in Japan, under the name of Saji Omodaka . This group of plants, the Alismaceae, in general contains acrid juices, on account of which a number of species, besides the Water Plantain, have been used as diuretics and antiscorbutic. Several species of Sagittaria , natives of Brazil, are astringent, and their expressed juice has been used in making ink. See ARROWHEAD . [ Top ] Purchase from Richters Related Alisma (Alisma orientale, aka Asian Water Plantain or Ze Xie) Seeds See also... Barba di Cappuccino 'Buckhorn Plantain' (Plantago coronopus 'Minutina' aka Barbatella or Erba Stella) Seeds Chinese Plantain (Plantago asiatica, aka Che quian) Seeds Greater Plantain (Plantago major) Seeds and Bulk Dried Herb Indian Pysllium (Plantago ovata) Seeds and Dried Husks Pysllium (Plantago psyllium) Dried Seeds and Husks Ribgrass Plantain (Plantago lanceolata) Seeds and Bulk Dried Herb",
         "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "The leaves of Alisma plantago, Linné.Nat. Ord.—Alismaceae.COMMON NAMES: Water plantain, Mad-dog weed.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source, Description, and History.—A perennial, caulescent herb, growing in watery places, along streams, in marshes, and on the borders of ponds. Water plantain has long (4 to 6 inches), radical, oblong, or lanceolate leaves, subcordate at the base, cuspidate, or abruptly acuminate, and borne on long petioles. The flowers, which appear in July and August, are small, white, and numerous, and borne in a loose, whorled panicle on a scape, 1 or 2 feet high. The root is fibrous, and serves a Russian tribe as food. The American species is said to be a variety, and is known as Alisma plantago, var. Americanum, Gray.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "In odor, the root when fresh is said to resemble orris root, and has a sickening, acrid taste. A pungent, volatile oil, and a resin, are its only constituents. Water plantain inhabits the North American continent, as well as Europe. The root was formerly considered efficacious in hydrophobia, but repeated trials have shown it to be impotent. The leaves are the parts used.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—An infusion of the dried leaves is an excellent remedy in urinary diseases; the leaves, dried and powdered, have been successfully employed in gravel, and other urinary affections. The indications are: \"Irritation and uneasiness in passing water, frequent desire to micturate, pain in the loins, and involuntary muscular movement\" (Scudder, Spec. Med. (not in the 1874 edition -Henriette)). Dose of the infusion, from 4 to 6 fluid-ounces, 3 or 4 times a day; of the leaves, 1 to 2 drachms. The fresh leaves, bruised and applied to the skin, irritate and redden it, and, not infrequently, will cause vesication.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Specific Indications.—(See above).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
       }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "grieve-modern-herbal-1931"
+      "grieve-modern-herbal-1931",
+      "kings-american-1898"
     ]
   }
 }

@@ -1,14 +1,19 @@
 {
   "id": "alchemilla-arvensis",
   "names": {
-    "primary": "Alchemilla arvensis (SCOP.)",
-    "latin": "Alchemilla arvensis (SCOP.)",
+    "primary": "Alchemilla Arvensis",
+    "latin": "Alchemilla Arvensis",
     "common": [
       "Parsley Piert"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Alchemilla arvensis (SCOP.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

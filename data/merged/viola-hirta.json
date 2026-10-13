@@ -1,14 +1,17 @@
 {
   "id": "viola-hirta",
   "names": {
-    "primary": "Viola hirta",
-    "latin": "Viola hirta",
+    "primary": "Viola Hirta",
+    "latin": "Viola Hirta",
     "common": [
       "Violet, Hairy"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

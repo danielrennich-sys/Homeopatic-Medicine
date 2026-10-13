@@ -1,18 +1,21 @@
 {
   "id": "aquilegia-vulgaris",
   "names": {
-    "primary": "AQUILEGIA VULGARIS",
-    "latin": "AQUILEGIA VULGARIS",
+    "primary": "Aquilegia Vulgaris",
+    "latin": "Aquilegia Vulgaris",
     "common": [
       "Columbine (AQUILEGIA)",
       "Columbine"
     ],
     "synonyms": [
-      "Aquilegia Vulgaris",
       "Aquilegia vulgaris (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "female": [
       {

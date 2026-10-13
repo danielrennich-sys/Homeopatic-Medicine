@@ -1,14 +1,19 @@
 {
   "id": "smyrnium-olisatrum",
   "names": {
-    "primary": "Smyrnium Olisatrum (LINN.)",
-    "latin": "Smyrnium Olisatrum (LINN.)",
+    "primary": "Smyrnium Olisatrum",
+    "latin": "Smyrnium Olisatrum",
     "common": [
       "Lovage, Black"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Smyrnium Olisatrum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

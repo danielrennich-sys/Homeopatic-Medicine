@@ -1,14 +1,19 @@
 {
   "id": "eugenia-cheken",
   "names": {
-    "primary": "Eugenia cheken (MOL.)",
-    "latin": "Eugenia cheken (MOL.)",
+    "primary": "Eugenia Cheken",
+    "latin": "Eugenia Cheken",
     "common": [
       "Cheken"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Eugenia cheken (MOL.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

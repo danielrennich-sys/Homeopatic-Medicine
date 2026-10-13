@@ -1,14 +1,19 @@
 {
   "id": "gelidium-amansii",
   "names": {
-    "primary": "Gelidium amansii (KUTZ)",
-    "latin": "Gelidium amansii (KUTZ)",
+    "primary": "Gelidium Amansii",
+    "latin": "Gelidium Amansii",
     "common": [
       "Agar-Agar"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Gelidium amansii (KUTZ)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

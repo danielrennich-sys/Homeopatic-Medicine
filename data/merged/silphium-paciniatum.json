@@ -1,14 +1,19 @@
 {
   "id": "silphium-paciniatum",
   "names": {
-    "primary": "Silphium paciniatum (LINN.)",
-    "latin": "Silphium paciniatum (LINN.)",
+    "primary": "Silphium Paciniatum",
+    "latin": "Silphium Paciniatum",
     "common": [
       "Rosin-Weed"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Silphium paciniatum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

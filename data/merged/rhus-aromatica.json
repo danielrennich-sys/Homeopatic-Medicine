@@ -1,27 +1,24 @@
 {
   "id": "rhus-aromatica",
   "names": {
-    "primary": "RHUS AROMATICA",
-    "latin": "RHUS AROMATICA",
+    "primary": "Rhus Aromatica",
+    "latin": "Rhus Aromatica",
     "common": [
       "Fragrant Sumach"
     ],
-    "synonyms": [
-      "Rhus Aromatica"
-    ]
+    "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
-    "urinary": [
-      {
-        "text": "Pale, albuminous. Incontinence. Severe pain at beginning or before urination, causing great agony in children. Constant dribbling. Diabetes, large quantities of urine of low specific gravity (Phos ac; Acet ac)",
-        "source_id": "boericke-1927"
-      }
-    ],
-    "dosing": {
-      "notes": "Tincture, in rather material doses"
-    },
     "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Rhus Aromatica. A tincture is made of the fresh bark of the root. Clinical :- ► Diabetes. ► Incontinence of urine ; both diurnal and nocturnal. ► Hæmaturia, with general debility. ► Catarrh of the bladder, with excruciating pain on urinating. ► Sometimes useful in enlarged prostate. ► It has been found useful in the summer diarrha of children, with weakness, pale tongue, general moisture, etc. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
       {
         "text": "color=\"#800000\">RHUS AROMATICA Fragrant Sumach Renal and urinary affections, especially diabetes. Enuresis due to vesical atony; senile incontinence. Hæmaturia and cystitis come within the range of this remedy.",
         "source_id": "boericke-1927"
@@ -31,6 +28,15 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "urinary": [
+      {
+        "text": "Pale, albuminous. Incontinence. Severe pain at beginning or before urination, causing great agony in children. Constant dribbling. Diabetes, large quantities of urine of low specific gravity (Phos ac; Acet ac)",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture, in rather material doses"
+    },
     "generalities": [
       {
         "text": "Clinical: Atony; Bladder, hæmorrhage from; Diabetes; Diarrhœa, chronic; Dysentery, chronic; Enuresis; Hæmorrhages; Kidneys, hæmorrhage from; Uterus, hæmorrhage from; atony of",
@@ -42,6 +48,13 @@
         "Rh. a. is closely allied to Rh. g. They are both non-poisonous, and have terminal flowers, instead of the axillary flowers of the poisonous varieties. Copyright © Médi-T ® 2000 Main"
       ]
     },
+    "repertory": [
+      {
+        "text": "Uuu: Urination, dribbling, senile.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      }
+    ],
     "indications": [
       {
         "text": "The bark of the root of Rhus aromatica, Aiton (Nat. Ord. Anacardiaceae). A small shrub of the rocky regions of eastern United States. Dose, 5 to 60 grains. Common Names: Fragrant Sumach, Sweet Sumach.",
@@ -108,8 +121,10 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "allen-handbook-1889",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "felter-eclectic-1922",
       "kings-american-1898"
     ]

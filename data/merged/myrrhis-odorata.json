@@ -1,14 +1,19 @@
 {
   "id": "myrrhis-odorata",
   "names": {
-    "primary": "Myrrhis odorata (SCOP.)",
-    "latin": "Myrrhis odorata (SCOP.)",
+    "primary": "Myrrhis Odorata",
+    "latin": "Myrrhis Odorata",
     "common": [
       "Cicely, Sweet"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Myrrhis odorata (SCOP.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

@@ -1,14 +1,17 @@
 {
   "id": "vanadium-metallicum",
   "names": {
-    "primary": "VANADIUM METALLICUM",
-    "latin": "VANADIUM METALLICUM",
+    "primary": "Vanadium Metallicum",
+    "latin": "Vanadium Metallicum",
     "common": [
       "The Metal (VANADIUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "6-12 potency. The best form is Vanadiate of Soda, 2 mg daily, by mouth"

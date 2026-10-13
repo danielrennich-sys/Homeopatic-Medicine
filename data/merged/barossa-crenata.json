@@ -1,0 +1,28 @@
+{
+  "id": "barossa-crenata",
+  "names": {
+    "primary": "Barossa Crenata",
+    "latin": "Barossa Crenata",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Bbb: Bladder, irritable.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

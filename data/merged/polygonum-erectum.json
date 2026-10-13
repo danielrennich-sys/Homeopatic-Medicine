@@ -1,14 +1,19 @@
 {
   "id": "polygonum-erectum",
   "names": {
-    "primary": "Polygonum erectum (LINN.)",
-    "latin": "Polygonum erectum (LINN.)",
+    "primary": "Polygonum Erectum",
+    "latin": "Polygonum Erectum",
     "common": [
       "Knotgrass, Russian"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Polygonum erectum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

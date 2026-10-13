@@ -1,14 +1,17 @@
 {
   "id": "alumina-silicata",
   "names": {
-    "primary": "ALUMINA SILICATA",
-    "latin": "ALUMINA SILICATA",
+    "primary": "Alumina Silicata",
+    "latin": "Alumina Silicata",
     "common": [
       "Andalasite rock-Alumina 63, Silica 37 parts"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

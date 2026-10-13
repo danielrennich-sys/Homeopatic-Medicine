@@ -4,19 +4,28 @@
     "primary": "Euphorbia Ipecacuanhæ",
     "latin": "Euphorbia Ipecacuanhæ",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Euph-Ip"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
-    "keynotes": [
+    "generalities": [
       {
-        "text": "E. ipecac. is a more active emetic than Ipecacuanha.",
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T EUPHORBIA IPECACUANHÆ. Authority. Bigelow's Sequel, 1822, p. 177, experiment. In doses of from ten to twenty grains it is both and emetic and cathartic, that is more active than ipecacuanha in proportion to the number of grains administered; in small doses it operates with as much ease as most emetics in a majority of instances. If it fails, however, at first, it is not so safely repeated as many of the emetics in common use. If accumulated in the stomach to the amount of two or three scruples, it finally excites active and long-continued vomiting, attended with sense of heat, vertigo, indistinct vision, and great prostration of strength. Its operation seems exactly proportionate to the quantity taken, and the vomiting is not checked by the powder being thrown off in the first efforts of the stomach. Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Gastritis; Vomiting",
         "source_id": "clarke-dictionary-1900"
       }
     ],
-    "generalities": [
+    "keynotes": [
       {
-        "text": "Clinical: Gastritis; Vomiting",
+        "text": "E. ipecac. is a more active emetic than Ipecacuanha.",
         "source_id": "clarke-dictionary-1900"
       }
     ],
@@ -30,6 +39,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "allen-encyclopedia-1874",
       "clarke-dictionary-1900"
     ]
   }

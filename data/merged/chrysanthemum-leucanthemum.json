@@ -1,14 +1,19 @@
 {
   "id": "chrysanthemum-leucanthemum",
   "names": {
-    "primary": "Chrysanthemum leucanthemum (LINN.)",
-    "latin": "Chrysanthemum leucanthemum (LINN.)",
+    "primary": "Chrysanthemum Leucanthemum",
+    "latin": "Chrysanthemum Leucanthemum",
     "common": [
       "Daisy, Ox-Eye"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Chrysanthemum leucanthemum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

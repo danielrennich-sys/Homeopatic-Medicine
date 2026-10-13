@@ -1,12 +1,17 @@
 {
   "id": "vitis-vinifera",
   "names": {
-    "primary": "Grape Seed Extract",
-    "latin": "Grape Seed Extract",
+    "primary": "Vitis Vinifera",
+    "latin": "Vitis Vinifera",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Grape Seed Extract"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {},
   "evidence": {
     "summary": "Grape seed extract, which is made from the seeds of wine grapes, is promoted as a dietary supplement for various purposes, including reducing blood cholesterol and blood pressure, and as an ingredient in topical products for promoting wound healing and preventing tooth decay. Grape seed extract contains proanthocyanidins, which have a variety of effects that might be beneficial in managing health conditions.",

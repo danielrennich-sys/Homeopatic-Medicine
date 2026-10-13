@@ -1,14 +1,19 @@
 {
   "id": "elastica",
   "names": {
-    "primary": "Elastica (U. S. P.)",
-    "latin": "Elastica (U. S. P.)",
+    "primary": "Elastica",
+    "latin": "Elastica",
     "common": [
       "India-Rubber"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Elastica (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

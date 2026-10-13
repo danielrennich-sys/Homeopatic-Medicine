@@ -1,14 +1,19 @@
 {
   "id": "saccharum",
   "names": {
-    "primary": "Saccharum (U. S. P.)",
-    "latin": "Saccharum (U. S. P.)",
+    "primary": "Saccharum",
+    "latin": "Saccharum",
     "common": [
       "Sugar"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Saccharum (U. S. P.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

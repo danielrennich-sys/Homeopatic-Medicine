@@ -1,14 +1,19 @@
 {
   "id": "polemonium-coeruleum",
   "names": {
-    "primary": "Polemonium coeruleum (LINN.)",
-    "latin": "Polemonium coeruleum (LINN.)",
+    "primary": "Polemonium Coeruleum",
+    "latin": "Polemonium Coeruleum",
     "common": [
       "Jacob's Ladder"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Polemonium coeruleum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

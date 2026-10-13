@@ -1,12 +1,17 @@
 {
   "id": "glycine-max",
   "names": {
-    "primary": "Soy",
-    "latin": "Soy",
+    "primary": "Glycine Max",
+    "latin": "Glycine Max",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Soy"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {},
   "evidence": {
     "summary": "This fact sheet focuses on the use of soy by adults for health purposes. Soybeans have long been cultivated in Asia. Currently, they are also produced in other parts of the world, including the United States. Common soy foods include tofu, miso, tempeh, edamame, and soy milk. In addition to its food uses, soy is available in dietary supplements. Soy supplements may contain soy protein, isoflavones (compounds similar in structure to the hormone estrogen), or other components. Soy products are promoted for high cholesterol, high blood pressure, diabetes, symptoms of menopause, and many other health conditions.",

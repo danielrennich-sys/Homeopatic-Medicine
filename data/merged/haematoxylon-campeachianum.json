@@ -1,14 +1,19 @@
 {
   "id": "haematoxylon-campeachianum",
   "names": {
-    "primary": "Haematoxylon Campeachianum (LINN.)",
-    "latin": "Haematoxylon Campeachianum (LINN.)",
+    "primary": "Haematoxylon Campeachianum",
+    "latin": "Haematoxylon Campeachianum",
     "common": [
       "Logwood"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Haematoxylon Campeachianum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

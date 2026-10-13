@@ -1,16 +1,17 @@
 {
   "id": "ferrum-picricum",
   "names": {
-    "primary": "FERRUM PICRICUM",
-    "latin": "FERRUM PICRICUM",
+    "primary": "Ferrum Picricum",
+    "latin": "Ferrum Picricum",
     "common": [
       "Picrate of Iron"
     ],
-    "synonyms": [
-      "Ferrum Picricum"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "ears": [
       {
@@ -113,13 +114,31 @@
         "text": "Restless sleep with unpleasant (often erotic) dreams. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Ppp: Prostate, inflamed.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Rrr: Rectum, fulness, with frequent urination.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Skin, dirty.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "boericke-1927",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "boger-synoptic-key-1915"
     ]
   }
 }

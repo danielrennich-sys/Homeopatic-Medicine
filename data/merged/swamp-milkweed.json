@@ -1,12 +1,17 @@
 {
   "id": "swamp-milkweed",
   "names": {
-    "primary": "Swamp Milkweed. Asclepias incarnata",
-    "latin": "Swamp Milkweed. Asclepias incarnata",
+    "primary": "Swamp Milkweed",
+    "latin": "Swamp Milkweed",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Swamp Milkweed. Asclepias incarnata"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

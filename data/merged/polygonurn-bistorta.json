@@ -1,14 +1,19 @@
 {
   "id": "polygonurn-bistorta",
   "names": {
-    "primary": "Polygonurn Bistorta (LINN.)",
-    "latin": "Polygonurn Bistorta (LINN.)",
+    "primary": "Polygonurn Bistorta",
+    "latin": "Polygonurn Bistorta",
     "common": [
       "Bistort"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Polygonurn Bistorta (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

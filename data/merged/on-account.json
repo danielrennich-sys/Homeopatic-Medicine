@@ -1,0 +1,28 @@
+{
+  "id": "on-account",
+  "names": {
+    "primary": "On Account",
+    "latin": "On Account",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[Chamomiles overview] The fresh plant is strongly and agreeably aromatic, with a distinct scent of apples - a characteristic noted by the Greeks, on account of which they named it 'ground-apple' - kamai (on the ground) and melon (an apple) - the origin of the name Chamomile. The Spaniards call it 'Manzanilla,' which signifies 'a little apple,' and give the same name to one of their lightest sherries, flavoured with this plant. When walked on, its strong, fragrant scent will often reveal its presence before it is seen. For this reason it was employed as one of the aromatic strewing herbs in the Middle Ages, and used often to be purposely planted in green walks in gardens. Indeed walking over the plant seems specially beneficial to it. 'Like a camomile bed - The more it is trodden The more it will spread,' The aromatic fragrance gives no hint of its bitterness of taste. The Chamomile used in olden days to be looked upon as the 'Plant's Physician,' and it has been stated that nothing contributes so much to the health of a garden as a number of Chamomile herbs dispersed about it, and that if another plant is drooping and sickly, in nine cases out of ten, it will recover if you place a herb of Chamomile near it. Top of document. Top of Chamomile, Common",
+        "source_id": "grieve-modern-herbal-1931",
+        "lecture": "Chamomiles"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

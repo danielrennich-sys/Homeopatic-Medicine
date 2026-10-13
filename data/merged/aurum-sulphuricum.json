@@ -1,12 +1,15 @@
 {
   "id": "aurum-sulphuricum",
   "names": {
-    "primary": "AURUM SULPHURICUM",
-    "latin": "AURUM SULPHURICUM",
+    "primary": "Aurum Sulphuricum",
+    "latin": "Aurum Sulphuricum",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

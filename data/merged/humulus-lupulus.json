@@ -1,37 +1,160 @@
 {
   "id": "humulus-lupulus",
   "names": {
-    "primary": "Hops",
-    "latin": "Hops",
-    "common": [],
-    "synonyms": []
+    "primary": "Humulus Lupulus",
+    "latin": "Humulus Lupulus",
+    "common": [
+      "Hops"
+    ],
+    "synonyms": [
+      "Humulus. Humulus lupulus",
+      "Hops",
+      "Humulus",
+      "Humulus (U. S. P.)"
+    ]
   },
   "category": "herbal",
-  "traditional": {},
+  "categories": [
+    "herbal"
+  ],
+  "traditional": {
+    "indications": [
+      {
+        "text": "Synonym—Hops.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Part Employed—The strobiles.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "PREPARATIONS—",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Action—Tonic, nervine, hypnotic.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Physiological Action—Hops stimulate the stomach, improve its tone, encourage the appetite and assist the digestion. They add force and volume to the heart, and when that organ is irregular from nervous irritation or from reflex gastric irritation, act as a soothing agent to overcome those conditions.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Specific Symptomatology—The influence of this agent is marked in those cases of nerve irritation and wakefulness where anxiety and worry are the cause. In this it is somewhat similar to hyoscyamus. It is more particularly serviceable where sexual irritation, spermatorrhea and dread of impotence are present, and where there is abnormal or erratic, and at times violent sexual excitement.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—In all forms of nervous excitement it is soothing in its influence, and a hypnotic of much value. This is especially the case in hysteria and in the sexual irritation of females.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In mild conditions of insomnia, with persistent worry, in patients recovering from neurasthenia, and in hysterical patients, or in cases where there is no organic difficulty or pain to cause the wakefulness, small and frequent or single full doses of this agent will have a marked tranquilizing effect. A pillow of hops will have a soothing influence in some of these cases, and may be all that is needed to induce sleep.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Fomentation made by dipping a muslin bag filled with hops into hot water, wrung out and applied over painful acute local inflammations and painful swellings, is a favorite domestic measure. Applied to facial neuralgia, or over an ulcerating tooth, or in the earache of children, it allays pain and promotes sleep.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In the treatment of delirium tremens a capsule containing a grain of capsicum and eight grains of lupulin given during the intense excitement preceding the attack, will sometimes ward it off. Half of a teaspoonful of each of the tinctures in combination may be given. A strong infusion of hops and cayenne pepper is excellent in this case to be drunk hot as demanded.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The anaphrodisiac influence of this agent suggests its use in priapism and in chordee, and in spermatorrhea where these conditions exist, and where there is sudden active determination of blood to the parts. It is not the remedy when the parts are cold, weak, inactive and non-excitable, and where the erections are feeble or impossible. Five to ten grains of lupulin at bedtime, with ten or fifteen drops of the fluid extract of ergot in those cases where the tendency to fullness of the circulation is marked, will preserve rest and quiet for the night. A full dose of camphor monobromate with lupulin is excellent.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "A suppository containing lupulin and camphor monobromate, five or six grains of each, or the one-fourth of a grain of ergotin, may be inserted into the rectum at bedtime with fine results.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The sedative effect of lupulin is exercised to a good advantage in the treatment of nocturnal emissions by its influence in soothing the nerve centers, promoting rest and sleep, especially in hysterical patients, and in those who suffer from irritation in the genito-urinary tract and in the control of sexual excitement and desire. It prevents cerebral hyperemia and corrects disorders of the gastro-intestinal tract. It modifies the secretion of the gastric fluids inhibiting the output of acids.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Related entry: Lupulinum",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The strobiles of Humulus Lupulus, Linné (Nat. Ord. Urticaceae). Europe and Asia; common in cultivation.Common Names: Hops, Hop.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Principal Constituents.—Lupulin (see Lupulinum), hop-bitter acid, humuli-tannic acid, resins, volatile oil and asparagine, trimethylamine, and choline.Preparation.—Specific Medicine Humulus. Dose, 1 to 60 drops.Specific Indications.—(See Lupulinum.)",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—External. A \"hop-pillow\" is a favorite device for procuring sleep. The odor of the hop has a decidedly sedative influence upon some individuals, relieving headache and producing sleep; in others it produces intense headache, with nausea and vomiting. Probably the psychic effect has much to do with its value in insomnia. A hot \"hop bag\" applied to the face is a favorite domestic cure for neuralgic face ache, and a \"hop poultice\" has anodyne properties.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Internal. This is a remedy to relieve nervous excitability in fevers and to induce sleep. It also checks fermentation of the stomach contents and thus proves useful in fermentative dyspepsia with acid eructations. For other uses see Lupulinum, which has superseded hops largely as an internal medicine.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Preparations: Infusion of Hop - Tincture of Hops - Fluid Extract of Hops Related entry: Lupulinum (U. S. P.)—Lupulin",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"The strobiles of Humulus Lupulus, Linné\"—(U. S. P.). Nat. Ord.—Urticaceae. COMMON NAME: Hop. ILLUSTRATION: Bentley and Trimen, Med. Plants, 230.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—This plant has a perennial root, with many annual, angular stems, rough backward, with minute, reflexed hairs, twining around surrounding objects in a volute direction with the sun, and climbing to a great height. The leaves are opposite, on long, winding, rough petioles; the smaller ones cordate, the larger from 3 to 5-lobed; all are deep-green, serrated, veiny, and very rough. The flowering branches are axillary, angular, and rough. Stipules, 2 or 4, between the petioles, smooth, ovate, and reflexed. The flowers are numerous, axillary, and of a greenish color. Male flowers very numerous, panicled, yellowish-white; sepals 5, oblong, obtuse, spreading, concave; stamens short; anthers oblong, opening by 2 terminal pores. Female flowers pale-green, grow on a separate plant, in the form of an ament, having each pair of flowers supported by a bract, which is ovate, acute, and tubular at the base; sepals solitary, obtuse, smaller than the bracts, enfolding the ovary; ovary roundish and compressed; stigmas 2, long, subulate, and downy. The bracts enlarge into a persistent catkin or strobile, each bract inclosing a nut enveloped in its permanent bractlet, and some yellow, resinous grains (L.—B.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History and Description.—This plant is common in hedges and thickets in many parts of Europe, and grows spontaneously in various sections of the United States; said also to inhabit China and the Canary Islands. It is largely cultivated for its cones or strobiles, which are used medicinally, and in the manufacture of beer, ale, porter, etc. A few rows of the barren vines planted among the fertile ones, are said to be profitable by increasing the weight of the produce. The strobiles or cones are the parts employed; these are collected when thoroughly matured, properly desiccated, and then placed in large bags or pockets, and sold as Hops. They consist of ovate, membranous, semi-transparent, light-green scales, tinged more or less of a yellow color, which are glandular at their base, near which they develop 2 minute, globular, hard nuts or achenia of a bay-brown color, and which are covered with aromatic, superficial, globose, golden-yellow glands or grains. To these the name lupulin was given by Ives (Amer. Jour. Science, 1820, p. 302). The active properties of hops are owing to the lupulin, although the scales possess them also, but in an inferior. degree. Lupulin (see Lupulinum), is procured by beating or rubbing the strobiles, and then sifting out the grains, which form about 1/7 part of the hops. The official description of hops is as follows:",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "\"Ovate, about 3 Cm. (1 1/6 inch) long, consisting of a thin, hairy, undulated axis, and many obliquely-ovate, membranous scales, in the upper part reticulately veined, and toward the base parallel-veined, glandular, and surrounding a subglobular achene; color of the scales greenish, free from reddish or brownish spots; odor aromatic; taste bitter, aromatic and slightly astringent\"—(U. S. P.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chemical Composition.—Boiling water takes up the virtues of hops; however, they are impaired by long-continued heat. The decoction turns litmus paper red, becomes deep-green with the salts of iron, and turbid with the solution of isinglass. A better solvent than water is diluted alcohol. By distillation with water, hops yield a limpid volatile oil (0.8 per cent, v. Wagner), lighter than water; Payen and Chevallier (1822) obtained from lupulin 2 per cent. The oil in part contains humulene (a sesquiterpene, C15H24), and unsaturated hydrocarbons not belonging to the terpene series. The formation of butyric and valerianic acids, observed in the distillation of old hops or lupulin with water, is not due to oxidation of the volatile oil (A. C. Chapman, Pharm. Centralh., 1899, p. 73).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "A bitter principle was obtained as an amorphous, water-soluble mass, by M. Issleib (Archiv der Pharm., 1880, p. 345), by exhausting lupulin of its bitterness by cold water, abstracting the bitter, with some resin, by animal charcoal, abstracting with alcohol, and separating the bitter from the resin by means of ether, which dissolves the bitter part only. The bitter principle, upon boiling with diluted sulphuric acid, is resolved into brown, amorphous lupuliretin (also supposed to be an oxidation product of the volatile oil), and crystallizable lupulic acid. A crystallizable, bitter principle, called hop-bitter acid, was first obtained pure by Lermer in 1863 (Dingl. Pol. Jour., Vol. CLXIX, p. 54), by an elaborate process. This substance is insoluble in water, soluble in alcohol, ether, chloroform, and other liquids, notably the volatile oil of hops. The same compound was more recently obtained by H. Bungener (Amer. Jour. Pharm., 1884, p. 427, from Pharm. Jour. Trans., 1883-4, p. 1008). Six kilograms of fresh lupulin from unsulphured hops were extracted with low-boiling petroleum ether, and yielded 400 Gm. (6.6 per cent), of crude hop-bitter acid. The pure substance melts at 92° to 93° C. (197.6° to 199.4° F.), and when exposed to the air, soon turns yellow, resinifies, and develops an odor of fatty acids and aldehydes. Oxidizers produce valerianic acid in considerable quantity.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The resins of hops were differentiated by Dr. Hayduck (see Amer. Jour. Pharm., 1888, p. 25, into three resins, two of which are soluble in petroleum-ether and form ether-soluble copper salts. The hop-bitter acid aforementioned is spontaneously convertible into one of these two resins, namely, that which is not precipitated by lead acetate. These two resins, as well as the hop-bitter acid, were established to be the principles antagonistic to lactic ferments, while the oil of hops does not possess such untiseptic properties. A peculiar tannin, called humuli-tannic acid, was found to be present in hops to the extent of 2 to 5 per cent (v. Wagner, 1853, and Etti, 1876). A crystallizable alkaloid was believed by Lermer to exist in hops, although Gresshoff (1887) established its absence in lupulin (see Flückiger, Pharmacognosie, 1891). In this connection, the nature of the poisonous, crystallizable substance abstracted by F. Davis from the green strobiles of hops with ether (Pharm. Jour. Trans., 1896, Vol. XVIII, p. 20), probably deserves further investigation. Other constituents are: Wax (about 10 per cent in lupulin), chlorophyll, dextrose (3 per cent, by Griessmayer, 1874), asparagine (1 per cent, Bungener and Fries, Amer. Jour. Pharm., 1886, p. 91), trimethylamine and choline (C2H4[OH]N[CH3]3OH), lupuline of Griessmayer, 1874); of the latter base, Griess and Harrow obtained from hops 0.02 per cent; diluted aqueous solutions of this substance dissolve comparatively large amounts of hop resin, producing an intensely bitter solution. (Also see Lupulinum for special points.)",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Hops are tonic, hypnotic, febrifuge, antilithic, and anthelmintic. Their tonic and anthelmintic properties are small, and probably depend upon their bitterness; they possess no antiperiodic virtues. Sometimes they cause diuresis, and are said to correct lithic acid deposits. They are principally used for their sedative or hypnotic action—producing sleep, removing restlessness, and abating pain, but which they often fail to accomplish. A pillow stuffed with hops has long been a popular remedy for procuring sleep. Hops, as well as lupulin, are useful in delirium tremens to allay the morbid excitement and vigilance, while at the same time it exerts its stomachic effects. It is extremely efficient in dyspepsia where restlessness and a brooding disposition are prominent features. Fermentative dyspepsia, with consequent eructations, often yields to hops or lupulin. Externally, in the form of a fomentation alone, or combined with boneset or other bitter herbs, hops have proved beneficial in pneumonia, pleurisy, gastritis, enteritis; also as an application to painful swellings or tumors. An ointment made by boiling 2 parts of stramonium leaves and 1 of hops, in lard, has proved an effectual application in eczema, ulcers, and painful tumors.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Lupulin exerts a more certain influence than hops, and should be preferred for internal use, as the dose is much less bulky. The properties here ascribed to hops are possessed by lupulin, and the conditions benefited by lupulin are also those in which hops act beneficially. The subject will be further discussed under Lupulin (see Lupulinum).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "The decoction of hops is seldom employed. Ale, porter, and beer are frequently administered in cases of debility in the absence of inflammatory symptoms, as tonic, stimulant, and nutritive agents. (For specific indications see Lupulinum.)",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
+      }
+    ]
+  },
   "evidence": {
-    "summary": "",
     "lactation_safety": [
       {
         "section": "Drug Levels and Effects",
         "text": "Summary of Use during Lactation Hops ( Humulus lupulus ) contains bitter acids, flavonoids, phytoestrogens (e.g., 8-prenylnaringenin), and essential oil. Hops is a purported galactogogue.[ 1 ] Some animal evidence indicates that a polysaccharide in hops can increase serum prolactin.[ 2 ] However, a small study in humans found that a hops soup appeared to lower serum prolactin levels.[ 3 ] Galactogogues should never replace evaluation and counseling on modifiable factors that affect milk production.[ 4 , 5 ] No data exist on the excretion of any components of hops into breastmilk or on the safety and efficacy of hops in nursing mothers or infants. Hops is \"generally recognized as safe\" (GRAS) as a food by the U.S. Food and Drug Administration. Hops can cause sedation and should be avoided while taking other sedating drugs and in patients with depression. Allergy to hops occurs rarely. Some sources recommend avoiding hops during breastfeeding because of its phytoestrogen content. Dietary supplements do not require extensive pre-marketing approval from the U.S. Food and Drug Administration. Manufacturers are responsible to ensure the safety, but do not need to prove the safety and effectiveness of dietary supplements before they are marketed. Dietary supplements may contain multiple ingredients, and differences are often found between labeled and actual ingredients or their amounts. A manufacturer may contract with an independent organization to verify the quality of a product or its ingredients, but that does not certify the safety or effectiveness of a product. Because of the above issues, clinical testing results on one product may not be applicable to other products. More detailed information about dietary supplements is available elsewhere on the LactMed Web site. Drug Levels Maternal Levels. Relevant published information was not found as of the revision date. Infant Levels. Relevant published information was not found as of the revision date. Effects in Breastfed Infants Relevant published information was not found as of the revision date. Effects on Lactation and Breastmilk Studies in animals indicate that a polysaccharide found in barley and hops is apparently responsible for an increase in prolactin after beer ingestion.[ 2 , 6 ] Refer to the LactMed record on Alcohol for details. A soup of hops was tested for its effect on serum prolactin in three groups of subjects. The soup consisted of 100 to 200 grams of hops, cooked over low heat, and taken in 3 to 4 portions per day. In 5 healthy males, prolactin was measured before and after the soup twice, at 8 am and 3 am. At 8 am, prolactin was unchanged after the soup. At 3 am, serum prolactin averaged 43.4 mcg/L before the soup and 15.4 mcg/L after the soup. In healthy women who took a dose of metoclopramide, the hops soup blunted the metoclopramide-induced prolactin increase at 1 and 3 hours after the dose. In 6 women with galactorrhea, peak serum prolactin was unchanged before and after metoclopramide when hops soup was taken.[ 3 ] References 1. Ayers JF. The use of alternative therapies in the support of breastfeeding. J Hum Lact. 2000; 16 :52–6. [ PubMed : 11138225 ] 2. Sawagado L, Houdebine LM. Identification of the lactogenic compound present in beer. Ann Biol Clin (Paris). 1988; 46 :129–34. [ PubMed : 3382062 ] 3. Kuang AK. Zhong Xi Yi Jie He Za Zhi. 1984; 4 :134–6. [ Hordeum dislichon --effects on serum prolactin and clinical trial on patients with galactorrhea] [ PubMed : 6234087 ] 4. Brodribb W. ABM Clinical Protocol #9. Use of galactogogues in initiating or augmenting maternal milk production, second revision 2018. Breastfeed Med. 2018; 13 :307–14. [ PubMed : 29902083 ] 5. Breastfeeding challenges: ACOG Committee Opinion, Number 820. Obstet Gynecol. 2021; 137 :e42–e53. [ PubMed : 33481531 ] 6. Koletzko B, Lehner F. Beer and breastfeeding. Adv Exp Med Biol. 2000; 478 :23–8. [ PubMed : 11065057 ]",
         "source": "LactMed-NIH"
-      }
-    ],
-    "documented_adverse_effects": [
-      {
-        "section": "PRODUCT INFORMATION",
-        "text": "REPRESENTATIVE TRADE NAMES Hops – Generic (OTC Products) DRUG CLASS Herbal and Dietary Supplements Sedatives and Hypnotics COMPLETE LABELING Product labeling at DailyMed, National Library of Medicine, NIH",
-        "source": "LiverTox-NIH"
-      },
-      {
-        "section": "CHEMICAL FORMULA AND STRUCTURE",
-        "text": "View in own window DRUG CAS REGISTRY NUMBER MOLECULAR FORMULA STRUCTURE Hops 0977070679 Unspecified Add Structure",
-        "source": "LiverTox-NIH"
-      },
-      {
-        "section": "ANNOTATED BIBLIOGRAPHY",
-        "text": "References updated: 30 March 2018 Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 731-4. (Expert review of hepatotoxicity published in 1999; several herbals are discussed, including comfrey, Jin Bu huan, germander, chaparral leaf, skullcap and valerian, but not hops). Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 631-58. (Review of hepatotoxicity of herbal and dietary supplements [HDS]; hops is not discussed). Hops. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc., 2007: pp. 448-52. (Compilation of short monographs on herbal medications and dietary supplements). Lindahl O, Lindwall L. Double blind study of a valerian preparation. Pharmacol Biochem Behav 1989; 32: 1065-6. [ PubMed : 2678162 ] (Controlled trial of valerian with lemon balm and hops vs lemon balm and hops alone in 27 subjects with sleep difficulties found better sleep quality with valerian; \"no side effects were reported\"). Gyllenhaal C, Merritt SL, Peterson SD, Block KI, Gochenour T. Efficacy and safety of herbal stimulants and sedatives in sleep disorders. Sleep Med Rev 2000; 4: 229-51. [ PubMed : 12531167 ] (Review of herbals used for sleep disorders; mentions that animal studies suggest that hops has sedative effects, but there has been little clinical study of its efficacy in humans). Morin CM, Koetter U, Bastien C, Ware JC, Wooten V. Valerian-hops combination and diphenhydramine for treating insomnia: a randomized placebo-controlled clinical trial. Sleep. 2005; 28: 1465-71. [ PubMed : 16335333 ] (Controlled trial of a valerian-hops combination vs diphenhydramine vs placebo in 184 patients with mild insomnia found a \"modest hypnotic effect\" for the herbal combination; there were no serious adverse events and side effects were similar between placebo and the herbals). Wheatley D. Medicinal plants for insomnia: a review of their pharmacology, efficacy and tolerability. J Psychopharmacol 2005; 19: 414-21. [ PubMed : 15982998 ] (Review of herbals used to treat insomnia; the sedative effect of hops was suspected because of \"Hop-picker fatigue\", but a study in mice and a subsequent clinical trial in 15 humans found no evidence for sedative or sleep inducing effects). Meolie AL, Rosen C, Kristo D, Kohrman M, Gooneratne N, Aguillard RN, Fayle R, et al.; Clinical Practice Review Committee; American Academy of Sleep Medicine. Oral nonprescription treatment for insomnia: an evaluation of products with limited evidence. J Clin Sleep Med 2005; 1: 173-87. [ PubMed : 17561634 ] (Systematic review of efficacy of nonprescription treatments for insomnia states that there is no scientific evidence in support of either safety or efficacy of hops in treatment of insomnia). Salter S, Brownie S. Treating primary insomnia - the efficacy of valerian and hops. Aust Fam Physician 2010; 39: 433-7. [ PubMed : 20628685 ] (Systematic review of literature on efficacy of valerian and hops in treating insomnia; 9 studies of valerian alone and 3 of the combination of valerian and hops found some evidence of benefit of valerian, but the separate efficacy or role of hops could not be assessed; adverse events were not discussed). Sarris J, Panossian A, Schweitzer I, Stough C, Scholey A. Herbal medicine for depression, anxiety and insomnia: a review of psychopharmacology and clinical evidence. Eur Neuropsychopharmacol 2011; 21: 841-60. [ PubMed : 21601431 ] (Systematic review and summary of clinical evidence of efficacy of herbals used to treat anxiety, depression and insomnia; mentions that hops has been studied in humans, but does not rank the herbal as having evidence for efficacy in insomnia in humans). Drugs for insomnia. Treat Guidel Med Lett 2012; 10 (119): 57-60. [ PubMed : 22777275 ] (Guidelines for therapy of insomnia; mentions herbal products that are claimed to have sleep inducing effects including valerian root, kava, chamomile tea, passionflower, hops, lemon balm, lavender and skull cap, but that there is no convincing evidence for their efficacy and that the purity of commercially available over-the-counter products is suspect). Bunchorntavakul C, Reddy KR. Review article: herbal and dietary supplement hepatotoxicity. Aliment Pharmacol Ther 2013; 37: 3-17. [ PubMed : 23121117 ] (Review of HDS associated hepatotoxicity; does not mention hops). Navarro VJ, Barnhart H, Bonkovsky HL, Davern T, Fontana RJ, Grant L, Reddy KR, et al. Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network. Hepatology 2014; 60:1399-408. [ PMC free article : PMC4293199 ] [ PubMed : 25043597 ] (Among 85 cases of HDS associated liver injury [not due to anabolic steroids] enrolled in a US prospective study between 2004 and 2013, none were attributed to hops). Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. [ PMC free article : PMC4446235 ] [ PubMed : 25754159 ] (Among 899 cases of drug induced liver injury enrolled in a prospective database between 2004 and 2012, HDS were implicated in 145 [16%], none of which were due to hops: see Navarro [2014]). Copyright Notice Bookshelf ID: NBK548872 PMID: 31644179 Drug Records < Prev Next > Share Views PubReader Print View Cite this Page LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet]. Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases; 2012-. Hops. [Updated 2018 Mar 30]. PDF version of this page (88K) Disable Glossary Links New and Updated In PubMed Bulk Download Bulk do",
-        "source": "LiverTox-NIH"
       }
     ],
     "regulatory": [
@@ -50,6 +173,24 @@
         "source": "LactMed-NIH"
       }
     ],
+    "summary": "Introduction Hop is an important agricultural plant that has been used to flavor beer for centuries and has been claimed to have sedative properties and to be useful for treatment of anxiety and insomnia. Hops have not been implicated in causing serum enzyme elevations or clinically apparent liver injury. Background Hop (Humulus lupulus) is a perennial plant that is used largely as a flavoring in the production of beer. The hop plant is cultivated as a vine that grows around a physical support and produces shoots, heart shaped dark green leaves, fresh cones and flowers that are borne on lateral branches. The cones and flowers are used to prepare hops which have a distinctive bitter taste, attributed to lupulin, an aromatic acid. Other components of hops include several flavonoids, phenolic acid, volatile oils, tannins and resins. Besides its wide use as a flavoring agent for food and beer, hops is used as an ingredient in many creams and lotions. Extracts of hops have been used in oral herbal medications predominantly as a sedative for anxiety, tension and difficulty sleeping. While widely used, it has not been proven to be effective either as a sedative or hypnotic. Hops is found in multiple over-the-counter herbal mixtures in combination with other agents such as chamomile, passion flower and valerian, used as sleeping aids or mild sedatives. Side effects are few, but may include drowsiness, dizziness and hypersensitivity reactions. Hepatotoxicity Despite, wide scale use, hops has not been convincingly linked to instances of clinically apparent liver injury. Likelihood score : E (unlikely cause of clinically apparent liver injury). Other Names: Asperge Sauvage, Couleuvree, Hopfenzapfen, Houblon, Lupulin, Pi Jiu Hua Drug Class: Herbal and Dietary Supplements See also Drug Class: Sedatives and Hypnotics , Herbals",
+    "documented_adverse_effects": [
+      {
+        "section": "PRODUCT INFORMATION",
+        "text": "REPRESENTATIVE TRADE NAMES Hops – Generic (OTC Products) DRUG CLASS Herbal and Dietary Supplements Sedatives and Hypnotics COMPLETE LABELING Product labeling at DailyMed, National Library of Medicine, NIH",
+        "source": "LiverTox-NIH"
+      },
+      {
+        "section": "CHEMICAL FORMULA AND STRUCTURE",
+        "text": "View in own window DRUG CAS REGISTRY NUMBER MOLECULAR FORMULA STRUCTURE Hops 0977070679 Unspecified Add Structure",
+        "source": "LiverTox-NIH"
+      },
+      {
+        "section": "ANNOTATED BIBLIOGRAPHY",
+        "text": "References updated: 30 March 2018 Zimmerman HJ. Unconventional drugs. Miscellaneous drugs and diagnostic chemicals. In, Zimmerman HJ. Hepatotoxicity: the adverse effects of drugs and other chemicals on the liver. 2nd ed. Philadelphia: Lippincott, 1999, pp. 731-4. (Expert review of hepatotoxicity published in 1999; several herbals are discussed, including comfrey, Jin Bu huan, germander, chaparral leaf, skullcap and valerian, but not hops). Seeff L, Stickel F, Navarro VJ. Hepatotoxicity of herbals and dietary supplements. In, Kaplowitz N, DeLeve LD, eds. Drug-induced liver disease. 3rd ed. Amsterdam: Elsevier, 2013, pp. 631-58. (Review of hepatotoxicity of herbal and dietary supplements [HDS]; hops is not discussed). Hops. In, PDR for Herbal Medicines. 4th ed. Montvale, New Jersey: Thomson Healthcare Inc., 2007: pp. 448-52. (Compilation of short monographs on herbal medications and dietary supplements). Lindahl O, Lindwall L. Double blind study of a valerian preparation. Pharmacol Biochem Behav 1989; 32: 1065-6. [ PubMed : 2678162 ] (Controlled trial of valerian with lemon balm and hops vs lemon balm and hops alone in 27 subjects with sleep difficulties found better sleep quality with valerian; \"no side effects were reported\"). Gyllenhaal C, Merritt SL, Peterson SD, Block KI, Gochenour T. Efficacy and safety of herbal stimulants and sedatives in sleep disorders. Sleep Med Rev 2000; 4: 229-51. [ PubMed : 12531167 ] (Review of herbals used for sleep disorders; mentions that animal studies suggest that hops has sedative effects, but there has been little clinical study of its efficacy in humans). Morin CM, Koetter U, Bastien C, Ware JC, Wooten V. Valerian-hops combination and diphenhydramine for treating insomnia: a randomized placebo-controlled clinical trial. Sleep. 2005; 28: 1465-71. [ PubMed : 16335333 ] (Controlled trial of a valerian-hops combination vs diphenhydramine vs placebo in 184 patients with mild insomnia found a \"modest hypnotic effect\" for the herbal combination; there were no serious adverse events and side effects were similar between placebo and the herbals). Wheatley D. Medicinal plants for insomnia: a review of their pharmacology, efficacy and tolerability. J Psychopharmacol 2005; 19: 414-21. [ PubMed : 15982998 ] (Review of herbals used to treat insomnia; the sedative effect of hops was suspected because of \"Hop-picker fatigue\", but a study in mice and a subsequent clinical trial in 15 humans found no evidence for sedative or sleep inducing effects). Meolie AL, Rosen C, Kristo D, Kohrman M, Gooneratne N, Aguillard RN, Fayle R, et al.; Clinical Practice Review Committee; American Academy of Sleep Medicine. Oral nonprescription treatment for insomnia: an evaluation of products with limited evidence. J Clin Sleep Med 2005; 1: 173-87. [ PubMed : 17561634 ] (Systematic review of efficacy of nonprescription treatments for insomnia states that there is no scientific evidence in support of either safety or efficacy of hops in treatment of insomnia). Salter S, Brownie S. Treating primary insomnia - the efficacy of valerian and hops. Aust Fam Physician 2010; 39: 433-7. [ PubMed : 20628685 ] (Systematic review of literature on efficacy of valerian and hops in treating insomnia; 9 studies of valerian alone and 3 of the combination of valerian and hops found some evidence of benefit of valerian, but the separate efficacy or role of hops could not be assessed; adverse events were not discussed). Sarris J, Panossian A, Schweitzer I, Stough C, Scholey A. Herbal medicine for depression, anxiety and insomnia: a review of psychopharmacology and clinical evidence. Eur Neuropsychopharmacol 2011; 21: 841-60. [ PubMed : 21601431 ] (Systematic review and summary of clinical evidence of efficacy of herbals used to treat anxiety, depression and insomnia; mentions that hops has been studied in humans, but does not rank the herbal as having evidence for efficacy in insomnia in humans). Drugs for insomnia. Treat Guidel Med Lett 2012; 10 (119): 57-60. [ PubMed : 22777275 ] (Guidelines for therapy of insomnia; mentions herbal products that are claimed to have sleep inducing effects including valerian root, kava, chamomile tea, passionflower, hops, lemon balm, lavender and skull cap, but that there is no convincing evidence for their efficacy and that the purity of commercially available over-the-counter products is suspect). Bunchorntavakul C, Reddy KR. Review article: herbal and dietary supplement hepatotoxicity. Aliment Pharmacol Ther 2013; 37: 3-17. [ PubMed : 23121117 ] (Review of HDS associated hepatotoxicity; does not mention hops). Navarro VJ, Barnhart H, Bonkovsky HL, Davern T, Fontana RJ, Grant L, Reddy KR, et al. Liver injury from herbals and dietary supplements in the U.S. Drug-Induced Liver Injury Network. Hepatology 2014; 60:1399-408. [ PMC free article : PMC4293199 ] [ PubMed : 25043597 ] (Among 85 cases of HDS associated liver injury [not due to anabolic steroids] enrolled in a US prospective study between 2004 and 2013, none were attributed to hops). Chalasani N, Bonkovsky HL, Fontana R, Lee W, Stolz A, Talwalkar J, Reddy KR, et al.; United States Drug Induced Liver Injury Network. Features and outcomes of 899 patients with drug-induced liver injury: The DILIN Prospective Study. Gastroenterology 2015; 148: 1340-52. [ PMC free article : PMC4446235 ] [ PubMed : 25754159 ] (Among 899 cases of drug induced liver injury enrolled in a prospective database between 2004 and 2012, HDS were implicated in 145 [16%], none of which were due to hops: see Navarro [2014]). Copyright Notice Bookshelf ID: NBK548872 PMID: 31644179 Drug Records < Prev Next > Share Views PubReader Print View Cite this Page LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet]. Bethesda (MD): National Institute of Diabetes and Digestive and Kidney Diseases; 2012-. Hops. [Updated 2018 Mar 30]. PDF version of this page (88K) Disable Glossary Links New and Updated In PubMed Bulk Download Bulk do",
+        "source": "LiverTox-NIH"
+      }
+    ],
     "hepatotoxicity": [
       {
         "section": "LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet].",
@@ -60,8 +201,11 @@
   },
   "provenance": {
     "sources": [
+      "ellingwood-1919",
       "lactmed-nih",
-      "livertox-nih"
+      "livertox-nih",
+      "felter-eclectic-1922",
+      "kings-american-1898"
     ]
   }
 }

@@ -1,14 +1,19 @@
 {
   "id": "simaba-cedron",
   "names": {
-    "primary": "Simaba Cedron (PLANCH.)",
-    "latin": "Simaba Cedron (PLANCH.)",
+    "primary": "Simaba Cedron",
+    "latin": "Simaba Cedron",
     "common": [
       "Cedron"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Simaba Cedron (PLANCH.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

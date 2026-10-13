@@ -1,14 +1,17 @@
 {
   "id": "anisum-stellatum",
   "names": {
-    "primary": "ANISUM STELLATUM",
-    "latin": "ANISUM STELLATUM",
+    "primary": "Anisum Stellatum",
+    "latin": "Anisum Stellatum",
     "common": [
       "Anise (ILLICIUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "nose": [
       {

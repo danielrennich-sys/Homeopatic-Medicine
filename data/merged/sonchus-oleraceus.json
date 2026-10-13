@@ -1,14 +1,19 @@
 {
   "id": "sonchus-oleraceus",
   "names": {
-    "primary": "Sonchus oleraceus (LINN.)",
-    "latin": "Sonchus oleraceus (LINN.)",
+    "primary": "Sonchus Oleraceus",
+    "latin": "Sonchus Oleraceus",
     "common": [
       "Sow-Thistles"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Sonchus oleraceus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

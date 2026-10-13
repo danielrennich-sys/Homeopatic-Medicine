@@ -1,12 +1,15 @@
 {
   "id": "apomorphia",
   "names": {
-    "primary": "APOMORPHIA",
-    "latin": "APOMORPHIA",
+    "primary": "Apomorphia",
+    "latin": "Apomorphia",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

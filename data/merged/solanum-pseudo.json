@@ -1,12 +1,17 @@
 {
   "id": "solanum-pseudo",
   "names": {
-    "primary": "Solanum Pseudo-Capsicum",
-    "latin": "Solanum Pseudo-Capsicum",
+    "primary": "Solanum Pseudo",
+    "latin": "Solanum Pseudo",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Solanum Pseudo-Capsicum"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

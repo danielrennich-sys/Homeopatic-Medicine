@@ -1,52 +1,101 @@
 {
   "id": "inula-helenium",
   "names": {
-    "primary": "INULA HELENIUM",
-    "latin": "INULA HELENIUM",
+    "primary": "Inula Helenium",
+    "latin": "Inula Helenium",
     "common": [
       "Scabwort (INULA)",
-      "Elecampane"
+      "Elecampane",
+      "Inula"
     ],
     "synonyms": [
-      "Inula Helenium (LINN.)"
+      "Inula. Inula helenium",
+      "Inula Helenium (LINN.)",
+      "Inula",
+      "Inula. (Inula Helenium.)",
+      "Inula (U. S. P.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "head": [
       {
         "text": "Vertigo on stooping; throbbing after eating, pressure in temples and forehead",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "Vertigo on stooping. Confusion of head with nausea, in evening. Headache in r. side, afterward in l. Tearing, throbbing in forehead and vertex after eating. Sticking headache in r. side. Jerking, tearing pain in occiput. Rush of blood to head with sleeplessness. Burning headache in l. temple, in a spot as large as a silver dollar, in evening.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Rush of blood to head with sleeplessness. Tearing, throbbing pain in forehead and vertex, after eating. Burning headache in left temple, in a spot as large as a silver dollar, in evening.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "respiratory": [
       {
         "text": "Dry cough; worse at night and lying down; larynx painful. Chronic bronchitis; cough, with much thick expectoration, with languor and weak digestion. Stitches behind sternum. Teasing cough with much and free expectoration. Palliative in tubercular laryngitis",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Inul.]. Violent tickling in larynx, producing dry cough, < lying down, < at night ; larynx painful. Cough with abundant thick expectoration ; accompanied by weakness of digestive tract, general languor and debility and much leucorrhœa ; skin has been the seat of psoric manifestations ; engorged glands. θ Chronic bronchitis. Respiration. Difficult breathing with dry, tickling cough. Dry, tickling cough.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "female": [
       {
         "text": "Menses too early and painful. Labor-like pains; urging to stool; dragging in genitals, with violent backache. Itching of legs during menses, chattering of teeth from cold during menstruation. Moving about in abdomen, stitches in genitals. Chronic metritis",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "Movings about in abdomen, as at appearance of menstruation, followed by yellowish leucorrhœa. Pain in uterus, with pain in small of back, very violent, with pressure as in labour; urging to stool, which she dreads; is obliged to remain lying. Dragging in genitals, with more violent backache than she had ever had before. Stitches in region of uterus and genitals. Menses too early and painful.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Movings about in abdomen, as at appearance of menstruation, followed by yellowish leucorrhœa. Pain in uterus, with pain in small of back, very violent, with pressure as in labor ; urging to stool, which she dreads ; is obliged to remain lying. Dragging in genitals, with more violent backache than she had ever had before. Stitches in region of uterus and genitals. Menses too early and painful.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "stool_rectum": [
       {
         "text": "Pressing toward rectum as of something extruding",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "Pressing dragging towards rectum and genitals, as in labour; as if substance would come out, occurring repeatedly.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pressing dragging towards rectum and genitals, as in labor ; as if a substance would come out, occurring repeatedly.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "urinary": [
       {
         "text": "Frequent urging to urinate; passes only in drops. Violet odor (Tereb)",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "Urging to urinate ten times in one hour; urine passes by drops. Urine smells of violets.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Urging to urinate ten times in one hour ; urine passes by drops. Urine smells of violets.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "extremities": [
       {
         "text": "Pain in right shoulder and wrist; tearing in left palm, unable to double fingers; pain in lower limbs, feet and ankles",
         "source_id": "boericke-1927"
+      },
+      {
+        "text": "Stitches and tearing pain in right shoulder and wrist. Tearing, cramp-like pain in tip of left shoulder ; in scaleni muscles on left side of neck, as if pulled by pincers. Tearing, jerking in right arm. Upper arms as far as elbow fall asleep. Tearing in palm of left hand, unable to double fingers. Fine stitches in index finger. Tearing in right little finger, it seems dead. Tensive drawing in hips extending to nates. Sticking in right hip extending to groin ; in middle toes of r. foot ; in right heel. Stitches : in thighs ; in left ankle, when walking ; as if sprained ; in right heel. Spasmodic sticking beneath bend of right knee, hot face and chilliness. Cramp in calves at night during sleep.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "dosing": {
@@ -60,6 +109,144 @@
       {
         "text": "It is a striking and handsome plant. The erect stem grows from 4 to 5 feet high, is very stout and deeply furrowed, and near the top, branched. The whole plant is downy. It produces a radical rosette of enormous, ovate, pointed leaves, from 1 to 1 1/2 feet long and 4 inches broad in the middle velvety beneath, with toothed margins an borne on long foot-stalks; in general appearance the leaves are not unlike those of Mullein. Those on the stem become shorter andrelatively broader and are stem-clasping. The plant is in bloom from June to August. The flowers are bright yellow, in very large, terminal heads, 3 to 4 inches in diameter, on long stalks, resembling a double sunflower. The broad bracts of the leafy involucre under the head are velvety. After the flowers have fallen, these involucral scales spread horizontally, and the removal of the fruit shows the beautifully regular arrangement of the little pits on the receptacle, which form a pattern like the engine-turning of a watch. The fruit is quadrangular and crowned by a ring of pale-reddish hairs - the pappus. The plant springs from a perennial rootstock, which is large and succulent, spindleshaped and branching, brown and aromatic, with large, fleshy roots. [ Top ]",
         "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Inula is a \"perennial plant with a stem from three to four feet high; large saw-toothed leaves tapering to a stalk; and large heads of yellow flowers. The root has an aromatic camphor-like taste, due to the presence of a crystalline substance called Helenin, allied in chemical constitution to Kreosote. It also contains a quantity of starchy material, called Inulin, which differs from ordinary starch in being coloured yellow by Iodine. Elecampane was formerly much used as an aromatic tonic, and as a stimulant of all the secreting organs, likewise in coughs, dyspepsia,\" &c. This quotation from the Treasury of Botany well sums up the chemistry and ancient medical history of the plant as handed down from the time of Dioscorides. Ben Jonson refers to it in one of his poems. A popular tradition credits it with the cure of facial erysipelas, and certain symptoms of the face in the provings seem to confirm this. The homœopathic knowledge of it is due to. Fischer, who proved the root-juice. Clinical experience has confirmed and added to the symptom list. The old reputation of the remedy in coughs is confirmed: \"Violent tickling in larynx, producing dry cough, lying-down, at night; larynx painful,\" also \"dry cough, with constant tickling in throat-pit, difficult breathing and sensation as if hoarseness would occur.\" A very pronounced effect was observed in the pelvic organs; pressing and dragging towards the rectum and genitals, headache and labour-like pains. Inula is one of the remedies which has sensation as of something alive moving about internally; also twisting as of a ball in umbilical region; as if a substance would come out of rectum and genitals. Another peculiar sensation is: as though some one was poking him with a finger in various parts of the body, especially in diaphragm, so painful he awoke with clenched teeth. Sticking pains as with pins or a knife are numerous. The majority of the symptoms occurred on the right side. The symptoms are at night; lying down (except the uterine pain, which compels patient to remain lying); by motion; after eating.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Synonym—Elecampane.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Administration—The agent is given in infusion to excellent advantage, and a syrup may be prepared which is serviceable in lung troubles.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Helenin is given in doses of from the one-twelfth to the one-fourth of a grain four or five times daily.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Physiological Action—The tonic influence of this agent has been recognized for many years. It acts directly upon the nutritive functions of the body. In general debility from protracted disease or from overwork, or from age, its influence is plainly apparent. It imparts tone to the digestive and respiratory organs and to the urinary tract.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—In atonic condition of the abdominal viscera with engorgement great relaxation and general inactivity this agent exercises specific properties. It influences not only the character of the circulation but acts also as an alterative, improving the character of the blood. It is of advantage in those atonic conditions where, with great inactivity of the gastro-intestinal tract, there is disorder of the skin and discoloration and eruptions.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The direct tonic influence of inula seems to be exercised also upon the respiratory tract after protracted disease promoting recovery. It lessens excessive bronchial secretion controls the night sweats and imparts real tone and strength.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Hare says that inula has an actively astringent influence. Giving it during the course of cough if there be great secretion the influence is very desirable but if there is but little secretion it makes the cough very tight.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Foreign authorities have written considerable in the last five years on the action of this agent in the treatment of pulmonary tuberculosis claiming that it has a directly toxic action upon the tubercle bacilli. They believe that a pure alkaloid of inula will exercise a more positive influence than creosote, or guaiacol preparations. Von Unruh experimented with inula and echinacea hypodermically (see echinacea). He uses Subculoid inula, from three to five cc. daily. His first report will be found in The National Quarterly, Volume I, Number 7. It certainly promises favorably. It must be carefully investigated. Inula is a useful remedy in certain coughs.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Perhaps the alkaloid inulin will be found superior to the fluid medicine in these cases. It is certainly an important remedy in the relief of irritation of the trachea and bronchi. Where there is persistent irritating cough, with pain beneath the sternum, and abundant expectoration, the condition being acute or sub-acute in character, and accompanied with sonic elevation of the temperature, it will be found serviceable. It is an expectorant of a soothing character. It is also diuretic and diaphoretic in its general influence. Excessive catarrhal discharges from the bladder are readily controlled by its use, and vaginal catarrh yields readily to its influence. It acts directly upon the glands of the cervix uteri and in catarrhal endometritis it speedily overcomes the glairy mucous discharge and materially improves the condition. Emmenagogue properties are claimed for it but this property has yet to be demonstrated.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Dr. Burd says that he is acquainted with an old German physician who claimed to have cured forty-seven cases of hydrophobia with elecampane, without a single failure. The patients had the diagnostic symptoms plainly marked so that there was no doubt that the disease was present. He made a very strong decoction of the remedy in sweet milk. He gave half a pint of it every hour. He claimed that all these patients vomit a peculiar green vomit, and when this stops the medicine can be discontinued or given in less quantities.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The drug, Elecampane ( Radix Inulae ), consists of both rhizome or rootstock and roots. It is official in most pharmacopoeias. For pharmaceutical use, the root is taken from plants two to three years old; when more advanced it becomes too woody. As a rule, it is dug in autumn. Elecampane root has at first a somewhat glutinous taste, but by chewing, it becomes subsequently aromatic, and slightly bitter and pungent; it has an agreeably aromatic somewhat camphoraceous orris-like odour. The distinguishing characteristics of Elecampane root to be noted by a student are: Its horny, not starchy nature. The presence of oil-glands. The absence of well-marked radiate structure in the wood. Most roots of similar appearance to Elecampane root, such as Belladonna, Dandelion and Marsh Mallow, are devoid of oil-glands. Belladonna, moreover, is distinguished from it by its starchy fracture, Dandelion by its thick, ringed bark, and Marsh Mallow by its radiate structure and fibrous, easily separated bark. Pellitory root, which has oil-glands, is distinguished by its yellow, radiate wood, distinctive odour and taste. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Diuretic, tonic, diaphoretic, expectorant, alterative, antiseptic, astringent and gently stimulant. It was employed by the ancients in certain diseases of women, also in phthisis, in dropsy and in skin affections. Its name 'Scabwort' arose from the fact that a decoction of it is said to cure sheep affected with the scab, and the name 'Horse-heal' was given it from its reputed virtues in curing the cutaneous diseases of horses. In herbal medicine it is chiefly used for coughs, consumption and other pulmonary complaints, being a favourite domestic remedy for bronchitis. It has been employed for many years with good results in chest affections, for which it is a valuable medicine as it is in all chronic diseases of the lungs asthma and bronchitis. It gives relief to the respiratory difficulties and assists expectoration. Its principal employment as a separate remedy is in acute catarrhal affections, and in dyspepsia attended with relaxation and debility, given in small, warm and frequently repeated doses. It is, however, seldom given alone, but most frequently preferred in combination with other medicines of a similar nature. It is best given in the form of decoction, the dose being a small teaspoonful, three times a day. The root used not only to be candied and eaten as a sweetmeat, but lozenges were made of it. It has been employed in whooping-cough. It is sometimes employed in the form of a confection for piles, 1 OZ. of powdered root being mixed with 2 OZ. of honey. In the United States, it has also been highly recommended, both for external use and internal administration in diseases of the skin, an old use of the root that has maintained its reputation for efficacy. Externally applied, it is somewhat rubefacient, and has been employed as an embrocation in the treatment of sciatica, facial and other neuralgia. Of late years, modern scientific research has proved that the claims of Elecampane to be a valuable remedy in pulmonary diseases has a solid basis. One authority, Korab, showed in 1885 that the active, bitter principle, Helenin, is such a powerful antiseptic and bactericide, that a few drops of a solution of 1 part in 10,000 immediately kills the ordinary bacterial organisms, being peculiarly destructive to the Tubercle bacillus. He gave it successfully in tubercular and catarrhal diarrhoeas, and praised it also as an antiseptic in surgery. In Spain it has been made use of as a surgical dressing. Obiol, in 1886, stated it to be an efficient local remedy in the treatment of diphtheria, the false membrane being painted with a solution of Helenin in Oil of Almond. [ Top ]",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Powdered root 1/2 to 1 drachm. Fluid extract, 1/2 to 1 drachm. Inulin, 1 to 3 grains. Gerard tells us: 'It is good for shortnesse of breathe and an old cough, and for such as cannot breathe unless they hold their neckes upright.' And further: 'The root of Elecampane is with good success mixed with counterpoisons, it is a remedy against the biting of serpents, it resisteth poison. It is good for them that are bursten and troubled with cramps and convulsions.' And Culpepper says: 'The fresh roots of Elecampane preserved with sugar or made into a conserve, or a syrup, are very effectual to warm a cold windy stomach and stitches in the side, caused by spleen and to relieve cough, shortness of breath and wheezing in the lungs. The dried root made into powder and mixed with sugar, and taken, serveth the same purpose.... It cures putrid and pestilential fevers and even the plague. The roots and herbes beaten and put into new ale or beer and daily drunk, cleareth, strengtheneth and quickeneth the sight of the eyes. The decoction of the roots in wine or the juice taken therein, destroys worms in the stomach, and gargled in the mouth or the root chewed, fasteneth loose teeth and keeps them from putrefaction, and being drunk is good for spitting of blood, and it removes cramps or convulsions, gout, sciatica, pains in the joints, applied outwardly or inwardly, and is also good for those that are ruptured, or have any inward bruise. The root boiled well in vinegar, beaten afterwards and made into an ointment with hog's suet or oil of trotters is a most excellent remedy for scabs or itch in young or old the places also bathed and washed with the decoction doth the same; it heals putrid sores or cankers. In the roots of this herb lieth the chief effect for the remedies aforesaid. The distilled water of the leaves and roots together is very good to cleanse the skin of the face or other parts from any morphew, spots or blemishes and make it clear.' In Switzerland ( Neufchâtel ) Elecampane root is one of the substances used in the preparation of Absinthe, and it was also used for the same purpose in France. It furnishes the Vin d'Aulnée of the French. A blue dye has been extracted from the root, bruised and macerated and mingled with ashes and whortleberries. 'The wine wherein the root of Elicampane hath steept,' says Markham ( Countrie Farme 1616), 'is singularly good against the colicke.' A cordial was made from the plant by infusing Elecampane roots with sugar and currants in white port. See: FLEABANE, CANADIAN FLEABANE, COMMON FLEABANE, GREAT (PLOUGHMAN'S) SPIKENARD (GOLDEN) SAMPHIRE . Purchase from Richters Elecampane (Inula helenium) Seeds, Plants, and Dried Root Try it in tea! Breathe Clear Tea",
+        "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "The root of Inula Helenium, Linné (Nat. Ord. Compositae). A common roadside and pasture weed in Europe and America. Dose, 1 to 60 grains. Common Names: Elecampane, Scabwort.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Principal Constituents.—Resins, inulin (30 to 40 per cent), a starch-like body, and helenin (Alant camphor). Preparations.—1. Specific Medicine Inula. Dose, 1 to 60 drops. 2. Syrupus Inula, Syrup of Inula, (Specific Medicine Inula, 1 fluidrachm; Syrup, 16 ounces). Dose, 1 to 4 fluidrachms.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Specific Indications.—\"Cough of a teasing and persistent character accompanied by substernal pain and profuse excretion; atony of abdominal viscera with engorgement and relaxation; catarrhal discharges.\" (American Dispensatory, 1900.)",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Action and Therapy.—Inula is an aromatic, stimulating expectorant and tonic. It is one of the old but neglected remedies of early domestic and eclectic development, and has recently been revived as a remedy of promise in chronic pulmonic disorders. As it acts kindly upon the stomach, it proves tonic and favors digestion and assimilation. It seems especially adapted to chronic disorders with excessive mucous discharges. It has long been valued in chronic catarrhal states of the bronchi, bladder, and vagina, and particularly in chronic endometritis with discharge of glairy mucus. It relieves some cases of humid asthma and controls night sweats.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "Inula is of greatest service in bronchial irritation, with cough of a persistent, teasing character, with copious expectoration. We have for many years used and valued the syrup advised by Locke, and prepared as follows: Take Elecampane, 1 ounce; Boiling Water, 16 fluidounces. Boil until but 8 ounces remain; add ½ pound of white sugar. This is especially useful in chronic bronchitis, with profuse excretion of mucus or muco-pus, and in the cough persisting after la grippe and the severest forms of colds.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "From time to time reports have come to press that helenin and other constituents of inula are fatal to the tubercle bacillus. In 1900 we recorded in the American Dispensatory the statement that \"helenin is accredited with a fatal action upon the tubercle bacillus by Korab, Blocq, and others.\" Locke, in his lectures, emphasized the value of Inula in phthisis, and noted particularly its value to control the night sweats of that disorder. This was recorded in Locke's Syllabus in 1895. More recently, since hypodermatic and intravenous medication have come into vogue, inula, together with echinacea, has been reinvestigated and advised as a potent drug for its influence upon pulmonary tuberculosis. This work is still in the experimental stage, but with promise at least of amelioration of symptoms and gain of weight in some cases and a marked lessening of cough and secretion. Over-enthusiastic reports must be received with judgment, and not too much hoped for until more complete knowledge of its power over tuberculosis is proved or disproved. The value of the drug, internally administered, so far as amelioration of distressing symptoms is concerned, is unquestioned, but so far we are skeptical concerning its power to destroy the tubercle bacillus within the body.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "The Eclectic Materia Medica, Pharmacology and Therapeutics, 1922, was written by Harvey Wickes Felter, M.D.",
+        "source_id": "felter-eclectic-1922"
+      },
+      {
+        "text": "\"The root of Inula Helenium, Linné\"—(U. S. P.) (Corvisartia Helenium, Mérat). Nat. Ord.—Compositae. COMMON NAMES: Elecampane, Scabwort. ILLUSTRATIONS: Millspaugh, Amer. Med. Plants, Pl. 81; Bentley and Trimen, Med. Plants, 150; Woodville, Med. Bot., 26.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Botanical Source.—Elecampane has a thick, tap-shaped, branching, aromatic, and perennial root, with a thick, leafy, round, furrowed, solid stem, from 4 to 6 feet high, branched and downy above. The leaves are large, ovate, serrate, veiny, smooth, of a dark-green color above, downy and hoary beneath, with a fleshy midrib; radical ones petiolated, from 1 to 3 feet in length, by 6 or 12 inches wide; cauline ones sessile and amplexicaul. The flower-heads are large, radiated, solitary at the downy summits of the branches, 2 inches broad, and of a bright-yellow color. The involucre is hemispherical; the outer scales broad, recurved, leafy, and finely downy on both sides; the inner ones linear. The florets of the ray are numerous, pistillate, long, and narrow, in 1 row, and terminate in 3 unequal teeth; the disk-florets are numerous, perfect, tubular, and 5-toothed, and the anthers have 2 bristles at the base. Ovary oblong. Achenia quadrangular and smooth; pappus simple and roughish. The receptacle is reticulated, and not quite smooth or naked (L.—W.—G.—T.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "History and Description.—Elecampane is common to Europe, and cultivated in this country, growing in pastures, along roadsides, etc., flowering from July to September. The root, which is the part used, should be gathered in the second year of its development, and during the fall months. When recent it is quite thick, spindle-shaped, dividing, with many delicate fibers; its color is yellowish-gray externally. Iodine colors the root brown, and the infusion is changed to a green color by the addition of ferric chloride. The U. S. P. describes Inula as follows: \"In transverse, concave slices or longitudinal sections, with overlapping bark, externally wrinkled and brown; flexible in damp weather; when dry, breaking with a short fracture; internally grayish, fleshy, slightly radiate, and dotted with numerous shining, yellowish-brown resin-cells; free from starch; odor peculiar, aromatic; taste bitter and pungent\"—(U. S. P.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Chemical Composition.—The following percentage composition of inula is recorded in Hager's Handbuch der Pharm. Praxis, Vol. II, 1886, p. 76: \"Inulin, 30 to 40; a trace of volatile oil; inula (alant) camphor, or helenin, a crystallizable, volatile substance, 0.5; wax, 0.3; acrid soft resin, 2; glutinous bitter extractive, 33; protein bodies, 12.5; cellulose, 9.6; potassium and calcium salts. Inulin (6C6H10O5.H2O, Kiliani, 1881), an isomer of starch, was discovered in elecampane by Val. Rose, in 1804, and was called by him alantin. Sometimes it is also termed helenin. It is a fine, white, starchy powder, very hygroscopic, tasteless, and inodorous; its specific gravity is 1.356. Iodine gives it a yellow color, which distinguishes it from starch, and also renders it insoluble in water. It is soluble in boiling water, from which it is deposited as the solution cools. It is insoluble in alcohol. Diluted acids, upon heating, transform it into laevulose, the intermediary products, metinulin and laevulin (C6H10O5), being formed. Ferments, e. g., diastase, yeast, emulsin, saliva, have but a slight sugar-forming effect upon inulin (Dragendorff, 1870; also see Husemann and Hilger, Pflanzenstoffe, 1882, Vol. I, p. 142). The researches of Kiliani made it probable that inulin is chemically the anhydride of laevulose (see Amer. Jour. Pharm., 1881, pp. 188 and 469). Its solution in boiling water produces left-handed rotation upon a ray of polarized light. It melts near 165° C. (229° F.), gives off water, and leaves a scaly, sweetish, gummy mass, readily soluble in water. Concentrated nitric acid, heated with it, converts it into oxalic acid. Diluted nitric acid, by oxidation, changes it into formic, oxalic, glycolic, and racemic acids. Inulin does not reduce Fehling's solution, nor does it undergo fermentation. It may be prepared in abundance also from dandelion roots, and those of the dahlia and other roots of the Compositae, when dug up in the autumn. Roots dug in the autumn yield over twice the amount (44 per cent, Dragendorff) yielded by spring roots. In the spring of the year a portion of the inulin seems to have been changed into laevulin, mucilage, sugar, and several glucosids.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Alant camphor (helenin) was observed in the root of elecampane as early as 1760, by Léfebure and others (see Husemann and Hilger), as it sometimes crystallizes on old roots. J. Kallen (Ber. d. Deutsch. Chem. Ges., 1873 and 1876), has shown this volatile substance, which be obtained by distillation of the root with water, to be composed of needle-like crystals of alantic anhydride (C15H20O2), melting at 66° C. (150.8° F.); alantol (C10H16O), an aromatic liquid; alant camphor proper (C10H16O), the latter a white substance melting at 64° C. (147.2° F.), of a mint-like, aromatic odor; and helenin (C6H8O), an odorless, bitterish, crystallizable principle, with melting point at 110° C. (230° F.).",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Action, Medical Uses, and Dosage.—Elecampane is an aromatic stimulant and tonic, and is said to be expectorant, emmenagogue, diuretic, and diaphoretic. It is much used in chronic pulmonary affections, weakness of the digestive organs, hepatic torpor, atonic dyspepsia, with flatus, and internally and externally in tetter, itch, and other cutaneous diseases. When added to the compound syrup of spikenard, it should be exhausted by boiling alcohol, and the tincture added to the syrup, instead of boiling it with the other articles, as is usually done. The alcoholic extract, combined with powdered extract of liquorice, benzoic acid, sanguinaria, and morphine, forms a lozenge or pill very valuable in chronic catarrhal, bronchial, and all pulmonary irritations. One drop of the oil of stillingia may be added to each lozenge for bronchial and laryngeal affections. Night-sweats are relieved by inula, as are some cases of humid asthma, and, by its tonic properties, it tends to sustain the strength of the patient in chronic disorders of the respiratory tract. Helenin is accredited with a fatal action upon the tubercle bacillus by Korab, Blocq, and others. Inula is somewhat slow in action, and should be used for quite a time to get its full action. That it is an important remedy in irritation of the trachea and bronchiae is now well established. It is adapted to cases with free and abundant expectoration, teasing cough, and pain beneath the sternum, conditions frequent in la grippe, and the severer forms of colds.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "An efficient preparation is that recommended by Prof. Locke (Syllab. of Mat. Med.): Rx Elecampane, ℥i; boiling water, 1 pint. Boil until but 8 ounces remain; add ½ pound of white sugar. Chronic vesical catarrh has yielded to the kindly action of elecampane. Both acute and chronic disorders may be treated with inula. It is also useful in leucorrhoea, and is especially effective in catarrhal endometritis, with discharge of glairy mucus. Dose of the powder, from 20 grains to 1 drachm; of the infusion, from 1 to 2 fluid ounces; syrup, 1 to 4 fluid drachms; specific inula, 5 to 40 drops; fluid extract, 10 to 60 drops; helenin, 1/12 to ¼ grain. Elecampane should be restudied in reference to its action in catarrhal affections of the respiratory organs, and especially in relation to the kind of cough which is mentioned above.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Specific Indications and Uses.—Cough, of a teasing, persistent character, accompanied with substernal pain, and profuse secretion; atony of abdominal viscera, with engorgement and relaxation; catarrhal discharges.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Related Species.—Inula squarrosa, Bernhardi (Inula Conyza, De Candolle; Conyza squarrosa, Linné). Herb used in Europe. Diuretic and emmenagogue, and, when charred, employed as an insecticide.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Pulicaria dysenterica, Gaertner (Inula dysenterica, Linné). Fleawort.—Properties like those of the preceding species.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "Carlina acaulis, Linné. Carline thistle.—Europe. The root, which is unpleasant in odor, and sweet, hot, and finally bitter to the taste, is the part employed. It contains volatile oil and resin. Diuretic and emmenagogue; large doses cathartic. The decoction or powder has been used in amenorrhoea, impotence, glossal paralysis, and in typhoid states of acute maladies. Dose of powdered root, from 10 to 20 grains, best administered in decoction. It appears to strongly influence the sexual organs of both male and female.",
+        "source_id": "kings-american-1898"
+      },
+      {
+        "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
+        "source_id": "kings-american-1898"
       }
     ],
     "habitat": [
@@ -72,6 +259,22 @@
       {
         "text": "Elecampane was known to the ancient writers on agriculture and natural history, and even the Roman poets were acquainted with it, and mention Inula as affording a root used both as a medicine and a condiment. Horace, in the Eighth Satire, relates how Fundanius first taught the making of a delicate sauce by boiling in it the bitter Inula, and how the Romans, after dining too richly, pined for turnips and the appetizing Enulas acidas : 'Quum rapula plenus Atque acidas mavult inulas.' Inula , the Latin classical name for the plant, is considered to be a corruption of the Greek word Helenion which in its Latinized form, Helenium , is also now applied to the same species. There are many fables about the origin of this name. Gerard tells us: 'It took the name Helenium of Helena, wife of Menelaus, who had her hands full of it when Paris stole her away into Phrygia.' Another legend states that it sprang from her tears: another that Helen first used it against venomous bites; a fourth, that it took the name from the island Helena, where the best plants grew. Vegetius Renatus about the beginning of the fifth century, calls it Inula campana , and St. Isidore, in the beginning of the seventh, names it Inula , adding 'quam Alam rustici vocant.' By the mediaeval writers it was often written Enula . Elecampane is a corruption of the ante-Linnaean name Enula campana , so called from its growing wild in Campania. The herb is of ancient medicinal repute, having been described by Dioscorides and Pliny. An old Latin distich celebrates its virtues: Enula campana reddit praecordia sana (Elecampane will the spirits sustain). 'Julia Augustus,' said Pliny, 'let no day pass without eating some of the roots of Enula, considered to help digestion and cause mirth.' The monks equally esteemed it as a cordial. Pliny affirmed that the root 'being chewed fasting, doth fasten the teeth,' and Galen that 'It is good for passions of the hucklebone called sciatica.' Dioscorides, in speaking of Castus root, related that it is often mixed with that of Elecampane, from Kommagene (N.W. Syria) (Castus, derived from Aplotaxis auriculata (D.C.), is remarkably similar to Elecampane, both in external appearance and structure. It is an important spice, incense and medicine in the East.) Elecampane is frequently mentioned in the Anglo-Saxon writings on medicine current in England prior to the Norman Conquest; it is also the 'Marchalan' of the Welsh physicians of the thirteenth century, and was generally known during the Middle Ages. It was formally cultivated in all private herb-gardens, as a culinary and medicinal plant, and it is still to be found in old cottage gardens. Not only was its root much employed as a medicine, but it was also candied and eaten as a sweetmeat. Dr. Fernie tells us, in Herbal Simples : 'Some fifty years ago, the candy was sold commonly in London as flat, round cakes being composed largely of sugar and coloured with cochineal. A piece was eaten each night and morning for asthmatical complaints, whilst it was customary when travelling by a river, to suck a bit of the root against poisonous exalations and bad air. The candy may still be had from our confectioners, but now containing no more of the plant Elecampane than there is of barley in Barley Sugar.' In Denmark, Elecampane is sometimes called Elf-Doc. Here one sometimes comes across the name Elf-Dock locally, also Elfwort. [ Top ]",
         "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T INULA. Inula helenium, Linn. Natural order , Compositæ. Common names , Elecampane; (Germ.) Alant. Preparation , Tincture of the root. Authority. Dr. Fischer, Prag. Med. Monatsschrift, 12, p. 170; proving with the juice of the root. MIND. ► The former peevishness changed, from a slight cause, to a joyous mood and good humor (second day). HEAD. ► Confusion of the whole head, with nausea rising from the stomach, in the evening (first day). ► Vertigo, on stooping (after three hours). ► Rush of blood to the head causes sleeplessness for two nights. ► Tearing, throbbing pain in the forehead and whole top of the head, after eating (second day). ► Burrowing headache in the left temple, in a spot as large as a thaler, in the evening (first day). ► Headache in the right side, afterwards in the left (second day). ► Sticking headache in the right side (second day). ► Jerking, tearing pain in the occiput, afterwards extending to the left side of the occiput, towards the ear. EYE. [10.] ► Twitching in both upper lids, momentary, so that she was obliged to press the eyes together (after eight hours). ► Burning in the left eyeball (after twenty-one hours). ► Swimming before the eyes, and pressure in the temples and forehead. EAR. ► Dull stitches in the left ear, with transient sticking above the right eyebrow, in the evening (first day). NOSE. ► Stitches in the right side of the middle of the nose (after four hours). ► Sticking crawling in the root of the nose, extending to the eyebrows, lasting several minutes (twentieth day). FACE. ► Left side of the face red and hot, a white spot near the nose (eighth hour). MOUTH. ► Teeth. ► Pain in all the hollow teeth, at times through the whole proving, alternately coming and going for twenty-six days, mostly at night when waking, not only in the teeth but also in the gum. ► Very transient, violent boring in the first left hollow back teeth, in the evening (second day). ► Itching, throbbing, hammering in the left upper and lower jaw, in two hollow back teeth, every night about 11 o'clock (from eighth to thirty-third day). ► General Mouth. [20.] ► Dryness of the mouth (in two provers), (after a quarter of an hour). ► Dryness of the mouth, with scraping and tickling in the throat, so that swallowing was difficult; nausea in the stomach, at 7 A.M. (second day). ► Taste. ► Taste as of violet root in the mouth (after two hours). THROAT. ► On swallowing, pain in the throat, which seems swollen, lasting through the night till morning. ► Tickling in the throat causing constant cough (thirteenth and fourteenth days). STOMACH. ► (Her usual nausea in the morning, coming from the stomach, disappeared), (after second day). ► Twisting as with a ball in the epigastric region, above the umbilicus. ► Sticking pain in the epigastric region (after six hours). ABDOMEN. ► Hypochondria. ► Violent motion internally beneath the right hypochondrium, as though something living were moving about, during menstruation (after eighteen days). ► Umbilical. ► Sticking as with two pins to the right of the umbilicus (after three hours). ► General Abdomen. [30.] ► A feeling in the abdomen as though menstruation would occur (seven days after menstruation), (after twenty-four days). ► Movings about the abdomen as if menstruation would occur (ten days after menstruation). ► Movings about in the abdomen, as at the appearance of menstruation, followed by yellowish leucorrha (fifth day). ► Rumbling in the abdomen (in two provers), (after half an hour). ► Rumbling and fermentation in the abdomen, immediately. ► Pain in the abdomen with very profuse leucorrha, colored like whey, and slimy. ► Tensive pain, sometimes intermitting, on the right side of the abdomen, especially in the ligaments (after eight hours). ► Tensive pain in the abdomen, especially in the right loin, and also over the whole external public region, especially when walking about (after six hours). ► Tensive pain in the abdomen followed by discharge of yellowish mucus from the vagina (after three hours). ► Griping and rumbling in the abdomen. [40.] ► Griping in the abdomen, with ineffectual urging to stool (twenty-ninth day). ► Hypogastrium. ► Sticking pain in a small spot as large as a thaler, between the umbilicus and right groin, as from a knife, lasting two days (after thirteen days). ► Stitches in the left side of the abdomen, towards the left groin (after fourteen days). ► A stitch in the region of the right groin, extending to the umbilicus, on every step. RECTUM AND ANUS. ► Pressing dragging towards the rectum and genitals, as in labor; as if a substance would come out, occurring repeatedly (from two to thirty days). ► Urging to stool, with cutting pain, not followed by stool (after twenty-three days). ► Urging to stool, followed by a large pasty stool with griping about the umbilicus, in the evening (second day). STOOL. ► Diarrha for two days and one night. ► Stools small, numerous, burning, with urging, very unusual (after twenty-four days). ► Stool yellow, pasty, scanty, like an infant's, with urging, without pain (twenty-first day). [50.] ► Stools hard, was obliged to press them out (twenty-fourth day). URINARY ORGANS. ► Urging to urinate ten times in one hour; the urine passes by drops (second day). ► The urine smells of violets. SEXUAL ORGANS. ► Pain in the uterus, with pain in the small of the back, very violent, with pressure as in labor; urging to stool, which she dreads; she is obliged to remain lying . ► Stitching in the region of the uterus (after five hours). ► Stitches in the uterus as with a fork, lasting several minutes, in the evening (after nine hours, first day). ► Dragging in the genitals, with more violent backache than she had ever had before (in an unmarried girl), (second day). ► Stitches at times in the pudenda (twenty-ninth day). ► Three stitches in succession in the genitals (second and sixth days). ► Menstruation five days too early (after sixteen days). [60.] ► Menstruation five days too early, preceded by colic for three days; everything in the abdomen is gathered into a lump (in two female provers), (after thirty-five days). ► Menstruation three to six days too early, with colic, especially at night. ► Menstruation three days too early, preceded by pain for two days. ► Menstruation delayed one day (after twelve days). ► Paroxysmal clotted discharge during the first days of menstruation. RESPIRATORY ORGANS. ► A child was attacked with cough (second day). ► Dry cough, with constant tickling in the pit of the throat, difficult breathing, and a sensation as though hoarseness would occur (after two days). CHEST. ► Pain below the right ribs, with heat of the right cheek (after nine days). ► Stitches beneath the left, seventh, and eighth ribs, lasting half an hour (after one hour and a half). ► Throbbing, jerking pain, as from suppuration, in the middle of the chest (second day). [70.] ► Transient stitches behind the sternum aggravated by motion (after four hours). ► Pain in the right side of the chest, especially towards the shoulder, during menstruation (after twenty days). ► Pain in the nipple (after eight days). BACK. ► Pain through the back and chest, on inspiration (after five hours). ► Violent backache during menstruation, excessive anxiety with trembling of the whole body, and chattering of the teeth from cold (after sixteen days). ► Transient pain in the right scapula (after five hours). ► Pain in the small of the back (after sixth and twenty-fourth days). ► Sticking pain in part of both loins, as if menstruation would occur (six days after menstruation), (after twenty-fourth day). SUPERIOR EXTREMITIES. ► Pain in the right shoulder (in two provers), (after six hours). ► Stitches in the right shoulder-joint (after one hour and a half). [80.] ► Tearing in the right shoulder and alternately in the right wrist. ► Pain like a tearing and like a cramp in the tip of the left shoulder, in the scaleni muscles on the left side of the neck, like a cramp or as if pulled by pincers. ► Tearing jerking in the right arm, mostly in the deltoid (twenty-eighth day). ► The upper arm as far as the elbow falls asleep (first day). ► The right upper arm falls asleep, raising the arm is difficult (after nineteen hours). ► Falling asleep of the left upper arm like formication (first day). ► Tearing in the palm of the left hand, so that it makes the fingers stiff and she is unable to double them up; pressure relieves the pain (second day). ► Fine stitches in the index finger (after six days). ► Tearing in the right little finger, the finger seems dead (after twenty-four days). INFERIOR EXTREMITIES. ► Tensive drawing in the hips extending to the nates (second day). [90.] ► Sticking in the right hip, extending through to the right groin (second day). ► Stitches in the thighs (after two hours). ► Spasmodic sticking pain beneath the bend of the right knee, with heat of the face and chilliness of the body (first day). ► Cramp in the calves, at night in sleep. ► Drawing pain, beginning in the forepart of the right leg, extending from the knee up to the right groin and ending behind the arch of the pubis. ► Stitches in the left ankle, when walking, as if sprained (after eight days). ► Sharp stitches in the left side of the left malleolus, transient (after fifty-four hours). ► Stitches, as with needles, in the right heel (ninth day). ► Sticking pain in the two middle toes of the right foot, extending to the middle of the sole, afterwards in the heel, lasting two days. GENERAL SYMPTOMS. ► Sensation as though some one were poking him with the finger, in various parts of the body, especially in the diaphragm, which was so painful that he awoke and was obliged to clench his teeth. SKIN. [100.] ► Itching, as from fleas, here and there. ► Violent itching on the lower limbs, during menstruation, with burning after scratching, in bed (sixteenth day). SLEEP AND DREAMS. ► Sleeplessness, starting and crying out in sleep; restless and anxious sleep only towards morning (in a child of two years). ► Sleep bad, with a feeling in the morning as if the head were confused. ► Lascivious dreams (twentieth day). ► Disgusting dreams, in the morning (second day). FEVER. ► Coldness; shaking in bed, as in the paroxysms of fever, with cold blue hands and nails, and without heat, thirst and sweat. ► Transient flushing of heat in the face (twenty-third day). ► Glowing heat of the left cheek (after six hours). CONDITIONS. ► Aggravation. ► ( Night ), About 11 o'clock, itching, etc., in back teeth; colic. ► ( After eating ), Pain in forehead, etc. ► ( Inspiration ), Pain through back, etc. ► ( Motion ), Pain in chest. ► ( When walking about ), Pain in abdomen. ► Amelioration. ► ( Pressure ), Tearing in hand. SUPPLEMENT: INULA. Authorities. 2 , Edward Bayard, M.D., Trans. Amer. Inst. of Hom., Seventeenth Session, 1860, p. 58, chewed a portion of the root and swallowed the juice; 3 , same, Dr. Joslin, took 5 globules of 12th, at 9.24 P.M. HEAD. ► One severe darting at the junction of the forehead and right temple (after one hour and thirty-six minutes), [3] . NOSE. [110.] ► Obstruction of the nostrils, with smarting and sensation of heat in the left side of the throat (after eighty-six minutes), [3] . MOUTH. ► On the succeeding day at dinner there was complete loss of taste. Highly flavored butter was merely felt as an unctuous substance, and no flavor was perceived in any other food. On examining his tongue he found it covered with a thick and very white coating. The sense of taste gradually returned and the tongue gradually cleared, so that after several days, both were in the same normal condition as before the experiment, [2] . THROAT. ► Painful pressure on the left side of the throat, as if with the end of a finger or some blunt instrument, in the morning at 7.45 (after four days and a half), [3] . STOMACH. ► Slight nausea, with pain over the eyes (after six minutes), [3] . ABDOMEN. ► Flatulent colic just below the umbilicus, commencing after being awake at 1 A.M., and continuing for nearly half an hour whilst walking in the open air, and mitigated by the expulsion of flatus (second day), [3] . ► Flatulent colic similar to the former, in the same locality, in the forenoon (third day), [3] . STOOL. ► It the morning after breakfast, at the usual time of evacuation, had a stool more soft and copious than usual (second day), [5] . ► Waxy fæces; the stool approaching the shoemaker's wax in its dark-brown color, its tenacity, and its fineness of texture (after three days and a half), [3] . Copyright © Médi-T ® 2000 Main",
+        "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Clinical: Backache; Cough; Cramp; Dysmenorrhœa; Erysipelas; Leucorrhœa; Rectum, pain in; Sciatica; Toothache",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Violent tickling in larynx, producing dry cough, lying down; at night; larynx painful. Cough with abundant thick expectoration; accompanied by weakness of digestive tract, general languor and debility and much leucorrhœa; skin has been the seat of psoric manifestations; engorged glands (chronic bronchitis). Difficult breathing with dry cough, constant tickling in throat-pit. Dry, tickling cough. Stitches and tearing pain in r. shoulder and wrist. Tearing, cramp-like pain in tip of l. shoulder; in scaleni muscles on l. side of neck, as if pulled by pincers. Tearing, jerking in r. arm. Upper arms as far as elbows fall asleep. Tearing in palm of l. hand, unable to double fingers. Fine stitches in index finger. Tearing in r. little finger, it seems dead. Tensive drawing in hips extending to nates. Sticking in r. hip extending to groin; in middle toes of r. foot in r. heel. Stitches: in thighs; in l. ankle, when walking; as if sprained in r. heel. Spasmodic sticking beneath bend of r. knee, hot face and chilliness. Cramp in calves during sleep.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Ten times in one hour : urging to urinate. Right : sticking headache ; transient sticking above eyebrow ; stitches in side of middle of nose ; sticking side of umbilicus ; cutting between umbilicus and groin ; transient pain in scapula ; stitches and tearing pain in shoulder ; tearing, jerking in arm ; tearing in little finger ; sticking in hip, in toes, in heel ; spasmodic sticking beneath bend of knee. Left : burning in temple and eyeball ; dull stitches in ear ; side of face red and hot ; cheek glowing ; stitches between seventh and eighth rib ; tearing, cramp-like pain in tip of shoulder, in muscles of side of neck ; tearing in palm of hand. Right then left : headache. As though some one was poking him with finger, in various parts of body, especially in diaphragm, so painful he awoke and clenched his teeth ; as of a ball twisting in epigastric region ; as though something living was moving about beneath hypochondrium ; sticking as with two pins to right of umbilicus ; as from a knife between umbilicus and right groin ; as if a substance would come out of rectum and genitals ; pain as from suppuration in middle of chest ; neck as if pulled with pincers ; itching as from fleas. Pain : in decayed teeth ; in throat ; in uterus ; in small of back ; through back and chest. Violent pain : in back. Tearing pain : in right shoulder and wrist ; in palm of left hand ; in right little finger. Tearing, throbbing pain : in forehead and vertex. Tearing, cramp-like pain : in tip of left shoulder ; in scaleni muscles on left side of neck. Throbbing, jerking pain : in middle of chest. Sticking pain : on right side of head ; in epigastric region ; to r. of umbilicus ; in right hip to groin ; in middle toes of right foot. Jerking, tearing pain : in occiput ; in right arm. Sticking, crawling : in nose, extending to eyebrows ; in right heel. Spasmodic sticking : beneath bend of right knee. Stitches : in right side of middle of nose ; in left side of abdomen ; in region of uterus and genitals ; behind sternum and beneath left seventh and eighth ribs, in right shoulder and wrist, in thighs ; in left ankle ; in right heel. Fine stitches : in index finger. Burning pain : in left temple ; in left eyeball. Transient stitching : above right eyebrow. Transient pain : in right scapula. Dull stitches : in left ear. Burning : on skin. Headache : in right side, then in left. Cramp : in calves. Twisting : as of a ball in epigastric region. Pressing and dragging : towards rectum and genitals. Tensive drawing : in hips. Pressure : in temples and forehead. Violent tickling : in larynx. Scraping and tickling : in throat. Dryness : of mouth. Confusion : of head. Twitching : in upper lids. Trembling : of whole body. Itching : on legs.",
+        "source_id": "hering-guiding-1879"
       }
     ],
     "preparation": [
@@ -80,24 +283,144 @@
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
-    "indications": [
-      {
-        "text": "The drug, Elecampane ( Radix Inulae ), consists of both rhizome or rootstock and roots. It is official in most pharmacopoeias. For pharmaceutical use, the root is taken from plants two to three years old; when more advanced it becomes too woody. As a rule, it is dug in autumn. Elecampane root has at first a somewhat glutinous taste, but by chewing, it becomes subsequently aromatic, and slightly bitter and pungent; it has an agreeably aromatic somewhat camphoraceous orris-like odour. The distinguishing characteristics of Elecampane root to be noted by a student are: Its horny, not starchy nature. The presence of oil-glands. The absence of well-marked radiate structure in the wood. Most roots of similar appearance to Elecampane root, such as Belladonna, Dandelion and Marsh Mallow, are devoid of oil-glands. Belladonna, moreover, is distinguished from it by its starchy fracture, Dandelion by its thick, ringed bark, and Marsh Mallow by its radiate structure and fibrous, easily separated bark. Pellitory root, which has oil-glands, is distinguished by its yellow, radiate wood, distinctive odour and taste. [ Top ]",
-        "source_id": "grieve-modern-herbal-1931"
-      },
-      {
-        "text": "Diuretic, tonic, diaphoretic, expectorant, alterative, antiseptic, astringent and gently stimulant. It was employed by the ancients in certain diseases of women, also in phthisis, in dropsy and in skin affections. Its name 'Scabwort' arose from the fact that a decoction of it is said to cure sheep affected with the scab, and the name 'Horse-heal' was given it from its reputed virtues in curing the cutaneous diseases of horses. In herbal medicine it is chiefly used for coughs, consumption and other pulmonary complaints, being a favourite domestic remedy for bronchitis. It has been employed for many years with good results in chest affections, for which it is a valuable medicine as it is in all chronic diseases of the lungs asthma and bronchitis. It gives relief to the respiratory difficulties and assists expectoration. Its principal employment as a separate remedy is in acute catarrhal affections, and in dyspepsia attended with relaxation and debility, given in small, warm and frequently repeated doses. It is, however, seldom given alone, but most frequently preferred in combination with other medicines of a similar nature. It is best given in the form of decoction, the dose being a small teaspoonful, three times a day. The root used not only to be candied and eaten as a sweetmeat, but lozenges were made of it. It has been employed in whooping-cough. It is sometimes employed in the form of a confection for piles, 1 OZ. of powdered root being mixed with 2 OZ. of honey. In the United States, it has also been highly recommended, both for external use and internal administration in diseases of the skin, an old use of the root that has maintained its reputation for efficacy. Externally applied, it is somewhat rubefacient, and has been employed as an embrocation in the treatment of sciatica, facial and other neuralgia. Of late years, modern scientific research has proved that the claims of Elecampane to be a valuable remedy in pulmonary diseases has a solid basis. One authority, Korab, showed in 1885 that the active, bitter principle, Helenin, is such a powerful antiseptic and bactericide, that a few drops of a solution of 1 part in 10,000 immediately kills the ordinary bacterial organisms, being peculiarly destructive to the Tubercle bacillus. He gave it successfully in tubercular and catarrhal diarrhoeas, and praised it also as an antiseptic in surgery. In Spain it has been made use of as a surgical dressing. Obiol, in 1886, stated it to be an efficient local remedy in the treatment of diphtheria, the false membrane being painted with a solution of Helenin in Oil of Almond. [ Top ]",
-        "source_id": "grieve-modern-herbal-1931"
-      },
-      {
-        "text": "Powdered root 1/2 to 1 drachm. Fluid extract, 1/2 to 1 drachm. Inulin, 1 to 3 grains. Gerard tells us: 'It is good for shortnesse of breathe and an old cough, and for such as cannot breathe unless they hold their neckes upright.' And further: 'The root of Elecampane is with good success mixed with counterpoisons, it is a remedy against the biting of serpents, it resisteth poison. It is good for them that are bursten and troubled with cramps and convulsions.' And Culpepper says: 'The fresh roots of Elecampane preserved with sugar or made into a conserve, or a syrup, are very effectual to warm a cold windy stomach and stitches in the side, caused by spleen and to relieve cough, shortness of breath and wheezing in the lungs. The dried root made into powder and mixed with sugar, and taken, serveth the same purpose.... It cures putrid and pestilential fevers and even the plague. The roots and herbes beaten and put into new ale or beer and daily drunk, cleareth, strengtheneth and quickeneth the sight of the eyes. The decoction of the roots in wine or the juice taken therein, destroys worms in the stomach, and gargled in the mouth or the root chewed, fasteneth loose teeth and keeps them from putrefaction, and being drunk is good for spitting of blood, and it removes cramps or convulsions, gout, sciatica, pains in the joints, applied outwardly or inwardly, and is also good for those that are ruptured, or have any inward bruise. The root boiled well in vinegar, beaten afterwards and made into an ointment with hog's suet or oil of trotters is a most excellent remedy for scabs or itch in young or old the places also bathed and washed with the decoction doth the same; it heals putrid sores or cankers. In the roots of this herb lieth the chief effect for the remedies aforesaid. The distilled water of the leaves and roots together is very good to cleanse the skin of the face or other parts from any morphew, spots or blemishes and make it clear.' In Switzerland ( Neufchâtel ) Elecampane root is one of the substances used in the preparation of Absinthe, and it was also used for the same purpose in France. It furnishes the Vin d'Aulnée of the French. A blue dye has been extracted from the root, bruised and macerated and mingled with ashes and whortleberries. 'The wine wherein the root of Elicampane hath steept,' says Markham ( Countrie Farme 1616), 'is singularly good against the colicke.' A cordial was made from the plant by infusing Elecampane roots with sugar and currants in white port. See: FLEABANE, CANADIAN FLEABANE, COMMON FLEABANE, GREAT (PLOUGHMAN'S) SPIKENARD (GOLDEN) SAMPHIRE . Purchase from Richters Elecampane (Inula helenium) Seeds, Plants, and Dried Root Try it in tea! Breathe Clear Tea",
-        "source_id": "grieve-modern-herbal-1931"
-      }
-    ],
     "constituents": [
       {
         "text": "The substance most abundantly contained in Elecampane root is Inulin, discovered by Valentine Rose, of Berlin in 1804, who named it Alantin (the German name of the plant is Alantwurzel ; French, Aunée ), but the title, Inulin proposed by Thompson, has been generally adopted. It has the same composition as starch, but stands to a certain extent in opposition to that substance, which it replaces in the rootsystem of Compositae . In living plants, Inulin is dissolved in the watery juice, and on drying, is deposited within the cells in amorphous masses, which in polarized light are inactive. It resembles starch in appearance, but differs from it in giving a yellow instead of a blue colour with iodine, in being soluble in boiling water without forming a paste, and in being deposited unchanged from the hot aqueous solution when it cools. With nitric acid, Inula affords no explosive compound as starch does. By prolonged heat or the action of dilute acids, it is changed first to inulin then to levulin , and finally to levulos e. It is only slightly changed to sugar by ferments. Sachs showed in 1864 that by immersing the roots of Elecampane or Dahlia variabilis in alcohol and glycerine, Inulin may be precipitated in globular aggregations of needleshaped crystalline form. Elecampane is the richest source of inulin. The amount of Inulin varies according to the season, but is more abundant in the autumn. Dragendorff, who in 1870 made it the subject of a very exhaustive treatise, obtained from the root in October not less than 44 per cent, but in spring only 19 per cent, its place being taken by levulin, mucilage, sugar and several glucosides. Inulin is widely distributed in the perennial roots of Compositae , and has been met with in the natural orders Campanulacae, Goodeniaceae, Lobeliaceae, Stylidiaceae , and in the root of the White Ipecacuanha of Brazil, belonging to the order Violaceae . Inulin is closely associated in Elecampane with Inulenin , obtainable in microscopical needles, slightly soluble in cold water and weak alcohol, and pseudo-inulin , which occurs in irregular granules, very soluble in hot water and weak, hot alcohol, but insoluble in cold alcohol. It was observed by Le Febre as early as 1660 that when the root of Elecampane is subjected to distillation with water, a crystallizable substance collects in the head of the receiver, and similar crystals may be observed after carefully heating a thin slice of the root, and are often found as a natural efflorescence on the surface of roots that have been long kept. This was considered as a distinct body called Helenin , or Elecampane camphor, but the researches of Kallen in 1874 showed that it was resolvable into two crystallizable substances, which he named Helenin , a body without taste or colour, and Alantcamphor , with a peppermint odour and taste. As a result of further research, it is considered that the crystalline mass yielded by Elecampane root on distillation with water in the proportion of 1 to 2 per cent, and associated with about 1 per cent volatile oil, consists of Alantolactone, iso-alantolactone and Alantolic acid, all of which are crystalline, nearly colourless, and have but slight odour and taste. The oily portion, Alantol , found in the distillate, a colourless liquid, has a peppermint-like odour. [ Top ]",
         "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "relationships": {
+      "_raw": [
+        "Compare: Sep. (forcing in genitals and rectum), Crocus and Thuja (sensation of something alive); Tereb. (urine smelling of violets); Ign. (cough lying down and in evening); Sul. (psora; at night in bed).",
+        "Compare : Crocus and Thuja (movements as of something alive in abdomen) ; Tereb. (urinary symptoms) ; Ignat. (cough < lying down and in evening) ; Sulphur (psora)",
+        "Copyright © Médi-T ® 2002",
+        "Main"
+      ]
+    },
+    "mental_emotional": [
+      {
+        "text": "Excessive anxiety and trembling of the whole body, chattering of teeth from cold, during menstruation.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Excessive anxiety and trembling of whole body, chattering of teeth from cold, during menstruation. Confusion of head with nausea, in evening. Headache, in right side, afterward in left. Sticking headache in right side. Jerking, tearing pain in occiput.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "eyes": [
+      {
+        "text": "Twitching in upper lids. Burning in l. eyeball. Swimming before eyes and pressure in temples and forehead.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Twitching in upper lids. Burning in left eyeball. Swimming before eyes and pressure in temples and forehead.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "ears": [
+      {
+        "text": "Dull stitches in l. ear, with transient sticking above r. eyebrow in evening.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Dull stitches in left ear, with transient sticking above right eyebrow, in evening.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "nose": [
+      {
+        "text": "Stitches in r. side of middle of nose. Sticking, crawling in root of nose, extending to eyebrows.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Stitches in right side of middle of nose. Sticking, crawling in root of nose, extending to eyebrows.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "face": [
+      {
+        "text": "Left side of face red and hot, a white spot near nose. Flushes of heat; l. cheek glowing.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Left side of face red and hot, a white spot near nose. Flushes of heat ; left cheek glowing.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "mouth_throat": [
+      {
+        "text": "Pain in decayed teeth, at night. Dryness of mouth with scraping and tickling in throat, swallowing difficult. Pain in throat on swallowing; tickling causing cough.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pain in decayed teeth, < at night. Dryness of mouth with scraping and tickling in throat, swallowing difficult. Pain in throat on swallowing ; tickling causing cough.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Nausea in morning coming from stomach. Twisting as of a ball in epigastric region, above umbilicus. Sticking pain in epigastric region. Violent motion beneath r. hypochondrium, as though something living were moving about, during menstruation. Sticking: as with two pins to r. of umbilicus; as from a knife between umbilicus and r. groin. Stitches in l. side of abdomen towards l. groin.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Nausea in morning coming from stomach. Twisting as of a ball in epigastric region, above umbilicus. Sticking pain in epigastric region. Violent motion beneath right hypochondrium, as though something living were moving about, during menstruation. Sticking : as with two pins to right of umbilicus ; as from a knife between umbilicus and right groin. Stitches in left side of abdomen, towards left groin.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "chest_heart": [
+      {
+        "text": "Stitches behind sternum and beneath l. seventh and eighth ribs. Throbbing, jerking pain as from suppuration, in middle of chest.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Stitches behind sternum and beneath left seventh and eighth ribs. Throbbing, jerking pain as from suppuration, in middle of chest.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "back": [
+      {
+        "text": "Pain through back and chest, on inspiration. Transient pain in r. scapula. Violent backache during menstruation.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Pain through back and chest, on inspiration. Transient pain in right scapula. Violent backache during menstruation.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "skin": [
+      {
+        "text": "Itching: as from fleas; violent on legs during menses, with burning after scratching, in bed.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Itching : as from fleas ; violent on legs during menses, with burning after scratching, in bed.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "sleep": [
+      {
+        "text": "Sleep restless, starting and crying out. Dreams: lascivious; disgusting.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Sleep restless, starting and crying out. Dreams : lascivious ; disgusting.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "fever_chill": [
+      {
+        "text": "Coldness, shaking in bed, cold, blue hands and nails. Copyright © Médi-T ® 2000 Main.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Coldness, shaking in bed, cold, blue hands and nails.",
+        "source_id": "hering-guiding-1879"
+      }
+    ],
+    "modalities": [
+      {
+        "text": "REST. POSITION. MOTION. [35] [Inul.]. Lying down : tickling in larynx. Obliged to remain lying : on account of pain in uterus. Stooping : vertigo. Morning : nausea. Evening : confusion in head with nausea ; burning in left temple ; sticking above right eyebrow. Night : toothache < ; tickling in larynx < ; cramp in calves.",
+        "source_id": "hering-guiding-1879"
       }
     ]
   },
@@ -105,7 +428,13 @@
   "provenance": {
     "sources": [
       "boericke-1927",
-      "grieve-modern-herbal-1931"
+      "ellingwood-1919",
+      "grieve-modern-herbal-1931",
+      "allen-encyclopedia-1874",
+      "clarke-dictionary-1900",
+      "felter-eclectic-1922",
+      "hering-guiding-1879",
+      "kings-american-1898"
     ]
   }
 }

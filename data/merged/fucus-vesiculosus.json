@@ -7,11 +7,13 @@
       "Sea Kelp",
       "Bladder-Wrack"
     ],
-    "synonyms": [
-      "FUCUS VESICULOSUS"
-    ]
+    "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

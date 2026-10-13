@@ -1,14 +1,19 @@
 {
   "id": "prunus-armeniaca",
   "names": {
-    "primary": "Prunus Armeniaca (LINN.)",
-    "latin": "Prunus Armeniaca (LINN.)",
+    "primary": "Prunus Armeniaca",
+    "latin": "Prunus Armeniaca",
     "common": [
       "Apricot"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Prunus Armeniaca (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

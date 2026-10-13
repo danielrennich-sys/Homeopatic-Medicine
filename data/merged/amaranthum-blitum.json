@@ -1,14 +1,19 @@
 {
   "id": "amaranthum-blitum",
   "names": {
-    "primary": "Amaranthum blitum (LINN.)",
-    "latin": "Amaranthum blitum (LINN.)",
+    "primary": "Amaranthum Blitum",
+    "latin": "Amaranthum Blitum",
     "common": [
       "Amaranth, Wild"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Amaranthum blitum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

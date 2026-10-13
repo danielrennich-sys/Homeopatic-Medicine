@@ -1,17 +1,20 @@
 {
   "id": "primula-veris",
   "names": {
-    "primary": "PRIMULA VERIS",
-    "latin": "PRIMULA VERIS",
+    "primary": "Primula Veris",
+    "latin": "Primula Veris",
     "common": [
       "Cowslip"
     ],
     "synonyms": [
-      "Primula Veris",
       "Primula veris (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "head": [
       {

@@ -1,16 +1,19 @@
 {
   "id": "categorization-likelihood",
   "names": {
-    "primary": "Categorization Of The Likelihood Of Drug Induced Liver Injury",
-    "latin": "Categorization Of The Likelihood Of Drug Induced Liver Injury",
+    "primary": "Categorization Likelihood",
+    "latin": "Categorization Likelihood",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Categorization Of The Likelihood Of Drug Induced Liver Injury"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {},
   "evidence": {
-    "summary": "",
-    "documented_adverse_effects": [],
     "hepatotoxicity": [
       {
         "section": "LiverTox: Clinical and Research Information on Drug-Induced Liver Injury [Internet].",

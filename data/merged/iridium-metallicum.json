@@ -1,14 +1,17 @@
 {
   "id": "iridium-metallicum",
   "names": {
-    "primary": "IRIDIUM METALLICUM",
-    "latin": "IRIDIUM METALLICUM",
+    "primary": "Iridium Metallicum",
+    "latin": "Iridium Metallicum",
     "common": [
       "The Metal (IRIDIUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "head": [
       {

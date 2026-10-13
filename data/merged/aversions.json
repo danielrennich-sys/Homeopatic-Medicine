@@ -1,24 +1,58 @@
 {
   "id": "aversions",
   "names": {
-    "primary": "AVERSIONS",
-    "latin": "AVERSIONS",
+    "primary": "Aversions",
+    "latin": "Aversions",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
-    "keynotes": [
+    "repertory": [
       {
-        "text": "A SYNOPTIC KEY OF THE MATERIA MEDICA By Cyrus Maxwell BOGER Presented by Médi-T REPERTORY AVERSIONS. Aversions, to food , etc. : Ars., Nux-v., Pul. Aversions, to food, loathing, disgust, etc. with : Ant-c., Arn., Ars., Cham., Colch., Ip., Kali-c., Nux-v., Op., Pul., Sep. Aversions, to food, acids : Sul. Aversions, to food, beer : Chin. Aversions, to food, bread : Kali-c., Nat-m., Pul., Sul. Aversions, to food, coffee : Nux-v. Aversions, to food, eggs : Fer. Aversions, to food, fats : Nat-m., Petr., Pul. Aversions, to food, meat : Grap., Mur-ac., Petr., Pul., Sep., Sil., Sul. Aversions, to food, milk : Ign., Sep., Sil. Aversions, to food, sweets : Caust., Sul. Aversions, to food, tobacco : Calc-c., Ign., Nux-v. Aversions, to food, wine : Lach., Merc. Copyright © Médi-T 1999",
-        "source_id": "boger-synoptic-key-1915"
+        "text": "Generalities: Band: Bath",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Fainting with coldness of: Cold water | Coughs: Covered",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Damp air",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Kreos. Excretions: Exercise",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Heart: Heat",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Onanism: Open air",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Washed: Washing | Wasted: Water",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
       }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "boger-synoptic-key-1915"
+      "gentry-rubrical-mm-1890"
     ]
   }
 }

@@ -1,14 +1,19 @@
 {
   "id": "pinus-larix",
   "names": {
-    "primary": "Pinus larix (D.C.)",
-    "latin": "Pinus larix (D.C.)",
+    "primary": "Pinus Larix",
+    "latin": "Pinus Larix",
     "common": [
       "Pine (Larch)"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Pinus larix (D.C.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

@@ -1,14 +1,17 @@
 {
   "id": "rumex-acetosella",
   "names": {
-    "primary": "Rumex acetosella",
-    "latin": "Rumex acetosella",
+    "primary": "Rumex Acetosella",
+    "latin": "Rumex Acetosella",
     "common": [
       "Sorrel, Sheep's"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

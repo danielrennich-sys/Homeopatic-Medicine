@@ -1,14 +1,17 @@
 {
   "id": "linaria-cymbalaria",
   "names": {
-    "primary": "Linaria cymbalaria",
-    "latin": "Linaria cymbalaria",
+    "primary": "Linaria Cymbalaria",
+    "latin": "Linaria Cymbalaria",
     "common": [
       "Toadflax, Ivy-Leaved"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

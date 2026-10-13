@@ -1,14 +1,19 @@
 {
   "id": "plantago-coronopus",
   "names": {
-    "primary": "Plantago coronopus (LINN.)",
-    "latin": "Plantago coronopus (LINN.)",
+    "primary": "Plantago Coronopus",
+    "latin": "Plantago Coronopus",
     "common": [
       "Plantain, Buck's Horn"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Plantago coronopus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

@@ -1,12 +1,17 @@
 {
   "id": "hepar-sulph",
   "names": {
-    "primary": "Hepar Sulph. Calc. (Hepar Sulphuris Calcareum)",
-    "latin": "Hepar Sulph. Calc. (Hepar Sulphuris Calcareum)",
+    "primary": "Hepar Sulph",
+    "latin": "Hepar Sulph",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Hepar Sulph. Calc. (Hepar Sulphuris Calcareum)"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "mental_emotional": [
       {

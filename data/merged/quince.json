@@ -1,14 +1,19 @@
 {
   "id": "quince",
   "names": {
-    "primary": "Quince, Japanese",
-    "latin": "Quince, Japanese",
+    "primary": "Quince",
+    "latin": "Quince",
     "common": [
       "Quince, Japanese"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Quince, Japanese"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

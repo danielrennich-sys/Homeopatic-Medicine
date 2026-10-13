@@ -8,13 +8,15 @@
       "Alstonia"
     ],
     "synonyms": [
-      "ALSTONIA SCHOLARIS",
       "Alstonia scholaris (R. BR.)",
-      "Alstonia scholaris (R. BR,)",
-      "Alstonia scholaris"
+      "Alstonia scholaris (R. BR,)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -30,16 +32,11 @@
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
-    "stomach_abdomen": [
-      {
-        "text": "Violent purging and cramp in bowels. Heat and irritation in lower bowels. Camp diarrhœa, bloody stool, dysentery; diarrhœa from bad water and malaria. Painless watery stools (Phosph ac). Diarrhœa immediately after eating",
-        "source_id": "boericke-1927"
-      }
-    ],
-    "dosing": {
-      "notes": "Tincture to third potency. Locally, for ulcers and rheumatic pains"
-    },
     "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Alstonia Scholaris. A tincture is prepared from the bark of this tree (natural order Apocynaceæ). ► Violent purging and cramp in the bowels, vertigo and general weakness ; sharp purging, with pain, uneasiness in bowels and heat and irritation in the lower bowel. Clinical :- ► Camp diarrha of undigested food ; bloody ; especially of malarial origin, from drinking bad water, or even dysenteric symptoms, with great prostration. ► Has been used in India for the malarial fevers of that country, and it has also been found valuable as a tonic in the debility following exhausting fevers. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
       {
         "text": "color=\"#800000\">ALSTONIA SCHOLARIS Dita Bark Malarial diseases, with diarrhœa, dysentery, anæmia, feeble digestion, are the general conditions suggesting this remedy. Characteristics are the gone sensation in stomach and sinking in abdomen, with debility. A tonic after exhausting fevers.",
         "source_id": "boericke-1927"
@@ -51,6 +48,28 @@
       {
         "text": "The genus of Alstonia takes its name from Alston, a Professor of botany in Edinburgh. Grows 50 to 80 feet high, has a furrowed trunk, oblong stalked leaves 6 inches long, 2 to 4 inches wide, in whorls round stem, upper surface glossy, under one white, and marked with nerves running at right-angles to midrib; taste bitter, but no odour. A. constricta , belonging to the same order, is also recognized by the British Pharmacopceia; the bark is quite dissimilar however, and contains different alkaloids, slightly aromatic odour, taste very bitter, used for same purposes, mainly as a febrifuge in malarial fever, tonic and astringent, with much the same properties as Peruvian bark.",
         "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
+    "stomach_abdomen": [
+      {
+        "text": "Violent purging and cramp in bowels. Heat and irritation in lower bowels. Camp diarrhœa, bloody stool, dysentery; diarrhœa from bad water and malaria. Painless watery stools (Phosph ac). Diarrhœa immediately after eating",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Tincture to third potency. Locally, for ulcers and rheumatic pains",
+      "entries": [
+        {
+          "text": "Infusion of Alstonia, 5 parts to 100 parts water. Dose, 1 fluid ounce. Powdered bark, 2 to 4 grains. In India the natives use the bark for bowel complaints. In Ceylon its light wood is used for coffins. In Borneo the wood close to the root of the same species is very light and of white colour and is used for net floats, household utensils, trenchers, corks, etc.",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
+    },
+    "comparative": [
+      {
+        "text": "[The Vegetable Kingdom] In the order of Apocynacece there are a number of plants which we use as medicines. Among these may be mentioned Apocynum can- nabinum and androscsmifolium, Gelsemium sempervire?is , Vinca minor, Olea?ider, Nux vomica, Ignatia. Curare, Alstonia scholaris, and Spigelia. By some authorities Gelsemium, Nux vomica, Ignatia, Curare, and Spigelia have been included in another order, the Loganiace<z. This order of plants is very poisonous; they depress the nervous system, causing prostration, and even narcosis and paralysis; some of them cause death.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
       }
     ],
     "habitat": [
@@ -126,7 +145,9 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "boericke-1927",
+      "farrington-clinical-1908",
       "grieve-modern-herbal-1931",
       "kings-american-1898"
     ]

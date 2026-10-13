@@ -1,12 +1,15 @@
 {
   "id": "amylis-nitris",
   "names": {
-    "primary": "AMYLIS NITRIS",
-    "latin": "AMYLIS NITRIS",
+    "primary": "Amylis Nitris",
+    "latin": "Amylis Nitris",
     "common": [],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

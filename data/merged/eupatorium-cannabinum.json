@@ -1,14 +1,19 @@
 {
   "id": "eupatorium-cannabinum",
   "names": {
-    "primary": "Eupatorium cannabinum (LINN.)",
-    "latin": "Eupatorium cannabinum (LINN.)",
+    "primary": "Eupatorium Cannabinum",
+    "latin": "Eupatorium Cannabinum",
     "common": [
       "Agrimony (Hemp)"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Eupatorium cannabinum (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

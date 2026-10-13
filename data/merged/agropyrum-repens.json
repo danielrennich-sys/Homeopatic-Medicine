@@ -1,14 +1,19 @@
 {
   "id": "agropyrum-repens",
   "names": {
-    "primary": "Agropyrum repens (BEAUV.)",
-    "latin": "Agropyrum repens (BEAUV.)",
+    "primary": "Agropyrum Repens",
+    "latin": "Agropyrum Repens",
     "common": [
       "Grasses"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Agropyrum repens (BEAUV.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

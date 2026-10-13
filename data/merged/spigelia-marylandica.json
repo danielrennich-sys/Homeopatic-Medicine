@@ -1,14 +1,19 @@
 {
   "id": "spigelia-marylandica",
   "names": {
-    "primary": "Spigelia marylandica (LINN.)",
-    "latin": "Spigelia marylandica (LINN.)",
+    "primary": "Spigelia Marylandica",
+    "latin": "Spigelia Marylandica",
     "common": [
       "Pink Root"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Spigelia marylandica (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "generalities": [
       {

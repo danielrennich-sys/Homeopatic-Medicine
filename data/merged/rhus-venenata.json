@@ -7,11 +7,13 @@
       "Poison-elder"
     ],
     "synonyms": [
-      "RHUS VENENATA",
       "Rhus Venenata. (Rhus Vernix.)"
     ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -256,6 +258,13 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Generalities: Bones, condyles, prominences, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      }
+    ],
     "respiratory": [
       {
         "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Rhus. v.]. Dryness and pain in larynx ; hoarseness. Harsh, dry cough, continuing for more than two weeks.",
@@ -275,6 +284,7 @@
       "allen-encyclopedia-1874",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879"
     ]
   }

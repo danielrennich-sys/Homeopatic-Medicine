@@ -1,12 +1,17 @@
 {
   "id": "arsenicum-sulphuretum",
   "names": {
-    "primary": "ARSENICUM SULPHURETUM FLAVUM",
-    "latin": "ARSENICUM SULPHURETUM FLAVUM",
+    "primary": "Arsenicum Sulphuretum",
+    "latin": "Arsenicum Sulphuretum",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "ARSENICUM SULPHURETUM FLAVUM"
+    ]
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "keynotes": [
       {

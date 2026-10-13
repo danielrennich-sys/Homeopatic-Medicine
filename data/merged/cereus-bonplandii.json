@@ -6,11 +6,12 @@
     "common": [
       "A Night-blooming Cereus Mind.--"
     ],
-    "synonyms": [
-      "CEREUS BONPLANDII"
-    ]
+    "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "generalities": [
       {
@@ -155,6 +156,13 @@
         "text": "Fits of yawning. Drowsy; slept all night without undressing. Dreamed: of large assemblies; of forgotten scenes. Re-dreamed old dreams. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Mmm: Mind, alternating with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      }
     ]
   },
   "evidence": {},
@@ -162,7 +170,8 @@
     "sources": [
       "allen-encyclopedia-1874",
       "boericke-1927",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "boger-synoptic-key-1915"
     ]
   }
 }

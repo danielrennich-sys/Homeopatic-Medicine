@@ -1,14 +1,19 @@
 {
   "id": "carum-petroselinum",
   "names": {
-    "primary": "Carum petroselinum (BENTH.)",
-    "latin": "Carum petroselinum (BENTH.)",
+    "primary": "Carum Petroselinum",
+    "latin": "Carum Petroselinum",
     "common": [
       "Parsley"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Carum petroselinum (BENTH.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

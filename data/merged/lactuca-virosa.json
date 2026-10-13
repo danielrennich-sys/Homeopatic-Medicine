@@ -1,19 +1,21 @@
 {
   "id": "lactuca-virosa",
   "names": {
-    "primary": "LACTUCA VIROSA",
-    "latin": "LACTUCA VIROSA",
+    "primary": "Lactuca Virosa",
+    "latin": "Lactuca Virosa",
     "common": [
       "Acrid Lettuce",
       "Lettuce, Wild"
     ],
     "synonyms": [
-      "Lactuca virosa (LINN.)",
-      "Lactuca Virosa",
-      "Lactuca virosa"
+      "Lactuca virosa (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "mental_emotional": [
       {
@@ -97,7 +99,13 @@
       ]
     },
     "dosing": {
-      "notes": "Tincture"
+      "notes": "Tincture",
+      "entries": [
+        {
+          "text": "Of powder, 10 to 20 grains or more. Of tincture, 30 to 60 drops. Of alcoholic extract, 1 to 5 grains. Of Lactucarium, 5 to 20 grains. Of fluid extract leaves, 1/4 to 1 drachm. Of syrup, U.S.P., 2 drachms. Tincture, U.S.P., 30 drops.",
+          "source_id": "grieve-modern-herbal-1931"
+        }
+      ]
     },
     "keynotes": [
       {
@@ -115,6 +123,48 @@
       {
         "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Lactuca virosa. Mind and Disposition. Anguish and internal uneasiness. Sadness with exaggerated fancies. Head. Vertigo with heaviness of the lower limbs. Giddiness with heaviness of the head, blackness before the eyes, and sensation as if the head were too large and expanded. [5] Difficulty of thinking. Dulness of the head (early in the morning), dull pain in the whole head. Pain in a small spot on the vertex. Heaviness in the occiput with pressure (P.M.). Painful spot near the vertex, the pain increases on touching it. Eyes. [10] Biting in the eyes. Dim-sightedness, sight as through mist or gauze. Muscæ volitantes. The lids are covered with mucus. Face. Heat of the face, with trembling of the lips, and sensation as if they were swollen. [15] Twitching in the lips. Mouth and Throat. Tongue coated white. The tip of the tongue feels burnt. Increased flow of (acrid) saliva. Tenacious mucus in the throat (early in the morning). Stomach and Abdomen. [20] Increased appetite and thirst. Bitter taste in throat, as from bile. Pain in the stomach, with retraction of the pit of the stomach, worse on pressing on the part. Tightness in the pit of the stomach, with anguish in the precordial region coldness in the stomach and sophagus. [25] Stitches in the pylorus. The pains in the stomach are relieved by sitting, bending, or by emission of fetid flatulence. Swelling of the liver with pressure or with tightness when pressing on it. Pinching in the umbilical region, increased by crossing the legs. Ascites, with induration of the liver and asthma. Stool and Anus. [30] Dry, hard, knotty, difficult stool, with burning at the arias. Hæmorrhoidal tumors around the anus, with tenesmus of the rectum. Urinary Organs. Frequent micturition and increased secretion of urine, the urine is ; clear as ; water. Burning at the orifice of the urethra. Dragging pressing in the region of the bladder. Sexual Organs. [35] Swelling of the lymphatic vessels in the penis, with painful erections during the morning slumber. Respiratory Organs. Roughness in the throat after reading aloud. Cough from tickling in the throat, with a feeling of tightness in the chest. Spasmodic, dry, hollow racking cough, as if the chest would fly to pieces. Dry suffocative cough with sensation of coldness in the stomach. [40] Difficult breathing with stitches in the left lobe of the lungs. Frequent desire to take a deep breath, constant desire for air, with oppression of the chest. Sensation as if the lower part of the chest were too tight. Great oppression of the chest at night, waking him from sleep, and obliging him to sit up with anxious suddenness, feels as if he would suffocate, and suddenly he finds himself on his feet in the room. Heaviness on the chest with tightness of breathing. [45] Feeling of fulness in the chest, sensation as if a heavy weight were oppressing the chest, obliging one to loosen the clothing. Cannot bear anything to press on the chest, lest the breathing should become oppressed. Hydrothorax. Congestion of blood to the chest, with pressing and obliging one to breathe hurriedly. Feeling of coldness in the chest. [50] Crampy, pressure in different parts of the chest. Stitches in the chest. Extremities. Upper . Painful twitching in the hands. Trembling of the hands. Lower . Sensation in the legs as if the circulation were suspended, particularly when sitting. [55] Cold feet. Sleep. Irresistible drowsiness, in the day time. Lethargic sleep. Generalities. Sharp, cramp-like twitchings in the neighborhood of the joints. Indescribable feeling of lightness of the body. [60] Bruised feeling in all the limbs. Fever. Pulse slow, contracted, small. Frequent coldness over the back and head, with heat in the face. Chilliness in a warm room, with coldness of the hands and feet. Dry heat of the upper part of the body, with icy coldness of the feet. [65] Profuse perspiration. Skin. dematous swelling of the whole body with asthmatic complaints. Conditions. Wants to sit erect. Amelioration when taking exercise in the open air. Copyright © Médi-T 2006",
         "source_id": "lippe-textbook-mm-1866"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Mammæ: Mammæ, milk, scant, absent, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mammæ"
+      },
+      {
+        "text": "Generalities: Asthmatic: dematous swelling of whole body, with asthmatic complaints",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: From warmth: When sitting erect ; when walking in open air",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Erect: Better when sitting erect",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Sensation of: In body",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: dema: With asthmatic complaints | to open air: Better when walking in open air",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Sitting: Better sitting erect",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Walking: In open air",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
       }
     ],
     "generalities": [
@@ -211,6 +261,8 @@
     "sources": [
       "boericke-1927",
       "cowperthwaite-textbook-1891",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890",
       "grieve-modern-herbal-1931",
       "hering-guiding-1879",
       "lippe-textbook-mm-1866"

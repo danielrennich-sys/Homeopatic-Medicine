@@ -1,12 +1,17 @@
 {
   "id": "bladder-wrack",
   "names": {
-    "primary": "Bladder Wrack. Fucus vesiculosus",
-    "latin": "Bladder Wrack. Fucus vesiculosus",
+    "primary": "Bladder Wrack",
+    "latin": "Bladder Wrack",
     "common": [],
-    "synonyms": []
+    "synonyms": [
+      "Bladder Wrack. Fucus vesiculosus"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "indications": [
       {

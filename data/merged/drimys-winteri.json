@@ -1,14 +1,19 @@
 {
   "id": "drimys-winteri",
   "names": {
-    "primary": "Drimys winteri (FORST.)",
-    "latin": "Drimys winteri (FORST.)",
+    "primary": "Drimys Winteri",
+    "latin": "Drimys Winteri",
     "common": [
       "Winter's Bark"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Drimys winteri (FORST.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

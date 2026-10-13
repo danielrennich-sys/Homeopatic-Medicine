@@ -1,14 +1,19 @@
 {
   "id": "xanthoxylum-americanum",
   "names": {
-    "primary": "Xanthoxylum Americanum (MILL.)",
-    "latin": "Xanthoxylum Americanum (MILL.)",
+    "primary": "Xanthoxylum Americanum",
+    "latin": "Xanthoxylum Americanum",
     "common": [
       "Ash, Prickly"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Xanthoxylum Americanum (MILL.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {

@@ -1,14 +1,17 @@
 {
   "id": "ovininum",
   "names": {
-    "primary": "OVININUM",
-    "latin": "OVININUM",
+    "primary": "Ovininum",
+    "latin": "Ovininum",
     "common": [
       "Ovarian Extract (OOPHORINUM)"
     ],
     "synonyms": []
   },
   "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
   "traditional": {
     "dosing": {
       "notes": "Low triturations"

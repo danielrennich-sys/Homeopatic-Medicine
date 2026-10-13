@@ -1,14 +1,19 @@
 {
   "id": "ulmus-campestris",
   "names": {
-    "primary": "Ulmus campestris (LINN.)",
-    "latin": "Ulmus campestris (LINN.)",
+    "primary": "Ulmus Campestris",
+    "latin": "Ulmus Campestris",
     "common": [
       "Elm, Common"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Ulmus campestris (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

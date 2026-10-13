@@ -7,11 +7,15 @@
       "Queen's Delight"
     ],
     "synonyms": [
-      "STILLINGIA SYLVATICA",
+      "Stillingia. Stillingia sylvatica",
       "Stillingia sylvatica (LINN.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic",
+    "herbal"
+  ],
   "traditional": {
     "keynotes": [
       {
@@ -220,6 +224,50 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Lower Limbs: Lower limbs, tibia, shin.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lower Limbs"
+      },
+      {
+        "text": "Lll: Legs, ache.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Sss: Stool, gray.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Tibiæ, pains in; Tibiæ, syphilis.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      }
+    ],
+    "indications": [
+      {
+        "text": "Specific Symptomatology—Irritation of the mucous membranes of the bronchial tubes, larynx, throat and both nasal cavities, deficient secretion, membranes red and tumid or glistening, blood dyscrasia with general enfeeblement, skin diseases of a moist character, red and irritable.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "Therapy—The application of this substance to the chest with the internal use of small doses of the tincture will be found of great benefit in bronchial cough where there is a sensation of tightness in the chest, where the cough is hoarse and croupal without secretion. It has long been used in conjunction with lobelia in the treatment of croup.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "As an alterative it has taken front rank with Eclectics for fifty years. it is in general use in syphilis, in scrofula, in blood taint of any character, in tubercular disease, and in the cancerous diathesis.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "The American Materia Medica, Therapeutics and Pharmacognosy, 1919, was written by Finley Ellingwood, M.D.It was scanned by Michael Moore for the Southwest School of Botanical Medicine.",
+        "source_id": "ellingwood-1919"
+      },
+      {
+        "text": "In large doses it is emetic and purgative causing a disagreeable, peculiar, burning sensation in the stomach or alimentary canal with considerable prostration of the system; in smaller doses it is an excellent alterative, and influences the secretory functions; it has almost a specific action in the different forms of primary and secondary syphilis, also in skin diseases, scrofula and hepatic affections, acting with most successful results. The fluid extract combined with oils of anise or caraway, proves very beneficial in chronic bronchitis and laryngitis. Some pieces of fresh root chewed daily have permanently and effectually cured these troubles, it is also useful for leucorrhoea. The oil is too acrid for internal use uncombined with saccharine or mucilaginous substance, for internal use the fluid extract or syrup is sufficiently efficacious. As an external stimulating application in most cases the oil will be found very valuable. For croup 1 drop on the tongue three or four times daily, has been found successful for severe attacks. The dried root is said to be inferior in strength to the fresh one, but some chemists consider it more powerful. It may be given either alone or combined with sarsaparilla and other alteratives. It acts reflexly as a sialagogue and expectorant. It is often given for syphilitic complaints in place of mercury.",
+        "source_id": "grieve-modern-herbal-1931"
+      }
+    ],
     "habitat": [
       {
         "text": "In the southern United States of America from Virginia to Florida and westward to Texas.",
@@ -229,12 +277,6 @@
     "constituents": [
       {
         "text": "Its resinous acrid constituent is Sylvacrol, an acrid fixed oil, volatile oil, tannin, starch, calcium oxalate. Woody fibre, colouring matter extractive.",
-        "source_id": "grieve-modern-herbal-1931"
-      }
-    ],
-    "indications": [
-      {
-        "text": "In large doses it is emetic and purgative causing a disagreeable, peculiar, burning sensation in the stomach or alimentary canal with considerable prostration of the system; in smaller doses it is an excellent alterative, and influences the secretory functions; it has almost a specific action in the different forms of primary and secondary syphilis, also in skin diseases, scrofula and hepatic affections, acting with most successful results. The fluid extract combined with oils of anise or caraway, proves very beneficial in chronic bronchitis and laryngitis. Some pieces of fresh root chewed daily have permanently and effectually cured these troubles, it is also useful for leucorrhoea. The oil is too acrid for internal use uncombined with saccharine or mucilaginous substance, for internal use the fluid extract or syrup is sufficiently efficacious. As an external stimulating application in most cases the oil will be found very valuable. For croup 1 drop on the tongue three or four times daily, has been found successful for severe attacks. The dried root is said to be inferior in strength to the fresh one, but some chemists consider it more powerful. It may be given either alone or combined with sarsaparilla and other alteratives. It acts reflexly as a sialagogue and expectorant. It is often given for syphilitic complaints in place of mercury.",
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
@@ -269,6 +311,8 @@
       "allen-encyclopedia-1874",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
+      "boger-synoptic-key-1915",
+      "ellingwood-1919",
       "grieve-modern-herbal-1931",
       "hering-guiding-1879"
     ]

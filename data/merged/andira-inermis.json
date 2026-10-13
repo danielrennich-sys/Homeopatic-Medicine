@@ -1,14 +1,17 @@
 {
   "id": "andira-inermis",
   "names": {
-    "primary": "Andira inermis",
-    "latin": "Andira inermis",
+    "primary": "Andira Inermis",
+    "latin": "Andira Inermis",
     "common": [
       "Cabbage Tree"
     ],
     "synonyms": []
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

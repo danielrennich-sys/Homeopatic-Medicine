@@ -1,14 +1,19 @@
 {
   "id": "pistacia-lentiscus",
   "names": {
-    "primary": "Pistacia Lentiscus (LINN.)",
-    "latin": "Pistacia Lentiscus (LINN.)",
+    "primary": "Pistacia Lentiscus",
+    "latin": "Pistacia Lentiscus",
     "common": [
       "Mastic"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Pistacia Lentiscus (LINN.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "preparation": [
       {

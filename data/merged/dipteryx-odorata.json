@@ -1,14 +1,19 @@
 {
   "id": "dipteryx-odorata",
   "names": {
-    "primary": "Dipteryx odorata (WILLD.)",
-    "latin": "Dipteryx odorata (WILLD.)",
+    "primary": "Dipteryx Odorata",
+    "latin": "Dipteryx Odorata",
     "common": [
       "Tonquin Bean"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Dipteryx odorata (WILLD.)"
+    ]
   },
   "category": "herbal",
+  "categories": [
+    "herbal"
+  ],
   "traditional": {
     "habitat": [
       {

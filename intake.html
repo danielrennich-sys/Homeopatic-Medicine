@@ -171,6 +171,34 @@ body {
 }
 .urgent strong { color: #ff8a8a; }
 .urgent ul { margin: 6px 0 0 18px; }
+.hint { color: #71767b; font-size: 0.85rem; margin-bottom: 14px; line-height: 1.5; }
+.fit { color: #7ec8a0; font-size: 1.05rem; font-weight: 700; }
+.fit small { color: #71767b; font-weight: 400; font-size: 0.72rem; margin-left: 6px; }
+.verdict {
+    margin-top: 10px; padding: 10px 12px; border-radius: 8px;
+    background: #141a21; border: 1px solid #2f3336; color: #c9ccd1; font-size: 0.84rem; line-height: 1.5;
+}
+.verdict strong { color: #e0c46b; }
+.passage {
+    margin-top: 8px; padding: 8px 10px 8px 12px; border-left: 3px solid #2f3336;
+    background: #11161c; border-radius: 0 6px 6px 0; font-size: 0.8rem; line-height: 1.5; color: #a9adb3;
+}
+.passage.key { border-left-color: #7ec8a0; color: #d4d7db; background: #13201a; }
+.passage .ptag { display: block; color: #6bb3d9; font-size: 0.7rem; margin-bottom: 3px; }
+.passage .ptag em { color: #7ec8a0; font-style: normal; margin-left: 6px; }
+.toggle-link { color: #6bb3d9; font-size: 0.78rem; cursor: pointer; margin-top: 6px; display: inline-block; }
+.safety {
+    margin-top: 10px; padding: 8px 10px; border-radius: 8px; font-size: 0.78rem; line-height: 1.5;
+    background: #2a1f14; border: 1px solid #8a5a2a; color: #e6c9a8;
+}
+.safety strong { color: #ffb366; }
+.safety .hot { color: #ffb3b3; }
+.overall {
+    background: #1d2a3a; border: 1px solid #4a7a9e; border-radius: 10px; padding: 12px; margin: 10px 0;
+    color: #b0b3b8; font-size: 0.84rem; line-height: 1.55;
+}
+.overall .t { color: #6bb3d9; font-weight: 600; font-size: 0.85rem; margin-bottom: 4px; }
+input[type=range] { width: 100%; accent-color: #7ec8a0; }
 
 /* Modal */
 .modal-overlay {
@@ -234,8 +262,88 @@ body {
 
     <form id="intakeForm">
 
-    <!-- STEP 0: Chief Complaint -->
+    <!-- STEP 0: The patient's own account -->
     <div class="form-step active" data-step="0">
+        <h2>Your Story</h2>
+        <p class="hint">Start in your own words. Everything you write here is used as the <em>context</em> for the search &mdash;
+            the books are read against your whole account, not just the words in it. Please don&rsquo;t include your name or other identifying details.</p>
+        <div class="field">
+            <label>What&rsquo;s going on? Describe what you&rsquo;re experiencing, how it started, and how it affects you</label>
+            <textarea name="story" rows="6" placeholder="e.g. For about three weeks I've had a dull, pressing headache over my forehead that builds through the afternoon. It started the week after a bad cold. I feel foggy and irritable, and bright light makes it worse. Lying down in a dark room helps a little."></textarea>
+        </div>
+        <div class="field">
+            <label>What do you think it is, or what do you think is causing it?</label>
+            <textarea name="patient_theory" rows="3" placeholder="e.g. I suspect it's my sinuses left over from the cold, plus stress at work"></textarea>
+        </div>
+        <div class="two-col">
+            <div class="field">
+                <label>Age</label>
+                <input type="number" name="age" min="0" max="120" placeholder="years">
+            </div>
+            <div class="field">
+                <label>Sex</label>
+                <select name="sex">
+                    <option value="">-- Select --</option>
+                    <option>Female</option><option>Male</option>
+                    <option>Other / prefer not to say</option>
+                </select>
+            </div>
+        </div>
+        <div class="two-col">
+            <div class="field">
+                <label>Pregnant or breastfeeding?</label>
+                <select name="pregnancy">
+                    <option value="">Not applicable</option>
+                    <option>Pregnant</option><option>Breastfeeding</option>
+                    <option>Trying to conceive</option>
+                </select>
+            </div>
+            <div class="field">
+                <label>When did this start?</label>
+                <select name="onset">
+                    <option value="">-- Select --</option>
+                    <option>hours ago</option><option>days ago</option>
+                    <option>1-4 weeks ago</option><option>1-6 months ago</option>
+                    <option>6-12 months ago</option><option>more than a year ago</option>
+                    <option>in childhood</option>
+                </select>
+            </div>
+        </div>
+        <div class="two-col">
+            <div class="field">
+                <label>Course</label>
+                <select name="course">
+                    <option value="">-- Select --</option>
+                    <option>Acute - came on suddenly</option>
+                    <option>Acute - gradual onset</option>
+                    <option>Chronic / long-standing</option>
+                    <option>Recurring episodes</option>
+                    <option>Flare-up of a chronic problem</option>
+                </select>
+            </div>
+            <div class="field">
+                <label>Pattern</label>
+                <select name="pattern">
+                    <option value="">-- Select --</option>
+                    <option>Constant</option><option>Comes and goes</option>
+                    <option>Worse at certain times of day</option>
+                    <option>Getting worse</option><option>Getting better</option>
+                    <option>Unchanged</option>
+                </select>
+            </div>
+        </div>
+        <div class="field">
+            <label>How much does it affect daily life? <span style="color:#7ec8a0">(<span id="severityVal">5</span>/10)</span></label>
+            <input type="range" name="severity" min="1" max="10" value="5" oninput="document.getElementById('severityVal').textContent=this.value">
+        </div>
+        <div class="notice" style="margin-top:6px">
+            <strong>Where your answers go:</strong> to search the books, your answers are sent to Anthropic&rsquo;s Claude AI through this site&rsquo;s own proxy
+            (or your own API key, if you set one in Settings). Nothing is stored by this site. Leave out names, addresses and anything that identifies you.
+        </div>
+    </div>
+
+    <!-- STEP 1: Chief Complaint -->
+    <div class="form-step" data-step="1">
         <h2>Chief Complaint</h2>
         <p style="color:#71767b;font-size:0.85rem;margin-bottom:14px">Describe your main concern. You can add multiple symptoms.</p>
         <div id="symptomList">
@@ -405,7 +513,7 @@ body {
     </div>
 
     <!-- STEP 1: Mental / Emotional -->
-    <div class="form-step" data-step="1">
+    <div class="form-step" data-step="2">
         <h2>Mental & Emotional State</h2>
         <div class="field">
             <label>Current emotional state (select all that apply)</label>
@@ -436,7 +544,7 @@ body {
     </div>
 
     <!-- STEP 2: Constitutional -->
-    <div class="form-step" data-step="2">
+    <div class="form-step" data-step="3">
         <h2>Constitution & Generals</h2>
         <div class="two-col">
             <div class="field">
@@ -488,7 +596,7 @@ body {
     </div>
 
     <!-- STEP 3: Sleep -->
-    <div class="form-step" data-step="3">
+    <div class="form-step" data-step="4">
         <h2>Sleep & Perspiration</h2>
         <div class="two-col">
             <div class="field">
@@ -546,7 +654,7 @@ body {
     </div>
 
     <!-- STEP 4: Systems Review -->
-    <div class="form-step" data-step="4">
+    <div class="form-step" data-step="5">
         <h2>Systems Review</h2>
         <p style="color:#71767b;font-size:0.85rem;margin-bottom:14px">Note any ongoing or recurring issues in these areas.</p>
         <div class="field">
@@ -572,7 +680,7 @@ body {
     </div>
 
     <!-- STEP 5: History -->
-    <div class="form-step" data-step="5">
+    <div class="form-step" data-step="6">
         <h2>History & Additional Info</h2>
         <div class="field">
             <label>Past medical conditions or significant illnesses</label>
@@ -621,7 +729,7 @@ body {
 <script>
 // === CONFIG ===
 const STEPS = [
-    'Chief Complaint', 'Mental / Emotional', 'Constitution',
+    'Your Story', 'Chief Complaint', 'Mental / Emotional', 'Constitution',
     'Sleep & Perspiration', 'Systems Review', 'History'
 ];
 const EMOTIONS = [
@@ -779,8 +887,13 @@ function submitForm() {
         payload._checked.push(cb.value);
     });
 
-    if (!HomeopathyDB.ready) {
-        alert('Database is still loading. Please wait a moment.');
+    if (!HomeopathyDB.passagesReady) {
+        alert('The passage index is still loading. Please wait a moment.');
+        return;
+    }
+    if (!(payload.story || '').trim() && !Object.keys(payload).some(k => /^sx_desc_/.test(k))) {
+        alert('Please describe what is going on in "Your Story" or add at least one symptom.');
+        showStep(0);
         return;
     }
 
@@ -789,11 +902,11 @@ function submitForm() {
     btn.textContent = hasAI ? 'AI Agent analyzing...' : 'Searching...';
     btn.disabled = true;
 
-    HomeopathyDB.intakeMatch(payload)
+    HomeopathyDB.intakeMatch(payload, msg => { btn.textContent = msg; })
         .then(data => {
             btn.textContent = 'Find Matching Remedies';
             btn.disabled = false;
-            renderIntakeResults(data, scanRedFlags(payload));
+            renderIntakeResults(data, scanRedFlags(payload), payload);
         })
         .catch(err => {
             btn.textContent = 'Find Matching Remedies';
@@ -821,13 +934,17 @@ const RED_FLAGS = [
 
 function scanRedFlags(payload) {
     const text = Object.entries(payload)
-        .filter(([k]) => /^sx_desc_|^additional$|^past_medical$/.test(k))
+        .filter(([k]) => /^sx_desc_|^additional$|^past_medical$|^story$|^patient_theory$/.test(k))
         .map(([, v]) => Array.isArray(v) ? v.join(' ') : String(v))
         .join(' ').toLowerCase();
-    return RED_FLAGS.filter(([re]) => re.test(text)).map(([, label]) => label);
+    const flags = RED_FLAGS.filter(([re]) => re.test(text)).map(([, label]) => label);
+    const age = parseFloat(payload.age);
+    if (!isNaN(age) && age < 2 && /fever|temperature|hot|burning up/.test(text) && !flags.includes('Fever in an infant')) flags.push('Fever in an infant');
+    if (/pregnan|breastfeed/i.test(String(payload.pregnancy || '')) && /bleed|cramp|severe pain/.test(text) && !flags.includes('Bleeding or pain during pregnancy')) flags.push('Bleeding or pain during pregnancy');
+    return flags;
 }
 
-function renderIntakeResults(data, redFlags = []) {
+function renderIntakeResults(data, redFlags = [], payload = {}) {
     const panel = document.getElementById('resultsPanel');
     panel.classList.add('active');
 
@@ -841,37 +958,50 @@ function renderIntakeResults(data, redFlags = []) {
             ${data.urgent_warning ? `<div style="margin-top:6px">${esc(data.urgent_warning)}</div>` : ''}
         </div>`;
     }
-    infoHtml += `Found ${data.results.length} matching remedies based on ${data.keywords_used} symptom analysis groups.
-        <span class="badge badge-db">Found in sources</span> means your symptoms matched the remedy's text in the books;
-        <span class="badge badge-ai">AI suggestion</span> means the AI proposed it from its own knowledge.`;
+    const n = data.results.length;
+    if (data.mode === 'ai') {
+        infoHtml += `${n} candidate remedies. The AI planned the search from your story, ${HomeopathyDB.passageCount.toLocaleString()} passages were searched for symptoms occurring <em>together</em>, and the AI then read each remedy's quoted passages in the context of your account.`;
+    } else {
+        infoHtml += `${n} candidate remedies from keyword matching across ${HomeopathyDB.passageCount.toLocaleString()} passages (${data.keywords_used} symptom groups).`;
+        if (data.ai_failed) infoHtml += ` <span style="color:#d9a86b">The AI was unavailable${data.ai_error ? ' (' + esc(data.ai_error) + ')' : ''}, so this is a keyword-only result.</span>`;
+    }
+    infoHtml += `<div style="margin-top:6px"><span class="badge badge-db">Found in sources</span> = quoted from the books below &nbsp;
+        <span class="badge badge-ai">AI suggestion</span> = proposed from the AI's own knowledge</div>`;
     if (data.ai_analysis) {
         infoHtml += `<div style="background:#1d3a2d;border:1px solid #4a9a6e;border-radius:10px;padding:12px;margin:10px 0">
-            <div style="color:#7ec8a0;font-weight:600;font-size:0.85rem;margin-bottom:4px">AI Repertorization Analysis</div>
+            <div style="color:#7ec8a0;font-weight:600;font-size:0.85rem;margin-bottom:4px">How the AI read your case</div>
             <div style="color:#b0b3b8;font-size:0.84rem;line-height:1.5">${esc(data.ai_analysis)}</div>
-            ${data.ai_reasoning ? `<div style="color:#8b8f94;font-size:0.8rem;margin-top:6px;border-top:1px solid #2f3336;padding-top:6px"><strong style="color:#6bb3d9">Reasoning:</strong> ${esc(data.ai_reasoning)}</div>` : ''}
+            ${data.ai_reasoning ? `<div style="color:#8b8f94;font-size:0.8rem;margin-top:6px;border-top:1px solid #2f3336;padding-top:6px">${esc(data.ai_reasoning)}</div>` : ''}
         </div>`;
+    }
+    if (data.reading_overall) {
+        infoHtml += `<div class="overall"><div class="t">What the books say, read in context</div>${esc(data.reading_overall)}</div>`;
     }
     document.getElementById('resultsInfo').innerHTML = infoHtml;
 
     const list = document.getElementById('resultsList');
     list.innerHTML = data.results.map((r, i) => {
-        const pct = r.pct || Math.round((r.score / (data.results[0]?.score || 1)) * 100);
-        const inSources = r.db_score > 0;
+        const inSources = r.db_score > 0 && r.passages.length > 0;
         const sourceBadges = (inSources ? '<span class="badge badge-db">Found in sources</span> ' : '') +
-            (r.ai_suggested ? `<span class="badge badge-ai">${inSources ? 'AI suggestion' : 'AI suggestion only &mdash; not matched in source texts'}</span>` : '');
-        const matchedLine = r.matched_keywords.length
-            ? `<div style="margin-top:4px;color:#71767b;font-size:0.78rem">Matched in texts: ${esc(r.matched_keywords.slice(0, 5).join(', '))}</div>`
-            : '';
-        const summary = r.ai_reason || '';
+            (r.ai_suggested ? `<span class="badge badge-ai">${inSources ? 'AI suggestion' : 'AI suggestion only &mdash; nothing matched in the source texts'}</span>` : '');
+        const scoreHtml = r.fit != null
+            ? `<span class="fit">Fit ${r.fit}/10<small>source match ${r.pct}%</small></span>`
+            : `<span class="fit">${r.pct}%<small>source match</small></span>`;
+        const keyP = r.passages.filter(p => p.key);
+        const shown = keyP.length ? keyP : r.passages.slice(0, 2);
+        const hidden = r.passages.filter(p => !shown.includes(p));
+        const pHtml = p => `<div class="passage ${p.key ? 'key' : ''}">
+                <span class="ptag">${esc(p.section)}${p.source ? ' &middot; ' + esc(p.source) : ''}<em>${esc(p.group)}</em></span>
+                &ldquo;${esc(p.text.length > 460 ? p.text.slice(0, 460) + '&hellip;' : p.text)}&rdquo;</div>`;
         return `
-        <div class="result-card" onclick="showDetail('${r.id}')">
-            <div style="display:flex;justify-content:space-between;align-items:baseline">
+        <div class="result-card" style="cursor:default" id="rc-${i}">
+            <div style="display:flex;justify-content:space-between;align-items:baseline;gap:10px">
                 <div>
                     <span style="color:#71767b;font-size:0.85rem;font-weight:600;margin-right:6px">#${i + 1}</span>
-                    <span class="result-name">${esc(r.primary)}</span>
+                    <span class="result-name" style="cursor:pointer" onclick="showDetail('${r.id}')">${esc(r.primary)}</span>
                     ${r.latin !== r.primary ? `<span class="result-latin"> ${esc(r.latin)}</span>` : ''}
                 </div>
-                <span style="color:#7ec8a0;font-size:0.95rem;font-weight:700">${r.score} hits</span>
+                ${scoreHtml}
             </div>
             <div style="margin-top:6px">${sourceBadges}</div>
             <div style="margin-top:4px">
@@ -880,11 +1010,15 @@ function renderIntakeResults(data, redFlags = []) {
                 ${r.has_traditional ? '<span class="badge" style="background:#3a2d1d;color:#d9a86b">Traditional</span>' : ''}
                 ${r.has_evidence ? '<span class="badge" style="background:#2d1d3a;color:#b36bd9">Evidence</span>' : ''}
             </div>
-            <div class="match-bar"><div class="match-fill" style="width:${pct}%"></div></div>
-            ${summary ? `<div style="margin-top:8px;color:#b0b3b8;font-size:0.84rem;line-height:1.5"><strong style="color:#e0c46b">AI:</strong> ${esc(summary)}</div>` : ''}
-            ${matchedLine}
+            <div class="match-bar"><div class="match-fill" style="width:${r.pct}%"></div></div>
+            ${r.verdict ? `<div class="verdict"><strong>Read in context:</strong> ${esc(r.verdict)}</div>` : ''}
+            ${r.ai_reason ? `<div style="margin-top:8px;color:#b0b3b8;font-size:0.82rem;line-height:1.5"><strong style="color:#e0c46b">AI suggestion:</strong> ${esc(r.ai_reason)}</div>` : ''}
+            ${shown.map(pHtml).join('')}
+            ${hidden.length ? `<span class="toggle-link" onclick="this.nextElementSibling.style.display='block';this.remove()">Show ${hidden.length} more matching passage${hidden.length > 1 ? 's' : ''}</span><div style="display:none">${hidden.map(pHtml).join('')}</div>` : ''}
+            ${!r.passages.length ? `<div style="margin-top:8px;color:#71767b;font-size:0.8rem">No passage in the source texts matched this remedy to your symptoms.</div>` : ''}
+            <div class="safety" id="safety-${i}" style="display:none"></div>
             <div style="text-align:right;margin-top:8px">
-                <span style="color:#6bb3d9;font-size:0.82rem;cursor:pointer">View full remedy details &rarr;</span>
+                <span style="color:#6bb3d9;font-size:0.82rem;cursor:pointer" onclick="showDetail('${r.id}')">View full remedy details &rarr;</span>
             </div>
         </div>`;
     }).join('') + (data.ai_unmatched && data.ai_unmatched.length ? `
@@ -892,6 +1026,23 @@ function renderIntakeResults(data, redFlags = []) {
             <div style="color:#e0c46b;font-weight:600;font-size:0.88rem;margin-bottom:6px">Also suggested by the AI, but not in this database</div>
             ${data.ai_unmatched.map(u => `<div style="color:#b0b3b8;font-size:0.82rem;margin-top:4px"><strong>${esc(u.name)}</strong>${u.reason ? ' &mdash; ' + esc(u.reason) : ''}</div>`).join('')}
         </div>` : '');
+
+    // NIH safety notes, filled in asynchronously per remedy
+    const preg = /pregnan|breastfeed|conceive/i.test(String(payload.pregnancy || ''));
+    const meds = String(payload.medications || '').trim();
+    data.results.forEach(async (r, i) => {
+        const el = document.getElementById(`safety-${i}`);
+        if (!el || !r.has_evidence) return;
+        const sn = await HomeopathyDB.getSafetyNotes(r.id);
+        const rows = [];
+        if (sn.lactation) rows.push(`<div class="${preg ? 'hot' : ''}"><strong>Pregnancy / breastfeeding (LactMed):</strong> ${esc(sn.lactation.text)}</div>`);
+        if (sn.interactions) rows.push(`<div class="${meds ? 'hot' : ''}"><strong>Drug interactions${meds ? ' &mdash; you listed medications' : ''}:</strong> ${esc(sn.interactions.text)}</div>`);
+        if (sn.hepatotoxicity) rows.push(`<div><strong>Liver (LiverTox):</strong> ${esc(sn.hepatotoxicity.text)}</div>`);
+        if (sn.adverse) rows.push(`<div><strong>Documented adverse effects:</strong> ${esc(sn.adverse.text)}</div>`);
+        if (!rows.length) return;
+        el.innerHTML = `<strong>Safety notes from NIH sources</strong> (about the substance in material doses; see full details for context)${rows.join('')}`;
+        el.style.display = 'block';
+    });
 
     panel.scrollIntoView({behavior: 'smooth'});
 }
@@ -965,12 +1116,12 @@ function switchTab(id) {
 init();
 
 // Load the database engine
-HomeopathyDB.loadSearchIndex().then(ok => {
+HomeopathyDB.loadPassageIndex().then(ok => {
     if (ok) {
         const statusDiv = document.createElement('div');
         statusDiv.style.cssText = 'text-align:center;font-size:0.8rem;padding:4px;color:#71767b';
         const hasAI = HomeopathyDB.Settings.hasAI;
-        statusDiv.innerHTML = `${HomeopathyDB.remedyCount} remedies loaded` +
+        statusDiv.innerHTML = `${HomeopathyDB.remedyCount.toLocaleString()} remedies, ${HomeopathyDB.passageCount.toLocaleString()} passages loaded` +
             (hasAI
                 ? ' &mdash; <span style="color:#7ec8a0">AI Agent active</span>'
                 : ' &mdash; <span style="color:#d9a86b">Keyword mode</span> (<a href="settings.html" style="color:#6bb3d9">add API key for AI</a>)');

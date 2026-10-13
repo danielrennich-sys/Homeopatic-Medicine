@@ -216,6 +216,23 @@
         "text": "Heat of head; as the heat increased the head was involuntarily turned from side to side. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Ddd: Diversion, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Nnn: Nymphomania.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Sss: Sexual, appetite, increased; Sexual, excitement.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      }
     ]
   },
   "evidence": {},
@@ -226,6 +243,7 @@
       "allen-encyclopedia-1874",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879",
       "kings-american-1898"
     ]

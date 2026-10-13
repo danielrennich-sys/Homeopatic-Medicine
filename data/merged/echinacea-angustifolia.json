@@ -206,6 +206,73 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "Time: Time, periodically, yearly, agg.; Time, morning, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Aaa: Aching.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Boils, crops of; Brows, along.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ddd: Dreams, laborious, exhausting.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Ggg: Gums, abscess.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Hands, numb; Hands, numb, alternating.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Iii: Irregular.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      },
+      {
+        "text": "Lll: Limbs, numb; Liver, lump, below; Liver, posterior; Lochia, foul.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Nnn: Nausea, chill, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Pus, acrid.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Rrr: Rheumatism, tonsilitis, after.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Scapulæ, burning; Sepsis; Sternum, lump; Suppuration, abscess.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Www: Weak.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      }
+    ],
     "indications": [
       {
         "text": "Synonym—Black Sampson, cone flower, purple cone flower.",
@@ -554,6 +621,7 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "grieve-modern-herbal-1931"
     ]

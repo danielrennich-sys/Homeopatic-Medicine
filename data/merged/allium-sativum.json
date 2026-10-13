@@ -270,6 +270,13 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Ggg: Gluttony, gross feeders, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      }
+    ],
     "indications": [
       {
         "text": "Synonyms—Garlic, Onion.",
@@ -399,6 +406,13 @@
         "text": "REST. POSITION. MOTION. [35] [All. s.]. Lying down : relieves pain in abdomen. Lying on back : dull pain in occiput. In bed : pain in tendon < ; cold at night. Must sit bent forward : with pain in epigastrium. Rising from a seat : transient vertigo. Motion : increases pain in common tendon of iliac and psoas muscles ; makes rheumatism <. Every step : causes excruciating pain in intestines. Night : catarrhal ophthalmia. Morning : dull pain in occiput ; heaviness of head and accumulation of mucus in throat ; cutting pain in sacrum ; rheumatic pains worse. Forenoon : jerking in jaws and upper molars ; pressure in epigastrium and transverse colon. Afternoon : sweat. Worse in open air : chest complaints. Change of temperature : pains in limbs worse. Moist heat : pains in limbs worse. Damp cold weather : tearing and stinging in different parts of body.",
         "source_id": "hering-guiding-1879"
       }
+    ],
+    "comparative": [
+      {
+        "text": "[The Ammonium Preparations] Allium cepa cures ulcers on the heel when developed by friction of the shoe or stocking.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ammonium Preparations"
+      }
     ]
   },
   "evidence": {
@@ -449,6 +463,7 @@
       "allen-encyclopedia-1874",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "felter-eclectic-1922",
       "grieve-modern-herbal-1931",
@@ -456,6 +471,7 @@
       "hering-guiding-1879",
       "lactmed-nih",
       "nccih",
+      "farrington-clinical-1908",
       "kings-american-1898"
     ]
   }

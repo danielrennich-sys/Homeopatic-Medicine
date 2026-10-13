@@ -1,0 +1,53 @@
+{
+  "id": "justitia-adhatoda",
+  "names": {
+    "primary": "Justitia Adhatoda",
+    "latin": "Justitia Adhatoda",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Cough: Cough, spasmodic, violent, whooping, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Cough"
+      },
+      {
+        "text": "Aaa: Asthma, coryza, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Ddd: Dropsy, in A.M..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Ooo: dema.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ooo"
+      },
+      {
+        "text": "Rrr: Respiration, cough, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Smell, and taste, lost; Stiffens out.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

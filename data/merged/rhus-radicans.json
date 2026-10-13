@@ -1,0 +1,79 @@
+{
+  "id": "rhus-radicans",
+  "names": {
+    "primary": "Rhus Radicans",
+    "latin": "Rhus Radicans",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Cold, amel.; uncovering or cold bathing or applications, amel., heat of bed, wraps, etc., agg.; Drinking, agg.; Drinking, warm, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Sss: Storms, after, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Generalities: From warmth: Walking in open air | Bones: Pains where tendons are connected with muscles of bones especially during action of muscles",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Fainting with coldness of: Worse after drinking cold water | Connected: Pains where tendons are connected with muscles or bones, especially during action of muscles | Crepitation: Sensations of, in joints on moving",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Op. Drinking: Worse after drinking cold water",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Joints: Sensation of crepitation in joints on moving",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Muscles: Pains where tendons are connected with muscles or bones, especially during action of muscles",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Constantly change location: Were tendons are connected with muscles or bones, especially during action of muscles | Wandering: Sometimes on one side sometimes on the other",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Of constriction: Of crepitation in joints on moving | Side: Wandering pains, sometimes on one side sometimes on other",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Tendons: Pains where tendons are connected with muscles or bones especially during action of muscles",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Walking: In open air | Pain: Sometimes on one side, sometimes on the other | On rising: When beginning to move ; after drinking cold water",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890"
+    ]
+  }
+}

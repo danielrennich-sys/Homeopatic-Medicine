@@ -1,0 +1,133 @@
+{
+  "id": "oleum-animalis",
+  "names": {
+    "primary": "Oleum Animalis",
+    "latin": "Oleum Animalis",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Generalities: Bones, marrow.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Saliva: Saliva, frothy, snowy, cottony, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Saliva"
+      },
+      {
+        "text": "Genitals: Genitals, alternating between.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Genitals"
+      },
+      {
+        "text": "Nipples: Nipples, outward, going pains.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nipples"
+      },
+      {
+        "text": "Aaa: Adherent.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Bones, torn loose, flesh [[as if]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Chill, heat and, alternate; Cowardice.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Eee: Egg, albumen [[sensation]]; Eructations, urinous.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Fishy; Foot, sweat, foul.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Ggg: Gait, shuffling; Greasy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Hawking, mucus, tough; Head, polyuria, with; Heart, palpitation, nervous, anxious; Hot, iron, wires, needles, etc., as of.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Iii: Icy cold; Introverted.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      },
+      {
+        "text": "Lll: Lachrymation, eating, agg.; Larynx, streak; Lips, egg, albumen on [[as if]]; Lips, twitch, spasm.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Mmm: Malar bones; Mammæ, menses, before, agg.; Mammæ, outward dartings.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Nerves, prostration; Nipples, outward darts.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Palate, greasy; Pulse, slow.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Rrr: Raw.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Scapulæ; Scapulæ, right; Skin, flexures; Sore; Stomach, reflexes; Stomach, throbbing.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Teeth, biting, amel.; Throat, vapor in; Torn loose [[internal sensation]]; Trembling, quivering.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Urine, scanty, then headache; Urinous odor.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vertigo, bending back, amel.; Vision, glimmering, glittering.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Www: Waterbrash, tobacco, amel.; Whispers.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

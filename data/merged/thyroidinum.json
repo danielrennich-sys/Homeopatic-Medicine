@@ -180,6 +180,98 @@
         "text": "Flushing: with nausea; with loss of consciousness. Always felt hot, and had a sensation of Sickness after the injections. Felt better and warmer. Flushing of upper part of body and pains in back. Temperature never rose above 99° but she felt feverish and thirsty. Temperature rose to 100° F., and remained there several days; pulse 112. Rise of temperature; diaphoresis. Profuse perspiration on least exertion. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Heart, Circulation And Pulse: Heart, circulation and pulse, arms, left, to.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Heart, Circulation And Pulse"
+      },
+      {
+        "text": "Skin: Skin, eruptions, psoriasis.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Skin"
+      },
+      {
+        "text": "Aaa: Abdomen, thighs, into; Arms, veins.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Bearing down; Blood, rushes of, downward; Bursting.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Chill, cold, etc.; Choking; Clutching; Cough, coughing, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Dry.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Eee: Ears, noises, tinnitus, Meniere's disease; Emaciation, atrophy, etc.; Eyes, over.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Faint; Fingers, numb; Flatulence, rolling.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Hair, body, over; Hair, falling; Hands, clammy; Hands, cold; Hands, cold, left; Hands, icy; Hands, restless, busy; Heart; Heart, axillæ to; Heart, clutching; Heart, ears to; Heart, goitre heart; Heart, hypertrophy; Heart, palpitation; Heart, palpitation, hammering; Heart, palpitation, lying, agg.; Heart, palpitation, stooping, agg.; Heart, short breath; Heat, chill, then; Heat, flushes.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Iii: Irritable.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      },
+      {
+        "text": "Lll: Larynx, dry; Legs, blood rushes of; Legs, numb; Lies down; Lips, dry; Lips, red; Liver, cutting; Liver, deep in, breath, agg.; Lying, abdomen, on, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Mmm: Musty, moldy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Nerves, nervous; Nose, dry; Numb, diagonal.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Pelvis, thighs to; Persecution, ideas of; Pulse, rapid; Pustules.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Skin; Skin, branny; Skin, scaly, scurfy; Stool, flatulent, gassy, noisy, spluttering; Sweat, musty; Sweat, oily; Sweat, profuse, drenching.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Taste, metallic, coppery, etc.; Thinking, of if, agg.; Throat, dry; Throat, splinter, stick, etc.; Tongue, tip.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Uterus, gnawing.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Www: Weak; Wind, as of a.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      }
     ]
   },
   "evidence": {},
@@ -187,7 +279,8 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
-      "allen-materia-medica-nosodes-1910"
+      "allen-materia-medica-nosodes-1910",
+      "boger-synoptic-key-1915"
     ]
   }
 }

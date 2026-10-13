@@ -196,6 +196,68 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "Taste: Taste, astringent.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Taste"
+      },
+      {
+        "text": "Stool: Stool, black, tarry.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Stool"
+      },
+      {
+        "text": "Aaa: Abdomen, band about.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Bilious.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Eee: Expectoration, astringent; Eyes, balls, ache.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Forehead, sweat, cold.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Ggg: Gall bladder, stones, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Hands, sweat on, cold, on dorsæ; Hypogastrium, weak.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Mmm: Migraine.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Sss: Sore, bruised; Stool, black, foul and; Stool, tarry.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Teeth, edge, on; Tongue, green at base; Tongue, shrivelled.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Vvv: Vision, hemiopia; Vomiting, acrid, scalding, etc.; Vomiting, teeth, sets, on edge.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      }
+    ],
     "indications": [
       {
         "text": "Synonym—Fringe Tree.",
@@ -370,6 +432,7 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "grieve-modern-herbal-1931",
       "hering-guiding-1879",

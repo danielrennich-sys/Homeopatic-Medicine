@@ -10,11 +10,39 @@
       "Condurango. Gonolobus condurango"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
   "categories": [
+    "homeopathic",
     "herbal"
   ],
   "traditional": {
+    "repertory": [
+      {
+        "text": "Face: Face, lips, cracked, corners.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Face"
+      },
+      {
+        "text": "Back, Spine And Cord: Back, spine and cord, left to right.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Back, Spine And Cord"
+      },
+      {
+        "text": "Upper Limbs: Upper limbs, fingers, tips, cracked.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Upper Limbs"
+      },
+      {
+        "text": "Ccc: Cancer.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Fff: Fingers, tips, cracked.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      }
+    ],
     "indications": [
       {
         "text": "Synonyms—Condurango (Cundur-angu, vine of Condor).",
@@ -97,6 +125,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "felter-eclectic-1922",
       "kings-american-1898"

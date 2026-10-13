@@ -108,6 +108,13 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "Heart, Circulation And Pulse: Visible.).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Heart, Circulation And Pulse"
+      }
+    ],
     "indications": [
       {
         "text": "Synonym—Bitter Candytuft.",
@@ -285,6 +292,7 @@
   "provenance": {
     "sources": [
       "boericke-1927",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "grieve-modern-herbal-1931",
       "hering-guiding-1879",

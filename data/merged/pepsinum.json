@@ -26,6 +26,13 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "comparative": [
+      {
+        "text": "[The Acids] We find that vegetable acids may be useful in dyspepsia, simply for their hygienic value. You may give them, for instance, in sour stomach. You then administer the acid before eating. Allow the patient to drink lemonade before meals and you will often find that the usual heartburn and sour risings after eating are thus diminished. Pepsin, which is often used as an adjuvant in the treatment of dyspepsia, is perfectly allowable, as it does not interfere with the action of any medicine and is not itself a medicine. It is often aided in its action by some kind of acid, particularly in the digestion of nitroge- nous articles of food.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Acids"
+      }
+    ],
     "indications": [
       {
         "text": "Occurrence—Pepsin is the natural enzyme—a proteolytic ferment, obtained from the glandular structure of the lining membranes of the fresh stomach of the domestic hog—sus scrofa. It is an essential constituent of the gastric juice.",
@@ -81,6 +88,7 @@
   "provenance": {
     "sources": [
       "clarke-dictionary-1900",
+      "farrington-clinical-1908",
       "ellingwood-1919"
     ]
   }

@@ -72,6 +72,63 @@
         "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Tilia europæa. Mind and Disposition. Melancholy, disposed to weep. Head. Vertigo, with staggering, and like gauze before the eyes. Stinging pain in the forehead, with heat in the head and face. Ears. Stinging in the ears. Nose. [5] Bleeding from the nose ; the blood is thin and pale, but coagulates quickly. Mouth and Throat. Shifting pain in all the teeth, aggravated by cold water. Burning in the throat. Sensation of swelling of the palate, with desire to swallow, and hoarse voice. Stomach and Abdomen. Putrid eructations. [10] Bloated abdomen ; pain as from incarcerated flatulence ; repeated noisy discharges of it, with much relief. Abdomen painful when touched, especially around the navel. Sensitiveness, soreness, and sensation of subcutaneous ulceration in the upper part of the abdomen. Stitches suddenly appearing in the abdomen, extending into the pelvis, and impeding breathing. Sexual Organs. Women . Frequent pressing on the uterus, as if everything would fall out of the pelvis. [15] Spasmodic labor-like drawing from the abdomen down the small of the back, as if the catamenia, would set in. Great sensitiveness and soreness of the whole uterus, as after parturition. Redness, soreness, and burning of the external parts. Menstruation too late and very scanty (blood pale). Sleep. Sleeplessness, with restlessness ; the bed seems to be too hard to him. Fever. [20] Pulse full, hard, and quick. Chilliness in the evening. Heat all over, but most in the head and cheeks. Night-sweat. Conditions. Especially suitable for women after parturition, and for children during dentition. [25] The left side of the body is most affected. Aggravation ; in the afternoon and evening ; in the warm room ; in the heat of the bed (skin symptoms) ; during motion (the rheumatic symptoms). Amelioration ; in the cool room, and from motion. Copyright © Médi-T 2006",
         "source_id": "lippe-textbook-mm-1866"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Discharges.).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Larynx And Trachea: Larynx and trachea, left.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Larynx And Trachea"
+      },
+      {
+        "text": "Mammæ: Mammæ, backward.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mammæ"
+      },
+      {
+        "text": "Ddd: Dropsy, dema, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Fff: Female organs.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Hard, bed [[sensation]]; Head, twisting in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Mmm: Muscles.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Ooo: Offensive.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ooo"
+      },
+      {
+        "text": "Sss: Sleep, pains, during; Sore; Sweat, agg.; Sweat, profuse, drenching.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Throat, left.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Urethra, heavy; Urinary organs; Urine, scanty.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      }
     ]
   },
   "evidence": {},
@@ -79,6 +136,7 @@
     "sources": [
       "allen-encyclopedia-1874",
       "boericke-1927",
+      "boger-synoptic-key-1915",
       "lippe-textbook-mm-1866"
     ]
   }

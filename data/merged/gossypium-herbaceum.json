@@ -137,6 +137,28 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "Fff: Flatus, passed up and down.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Mmm: Menses, watery.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Uuu: Uterus, inert; Uterus, reflexes.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vomiting, pregnancy, of.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      }
+    ],
     "indications": [
       {
         "text": "Synonym—Cotton.",
@@ -217,6 +239,7 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "grieve-modern-herbal-1931",
       "hering-guiding-1879"

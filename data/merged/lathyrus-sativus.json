@@ -106,6 +106,13 @@
         "text": "Lumbago. Pain in back so severe as to prevent movement. Pains in back or excited by touch.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "comparative": [
+      {
+        "text": "[The Vegetable Kingdom] We shall study the remedies derived from the vegetable kingdom ac- cording to the classification of botanists. There are some incongru- ities in the botany of to-day; for instance, in the leguminous order of plants from which we get peas and beans, which are very nutritious, is also placed the I^athyrus, which has very poisonous properties. Be- cause there is an outward resemblance between the Lathyrus and sweet-pea, it seems not a little incongruous to put them together, when their effects are so different.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      }
     ]
   },
   "evidence": {},
@@ -113,7 +120,8 @@
     "sources": [
       "boericke-1927",
       "allen-encyclopedia-1874",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "farrington-clinical-1908"
     ]
   }
 }

@@ -6,7 +6,10 @@
     "common": [
       "A chemical compound from Coal-tar; Tar Camphor (NAPHTHALINE)"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Naphthalin",
+      "Naphthaline"
+    ]
   },
   "category": "homeopathic",
   "categories": [
@@ -70,6 +73,10 @@
       {
         "text": "Naphthalin is a hydro-carbon obtained by distillation from coal-tar. It consists of colourless, transparent, lustrous scales, or, when crystallised, of rhombic tables or prisms. It is an unproved remedy, and has been used in old-school practice as an intestinal antiseptic and vermifuge, as an expectorant, as a remedy for eczema and psoriasis, as an antiseptic application to wounds. Some cases of poisoning have been reported. A boy, 12 (Brit. Med. Journ., August 5, 1899), came home one evening apparently drunk: semi-conscious, staggering, unable to answer questions. He had eaten two \"bon-bons,\" which were really moth-destroyers, each tablet containing two grammes of pure Naphthalin. An emetic was promptly administered, and the next day the boy was still drowsy but quite conscious. The drowsiness lasted four days. Four grammes were given to a cat. In an hour and a half the hind limbs became ataxic. Swaying movements of the entire body were noticed even when the animal was at rest. Attacks of sneezing from nasal irritation, the animal frequently attempting to remove the irritation by rubbing his nose. In two hours inco-ordination had increased. Twitching of facial muscles. Saliva flowed freely from the mouth. This experiment is important as bearing on the use made of the remedy in hay-fever. Other experiences are quoted from the Brit. Med. Journ. in H. W., xxxiv. 525. Evers records chronic illness, loss of appetite, headache, and eczema over both legs as due to Naph. which was used as a moth powder and sprinkled on bedding. In a case of typhoid the patient was given 6 grammes of Naph. during the first three days. After this the dose was increased to 7 grammes. On the evening of the sixth day the patient began to be restless, and the following evening was delirious. Next day: drowsy, respiration laboured, irregular. Lips and face cyanotic. Slight twitching in all muscles. Pulse regular, 92. Temperature had fallen to normal. Urine dark brown and after standing became black. When Naph. was discontinued the symptoms vanished in four days. In three cases in which Naph. had been applied to wounds there was sudden onset of fever, headache, loss of appetite; in one of them there was temporary mania with incontinence of urine and fæces; in two of them albuminuria. All symptoms rapidly disappeared when Naph. was discontinued. Other cases are collected in C. D. P., the symptoms of which will be found arranged in the Schema. Lippincott (H. W., xxi. 35) was the first to use Naph. in cases of hay-fever, having heard that hay-fever sufferers who went into factories where Naphtha was much used were always cured. His experience of its value was speedily confirmed by other observers. Naph. 1x and 2x were used in the first trials. W. Louis Hartmann, of Syracuse, N.Y., is the chief homœopathic authority for this remedy (N. A. J. H., xii. 630). His leading indications for it are: Acute coryza with fluent excoriating discharge and much sneezing. Paroxysms of coughing following each other in rapid succession so that the patient is unable to take his breath (as in asthma and whooping-cough). He has found it more often indicated than any other drug in whooping-cough. The spasmodic action and the cyanosis of the drug are good indications here, though it is not necessary to wait till the child is blue before prescribing Naph. If any remedy is needed after Naph., Drosera follows admirably. In a case of phthisis of left lung Naph. removed these symptoms: Unable to sleep for cough; if he dozed off it was sure to wake him. Exhausting night-sweats and during the day thin, offensive diarrhœa. Hartmann uses the ix trit., having been disappointed with higher attenuations. Another action of Naph. is on the eye, cases of opacity of the lens having been traced to its action. For the expulsion of threadworms after the bowels have been freely opened by a cathartic, Naph. is given in doses of gr. 1/4 to gr. 1/2 four times a day for two days. The dose should not be given after a meal, and all fats and oils should be abstained from during the treatment, which may be repeated once or twice after leaving a week's interval. (The nose irritation in the poisoned cat is significant of the vermicide action of Naph.). J. Meredith (H. W., xxvii. 215) cured with the 6x incarcerated flatus in transverse colon causing cardiac distress.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Naphthaline. Pure Naphthaline is triturated for use. Clinical :- ► It has been found a valuable remedy for hay fever, many inveterate cases seeming to have been entirely arrested ; sneezing, eyes inflamed and painful, head hot ; also spasmodic bronchitis and asthma, amel. open air, with soreness in chest and stomach, has to loosen the clothing ; also pulmonary emphysema, with great dyspna, sighing inspiration, amel. violent motion, it seems as if she could not get air out of the chest ; it is also valuable in whooping cough, with long-continued paroxysms, cannot get an inspiration. ► Dysmenorrha. ► For gonorrha, following the acute stage. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
       }
     ],
     "generalities": [
@@ -140,13 +147,22 @@
         "text": "Sudden onset of fever, headache, and loss of appetite. (Temperature reduced in typhoid.) Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Ppp: Pinworms.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "boericke-1927",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
+      "allen-handbook-1889"
     ]
   }
 }

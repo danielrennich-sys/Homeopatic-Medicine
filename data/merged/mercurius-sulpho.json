@@ -1,0 +1,30 @@
+{
+  "id": "mercurius-sulpho",
+  "names": {
+    "primary": "Mercurius Sulpho",
+    "latin": "Mercurius Sulpho",
+    "common": [],
+    "synonyms": [
+      "Mercurius Sulpho Cyanatus"
+    ]
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Uuu: Uvula, ulcerated.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

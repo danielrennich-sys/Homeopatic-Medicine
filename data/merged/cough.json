@@ -1,0 +1,28 @@
+{
+  "id": "cough",
+  "names": {
+    "primary": "Cough",
+    "latin": "Cough",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[The Ammonium Preparations] from sleep, gasping for breath, worse three to four a. m. Cough dry, tickling, hoarseness, chest oppressed with mucus. The Muriate causes stoppage of one nostril; both stopped up at night; nostrils sore and raw; discharge of bluish mucus or scalding coryza, severe burning in the throat, etc.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ammonium Preparations"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "farrington-clinical-1908"
+    ]
+  }
+}

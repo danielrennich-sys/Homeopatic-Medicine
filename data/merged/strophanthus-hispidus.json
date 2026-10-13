@@ -16,6 +16,16 @@
     "herbal"
   ],
   "traditional": {
+    "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Strophanthus Hispidus. A tincture is made of the seeds of this plant, which belongs to that great order of cardiac poisons, namely, the Apocynacea . ► It acts directly upon the cardiac muscle. ► Compare Apocynum can ., and allies. ► From a toxic dose, the heart, together with other muscles of the body, presses at the first onset from contraction to cadaveric rigidity, and its muscular fibre assumes an acid reaction. ► The action upon the heart is accompanied by an increase of blood-pressure, and in certain conditions by increase of urine and by lowering of the temperature. ► Face flushed, lips scarlet, eyes brilliant, temperature high skin dry, pupils dilating and contracting alternately every few seconds, pulse 140, arteries distended, left ventricle contracting with unusual vigor, aortic values closing with a loud and distinct \"tup,\" a slight mitral regurgitant murmur, loquacity, no micturition for ten hours. ► Purging and vomiting. Clinical :- ► It has been found valuable for weak hart, the pulse becomes slower, stronger and more regular ; it acts well in chronic nephritis, it increases the flow of urine and diminishes the dropsy, it however, down not seem to act well when there is much dema of the lungs. ► It acts best in functional disturbance of the heart, from a alcohol, tobacco, tea. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "color=\"#800000\">STROPHANTHUS HISPIDUS Kombe-seed Strophanthus is a muscle poison; it increases the contractile power of all striped muscles. Acts on the heart; increasing the systole and diminishes the rapidity. May be used with advantage to tone the heart, and run off dropsical accumulations. In small doses for weak heart; it feels enlarged. In mitral regurgitation, where œdema and dropsy have supervened (Digit). Strophanthus occasions no gastric distress, has no cumulative effects, is a greater diuretic, and is safer for the aged, as it does not affect the vaso-motors. In pneumonia and in severe prostration from hæmorrhage after operations and acute diseases. After the long use of stimulants; irritable heart of tobacco-smokers. Arterio-sclerosis; rigid arteries of aged. Restores tone to a brittle tissue, especially of the heart muscle and valves. Especially useful in failing compensation dependent upon fatty heart. Hives. Anæmia with palpitation and breathlessness. Exophthalmia goitre. Corpulent persons.",
+        "source_id": "boericke-1927"
+      }
+    ],
     "head": [
       {
         "text": "Temporal pains with double vision, impaired sight; brilliant eyes, flushed face. Senile vertigo",
@@ -67,10 +77,86 @@
     "dosing": {
       "notes": "Tincture and 6x potency. In more acute cases, five to ten drops of the tincture three times a day"
     },
-    "keynotes": [
+    "repertory": [
       {
-        "text": "color=\"#800000\">STROPHANTHUS HISPIDUS Kombe-seed Strophanthus is a muscle poison; it increases the contractile power of all striped muscles. Acts on the heart; increasing the systole and diminishes the rapidity. May be used with advantage to tone the heart, and run off dropsical accumulations. In small doses for weak heart; it feels enlarged. In mitral regurgitation, where œdema and dropsy have supervened (Digit). Strophanthus occasions no gastric distress, has no cumulative effects, is a greater diuretic, and is safer for the aged, as it does not affect the vaso-motors. In pneumonia and in severe prostration from hæmorrhage after operations and acute diseases. After the long use of stimulants; irritable heart of tobacco-smokers. Arterio-sclerosis; rigid arteries of aged. Restores tone to a brittle tissue, especially of the heart muscle and valves. Especially useful in failing compensation dependent upon fatty heart. Hives. Anæmia with palpitation and breathlessness. Exophthalmia goitre. Corpulent persons.",
-        "source_id": "boericke-1927"
+        "text": "Heart, Circulation And Pulse: Heart, circulation and pulse, head, alternating with; Heart, circulation and pulse, valves.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Heart, Circulation And Pulse"
+      },
+      {
+        "text": "Aaa: Abdomen, cramp, colic, griping; Alcohol [[agg.]]; Appetite [[affected]]; Arms, heavy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Ccc: Craves, coffee.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Direction, ascending.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Eee: Epigastrium, sinking, faint, etc.; Exertion, agg.; Eyes, pupils, dilate and contract alternately.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Face, mottled, spotted; Faint; Fear, ordeals, of; Fingers, heavy; Fingers, tips, heavy; Foot, itching.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Head, alternating with; Heart; Heart, aching, etc.; Heart, alternating with; Heart, anguish; Heart, arms, to left; Heart, head, extending to; Heart, lively; Heart, palpitation; Heart, palpitation, nervous, anxious; Heart, tremor, quiver; Heart, weak; Hives, receding.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Lll: Lifted up [[feels]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Mmm: Moist.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Ppp: Pulsation; Pulse, irregular; Pulse, slow, and quick, alternately; Pulse, small; Pupils, dilate and contract; Pupils, mobile.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Rrr: Respiration, cardiac; Respiration, heart symptoms, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Spasm; Stitches; Stool, burning, hot; Stool, flatulent, gassy, noisy, spluttering; Stool, rumbling, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Throat, choking.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Urticaria, receding.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vertigo, vision affected; Vision, glimmering, glittering; Vomiting.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Www: Waves.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
       }
     ],
     "indications": [
@@ -159,7 +245,9 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "allen-handbook-1889",
       "boericke-1927",
+      "boger-synoptic-key-1915",
       "ellingwood-1919"
     ]
   }

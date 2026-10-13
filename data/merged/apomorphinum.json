@@ -27,16 +27,11 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
-    "head": [
-      {
-        "text": "Vertigo. Dilated pupils. Nausea and vomiting. Violent inclination to vomit. Hot feeling all over body, especially head. Empty retching and headache; heartburn; pain between shoulder-blades. Reflex vomiting-pregnancy. Seasickness",
-        "source_id": "boericke-1927"
-      }
-    ],
-    "dosing": {
-      "notes": "Third to sixth potency"
-    },
     "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Apomorphinum. An alkaloid obtained from the decomposition of morphine by means of hydrochloric acid. Formula C 17 H 17 NO 2 . For use, the alkaloid is triturated with sugar of milk. General Action :- ► The chief interest attached to this substance lies in its remarkable power to produce emesis (which it does in doses of from five to seven milligrams in adults). ► This irritating action upon the nerve centre is similar to that of Sanguinaria, Veratrum, Ipecac., Copper and Zinc . Generalities :- ► Pandiculations. ► Depression. ► Faintness. ► Weakness ; with sweat on face, which was pale ; so that eyes closed involuntarily. Head :- ► Aching. ► Heaviness. ► Vertigo ; with chilliness. ► Dullness, sometimes described as headache, sometimes as heaviness or vertigo, often with roaring in ears and feeling of heat, at times sudden anxiety in præcordial region and pressure in chest, with the reaction there is generally inclination to sleep, prostration and in a few cases nausea and retching without warning, the relaxation during the prodromal state was very great, with sweat, salivation and paleness, especially of face, the vomiting is easy, or after the stomach has been emptied difficult with eructations and retching, between the acts of vomiting the patient is quiet, weak, yawns and perspires, sleepy after the vomiting ceases. ► Injection of conjunctivæ and lachrymation. ► Pupils dilated. ► Face red ; pale. ► Salivation. ► Violent inclination to vomit. ► Vomiting ; without previous nausea ; easy ; of water as soon as it was drunk, also milk . ► Retching ; as soon as stomach had been emptied. ► Weight at stomach. ► Respiration irregular ; rapid. ► Pulse rapid and irregular ; rapid, small and soft. ► Extremities heavy ; weak. ► Inclined to yawn. ► Sleepiness, with sweat. ► Sleep. ► Heat running suddenly all over body, then vomiting. ► Hot feeling all over body, especially in head. ► Sweat. Clinical :- ► The applicability of this drug to the relief of various troubles requiring prompt emesis will be apparent to every one. ► (Its use in poisoning by Opium is dangerous.). ► The hypodermic injection of 1/16 of a grain will cause full emesis within 5 to 15 minutes in an adult. ► It has been found useful in vomiting of various sorts, sometimes with violent spasms and empty retching and headache, sometimes with heartburn, pain between shoulder-blades ; sometimes it has cured the vomiting of food, sometimes palliated the vomiting of pregnancy or uterine displacements or uterine tumors, sometimes relieved seasickness ; in one case the 2d trit. cured vomiting which had lasted several days without any organic disease, apparently of nervous origin. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
       {
         "text": "color=\"#800000\">APOMORPHINUM Alkaloid from Decomposition of Morphine by Hydrochloric Acid (APOMORPHIA) The chief power of this drug lies in the speedy and effective vomiting that it produces, which becomes a strong guiding symptom to its homeopathic use. The vomiting is preceded by nausea, lassitude and increased secretion of sweat, saliva, mucus and tears. Pneumonia with vomiting. Combined alcoholism, with constant nausea, constipation, insomnia.",
         "source_id": "boericke-1927"
@@ -46,6 +41,15 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "head": [
+      {
+        "text": "Vertigo. Dilated pupils. Nausea and vomiting. Violent inclination to vomit. Hot feeling all over body, especially head. Empty retching and headache; heartburn; pain between shoulder-blades. Reflex vomiting-pregnancy. Seasickness",
+        "source_id": "boericke-1927"
+      }
+    ],
+    "dosing": {
+      "notes": "Third to sixth potency"
+    },
     "relationships": {
       "_raw": [
         "Compare: Opium, Ipec., Ant. t., Cer. ox. Copyright © Médi-T ® 2000 Main"
@@ -56,6 +60,7 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "boericke-1927",
       "clarke-dictionary-1900"
     ]

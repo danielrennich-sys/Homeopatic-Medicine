@@ -1,0 +1,33 @@
+{
+  "id": "urine",
+  "names": {
+    "primary": "Urine",
+    "latin": "Urine",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[The Ophidia] Cuprum combines coldness with convulsive phenomena. Icy cold- ness of the whole body. Severe cramps in the extremities, with cold sweat, blue surface; also collapse. Urine suppressed. Employed suc- cessfully in the cold stage of cholera, after Camphor, but also useful in other forms of collapse. For instance, it has antidoted snake-bite, with cramps, delirium, and finally torpor.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      },
+      {
+        "text": "[The Umbelliferie, The Berberidaceis And] between the two drugs is this: in the latter drug the pains go tearing down the thighs, while in the former they seldom go further than the hips, and the patient is unable to urinate unless he gets down on his hands and knees. Urine ammoniacal.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Umbelliferie, The Berberidaceis And"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "farrington-clinical-1908"
+    ]
+  }
+}

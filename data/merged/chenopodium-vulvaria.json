@@ -158,6 +158,28 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Generalities: Dullness: And languor, with sensation of heaviness through whole body",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Heated: Dullness and languor, with sensation of heaviness through whole body",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Languor: Dullness and languor, with sensation of heaviness through whole body",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Drawing: Dullness and languor, with sensation of heaviness through whole body",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ],
     "mental_emotional": [
       {
         "text": "Feeling of dulness, commencing in both sides of head behind ears, going upward. Dulness more in back part of head, upper part of occiput, particularly behind both ears. The dulness or fulness in head returns in waves, and is worse in back part of head.",
@@ -182,6 +204,7 @@
     "sources": [
       "allen-encyclopedia-1874",
       "clarke-dictionary-1900",
+      "gentry-rubrical-mm-1890",
       "hering-guiding-1879"
     ]
   }

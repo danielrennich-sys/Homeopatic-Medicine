@@ -156,6 +156,13 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "Skin: Skin, eruptions, psoriasis.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Skin"
+      }
+    ],
     "indications": [
       {
         "text": "Synonyms—Mahonia aquifolia, Oregon grape, mountain grape.",
@@ -402,6 +409,7 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "felter-eclectic-1922",
       "grieve-modern-herbal-1931",

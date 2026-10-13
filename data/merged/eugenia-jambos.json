@@ -123,6 +123,13 @@
         "text": "Shiverings run over him after micturition. Coldness, as if the body were naked. Perspiration in the morning, with burning thirst. Hot hands. Fever; heat before midnight, with little thirst and much sweat; during fever for several hours in morning, pain in back, > bending inward. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Skin: Skin, eruptions, acne.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Skin"
+      }
     ]
   },
   "evidence": {},
@@ -130,7 +137,8 @@
     "sources": [
       "allen-encyclopedia-1874",
       "boericke-1927",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "boger-synoptic-key-1915"
     ]
   }
 }

@@ -100,6 +100,20 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "comparative": [
+      {
+        "text": "[The Acids] Kali permanganicum resembles Muriatic acid in the throat symptoms, especially in the cedematous uvula, but is marked by excessive fcetor. Other remedies having this symptom are Apis, Natrum arsenicosum, Mercurius cyanatus, Capsicum, Kalibichr., Arsenicum and Hydrocyanic acid. This last remedy resembles Muriatic acid in its throat symptoms, and in the blueness of the surface, and in the presence of petechiae in the rash.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Acids"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Mouth And Throat: Mouth and throat, swallowing, returns through nose.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mouth And Throat"
+      }
+    ],
     "respiratory": [
       {
         "text": "Expectoration very fetid.",
@@ -111,6 +125,8 @@
   "provenance": {
     "sources": [
       "clarke-dictionary-1900",
+      "farrington-clinical-1908",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879"
     ]
   }

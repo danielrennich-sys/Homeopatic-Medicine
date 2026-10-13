@@ -154,6 +154,58 @@
         "text": "Fever, similar to typhus, with excessive shivering, followed by continued heat, by viscid sweat over the whole body, and complete loss of appetite. Fever, with gastric and nervous suffering. Clammy sweat, of a putrid smell. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Head: Head, separated from body, as if.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Head"
+      },
+      {
+        "text": "Sss: Separated [[as if]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Throat, side, left, cold drinks, amel.; Tongue, coated, on one side.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Generalities: Jerkings: Sudden lightning-like dull jerkings in different parts of body",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Great fatigue and lassitude: Great lassitude and weakness | Lightning-like: Sudden lightning-like dull jerkings in different parts of body",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Worse about new moon: Worse during new moon",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Rheumatic: Like shocks in different parts",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Shocks: Tearing pains, like shocks in different parts",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Drawing pains: Like shocks in different parts",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: After eating: During new moon",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
     ]
   },
   "evidence": {},
@@ -162,6 +214,8 @@
       "allen-encyclopedia-1874",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890",
       "lippe-textbook-mm-1866"
     ]
   }

@@ -1,0 +1,93 @@
+{
+  "id": "zincum-chromatum",
+  "names": {
+    "primary": "Zincum Chromatum",
+    "latin": "Zincum Chromatum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Aaa: Abdomen, hands on, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Boring, grinding.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Craves, indefinite things.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Eee: Ears, behind; Eating, averse to; Expectoration, loose; Expectoration, slips back again; Expectoration, sweet; Expectoration, tough, sticky.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Ggg: Gnawing; Gnawing, grinding.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Heart, cutting; Heart, cutting, apex.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Lll: Larynx (left), ear, to.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Mmm: Menses, feel like coming.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Nose; Nose, discharges, crusts, scabs, from; Nose, odors in; Nose, polypus; Nose, pus from.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Pressure, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Scapulæ; Scapulæ, left; Shock [[through body]]; Spitting; Stitches.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Taste, metallic, coppery, etc.; Temples, throb; Throatpit; Toes, cramp.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Vvv: Vagina, dry; Vertex, pressure, heavy, crushing, etc., on; Vision, wavering.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Www: Wandering; Work, dislikes.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

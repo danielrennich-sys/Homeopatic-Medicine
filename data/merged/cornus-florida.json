@@ -37,6 +37,10 @@
     ],
     "keynotes": [
       {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Cornus Florida. A tincture is made of the fresh bark of Cornus florida, L. ► Headache. ► Face flushed. ► Nausea. ► Heat in stomach. ► Pulse accelerated and bounding ; and tense ; and full, strong ; and full, afterwards soft, but full ; and irregular, afterwards slower and smaller. ► Pulse full, afterwards slower and smaller. Clinical :- ► Intermittent fever, with dullness, drowsiness, dull headache, great exhaustion, during the intervals between the paroxysms very weak, with diarrha, general clammy sweat, etc. ► (Compare with Cornus cir . and Alstonia ). ► It seems to be adapted to chronic malaria ; the paroxysms sometimes begin with heat, followed by oppression, with heat beginning in the back, the patient feels weak and miserable ; in the apyrexia, and especially has diarrha and jaundiced skin. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
         "text": "Hale commends Corn. f. in obstinate intermittents where quinine has been abused and where the following group of symptoms is present: For days before chill sleepiness; sluggish flow of ideas; dull, heavy headache. Paroxysms attended with nausea; vomiting and sometimes watery or bilious diarrhœa. In the chill, cold, clammy skin; in the fever, violent headache, with throbbing, stupor, confusion of intellect and vomiting. He also commends it in old cases of dyspepsia where the chief symptom is acid pyrosis. Corn. f., which has had a separate proving, has some very remarkable neuralgic pains in arms, chest, and trunk, and a sensation as if broken in two. It has been used successfully in a case of pneumonia on the indication of the stitches in the chest.",
         "source_id": "clarke-dictionary-1900"
       },
@@ -104,6 +108,33 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "Ppp: Prodrome.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Generalities: General: And impaired mental energy, with great drowsiness | Drowsiness: General debility and impaired mental energy, with great drowsiness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Or drinking: Worse while eating | Energy: General debility and impaired mental energy with great drowsiness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Imagination: debility and impaired, mental energy, with great drowsiness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Mental: General debility and impaired mental energy with great drowsiness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ],
     "indications": [
       {
         "text": "Synonym—Dogwood.",
@@ -159,7 +190,10 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890",
       "ellingwood-1919",
       "grieve-modern-herbal-1931"
     ]

@@ -224,6 +224,28 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Lower Limbs: Lower limbs, tibia, shin.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lower Limbs"
+      },
+      {
+        "text": "Lll: Legs, ache.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Sss: Stool, gray.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Tibiæ, pains in; Tibiæ, syphilis.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      }
+    ],
     "indications": [
       {
         "text": "Specific Symptomatology—Irritation of the mucous membranes of the bronchial tubes, larynx, throat and both nasal cavities, deficient secretion, membranes red and tumid or glistening, blood dyscrasia with general enfeeblement, skin diseases of a moist character, red and irritable.",
@@ -289,6 +311,7 @@
       "allen-encyclopedia-1874",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "grieve-modern-herbal-1931",
       "hering-guiding-1879"

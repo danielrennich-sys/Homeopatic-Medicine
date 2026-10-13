@@ -14,6 +14,16 @@
     "herbal"
   ],
   "traditional": {
+    "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Ceanothus. A tincture is prepared from the fresh leaves of Ceanothus Americanus, Linn. Clinical :- ► Enlarged spleen, with pain in the whole left side. ► Chronic hypertrophy and inflammation of spleen, painful at times, with extreme dyspna, has to fight for her breath. ► Persistent pain in left hypochondrium, profuse menses and yellow leucorrha. ► It has cured yellow leucorrha, with pain under left ribs. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "Deep-seated or cutting pains and fullness in region of spleen.",
+        "source_id": "nash-leaders-1899"
+      }
+    ],
     "indications": [
       {
         "text": "The root, root-bark, and leaves of Ceanothus americanus, Marshall (Nat. Ord. Rhamnaceae.) A small shrub indigenous to the United States, particularly in its western section, growing in barrens and dry woodlands. Dose, 5 to 20 grains.Common Names: Red Root, New Jersey Tea.",
@@ -87,17 +97,12 @@
         "text": "King's American Dispensatory, 1898, was written by Harvey Wickes Felter, M.D., and John Uri Lloyd, Phr. M., Ph. D.",
         "source_id": "kings-american-1898"
       }
-    ],
-    "keynotes": [
-      {
-        "text": "Deep-seated or cutting pains and fullness in region of spleen.",
-        "source_id": "nash-leaders-1899"
-      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
+      "allen-handbook-1889",
       "felter-eclectic-1922",
       "kings-american-1898",
       "nash-leaders-1899"

@@ -9,11 +9,25 @@
       "Ashwagandha"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
   "categories": [
+    "homeopathic",
     "herbal"
   ],
-  "traditional": {},
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Generalities: Lies on",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Sep. Extreme: Sepsis",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ]
+  },
   "evidence": {
     "lactation_safety": [
       {
@@ -98,6 +112,7 @@
   },
   "provenance": {
     "sources": [
+      "gentry-rubrical-mm-1890",
       "lactmed-nih",
       "livertox-nih",
       "nccih",

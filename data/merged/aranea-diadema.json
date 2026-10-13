@@ -161,6 +161,73 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "Time: Time, periodically, in general, agg.; Time, periodically, daily, agg.; Time, periodically, at same hour, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Air, open, cool, agg.; easily chilled, lacks heat; Foods, drink, tobacco, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Generalities: Intermittency.).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Respiration: Respiration, wet weather, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Respiration"
+      },
+      {
+        "text": "Chill, Chilliness, Coldness, Etc. In General: Chill, chilliness, coldness, etc. in general.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Chill, Chilliness, Coldness, Etc. In General"
+      },
+      {
+        "text": "Aaa: Abdomen, rubs.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Bones, chilly, cold.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Cellars, vaulted places; Chill, thro' and thro'.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Fff: Fever, intermittent; Fingers, numb.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Generalities: Great weakness and exhaustion: Languor, lassitude exhaustion",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Hæmorrhage: From all orifices of body",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Lassitude: Exhaustion | Great fatigue and lassitude: Languor lassitude, exhaustion",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Orifices: Hæmorrhage from orifices",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ],
     "indications": [
       {
         "text": "Related entry: Tela Araneae.—Spider's Web",
@@ -195,6 +262,8 @@
       "boericke-1927",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890",
       "kings-american-1898",
       "nash-leaders-1899"
     ]

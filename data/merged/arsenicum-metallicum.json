@@ -19,6 +19,10 @@
         "source_id": "allen-encyclopedia-1874"
       },
       {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Arsenicum Metallicum. Pure metallic Arsenic is triturated with sugar of milk for use. Action and Affinities :- ► See Arsenicum alb . Generalities :- ► Emaciation. ► Pulsation over whole body ; especially under sternum ; especially in right hip-joint, agg. morning, amel. evening. ► Weakness . ► Disinclination to rising in morning after sound sleep. ► Recurrence of symptoms after two weeks. ► Aggravation in morning ; after brandy. ► Appearance of symptoms of right, then left side. Mind :- ► Stupor in morning after sound sleep all night. ► Despondency. ► Depression of spirits. ► Indifference. Head :- ► Aching, agg. when laughing. ► Swollen feeling morning on waking. ► Sensation as from fumes of whisky. ► Heaviness like vertigo. ► Swollen feeling in forehead, with immovable skin. ► Heaviness in forehead, with dull feeling. ► Aching in left side of head, extending to left ear and eye, with nausea. ► Soreness of scalp when pulling even one hair. Eyes :- ► Pain so that he could not read much. ► Heaviness. ► Lids swollen and inflamed. Nose :- ► Coryza ; with hoarseness, then with angina faucium ; fluent. ► Discharge of scalding water, which excoriates nostrils. Face :- ► Bloated ; feeling as if. ► Ulcer on left inner side of lower lip ; on right inner side of lower lip, with soreness on touch of tongue. Mouth :- ► Gums swollen and painful to touch ; gums swollen and feeling as if scalded, with salivation. ► Tongue coated white and covered with mucus ; coated white and showing imprint of teeth. ► Dryness. Stomach :- ► Aversion to wines and liquors. ► Eructations of hot bile. ► Nausea. Abdomen :- ► Bloated. ► Lancinating griping after waking at 6 A.M ., amel. sharp, burning, watery stool, then debility, sleeping in his chair, loss of appetite and full pulse. ► Tension and sensation of swelling. ► Pulsation in umbilicus. ► Painful swelling in right groin, where a bubo had suppurated twenty-four years before, agg. extending leg, the pain goes to hip, agg. sitting, when the leg goes to sleep, amel. walking. Anus, etc. :- ► Sore feeling in A. ► Bleeding varices ; V. on right side, painful after stool (not bleeding). ► Constipation. ► Red, sandy sediment in urine. ► Pain in region of heart ; P. in left muscles of chest. Pulse :- ► Full and hard ; at 9 A.M ., and rapid. ► Rapid ; in morning, rapid in morning, after rising. Back :- ► Lumbago. ► Numbness in right lumbar region from vertebræ to crest of ilium, and inside of right thigh down to knee. Limbs :- ► Cracking of finger-joints. ► Swollen feeling in hands, fingers and feet, with feeling as if he could not close hand. ► In lower limb sensation as if he could not use it, but he could walk well after using it. ► Hip-joint, lame feeling in right ; numbness in right, extending to pubes ; paralyzed feeling in right hip-joint extending to pubic symphysis and down inside of thigh to knee. ► Dry feeling in right knee. ► Pulsation in right anterior tibial artery at superior extremity of its inferior third. Skin :- ► Scales. ► Itching of forehead ; on face, amel. pinching ; on face, amel. pressure, but not by scratching ; on lower part of face, with burning, as before eruption ; on face, agg. night, amel. bathing with cold water, with burning, stinging and swelling, then desquamation in small scales ; in right groin, extending to knee. Sleep :- ► Very sound at night. ► Sleepiness in morning after rising ; in daytime and evening ; afternoon when walking in street ; S., with little sleep. ► Restless sleep ; with fulness in head, which was agg. on waking in night. ► Sensation in sleep as if he would have headache in morning on waking. ► Dreams of danger, especially by water, that he is in danger of drowning, etc. Fever :- ► Dry heat in palms of hands. ► Burning of hands and feet. ► Heat of feet, with a bloated feeling ; dry heat of feet, also at night. ► Sweat of feet ; offensive S. on genitals. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
         "text": "color=\"#800000\">ARSENICUM METALLICUM Metallic Arsenic Arouses latent syphilis. Periodicity very marked; symptoms recur every two and three weeks. Weakness. Swollen feeling of parts.",
         "source_id": "boericke-1927"
       },
@@ -219,6 +223,13 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "comparative": [
+      {
+        "text": "[The Umbelliferie, The Berberidaceis And] Of the remedies having the symptom, the tongue takes the imprint of the teeth, Mercurius stands at the head of the list. Next to that we have Podophyllum, and then Yucca jilamentosa, and, finally, Rhus, Stramonium and Arsenicum metallicum.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Umbelliferie, The Berberidaceis And"
+      }
+    ],
     "ears": [
       {
         "text": "Pain into ears from side of head and facial bones ; numbness below ears.",
@@ -260,8 +271,10 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "farrington-clinical-1908",
       "hering-guiding-1879"
     ]
   }

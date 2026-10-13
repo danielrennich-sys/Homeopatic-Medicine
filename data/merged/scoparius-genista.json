@@ -1,21 +1,82 @@
 {
-  "id": "scoparius",
+  "id": "scoparius-genista",
   "names": {
-    "primary": "Scoparius",
-    "latin": "Scoparius",
+    "primary": "Scoparius Genista",
+    "latin": "Scoparius Genista",
     "common": [
       "Scoparius"
     ],
     "synonyms": [
+      "Scoparius",
       "Scoparius. Cytisus scoparius",
       "Scoparius (U. S. P.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
   "categories": [
+    "homeopathic",
     "herbal"
   ],
   "traditional": {
+    "repertory": [
+      {
+        "text": "Aaa: Abdomen, squeezing in; Abdomen, stones in; Abdomen, tension; Anus, burning; Arms, dead (right).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Ccc: Cramp.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Fff: Flatulence.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Heart; Heart, head, congested; Heart, neck and throat to; Heart, oppression; Heart, shoulder to; Heavy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Kkk: Kidneys; Kidneys, congestion.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Kkk"
+      },
+      {
+        "text": "Mmm: Motion, rapid, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Ppp: Pudendum, urine burns.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Stool, acrid; Stool, burning, hot.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Uuu: Urine, frothy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vomiting, uræmic.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      }
+    ],
+    "comparative": [
+      {
+        "text": "[The Vegetable Kingdom] In the last few years Apocynum has come into very extensive use in the treatment of many forms of dropsy. When I give you a resume of its symptoms, you will see that its indiscriminate use in dropsical conditions is by no means strictly homoeopathic. When not properly indicated symptomatically, it is necessary to exhibit it in large doses in order to produce any effect. Scoparius (broom-corn) and also the pods of some of the Leguminosae, cause increased functional activity of the kidne}'s and so aid in the elimination of the dropsical effusion. But we have to deal with an art that admits of no such prescribing. It aims at definiteness, not generalization. It teaches the selection of a similimum, not of a temporary palliative.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      }
+    ],
     "indications": [
       {
         "text": "Related entry: Sparteine",
@@ -106,6 +167,8 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "boger-synoptic-key-1915",
+      "farrington-clinical-1908",
       "ellingwood-1919",
       "felter-eclectic-1922",
       "kings-american-1898"

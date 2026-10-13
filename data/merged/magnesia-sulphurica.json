@@ -213,6 +213,33 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Sss: Side, left.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Generalities: Gait: Great languor with staggering gait or trembling of body",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Great: With staggering gait or trembling of body",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Staggering: Great languor with staggering gait or trembling of body",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Great debility and trembling: Great languor with staggering gait or trembling of body",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ],
     "respiratory": [
       {
         "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Mag. s.]. Deep, hollow bass voice (as in catarrh). Loose cough, with soreness in mouth and throat. Dry cough : with burning from larynx to pit of stomach ; in evening in bed, during which he falls asleep.",
@@ -237,6 +264,8 @@
     "sources": [
       "allen-encyclopedia-1874",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890",
       "hering-guiding-1879",
       "lippe-textbook-mm-1866"
     ]

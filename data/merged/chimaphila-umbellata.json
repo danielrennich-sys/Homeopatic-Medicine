@@ -156,6 +156,10 @@
         "source_id": "nash-leaders-1899"
       },
       {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Chimaphila. A tincture is prepared from the entire fresh plant of Chimaphila umbellata, Nutt. General Action :- ► The clinical record of this drug seems to point to its special action on the bladder, and, perhaps, kidneys and liver also. Allies :- ► Uva ursi, Apocyn., Spiræa, Equiset ., etc. ► Pain in all bones. ► Weakness. ► Faint feeling. ► Melancholy. ► Nervous, cannot bear anything, hot, irritable, restless, thinks diseased state of blood irritates the skin, as before eruption of erysipelas, scarlet fever or measles, with itching. ► Stupidity and sleepiness. ► Partial unconsciousness, faint feeling, as if brain were paralyzed, mind gone. ► Headache ; with pain in bowels ; sharp, with internal heat in head, unfitting him for exertion. ► Desire to have head pressed. ► Heaviness of head, feeling as if he would fall down on it. ► Vertigo. ► Pain in forehead and above it ; over right eye ; dull, heavy, over whole front and top of head. ► Weight in brain along brow. ► Burning in eyes, with sore feeling in lids. ► Running from nose. ► Aching in hollow teeth. ► Tongue feels stiff and thick in the middle, cannot raise it. ► Mouth dry. ► Gnawing hunger. ► Nausea. ► Burning in stomach. ► Feels drunk, as if stomach were burnt up with liquor, as if it were hard, tough and dry. ► Hardness of abdomen, with swelling, pain, feeling as in dropsy of abdomen. ► Pain in abdomen ; then diarrha. ► Uneasiness in abdomen. ► Sharp pain in right hypochondrium. ► Liver feels enlarged. ► Right side of abdomen feels sore and swollen. ► Colic between pubes and navel. ► ► Urging to urinate, waking constantly . ► Urine increased, of a greenish color. Clinical :- ► Catarrh of the bladder both acute and chronic, especially indicated when the urine is offensive, turbid, containing ropy or bloody mucus and depositing a copious sediment, with burning and scalding during micturition, and straining afterwards ; it is very difficult to begin to urinate, the patient strains a great deal, urine sometimes fetid, concomitants of chronic cystitis. ► Sometimes useful in suppression of urine in infants. ► Urine very scanty. ► Acute prostatitis, with retention of urine and a feeling of a ball in perineum when sitting. ► Excitement of sexual system. ► Stinging in labia, as in boils. ► Swollen sensation in labia. ► Pain in vagina, as if labia were inflamed. ► Pulse full and hard ; F., then weak. ► Neck feels too small and tired. ► Fluttering sensation in kidney region, sometimes in one side, sometimes in other, without pain or uneasiness . ► Needle-like pains in sacrum. ► Full sensation in extremities, as if distended. ► Weakness of arms and legs. ► Pain from axillæ to scapulæ. ► Swollen sensation in axillæ. ► Paralyzed feeling in right arm. ► Pain in bones of index. ► Needle-like pains in hip-bone. ► Inflammation of skin, with itching, then desquamation, different from the vesication of cantharides, the cuticle being little raised with water, the inflammation extending farther around the part, and next day the blister was circumscribed by an eruption, which continued to increase, appearing like a ringworm. ► Drowsiness, with weak feeling in head. ► General chill, with quivering of flesh. ► Blood feels as if on fire ; with dry skin ; blood feels heated, with prickling. ► Hot flashes. ► Burning of feet. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
         "text": "A Text-Book of Materia Medica. (Characteristic, Analytical, and Comparative.) By Pr. Allen Corson Cowperthwaite, M. D., PH. D., LL. D. CHIMAPHILA. (Chimaphila Umbellata.) Natural order.- Ericaceae. Common names.- Pipsissewe. Prince's Pine. General Analysis.- Acts very markedly upon the urinary apparatus, especially upon the kidneys, and has proved very efficacious in the treatment of catarrhal inflammations of the urinary passages. There are no distinctly characteristic symptoms. Copyright © Robert Séror 2003",
         "source_id": "cowperthwaite-textbook-1891"
       }
@@ -260,6 +264,28 @@
       {
         "text": "Great heat, irritation and redness, followed by such sharp pain that profuse sweat over whole body ensued. Hectic fever and night sweats. θ Cystitis, or renal disease. Flushing of cheeks, with some general heat and accelerated pulse. (OBS :) Intermittent or low fevers, typhus.",
         "source_id": "hering-guiding-1879"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Perineum: Perineum, prostate gland, enlarged.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Perineum"
+      },
+      {
+        "text": "Kkk: Kidneys, fluttering.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Kkk"
+      },
+      {
+        "text": "Ppp: Perineum, ball.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Uuu: Urine, turbid, sedimentitious.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
       }
     ],
     "indications": [
@@ -412,11 +438,13 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "grieve-modern-herbal-1931",
       "hering-guiding-1879",
       "nash-leaders-1899",
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "cowperthwaite-textbook-1891",
       "felter-eclectic-1922",
       "kings-american-1898"

@@ -159,6 +159,13 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "General Analysis: CHEST, left.",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
+    ],
     "respiratory": [
       {
         "text": "Dyspnœa in old asthmatics. After coughing, feeling of emptiness. Frequent cough, with pain. Spitting blood in small quantities and with pus-like phlegm, pain in right chest. Whitish expectoration.",
@@ -182,6 +189,7 @@
   "provenance": {
     "sources": [
       "clarke-dictionary-1900",
+      "boger-genera-morborum-1907",
       "hering-guiding-1879"
     ]
   }

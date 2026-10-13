@@ -237,6 +237,38 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "Mouth And Throat: Mouth and throat, eustachian tube.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mouth And Throat"
+      },
+      {
+        "text": "Upper Limbs: Upper limbs, alternating between, upper and lower limbs.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Upper Limbs"
+      },
+      {
+        "text": "Eee: Eructations, hot, acrid; Eructations, sour, hot.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Iii: Itching.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      },
+      {
+        "text": "Lll: Lachrymal duct.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Ppp: Pruritus, senilis.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      }
+    ],
     "generalities": [
       {
         "text": "Clinical: Arteries, throbbing of; Diarrhœa; Eczema; Eyes, affections of; Genitals, offensive sweat of; Granular lids; Hands, sweat of; Headache; Heart, affections of; Heartburn; Intertrigo; Itching eruptions; Liver, affections of; Mumps; Nausea; Nose, soreness of; crusts in; Ophthalmia; Palpitation; Pruritus pudendi; Rheumatism; Styes; Taste, altered; Throat, sore",
@@ -294,6 +326,7 @@
     "sources": [
       "allen-encyclopedia-1874",
       "boericke-1927",
+      "boger-synoptic-key-1915",
       "clarke-dictionary-1900"
     ]
   }

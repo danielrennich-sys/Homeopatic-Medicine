@@ -41,6 +41,33 @@
         "text": "Clinical: Croup; Diphtheria; Diphtheritic paralysis; Myelitis",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Mouth And Throat: Mouth and throat, left.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mouth And Throat"
+      },
+      {
+        "text": "Ggg: Gray.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Held.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Nnn: Nose, alæ, fanning; Numb, painless, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Palms, hot, burn; Palms, withered; Paralysis, diphtheritic.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      }
     ]
   },
   "evidence": {},
@@ -49,7 +76,8 @@
       "allen-keynotes-1899",
       "allen-materia-medica-nosodes-1910",
       "boericke-1927",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "boger-synoptic-key-1915"
     ]
   }
 }

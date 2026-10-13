@@ -752,6 +752,70 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "comparative": [
+      {
+        "text": "[The Preparations Of Mercury] Here it rivals Pulsatilla and Kali sulphuricum, both of which are useful for these thick, yellowish-green nasal discharges, when the patient is better in the open air and worse in the evening. Pulsatilla, independently of its other symptoms, is distinguished by the fact that the discharge is never irritating, but is perfectly bland. The discharge in Kali sulph. is more apt to be yellow.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Preparations Of Mercury"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Time: Time, evening, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Uncovering, cold applications, amel., warm wraps, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Respiration: Cough, Loose.).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Respiration"
+      },
+      {
+        "text": "Ccc: Chest, rattling, coarse; Chest, rattling, without expectoration; Consolation, agg.; Croup.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Dandruff, yellow.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Eee: Expectoration, thick.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Hhh: Heat.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Nnn: Nodes.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Pus, yellow, green; Pyelitis.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Uuu: Ulcer, flowing; Urine, oxaluria.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Yyy: Yellow.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Yyy"
+      }
+    ],
     "mental_emotional": [
       {
         "text": "Dreadful vertigo, especially on rising from lying, on standing from sitting, and when looking upwards ; every moment in fear of falling and dare not leave her room.",
@@ -771,6 +835,8 @@
       "allen-encyclopedia-1874",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "farrington-clinical-1908",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879",
       "kent-lectures-1905",
       "kent-mm-1911",

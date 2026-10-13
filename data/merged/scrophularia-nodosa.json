@@ -83,6 +83,18 @@
         "source_id": "boericke-1927"
       }
     ],
+    "repertory": [
+      {
+        "text": "Vertigo: Vertigo, felt, vertex.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vertigo"
+      },
+      {
+        "text": "Vvv: Vertigo, vertex, [[felt]] in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      }
+    ],
     "indications": [
       {
         "text": "Synonyms—Carpenter's square, Scrofula plant, Figwort, Heal-all.",
@@ -130,6 +142,7 @@
   "provenance": {
     "sources": [
       "boericke-1927",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "grieve-modern-herbal-1931"
     ]

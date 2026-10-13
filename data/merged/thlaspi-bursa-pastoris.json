@@ -8,7 +8,8 @@
     ],
     "synonyms": [
       "Thlaspi Bursa Pastoris. Shepherds Purse. (Cruciferae)",
-      "Thlaspi Bursa Pastoris. (Bursa Pastoris.)"
+      "Thlaspi Bursa Pastoris. (Bursa Pastoris.)",
+      "Thlaspi"
     ]
   },
   "category": "homeopathic",
@@ -36,6 +37,10 @@
       {
         "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Thlaspi bursa pastoris. Profuse hæmorrhages from all parts of the body. Copyright © Médi-T 2006",
         "source_id": "lippe-textbook-mm-1866"
+      },
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Thlaspi. A tincture is made of the entire plant, T. Bursa-pastoris, (\"Shepherd's purse\"). ► ► Compare with the mustards, Sinapis . ► Vesicles at the place of application (chest) and its vicinity, with pustules, the skin between them bring bright red with swelling of the face so that the eyes were closed, and vesicles and bullæ on the reddened face. ► Coarse miliary rash, particularly vesicular, with stinging and itching, soothed by contact, but followed by burning, also swelling of eyelids and prepuce (from local application). Clinical :- ► ► Leucorrha , preceding and following menses, which are profuse and dark ; dark, fetid. ► Profuse hæmorrhages from all parts of the body. ► It has been found very valuable for hæmorrhages from the kidneys, especially when associated with symptoms of calculus in the kidney. ► Useful for the pains of kidney gravel. ► To some extent valuable for uric acid diathesis (Compare Ocimum ). Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
       }
     ],
     "head": [
@@ -209,7 +214,8 @@
       "boericke-1927",
       "clarke-dictionary-1900",
       "hering-guiding-1879",
-      "lippe-textbook-mm-1866"
+      "lippe-textbook-mm-1866",
+      "allen-handbook-1889"
     ]
   }
 }

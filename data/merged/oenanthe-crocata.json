@@ -9,6 +9,7 @@
     ],
     "synonyms": [
       "Œnanthe Crocata",
+      "nanthe Crocata",
       "Oenanthe. Oenanthe crocata",
       "Oenanthe crocata (LINN.)"
     ]
@@ -220,6 +221,43 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "Generalities: Foamy, frothy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Eee: Epilepsy; Epilepsy, status epilepticus.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Face, mottled, spotted; Formication.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Head, burning.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Ppp: Penis, priapism.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Skin, crawling like a bug or worm under.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Throat, burning, heat in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      }
+    ],
     "indications": [
       {
         "text": "Synonym—Water Dropwort.",
@@ -272,6 +310,7 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "grieve-modern-herbal-1931",
       "hering-guiding-1879"

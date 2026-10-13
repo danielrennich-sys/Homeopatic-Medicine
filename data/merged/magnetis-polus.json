@@ -207,13 +207,31 @@
         "text": "Oppression of the chest, as if the respiration were tremulous, and produced an impression of coolness. Drawing pressure in both sides of sternum, with anguish of conscience, which allows no rest. Violent palpitation of the heart, with great heat in cardiac region. Palpitation of the heart, during which it seems that it is not the heart that palpitates.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Upper Limbs: Upper limbs, fingers, nails, ingrown.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Upper Limbs"
+      },
+      {
+        "text": "Hhh: Hanging, down, agg. [[limb]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Nnn: Nails, ingrown.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "allen-materia-medica-nosodes-1910",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "boger-synoptic-key-1915"
     ]
   }
 }

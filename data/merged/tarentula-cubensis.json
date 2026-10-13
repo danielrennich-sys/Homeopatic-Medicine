@@ -15,6 +15,24 @@
     "homeopathic"
   ],
   "traditional": {
+    "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Tarentula Cubensis. The live Cuban spider is irritated in a bottle and the virus diluted with alcohol. Clinical :- ► This spider has been used for various forms of unhealthy or malignant suppuration, especially carbuncles, with burning stinging pain ; with great weakness and diarrha ; with most terrible pains ; bubo ; diphtheria. ► In all these diseases there is usually a purplish hue with burning stinging pains (Compare with Lach .). Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "color=\"#800000\">TARENTULA CUBENSIS Cuban Spider A toxæmic medicine, septic conditions. Diphtheria. Adapted to the most severe types of inflammation and pain, early and persistent prostration. Various forms of malignant suppuration. Purplish hue and burning, stinging pains. Bubo. It is the remedy for pain of death; soothes the last struggles. Pruritus, especially about genitals. Restless feet. Intermittent septic chills. Bubonic plague. As a curative and preventive remedy especially during the period of invasion.",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "\"The Mygale Cubensis, which may be called the Cuban Tarentula, also found in South Carolina and Texas, is a larger spider, of a dark brown colour, less poisonous, and covered with more hairs than the Tarentula Hispanica\" (Hering). The chief uses to which Trn. c. has been put are: (1) Carbuncle, even to sloughing; with great prostration and diarrhœa. (2) Intermittent fever, with evening exacerbation. A keynote symptom is \"atrocious pains.\" A case of chorea in a girl of twelve is reported (H. M., March, 1901) cured with Trn. c. 6. The movements were confined to the left side, and occurred chiefly at night, when Trn. c. was prescribed.",
+        "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Or the hairy spider. It is one of the most efficacious remedies for boils, abscesses, felons, or swellings of any kind, where the tissues put on a bluish color, and there are intense burning pains. We used to think we had two great remedies in Arsenicum and Anthracinum for these swellings; but Tarantula Cubensis is simply wonderful. I have seen felons which had kept patients awake night after night walking the floor in agony from the terrible pains so relieved in a very short time that they could sleep in perfect comfort until the swellings spontaneously discharged, and progressed to a rapid cure. This remedy should receive a thorough proving. It is a gem.",
+        "source_id": "nash-leaders-1899"
+      }
+    ],
     "head": [
       {
         "text": "Dizziness after heat and hot perspiration. Dull ache on top of head. Shooting pain through left eye across frontal region",
@@ -94,20 +112,6 @@
     "dosing": {
       "notes": "Sixth to thirtieth potency"
     },
-    "keynotes": [
-      {
-        "text": "color=\"#800000\">TARENTULA CUBENSIS Cuban Spider A toxæmic medicine, septic conditions. Diphtheria. Adapted to the most severe types of inflammation and pain, early and persistent prostration. Various forms of malignant suppuration. Purplish hue and burning, stinging pains. Bubo. It is the remedy for pain of death; soothes the last struggles. Pruritus, especially about genitals. Restless feet. Intermittent septic chills. Bubonic plague. As a curative and preventive remedy especially during the period of invasion.",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "\"The Mygale Cubensis, which may be called the Cuban Tarentula, also found in South Carolina and Texas, is a larger spider, of a dark brown colour, less poisonous, and covered with more hairs than the Tarentula Hispanica\" (Hering). The chief uses to which Trn. c. has been put are: (1) Carbuncle, even to sloughing; with great prostration and diarrhœa. (2) Intermittent fever, with evening exacerbation. A keynote symptom is \"atrocious pains.\" A case of chorea in a girl of twelve is reported (H. M., March, 1901) cured with Trn. c. 6. The movements were confined to the left side, and occurred chiefly at night, when Trn. c. was prescribed.",
-        "source_id": "clarke-dictionary-1900"
-      },
-      {
-        "text": "Or the hairy spider. It is one of the most efficacious remedies for boils, abscesses, felons, or swellings of any kind, where the tissues put on a bluish color, and there are intense burning pains. We used to think we had two great remedies in Arsenicum and Anthracinum for these swellings; but Tarantula Cubensis is simply wonderful. I have seen felons which had kept patients awake night after night walking the floor in agony from the terrible pains so relieved in a very short time that they could sleep in perfect comfort until the swellings spontaneously discharged, and progressed to a rapid cure. This remedy should receive a thorough proving. It is a gem.",
-        "source_id": "nash-leaders-1899"
-      }
-    ],
     "relationships": {
       "_raw": [
         "Compare: In intermittents, Aran. d. Carbuncle, Anthrac., Lach., Sil."
@@ -130,13 +134,53 @@
         "text": "Chills followed by intense burning fever supervene on second or third day; with great thirst, anxiety, restlessness, headache, delirium, copious perspiration and retention of urine. Later the fever takes the intermittent type, with evening paroxysms, accompanied by diarrhœa and great prostration. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Generalities: Bluish, purple, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Upper Limbs: Upper limbs, fingers, felon, runround, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Upper Limbs"
+      },
+      {
+        "text": "Bbb: Boardlike.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Hhh: Hard, stony.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Nnn: Noma.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Sss: Sudden; Sweat, relief, no.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "General Analysis: BLUISH, purple, livid, etc..",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
+      "allen-handbook-1889",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
       "nash-leaders-1899"
     ]
   }

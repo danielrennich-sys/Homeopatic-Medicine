@@ -1,0 +1,28 @@
+{
+  "id": "atropia-sulphurica",
+  "names": {
+    "primary": "Atropia Sulphurica",
+    "latin": "Atropia Sulphurica",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Vvv: Vision, diplopia, vertical.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

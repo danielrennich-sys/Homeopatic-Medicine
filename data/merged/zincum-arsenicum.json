@@ -1,0 +1,53 @@
+{
+  "id": "zincum-arsenicum",
+  "names": {
+    "primary": "Zincum Arsenicum",
+    "latin": "Zincum Arsenicum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Vision: Vision, illusions of, colors, blue.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vision"
+      },
+      {
+        "text": "Aaa: Arms, numb; Arms, numb, right to left; Arms, writing, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Bladder, burning, heat, etc.; Bladder, burning, heat, etc., neck.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Lll: Lumbar back; Lumbar back, exertion, agg.; Lumbar back, jarring, agg.; Lumbar back, sitting, agg.; Lumbar back, standing, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Ooo: Occiput.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ooo"
+      },
+      {
+        "text": "Sss: Soles, ache; Soles, pressure, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

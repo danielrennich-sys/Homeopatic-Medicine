@@ -149,6 +149,13 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "comparative": [
+      {
+        "text": "[The Ophidia] Lachnanthes, like Lachesis, causes glistening eyes during the chill, icy coldness of the body, relieved by warmth. But only the former has brilliant eyes and circumscribed red cheeks with the fever and de- lirium.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      }
+    ],
     "indications": [
       {
         "text": "The whole plant Lachnanthes tinctoria, Elliott.Nat. Ord.—Haemodoraceae.COMMON NAMES: Red root, Spirit weed.",
@@ -178,6 +185,7 @@
       "allen-encyclopedia-1874",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
+      "farrington-clinical-1908",
       "guernsey-keynotes-1887",
       "kings-american-1898"
     ]

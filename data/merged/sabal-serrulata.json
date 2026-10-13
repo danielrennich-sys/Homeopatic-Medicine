@@ -180,6 +180,88 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "Perineum: Perineum, prostate gland; Perineum, prostate gland, enlarged.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Perineum"
+      },
+      {
+        "text": "Male Organs: Male organs, coldness.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Male Organs"
+      },
+      {
+        "text": "Aaa: Abdomen, thighs, into.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Bladder; Bladder, irritable.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Craves, buttermilk; Cutting.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Eee: Enuresis.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Ggg: Genitals; Genitals, cold.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Hearing, acute.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Mmm: Mammæ, cold, agg.; Mammæ, small; Mammæ, sore, painful; Menses, bladder, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Nerves, nervous.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ooo: Ovaries.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ooo"
+      },
+      {
+        "text": "Ppp: Prostate, inflamed.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Semen, painful; Sexual, appetite, decreased, etc.; Stinging.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Testes, retracted.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Urine, sediment, limy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vertex, across; Vulva, open.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      }
+    ],
     "indications": [
       {
         "text": "Synonym—Sabal serrulata.",
@@ -321,6 +403,7 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "livertox-nih",
       "nccih",

@@ -24,6 +24,13 @@
         "source_id": "allen-encyclopedia-1874"
       }
     ],
+    "repertory": [
+      {
+        "text": "Sss: Sick, feeling.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      }
+    ],
     "indications": [
       {
         "text": "Synonym—Virginia Snakeroot.",
@@ -111,6 +118,7 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "felter-eclectic-1922",
       "kings-american-1898"

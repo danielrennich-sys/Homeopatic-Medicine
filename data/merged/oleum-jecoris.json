@@ -234,6 +234,58 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Foods, drink, milk, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Bbb: Back, chills, up.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Chest, spot; Chest, stitches; Cold, taking; Consumption.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Hhh: Heart, palpitation, cough, agg.; Hectic [[fever]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Mmm: Milk, crust.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Ppp: Palms, hot, burn.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Rrr: Ringworm.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Scalp, milk crust; Spots.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Tendons, tense, short, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Yyy: Yellow.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Yyy"
+      }
+    ],
     "respiratory": [
       {
         "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Ol. j.]. Hoarseness connected with incipient as well as advanced stages of consumption. Irritating cough. Violent cough, with retching night and day. Laughing excites fits of coughing. Cough : on raising arm, with stitches ; < from drafts of air ; < on lying down at night ; loose all day ; < on lying down, preventing her from sleeping ; severe, following exposure to cold, damp weather, at times yellowish expectoration, at others cough dry, hacking ; long-continued, with emaciation, loss of strength and appetite, finally excessive weakness, with expectoration of heavy, bloody mucus. Expectoration : yellow or yellowish-green.",
@@ -253,6 +305,7 @@
       "allen-encyclopedia-1874",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879"
     ]
   }

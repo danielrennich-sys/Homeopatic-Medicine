@@ -158,6 +158,23 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Tongue: Tongue, bluish.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Tongue"
+      },
+      {
+        "text": "Eee: Eructations, sour, hot; Eyes, pressed, out.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Ttt: Tongue, black, blue, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      }
+    ],
     "nose": [
       {
         "text": "Frequent violent sneezing, originating very high up in nose.",
@@ -226,6 +243,7 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879",
       "lippe-textbook-mm-1866",
       "allen-encyclopedia-1874",

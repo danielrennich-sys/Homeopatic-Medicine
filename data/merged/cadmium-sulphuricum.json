@@ -13,6 +13,48 @@
     "homeopathic"
   ],
   "traditional": {
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Raising up, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Vomiting: Vomiting, at once.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vomiting"
+      },
+      {
+        "text": "Aaa: Abdomen, cold.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Back, kidneys, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Kkk: Kidneys, sore.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Kkk"
+      },
+      {
+        "text": "Nnn: Nose, foul, ozna; Numb, painless, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Rrr: Respiration, sleep, falling to, on.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Vvv: Vomiting, black; Vomiting, blood.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      }
+    ],
     "keynotes": [
       {
         "text": "Main LECTURES ON HOMŒOPATHIC MATERIA MEDICA by JAMES TYLER KENT, A.M., M.D. Late Professor of Materia Medica in Hering College, Chicago. Presented by Dr Robert Séror",
@@ -155,6 +197,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "boger-synoptic-key-1915",
       "kent-lectures-1905",
       "kent-mm-1911",
       "lippe-textbook-mm-1866"

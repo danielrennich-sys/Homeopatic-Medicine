@@ -59,6 +59,10 @@
         "source_id": "boericke-1927"
       },
       {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Petroselinum. A tincture is made of the fresh plant of the Parsley, Petroselinum sativum, Hoff. ► ► Frequent desire to urinate caused by a crawling stitch behind navicular fossa. ► Orifice of urethra agglutinated with mucus. ► Discharge from urethra milky ; (yellow) ; (albuminous). ► Drawing and sticking in navicular fossa , that changed after urinating to cutting biting ; D. in navicular fossa , then itching ; D. behind navicular fossa , with pressure. ► Burning in navicular fossa when urinating . ► (Crawling rather than burning, extending from perineum through urethra when urinating.). ► Creeping crawling in isthmus of urethra in morning in bed ; in urethra, in region of Cowper's glands, in morning in bed, then pressure, amel. standing and sitting. ► Voluptuous tickling in navicular fossa. ► Priapismus, without curvature of penis . ► Profuse emission towards morning. Clinical :- ► Acute inflammation of the urethra and bladder, sudden attacks of urging to urinate, which, if not immediately attended to, will cause severe pain. ► Gonorrha, with strangury, constant irresistible desire to urinate. ► (Notice the marked localization of sensations in the navicular fossa ; this is quite characteristic.). Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
         "text": "Intermittent fever: complicating traumatic or chronic urethritis or stricture; with abdominal affections and perverted or defective assimilation. Thirsty and hungry, yet as soon as they begin to eat or drink they loose all desire (rev. of, Cal.). Sudden urging to urinate (Canth.). Child suddenly seized with desire to urinate; if cannot be gratified at once, jumps up and down with pain. Burning, tingling from perineum throughout whole urethra. Frequent voluptuous tickling in fossa navicularis. Gonorrhoea: sudden irresistible desire to urinate; intense biting, itching, deep in urethra, must rub it with some rough article in urethra for >; pain at root of penis or neck of bladder. Gleet.",
         "source_id": "allen-keynotes-1899"
       },
@@ -179,6 +183,25 @@
       {
         "text": "Ague, especially quotidian type ; periodicity strongly marked ; stages regular both in their evolution and succession ; adapted to acute, non-miasmatic fevers which appear to depend upon defective assimilation or perverted innervation ; indicated in men, when the pyrexia is accompanied by flatulent dyspepsia, with heat and twitching in epigastric region, eructations, nausea, vomiting and colics ; in women of strong plethoric constitutions, whose menses are painful and slight or even absent, with lumbar or inguinal pains ; slight cerebral excitement. Intermittent fevers complicated with abdominal affections (eight cases cured after failure of Quinine). Intermittent fevers ; complicating traumatic or chronic inflammation of urethra and even stricture.",
         "source_id": "hering-guiding-1879"
+      }
+    ],
+    "comparative": [
+      {
+        "text": "[The Umbelliferie, The Berberidaceis And] Petroselinum comes into use in urethral disease, especially in gonor- rhoea, when the inflammation has travelled back, and the patient com- plains of pain at the root of the penis. There is a sudden irresistible desire to urinate, and itching deep in the perineum.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Umbelliferie, The Berberidaceis And"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Ttt: Trickling.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Urethra, trickling; Urination, hurried, sudden.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
       }
     ],
     "indications": [
@@ -314,9 +337,12 @@
     "sources": [
       "boericke-1927",
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "allen-keynotes-1899",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
+      "farrington-clinical-1908",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "felter-eclectic-1922",
       "hering-guiding-1879",

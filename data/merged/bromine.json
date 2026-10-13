@@ -11,6 +11,13 @@
     "homeopathic"
   ],
   "traditional": {
+    "comparative": [
+      {
+        "text": "[The Preparations Of Antimony] [ Bromine, Iodine, Spongia. Skin. — Conium, Mercurius, Kalibi., Kali hyd. Bowels. — Veratr. alb., Merc.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Preparations Of Antimony"
+      }
+    ],
     "keynotes": [
       {
         "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T BROMINE This remedy affects particularly the internal head, left side. Important in diphtheria and croup, especially in children having thin, white, delicate skins, and very light hair and eyebrows. Mental.-- Cheerful mood; desire for mental labor. Diphtheria.-- When the Diphtheria begins in the larynx and runs up. Croup.-- When with all the croupy sound, there is a good deal of loose rattling in the larynx with the breathing and coughing, but no choking in the cough, as there is in Hepar . Generalities.-- Affects chiefly eyes, chest and heart. In females, escape of flatus from the vagina. Worse.-- In the first part of the night. Copyright © Médi-T 2000",
@@ -53,6 +60,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "farrington-clinical-1908",
       "guernsey-keynotes-1887",
       "lippe-textbook-mm-1866",
       "nash-leaders-1899"

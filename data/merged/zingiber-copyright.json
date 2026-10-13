@@ -1,0 +1,35 @@
+{
+  "id": "zingiber-copyright",
+  "names": {
+    "primary": "Zingiber Copyright",
+    "latin": "Zingiber Copyright",
+    "common": [],
+    "synonyms": [
+      "Zingiber Copyright © Médi-T 1999"
+    ]
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Room).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Stomach And Abdomen: Stomach and abdomen, drinking (water), agg.; Stomach and abdomen, drinking (bad water), agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Stomach And Abdomen"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

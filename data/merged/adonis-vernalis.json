@@ -73,6 +73,18 @@
         "source_id": "boericke-1927"
       }
     ],
+    "repertory": [
+      {
+        "text": "Ccc: Cough, heart, from.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Rrr: Respiration, back, touching, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      }
+    ],
     "indications": [
       {
         "text": "Synonyms—Adonis Apennina, Pheasant's eye.",
@@ -144,6 +156,7 @@
   "provenance": {
     "sources": [
       "boericke-1927",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "felter-eclectic-1922"
     ]

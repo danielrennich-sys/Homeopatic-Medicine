@@ -119,6 +119,18 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "Face: Face, twitching, trembling, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Face"
+      },
+      {
+        "text": "Lower Limbs: Lower limbs, jerking up.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lower Limbs"
+      }
+    ],
     "generalities": [
       {
         "text": "Main THE ENCYCLOPEDIA OF PURE MATERIA MEDICA By TIMOTHY F. ALLEN, A.M., M.D. Presented by Médi-T MYGALE. \"Mygale Lasiodora Cubana.\" A large, black, Cuban spider. Preparation , Tincture prepared by putting the live insect into alcohol. Authorities. Dr. John G. Houard. Hahn. Month., 1869, vol. 5, p. 8; 1 , proving by a young lady, 10 drops (tincture?) first day, 20 drops second and third days; 2 , effects of bite on instep, of \"Mygale avicularia,\" in a man, Am. Hom. Rev., 5, 81. MIND. ► At 8 P.M., he became delirious, talked about his business, and was restless during the whole night, [2] . ► Felt sad all day (third day), [1] . ► Despondency, with anxious expression, [2] . ► Fear of death, [2] . FACE. ► Face flushed, [2] . MOUTH. ► Tongue dry and parched (third day), [1] . ► Tongue dry and coated brown, [2] . STOMACH. ► Aversion to food, no appetite whatever, at dinner-time; took no food till tea-time, then only a cup of tea and a small piece of bread; felt better after eating (second day), [1] . ► Excessive thirst, [1] . [10.] ► Nausea, with strong palpitation of the heart, dimness of sight, and general weakness (after twenty minutes, second day); nausea and palpitation of the heart returned with greater force (third day), [1] . URINARY ORGANS. ► Increased discharge of urine, with stinging pain in the urethra; the urine during the day was burning and hot, it seemed scalding (fourth day), [1] . RESPIRATORY ORGANS. ► Difficult breathing, [2] . PULSE. ► Pulse, 130, [2] . BACK. ► Pain in the back, extending around to the front (third day), [1] . INFERIOR EXTREMITIES. ► Local inflammation very extensive, reaching from the foot as high up as the knee, leaving a large violent spot, which changed in a few hours to a greenish color (after thirty minutes), [2] . ► Pulsating, stinging pain in the foot, [2] . GENERAL SYMPTOMS. ► Tremulousness over the whole body, in the evening (third day), [1] . ► Great prostration (third day), [1] . ► The symptoms lasted for days, with more or less intensity, and gradually passed off, [1] . SLEEP. [20.] ► Restless all night, with ridiculous dreams (third day), [1] . FEVER. ► Severe chill, which lasted thirty minutes (after two hours); then fever set in, with trembling of the whole body, [2] . Copyright © Médi-T ® 2000 Main",
@@ -234,6 +246,7 @@
   "provenance": {
     "sources": [
       "boericke-1927",
+      "boger-synoptic-key-1915",
       "nash-leaders-1899",
       "allen-encyclopedia-1874",
       "clarke-dictionary-1900",

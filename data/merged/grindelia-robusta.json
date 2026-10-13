@@ -74,6 +74,38 @@
         "source_id": "nash-leaders-1899"
       }
     ],
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Sleep, falling to or first, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Eyes: Eyes, backward (drawing, etc.).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eyes"
+      },
+      {
+        "text": "Respiration: Respiration; Respiration, difficult, on falling to sleep; Respiration, paralysis.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Respiration"
+      },
+      {
+        "text": "Cough: Cough, expectoration, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Cough"
+      },
+      {
+        "text": "Bbb: Bronchorrha.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Rrr: Respiration, sleep, falling to, on.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      }
+    ],
     "indications": [
       {
         "text": "Related entry: Grindelia squarrosa",
@@ -173,6 +205,7 @@
   "provenance": {
     "sources": [
       "boericke-1927",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "hering-guiding-1879",
       "nash-leaders-1899"

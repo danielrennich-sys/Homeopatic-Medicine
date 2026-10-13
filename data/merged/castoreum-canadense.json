@@ -203,6 +203,73 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Time: Time, morning, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Menses, during, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Stomach And Abdomen: Stomach and abdomen, pressure, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Stomach And Abdomen"
+      },
+      {
+        "text": "Chest And Lungs: Chest and lungs, forward.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Chest And Lungs"
+      },
+      {
+        "text": "Bbb: Bearing down.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Coldness, bearing down with; Colic, weakness, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Mmm: Menses, diarrha, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Nerves, nervous.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Pressure, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Spasm; Sweat, cold.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Tongue, twitching; Touch, agg., hard pressure, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Uterus.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Yyy: Yawning, accompaniment, as an.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Yyy"
+      }
+    ],
     "respiratory": [
       {
         "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Cast.]. Hoarseness with disposition to clear throat. Shortness of breathing, in forenoon ; when walking fast. Short, difficult breathing, with frequent, long inspirations. Very deep inspirations, with heat in breast and in face. Frequent, slow, deep inspirations, with short expirations.",
@@ -234,6 +301,7 @@
       "boericke-1927",
       "allen-encyclopedia-1874",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879"
     ]
   }

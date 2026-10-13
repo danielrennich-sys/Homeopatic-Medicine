@@ -24,6 +24,10 @@
         "source_id": "allen-encyclopedia-1874"
       },
       {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Asclepias Cornuti (Syriaca). This species of milk-weed is quite common in the United States, growing on roadsides. A tincture is prepared from the root. Group for Comparison :- ► Apocynum c . ► Appeared dull and stupid. ► Headache ; morning on waking, with disagreeable feeling in stomach ; principally between eyes. ► Vertigo. ► Constriction across forehead. ► Tongue covered with thick fur. ► Tickling in fauces. ► Burning and tickling in fauces and throat. ► Appetite increased. ► Food little relished. ► Nausea. ► Vomiting ; violent, with retching ; then rawness in stomach and pain, cold skin, feeble pulse and feeling as if a sharp instrument were thrust through from one temple to the other . ► Pain in stomach ; and rawness. ► Uneasiness in stomach. ► Increased secretion of bile. ► Excoriation of anus. ► Stool, slight inclination to ; soft and yellow ; fluid, copious, yellowish, with griping ; soft, copious, brown, with pain in bowels ; frequent. ► Ardor urinæ. ► Urine increased ; in morning ; with increase of specific gravity and solid matter ; and pale, of lighter specific gravity. ► Increase of water in urine. ► Tickling at end of penis. ► Increase of bronchial secretions . ► Heart's action increased. ► Pulse quick and full ; quick and feeble after vomiting. ► Drowsiness and sleep. ► \"Slept rather hard\" during the night. ► Sweat profuse. Clinical :- ► Has relieved persons suffering from dropsy dependent on disease of the kidneys and heart ; it appears to increase the quantity of urine and perspiration. ► Nervous headaches after suppressed perspiration, followed by profuse flow of urine. ► Dropsy following scarlet fever, or from heart disease. ► Rheumatism of large joints. ► Intermittent, pressing uterine pains, threatening miscarriage in pregnant women, have been removed. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
         "text": "color=\"#800000\">ASCLEPIAS CORNUTI Silk-weed (ASCLEPIAS SYRIACA) Seems to act especially on nervous system and urinary organs. A remedy for dropsy, hepatic, renal or cardiac and post-scarlatinal; causes diaphoresis and augments the urinary secretion. Acute rheumatic inflammation of large joints. Intermittent, pressing-down uterine pains.",
         "source_id": "boericke-1927"
       },
@@ -55,6 +59,38 @@
     "dosing": {
       "notes": "Tincture"
     },
+    "repertory": [
+      {
+        "text": "Generalities: Emaciated: Emaciation",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Of numbness: When walking as if leaned forward and to left side | Of numbness: Weak and languid feeling as after long and severe illness | Forward: Feeling when walking as if leaned forward and to left side",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Illness: Weak and languid feeling, as after long and severe illness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Weak and languid feeling: As after long and severe illness | Leaned: Feeling when walking as if leaned forward and to left side | Sil. Left: Feeling when walking as if leaned forward and to left side",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Side: Feeling when walking as if leaned forward and to left side",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Walking: Feeling when walking as if leaned forward and to left side | Weak: And languid feeling as after long and severe illness",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ],
     "indications": [
       {
         "text": "Related plants: Asclepias Incarnata.—Flesh-Colored Asclepias - Asclepias (U. S. P.)—Asclepias",
@@ -94,8 +130,10 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "boericke-1927",
       "cowperthwaite-textbook-1891",
+      "gentry-rubrical-mm-1890",
       "kings-american-1898"
     ]
   }

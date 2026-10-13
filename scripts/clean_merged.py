@@ -125,6 +125,7 @@ ALIASES = {
     "lachesis-surukuku": "lachesis",
     "mercurius-vivus": "mercurius",
     "mercurius-solubilis": "mercurius",
+    "mercury": "mercurius",
     "pulsatilla-pratensis": "pulsatilla",
     "pulsatilla-nigricans": "pulsatilla",
     "pulsatilla-anemone": "pulsatilla",

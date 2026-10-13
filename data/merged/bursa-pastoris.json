@@ -1,0 +1,109 @@
+{
+  "id": "bursa-pastoris",
+  "names": {
+    "primary": "Bursa Pastoris",
+    "latin": "Bursa Pastoris",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Exertion, amel.; Motion, rapid, violent, (running, dancing, etc.) amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Generalities: Hæmorrhage, bloody discharges, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Vision: Vision, illusions of, letters running together.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vision"
+      },
+      {
+        "text": "Taste: Taste, bad, to water.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Taste"
+      },
+      {
+        "text": "Chest And Lungs: Chest and lungs, lump, plug, etc., as of.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Chest And Lungs"
+      },
+      {
+        "text": "Mammæ: Mammæ, below, left; Mammæ, milk, in breasts (of non-pregnant).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mammæ"
+      },
+      {
+        "text": "Dorsal Region: Dorsal region, weak, interscapular.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Dorsal Region"
+      },
+      {
+        "text": "Ccc: Craves, buttermilk.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Discharges, retained, ceasing, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Eee: Eyes, vertex to.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Ggg: Genitals, prolapse.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Mmm: Menses, alternate months.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Sss: Scapulæ, between, weak; Sexual, excitement; Sternum, lump.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Uuu: Ulcer, bleeding.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vagina, prolapse; Vertex, fly off [[as if]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Www: Walk, impulse to.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      },
+      {
+        "text": "General Analysis: HEMORRHAGE, bloody discharges.",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

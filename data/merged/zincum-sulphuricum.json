@@ -110,13 +110,41 @@
         "text": "Coldness. Shivering: violently, and slight quivering of lips. Skin and extremities cold and clammy. Fever followed by profuse sweat. Constant heat, preventing sleep. Burning heat of extremities. Profuse sweat. Hands covered with cold, clammy sweat, but to herself they felt hot, and she tried to get hold of anything to cool them. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Eyes: Eyes, cornea, opacity.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eyes"
+      },
+      {
+        "text": "Saliva: Saliva, increased, pregnancy, in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Saliva"
+      },
+      {
+        "text": "Hhh: Hands, sweat on, cold, on dorsæ.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Ooo: Orbits.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ooo"
+      },
+      {
+        "text": "Uuu: Ulcer, flowing.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "boger-synoptic-key-1915"
     ]
   }
 }

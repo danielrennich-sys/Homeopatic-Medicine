@@ -16,6 +16,33 @@
     "herbal"
   ],
   "traditional": {
+    "repertory": [
+      {
+        "text": "Mammæ: Mammæ, milk, flowing, as if.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mammæ"
+      },
+      {
+        "text": "Sleep: Sleep, somnambulism.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sleep"
+      },
+      {
+        "text": "Hhh: Hypogastrium, bearing down.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Mmm: Mammæ, flowing in [[as if]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Vvv: Vision, menses, before, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      }
+    ],
     "habitat": [
       {
         "text": "Germany. France. Alsace. Spain. Austria. Italy. Asia Minor.",
@@ -92,6 +119,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "boger-synoptic-key-1915",
       "grieve-modern-herbal-1931",
       "allen-encyclopedia-1874",
       "clarke-dictionary-1900"

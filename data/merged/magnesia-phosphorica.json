@@ -25,6 +25,10 @@
   "traditional": {
     "keynotes": [
       {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Magnesia Phosphorica. Pure phosphate of Magnesium is triturated for use. Clinical :- ► This drug has been used recently by the disciples of Schüssler in place of the well-proved preparation of Magnesia ( Mag. carb . and Mag. mur .). ► Schüssler's indications are mostly found in Hahnemann's symptoms of the preparations above noted. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
         "text": "Is best adapted to thin, emaciated persons of a highly nervous organization; dark complexion. Affections of right side of body; head, ear, face, chest, ovary, sciatic nerve (Bell., Bry., Chel., Kali c., Lyc., Pod.). Pains: sharp, cutting, stabbing; shooting, stitching; lightning-like in coming and going (Bell.); intermittent, paroxysym becoming almost unberable, driving patient to frenzy; rapidly changing place (Lac c., Puls.), with a constricting sensation (Cac., Iod., Sulph.); cramping, in neuralgic affections of stomach, abdomen and pelvis (Caul., Col.). Great dread: of cold air; of uncovering; of touching affected part; of cold bathing or washing; of moving. Languid, tired, exhausted; unable to sit up. Complaints from standing in cold water or working in cold clay (Cal.). Ailments of teething children; spasms during dentition, no fever (with fever, hot head and skin, Bell.). Headache: begins in occiput and extends over head (Sang., Sil.); of school girls; face red, flushed; from mental emotion, exertion or hard study; by pressure and external heat. Neuralgia; of face, supra-orbital or infra-orbital; right side; intermittent, darting, cutting by external heat. Toothache: at night; rapidly shifting; by heat (> by cold, Bry., Coff., Fer. p.). Spasms or cramps of stomach, with clean tongue, as if a hand was drawn tightly around body. Colic: flatulent, forcing patient to bend double; > by heat, rubbing and hard pressure (Col., Plumb.); of horses and cows when Colocynth fails to >. Menses: early; flow dark, stringy; pains when flow begins (Lach., Zinc.); pains darting, like lightning, shooting, by heat and bending double; vaginismus. Enuresis: nocturnal; from nervous irritation; urine pale, copious; after catheterization. Cramps: of extremities; during pregnancy; of writers, piano or violin players.",
         "source_id": "allen-keynotes-1899"
       },
@@ -556,14 +560,180 @@
         "text": "Spasmodic yawning. Insomnia from exhaustion or lack of brain nutrition.",
         "source_id": "hering-guiding-1879"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Time: Time, morning, agg., 11 A.M.; Time, afternoon, agg., 2 P.M..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Air, open, cool, agg.; Bending or doubling up, amel.; easily chilled, lacks heat; Cold, becoming, uncovering or undressing, agg.: warmth of beds, wraps or external heat, amel.; Hot applications, amel.; Pressure, amel.: lying on painful or affected side, etc., amel.; Rubbing, stroking, etc., amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Generalities: Associated attacks, recurrent; radiating (sensations); Nerve pain, neuralgia, etc.; Spasmodic.).",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Mind: Mind, shrieks, cries, screams.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mind"
+      },
+      {
+        "text": "Head: Head, uncovering, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Head"
+      },
+      {
+        "text": "Face: Face; Face, pain, neuralgia, migraine, prosopalgia, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Face"
+      },
+      {
+        "text": "Teeth: Teeth, row, in a whole.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Teeth"
+      },
+      {
+        "text": "Tongue: Tongue, clean.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Tongue"
+      },
+      {
+        "text": "Hiccough: Hiccough.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hiccough"
+      },
+      {
+        "text": "Stomach And Abdomen: Stomach and abdomen, warm (foods), amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Stomach And Abdomen"
+      },
+      {
+        "text": "Hypochondriæ: Hypochondriæ, gall-bladder, gall-stones, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hypochondriæ"
+      },
+      {
+        "text": "Lower Limbs: Lower limbs, alternating between.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lower Limbs"
+      },
+      {
+        "text": "Aaa: Abdomen, contracted; Abdomen, thighs, into; Asthma, nervous.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Boring, grinding.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Cough, air, cool, amel.; Cramp; Cries, pains, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Direction, radiating, spreading, distant parts, to.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Fff: Fingers, tense; Fingers, using [[agg.]]; Fingers, writing, agg.; Flatulence, painful.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Here and there; Hot, bath, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Lll: Lips, cracked, angles.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Nnn: Nerves, nervous.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ooo: Ovaries.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ooo"
+      },
+      {
+        "text": "Rrr: Restless.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Sciatic nerve, heat, amel.; Stains, fast; Sudden.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Talk, troubles, of her; Tension; Trembling, nervous.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Vvv: Vagina, spasm; Vertebra, absent [[seems]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Www: Writing, cramp.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      },
+      {
+        "text": "General Analysis: CRAMP, colic, etc.; DIRECTION of sensations, Radiating; LYING, bent or doubled up, Amel..",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      },
+      {
+        "text": "Generalities: Changing: Quick, stitching, shooting pains, appearing at intervals and changing location",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Intervals: shooting pains, appearing at intervals and changing location",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Constantly change location: Quick stitching shooting pains appearing at intervals and changing location",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Stitching shooting pains appearing at intervals and changing location",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Shooting: Quick stitching shooting pains appearing at intervals and changing lactation",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
+      "allen-handbook-1889",
       "allen-keynotes-1899",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890",
       "hering-guiding-1879",
       "kent-lectures-1905",
       "kent-mm-1911",

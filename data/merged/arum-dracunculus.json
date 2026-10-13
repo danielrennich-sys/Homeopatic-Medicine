@@ -23,6 +23,10 @@
     ],
     "keynotes": [
       {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Arum Dracunculus. Preparation, General Action and Relationship same as Arum tri . ► Taste styptic and metallic, with bitterness in back of mouth. ► Hand feels as if plunged among nettles. ► Fingers feel as if stings were driven perpendicularly into them when rubbed together. ► Prickings as of thorns in right fingers. ► Pricking in fingers, with itching. ► Pain in right index as if pulled. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
         "text": "A. dracun. is commonly cultivated in gardens. It has a fetid smell which is apt to cause headache. The following effects of pounding the root and tearing up leaves and stems have been observed: Styptic metallic taste at back of mouth. Pricking, mingled with intolerable itching in fingers, as if hand plunged among nettles. On rubbing the fingers together, sensation as if a vast number of stings were driven perpendicularly into them. Copyright © Médi-T ® 2000 Main",
         "source_id": "clarke-dictionary-1900"
       }
@@ -32,6 +36,7 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "clarke-dictionary-1900"
     ]
   }

@@ -169,6 +169,23 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "Ttt: Tetany.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Generalities: Convulsive: Jerks",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Jerks: Convulsive",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ],
     "preparation": [
       {
         "text": "The whole plant, gathered in early autumn, when in both flower and fruit and dried. Also the fresh leaves. When the plant grows at all in a bunchy mass, strip off the stems singly and dry them under the same conditions as given above for Belladonna leaves, tying several stems together in a bunch, however, spread out fanwise for the air to penetrate to all parts, and hang the bunches over strings, rather than in trays. The bunches should be of uniform size. [ Top ]",
@@ -188,6 +205,8 @@
       "allen-encyclopedia-1874",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890",
       "grieve-modern-herbal-1931"
     ]
   }

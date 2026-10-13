@@ -213,6 +213,93 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Vaccination, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Lumbar Region: Lumbar region.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lumbar Region"
+      },
+      {
+        "text": "Skin: Skin, eruptions, herpetic; Skin, eruptions, indented; Skin, eruptions, pustulating; Skin, eruptions, variola; Skin, eruptions, zoster.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Skin"
+      },
+      {
+        "text": "Aaa: Abdomen, distended; Abdomen, large; Aching.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Blood.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Cupped.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Eee: Eyes, arcus senilis.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Formication.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Lll: Legs, ache.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Nnn: Nausea, odors, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ooo: Occiput; Odors, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ooo"
+      },
+      {
+        "text": "Ppp: Palms, eczema; Pustules.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Rrr: Regurgitation.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Scooped out [[looks]]; Skin, crawling like a bug or worm under; Small pox; Spine; Sweat, offensive.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Taste, metallic, coppery, etc.; Taste, putrid, filthy; Tongue, protruded; Trickling.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Ulcer, scooped out.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vision, green.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      }
+    ],
     "nose": [
       {
         "text": "Chronic catarrh. Vacc. S. Full feeling of head, with running at nose. Vacc. S. Bleeding at nose preceded by a feeling of contraction above and between eyebrows, soon after eating meat ; menses rather profuse and too frequent ; cured by revaccination. Ma.",
@@ -251,6 +338,7 @@
       "allen-materia-medica-nosodes-1910",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879"
     ]
   }

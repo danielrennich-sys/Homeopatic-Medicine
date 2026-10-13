@@ -19,6 +19,10 @@
         "source_id": "allen-encyclopedia-1874"
       },
       {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Ammonium Phosphoricum. Clinical :- ► It has been used successfully in some cases of nodosities of the joints of the fingers and backs of the hands, and also for chronic bronchitis in patients suffering from chronic rheumatic gout. ► It has also been used with success in facial paralysis. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
         "text": "color=\"#800000\">AMMONIUM PHOSPHORICUM Phosphate of Ammonia A remedy for chronic gouty patients uric acid diathesis, indicated in bronchitis and nodosities of the joints of the fingers and backs of the hands. Facial paralysis. Pain in shoulder-joint. Tightness around chest. Heaviness of limbs, unsteady, tottering gait. Coldness from least draft of air.",
         "source_id": "boericke-1927"
       },
@@ -57,14 +61,31 @@
     ],
     "dosing": {
       "notes": "Third decimal trituration"
-    }
+    },
+    "comparative": [
+      {
+        "text": "[The Ammonium Preparations] We have on the board to-day several of the salts of ammonia, the Carbonate of Ammonia or Ammonium carb., Caustic Ammonia or Ammonium causticum, Muriate of Ammo?iia or Ammonium muriaticum and Phosphate of Ammonia or Ammonium phosphoricum . The am- monium salts taken as a class, we find best suited to rather fat and bloated persons. Ammo?iium carb. is particularly indicated in fat flabby individuals of indolent disposition who lead a sedentar}- life. This is very different from Nux vomica and Sulphur, both of which are indicated in complaints arising from sedentary habits. But Ammonium carb. is especially indicated in fat lazy individuals.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ammonium Preparations"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Uuu: Urine, sediment, rosy red.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      }
+    ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "boericke-1927",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "farrington-clinical-1908",
+      "boger-synoptic-key-1915"
     ]
   }
 }

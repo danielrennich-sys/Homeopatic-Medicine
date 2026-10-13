@@ -132,6 +132,103 @@
     "dosing": {
       "notes": "Third to thirtieth potency"
     },
+    "repertory": [
+      {
+        "text": "Time: Time, evening, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Biting or chewing, agg.; Lying, agg.; Pressure, amel.: lying on painful or affected side, etc., amel.; Twilight, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Generalities: Bursting.); Jerking pain.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Mind: Mind, forsaken, lonely.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mind"
+      },
+      {
+        "text": "Head: Head, vertex; Head, pains, extending, downward to nose, face, neck, etc.; Head, pains, extending, upward, ascending; Head, pains, extending, right; Head, compression, squeezing, etc.; Head, dull or heavy aching; Head, pressure, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Head"
+      },
+      {
+        "text": "Stomach And Abdomen: Stomach and abdomen, coldness.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Stomach And Abdomen"
+      },
+      {
+        "text": "Chest And Lungs: Chest and lungs, pulsation, left.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Chest And Lungs"
+      },
+      {
+        "text": "Chill, Chilliness, Coldness, Etc. In General: Chill, chilliness, coldness, etc. in general; Chill, chilliness, coldness, etc., partial or single parts.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Chill, Chilliness, Coldness, Etc. In General"
+      },
+      {
+        "text": "Aaa: Ankles, cramp.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Ccc: Chill, partial, one part, prominent; Chill, yawning, with; Coldness, affected part.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Hhh: Hair, bristling.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Iii: Icy cold.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      },
+      {
+        "text": "Lll: Lips, cracked, chapped.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Nnn: Nape, ascending, from; Nape, heavy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Sss: Scapulæ, boring, left.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Thighs, cramp.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Vvv: Vertex, pressure, heavy, crushing, etc., on.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Www: Warts, suppressed.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      },
+      {
+        "text": "General Analysis: COLDNESS, Partial; LYING, Agg..",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
+    ],
     "habitat": [
       {
         "text": "The Buckbean, or Bogbean, grows in spongy bogs, marshes and shallow water throughout Europe, being rather scarce in the south of England, though common in the north and in Scotland.",
@@ -250,6 +347,8 @@
     "sources": [
       "allen-keynotes-1899",
       "boericke-1927",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
       "grieve-modern-herbal-1931",
       "guernsey-keynotes-1887",
       "hering-guiding-1879",

@@ -11,6 +11,28 @@
     "homeopathic"
   ],
   "traditional": {
+    "comparative": [
+      {
+        "text": "[The Ophidia] In facial convulsions compare: Nux vomica, Hyoscyamus, Bella- donna, Hydrocyanic acid, Lycopodhim, Cicuta, Camphor, Phytolacca, Arse?iic.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      },
+      {
+        "text": "[The Umbelliferie, The Berberidaceis And] Cicuta virosa, another member of the order, when taken in any quantity produces congestion at the base of the brain and in the me- dulla oblongata. At first, the patient is rigid, with fixed staring eyes, bluish face and frothing at the mouth and unconsciousness. Next, there passes a shock, or series of shocks, from the head through the body. The jaws are locked, the patient bites the tongue. These spas- modic symptoms are followed by profound exhaustion. These symp- toms indicate Cicuta in epilepsy, spasms from worms, and also in some forms of puerperal spasms.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Umbelliferie, The Berberidaceis And"
+      },
+      {
+        "text": "[The Umbelliferie, The Berberidaceis And] We notice, too, that Cicuta, in addition to these symptoms, develops phenomena which resemble the remote effects of concussion of the brain. The pupils are dilated; there are vertigo and headache, and sometimes epileptiform convulsions.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Umbelliferie, The Berberidaceis And"
+      },
+      {
+        "text": "[The Umbelliferie, The Berberidaceis And] Cicuta also attacks the skin, producing a pustular eruption, with yellowish honey-colored scabs, particularly about the mouth, and matting the whiskers. It has even cured two cases of epithelioma when the cancerous growth was covered by these honey-colored scabs.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Umbelliferie, The Berberidaceis And"
+      }
+    ],
     "keynotes": [
       {
         "text": "(The freshly expressed juice from the root gathered when the plant is commencing to flower, mixed with equal parts of alcohol.) From vol vi, 2nd edition,",
@@ -27,6 +49,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "farrington-clinical-1908",
       "hahnemann-mmp-1830"
     ]
   }

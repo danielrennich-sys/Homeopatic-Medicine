@@ -125,6 +125,78 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "Bbb: Back, kidneys, agg.; Bladder, inflamed; Blood.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Cold, taking.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Eee: Eczema.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Ggg: Gangrene; Gangrene, diabetic.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Hæmorrhage.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Kkk: Kidneys; Kidneys, ache; Kidneys, congestion; Kidneys, distended [[feel]]; Kidneys, inactive; Kidneys, nephritis; Kidneys, sore.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Kkk"
+      },
+      {
+        "text": "Lll: Legs, petechiæ; Lumbar back; Lumbar back, renal disease, in; Lumbar back, sickens all over.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Mmm: Menses, absent, tuberculosis, in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Nose, discharges, lumpy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Petechiæ; Prostate.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Stool, mucus.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Taste, bitter.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Urine, dark; Urine, foul; Urine, scanty; Urine, suppressed.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Www: Weak.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      }
+    ],
     "indications": [
       {
         "text": "The tops and leaves of Solidago odora, Aiton. Nat. Ord.—Compositae. COMMON NAMES: Sweet goldenrod, Sweet-scented goldenrod, Fragrant-leaved goldenrod, Blue mountain tea.",
@@ -168,6 +240,7 @@
   "provenance": {
     "sources": [
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "kings-american-1898"
     ]
   }

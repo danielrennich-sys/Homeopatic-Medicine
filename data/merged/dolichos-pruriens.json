@@ -21,6 +21,43 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Dolichos Pruriens. A tincture is made of the fuzz (hairs) of the pods of Dolichos pruriens, L. ; they are scraped off and digested in alcohol for a week or more. ► ► Pain in throat below right angle of jaw as if a splinter were imbedded vertically, agg. swallowing. ► Pain in the gum so that she could not sleep half the night . ► Twitching of muscles. Clinical :- ► During pregnancy intolerable itching all over body at night. ► It has been prescribed in jaundice with white stools, also in complaints from worms and for affections of dentition. ► Herpes zoster beginning on left scapula, extending to axilla and then to sternum and backward to spine, with burning and smarting. ► It has been found valuable in the intense itching of jaundice ; itching worse at night, and agg. scratching. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Dolichos pruriens. Mouth and Throat. Gums (upper) irritated, tumid, excessively painful ; can scarcely take food or drink in the mouth. Pain in the gums prevents sleep. Painful sensation of the throat below the angle of the lower jaw on the right side ; it was ; as if a splinter of three-quarters of an inch in length was imbedded vertically in that spot ; pain increased by swallowing. Abdomen. Bloated, swollen abdomen (with constipation). [5] Worms. Swelling of the liver. Respiratory Organs. Cough most troublesome about bedtime and for a while after going to bed. Cough, with wheezing and dyspna. Generalities. Twitching of the muscles. [10] Clonic spasms of the extremities, with loss of consciousness ; eyes motionless ; eyelids open. Skin. Intolerable itching all over the body ; worse at night, preventing sleep ; scratching increases the itching ; there is nothing perceptible on the skin. Jaundice, with itching of the skin. Copyright © Médi-T 2006",
+        "source_id": "lippe-textbook-mm-1866"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Generalities: Itching: Intolerable itching all over body without perceptible eruption of skin, especially in pregnant women ; worse at night, preventing sleep, and worse from scratching",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Night: Intolerable itching all over body without perceptible eruption of skin especially in pregnant women worse at night preventing sleep and worse from scratching",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Pregnant: Intolerable itching all over body, without perceptible eruption of skin, especially in pregnant women worse at night preventing sleep and worse from scratching",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Scratching: Intolerable itching all over body, without perceptible eruption of skin, especially in pregnant women ; worse at night, preventing sleep, and worse from scratching",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Worse: Intolerable itching all over body without perceptible eruption of skin especially in pregnant women worse at night preventing sleep, and worse from scratching",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ],
     "mental_emotional": [
       {
         "text": "Sensation as of a blow on head, feels stunned.",
@@ -142,18 +179,14 @@
         "Copyright © Médi-T ® 2002",
         "Main"
       ]
-    },
-    "keynotes": [
-      {
-        "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Dolichos pruriens. Mouth and Throat. Gums (upper) irritated, tumid, excessively painful ; can scarcely take food or drink in the mouth. Pain in the gums prevents sleep. Painful sensation of the throat below the angle of the lower jaw on the right side ; it was ; as if a splinter of three-quarters of an inch in length was imbedded vertically in that spot ; pain increased by swallowing. Abdomen. Bloated, swollen abdomen (with constipation). [5] Worms. Swelling of the liver. Respiratory Organs. Cough most troublesome about bedtime and for a while after going to bed. Cough, with wheezing and dyspna. Generalities. Twitching of the muscles. [10] Clonic spasms of the extremities, with loss of consciousness ; eyes motionless ; eyelids open. Skin. Intolerable itching all over the body ; worse at night, preventing sleep ; scratching increases the itching ; there is nothing perceptible on the skin. Jaundice, with itching of the skin. Copyright © Médi-T 2006",
-        "source_id": "lippe-textbook-mm-1866"
-      }
-    ]
+    }
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
+      "gentry-rubrical-mm-1890",
       "hering-guiding-1879",
       "lippe-textbook-mm-1866"
     ]

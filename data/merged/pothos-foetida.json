@@ -1,0 +1,35 @@
+{
+  "id": "pothos-foetida",
+  "names": {
+    "primary": "Pothos Foetida",
+    "latin": "Pothos Foetida",
+    "common": [],
+    "synonyms": [
+      "Pothos Foetida Pru-s Prunus Spinosa"
+    ]
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Fff: Fleeting pains.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Rrr: Respiration, dust, agg.; Respiration, stool, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

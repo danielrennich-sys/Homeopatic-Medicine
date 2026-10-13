@@ -209,13 +209,46 @@
         "text": "Extreme chilliness; and drowsiness. Peculiar creeping chilliness all over with a tremulous sensation in the jaws. Extreme chilliness even in a warm room. Icy coldness: painful; of entire body; sudden. A single cold chill down entire length of spine; afterwards she felt deathly cold. Icy coldness down spine. Extremities cold. Lower extremities cold and perspiration flowing in a stream from head and chest. Fever of adynamic intermittent type. Intolerable sense of heat over whole body though some parts cool to the feel. Burning heat with hot sweat. Bathed in warm sweat. Profuse sweat after the spasm. Sudden cold sweat and icy coldness of entire body. Cold sweat with the convulsive shocks, and increased shaking and stiffening. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Ccc: Chest, fixed.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Diaphragm.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Eee: Eclampsia.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Mmm: Masseters, cramp.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Ppp: Palate, itching.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Ttt: Tetanos.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "boger-synoptic-key-1915"
     ]
   }
 }

@@ -35,6 +35,10 @@
       {
         "text": "All the seventeen species of the genus are North American plants, distinguished by their possession of three green, persistent sepals and three larger withering petals, of varying colour. Trillium erectum or T. pendulum , perennial, smooth herb, has an erect stem of from 10 to 15 inches in height, bearing three leaves, broad, almost rhomboid, and drooping white flowers, terminal and solitary. Grows in the rich soil of damp and shady woodlands, flowering in May and June. The official description of the rhizome is 'oblique, globular, oblong or obconical, truncate below., terminated by a small bud surrounded by a sheath of scarious leaf bases annulated by leaf scars and fissured by stem scars. It is from 0.6 to 5 cm. in length, and from 0.6 to 3.5 cm. in width, more or less compressed laterally, rootlet scars in several concentrie rows on the underside in the upper portions. Externally yellowish to reddish brown; internally of a pale yellow; fracture somewhat uneven with a more or less spongy appearance. Odour distinct; taste bitter and acrid, with a sensation of warmth in the throat, and when chewed causing an increased flow of saliva. Trillium yields not more than 5 per cent. of ash.' The drug is one of those prepared by the Shakers.",
         "source_id": "grieve-modern-herbal-1931"
+      },
+      {
+        "text": "Main Condensed Materia Medica. By Constantine Hering. Presented by Médi-T . TRILLIUM PENDULUM. [Trill. pend.] Wake Robin. No proving. Smilaceæ. [ 7 ] * [ 10 ] * [ 17 ] * [ 20 ] * [ 23 ] * [ 24 ] * [ 27 ] * [ 31 ] * [ 33 ] * [ 35 ] * [ 41 ] * [ 44 ] [7] Nose. ► Profuse epistaxis, passive. [10] Teeth. ► Bleeding from cavity after extraction of a tooth. [17] Stomach. ► Heat and burning in stomach, rising up into sophagus. ► Sinking in stomach, when hemorrhages. [20] Stool, etc. ► Dysentery when discharges are mostly of blood. [23] Female Sexual Organs. ► Displaced uterus, with consequent menorrhagia ; flow profuse. ► Gushing of bright red blood from uterus, at the least movement ; later, blood pale from anæmia. ► Menses often come on after overexertion, too long a ride, etc. ; profuse flow. ► Leucorrha : bloody, with great prostration ; yellow, creamy, profuse, between menses. ► Climaxis, with weak sight, anxious look ; pale ; faint ; flow returns every two weeks. [24] Pregnancy. ► Threatened abortion ; profuse hemorrhage. ► Lochia too profuse. [27] Cough. ► Troublesome, copious, purulent sputa ; hectic ; hæmoptysis. [31] Neck and Back. ► Pain in back, with uterine hemorrhages. [33] Lower limbs. ► Legs cold, with hemorrhages. [35] Position, etc. ► Motion : 23 . Overexertion : 23 . Long ride : 23 . [41] Attacks. ► Every two weeks. [44] Tissues. ► Hemorrhages usually bright red, profuse ; also when sacro-iliac synchondroses feel as if falling apart, wants to be bound tightly. ► Feels as if bones were broken ; with hemorrhages. ► Crowding sensation in the veins like a tightening up of the parts, worse in those of legs and ankles. Copyright © Médi-T 2005. Main",
+        "source_id": "hering-condensed-mm-1877"
       }
     ],
     "head": [
@@ -102,6 +106,58 @@
         }
       ]
     },
+    "repertory": [
+      {
+        "text": "Generalities: Duality, in pieces, separated, as if some one else, etc.; Hæmorrhage, bloody discharges, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Eyes: Eyes, eyeball, falling out, as if.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eyes"
+      },
+      {
+        "text": "Bbb: Bandage; Blood-vessels, vascular.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Fff: Female organs; Fibroids; Fibroids, bleeding.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Ggg: Gushing.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Hæmorrhage, gushing; Hips, forced apart, disjointed, etc. [[as if]]; Hips, weak.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Mmm: Menses, weeks, every two.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Ttt: Taste, greasy.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "General Analysis: DUALITY, in pieces, separated, as if some one else, etc.; HEMORRHAGE, bloody discharges.",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      },
+      {
+        "text": "Generalities: Of bright red blood: Usually bright red profuse",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ],
     "indications": [
       {
         "text": "Synonym—Bethroot.",
@@ -199,9 +255,13 @@
     "sources": [
       "allen-keynotes-1899",
       "boericke-1927",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890",
       "ellingwood-1919",
       "grieve-modern-herbal-1931",
-      "hering-guiding-1879"
+      "hering-guiding-1879",
+      "hering-condensed-mm-1877"
     ]
   }
 }

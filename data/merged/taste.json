@@ -1,0 +1,28 @@
+{
+  "id": "taste",
+  "names": {
+    "primary": "Taste",
+    "latin": "Taste",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[The Ophidia] Arsenicum intensifies the gastric and systemic weakness to which we referred in the remedies just considered. While it is true that the pa- tient does not fully realize his want of strength, and hence does not care so much to lie quietly, nevertheless the actual amount of his vitality is seriously reduced. In a word, he is excessively weak without feeling so fatigued. Any exertion produces fainting. Taste is lost, or is bitter, sour, and putrid. The stomach feels swollen as if full of water. Craving for acids and for coffee; the latter, as in Lachesis, agrees with the patient. There are burning feelings, red rough tongue, and anx- iety and distress after eating, as in subacute gastritis, which no remedy pictures better. Nausea is frequent, and often periodical (12 p. m.) and is accompanied by great prostration. The vomiting is of many- kinds, but is distinguished from the bilious, slimy, or bloody emesis of Lachesis by its irregular convulsive character, indicative of gastric",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "farrington-clinical-1908"
+    ]
+  }
+}

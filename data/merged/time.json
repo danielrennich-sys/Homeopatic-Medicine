@@ -1,0 +1,34 @@
+{
+  "id": "time",
+  "names": {
+    "primary": "Time",
+    "latin": "Time",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[The Ophidia] Time of Day. — Generally worse from noon until 12 p. m. ; still there are some prominent symptoms aggravated in the morning and fore- noon. This is partly owing to the bad effects of awaking, but, as some symptoms appear later in the morning, we may ascribe them to causes then at work. For instance, the patient has vertigo on awak- ing, yet this returns, on closing the eyes, at 11 a.m. Headache in",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      },
+      {
+        "text": "[Chamomiles overview] Tonic, antispasmodic, emmenagogue and emetic. The whole herb is used (for drying, see FEVERFEW ). Like true Chamomile, a strong decoction will produce vomiting and sweating. In America it is used in country districts as a sudorific in colds and chronic rheumatism. The infusion made from 1 OZ. of the dried herb in a pint of boiling water and taken warm in wineglassful doses has been used with success in sick headache and in convalescence from fevers. It was formerly used in scrofula and hysteria and externally in fomentations. A weaker infusion taken to a moderate extent acts as an emetie. See FEVERFEW (CORN) and PELLITORY . Purchase from Richters Anthemis Corn Chamomile (Anthemis arvensis) Seeds Austrian Chamomile 'Mayweed' (Anthemis austriaca) Seeds Chamaemelum nobile Double Chamomile (Chamaemelum nobile 'Flora Plena') Plants English Chamomile (Chamaemelum nobile 'Treneague') Plants Roman Chamomile (Chamaemelum nobile) Seeds and Plants Cladanthus arabicus Moroccan Chamomile (Cladanthus arabicus) Seeds Cota tinctoria Golden Marguerite 'Dyer's Chamomile' (Cota tinctoria 'Kelwayi') Seeds and Plants St. John's Chamomile (Cota tinctoria sancti-johannis) Seeds Matricaria recutita Bodegold Chamomile (Matricaria recutita 'Bodegold') Seeds German Chamomile (Matricaria recutita) Seeds and Dried Flowers Pineapple Weed 'Wild Chamomile' (Matricaria discoidea) Seeds Zloty Lan Chamomile (Matricaria recutita 'Zloty Lan') Seeds Try it in tea! Beginner's Herbal Tea Blending Kit (Dried Herb Collection) Chamomile Smooth Dreams Tea Energizer Tea Fairy Tale Tea Women's Ease Tea Find it in an herb garden collection... Tea Time Tea Herb Garden",
+        "source_id": "grieve-modern-herbal-1931",
+        "lecture": "Chamomiles"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "farrington-clinical-1908",
+      "grieve-modern-herbal-1931"
+    ]
+  }
+}

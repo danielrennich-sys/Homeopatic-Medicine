@@ -1,0 +1,28 @@
+{
+  "id": "vision",
+  "names": {
+    "primary": "Vision",
+    "latin": "Vision",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[The Ophidia] Scrofulous ophthalmia calls for Lachesis when the symptoms are de- cidedly worse after sleep. There are gr:at photophobia and pains of a burning, stitching, shooting character, extending to the temples, top of the head and occiput. There are also itching and stinging in the eyes and lids, worse from touch. Vision is misty, with black flicker- ing before the eyes.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "farrington-clinical-1908"
+    ]
+  }
+}

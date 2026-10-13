@@ -6,7 +6,8 @@
     "common": [],
     "synonyms": [
       "Mercurius Præcipitatus Albus",
-      "Mercurius Præcipitatus Ruber"
+      "Mercurius Præcipitatus Ruber",
+      "Mercurius Praecipitatus Ruber"
     ]
   },
   "category": "homeopathic",
@@ -120,12 +121,30 @@
         "text": "(Violent palpitation that seemed as if it would burst the chest. Small, hard pulse.).",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Mmm: Mottled; Mucous membranes, patches.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Ppp: Phagedena.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Sleep, falling to, on; Syphilis, phagedenic.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "boger-synoptic-key-1915"
     ]
   }
 }

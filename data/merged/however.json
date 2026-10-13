@@ -1,0 +1,28 @@
+{
+  "id": "however",
+  "names": {
+    "primary": "However",
+    "latin": "However",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[The Umbelliferie, The Berberidaceis And] Conium does not act very prominently on the chest. However, we find it useful in consumptives when they find it impossible to expec- torate the sputum; they must swallow it again. It is especially use- ful for tormenting night cough, from tickling as from a dry spot in the larynx, which is relieved as soon as the patient sits up in bed. There is scarcely any cough during the day.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Umbelliferie, The Berberidaceis And"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "farrington-clinical-1908"
+    ]
+  }
+}

@@ -261,6 +261,33 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "Heart, Circulation And Pulse: Heart, circulation and pulse, heart-beat and pulse, palpitation; Heart, circulation and pulse, heart-beat and pulse, palpitation, anxious, nervous, etc.; Heart, circulation and pulse, heart-beat and pulse, palpitation, continuous; Heart, circulation and pulse, heart-beat and pulse, palpitation, violent.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Heart, Circulation And Pulse"
+      },
+      {
+        "text": "Hhh: Hæmorrhage, heart symptoms, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Rrr: Respiration, cardiac.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Sleepless, heart symptoms.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "General Analysis: HEART, CIRCULATION AND PULSE.",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
+    ],
     "preparation": [
       {
         "text": "Dried haws or fruits.",
@@ -354,6 +381,8 @@
       "nccih",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "grieve-modern-herbal-1931"
     ]

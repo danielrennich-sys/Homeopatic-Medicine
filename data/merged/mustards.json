@@ -8,11 +8,19 @@
     ],
     "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
   "categories": [
+    "homeopathic",
     "herbal"
   ],
   "traditional": {
+    "repertory": [
+      {
+        "text": "Generalities: Fainting after rising: Rocked",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ],
     "preparation": [
       {
         "text": "Seeds. Mithridate Mustard, Thlaspi arvense , grows higher than Treacle Mustard; the leaves are small and narrower, smooth, toothed, arrow-shaped at the base. The flowers are small and white, growing on long branches, the seed-vessels form a round pouch, flat, with very broad wings, earning for the plant its other name of Pennycress. It was formerly an ingredient in the Mithridate confection, an elaborate preparation used as an antidote to poison, but no longer used in medicine. [ Top ] Purchase from Richters Sinapis family White Mustard (Sinapis alba) Seeds Brassica family Brown Mustard (Brassica juncea) Seeds Find it in an herb garden collection... Spicy Masala Indian Spice Garden",
@@ -69,6 +77,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "gentry-rubrical-mm-1890",
       "grieve-modern-herbal-1931"
     ]
   }

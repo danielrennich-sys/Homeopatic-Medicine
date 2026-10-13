@@ -49,6 +49,13 @@
         "Botan.: Arbutus, Uva ursi. Compare also: Mitchella, Chimaphila, Cannabis, Calc. ren., Urtica urens, Uric acid. Copyright © Médi-T ® 2000 Main"
       ]
     },
+    "repertory": [
+      {
+        "text": "Bbb: Bladder, throbbing in neck.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      }
+    ],
     "indications": [
       {
         "text": "Synonym—Trailing Arbutus.",
@@ -157,6 +164,7 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "grieve-modern-herbal-1931",
       "felter-eclectic-1922",

@@ -256,6 +256,18 @@
         "text": "Sensation of coldness running over back, with constant inclination to yawn and stretch out the feet. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Ggg: Gall bladder, septic.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Sss: Scapulæ, between, soreness.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      }
     ]
   },
   "evidence": {},
@@ -265,6 +277,7 @@
       "ellingwood-1919",
       "allen-encyclopedia-1874",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "felter-eclectic-1922",
       "kings-american-1898"
     ]

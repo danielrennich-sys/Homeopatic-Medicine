@@ -1,0 +1,41 @@
+{
+  "id": "heat",
+  "names": {
+    "primary": "Heat",
+    "latin": "Heat",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[The Ophidia] Veratrum album, but in this drug the chill is associated with thirst, and (if internal) runs downward, not upward. Skin blue, cold, in- elastic; hands blue; face, mouth and tongue cold; breathing op- pressed and labored; heart weak; cold, clammy sweat, worse on the forehead. Heat has no palliative effect.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Generalities: Bathing: Bear cannot",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Perforate or become phagedenic: Uncover",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "farrington-clinical-1908",
+      "gentry-rubrical-mm-1890"
+    ]
+  }
+}

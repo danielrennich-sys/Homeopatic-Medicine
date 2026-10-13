@@ -101,6 +101,73 @@
         "source_id": "grieve-modern-herbal-1931"
       }
     ],
+    "repertory": [
+      {
+        "text": "Teeth: Teeth, extending to ears, head or face, pain.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Teeth"
+      },
+      {
+        "text": "Bbb: Ball, lump, globus, etc.; Brain, rolling over [[sensation]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Cutting.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Dreams, gloomy; Dreams, weeping.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Eee: Ears, and teeth alternate; Ears, between; Eructations, eggs, of bad.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Ggg: Groins, body, as of a.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Head, hot, air about [[feeling]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Lll: Legs, numb; Legs, tremulous.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Ppp: Punctured, wounds.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Saliva, flows, pain, headache, etc., during; Skin, sensitive, painful; Sore.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Teeth; Teeth, crumbling; Teeth, noise, agg.; Throat, apple core, choke pear, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Vvv: Vision, hair, as of a.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Www: Wandering.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      }
+    ],
     "indications": [
       {
         "text": "Synonyms—Plantain, Rib wort, Rib grass, Ripple grass.",
@@ -231,6 +298,7 @@
   "provenance": {
     "sources": [
       "boericke-1927",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "grieve-modern-herbal-1931",
       "hering-guiding-1879"

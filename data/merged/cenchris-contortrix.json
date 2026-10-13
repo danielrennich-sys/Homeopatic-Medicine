@@ -7,7 +7,8 @@
       "Copperhead Snake (ANCISTRODON)"
     ],
     "synonyms": [
-      "CENCHRIS CONTORTRIX : PROVING"
+      "CENCHRIS CONTORTRIX : PROVING",
+      "Cenchris"
     ]
   },
   "category": "homeopathic",
@@ -145,6 +146,13 @@
         "text": "Chill or fever beginning in afternoon. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Ccc: Collar, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      }
     ]
   },
   "evidence": {},
@@ -152,7 +160,8 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
-      "kent-new-remedies-1926"
+      "kent-new-remedies-1926",
+      "boger-synoptic-key-1915"
     ]
   }
 }

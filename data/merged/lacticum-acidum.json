@@ -8,6 +8,7 @@
     ],
     "synonyms": [
       "Lac-Ac",
+      "Lactic Acidum",
       "Lactic Acid. (Lacticum Acidum.)",
       "Acidum Lacticum (U. S. P.)",
       "LACTIC ACID"
@@ -265,6 +266,60 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "comparative": [
+      {
+        "text": "[The Acids] variety, may or may not be poisonous. When raised on new ground it is very apt to contain an undue amount of Oxalic acid, and thus may make some persons very sick. Malic and Citric acid are derived from the vegetable kingdom. Malic acid is found more particularly in ap- ples and pears and also in raspberries. Citric acid is found chiefly in oranges and lemons. Acetic acid is an organic acid, and is the principal ingredient of vinegar. Lactic acid is derived from sour milk.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Acids"
+      },
+      {
+        "text": "[The Acids] There is a property of Lactic acid which is well worth noticing. This is a very corrosive acid. It will eat into every tissue of the body. In fact, it will dissolve the enamel of the teeth, so that great care must be used in its administration. When prescribed in material doses, it is usually administered through a tube, wmich prevents it from touch- ing the teeth. Dr. Hering wras in the habit of recommending that the teeth be wrashed occasionally with cream that had become sour by keeping twenty-four hours.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Acids"
+      },
+      {
+        "text": "[The Acids] Muriatic and Lactic acids favor digestion. Some persons are greatly relieved by drinking sour milk.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Acids"
+      },
+      {
+        "text": "[The Acids] We find them indicated, too, in diabetes mellitus. The principal acids for this condition are Phosphoric and Lactic acids.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Acids"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Stomach And Abdomen: Stomach and abdomen, upward, extending.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Stomach And Abdomen"
+      },
+      {
+        "text": "Generalities: with burning aching pains: Tired all over as if had walked a great distance, with aching in limbs ; can stand only with difficulty",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Distance: Tired all over as if had walked a great distance with aching in limbs ; can stand only with difficulty",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Stand: Tired all over as if had walked a great distance, with aching in limbs ; can stand only with difficulty",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Tired: All over, as if had walked a great distance, with aching in limbs ; an stand only with difficulty | Great debility and trembling: Great weakness and trembling of whole body while walking",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Walked: Tired all over as if had walked a great distance, with aching in limbs ; can stand only with difficulty | Walking: Great weakness and trembling of whole body while walking | And sinking of strength: And trembling of whole body while walking",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ],
     "respiratory": [
       {
         "text": "VOICE AND LARYNX. TRACHEA AND BRONCHIA. [25] [Lac. ac.]. Hoarse, hard, dry cough, sensation of dryness of throat, with spasmodic, painful contractive sensation. For an hour and a half after rising voice entirely without control, whispering and speaking when expecting to speak loud ; croaking and deep hoarse voice. Dryness and burning of larynx. Great dryness, with hoarseness and dry cough ; dryness and rawness extending to larynx ; rim of glottis particularly affected. Spasm of glottis, awaking from sleep and causing severe pain and suffocation. Expectoration seemed to be secreted just inside of glottis. Aphonia, with dryness of glottis. Hoarse, hard, dry cough, sensation of dryness of epiglottis, with spasmodic contractive sensation. Great dryness of throat, hoarseness and dry cough. Dryness, scratching and burning in throat ; tearing in larynx and trachea, with hoarseness ; difficult expectoration of grey tasteless mucus, or so tough that air can hardly pass through it ; horrible dreams of abysses, and restless sleep ; croup sound not heard. θ Croup. Saw-like rasping sound of respiration. Frequent deep sighing inspirations and expirations. Spasmodic ringing cough, from irritation in throat. Hoarse, hard, dry cough ; dry sensation of glottis, with spasmodic contractive sensation ; hoarse, sensitive to cold air. Cough, with nausea, constricted feeling in throat. Spasmodic, ringing cough, from hot eructations, < smoking. Constant cough, < in Spring and Fall, with foot sweats. Secretes large quantities of saliva, which in morning contains greyish lumps ; afterwards expectoration yellowish and salty.",
@@ -343,6 +398,9 @@
       "boericke-1927",
       "clarke-dictionary-1900",
       "cowperthwaite-textbook-1891",
+      "farrington-clinical-1908",
+      "boger-synoptic-key-1915",
+      "gentry-rubrical-mm-1890",
       "hering-guiding-1879",
       "kings-american-1898",
       "nash-leaders-1899"

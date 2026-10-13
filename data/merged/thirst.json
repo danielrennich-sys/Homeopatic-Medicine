@@ -1,0 +1,33 @@
+{
+  "id": "thirst",
+  "names": {
+    "primary": "Thirst",
+    "latin": "Thirst",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[The Ophidia] In intermittent fever the chill begins in the back, as in Lachesis. It is worse from 4 to 8 p. m., or at 7 p. m. ; hands and feet numb and icy cold. Sour eructations or vomit are almost invariably present, es- pecially between chill and heat. Thirst mostly after the sweat. De- sires hot drinks only.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      },
+      {
+        "text": "[The Ophidia] Apis here, as in many other instances, favors the snake-poison. Both are suited to old or maltreated cases; afternoon chill, oppres- sion of the chest, nose cold, pulse fluttering, skin of hands and arms blue, and general appearance of collapse. But the bee- poison has ag- gravation from heat, Lachesis has not; the former has much more marked oppression of the chest, with consequent smothering. The tongue is red, raw, and covered on tip and borders with vesicles. Thirst during and not before the chill. Urticaria.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "farrington-clinical-1908"
+    ]
+  }
+}

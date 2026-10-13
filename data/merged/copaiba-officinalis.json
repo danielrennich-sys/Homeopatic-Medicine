@@ -7,7 +7,8 @@
       "Balsam of Copaiva (COPAIVA)"
     ],
     "synonyms": [
-      "COPAIVA OFFICINALIS"
+      "COPAIVA OFFICINALIS",
+      "Copaiva Officinalis"
     ]
   },
   "category": "homeopathic",
@@ -83,12 +84,35 @@
         "text": "color=\"#800000\">COPAIVA OFFICINALIS Balsam of Copaiva (COPAIVA) Acts powerfully on mucous membranes, especially that of the urinary tract, the respiratory organs, and the skin, here producing a well-marked nettle-rash. Cold and catarrhs.",
         "source_id": "boericke-1927"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Conditions Of Aggravation And Amelioration: Noise, penetrating, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Conditions Of Aggravation And Amelioration"
+      },
+      {
+        "text": "Bbb: Bronchorrha.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Hhh: Head, clang in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Ppp: Penis.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "boericke-1927"
+      "boericke-1927",
+      "boger-synoptic-key-1915"
     ]
   }
 }

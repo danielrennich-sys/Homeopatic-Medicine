@@ -31,6 +31,20 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "keynotes": [
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Tartaric Acid. Pure Tartaric acid is triturated for use. ► ► Compare other organic acids, Acetic, Citric , etc. ► Convulsions. ► Bruised sensation, agg. lower, limbs. ► Weakness ; in evening, can scarcely drag himself along . ► Amelioration in open air. ► Vertigo. ► Face suddenly became red, he exclaimed that he was poisoned and then was speechless. ► Lips dry ; lips brown and blackish at their inner edge ; burning ; (burning on upper, at a spot where a pimple had been cured). ► Teeth set on edge. ► Tongue brown and dry . ► Taste pasty in morning, amel. eating. ► Burning in throat and stomach. ► Thirst. ► Eructations. ► Nausea. ► Vomiting ; dark green . ► Pinching in abdomen ; below navel, with emission of flatus and cold feeling in abdomen. ► Pain in umbilical region. ► Many stools at night. ► Fæces of the color of coffee-grounds . ► Hoarseness, with scraping in larynx. ► Respiration difficult and slow ; accelerated, then laborious and slow. ► Heart's action weak. ► Pulse feeble. ► Sharp pain in loins . ► Tearing in soles near heels, preventing setting feet on ground, after luncheon. ► Paralysis of thigh and legs. ► Yawning ; and stretching. ► Coldness in evening in bed. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
+        "text": "color=\"#800000\">TARTARICUM ACIDUM Tartaric Acid Found in grapes, pineapple, sorrel and other fruits. It is an antiscorbutic antiseptic, stimulating the mucous and salivary secretions. Dullness and lassitude. Great weakness, with diarrhœa, with dry and brown tongue. Pain in heels (Phytol).",
+        "source_id": "boericke-1927"
+      },
+      {
+        "text": "A proving by Nenning and some poisonings have furnished the pathogenesis of Tart. ac. One of the most marked symptoms was intense burning in throat and stomach, feeling \"as if on fire.\" Tongue brown and dry. Almost constant vomiting; vomited matter of deep green colour. Fæces coffee-ground colour. Difficult respiration. Paralytic debility: \"Weakness in the evening, can scarcely drag himself along.\" This should prove useful: \"Tearing pain on the soles of the feet, near the heel, which prevents him putting his foot on the ground, after luncheon.\" All the symptoms were > in open air. The pasty taste is > after eating.",
+        "source_id": "clarke-dictionary-1900"
+      }
+    ],
     "stomach_abdomen": [
       {
         "text": "Excessive thirst, continued vomiting burning in throat and stomach. Dyspepsia with copious secretions of mucus",
@@ -48,16 +62,6 @@
     "dosing": {
       "notes": "Third trituration. The pure acid 10-30 grains dissolved in water"
     },
-    "keynotes": [
-      {
-        "text": "color=\"#800000\">TARTARICUM ACIDUM Tartaric Acid Found in grapes, pineapple, sorrel and other fruits. It is an antiscorbutic antiseptic, stimulating the mucous and salivary secretions. Dullness and lassitude. Great weakness, with diarrhœa, with dry and brown tongue. Pain in heels (Phytol).",
-        "source_id": "boericke-1927"
-      },
-      {
-        "text": "A proving by Nenning and some poisonings have furnished the pathogenesis of Tart. ac. One of the most marked symptoms was intense burning in throat and stomach, feeling \"as if on fire.\" Tongue brown and dry. Almost constant vomiting; vomited matter of deep green colour. Fæces coffee-ground colour. Difficult respiration. Paralytic debility: \"Weakness in the evening, can scarcely drag himself along.\" This should prove useful: \"Tearing pain on the soles of the feet, near the heel, which prevents him putting his foot on the ground, after luncheon.\" All the symptoms were > in open air. The pasty taste is > after eating.",
-        "source_id": "clarke-dictionary-1900"
-      }
-    ],
     "head": [
       {
         "text": "Confusion in head; dizziness.",
@@ -181,6 +185,7 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "boericke-1927",
       "clarke-dictionary-1900",
       "kings-american-1898"

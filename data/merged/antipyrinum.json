@@ -6,7 +6,9 @@
     "common": [
       "Phenazone-A Coal-tar Derivative (ANTIPYRINE)"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Antipyrine"
+    ]
   },
   "category": "homeopathic",
   "categories": [
@@ -154,6 +156,10 @@
       {
         "text": "Antipyrine is known from the poisonous effects it has produced in old-school practice. Many fatal cases have been recorded, and there can be little doubt that its injudicious use has determined a fatal issue in many cases that have remained unrecorded. Its action is very like that of Antifebrin in producing collapse, but it has more effect on the skin, causing scarlet rash and œdema. A young lady patient of mine who took Antipyrin on her own account, whenever she thought she might be going to have a headache, developed intense dysmenorrhœa (to which she was not subject), with depression. This was only removed after she had discontinued the drug. Later on she took Phenacetin, with the result that an eruption of erythema appeared on both cheeks, which peeled after a few days, and recurred persistently. It would seem from the above that the drug is homœopathic to some forms, at least, of neuralgia. One patient had Cheyne-Stokes respiration. Erythema appears first on face and arms, last on legs. Hansen mentions its use in enuresis and epistaxis. > Hot drinks.",
         "source_id": "clarke-dictionary-1900"
+      },
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Antipyrine. An alkaloid synthetically prepared, Dimethyl-oxy-chinicine. Solutions in distilled water or triturations. Properties :- ► It reduces the temperature of the body, allays pain, promotes sleep and cause perspiration. ► Swollen body, great pains in limbs. ► Numbness. ► Anxiety. ► \"I don't know what is the matter with me, I remember nothing, I am becoming like an idiot, I am going mad.\" ► Loss of consciousness. ► Headache. ► Dizziness. ► Snapping in head so that she ran up and down the room screaming, partially losing control of herself and apprehending insanity. ► Singing in ears, with congestion. ► Sneezing violently, about twenty times without pause, face and eyes suffused, tears flowed, mucus flowed from nose, breathing labored, with feeling of suffocation, inability to lie down, violent cough, with expectoration of much mucus, with profuse sweat. ► Itching and burning in mouth and throat, agg. in roof of mouth, the feeling soon extended to eyes, nose and ears, violent sneezing at least fifty times, with copious watery fluid running from nose and eyes, such turgescence of mucous membrane that she could not breathe through nose, afterwards stupid, tormenting feeling, with swelling of nose and eyes till exhausted she fell asleep, sleep disturbed and tiresome. ► Coppery taste in violent bouts, with intermittent coppery smell. ► No appetite. ► Vomiting. ► Epigastric pain causing her to bend forward and cry out. ► Gastro-enteritis. ► Expanding sensation rising from stomach, instead of the nausea which she had had. ► Pain in abdomen. ► Incontinence of urine. ► Urine diminished. ► Hoarseness. ► Dyspna, breathing hard, with feeling of suffocation. ► Pain in chest. ► Tightness of chest. ► Depressing effect upon heart from large doses, causing disturbed circulation and respiration, cyanosis and vomiting, the final result is paralysis, these are the secondary action. ► Pulse rapid and full. ► Pulse increases, temperature decreases. ► dema of arms and hands. ► Skin covered with red spots. ► Eruptions appear and disappear suddenly. ► Erythematous eruption appearing first in arms, passing down, appearing last on legs. ► Erythematous patches on arms, eyes felt uncomfortable, she slept scarcely at all, feet cold, next morning face was red and swollen, eyes almost closed, the rash was general and of the color of pomegranate, the intervals between the patches scarcely noticeable at first sight, appetite poor, sensation as if inside of body were filled with ice, little itching, next day catarrhal conjunctivitis, irritation of nasal fossæ and hoarseness, pulse twice as fast as usual, 78 to the minute, buzzing in ears, for sometime afterwards prostration and intermittent sensations of cold. ► Itching on inside of thighs, with urticaria, which soon extended to abdomen. ► Urticaria, especially in women ; general U., with intense itching, she tears herself with her nails. ► Sleepiness. ► Intermittent coldness. ► Heat. ► Cold sweat, then quick rise in temperature, with chill and full, rapid pulse. Clinical :- ► High fever in morning in rising, wanting water, headaches, pain in frontal sinuses. ► Erythema. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
       }
     ],
     "relationships": {
@@ -184,7 +190,8 @@
   "provenance": {
     "sources": [
       "boericke-1927",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "allen-handbook-1889"
     ]
   }
 }

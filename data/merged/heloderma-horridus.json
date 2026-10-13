@@ -1,18 +1,42 @@
 {
-  "id": "heloderma",
+  "id": "heloderma-horridus",
   "names": {
-    "primary": "Heloderma",
-    "latin": "Heloderma",
+    "primary": "Heloderma Horridus",
+    "latin": "Heloderma Horridus",
     "common": [
       "Gila Monster"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Heloderma"
+    ]
   },
   "category": "homeopathic",
   "categories": [
     "homeopathic"
   ],
   "traditional": {
+    "repertory": [
+      {
+        "text": "Hhh: Heart, cold.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Iii: Icy cold.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      },
+      {
+        "text": "Ppp: Paralysis, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Uuu: Uterus, enlarged.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      }
+    ],
     "head": [
       {
         "text": "Very depressed. Sensation as if would fall to right side. Cold band around head; cold pressure within the skull. Eyelids heavy. Pain beginning in right ear, extending round back of head to left ear",
@@ -171,6 +195,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "boger-synoptic-key-1915",
       "boericke-1927",
       "clarke-dictionary-1900"
     ]

@@ -6,7 +6,9 @@
     "common": [
       "Common Flea"
     ],
-    "synonyms": []
+    "synonyms": [
+      "Pulex"
+    ]
   },
   "category": "homeopathic",
   "categories": [
@@ -83,12 +85,20 @@
         "text": "color=\"#800000\">PULEX IRRITANS Common Flea Marked urinary and female symptoms.",
         "source_id": "boericke-1927"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Sss: Stains, fast; Stings [[of bees, insects]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "boericke-1927"
+      "boericke-1927",
+      "boger-synoptic-key-1915"
     ]
   }
 }

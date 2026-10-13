@@ -6,11 +6,20 @@
     "common": [],
     "synonyms": []
   },
-  "category": "supplement",
+  "category": "homeopathic",
   "categories": [
+    "homeopathic",
     "supplement"
   ],
-  "traditional": {},
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[The Acids] We also find it indicated in dental fistulse. The discharge is bloody, and has a saltish, disagreeable taste, rendering the mouth foul, and gradually undermining the whole constitution. Fluoric acid will here relieve. There .is another remedy which has not been thoroughly proven, but which seems to act better here than the Fluoric acid, and that is the Fluoride of Calcium or Calcarea fluor ica.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Acids"
+      }
+    ]
+  },
   "evidence": {
     "summary": "Calcium, the most abundant mineral in the body, is found in some foods, added to others, present in some medicines (such as antacids), and available as a dietary supplement. Calcium makes up much of the structure of bones and teeth and allows normal bodily movement by keeping tissue rigid, strong, and flexible [ 1 ]. The small ionized pool of calcium in the circulatory system, extracellular fluid, and various tissues mediates blood vessel contraction and dilation, muscle function, blood clotting, nerve transmission, and hormonal secretion [ 1 , 2 ]. Calcium from foods and dietary supplements is absorbed by both active transport and by passive diffusion across the intestinal mucosa [ 1 , 3 ]. Active transport is responsible for most absorption when calcium intakes are lower, and passive diffusion accounts for an increasing proportion of calcium absorption as intakes rise. Vitamin D is required for calcium to be absorbed in the gut by active transport and to maintain adequate calcium levels in the blood [ 1 ]. Assessing calcium status Because almost all calcium in the body is stored in the skeleton, a dual x-ray absorptiometry scan of bone mineral density can assess a person’s cumulative calcium status over their lifetime. Total calcium levels can be measured in serum or plasma, but these levels are not a good reflection of an individual’s calcium status. Almost all calcium in the body (98%) is stored in the bones, and the body uses the bones as a reservoir for, and source of, calcium to maintain calcium homeostasis [ 1 ]. More than 99% of calcium in the body is in the form of calcium hydroxyapatite, an inorganic matrix of calcium and phosphate that is stored in the bones and teeth [ 1 , 4 , 5 ]. Unlike teeth, bone undergoes continuous remodeling, with constant resorption and deposition of calcium into new bone [ 4 ]. Bone remodeling is required to change bone size during growth, repair damage, maintain serum calcium levels, and provide a source of other minerals [ 4 ]. At birth, the body contains about 26 to 30 grams (g) calcium. This amount rises quickly after birth, reaching about 1,200 g in women and 1,400 g in men by adulthood [ 1 ]. These levels remain constant in men, but they start to drop in women as a result of increases in bone remodeling due to decreased estrogen production at the start of menopause [ 1 ]. An inverse relationship exists between calcium intake and absorption. Absorption of calcium from food is about 45% at intakes of 200 milligrams (mg)/day but only 15% when intakes are higher than 2,000 mg/day [ 6 ]. Age can also affect the absorption of dietary calcium [ 1 , 4 ]. Net absorption of dietary calcium is as high as 60% in infants and young children, who need substantial amounts to build bone, but it decreases to about 25% in adulthood and continues to decline with age [ 1 ]. Total calcium levels can be measured in serum or plasma; serum levels are typically 8.8 to 10.4 mg/deciliter (dL) (2.2 to 2.6 millimoles per liter [mmol/L]) in healthy people [ 1 , 7 ]. However, serum levels do not reflect nutritional status because of their tight homeostatic control [ 4 ]. Levels of ionized (or free) calcium, the biologically active form, in serum are also used to measure calcium status. The normal range of ionized calcium in healthy people is 4.6 to 5.3 mg/dL (1.15 to 1.33 mmol/L) [ 7 ]. Dual x-ray absorptiometry testing of bone mineral density can be used to assess cumulative calcium status over the lifetime because the skeleton stores almost all calcium in the body [ 3 ].",
     "studies": [
@@ -72,6 +81,7 @@
   },
   "provenance": {
     "sources": [
+      "farrington-clinical-1908",
       "ods-nih"
     ]
   }

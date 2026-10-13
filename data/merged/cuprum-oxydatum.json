@@ -1,0 +1,28 @@
+{
+  "id": "cuprum-oxydatum",
+  "names": {
+    "primary": "Cuprum Oxydatum",
+    "latin": "Cuprum Oxydatum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Www: Wormy [[stool]].",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

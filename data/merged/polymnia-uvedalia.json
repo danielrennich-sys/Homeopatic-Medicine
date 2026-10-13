@@ -13,11 +13,19 @@
       "Polymnia"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
   "categories": [
+    "homeopathic",
     "herbal"
   ],
   "traditional": {
+    "repertory": [
+      {
+        "text": "Sss: Spleen.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      }
+    ],
     "indications": [
       {
         "text": "Synonyms—Bearsfoot, leaf-cup, yellow leaf-cup.",
@@ -162,6 +170,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "grieve-modern-herbal-1931",
       "felter-eclectic-1922",

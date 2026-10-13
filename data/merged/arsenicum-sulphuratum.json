@@ -9,8 +9,8 @@
     "synonyms": [
       "Arsenicum Sulfuratum Flavum",
       "Arsenicum Sulfuratum Rubrum",
-      "ARSENICUM SULPHURATUM FLAVUM",
       "Arsenicum Sulphuratum Flavum",
+      "ARSENICUM SULPHURATUM FLAVUM",
       "Arsenicum Sulphuratum Rubrum"
     ]
   },
@@ -27,6 +27,10 @@
       {
         "text": "ARSENICUM SULFURATUM RUBRUM.",
         "source_id": "allen-encyclopedia-1874"
+      },
+      {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Arsenicum Sulphuratum Flavum. Triturate with Sach. lach . for use. ► Cramps, grips, vomiting, diarrha, with thirst and fever. ► Falling down in spasms. ► Faintness. ► Weakness. ► Anxiety and fear. ► Apprehension. ► Confusion of head, too many thoughts crowed upon him. ► Vertigo on walking in open air, feeling through head as from drunkenness. ► Stitches externally in right frontal region ; throbbing stitches in right frontal region. ► Gum in canthi. ► Tensive feeling behind right ear, as if something stuck there and pressed the ear forward, on brushing hair on occiput. ► Teeth pain as if loose on chewing food. ► Tongue white ; T. swollen, afterwards dry ; stiff, immovable. ► Taste bitter. ► Mouth and throat dry. ► Disgust for all nourishment. ► Thirst. ► Nausea after dinner, at noon. ► Nausea and vomiting. ► Vomiting offensive bile, then feeling better. ► Cramp in stomach, with faintness, griping, diarrha and vomiting. ► Abdomen distended, soft, painless. ► Colic as from a cold, morning on waking. ► Tenesmus. ► Liquid, profuse stool on touching abdomen. ► ► Respiration difficult . ► Stitches extending outward in right chest. ► Pulse frequent, hard, afterwards small, thready ; slow, suppressed, afterwards rapid, scarcely to be felt. ► Pains in left knee. ► Fright on falling asleep in evening as if he fell out of bed. ► Cold forehead. ► Cold, stiff body. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
       },
       {
         "text": "color=\"#800000\">ARSENICUM SULPHURATUM FLAVUM Yellow Sulphuret of Arsenic. Orpiment (ARSENIC TRISULPH.) Needle pricks from within outwards in chest; also on forehead, right side. Sticking behind ear. Difficult respiration. Skin chafed about genitals. Leucoderma and squamous syphilides. Sciatica and pain around the knee.",
@@ -239,6 +243,13 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "External Head ; Bones And Scalp: External head; bones and scalp, hair, falling.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "External Head ; Bones And Scalp"
+      }
+    ],
     "eyes": [
       {
         "text": "Gum in canthi.",
@@ -316,8 +327,10 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879"
     ]
   }

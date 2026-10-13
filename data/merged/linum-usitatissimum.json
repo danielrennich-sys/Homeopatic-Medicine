@@ -95,6 +95,13 @@
         "text": "A crop of herpes (where the poultice was applied). Urticaria. One complete blotch from crown to toes, smarting, stinging, burning. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "comparative": [
+      {
+        "text": "[The Acids] In the first place we may say a few words about the acids in general and tell what characterizes them as a class. It has been determined by careful experimentation with the acids as a class that they decrease the acid secretions of the body and increase the alkaline. If, for in- stance, a quantity of acid, such as Citric acid, is taken into the stomach, it will diminish the secretion of the gastric juice. On the other hand, it will increase the secretion of the saliva. The practical value of this hint is hygienic rather than therapeutic, and yet in that degree it is of great use. For instance, we know how intolerable, at times, thirst is in fevers. Now this thirst may be due, at least in part, to lack of secretion from the salivary glands. The mouth is parched and dry; the tongue cleaves to the roof of the mouth. In such cases as this, acidulated drinks, by acting reflexly, increase the flow of saliva, and will give your patient great relief. For instance, you may give lemonade, providing, of course, it is not antagonistic to your indicated remedy. There are some medicines which Citric acid will antidote and some which will disagree with it. Again, if you are giving Bella- donna, you would not think of using vinegar, as vinegar retards the action of that drug. But when giving Belladonna you may use lemonade, as that aids the action of the remedy. Antimonium crudum will not tolerate acids, but you may use tamarind water. Now if you find the mouth or throat sore in fever, the ' ' edge ' ' must be taken off the acid by the admixture of some mucilaginous substance to the drink. You might use gum Arabic, but that interferes with digestion somewhat. Irish moss, Iceland moss and slippery-elm are too medic- inal. They all act powerfully on the lungs, and you might induce medicinal symptoms if you employ them. Flaxseed has some medic- inal effect, but not sufficient to make its use inappropriate. Another substance which may be used is gelatin, that is, if you know that it is pure. Some of it is made from the refuse of the tanner; some from fish-bones, and this is quite palatable; but best of all is that made from calves' feet. This last may be used in water to relieve the sharpness of the acid.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Acids"
+      }
     ]
   },
   "evidence": {
@@ -126,6 +133,7 @@
       "allen-encyclopedia-1874",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "farrington-clinical-1908",
       "lactmed-nih"
     ]
   }

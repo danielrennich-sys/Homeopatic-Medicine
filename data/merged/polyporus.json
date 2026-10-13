@@ -1,0 +1,28 @@
+{
+  "id": "polyporus",
+  "names": {
+    "primary": "Polyporus",
+    "latin": "Polyporus",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "General Analysis: CALCULI, atheroma, etc..",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-genera-morborum-1907"
+    ]
+  }
+}

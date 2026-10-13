@@ -11,11 +11,19 @@
       "Fennel"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
   "categories": [
+    "homeopathic",
     "herbal"
   ],
   "traditional": {
+    "comparative": [
+      {
+        "text": "[Chamomiles overview] Whole herb. Stinking Chamomile or Stinking Mayweed ( Anthemis cotula ), an annual, common in waste places, resembles the true Chamomile, having large solitary flowers on erect stems, with conical, solid receptacles, but the white florets have no membraneous scales at their base. It is distinguished from the other Chamomiles and closely allied genera by its foetid odour, which Gerard calls ' a naughty smell .' This disagreeable smell, and the resemblance to fennel of its much-cut leaves gains it its other name of 'Dog's Fennel.' The whole plant, not only the flowers, has this intense odour and is penetrated by an acrid juice that often will blister the hand which gathers it. Writers on toxicology have classed this plant amongst the vegetable poisons.",
+        "source_id": "grieve-modern-herbal-1931",
+        "lecture": "Chamomiles"
+      }
+    ],
     "generalities": [
       {
         "text": "Seeds, leaves, roots.",

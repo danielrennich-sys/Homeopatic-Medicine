@@ -21,12 +21,25 @@
         "text": "color=\"#800000\">STRYCHNINUM PHOSPHORICUM Phosphate of Strychnin (STRYCHNIA PHOSPHORICA) This drug acts through the cerebro-spinal system upon muscles, causing twitching, stiffness, weakness and loss of power; upon circulation, producing irregularity of pulse, and upon the mind, producing lack of control, uncontrollable desire to laugh and disinclination to use the brain. Very irregular pulse. Tachycardia. Rapid and weak pulse. Useful in chorea, hysteria, acute asthenia after acute fevers. Symptoms worse motion, better rest and in open air. An excellent remedy in anæmia of spinal cord; paralysis; burning, aching, and weakness of spine; pain extends to front of chest; tenderness on pressure in mid-dorsal region; cold, clammy feet; hands and axillæ covered with clammy perspiration. Atelectasis and break in the compensation of a hypertrophied heart; the beginning of fatty degeneration of the heart muscle (Royal).",
         "source_id": "boericke-1927"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Bbb: Brain, degeneration, softening.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Iii: Impotency, imaginary.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      }
     ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
-      "boericke-1927"
+      "boericke-1927",
+      "boger-synoptic-key-1915"
     ]
   }
 }

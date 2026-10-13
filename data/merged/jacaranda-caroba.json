@@ -190,6 +190,13 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Male Organs: Male organs, prepuce.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Male Organs"
+      }
+    ],
     "modalities": [
       {
         "text": "REST. POSITION. MOTION. [35] [Jac. c.]. Sitting : itching at anus. Raising head : dull pain under sternum. Motion : > rheumatic pains in right knee. Walking : acute pain in left testicle. Morning : dry mouth ; rheumatic pain in arm.",
@@ -202,6 +209,7 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879",
       "lippe-textbook-mm-1866"
     ]

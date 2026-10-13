@@ -36,13 +36,21 @@
       "_raw": [
         "Compare: All. cap., All. sat., Scilla, &c. Copyright © Médi-T ® 2000 Main"
       ]
-    }
+    },
+    "repertory": [
+      {
+        "text": "Mouth And Throat: Mouth and throat, adenoids.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mouth And Throat"
+      }
+    ]
   },
   "evidence": {},
   "provenance": {
     "sources": [
       "boericke-1927",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "boger-synoptic-key-1915"
     ]
   }
 }

@@ -1,0 +1,28 @@
+{
+  "id": "mind",
+  "names": {
+    "primary": "Mind",
+    "latin": "Mind",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[The Noble Metals— Aurum] 'i.. Mind. 2. Hyperemia. Aurum met. \\ 3. Induration. I 4. Bones. ^5. Fatty degeneration.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Noble Metals— Aurum"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "farrington-clinical-1908"
+    ]
+  }
+}

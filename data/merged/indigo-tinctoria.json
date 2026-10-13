@@ -281,6 +281,18 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Chest And Lungs: Chest and lungs, pulsation, right.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Chest And Lungs"
+      },
+      {
+        "text": "Sss: Spasm, worms.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      }
+    ],
     "respiratory": [
       {
         "text": "Dry cough, always attended by nosebleed. Violent cough ; inducing vomiting ; bleeding of nose. Suffocative cough in evening and after going to bed. Cough dry, always accompanied with expectoration. Spasmodic cough with tough, mucous expectoration.",
@@ -336,6 +348,7 @@
       "boericke-1927",
       "allen-encyclopedia-1874",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879",
       "kings-american-1898",
       "lippe-textbook-mm-1866"

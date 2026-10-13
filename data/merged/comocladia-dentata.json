@@ -82,6 +82,38 @@
         "source_id": "boericke-1927"
       }
     ],
+    "repertory": [
+      {
+        "text": "Time: Time, night, agg., 2 A.M..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Eyes: Eyes, swelled, as if.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eyes"
+      },
+      {
+        "text": "Lower Limbs: Lower limbs, foot, swelling, left.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lower Limbs"
+      },
+      {
+        "text": "Eee: Eyes, balls, ache; Eyes, lids, swelling, inner angles, over.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Lll: Lachrymation, biting.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Ttt: Tongue, vesicles, edge.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      }
+    ],
     "mental_emotional": [
       {
         "text": "Dizziness and heaviness of head, with shooting pains, > from motion. Giddiness on rising from bed ; everything looks dark ; motion > all pains in head, < from heat.",
@@ -178,6 +210,7 @@
   "provenance": {
     "sources": [
       "boericke-1927",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879"
     ]
   }

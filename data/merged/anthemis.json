@@ -10,11 +10,39 @@
       "Anthemis (U. S. P.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
   "categories": [
+    "homeopathic",
     "herbal"
   ],
   "traditional": {
+    "comparative": [
+      {
+        "text": "[Chamomiles overview] There are a number of species of Chamomile spread over Europe, North Africa and the temperate region of Asia, but in Great Britain we have four growing wild: the sweet-scented, true Chamomile ( Anthemis nobilis ); the Fcetid Chamomile or Stinking Mayweed ( A. cotula ), which has what Gerard calls 'a naughty smell'; the Corn Chamomile ( A. arvensis ), which flowers rather earlier and is noticeable because its ray florets are empty and wholly for show and possess no sort of ovary or style, and fourthly, the Yellow Chamomile, with yellow instead of white rays, which is found sometimes on ballast heaps, but is not a true native. Chamomile, Common Botanical: Anthemis nobilis (LINN.) Family: N.O. Compositae Description History Parts Used Medicinally Cultivation and Preparation for Market Chemical Constituents Medicinal Action and Uses",
+        "source_id": "grieve-modern-herbal-1931",
+        "lecture": "Chamomiles"
+      },
+      {
+        "text": "[Chamomiles overview] The true or Common Chamomile ( Anthemis nobilis ) is a low-growing plant, creeping or trailing, its tufts of leaves and flowers a foot high. The root is perennial, jointed and fibrous, the stems, hairy and freely branching, are covered with leaves which are divided into thread-like segments, the fineness of which gives the whole plant a feathery appearance. The blooms appear in the later days of summer, from the end of July to September, and are borne solitary on long, erect stalks, drooping when in bud. With their outer fringe of white ray-florets and yellow centres, they are remarkably like the daisy. There are some eighteen white rays arranged round a conical centre, botanically known as the receptacle, on which the yellow, tubular florets are placed- the centre of the daisy is, however, considerably flatter than that of the Chamomile. All the Chamomiles have a tiny, chaffy scale between each two florets, which is very minute and has to be carefully looked for but which all the same is a vital characteristic of the genus Anthemis . The distinction between A. nobilis and other species of Anthemis is the shape of these scales, which in A. nobilis are short and blunt. The fruit is small and dry, and as it forms, the hill of the receptacle gets more and more conical. The whole plant is downy and greyishgreen in colour. It prefers dry commons and sandy soil, and is found wild in Cornwall, Surrey, and many other parts of England. Small flies are the chief insect-visitors to the flowers.",
+        "source_id": "grieve-modern-herbal-1931",
+        "lecture": "Chamomiles"
+      },
+      {
+        "text": "[Chamomiles overview] Tonic, antispasmodic, emmenagogue and emetic. The whole herb is used (for drying, see FEVERFEW ). Like true Chamomile, a strong decoction will produce vomiting and sweating. In America it is used in country districts as a sudorific in colds and chronic rheumatism. The infusion made from 1 OZ. of the dried herb in a pint of boiling water and taken warm in wineglassful doses has been used with success in sick headache and in convalescence from fevers. It was formerly used in scrofula and hysteria and externally in fomentations. A weaker infusion taken to a moderate extent acts as an emetie. See FEVERFEW (CORN) and PELLITORY . Purchase from Richters Anthemis Corn Chamomile (Anthemis arvensis) Seeds Austrian Chamomile 'Mayweed' (Anthemis austriaca) Seeds Chamaemelum nobile Double Chamomile (Chamaemelum nobile 'Flora Plena') Plants English Chamomile (Chamaemelum nobile 'Treneague') Plants Roman Chamomile (Chamaemelum nobile) Seeds and Plants Cladanthus arabicus Moroccan Chamomile (Cladanthus arabicus) Seeds Cota tinctoria Golden Marguerite 'Dyer's Chamomile' (Cota tinctoria 'Kelwayi') Seeds and Plants St. John's Chamomile (Cota tinctoria sancti-johannis) Seeds Matricaria recutita Bodegold Chamomile (Matricaria recutita 'Bodegold') Seeds German Chamomile (Matricaria recutita) Seeds and Dried Flowers Pineapple Weed 'Wild Chamomile' (Matricaria discoidea) Seeds Zloty Lan Chamomile (Matricaria recutita 'Zloty Lan') Seeds Try it in tea! Beginner's Herbal Tea Blending Kit (Dried Herb Collection) Chamomile Smooth Dreams Tea Energizer Tea Fairy Tale Tea Women's Ease Tea Find it in an herb garden collection... Tea Time Tea Herb Garden",
+        "source_id": "grieve-modern-herbal-1931",
+        "lecture": "Chamomiles"
+      },
+      {
+        "text": "[Chamomiles overview] Whole herb. Stinking Chamomile or Stinking Mayweed ( Anthemis cotula ), an annual, common in waste places, resembles the true Chamomile, having large solitary flowers on erect stems, with conical, solid receptacles, but the white florets have no membraneous scales at their base. It is distinguished from the other Chamomiles and closely allied genera by its foetid odour, which Gerard calls ' a naughty smell .' This disagreeable smell, and the resemblance to fennel of its much-cut leaves gains it its other name of 'Dog's Fennel.' The whole plant, not only the flowers, has this intense odour and is penetrated by an acrid juice that often will blister the hand which gathers it. Writers on toxicology have classed this plant amongst the vegetable poisons.",
+        "source_id": "grieve-modern-herbal-1931",
+        "lecture": "Chamomiles"
+      },
+      {
+        "text": "[Chamomiles overview] Fluid extract: dose, 1/4 to 1 drachm. Top of document. Top of Chamomile, German Stinking Chamomile (Anthemis cotula) Click on graphic for larger image Chamomile Stinking Botanical: Anthemis cotula (LINN.) Family: N.O. Compositae Medicinal Action and Uses",
+        "source_id": "grieve-modern-herbal-1931",
+        "lecture": "Chamomiles"
+      }
+    ],
     "indications": [
       {
         "text": "Preparations: Infusion of Chamomile - Extract of Chamomile - Fluid Extract of Chamomile Related entries: Matricaria (U. S. P.)—Matricaria - Cotula.—May-Weed - Oleum Anthemidis.—Oil of Chamomile",
@@ -73,6 +101,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "grieve-modern-herbal-1931",
       "kings-american-1898"
     ]
   }

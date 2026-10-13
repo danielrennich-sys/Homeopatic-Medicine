@@ -87,6 +87,58 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "Mouth And Throat: Mouth and throat, sticky, clammy, pasty.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mouth And Throat"
+      },
+      {
+        "text": "Hypochondriæ: Hypochondriæ, burning, heat, etc., liver; Hypochondriæ, liver, scapula, left, to; Hypochondriæ, liver, urticaria, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hypochondriæ"
+      },
+      {
+        "text": "Heart, Circulation And Pulse: Heart, circulation and pulse, heart-beat and pulse, slow; Heart, circulation and pulse, liver symptoms, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Heart, Circulation And Pulse"
+      },
+      {
+        "text": "Ccc: Chest, apices, pains in; Chest, apices, pains in, left; Chest, stitches.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Ddd: Discouraged.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ddd"
+      },
+      {
+        "text": "Eee: Eyes, red.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Ggg: Gall bladder, burning; Gall bladder, bursting; Gall bladder, sore; Gall bladder, stones, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Jjj: Jaundice, infants, of.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Jjj"
+      },
+      {
+        "text": "Lll: Liver, backward, scapula, etc., to; Liver, heart, with; Liver, navel, to.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Uuu: Urticaria, liver symptoms, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      }
+    ],
     "respiratory": [
       {
         "text": "Dry, hollow cough, from tickling in upper anterior lobes of lungs ; < in morning, > in evening ; great lassitude in afternoon. Cough with tickling in chest. Cough, coryza and catarrhal fever, setting in with every atmospheric change. Catarrhal fevers, with pain in elbow and knee joints, with dry, hollow cough, caused by a tickling in upper and front part of lungs, especially in morning, > in evening, accompanied by lassitude in afternoon.",
@@ -155,6 +207,7 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879",
       "kings-american-1898"
     ]

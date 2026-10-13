@@ -10,11 +10,84 @@
       "Apocynum (U. S. P.)"
     ]
   },
-  "category": "herbal",
+  "category": "homeopathic",
   "categories": [
+    "homeopathic",
     "herbal"
   ],
   "traditional": {
+    "comparative": [
+      {
+        "text": "[The Vegetable Kingdom] In the order of Apocynacece there are a number of plants which we use as medicines. Among these may be mentioned Apocynum can- nabinum and androscsmifolium, Gelsemium sempervire?is , Vinca minor, Olea?ider, Nux vomica, Ignatia. Curare, Alstonia scholaris, and Spigelia. By some authorities Gelsemium, Nux vomica, Ignatia, Curare, and Spigelia have been included in another order, the Loganiace<z. This order of plants is very poisonous; they depress the nervous system, causing prostration, and even narcosis and paralysis; some of them cause death.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      },
+      {
+        "text": "[The Vegetable Kingdom] Apocynum cannabinum was said by Pliny to be fatal to dogs, and from this circumstance its name was derived. It has a tough fibre, like hemp, which has been used for cordage.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      },
+      {
+        "text": "[The Vegetable Kingdom] Apocynum has a marked effect in increasing the flow of urine. It is not sufficient, however, in the present course, to study the drug simply as a diuretic, because it has such a decided action on the vital forces that it demands a more extended notice. It depresses the vital forces greatly, as evidenced in the relaxed sphincters, loss of muscular power, etc. This loss of power is an important general symptom, since it qualifies, as we shall see presently, the cardiac, renal and in- testinal symptoms.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      },
+      {
+        "text": "[The Vegetable Kingdom] In the last few years Apocynum has come into very extensive use in the treatment of many forms of dropsy. When I give you a resume of its symptoms, you will see that its indiscriminate use in dropsical conditions is by no means strictly homoeopathic. When not properly indicated symptomatically, it is necessary to exhibit it in large doses in order to produce any effect. Scoparius (broom-corn) and also the pods of some of the Leguminosae, cause increased functional activity of the kidne}'s and so aid in the elimination of the dropsical effusion. But we have to deal with an art that admits of no such prescribing. It aims at definiteness, not generalization. It teaches the selection of a similimum, not of a temporary palliative.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      },
+      {
+        "text": "[The Vegetable Kingdom] When indicated Apocynum demands that the following symptoms be present: bewilderment and heaviness of the head; drowsiness and de- bility or disturbed, restless sleep. The functions are sluggish. The",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      },
+      {
+        "text": "[The Vegetable Kingdom] pulse is slow. The bowels are constipated, although the faeces are not hard. The kidneys are torpid, or else the urine is copious and urination is almost involuntary from relaxed sphincters. The nose and throat are filled with thick yellow mucus on awakening. The patient has a sense of oppression at the epigastrium and chest; he can hardly get breath to speak, even after lighter meals than usual; he must take frequent deep inspirations. There are also fluttering of the heart, and dartings and prostrated feeling in the cardiac region. The pulse is irregular, intermittent and at times feeble, then slow. The heart beats regularly, then flutters and becomes feeble, then slow and labored, now and then losing a beat. This is just the group of symp- toms characteristic of cardiac dropsy, and it shows what an affinity the drug has for the cardiac region. It will often palliate even in fatty degeneration of the heart, with dropsy, in old people.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      },
+      {
+        "text": "[The Vegetable Kingdom] Here you may compare several remedies: first, Arsenicum. This remedy has the same thirst and the same sinking at the epigastrium as has Apocynum, but it is indicated in more advanced cases, and the patient always presents more irritability of fibre.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      },
+      {
+        "text": "[The Vegetable Kingdom] Helleborus and Digitalis are similar to Apocynum in causing torpid- ity, slow pulse, etc. But I think that Apocynum, as a rule, is the pre- ferable remedy, unless the symptoms point very strongly to one of the other two.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      },
+      {
+        "text": "[The Vegetable Kingdom] Apocynum also has some action on the joints, producing a rheu- matic condition. The joints feel stiff, especially on moving in the morning.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      },
+      {
+        "text": "[The Vegetable Kingdom] You may recall that I mentioned Apocynum as a remedy in hydro- cephalus. The head is large; there is bulging of the frontal bones; the fontanelles are wide open; there is squinting, and, in extreme cases, the patient is blind; one side is paralyzed. The case closely re- sembles Apis, but lacks the cephalic cry. It is indicated in more ad- vanced cases than Apis. One or two cases have been cured by the continued use of the remedy.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      },
+      {
+        "text": "[The Vegetable Kingdom] There is a diarrhoea which may call for Apocynum. The stools are copious, yellow, watery, or brownish, and sometimes contain undi- gested food. They are discharged with an expulsive force like a cork from a bottle. The sphincter ani is so weak that stools escape un- bidden, or while the patient is passing flatus. After stool, he feels",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      },
+      {
+        "text": "[The Vegetable Kingdom] weak or has an \" all-gone feeling\" in the abdomen. The face is pale and covered with a cold sweat.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      },
+      {
+        "text": "[The Vegetable Kingdom] Apocynum also has haemorrhoids, which are associated with a feel- ing as if a wedge were being hammered into the anus.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      },
+      {
+        "text": "[The Vegetable Kingdom] Anaca?-dium is another drug which has a sensation as though a plug were being forced up into the anus.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      }
+    ],
     "indications": [
       {
         "text": "Preparations: Extract of Bitter Root - Fluid Extract of Apocynum Related entry: Apocynum androsaemifolium.—Dog's Bane",
@@ -65,6 +138,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "farrington-clinical-1908",
       "kings-american-1898"
     ]
   }

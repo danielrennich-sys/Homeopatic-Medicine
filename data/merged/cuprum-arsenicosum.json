@@ -236,6 +236,23 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Nnn: Nose, pressure (of glasses), agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Pressure, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Vvv: Vomiting, sweat, cold, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      }
+    ],
     "mental_emotional": [
       {
         "text": "A Kind of intoxication. Confusion of ideas. Intense anguish of mind and body. Vertigo, confusion of ideas, and headache between temples. Dulness and fulness of head. Fulness in head ; brain seems to expand and press against frontal bone. Cerebro-spinal irritation ; staggering gait.",
@@ -267,6 +284,7 @@
       "allen-encyclopedia-1874",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879"
     ]
   }

@@ -1,0 +1,88 @@
+{
+  "id": "polygonum-sagittatum",
+  "names": {
+    "primary": "Polygonum Sagittatum",
+    "latin": "Polygonum Sagittatum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Urinary Organs: Urinary organs, ureters.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Urinary Organs"
+      },
+      {
+        "text": "Aaa: Abdomen, cramp, colic, griping; Abdomen, grinding, boring; Anus, eruption.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Bladder, inflamed.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Cutting.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Fff: Face, swollen; Face, swollen, right.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Hhh: Heels, sore; Hips, contracted.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Kkk: Kidneys; Kidneys, colic.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Kkk"
+      },
+      {
+        "text": "Lll: Legs, ache.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Nnn: Nausea, abdomen, in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Palate, crawling; Palate, itching; Prostate; Pulsation.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Scrotum, excoriated; Smarting; Spine, cutting, up.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Tongue, swelled.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Ureters, cramp; Urinary organs; Urine, purulent; Urine, sediment, adherent; Urine, sediment, gravel; Urticaria.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "boger-synoptic-key-1915"
+    ]
+  }
+}

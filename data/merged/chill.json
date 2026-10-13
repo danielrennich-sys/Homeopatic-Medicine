@@ -1,0 +1,28 @@
+{
+  "id": "chill",
+  "names": {
+    "primary": "Chill",
+    "latin": "Chill",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[The Ophidia] In the evening and before 12 p. m., we find the following especial exacerbations: Throat sensitive; diarrhoea; dry, hacking cough. Chill beginning some time between noon and 2 p. m., but fever is marked in the evening and night; worse before 12 p. m.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "farrington-clinical-1908"
+    ]
+  }
+}

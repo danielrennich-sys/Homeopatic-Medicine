@@ -40,12 +40,13 @@ MERGED_DIR.mkdir(parents=True, exist_ok=True)
 # Processed files whose "records" are repertory chapters, alphabet headings or
 # book front-matter rather than remedies (their ingest scripts need fixing).
 JUNK_SOURCE_FILES = {
+    # Repertories (symptom -> remedies). derive_repertory_sources.py inverts
+    # them into derived_repertories.json, which is merged like any source.
     "boger_synoptic.json",        # repertory chapters: TIME, EYES, COUGH...
     "boger_genera_morborum.json", # "General Analysis By ... Boger"
-    "allen_handbook.json",        # AAA, BBB, CCC...
-    "hering_condensed.json",      # AAA, BBB, CCC...
     "gentry.json",                # "The Concordance Repertory" x23
-    "roberts_sensations.json",    # book title x35
+    # Not a materia medica at all: "The Principles and Art of Cure" (philosophy)
+    "roberts_sensations.json",
 }
 # Headline names that are chapter/section titles, not remedies
 JUNK_NAME_RE = re.compile(

@@ -1,0 +1,28 @@
+{
+  "id": "perineum",
+  "names": {
+    "primary": "Perineum",
+    "latin": "Perineum",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[The Carbon Group] * Perineum, moist, raw, oozing, etc.; Amnion, c, Alum, Natr. m., CARBO V., Carbo a., NITR. AC, Graph (and cracked), SuivPH., Rhus tox., Arsenic, Ant. cr. (mucous piles), THUJA (offensive oozing), SIIylCEA (moist), Sulphuric acid, Capsic, Petroleum (see also Fissures), Borax (slimy, purulent oozing), Sepia (oozing).",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Carbon Group"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "farrington-clinical-1908"
+    ]
+  }
+}

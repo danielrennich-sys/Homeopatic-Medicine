@@ -92,6 +92,48 @@
         "source_id": "guernsey-keynotes-1887"
       }
     ],
+    "repertory": [
+      {
+        "text": "Generalities: Breaking.); Bones, cartilages.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Ccc: Callosities; Cancer; Coldness.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Eee: Eyes, injuries.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Fff: Face, injuries.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Fff"
+      },
+      {
+        "text": "Iii: Injuries, bones or cartilage; Injuries, head, to; Injuries, old.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      },
+      {
+        "text": "Mmm: Motion, gentle, amel..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Ppp: Prickling.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Sss: Stitches.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      }
+    ],
     "habitat": [
       {
         "text": "A native of Europe and temperate Asia; is common throughout England on the banks of rivers and ditches, and in watery places generally. This well-known showy plant is a member of the Borage and Forget-me-not tribe, Boraginaceae . The plant is erect in habit and rough and hairy all over. There is a branched rootstock, the roots are fibrous and fleshy spindle-shaped, an inch or less in diameter and up to a foot long, smooth, blackish externally, and internally white, fleshy and juicy.",
@@ -350,6 +392,7 @@
   "provenance": {
     "sources": [
       "boericke-1927",
+      "boger-synoptic-key-1915",
       "grieve-modern-herbal-1931",
       "lactmed-nih",
       "lippe-textbook-mm-1866",

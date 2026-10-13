@@ -8,11 +8,29 @@
     ],
     "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
   "categories": [
+    "homeopathic",
     "herbal"
   ],
   "traditional": {
+    "comparative": [
+      {
+        "text": "[The Vegetable Kingdom] an eruption on the scalp and behind the ears, simulating crusta lactea, and oozing a fluid which hardens into scabs beneath which vermin breed. It is just as important a remedy in this disease as Sulphur, Mezereum, Viola tricolor, etc. The distinction which you may make lies in the other symptoms, i. e., if the characteristic gastro-enteric symptoms are present, Oleander will be the remedy.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      },
+      {
+        "text": "[The Vegetable Kingdom] In these skin symptoms you may compare Vinca minor with several remedies; first with Viola tricolor. This is useful in crusta lactea, when the exudation is very copious. Like Vinca, it mats the hair to- gether, but there is this peculiarity which always enables you to dis- tinguish between the two, namely, Viola has urine with a peculiar pungent odor, which has been aptly compared to that of cat's urine. You may think of it when persistent eczema is accompanied by",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      },
+      {
+        "text": "[The Vegetable Kingdom] disturbance in the urinary organs, either too copious urination, or sud- den cessation of the urinary secretion.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      }
+    ],
     "indications": [
       {
         "text": "The whole plant of Viola pedata, Linné; Viola odorata, Linné, and other species of Viola. Nat. Ord.—Violaceae. COMMON NAMES: (1) Blue violet, Bird's-foot violet; (2) Sweet violet, Sweet-scented violet.",
@@ -67,6 +85,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "farrington-clinical-1908",
       "kings-american-1898"
     ]
   }

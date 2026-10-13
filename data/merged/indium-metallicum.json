@@ -82,6 +82,13 @@
         "source_id": "boericke-1927"
       }
     ],
+    "repertory": [
+      {
+        "text": "Sss: Sciatic nerve, sitting, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      }
+    ],
     "mental_emotional": [
       {
         "text": "Mental depression. Mind feels tired ; does not care to work. Feels stupid and careless ; cannot fix thoughts on anything. Restless, cannot sit still, must walk about. Sleepy and irritable with headache. Feels almost crazed when attempting to study, with headache. Vertigo : on rising from a seat ; after retiring, with nausea ; when sitting and stooping slightly ; between 3 and 4 A. M., < on turning and on rising, cannot sit up.",
@@ -185,6 +192,7 @@
     "sources": [
       "allen-encyclopedia-1874",
       "boericke-1927",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879"
     ]
   }

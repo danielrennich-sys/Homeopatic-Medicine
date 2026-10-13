@@ -178,6 +178,23 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Time: Time, night, agg., 2 A.M..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Time"
+      },
+      {
+        "text": "Iii: Itching, bed, in.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      },
+      {
+        "text": "Uuu: Ulcer, black; Ulcer, flowing.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      }
+    ],
     "chest_heart": [
       {
         "text": "Pulse weak and contracted. θ Melancholy and jealousy. Pulse small, scarcely perceptible, rapid. θ Neuropathia.",
@@ -203,6 +220,7 @@
       "allen-encyclopedia-1874",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879",
       "kent-new-remedies-1926"
     ]

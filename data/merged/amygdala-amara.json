@@ -130,6 +130,13 @@
         "Main"
       ]
     },
+    "comparative": [
+      {
+        "text": "[The Vegetable Kingdom] A study of the vegetable kingdom involves to some extent a study of the mineral kingdom, because many of the medicinal properties of vegetable remedies owe their existence to substances derived from the minerals in the soil in which they grow. The principal effects of some of the grasses are the result of the large quantity of Silica they contain. Xinet3T-nine one-hundred ths of the effects of Lata-ocerasus come from its Hydrocyanic or Prussic acid, which is commonly classed with the inorganic compounds. The same may be said of Amygdala persica. Now these substances derived from the mineral kingdom and contained in the vegetable kingdom, become more active in their new environment; that is to say, a given chemical substance, if made synthetically in the laboratory, would possess less marked medicinal virtues than if it were obtained from a plant. The above remarks also apply to the animal and vegetable kingdoms. Substances existing in the animal kingdom and found also in the vegetable, are far more ii",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Vegetable Kingdom"
+      }
+    ],
     "indications": [
       {
         "text": "Preparations: Bitter Almond Water - Emulsion of Almond - Syrup of Almond - Compound Powder of Almond - Spirit of Bitter Almond Related entries: Oleum Amygdalae Expressum (U. S. P.)—Expressed Oil of Almond - Oleum Amygdalae Amarae (U. S. P.)—Oil of Bitter Almond - Prunus (U. S. P.)—Prune- Amygdalus Persica.—Peach Tree- Laurocerasi Folia.—Cherry-Laurel Leaves - Prunus Virginiana (U. S. P.)—Wild Cherry- Acidum Hydrocyanicum Dilutum (U. S. P.)—Diluted Hydrocyanic Acid",
@@ -189,6 +196,7 @@
   "provenance": {
     "sources": [
       "hering-guiding-1879",
+      "farrington-clinical-1908",
       "kings-american-1898"
     ]
   }

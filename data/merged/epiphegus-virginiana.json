@@ -51,6 +51,10 @@
         "source_id": "boericke-1927"
       },
       {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Epiphegus. A tincture is made of the fresh plant of Epiphegus Virginians, Bart. ► Languid feeling. ► Aggravation from walking in open air ; on rising from supine position. ► Amelioration in morning ; A. after sleep. ► Fears death from palpitation ; F. injury to her health from the drug. ► When writing, could not make the desired letters. ► Found himself using wrong words in writing. ► Difficulty in thinking correctly or in selecting proper words or expressions. ► Sensation as if something were wrong in his head, agg. forepart (morning after headache). ► Headache ; agg. rising up in bed ; agg. working in open air. ► Head confused. ► Head full ; in forepart. ► Pain in forepart of head ; in middle of forehead ; sudden, transient in middle of forehead ; in right temple ; left temple at night in bed, agg. rising up ; left temple till bedtime ; temples agg. right, leaving dull heavy pain agg. right ; piercing in right temple ; flying in temples ; as from pressure of finger-ends in temporal fosse, from 3 P.M . till evening, agg. left side ; pressing inward, in right temple. ► Pain in occiput ; pressing outward in occiput in morning on rising, increasing till 4 P.M ., then declining till 6 P.M . when it disappeared, agg. open air, motion, rising or stooping, amel. warmth of the room, eating or sleeping, with nausea. ► Fulness in occiput, with dizziness in forehead. ► Scalp feels tight during headache. ► Sharp pain over centre angle of right eye. ► Smarting of eyes ; of conjunctiva, with redness. ► Could not read because letters seemed blurred. ► Red face ; cheeks, agg. left. ► Salivation ; watery, constant spitting of clear, watery saliva. ► Almost constant desire to expectorate. ► Saliva viscid . ► Taste viscid ; and sticky ; T. bitter (secondary). ► Nausea. ► Gnawing in stomach, agg. motion, amel. eating and quiet. ► Acidity in stomach, with accumulation of flatus. ► Weight in stomach as from a cold substance. ► Loose stool, with griping. ► Stool difficult although soft. ► Palpitation which makes her weak. ► Pain in left shoulder ; left knee, trembling of knees and lower limbs ; of lower limbs, with weakness of them. ► Restless sleep, with much dreaming. ► Temperature lowered. Clinical :- ► Several cures of \"sick headache\" are reported with the general characteristic of being caused by unusual excitement or fatigue, for example, visiting or shopping ; some cases associated with nausea and vomiting. Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
         "text": "The Orobanche family to which Epiphegus belongs is nearest to the Scrophulariaceæ in botanical features. In addition to the name of \"cancer-root\" it is also called \"clap-root\" and \"flux-plant,\" showing the virtues with which it is popularly accredited. Its homœopathic use has been almost exclusively confined to the treatment of headaches of the neurasthenic type, brought on by any extra exertion, relieved by a good sleep. The pain is pressing from within outward. A very characteristic symptom is: \"Constantly wants to spit, saliva viscid;\" when this symptom occurs in connection with a headache Epiphegus will almost certainly cure. It is said to have entered into the composition of \"Martin's Cancer powder,\" and has been used by eclectics as a local application in obstinate ulcers and aphthæ. Symptoms take the direction: Right to left; right upper, left lower. Right temple more affected than left. It has been used mostly in the 3x potency. It has been proved by Dr. Ralf Morden. Dr. S. A. Jones has been chiefly instrumental in defining its place in therapeutics. I have cured with it many cases of headache, some of them desperately severe. The conditions are: from working in open air; from rising up in bed; > from a good sleep.",
         "source_id": "clarke-dictionary-1900"
       },
@@ -61,6 +65,28 @@
       {
         "text": "Epiphegus needs further proving.",
         "source_id": "nash-leaders-1899"
+      }
+    ],
+    "repertory": [
+      {
+        "text": "Saliva: Saliva, increased, headache, with.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Saliva"
+      },
+      {
+        "text": "Hhh: Head, weekly.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Sss: Saliva, flows, pain, headache, etc., during.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Teeth, tartar.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
       }
     ],
     "generalities": [
@@ -145,6 +171,8 @@
   "provenance": {
     "sources": [
       "boericke-1927",
+      "boger-synoptic-key-1915",
+      "allen-handbook-1889",
       "clarke-dictionary-1900",
       "kings-american-1898",
       "nash-leaders-1899"

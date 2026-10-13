@@ -154,6 +154,113 @@
         "text": "Occasional chills. Febrile excitement. Dry heat. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Generalities: Glands, swelled.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "External Head ; Bones And Scalp: External head; bones and scalp, hair, bristling erect.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "External Head ; Bones And Scalp"
+      },
+      {
+        "text": "Aaa: Acrid; Anus, moist; Anus, moist, foul.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Bbb: Bones, exostoses; Burning, raw, smarting, biting.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Bbb"
+      },
+      {
+        "text": "Ccc: Caruncle; Change of temperature, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "Eee: Eczema, moist; Effusion, deposits, etc.; Epigastrium, tremor; Erections, poor.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Eee"
+      },
+      {
+        "text": "Ggg: Glands, knotted cords or beads, like.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Head, sundown, amel.; Heart, cold; Heat, internal.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Iii: Infiltration; Itch, baker's, barber's; Itching.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Iii"
+      },
+      {
+        "text": "Kkk: Kidneys, nephritis, suppurative.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Kkk"
+      },
+      {
+        "text": "Lll: Legs, ache; Legs, ulcer.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lll"
+      },
+      {
+        "text": "Mmm: Mesentery; Mouth, dry; Mouth, raw.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Mmm"
+      },
+      {
+        "text": "Nnn: Nails, ingrown; Neck, eruption; Numb, painless, etc.; Numb, partial, spots, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Nnn"
+      },
+      {
+        "text": "Ppp: Pneumonia, unresolved; Prepuce, cracked; Pyelitis.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Rrr: Reabsorbent.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Rrr"
+      },
+      {
+        "text": "Sss: Sensitive, susceptible, etc.; Stool, bright; Stool, yellow, bright; Suppuration, abscess; Swallowing [[agg.]]; Swallowing, painful.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      },
+      {
+        "text": "Ttt: Teeth, smooth, as if; Testes, soft; Throat, dry; Tibiæ, nodes; Tibiæ, pains in; Tibiæ, syphilis; Tongue, smooth, glazed; Tonsils, chronicity.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      },
+      {
+        "text": "Uuu: Ulcer; Urine, purulent; Urine, sediment, sand; Urine, sediment, sand, brown.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Uuu"
+      },
+      {
+        "text": "Vvv: Vision, zigzags.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      },
+      {
+        "text": "Www: Weak; White, turning.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Www"
+      },
+      {
+        "text": "Zzz: Zigzag.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Zzz"
+      }
     ]
   },
   "evidence": {},
@@ -162,6 +269,7 @@
       "allen-encyclopedia-1874",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "kent-new-remedies-1926"
     ]
   }

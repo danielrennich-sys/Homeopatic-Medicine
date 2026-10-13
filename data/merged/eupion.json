@@ -17,6 +17,13 @@
         "source_id": "allen-encyclopedia-1874"
       }
     ],
+    "repertory": [
+      {
+        "text": "Ttt: Teeth, sticky.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ttt"
+      }
+    ],
     "keynotes": [
       {
         "text": "Text Book of Materia Medica. By Adolph Lippe, M. D. Professor of Materia Medica at the Homopathic College of Pennsylvania. Presented by Médi-T. Eupion. Colliquative perspiration. Perspires from the least exertion ; when eating ; all night (with tuberculosis). Copyright © Médi-T 2006",
@@ -28,6 +35,7 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "boger-synoptic-key-1915",
       "lippe-textbook-mm-1866"
     ]
   }

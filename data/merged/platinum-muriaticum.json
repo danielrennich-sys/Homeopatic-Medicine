@@ -33,6 +33,10 @@
     ],
     "keynotes": [
       {
+        "text": "Main Hand Book of Materia Medica and Homopathic Therapeutics. By T. F. Allen. Presented by Médi-T . Platinum Muriaticum. This salt is dissolved in water for use. Clinical :- ► This preparation of Platinum has been found valuable in caries of the bones, particularly of the nasal bones and of the tarsus. ► It has been used in syphilis after Mercury and Aurum . Copyright © Médi-T 2005. Main",
+        "source_id": "allen-handbook-1889"
+      },
+      {
         "text": "Plat. mur. was experimented with by Hofer, of Pau, who applied locally a saturated solution and administered solutions internally. Fever, headache, constricting sensations and fibrillary twitchings were induced by internal doses; the local application produced acute irritation of the skin and glans penis, with an eruption on the latter like commencing chancre. Plat. mur. has been used in cases of caries (especially of nasal bones and bones of tarsus); of syphilitic caries; syphilitic rheumatism; chronic gonorrhœa; condylomata; gastric carcinoma; acne.",
         "source_id": "clarke-dictionary-1900"
       },
@@ -112,6 +116,7 @@
   "provenance": {
     "sources": [
       "allen-encyclopedia-1874",
+      "allen-handbook-1889",
       "clarke-dictionary-1900"
     ]
   }

@@ -8,11 +8,19 @@
     ],
     "synonyms": []
   },
-  "category": "herbal",
+  "category": "homeopathic",
   "categories": [
+    "homeopathic",
     "herbal"
   ],
   "traditional": {
+    "repertory": [
+      {
+        "text": "Sss: Spleen.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      }
+    ],
     "constituents": [
       {
         "text": "The black-seeded variety yield between 50 and 60 per cent of the best grade of oil. The oil has a specific gravity of from 0.924 to 0.926, solidifies at 5 degrees F., is slightly yellowish, limpid, of a sweetish taste and odourless. It dries slowly and forms one of the best burning oils known, burning longer than any other vegetable oil. Ludwig and Kromayer obtained a tannin which they called Helianthitanic acid, and gave it the formula Cl4H9O8. On boiling with moderately diluted hydrochloric acid, they obtained a fermentable sugar and a violet colouring matter. E. Diek found only small quantities of Inulin, large quantities of Levulin and a dextro-rotatory sugar. All parts of the plant contain much carbonate of potash.",
@@ -73,6 +81,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "boger-synoptic-key-1915",
       "grieve-modern-herbal-1931"
     ]
   }

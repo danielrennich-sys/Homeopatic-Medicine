@@ -6,11 +6,20 @@
     "common": [],
     "synonyms": []
   },
-  "category": "supplement",
+  "category": "homeopathic",
   "categories": [
+    "homeopathic",
     "supplement"
   ],
-  "traditional": {},
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[The Preparations Of Mercury] Kali hydriodicum, or the Iodide of Potassium, is a well-known antidote for Mercury, and has come into practice of late years, and is given by both schools of medicine very extensively, whether the case be syphi- litic or not. Like Nitric acid, it is particularly indicated when syphilis and Mercury combine to make the patient sick, especially when the lower order of tissues are involved, as the bones, the periosteum and the glands; when there is the well-known syphilitic ozaena, a thin watery discharge from the nose, making the upper lip sore and raw. You will find it the best drug we have for the repeated catarrhs which may follow the abuse of Mercury. Every little exposure to a damp atmosphere, or even to cool air, causes coryza. This, remember, is a case of mercurial poisoning which the Iodide of Potassium is to antidote. The eyes are hot, and watery, and swollen. There are neuralgic pains in one or both cheeks, the nose feels stuffed up and is swollen, and discharges at the same time a profuse watery scalding coryza, and there is more or less sore throat. These symptoms recur at every fresh exposure. There is scarcely any drug which will cure these quicker than will Iodide of Potassium.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Preparations Of Mercury"
+      }
+    ]
+  },
   "evidence": {
     "summary": "Potassium, the most abundant intracellular cation, is an essential nutrient that is naturally present in many foods and available as a dietary supplement. Potassium is present in all body tissues and is required for normal cell function because of its role in maintaining intracellular fluid volume and transmembrane electrochemical gradients [ 1 , 2 ]. Potassium has a strong relationship with sodium, the main regulator of extracellular fluid volume, including plasma volume. The total amount of potassium in the adult body is about 45 millimole (mmol)/kg body weight (about 140 g for a 175 pound adult; 1 mmol = 1 milliequivalent [mEq] or 39.1 mg potassium) [ 3 ]. Most potassium resides intracellularly, and a small amount is in extracellular fluid [ 2-4 ]. The intracellular concentration of potassium is about 30 times higher than the extracellular concentration, and this difference forms a transmembrane electrochemical gradient that is maintained via the sodium-potassium (Na+/K+) ATPase transporter [ 4 ]. In addition to maintaining cellular tonicity, this gradient is required for proper nerve transmission, muscle contraction, and kidney function. Potassium is absorbed via passive diffusion, primarily in the small intestine [ 2 , 4 , 5 ]. About 90% of ingested potassium is absorbed and used to maintain its normal intracellular and extracellular concentrations [ 3 , 5 ]. Potassium is excreted primarily in the urine, some is excreted in the stool, and a very small amount is lost in sweat. The kidneys control potassium excretion in response to changes in dietary intakes, and potassium excretion increases rapidly in healthy people after potassium consumption, unless body stores are depleted [ 2 , 6 ]. The kidneys can adapt to variable potassium intakes in healthy individuals, but a minimum of 5 mmol (about 195 mg) potassium is excreted daily in urine [ 3 ]. This, combined with other obligatory losses, suggests that potassium balance cannot be achieved with intakes less than about 400–800 mg/day. Normal serum concentrations of potassium range from about 3.6 to 5.0 mmol/L and are regulated by a variety of mechanisms [ 3 , 7 ]. Diarrhea, vomiting, kidney disease, use of certain medications, and other conditions that alter potassium excretion or cause transcellular potassium shifts can cause hypokalemia (serum levels below 3.6 mmol/L) or hyperkalemia (serum levels above 5.0 mmol/L) [ 3 , 5 , 7 , 8 ]. Otherwise, in healthy individuals with normal kidney function, abnormally low or high blood levels of potassium are rare. Assessing potassium status is not routinely done in clinical practice, and it is difficult to do because most potassium in the body is inside cells. Although blood potassium levels can provide some indication of potassium status, they often correlate poorly with tissue potassium stores [ 3 , 9 , 10 ]. Other methods to measure potassium status include collecting balance data (measuring net potassium retention and loss); measuring the total amount of potassium or the total amount of exchangeable potassium in the body; and conducting tissue analyses (e.g., muscle biopsies), but all have limitations [ 9 ].",
     "studies": [
@@ -72,6 +81,7 @@
   },
   "provenance": {
     "sources": [
+      "farrington-clinical-1908",
       "ods-nih"
     ]
   }

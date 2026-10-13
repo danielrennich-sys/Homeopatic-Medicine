@@ -11,6 +11,18 @@
     "homeopathic"
   ],
   "traditional": {
+    "repertory": [
+      {
+        "text": "Jjj: Joints, suppurating.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Jjj"
+      },
+      {
+        "text": "Sss: Sweat, profuse, drenching.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Sss"
+      }
+    ],
     "keynotes": [
       {
         "text": "I once had a case like this: A boy eight years of age had several (four or five) abscesses in and around the knee joint. The ulceration had also attacked the tibia, which was half eaten off, so that the ragged necrosed bone protruded through the surface plainly in sight. The little fellow was greatly emaciated, and had no appetite, and was pale as a corpse. I told the mother that I thought this was a case for the surgeon, but I would try to get him in better condition for the operation. I remembered reading years before of the cures of abscesses by this remedy, made by Dr. Searles, of Albany, and empirically concluded to try it in this case.",
@@ -25,6 +37,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "boger-synoptic-key-1915",
       "nash-leaders-1899"
     ]
   }

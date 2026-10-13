@@ -1,0 +1,33 @@
+{
+  "id": "vertigo",
+  "names": {
+    "primary": "Vertigo",
+    "latin": "Vertigo",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[The Ophidia] turns, not a bright red, but rapidly to a dark purplish color, the blood becomes fluid, and the patient exhibits symptoms like those character- istic of septicaemia. The heart-beat increases in rapidity, but lessens in tone and strength. The patient becomes prostrated and covered with a cold clammy sweat. Dark spots appear on the body where the blood settles into ecchymoses; the patient becomes depressed from weakness of the nervous system, and then sinks into a typhoid state and dies. Or there follow nervous phenomena. Vertigo; dark spots before the eyes; blindness; a peculiar tremor all over the body; face besotted; dyspnoea, or even stertor. Or the process may assume a slower form. After the vertigo or trembling the patient remains weak, and the wound turns dark or gangrenous. All the discharges, the sweat, the urine and the faeces, become offensive. Dysenteric symptoms of a typhoid character show themselves. The patient goes into a low state, and finally dies. These are all phases of the action of these powerful poisons on the blood and the nerves.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      },
+      {
+        "text": "[The Carbon Group] itching.* Sometimes they protrude and are bluish, they are so dis- tended with blood. At other times, he has morning diarrhoea with stool which is very watery and thin and accompanied by a great deal of straining. We find Carbo veg. particularly indicated here after the failure of Nux vomica. The patient is peevish, easily angered. Vertigo reflex from the gastric disturbance is present. It is especially worse after a debauch and excessive indulgence in high living. It is often associated with syncope, especially at meals or after eating.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Carbon Group"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "farrington-clinical-1908"
+    ]
+  }
+}

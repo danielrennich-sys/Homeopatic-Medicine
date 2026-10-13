@@ -121,6 +121,13 @@
         "source_id": "clarke-dictionary-1900"
       }
     ],
+    "repertory": [
+      {
+        "text": "Aaa: Aneurism, pains of.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      }
+    ],
     "indications": [
       {
         "text": "Related entry: Tannic acid",
@@ -210,6 +217,7 @@
       "allen-encyclopedia-1874",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "ellingwood-1919",
       "kings-american-1898"
     ]

@@ -13,6 +13,18 @@
     "homeopathic"
   ],
   "traditional": {
+    "comparative": [
+      {
+        "text": "[The Preparations Of Antimony] In this threatening paralysis of the lungs you must compare Anti- monium tartaricum with several other drugs; with Lachesis, which has aggravation when arousing from sleep; with Kali hydriodicum, espe- cially when there is oedema pulmonum and a great deal of rattling of mucus in the chest, and what little sputum can be raised is greenish, and frothy like soap-suds.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Preparations Of Antimony"
+      },
+      {
+        "text": "[The Preparations Of Mercury] Kali hydriodicum, or the Iodide of Potassium, is a well-known antidote for Mercury, and has come into practice of late years, and is given by both schools of medicine very extensively, whether the case be syphi- litic or not. Like Nitric acid, it is particularly indicated when syphilis and Mercury combine to make the patient sick, especially when the lower order of tissues are involved, as the bones, the periosteum and the glands; when there is the well-known syphilitic ozaena, a thin watery discharge from the nose, making the upper lip sore and raw. You will find it the best drug we have for the repeated catarrhs which may follow the abuse of Mercury. Every little exposure to a damp atmosphere, or even to cool air, causes coryza. This, remember, is a case of mercurial poisoning which the Iodide of Potassium is to antidote. The eyes are hot, and watery, and swollen. There are neuralgic pains in one or both cheeks, the nose feels stuffed up and is swollen, and discharges at the same time a profuse watery scalding coryza, and there is more or less sore throat. These symptoms recur at every fresh exposure. There is scarcely any drug which will cure these quicker than will Iodide of Potassium.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Preparations Of Mercury"
+      }
+    ],
     "keynotes": [
       {
         "text": "KEY-NOTES TO THE MATERIA MEDICA by HENRY N. GUERNSEY, M.D. Presented by Médi-T KALI HYDRIODICUM We use this remedy for severe pains in the bones, where they swell. In violent headaches where the cranium swells up in hard lumps--pain being very intense. Syphilis . Copyright © Médi-T 2000",
@@ -27,6 +39,7 @@
   "evidence": {},
   "provenance": {
     "sources": [
+      "farrington-clinical-1908",
       "guernsey-keynotes-1887",
       "lippe-textbook-mm-1866"
     ]

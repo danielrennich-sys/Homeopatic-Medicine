@@ -1,0 +1,33 @@
+{
+  "id": "stool",
+  "names": {
+    "primary": "Stool",
+    "latin": "Stool",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[The Ophidia] menses, with stitches upward at each cough or sneeze. They occur also in connection with constipation. The patient attempts to strain at stool, but must desist on account of pain in the sphincter. Unsuccessful urging; the anus feels closed. Stool hard, like sheep's dung, and excessively offensive.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      },
+      {
+        "text": "[The Acids] The next stage, or that of exhaustion, has several grades, of course. Beginning with the mental S3'mptoms, we find that the patient is apt to be sad, and is absorded in self, taciturn, introspective, sad and brooding. If you question him you will learn that he is anxious about something real or imaginary. Headache may now appear, he feels as if the brain were being torn or bruised, or there is heaviness as if the occiput were made of lead. The patient becomes unconscious, with muttering delirium, sighs and groans during sleep, the tongue grows more dry and seems to have actually shrunken and become narrow and pointed; so dry is it that when he attempts to talk, it rattles like a piece of wash leather in his mouth. Still later, the tongue becomes paralyzed, so that he can scarcely move it at all. The heart-beats are regular and feeble. The pulse intermits characteristically at every third beat. He now becomes so weak that the muscles refuse their office. He has diarrhoea, which is watery and is accompanied by prolapsus of the rectum. Stool is involuntary when straining to urinate. He slides down in bed. He actually 'has not sufficient strength to keep his head upon the pillow. Paralysis of the brain is now threatening. This is indicated by vacant, staring eyes, dropping of the lower jaw, coldness of the extremities, and this, if not checked, is followed by death. Now these are the symptoms that call for Miuiatic acid, particularly in typhoid fever.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Acids"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "farrington-clinical-1908"
+    ]
+  }
+}

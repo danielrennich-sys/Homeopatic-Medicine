@@ -1,0 +1,33 @@
+{
+  "id": "conditions-aggravation",
+  "names": {
+    "primary": "Conditions Aggravation",
+    "latin": "Conditions Aggravation",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "repertory": [
+      {
+        "text": "Generalities: Congestions: Congestive",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Generalities: Dentition: Depressed",
+        "source_id": "gentry-rubrical-mm-1890",
+        "chapter": "Generalities"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "gentry-rubrical-mm-1890"
+    ]
+  }
+}

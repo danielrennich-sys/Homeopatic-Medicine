@@ -1,0 +1,33 @@
+{
+  "id": "vomiting",
+  "names": {
+    "primary": "Vomiting",
+    "latin": "Vomiting",
+    "common": [],
+    "synonyms": []
+  },
+  "category": "homeopathic",
+  "categories": [
+    "homeopathic"
+  ],
+  "traditional": {
+    "comparative": [
+      {
+        "text": "[The Ophidia] pressure of the clothing, burning in the stomach, vomiting and purging, spasms of the sphincter ani ', urging to stool, offensive flatus, offensive diar- rhoea, sensitiveness to the least touch, very much exhausted, slow breathing, feeble pulse. But there is generally present nausea, worse from the smell of food; if the patient sits or lies very quietly, the vomit- ing is suppressed (like Veratrum) . Senses too acute; a bright light, touch or strong odors irritate him (like Nux vom.) . Vomiting and purg- ing as in cholera morbus; the sphincter ani contracts after each stool, with fruitless urging. The similarity, then, exists chiefly in the sen- sitiveness to touch and the constrictions of sphincters with weakness, other symptoms being so different as to render a choice easy. (See also below.)",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Ophidia"
+      },
+      {
+        "text": "[The Preparations Of Antimony] In diseases of the intestinal tract we find it indicated by the follow- ing symptoms: nausea with great anxiety, eructations tasting like rotten eggs, yawning and drowsiness. The vomited matters are green and watery, and sometimes frothy, and contain food. The vomiting itself is associated with trembling of the hands, and is followed by drowsiness. Vomiting and purging may take place, with every symp- tom of collapse, coldness of the surface, the hands and feet are like ice, and the stools are profuse and watery. Thirstless or drinking little and often. Desire for acids, fruits, &c, cutting colic. Here you have an almost perfect picture of Veratrum. The distinction between the two remedies is that Veratrum has more cold sweat on the forehead, and Antimonium tart., more drowsiness.",
+        "source_id": "farrington-clinical-1908",
+        "lecture": "The Preparations Of Antimony"
+      }
+    ]
+  },
+  "evidence": {},
+  "provenance": {
+    "sources": [
+      "farrington-clinical-1908"
+    ]
+  }
+}

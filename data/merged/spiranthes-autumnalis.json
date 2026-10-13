@@ -185,6 +185,13 @@
         "text": "Incomplete, yawning. Sleeping during day. Starting up during sleep. Late falling asleep, evening. Sleeplessness in infants. Lascivious dreams with emissions.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Lower Limbs: Lower limbs, foot, swelling, right.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Lower Limbs"
+      }
     ]
   },
   "evidence": {},
@@ -193,7 +200,8 @@
       "boericke-1927",
       "grieve-modern-herbal-1931",
       "allen-encyclopedia-1874",
-      "clarke-dictionary-1900"
+      "clarke-dictionary-1900",
+      "boger-synoptic-key-1915"
     ]
   }
 }

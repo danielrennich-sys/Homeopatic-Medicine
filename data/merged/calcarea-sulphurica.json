@@ -613,6 +613,23 @@
         "source_id": "hering-guiding-1879"
       }
     ],
+    "repertory": [
+      {
+        "text": "Generalities: Cutting; Lumpy effects, discharges, etc.; Mucous, secretions, altered.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Generalities"
+      },
+      {
+        "text": "Ccc: Chill, covers, averse to; Coldness, covers, agg..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ccc"
+      },
+      {
+        "text": "General Analysis: CUTTING.",
+        "source_id": "boger-genera-morborum-1907",
+        "chapter": "General Analysis"
+      }
+    ],
     "mental_emotional": [
       {
         "text": "Loss of consciousness ; t. Loses memory and power of thought suddenly, after lunch. Sometimes a desire to walk, to attend to something ; as soon as she sets out to do it the desire is gone. Awoke screaming. Great depression at times. Liveliness and good spirits change to grief and melancholy, afternoon and evening. While walking, dizzy in head and weakness and oppression from head and across stomach. Vertigo with deathly nausea.",
@@ -650,6 +667,8 @@
       "allen-encyclopedia-1874",
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-genera-morborum-1907",
+      "boger-synoptic-key-1915",
       "hering-guiding-1879",
       "kent-lectures-1905",
       "kent-mm-1911",

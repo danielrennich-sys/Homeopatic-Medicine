@@ -139,6 +139,33 @@
         "text": "Great internal chilliness. Cold rigors all over, esp. in limbs. Fever. Cold sweat. Copyright © Médi-T ® 2000 Main.",
         "source_id": "clarke-dictionary-1900"
       }
+    ],
+    "repertory": [
+      {
+        "text": "Aaa: Awkward, drops things, etc..",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Aaa"
+      },
+      {
+        "text": "Ggg: Gait, reeling.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ggg"
+      },
+      {
+        "text": "Hhh: Hands, tremble.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Hhh"
+      },
+      {
+        "text": "Ppp: Paralysis, agitans.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Ppp"
+      },
+      {
+        "text": "Vvv: Vertigo, reeling.",
+        "source_id": "boger-synoptic-key-1915",
+        "chapter": "Vvv"
+      }
     ]
   },
   "evidence": {},
@@ -146,6 +173,7 @@
     "sources": [
       "boericke-1927",
       "clarke-dictionary-1900",
+      "boger-synoptic-key-1915",
       "allen-encyclopedia-1874"
     ]
   }

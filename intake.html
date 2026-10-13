@@ -199,6 +199,21 @@ body {
 }
 .overall .t { color: #6bb3d9; font-weight: 600; font-size: 0.85rem; margin-bottom: 4px; }
 input[type=range] { width: 100%; accent-color: #7ec8a0; }
+mark.hl {
+    background: rgba(126, 200, 160, 0.18); color: #e7e9ea; border-radius: 3px;
+    box-shadow: 0 0 0 2px rgba(126, 200, 160, 0.18); padding: 0 1px;
+}
+mark.hl.current { background: rgba(224, 196, 107, 0.28); box-shadow: 0 0 0 2px rgba(224, 196, 107, 0.4); }
+mark.hl b { color: #7ec8a0; font-weight: 700; }
+.hl-nav {
+    display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;
+    margin: 8px 0 10px; padding: 8px 10px; border-radius: 8px; background: #13201a; border: 1px solid #2f5a44;
+    color: #b0b3b8; font-size: 0.8rem;
+}
+.hl-nav .btn-sm {
+    background: #1d3a2d; color: #7ec8a0; border: 1px solid #4a9a6e; border-radius: 6px;
+    padding: 4px 10px; cursor: pointer; font-size: 0.78rem;
+}
 
 /* Modal */
 .modal-overlay {
@@ -795,6 +810,7 @@ const FEMALE = [
 // === STATE ===
 let currentStep = 0;
 let symptomCount = 1;
+let lastResults = [];   // results of the last intake match, for detail-view highlighting
 
 // === INIT ===
 function init() {
@@ -947,6 +963,7 @@ function scanRedFlags(payload) {
 function renderIntakeResults(data, redFlags = [], payload = {}) {
     const panel = document.getElementById('resultsPanel');
     panel.classList.add('active');
+    lastResults = data.results;
 
     let infoHtml = '';
     if (redFlags.length || data.urgent_warning) {
@@ -1000,6 +1017,7 @@ function renderIntakeResults(data, redFlags = [], payload = {}) {
                     <span style="color:#71767b;font-size:0.85rem;font-weight:600;margin-right:6px">#${i + 1}</span>
                     <span class="result-name" style="cursor:pointer" onclick="showDetail('${r.id}')">${esc(r.primary)}</span>
                     ${r.latin !== r.primary ? `<span class="result-latin"> ${esc(r.latin)}</span>` : ''}
+                    ${i === 0 && r.passages.length ? '<span class="badge badge-db" style="margin-left:8px">Best match</span>' : ''}
                 </div>
                 ${scoreHtml}
             </div>
@@ -1012,7 +1030,7 @@ function renderIntakeResults(data, redFlags = [], payload = {}) {
                 ${r.has_evidence ? '<span class="badge" style="background:#2d1d3a;color:#b36bd9">Evidence</span>' : ''}
             </div>
             <div class="match-bar"><div class="match-fill" style="width:${r.pct}%"></div></div>
-            ${r.verdict ? `<div class="verdict"><strong>Read in context:</strong> ${esc(r.verdict)}</div>` : ''}
+            ${r.why ? `<div class="verdict"><strong>Why this remedy${r.verdict ? ' (read in context)' : ''}:</strong> ${esc(r.why)}</div>` : ''}
             ${r.ai_reason ? `<div style="margin-top:8px;color:#b0b3b8;font-size:0.82rem;line-height:1.5"><strong style="color:#e0c46b">AI suggestion:</strong> ${esc(r.ai_reason)}</div>` : ''}
             ${shown.map(pHtml).join('')}
             ${hidden.length ? `<span class="toggle-link" onclick="this.nextElementSibling.style.display='block';this.remove()">Show ${hidden.length} more matching passage${hidden.length > 1 ? 's' : ''}</span><div style="display:none">${hidden.map(pHtml).join('')}</div>` : ''}
@@ -1055,6 +1073,9 @@ async function showDetail(id) {
     document.getElementById('modalOverlay').classList.add('active');
     document.getElementById('modalBody').innerHTML = '<div style="color:#71767b;padding:20px">Loading...</div>';
     const d = await HomeopathyDB.loadRemedyDetail(id);
+    // If this remedy came from the intake results, highlight what matched
+    const hit = (lastResults || []).find(r => r.id === id);
+    const hl = hit ? await HomeopathyDB.getHighlights(hit) : null;
     {
             if (!d || d.error) { document.getElementById('modalBody').innerHTML = '<p style="color:#ff6b6b">Not found</p>'; return; }
             const names = d.names || {};
@@ -1065,6 +1086,12 @@ async function showDetail(id) {
             const common = (names.common||[]).join(', ');
             if (common) html += `<div style="color:#8b8f94;font-size:0.82rem;margin:4px 0">Common: ${esc(common)}</div>`;
             html += `<div style="margin:8px 0">${sources.map(s=>`<span class="source-tag">${esc(s)}</span>`).join('')}</div>`;
+            if (hl) {
+                if (hl.why) html += `<div class="verdict"><strong>Why this remedy:</strong> ${esc(hl.why)}</div>`;
+                html += hl.count
+                    ? `<div class="hl-nav"><span><strong style="color:#7ec8a0">${hl.count}</strong> passage${hl.count > 1 ? 's' : ''} matching your symptoms ${hl.count > 1 ? 'are' : 'is'} highlighted below; matched words are in green.</span><button class="btn-sm" onclick="nextHighlight()">Next match &darr;</button></div>`
+                    : `<div class="hl-nav"><span>No passage in this remedy's text matched your symptoms &mdash; it was suggested from the AI's own knowledge.</span></div>`;
+            }
 
             const trad = d.traditional||{};
             const ev = d.evidence||{};
@@ -1076,17 +1103,73 @@ async function showDetail(id) {
             if (!tabs.length) tabs.push({id:'empty',label:'Info'});
 
             html += `<div class="tab-bar">${tabs.map((t,i)=>`<div class="tab ${i===0?'active':''}" onclick="switchTab('${t.id}')" data-tab="${t.id}">${t.label}</div>`).join('')}</div>`;
-            if (hasTrad) html += `<div class="tab-content ${tabs[0].id==='trad'?'active':''}" id="tab-trad">${renderBlock(trad)}</div>`;
-            if (hasEv) html += `<div class="tab-content ${!hasTrad?'active':''}" id="tab-ev">${renderBlock(ev)}</div>`;
+            if (hasTrad) html += `<div class="tab-content ${tabs[0].id==='trad'?'active':''}" id="tab-trad">${renderBlock(trad, hl)}</div>`;
+            if (hasEv) html += `<div class="tab-content ${!hasTrad?'active':''}" id="tab-ev">${renderBlock(ev, hl)}</div>`;
             if (!hasTrad&&!hasEv) html += `<div class="tab-content active" id="tab-empty"><p style="color:#71767b">No details.</p></div>`;
             document.getElementById('modalBody').innerHTML = html;
+            hlIndex = -1;
+            if (hl && hl.count) setTimeout(nextHighlight, 50);
     }
+}
+
+// Cycle through the highlighted passages in the open detail view
+let hlIndex = -1;
+function nextHighlight() {
+    const marks = [...document.querySelectorAll('#modalBody mark.hl')];
+    if (!marks.length) return;
+    marks.forEach(m => m.classList.remove('current'));
+    // First jump goes to the strongest match (lowest rank), then onward in reading order
+    if (hlIndex === -1) {
+        let best = 0;
+        marks.forEach((m, i) => { if (+m.dataset.rank < +marks[best].dataset.rank) best = i; });
+        hlIndex = best;
+    } else {
+        hlIndex = (hlIndex + 1) % marks.length;
+    }
+    const m = marks[hlIndex];
+    const tab = m.closest('.tab-content');
+    if (tab && !tab.classList.contains('active')) switchTab(tab.id.replace('tab-', ''));
+    const first = !document.querySelector('#modalBody mark.hl.current');
+    m.classList.add('current');
+    // The overlay is the scroll container; an instant jump is reliable right after render
+    m.scrollIntoView({ behavior: first ? 'auto' : 'smooth', block: 'center' });
+}
+
+// Highlight matched passages inside a text; words that matched a search term are bold
+function renderText(text, src, hl) {
+    const norm = String(text).replace(/\s+/g, ' ');
+    const spans = [];   // [start, end, rank] — rank 0 is the strongest passage
+    if (hl) hl.passages.forEach((p, rank) => {
+        const idx = norm.indexOf(p);
+        if (idx >= 0) spans.push([idx, idx + p.length, rank]);
+    });
+    spans.sort((a, b) => a[0] - b[0]);
+    const merged = [];
+    for (const s of spans) {
+        const last = merged[merged.length - 1];
+        if (last && s[0] <= last[1]) { last[1] = Math.max(last[1], s[1]); last[2] = Math.min(last[2], s[2]); }
+        else merged.push([...s]);
+    }
+    const limit = merged.length ? norm.length : 3000;   // never truncate a text that has a match
+    let out = '', pos = 0;
+    for (const [a, b, rank] of merged) {
+        out += esc(norm.slice(pos, a)) + `<mark class="hl" data-rank="${rank}">${boldTerms(norm.slice(a, b), hl.terms)}</mark>`;
+        pos = b;
+    }
+    out += esc(norm.slice(pos, limit)) + (norm.length > limit ? ' …' : '');
+    return `<div class="section-text">${out}${src ? ` <span style="color:#6bb3d9;font-size:0.72rem">[${esc(src)}]</span>` : ''}</div>`;
+}
+function boldTerms(s, terms) {
+    const safe = esc(s);
+    if (!terms || !terms.size) return safe;
+    return safe.replace(/[A-Za-zÀ-ɏ]{3,}/g, w =>
+        terms.has(HomeopathyDB.stemWord(HomeopathyDB.foldText(w))) ? `<b>${w}</b>` : w);
 }
 function closeModal() { document.getElementById('modalOverlay').classList.remove('active'); }
 document.getElementById('modalOverlay').addEventListener('click', e => { if(e.target===document.getElementById('modalOverlay')) closeModal(); });
 document.addEventListener('keydown', e => { if(e.key==='Escape') closeModal(); });
 
-function renderBlock(block) {
+function renderBlock(block, hl = null) {
     let html = '';
     for (const [key,val] of Object.entries(block)) {
         const label = key.replace(/_/g,' ').replace(/\b\w/g,c=>c.toUpperCase());
@@ -1095,16 +1178,16 @@ function renderBlock(block) {
             val.forEach(item => {
                 if (typeof item==='object'&&item.text) {
                     const src=item.source_id||item.source||'';
-                    html += `<div class="section-text">${esc(item.text.substring(0,3000))}${src?` <span style="color:#6bb3d9;font-size:0.72rem">[${esc(src)}]</span>`:''}</div>`;
+                    html += renderText(item.text, src, hl);
                 } else if (typeof item==='object'&&item.section) {
                     html += `<div style="color:#d9a86b;font-size:0.8rem;margin-top:6px">${esc(item.section)}</div>`;
-                    if(item.text) html += `<div class="section-text">${esc(item.text.substring(0,3000))}</div>`;
-                } else if (typeof item==='string') html += `<div class="section-text">${esc(item)}</div>`;
+                    if(item.text) html += renderText(item.text, '', hl);
+                } else if (typeof item==='string') html += renderText(item, '', hl);
             });
         } else if (typeof val==='string'&&val.length>5) {
-            html += `<h4>${esc(label)}</h4><div class="section-text">${esc(val.substring(0,3000))}</div>`;
+            html += `<h4>${esc(label)}</h4>${renderText(val, '', hl)}`;
         } else if (typeof val==='object'&&!Array.isArray(val)) {
-            html += `<h4>${esc(label)}</h4>${renderBlock(val)}`;
+            html += `<h4>${esc(label)}</h4>${renderBlock(val, hl)}`;
         }
     }
     return html;

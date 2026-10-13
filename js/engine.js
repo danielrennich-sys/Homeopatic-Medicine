@@ -814,10 +814,10 @@ async function intakeMatch(payload, onStatus = () => {}) {
         const bonus = tokenize((g.bonus_terms || []).join(' '));
         const weight = Math.min(5, Math.max(0.5, parseFloat(g.weight) || 2));
         const res = required.length ? await searchGroup(required, bonus) : null;
-        return { label: g.label || required.join(' + '), weight, res };
+        return { label: g.label || required.join(' + '), weight, res, required, bonus };
     }));
 
-    const scores = new Map(), labels = new Map(), passByRem = new Map();
+    const scores = new Map(), labels = new Map(), passByRem = new Map(), termsByRem = new Map();
     for (const g of groupResults) {
         if (!g.res || !g.res.globalBest) continue;
         for (const [ri, r] of g.res.byRemedy) {
@@ -825,9 +825,11 @@ async function intakeMatch(payload, onStatus = () => {}) {
             scores.set(ri, (scores.get(ri) || 0) + s);
             if (!labels.has(ri)) labels.set(ri, []);
             labels.get(ri).push(g.label);
+            if (!termsByRem.has(ri)) termsByRem.set(ri, new Set());
+            for (const t of [...g.required, ...g.bonus]) termsByRem.get(ri).add(t);
             if (!passByRem.has(ri)) passByRem.set(ri, []);
             // rel = how good this passage is for its group, scaled by how much the group matters
-            for (const p of r.top.slice(0, 2)) passByRem.get(ri).push({ ...p, rel: g.weight * p.score / g.res.globalBest, group: g.label });
+            for (const p of r.top) passByRem.get(ri).push({ ...p, rel: g.weight * p.score / g.res.globalBest, group: g.label });
         }
     }
     const groupsUsed = groupResults.filter(g => g.res && g.res.globalBest).length;
@@ -868,9 +870,12 @@ async function intakeMatch(payload, onStatus = () => {}) {
             pct: Math.round((score / maxScore) * 100),
             ai_suggested: aiSuggested.has(ri),
             ai_reason: aiReasons.get(ri) || '',
-            fit: null, verdict: '',
+            fit: null, verdict: '', why: '',
             matched_keywords: [...new Set(labels.get(ri) || [])].slice(0, 20),
             passages,
+            // every passage that matched, for highlighting in the detail view
+            hit_pids: [...new Set((passByRem.get(ri) || []).sort((a, b) => b.rel - a.rel).map(p => p.pid))].slice(0, 30),
+            terms: [...(termsByRem.get(ri) || [])],
         };
     }));
 
@@ -907,6 +912,20 @@ async function intakeMatch(payload, onStatus = () => {}) {
         }
     }
 
+    // A short "why" for every result: the AI's contextual verdict when we have
+    // one, otherwise a plain statement of what matched and where.
+    for (const r of results) {
+        if (r.verdict) { r.why = r.verdict; continue; }
+        const n = r.matched_keywords.length;
+        const srcs = [...new Set(r.passages.map(p => p.source).filter(Boolean))].slice(0, 3);
+        if (n) {
+            r.why = `Matched ${n} of your symptom group${n > 1 ? 's' : ''} (${r.matched_keywords.slice(0, 3).join('; ')}${n > 3 ? '; …' : ''})` +
+                (srcs.length ? `, with the closest passages in ${srcs.join(', ')}.` : '.');
+        } else if (r.ai_reason) {
+            r.why = 'Suggested by the AI from its own knowledge; nothing in the source texts matched your symptoms.';
+        }
+    }
+
     return {
         mode,
         ai_failed: Settings.hasAI && !plan,
@@ -922,6 +941,19 @@ async function intakeMatch(payload, onStatus = () => {}) {
 }
 
 
+/** Everything the detail view needs to highlight why a result matched. */
+async function getHighlights(result) {
+    const pids = (result && result.hit_pids) || [];
+    const passages = (await Promise.all(pids.map(passageText))).filter(Boolean);
+    return {
+        passages: passages.map(p => p.text),
+        terms: new Set(result.terms || []),
+        why: result.why || '',
+        count: passages.length,
+    };
+}
+
+
 // ============================================================
 // EXPORTS (for use in HTML pages)
 // ============================================================
@@ -932,8 +964,11 @@ window.HomeopathyDB = {
     keywordSearch,
     loadRemedyDetail,
     getSafetyNotes,
+    getHighlights,
     intakeMatch,
     tokenize,
+    stemWord,
+    foldText,
     get ready() { return dataReady; },
     get passagesReady() { return Passages.ready; },
     get remedyCount() { return Passages.ready ? Passages.meta.remedies.length : searchIndex.length; },
